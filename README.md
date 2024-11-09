@@ -1,1 +1,2 @@
-Site vitrine de l'application Jynx
+
+🚧 Bientôt le site vitrine de l'application Jynx 🚧
