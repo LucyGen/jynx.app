@@ -1,0 +1,137 @@
+{
+    "meta": {
+        "title": "Gaming Team App - Level Up Your Gaming Experience",
+        "description": "Transform your gaming experience with our team management app. Schedule matches, track stats, and coordinate with your team seamlessly."
+    },
+    "nav": {
+        "home": "Home",
+        "features": "Features",
+        "solution": "Solution",
+        "pricing": "Pricing",
+        "contact": "Contact"
+    },
+    "header": {
+        "cta": "Get Started",
+        "login": "Login"
+    },
+    "hero": {
+        "title": "Level Up Your Gaming Team",
+        "subtitle": "Coordinate, Compete, Conquer",
+        "description": "The ultimate team management app designed specifically for competitive gamers. Schedule matches, track performance, and dominate the competition together.",
+        "cta_primary": "Start Free Trial",
+        "cta_secondary": "Watch Demo",
+        "stats": {
+            "users": "Active Teams",
+            "matches": "Matches Coordinated",
+            "countries": "Countries"
+        }
+    },
+    "features": {
+        "title": "Features That Set Us Apart",
+        "subtitle": "Everything you need to manage your gaming team",
+        "cards": {
+            "scheduling": {
+                "title": "Smart Scheduling",
+                "description": "AI-powered scheduling that considers time zones and player availability"
+            },
+            "stats": {
+                "title": "Performance Analytics",
+                "description": "Detailed stats tracking and performance insights for continuous improvement"
+            },
+            "communication": {
+                "title": "Team Communication",
+                "description": "Integrated chat and voice channels for seamless team coordination"
+            },
+            "strategy": {
+                "title": "Strategy Board",
+                "description": "Interactive tools for planning and sharing game strategies"
+            }
+        }
+    },
+    "problem": {
+        "title": "The Challenge",
+        "description": "Managing a competitive gaming team shouldn't feel like a full-time job. Coordinating schedules, tracking performance, and maintaining team communication across time zones can be overwhelming."
+    },
+    "solution": {
+        "title": "Our Solution",
+        "description": "We've created an all-in-one platform that streamlines team management, letting you focus on what matters most - winning games and having fun.",
+        "benefits": {
+            "time": "Save 10+ hours per week on team management",
+            "coordination": "Reduce scheduling conflicts by 90%",
+            "performance": "Improve team performance with data-driven insights"
+        }
+    },
+    "cta": {
+        "title": "Ready to Transform Your Team?",
+        "subtitle": "Join thousands of teams already using our platform",
+        "button": "Start Free Trial",
+        "note": "No credit card required | 14-day free trial"
+    },
+    "form": {
+        "email": {
+            "label": "Email Address",
+            "placeholder": "Enter your email",
+            "error": "Please enter a valid email address"
+        },
+        "team_name": {
+            "label": "Team Name",
+            "placeholder": "Enter your team name",
+            "error": "Team name is required"
+        },
+        "submit": "Get Started",
+        "success": "Thanks for signing up! Check your email for next steps.",
+        "error": "Oops! Something went wrong. Please try again."
+    },
+    "feedback": {
+        "title": "Was this helpful?",
+        "yes": "Yes",
+        "no": "No",
+        "textarea": "Tell us how we can improve",
+        "submit": "Submit Feedback",
+        "thanks": "Thanks for your feedback!"
+    },
+    "footer": {
+        "company": {
+            "title": "Company",
+            "about": "About Us",
+            "careers": "Careers",
+            "press": "Press"
+        },
+        "resources": {
+            "title": "Resources",
+            "docs": "Documentation",
+            "blog": "Blog",
+            "support": "Support"
+        },
+        "legal": {
+            "title": "Legal",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service",
+            "cookies": "Cookie Policy"
+        },
+        "social": {
+            "follow": "Follow Us",
+            "twitter": "Twitter",
+            "discord": "Discord",
+            "youtube": "YouTube"
+        },
+        "copyright": "© 2024 Gaming Team App. All rights reserved.",
+        "language": "Language"
+    },
+    "errors": {
+        "generic": "Something went wrong. Please try again.",
+        "network": "Network error. Please check your connection.",
+        "validation": "Please check your input and try again.",
+        "not_found": "Page not found.",
+        "server": "Server error. Please try again later."
+    },
+    "accessibility": {
+        "skip_to_content": "Skip to main content",
+        "menu_toggle": "Toggle navigation menu",
+        "theme_toggle": "Toggle dark mode",
+        "language_selector": "Select language",
+        "close_modal": "Close modal",
+        "play_video": "Play video",
+        "pause_video": "Pause video"
+    }
+}
