@@ -4,10 +4,10 @@ class I18nManager {
     constructor() {
         this.currentLocale = localStorage.getItem('userLocale') || 
                             navigator.language.split('-')[0] || 
-                            'en';
+                            'fr';
         this.translations = {};
         this.observers = new Set();
-        this.defaultLocale = 'en';
+        this.defaultLocale = 'fr';
     }
 
     /**
