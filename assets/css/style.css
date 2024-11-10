@@ -89,6 +89,12 @@ p {
   background-color: var(--color-background);
   border-bottom: 1px solid var(--color-border);
   width: 100%;
+  transform: translateY(0);
+  transition: transform 0.3s ease;
+}
+
+.header-hidden {
+  transform: translateY(-100%);
 }
 
 .nav-container {
@@ -340,13 +346,14 @@ p {
   gap: var(--spacing-8);
 }
 
-/* Feature card styles - assuming they'll be added dynamically */
 .feature-card {
   background-color: var(--color-background);
   border-radius: var(--border-radius-lg);
   padding: var(--spacing-6);
   box-shadow: var(--shadow-md);
   transition: transform var(--transition-base);
+  display: flex;
+  flex-direction: column;
 }
 
 .feature-card:hover {
@@ -356,16 +363,37 @@ p {
 .feature-card-icon {
   color: var(--color-primary);
   margin-bottom: var(--spacing-4);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.feature-card-icon svg {
+  width: 32px;
+  height: 32px;
+}
+
+/* Override the w-8 h-8 classes that might be conflicting */
+.feature-card-icon .w-8 {
+  width: 32px;
+}
+
+.feature-card-icon .h-8 {
+  height: 32px;
 }
 
 .feature-card h3 {
   margin-bottom: var(--spacing-3);
   font-size: var(--font-size-xl);
+  color: var(--color-text);
 }
 
 .feature-card p {
   color: var(--color-text-secondary);
   line-height: var(--line-height-relaxed);
+  margin: 0;
 }
 
 @media (max-width: 768px) {
@@ -838,4 +866,27 @@ p {
 
 .mt-auto {
   margin-top: auto;
+}
+
+.animate-on-scroll {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.animated {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-on-scroll {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+
+  .header {
+    transition: none;
+  }
 }

@@ -1,104 +1,104 @@
 {
-    "meta": {
-      "title": "Application de Gestion d'Équipe Gaming | Jynx",
-      "description": "Transformez votre expérience de jeu avec notre application de gestion d'équipe. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité."
-    },
-    "nav": {
-      "home": "Accueil",
-      "features": "Fonctionnalités",
-      "solution": "Solution",
-      "cta": "Feedback"
-    },
-    "header": {
-      "cta": "Obtenir Jynx maintenant"
-    },
-    "hero": {
-      "title": "Grimper les rangs avec Jynx",
-      "subtitle": "Trouvez des coéquipiers, planifiez des sessions, ne perdez plus de temps pour la victoire",
-      "description": "L'application ultime de gestion d'équipe conçue spécifiquement pour les joueurs compétitifs. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité.",
-      "cta_primary": "TBD"
-    },
-    "features": {
-      "title": "Jynx",
-      "subtitle": "Tout ce dont vous avez besoin pour optimiser vos sessions de jeu",
-      "cards": {
-        "scheduling": {
-          "title": "Planification Intelligente",
-          "description": "Planification alimentée par l'IA qui se concentre sur vos besoins et préférences"
-        },
-        "finder": {
-          "title": "Recherche de Joueurs Style Tinder",
-          "description": "Trouvez les coéquipiers qui correspondent à votre style de jeu et vos préférences"
-        },
-        "communication": {
-          "title": "Chat Global",
-          "description": "Discutez avec vos communautés. Demandez des joueurs vérifiés quand vous en avez besoin"
-        }
+  "meta": {
+    "title": "Application de Gestion d'Équipe Gaming | Jynx",
+    "description": "Transformez votre expérience de jeu avec notre application de gestion d'équipe. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité."
+  },
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "solution": "Solution",
+    "cta": "Feedback"
+  },
+  "header": {
+    "cta": "Obtenir Jynx maintenant"
+  },
+  "hero": {
+    "title": "Grimper les rangs avec Jynx",
+    "subtitle": "Trouvez des coéquipiers, planifiez des sessions, ne perdez plus de temps pour la victoire",
+    "description": "L'application ultime de gestion d'équipe conçue spécifiquement pour les joueurs compétitifs. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité.",
+    "cta_primary": "TBD"
+  },
+  "features": {
+    "title": "Jynx",
+    "subtitle": "Tout ce dont vous avez besoin pour optimiser vos sessions de jeu",
+    "cards": {
+      "scheduling": {
+        "title": "Planification Intelligente",
+        "description": "Planification alimentée par l'IA qui se concentre sur vos besoins et préférences"
+      },
+      "finder": {
+        "title": "Recherche de Joueurs Style Tinder",
+        "description": "Trouvez les coéquipiers qui correspondent à votre style de jeu et vos préférences"
+      },
+      "communication": {
+        "title": "Chat Global",
+        "description": "Discutez avec vos communautés. Demandez des joueurs vérifiés quand vous en avez besoin"
       }
-    },
-    "problem": {
-      "title": "Le Défi",
-      "description": "Jouer à un jeu d'équipe compétitif ne devrait pas ressembler à un travail à temps plein. Chercher des coéquipiers qui correspondent à vos besoins spécifiques et les vérifier est fastidieux."
-    },
-    "solution": {
-      "title": "Découvrez : Jynx",
-      "description": "En réutilisant des systèmes simples mais éprouvés, notre plateforme vous permet de rationaliser efficacement la constitution d'équipe, vous permettant de vous concentrer sur l'essentiel - gagner des parties et s'amuser.",
-      "benefits": {
-        "scheduling": "Exploitez l'IA lorsque vous êtes occupé pour planifier vos sessions de jeu à votre place",
-        "time": "Gagnez du temps à trouver des coéquipiers",
-        "playstyle": "Trouvez des joueurs qui correspondent à votre style de jeu spécifique"
-      }
-    },
-    "cta": {
-      "title": "Prêt à Transformer Votre Équipe ?",
-      "subtitle": "Rejoignez des milliers de joueurs et d'équipes qui utilisent déjà notre plateforme",
-      "button": "Obtenir Jynx",
-      "note": "Gratuit pour toujours"
-    },
-    "form": {
-      "email": {
-        "label": "Adresse Email",
-        "placeholder": "Entrez votre email",
-        "error": "Veuillez entrer une adresse email valide"
-      },
-      "submit": "Commencer",
-      "success": "Merci de vous être inscrit ! Consultez votre email pour les prochaines étapes.",
-      "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer."
-    },
-    "feedback": {
-      "title": "Était-ce utile ?",
-      "yes": "Oui",
-      "no": "Non",
-      "textarea": "Dites-nous comment nous pouvons nous améliorer",
-      "submit": "Envoyer le Feedback",
-      "thanks": "Merci pour votre feedback !"
-    },
-    "footer": {
-      "company": {
-        "title": "Entreprise",
-        "about": "À Propos"
-      },
-      "legal": {
-        "title": "Mentions Légales",
-        "privacy": "Politique de Confidentialité",
-        "terms": "Conditions d'Utilisation",
-        "cookies": "Politique des Cookies"
-      },
-      "copyright": "© 2024 Jynx. Tous droits réservés.",
-      "language": "Langue"
-    },
-    "errors": {
-      "generic": "Une erreur est survenue. Veuillez réessayer.",
-      "network": "Erreur réseau. Veuillez vérifier votre connexion.",
-      "validation": "Veuillez vérifier vos informations et réessayer.",
-      "not_found": "Page non trouvée.",
-      "server": "Erreur serveur. Veuillez réessayer plus tard."
-    },
-    "accessibility": {
-      "skip_to_content": "Passer au contenu principal",
-      "menu_toggle": "Basculer le menu de navigation",
-      "theme_toggle": "Basculer le mode sombre",
-      "language_selector": "Sélectionner la langue",
-      "close_modal": "Fermer la fenêtre"
     }
+  },
+  "problem": {
+    "title": "Le Défi",
+    "description": "Jouer à un jeu d'équipe compétitif ne devrait pas ressembler à un travail à temps plein. Chercher des coéquipiers qui correspondent à vos besoins spécifiques et les vérifier est fastidieux."
+  },
+  "solution": {
+    "title": "Découvrez : Jynx",
+    "description": "En réutilisant des systèmes simples mais éprouvés, notre plateforme vous permet de rationaliser efficacement la constitution d'équipe, vous permettant de vous concentrer sur l'essentiel - gagner des parties et s'amuser.",
+    "benefits": {
+      "scheduling": "Exploitez l'IA lorsque vous êtes occupé pour planifier vos sessions de jeu à votre place",
+      "time": "Gagnez du temps à trouver des coéquipiers",
+      "playstyle": "Trouvez des joueurs qui correspondent à votre style de jeu spécifique"
+    }
+  },
+  "cta": {
+    "title": "Prêt à Transformer Votre Équipe ?",
+    "subtitle": "Rejoignez des milliers de joueurs et d'équipes qui utilisent déjà notre plateforme",
+    "button": "Obtenir Jynx",
+    "note": "Gratuit pour toujours"
+  },
+  "form": {
+    "email": {
+      "label": "Adresse Email",
+      "placeholder": "Entrez votre email",
+      "error": "Veuillez entrer une adresse email valide"
+    },
+    "submit": "Commencer",
+    "success": "Merci de vous être inscrit ! Consultez votre email pour les prochaines étapes.",
+    "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer."
+  },
+  "feedback": {
+    "title": "Était-ce utile ?",
+    "yes": "Oui",
+    "no": "Non",
+    "textarea": "Dites-nous comment nous pouvons nous améliorer",
+    "submit": "Envoyer le Feedback",
+    "thanks": "Merci pour votre feedback !"
+  },
+  "footer": {
+    "company": {
+      "title": "Entreprise",
+      "about": "À Propos"
+    },
+    "legal": {
+      "title": "Mentions Légales",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "cookies": "Politique des Cookies"
+    },
+    "copyright": "© 2024 Jynx. Tous droits réservés.",
+    "language": "Langue"
+  },
+  "errors": {
+    "generic": "Une erreur est survenue. Veuillez réessayer.",
+    "network": "Erreur réseau. Veuillez vérifier votre connexion.",
+    "validation": "Veuillez vérifier vos informations et réessayer.",
+    "not_found": "Page non trouvée.",
+    "server": "Erreur serveur. Veuillez réessayer plus tard."
+  },
+  "accessibility": {
+    "skip_to_content": "Passer au contenu principal",
+    "menu_toggle": "Basculer le menu de navigation",
+    "theme_toggle": "Basculer le mode sombre",
+    "language_selector": "Sélectionner la langue",
+    "close_modal": "Fermer la fenêtre"
   }
+}

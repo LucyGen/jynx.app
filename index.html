@@ -8,10 +8,13 @@
       data-i18n="meta.description"
       content="Transformez votre expérience de jeu avec notre application de gestion d'équipe. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité."
     />
+    <meta name="robots" content="noindex,nofollow" />
 
     <title data-i18n="meta.title">
       Application de Gestion d'Équipe Gaming | Jynx
     </title>
+
+    <link rel="canonical" href="https://jynx.app" />
 
     <!-- Favicon -->
     <link
@@ -32,7 +35,7 @@
     />
 
     <!-- Preload Critical Resources -->
-    <link rel="stylesheet" href="https://use.typekit.net/gqc3zyl.css">
+    <link rel="stylesheet" href="https://use.typekit.net/gqc3zyl.css" />
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="assets/css/normalize.css" />
@@ -63,37 +66,7 @@
       <div id="features-component"></div>
       <div id="problem-solution-component"></div>
       <div id="cta-component"></div>
-
-      <!-- Feedback section -->
-      <section class="feedback-section">
-        <h2 data-i18n="feedback.title">Était-ce utile ?</h2>
-        <div class="feedback-buttons">
-          <button
-            class="btn btn-ghost"
-            data-feedback="yes"
-            data-i18n="feedback.yes"
-          >
-            Oui
-          </button>
-          <button
-            class="btn btn-ghost"
-            data-feedback="no"
-            data-i18n="feedback.no"
-          >
-            Non
-          </button>
-        </div>
-        <form id="feedback-form" class="feedback-form hidden">
-          <textarea data-i18n-placeholder="feedback.textarea"></textarea>
-          <button
-            type="submit"
-            class="btn btn-primary"
-            data-i18n="feedback.submit"
-          >
-            Envoyer le Feedback
-          </button>
-        </form>
-      </section>
+      <div id="feedback-component"></div>
     </main>
 
     <!-- Footer component will be injected here -->
@@ -123,6 +96,7 @@
           "problem-solution-component": "components/problem-solution.html",
           "cta-component": "components/cta.html",
           "footer-component": "components/footer.html",
+          "feedback-component": "components/feedback.html",
         };
 
         // Load components in parallel
@@ -141,13 +115,14 @@
     </script>
 
     <!-- Main Scripts -->
-    <script type="module" src="assets/js/i18n.js"></script>
-    <script type="module" src="assets/js/main.js"></script>
     <script type="module" src="assets/js/analytics.js"></script>
+    <script type="module" src="assets/js/main.js" defer></script>
 
     <!-- Error Boundary -->
     <div id="error-boundary" class="error-boundary hidden" role="alert">
-      <p data-i18n="errors.generic">Une erreur est survenue. Veuillez réessayer.</p>
+      <p data-i18n="errors.generic">
+        Une erreur est survenue. Veuillez réessayer.
+      </p>
     </div>
   </body>
 </html>
