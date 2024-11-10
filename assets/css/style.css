@@ -42,6 +42,17 @@ p {
   color: var(--color-text-secondary);
 }
 
+/* Logo */
+.logo {
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-heading);
+  font-weight: 700;
+}
+/* 
+.logo {
+  flex-shrink: 0;
+} */
+
 /* Buttons */
 .btn {
   display: inline-flex;
@@ -105,10 +116,6 @@ p {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
-
-.logo {
-  flex-shrink: 0;
 }
 
 /* Primary Navigation */
