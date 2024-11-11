@@ -9,14 +9,12 @@
     "solution": "Solution",
     "cta": "Feedback"
   },
-  "header": {
-    "cta": "Get Jynx now"
-  },
+  "header": { "cta": "Get Jynx now" },
   "hero": {
     "title": "Climb the ladder with Jynx",
     "subtitle": "Find teammates, schedule sessions, waste no time to victory",
     "description": "The ultimate team management app designed specifically for competitive gamers. Find teammates, communities, and coordinate with players seamlessly.",
-    "cta_primary": "TBD"
+    "cta_primary": "Get Jynx"
   },
   "features": {
     "title": "Jynx",
@@ -50,8 +48,8 @@
     }
   },
   "cta": {
-    "title": "Ready to Transform Your Team?",
-    "subtitle": "Join thousands of players and teams already using our platform",
+    "title": "Get notified on release",
+    "subtitle": "No span. We will only contact you for Jynx release.",
     "button": "Get Jynx",
     "note": "Free forever"
   },
@@ -66,7 +64,7 @@
     "error": "Oops! Something went wrong. Please try again."
   },
   "feedback": {
-    "title": "Was this helpful?",
+    "title": "Give your feedback",
     "yes": "Yes",
     "no": "No",
     "textarea": "Tell us how we can improve",
@@ -74,10 +72,7 @@
     "thanks": "Thanks for your feedback!"
   },
   "footer": {
-    "company": {
-      "title": "Company",
-      "about": "About Us"
-    },
+    "company": { "title": "Company", "about": "About Us" },
     "legal": {
       "title": "Legal",
       "privacy": "Privacy Policy",

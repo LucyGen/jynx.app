@@ -7,16 +7,14 @@
     "home": "Accueil",
     "features": "Fonctionnalités",
     "solution": "Solution",
-    "cta": "Feedback"
+    "feedback-section": "Feedback"
   },
-  "header": {
-    "cta": "Obtenir Jynx maintenant"
-  },
+  "header": { "cta": "Obtenir Jynx maintenant" },
   "hero": {
     "title": "Grimper les rangs avec Jynx",
     "subtitle": "Trouvez des coéquipiers, planifiez des sessions, ne perdez plus de temps pour la victoire",
     "description": "L'application ultime de gestion d'équipe conçue spécifiquement pour les joueurs compétitifs. Trouvez des coéquipiers, des communautés et coordonnez-vous avec les joueurs en toute simplicité.",
-    "cta_primary": "TBD"
+    "cta_primary": "Obtenir Jynx"
   },
   "features": {
     "title": "Jynx",
@@ -50,8 +48,8 @@
     }
   },
   "cta": {
-    "title": "Prêt à Transformer Votre Équipe ?",
-    "subtitle": "Rejoignez des milliers de joueurs et d'équipes qui utilisent déjà notre plateforme",
+    "title": "Être prévenu de la sortie",
+    "subtitle": "Pas de spam. Nous vous contacterons seulement pour vous informer de la sortie de Jynx.",
     "button": "Obtenir Jynx",
     "note": "Gratuit pour toujours"
   },
@@ -66,7 +64,7 @@
     "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer."
   },
   "feedback": {
-    "title": "Était-ce utile ?",
+    "title": "Donne ton avis",
     "yes": "Oui",
     "no": "Non",
     "textarea": "Dites-nous comment nous pouvons nous améliorer",
@@ -74,10 +72,7 @@
     "thanks": "Merci pour votre feedback !"
   },
   "footer": {
-    "company": {
-      "title": "Entreprise",
-      "about": "À Propos"
-    },
+    "company": { "title": "Entreprise", "about": "À Propos" },
     "legal": {
       "title": "Mentions Légales",
       "privacy": "Politique de Confidentialité",
