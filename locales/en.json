@@ -1,13 +1,13 @@
 {
   "meta": {
-    "title": "Gaming Team App | Jynx",
+    "title": "Jynx | Waste no time to win",
     "description": "Transform your gaming experience with our team management app. Find teammates, communities, and coordinate with players seamlessly."
   },
   "nav": {
     "home": "Home",
     "features": "Features",
     "solution": "Solution",
-    "cta": "Feedback"
+    "feedback": "Feedback"
   },
   "header": { "cta": "Get Jynx now" },
   "hero": {
