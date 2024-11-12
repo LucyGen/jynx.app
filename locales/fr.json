@@ -7,7 +7,7 @@
     "home": "Accueil",
     "features": "Fonctionnalités",
     "solution": "Solution",
-    "feedback-section": "Feedback"
+    "feedback": "Feedback"
   },
   "header": { "cta": "Obtenir Jynx maintenant" },
   "hero": {
@@ -68,7 +68,7 @@
     "yes": "Oui",
     "no": "Non",
     "textarea": "Dites-nous comment nous pouvons nous améliorer",
-    "submit": "Envoyer le Feedback",
+    "submit": "Faire un retour",
     "thanks": "Merci pour votre feedback !"
   },
   "footer": {
