@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /locales/
-Disallow: /*.json$
-
-Sitemap: https://jynx.app/sitemap.xml
