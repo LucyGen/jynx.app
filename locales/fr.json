@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "title": "Jynx | La communauté au cœur du jeu",
+    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires."
+  },
+  "about": {
+    "meta": {
+      "title": "Jynx | À Propos",
+      "description": "En savoir plus sur Jynx, la plateforme communautaire de jeux qui transforme le jeu solo en une expérience sociale."
+    },
+    "title": "À Propos de Jynx",
+    "subtitle": "Transformer le jeu solo en expérience sociale",
+    "story": {
+      "title": "Notre Histoire",
+      "p1": "Jynx est né d'une simple question : pourquoi est-il si difficile de trouver des coéquipiers de jeu compatibles ? En tant que joueurs, nous avons connu la frustration des systèmes de matchmaking aléatoires qui ne fonctionnent pas correctement.",
+      "p2": "Nous avons imaginé une plateforme qui comprend vraiment les joueurs - une plateforme qui associe les joueurs non seulement sur la base des compétences, mais aussi sur le style de communication, les préférences de jeu et même les horaires de jeu.",
+      "p3": "Aujourd'hui, Jynx transforme la façon dont les joueurs se connectent, créant des relations de jeu significatives qui s'étendent au-delà de la partie."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "p1": "Nous croyons que le jeu est meilleur ensemble. Notre mission est de transformer le jeu en solo en expériences sociales riches en connectant intelligemment des joueurs qui se complètent vraiment.",
+      "p2": "Nous construisons un avenir où trouver votre équipe de jeu parfaite est fluide, où les communautés prospèrent autour d'intérêts communs, et où chaque session de jeu se déroule avec des personnes avec lesquelles vous aimez vraiment jouer."
+    },
+    "values": {
+      "title": "Nos Valeurs",
+      "community": "La Communauté d'Abord - Nous permettons aux joueurs de créer des connexions significatives",
+      "inclusivity": "Inclusivité - Le jeu est pour tout le monde, et Jynx aussi",
+      "innovation": "Innovation - Nous évoluons constamment en fonction des besoins des joueurs",
+      "quality": "Expérience de Qualité - Pas de compromis sur l'expérience utilisateur ou la performance"
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "description": "Nous sommes une équipe passionnée de joueurs, développeurs et bâtisseurs de communautés dédiés à transformer la façon dont les joueurs se connectent."
+    },
+    "cta": {
+      "title": "Rejoignez la Communauté Jynx",
+      "description": "Soyez les premiers à découvrir une nouvelle façon de trouver votre équipe de jeu parfaite",
+      "button": "Rejoindre la Liste d'Attente"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Jynx | Politique de Confidentialité",
+      "description": "Découvrez comment Jynx protège votre vie privée et gère vos données. Notre politique de confidentialité transparente décrit nos pratiques et vos droits."
+    },
+    "title": "Politique de Confidentialité",
+    "last_updated": "Dernière mise à jour : Février 2024",
+    "intro": {
+      "title": "Introduction",
+      "p1": "Bienvenue sur Jynx ! Nous accordons une grande importance à votre vie privée et nous nous engageons à protéger vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre site web ou notre application mobile.",
+      "p2": "En utilisant Jynx, vous acceptez la collecte et l'utilisation des informations conformément à cette politique. Nous ne collectons et n'utilisons les données personnelles que lorsque nous en avons besoin à des fins commerciales légitimes."
+    },
+    "information": {
+      "title": "Informations que Nous Collectons",
+      "p1": "Lorsque vous créez un compte Jynx ou interagissez avec nos services, nous pouvons collecter les types d'informations suivants :",
+      "personal": {
+        "title": "Informations Personnelles",
+        "email": "Adresse e-mail (pour la création de compte et les notifications)",
+        "username": "Nom d'utilisateur et nom d'affichage",
+        "language": "Préférences linguistiques",
+        "profile": "Informations de profil optionnelles que vous choisissez de fournir"
+      },
+      "usage": {
+        "title": "Informations d'Utilisation",
+        "interactions": "Données d'interaction avec d'autres utilisateurs et communautés",
+        "preferences": "Préférences de jeu et styles de jeu",
+        "activity": "Activité de session et modèles de messagerie"
+      },
+      "technical": {
+        "title": "Informations Techniques",
+        "device": "Informations sur l'appareil (type, système d'exploitation)",
+        "ip": "Adresse IP et données de localisation générale",
+        "cookies": "Cookies et technologies de suivi similaires"
+      }
+    },
+    "use": {
+      "title": "Comment Nous Utilisons Vos Informations",
+      "p1": "Nous utilisons les informations collectées à diverses fins, notamment :",
+      "account": "Pour créer et maintenir votre compte",
+      "features": "Pour fournir et améliorer nos fonctionnalités principales de matchmaking et de communauté",
+      "personalize": "Pour personnaliser votre expérience et recommander du contenu pertinent",
+      "communicate": "Pour communiquer avec vous au sujet des mises à jour et des offres de service",
+      "security": "Pour assurer la sécurité et l'intégrité de notre plateforme",
+      "legal": "Pour respecter les obligations légales"
+    },
+    "sharing": {
+      "title": "Partage d'Informations",
+      "p1": "Nous ne vendons pas vos informations personnelles à des tiers. Nous pouvons partager vos informations dans les circonstances suivantes :",
+      "service": "Avec des prestataires de services qui nous aident à exploiter notre plateforme",
+      "legal": "Lorsque la loi l'exige ou pour protéger nos droits légaux",
+      "business": "Dans le cadre d'une transaction commerciale (par exemple, fusion ou acquisition)",
+      "consent": "Avec votre consentement ou à votre demande"
+    },
+    "security": {
+      "title": "Sécurité des Données",
+      "p1": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre l'accès, la modification, la divulgation ou la destruction non autorisés.",
+      "p2": "Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos données personnelles, nous ne pouvons pas garantir leur sécurité absolue. Nous vous encourageons à utiliser des mots de passe forts et à garder les informations de votre compte en sécurité."
+    },
+    "rights": {
+      "title": "Vos Droits",
+      "p1": "Selon votre emplacement, vous pouvez avoir certains droits concernant vos données personnelles, notamment :",
+      "access": "Le droit d'accéder aux données personnelles que nous détenons à votre sujet",
+      "rectification": "Le droit de demander la correction de données inexactes",
+      "deletion": "Le droit de demander la suppression de vos données",
+      "restriction": "Le droit de restreindre le traitement de vos données",
+      "portability": "Le droit à la portabilité des données",
+      "objection": "Le droit de vous opposer au traitement de vos données",
+      "p2": "Pour exercer ces droits, veuillez nous contacter en utilisant les informations fournies à la fin de cette politique."
+    },
+    "cookies": {
+      "title": "Cookies et Technologies de Suivi",
+      "p1": "Nous utilisons des cookies et des technologies similaires pour améliorer votre expérience, analyser les modèles d'utilisation et fournir du contenu personnalisé. Vous pouvez contrôler les cookies via les paramètres de votre navigateur, mais leur désactivation peut affecter la fonctionnalité de nos services."
+    },
+    "children": {
+      "title": "Confidentialité des Enfants",
+      "p1": "Nos services ne sont pas destinés aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnelles d'enfants de moins de 13 ans. Si vous êtes un parent ou un tuteur et que vous pensez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter."
+    },
+    "changes": {
+      "title": "Modifications de Cette Politique de Confidentialité",
+      "p1": "Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique sur cette page et en mettant à jour la date de \"dernière mise à jour\". Nous vous encourageons à consulter régulièrement cette politique de confidentialité."
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "p1": "Si vous avez des questions sur cette politique de confidentialité, veuillez nous contacter à :",
+      "email": "Email : privacy@jynx.app"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Jynx | Conditions d'Utilisation",
+      "description": "Lisez les conditions d'utilisation de Jynx. Ces conditions définissent vos droits et responsabilités lors de l'utilisation de notre plateforme communautaire de jeux."
+    },
+    "title": "Conditions d'Utilisation",
+    "last_updated": "Dernière mise à jour : Février 2024",
+    "intro": {
+      "title": "Introduction",
+      "p1": "Bienvenue sur Jynx ! Ces conditions d'utilisation (\"Conditions\") régissent votre utilisation du site web et de l'application mobile Jynx (collectivement, le \"Service\") exploités par Jynx Gaming, Inc. (\"nous\", \"notre\" ou \"nos\").",
+      "p2": "En accédant ou en utilisant le Service, vous acceptez d'être lié par ces Conditions. Si vous n'êtes pas d'accord avec une partie des Conditions, vous ne pouvez pas accéder au Service."
+    },
+    "accounts": {
+      "title": "Comptes",
+      "p1": "Lorsque vous créez un compte chez nous, vous devez fournir des informations exactes, complètes et à jour. Le non-respect de cette obligation constitue une violation des Conditions, ce qui peut entraîner la résiliation immédiate de votre compte.",
+      "p2": "Vous êtes responsable de la protection du mot de passe que vous utilisez pour accéder au Service et de toutes les activités ou actions effectuées sous votre mot de passe. Nous vous encourageons à utiliser des mots de passe \"forts\" (mots de passe qui utilisent une combinaison de lettres majuscules et minuscules, de chiffres et de symboles) avec votre compte.",
+      "p3": "Vous acceptez de ne pas divulguer votre mot de passe à un tiers. Vous devez nous informer immédiatement dès que vous avez connaissance d'une violation de la sécurité ou d'une utilisation non autorisée de votre compte."
+    },
+    "conduct": {
+      "title": "Utilisation Acceptable",
+      "p1": "Vous acceptez d'utiliser le Service uniquement à des fins légales et conformément à ces Conditions. Vous acceptez de ne pas utiliser le Service :",
+      "unlawful": "D'une manière qui viole toute loi ou réglementation nationale ou internationale applicable",
+      "harmful": "Dans le but d'exploiter, de nuire ou de tenter d'exploiter ou de nuire à des mineurs de quelque façon que ce soit",
+      "impersonate": "Pour usurper l'identité ou tenter d'usurper l'identité d'une autre personne ou entité",
+      "data": "Pour vous livrer à une extraction de données, à une collecte de données ou à toute autre activité similaire",
+      "p2": "De plus, vous acceptez de ne pas :",
+      "interfere": "Utiliser le Service d'une manière qui pourrait désactiver, surcharger, endommager ou altérer le Service",
+      "security": "Utiliser un robot, une araignée ou tout autre dispositif ou processus automatique pour accéder au Service à quelque fin que ce soit",
+      "attack": "Attaquer le Service via une attaque par déni de service ou une attaque par déni de service distribué",
+      "harassment": "Vous livrer à toute forme de harcèlement, de discours haineux ou de conduite qui serait autrement préjudiciable aux autres utilisateurs",
+      "inappropriate": "Publier ou partager du contenu offensant, inapproprié ou qui viole les droits d'autrui"
+    },
+    "content": {
+      "title": "Contenu de l'Utilisateur",
+      "p1": "Notre Service vous permet de publier, de lier, de stocker, de partager et de mettre à disposition d'autres informations, textes, graphiques, vidéos ou autres matériels (\"Contenu de l'Utilisateur\"). Vous êtes responsable du Contenu de l'Utilisateur que vous publiez sur le Service, y compris sa légalité, sa fiabilité et son caractère approprié.",
+      "p2": "En publiant du Contenu de l'Utilisateur sur le Service, vous nous accordez le droit d'utiliser, de modifier, d'exécuter publiquement, d'afficher publiquement, de reproduire et de distribuer ce contenu sur et à travers le Service. Vous conservez tous vos droits sur tout Contenu d'Utilisateur que vous soumettez, publiez ou affichez sur ou via le Service et vous êtes responsable de la protection de ces droits.",
+      "p3": "Vous déclarez et garantissez que : (i) le Contenu de l'Utilisateur est le vôtre ou vous avez le droit de l'utiliser et de nous accorder les droits et la licence prévus dans ces Conditions, et (ii) la publication de votre Contenu d'Utilisateur sur ou via le Service ne viole pas les droits à la vie privée, les droits de publicité, les droits d'auteur, les droits contractuels ou tout autre droit de toute personne."
+    },
+    "intellectual": {
+      "title": "Propriété Intellectuelle",
+      "p1": "Le Service et son contenu original (à l'exclusion du Contenu de l'Utilisateur), ses fonctionnalités et sa fonctionnalité sont et resteront la propriété exclusive de Jynx Gaming, Inc. et de ses concédants de licence. Le Service est protégé par le droit d'auteur, les marques de commerce et d'autres lois des États-Unis et des pays étrangers. Nos marques de commerce et notre présentation commerciale ne peuvent pas être utilisées en relation avec un produit ou service sans le consentement écrit préalable de Jynx Gaming, Inc."
+    },
+    "termination": {
+      "title": "Résiliation",
+      "p1": "Nous pouvons résilier ou suspendre votre compte immédiatement, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris, sans limitation, si vous violez les Conditions.",
+      "p2": "En cas de résiliation, votre droit d'utiliser le Service cessera immédiatement. Si vous souhaitez résilier votre compte, vous pouvez simplement cesser d'utiliser le Service ou supprimer votre compte dans les paramètres de l'application."
+    },
+    "limitation": {
+      "title": "Limitation de Responsabilité",
+      "p1": "En aucun cas, Jynx Gaming, Inc., ni ses directeurs, employés, partenaires, agents, fournisseurs ou affiliés, ne seront responsables de tout dommage indirect, accessoire, spécial, consécutif ou punitif, y compris, sans limitation, la perte de profits, de données, d'utilisation, de clientèle, ou d'autres pertes intangibles, résultant de (i) votre accès ou utilisation ou incapacité d'accéder ou d'utiliser le Service ; (ii) toute conduite ou contenu d'un tiers sur le Service ; (iii) tout contenu obtenu du Service ; et (iv) l'accès, l'utilisation ou l'altération non autorisés de vos transmissions ou contenus, que ce soit sur la base d'une garantie, d'un contrat, d'un délit civil (y compris la négligence) ou de toute autre théorie juridique, que nous ayons été informés ou non de la possibilité de tels dommages."
+    },
+    "disclaimer": {
+      "title": "Avis de Non-Responsabilité",
+      "p1": "Votre utilisation du Service est à vos propres risques. Le Service est fourni sur une base \"TEL QUEL\" et \"TEL QUE DISPONIBLE\". Le Service est fourni sans garanties d'aucune sorte, qu'elles soient expresses ou implicites, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande, d'adéquation à un usage particulier, de non-violation ou de fonctionnement.",
+      "p2": "Jynx Gaming, Inc., ses filiales, sociétés affiliées et ses concédants de licence ne garantissent pas que a) le Service fonctionnera de manière ininterrompue, sécurisée ou disponible à un moment ou à un endroit particulier ; b) les erreurs ou défauts seront corrigés ; c) le Service est exempt de virus ou d'autres composants nuisibles ; ou d) les résultats de l'utilisation du Service répondront à vos exigences."
+    },
+    "changes": {
+      "title": "Modifications",
+      "p1": "Nous nous réservons le droit, à notre seule discrétion, de modifier ou de remplacer ces Conditions à tout moment. Si une révision est importante, nous essaierons de fournir un préavis d'au moins 30 jours avant que les nouvelles conditions ne prennent effet. Ce qui constitue un changement important sera déterminé à notre seule discrétion.",
+      "p2": "En continuant à accéder ou à utiliser notre Service après l'entrée en vigueur de ces révisions, vous acceptez d'être lié par les conditions révisées. Si vous n'acceptez pas les nouvelles conditions, veuillez cesser d'utiliser le Service."
+    },
+    "contact": {
+      "title": "Nous Contacter",
+      "p1": "Si vous avez des questions sur ces Conditions, veuillez nous contacter à :",
+      "email": "Email : terms@jynx.app"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "features": "Fonctionnalités",
+    "solution": "Solution",
+    "feedback": "Feedback"
+  },
+  "header": { "cta": "Obtenir Jynx" },
+  "hero": {
+    "title": "La communauté au cœur du jeu",
+    "subtitle": "Trouvez des coéquipiers qui correspondent à votre style, niveau et disponibilité",
+    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires.",
+    "cta_primary": "Rejoindre la Communauté"
+  },
+  "features": {
+    "title": "Jouez Mieux, Ensemble",
+    "subtitle": "Des outils de communauté intelligents conçus pour les joueurs modernes",
+    "cards": {
+      "scheduling": {
+        "title": "Matchmaking Intelligent",
+        "description": "Trouvez votre équipe de jeu parfaite en quelques secondes - des joueurs qui correspondent à votre niveau, style de jeu et disponibilité"
+      },
+      "finder": {
+        "title": "Découverte de Communautés",
+        "description": "Découvrez des communautés de jeu qui correspondent parfaitement à vos intérêts et à votre style de jeu"
+      },
+      "communication": {
+        "title": "Communication en Temps Réel",
+        "description": "Ne manquez jamais un message - le chat fonctionne parfaitement même lorsque votre connexion est instable"
+      },
+      "sessions": {
+        "title": "Sessions de Jeu",
+        "description": "Planifiez vos soirées de jeu à l'avance et ne cherchez plus jamais de coéquipiers à la dernière minute"
+      }
+    }
+  },
+  "problem": {
+    "title": "Le Défi",
+    "description": "Trouver des coéquipiers compatibles dans les jeux compétitifs est souvent frustrant et chronophage. Le matchmaking aléatoire vous connecte rarement avec des joueurs qui correspondent à votre style de communication, niveau de compétence et disponibilité."
+  },
+  "solution": {
+    "title": "Découvrez Jynx",
+    "description": "Notre plateforme intelligente vous connecte avec les compagnons de jeu parfaits en fonction de vos préférences réelles, garantissant que chaque match mène à une meilleure expérience de jeu.",
+    "benefits": {
+      "scheduling": "Planifiez des sessions de jeu qui fonctionnent avec la disponibilité de chacun",
+      "time": "Économisez des heures à chercher des coéquipiers compatibles",
+      "playstyle": "Connectez-vous avec des joueurs qui partagent votre style de communication et votre approche du jeu"
+    }
+  },
+  "cta": {
+    "title": "Être prévenu du lancement",
+    "subtitle": "Pas de spam. Nous vous contacterons uniquement lors du lancement de Jynx.",
+    "button": "Obtenir Jynx",
+    "note": "Gratuit pour toujours"
+  },
+  "form": {
+    "email": {
+      "label": "Adresse Email",
+      "placeholder": "Entrez votre email",
+      "error": "Veuillez entrer une adresse email valide"
+    },
+    "submit": "Rejoindre la liste d'attente",
+    "success": "Vous êtes inscrit ! Nous vous préviendrons lors du lancement de Jynx.",
+    "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer."
+  },
+  "feedback": {
+    "title": "Donnez votre avis",
+    "yes": "Oui",
+    "no": "Non",
+    "textarea": "Dites-nous comment nous pouvons améliorer Jynx",
+    "submit": "Envoyer le feedback",
+    "thanks": "Merci pour votre feedback !"
+  },
+  "footer": {
+    "company": { "title": "Entreprise", "about": "À Propos" },
+    "legal": {
+      "title": "Mentions Légales",
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "cookies": "Politique des Cookies"
+    },
+    "copyright": "© 2024 Jynx. Tous droits réservés.",
+    "language": "Langue"
+  },
+  "errors": {
+    "generic": "Une erreur est survenue. Veuillez réessayer.",
+    "network": "Erreur réseau. Veuillez vérifier votre connexion.",
+    "validation": "Veuillez vérifier vos informations et réessayer.",
+    "not_found": "Page non trouvée.",
+    "server": "Erreur serveur. Veuillez réessayer plus tard."
+  },
+  "accessibility": {
+    "skip_to_content": "Passer au contenu principal",
+    "menu_toggle": "Basculer le menu de navigation",
+    "theme_toggle": "Basculer le mode sombre",
+    "language_selector": "Sélectionner la langue",
+    "close_modal": "Fermer la fenêtre"
+  }
+}
