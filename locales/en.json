@@ -304,5 +304,12 @@
     "theme_toggle": "Toggle dark mode",
     "language_selector": "Select language",
     "close_modal": "Close modal"
+  },
+  "theme-feedback": {
+    "submit": "Submit Feedback",
+    "title": "What colors do you like?",
+    "description": "Click a theme tile to apply it. Check the \"Like\" boxes of your favorite themes to submit your preferences.",
+    "thanks": "Thanks for your theme feedback!",
+    "current_theme": "Current theme:"
   }
 }

@@ -288,5 +288,12 @@
     "theme_toggle": "Basculer le mode sombre",
     "language_selector": "Sélectionner la langue",
     "close_modal": "Fermer la fenêtre"
+  },
+  "theme-feedback": {
+    "submit": "Envoyer",
+    "title": "Quelles couleurs préférez-vous ?",
+    "description": "Cliquez sur une tuile pour appliquer le thème. Cochez les cases \"J'aime\" de vos thèmes préférés pour soumettre vos préférences.",
+    "thanks": "Merci pour votre avis sur les couleurs !",
+    "current_theme": "Thème actuel :"
   }
 }
