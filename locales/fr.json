@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Jynx | La communauté au cœur du jeu",
-    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires."
+    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires"
   },
   "about": {
     "meta": {
@@ -194,24 +194,24 @@
   },
   "nav": {
     "home": "Accueil",
-    "features": "Fonctionnalités",
     "solution": "Solution",
     "feedback": "Feedback"
   },
   "header": { "cta": "Obtenir Jynx" },
   "hero": {
-    "title": "La communauté au cœur du jeu",
-    "subtitle": "Trouvez des coéquipiers qui correspondent à votre style, niveau et disponibilité",
-    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires.",
-    "cta_primary": "Rejoindre la Communauté"
+    "title": "Where Gaming Gets Social",
+    "subtitle": "Trouve des coéquipiers qui correspondent à votre style, niveau et disponibilité",
+    "description": "",
+    "cta_primary": "Rejoins ta Communauté"
   },
   "features": {
     "title": "Jouez Mieux, Ensemble",
     "subtitle": "Des outils de communauté intelligents conçus pour les joueurs modernes",
+    "description": "Jynx transforme le jeu en solo en une expérience sociale en connectant intelligemment les joueurs selon leurs préférences, styles de jeu et intérêts communautaires",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Intelligent",
-        "description": "Trouvez votre équipe de jeu parfaite en quelques secondes - des joueurs qui correspondent à votre niveau, style de jeu et disponibilité"
+        "description": "Trouve votre équipe de jeu parfaite en quelques secondes - des joueurs qui correspondent à votre niveau, style de jeu et disponibilité"
       },
       "finder": {
         "title": "Découverte de Communautés",
@@ -227,6 +227,24 @@
       }
     }
   },
+  "gaming_sections": {
+    "intelligent_matchmaking": {
+      "title": "Matchmaking Intelligent",
+      "subtitle": "Trouve ton équipe de jeu parfaite en quelques secondes - des joueurs qui correspondent à ton niveau, style de jeu et disponibilité"
+    },
+    "community_building": {
+      "title": "Création de Communauté",
+      "subtitle": "Créé ta propre communauté et deviens un leader. Recrute des coéquipiers qui correspondent à tes critères, et ensemble fixez-vous des objectifs. Votre communauté, vos règles, vos succès"
+    },
+    "global_chat": {
+      "title": "Chat Global",
+      "subtitle": "Engage des conversations en temps réel avec des centaines de personnes via le chat global. Démarque-toi de part ton ELO et connecte-toi avec des coéquipiers qui te ressemblent"
+    },
+    "gaming_sessions": {
+      "title": "Sessions de Jeu",
+      "subtitle": "Planifie tes soirées de jeu à l'avance et ne cherche plus jamais de coéquipiers à la dernière minute"
+    }
+  },
   "problem": {
     "title": "Le Défi",
     "description": "Trouver des coéquipiers compatibles dans les jeux compétitifs est souvent frustrant et chronophage. Le matchmaking aléatoire vous connecte rarement avec des joueurs qui correspondent à votre style de communication, niveau de compétence et disponibilité."
@@ -240,11 +258,11 @@
       "playstyle": "Connectez-vous avec des joueurs qui partagent votre style de communication et votre approche du jeu"
     }
   },
-  "cta": {
-    "title": "Être prévenu du lancement",
-    "subtitle": "Pas de spam. Nous vous contacterons uniquement lors du lancement de Jynx.",
-    "button": "Obtenir Jynx",
-    "note": "Gratuit pour toujours"
+  "collaborative": {
+    "title": "Construisons l'Avenir de Jynx Ensemble",
+    "description": "Jynx est un projet communautaire qui évolue avec vos contributions. Pour en faire la meilleure app de gaming social, nous pensons qu'elle doit être bâtie pour les joueurs, avec les joueurs",
+    "discord": "Rejoindre notre Discord",
+    "ideas": "Partager ses Idées"
   },
   "form": {
     "email": {
@@ -253,16 +271,35 @@
       "error": "Veuillez entrer une adresse email valide"
     },
     "submit": "Rejoindre la liste d'attente",
+    "submitting": "Envoi en cours...",
     "success": "Vous êtes inscrit ! Nous vous préviendrons lors du lancement de Jynx.",
-    "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer."
+    "error": "Oups ! Quelque chose s'est mal passé. Veuillez réessayer.",
+    "errors": {
+      "permission_denied": "Vous n'avez pas l'autorisation de soumettre ce formulaire.",
+      "invalid_argument": "Les informations que vous avez fournies ne sont pas valides.",
+      "not_found": "Ressource non trouvée. Veuillez réessayer plus tard.",
+      "server_unavailable": "Nos serveurs sont actuellement indisponibles. Veuillez réessayer plus tard.",
+      "too_many_requests": "Trop de requêtes. Veuillez réessayer plus tard.",
+      "server_error": "Une erreur s'est produite de notre côté. Veuillez réessayer plus tard.",
+      "network_error": "Erreur de connexion réseau. Veuillez vérifier votre connexion internet.",
+      "timeout": "Délai d'attente dépassé. Veuillez réessayer.",
+      "invalid_email": "Veuillez entrer une adresse email valide.",
+      "empty_field": "Ce champ ne peut pas être vide.",
+      "default": "Une erreur inattendue s'est produite. Veuillez réessayer."
+    }
   },
   "feedback": {
-    "title": "Donnez votre avis",
+    "title": "Votre avis, notre priorité",
+    "feedback": "Ton feedback",
+    "subtitle": "Pas de spam. Nous te contacterons uniquement lors du lancement de Jynx.",
     "yes": "Oui",
     "no": "Non",
-    "textarea": "Dites-nous comment nous pouvons améliorer Jynx",
-    "submit": "Envoyer le feedback",
-    "thanks": "Merci pour votre feedback !"
+    "textarea": "Dis-nous ce que tu souhaites ajouter ou modifier sur Jynx",
+    "submit": "Envoyer",
+    "note": "Gratuit pour toujours",
+    "submitting": "Envoi en cours...",
+    "thanks": "Merci pour votre feedback !",
+    "error": "Impossible d'envoyer le feedback. Veuillez réessayer."
   },
   "footer": {
     "company": { "title": "Entreprise", "about": "À Propos" },
