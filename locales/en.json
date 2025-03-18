@@ -270,6 +270,7 @@
       "placeholder": "Enter your email",
       "error": "Please enter a valid email address"
     },
+    "optional": "Optional",
     "submit": "Join the Waitlist",
     "submitting": "Submitting...",
     "success": "You're in! We'll notify you when Jynx launches.",
@@ -299,7 +300,8 @@
     "note": "Free forever",
     "submitting": "Submitting...",
     "thanks": "Thanks for your feedback!",
-    "error": "Could not submit feedback. Please try again."
+    "error": "Could not submit feedback. Please try again.",
+    "error_empty": "Please provide either your email or feedback."
   },
   "footer": {
     "company": { "title": "Company", "about": "About Us" },

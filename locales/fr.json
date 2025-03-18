@@ -270,6 +270,7 @@
       "placeholder": "Entrez votre email",
       "error": "Veuillez entrer une adresse email valide"
     },
+    "optional": "Facultatif",
     "submit": "Rejoindre la liste d'attente",
     "submitting": "Envoi en cours...",
     "success": "Vous êtes inscrit ! Nous vous préviendrons lors du lancement de Jynx.",
@@ -299,7 +300,8 @@
     "note": "Gratuit pour toujours",
     "submitting": "Envoi en cours...",
     "thanks": "Merci pour votre feedback !",
-    "error": "Impossible d'envoyer le feedback. Veuillez réessayer."
+    "error": "Impossible d'envoyer le feedback. Veuillez réessayer.",
+    "error_empty": "Veuillez fournir votre email ou un feedback."
   },
   "footer": {
     "company": { "title": "Entreprise", "about": "À Propos" },
