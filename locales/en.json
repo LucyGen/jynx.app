@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Jynx | Where Gaming Gets Social",
-    "description": "Jynx transforms solo gaming into a social experience by intelligently connecting players based on gaming preferences, play styles, and community interests."
+    "description": "Jynx transforms solo gaming into a social experience by intelligently connecting players based on gaming preferences, play styles, and community interests"
   },
   "about": {
     "meta": {
@@ -12,25 +12,57 @@
     "subtitle": "Transforming gaming from solo to social",
     "story": {
       "title": "Our Story",
-      "p1": "Jynx was born from a simple question: why is it so hard to find compatible gaming teammates? As gamers ourselves, we've experienced the frustration of random matchmaking systems that just don't get it right.",
-      "p2": "We envisioned a platform that truly understands gamers - one that matches players based not just on skill, but on communication style, play preferences, and even gaming schedules.",
-      "p3": "Today, Jynx is transforming the way gamers connect, creating meaningful gaming relationships that extend beyond the match."
+      "p1": "Founded in 2024, Jynx was born from a simple yet powerful vision: to transform how gamers connect and play together. We understand the frustration of wasting precious gaming time searching for compatible teammates or struggling to find players who match your skill level and gaming style.",
+      "p2": "Our platform serves as the bridge between solo gaming experiences and fulfilling team play, allowing you to quickly find your perfect gaming companions based on skill level, playing style, and personality."
+    },
+    "problem": {
+      "title": "The Problem We're Solving",
+      "intro": "As gamers ourselves, we've experienced the challenges firsthand:",
+      "points": {
+        "time": "Spending more time searching for teammates than actually playing",
+        "mismatch": "Getting matched with players whose skills or goals don't align with yours",
+        "disconnected": "Feeling disconnected from the broader gaming community",
+        "relationships": "Struggling to build lasting gaming relationships"
+      },
+      "conclusion": "Jynx addresses these pain points with innovative matchmaking systems designed specifically for gamers, by gamers."
+    },
+    "founders": {
+      "title": "Our Founders",
+      "arthur": {
+        "name": "Arthur Bonvallet",
+        "role": "Co-Founder & Product Owner",
+        "bio": "A passionate gamer and experienced product specialist from Paris, Arthur brings his deep understanding of user experience and product development to Jynx. His vision drives our platform's intuitive design and feature set."
+      },
+      "antoine": {
+        "name": "Antoine Haie",
+        "role": "Co-Founder & Lead Developer",
+        "bio": "Antoine's technical expertise as a fullstack developer powers the Jynx platform. Based in Paris, his gaming background combined with his technical skills ensures our platform delivers a seamless experience for gamers of all levels."
+      }
+    },
+    "features": {
+      "title": "What Makes Jynx Different",
+      "elo": {
+        "title": "ELO-Based Match Queue",
+        "description": "Our sophisticated matching algorithm considers your skill level (ELO) to connect you with teammates and opponents who provide the right level of challenge and compatibility."
+      },
+      "chat": {
+        "title": "Global Chat System",
+        "description": "Stay connected with the broader gaming community through our vibrant global chat system, where you can discuss strategies, share experiences, or simply hang out with fellow gamers."
+      },
+      "guilds": {
+        "title": "Guild-Based Communities",
+        "description": "Find your gaming home with our unique \"guild\" system. Join existing communities based on your favorite games or playing styles, or create your own guild and become a community leader. Build your reputation, establish your team culture, and grow your network of gaming allies."
+      }
+    },
+    "for_everyone": {
+      "title": "For Every Gamer",
+      "p1": "Whether you're a casual player looking for fun companions or a competitive gamer seeking serious teammates for tournament play, Jynx welcomes all. Our platform supports communities across all game types, genres, and platforms.",
+      "p2": "Don't see a community for your favorite game? Create one and become its founding leader! At Jynx, we believe in empowering gamers to build and nurture their own spaces."
     },
     "mission": {
       "title": "Our Mission",
-      "p1": "We believe gaming is better together. Our mission is to transform solo gaming into rich social experiences by intelligently connecting players who truly complement each other.",
-      "p2": "We're building a future where finding your perfect gaming squad is seamless, where communities thrive around shared interests, and where every gaming session is with people you actually enjoy playing with."
-    },
-    "values": {
-      "title": "Our Values",
-      "community": "Community First - We empower gamers to build meaningful connections",
-      "inclusivity": "Inclusivity - Gaming is for everyone, and so is Jynx",
-      "innovation": "Innovation - We're constantly evolving based on what gamers need",
-      "quality": "Quality Experience - No compromises on user experience or performance"
-    },
-    "team": {
-      "title": "Our Team",
-      "description": "We're a passionate team of gamers, developers, and community builders dedicated to transforming how players connect."
+      "p1": "Jynx is more than just a platform—it's a growing community of gamers who believe that gaming is better together. We're just getting started, and we invite you to be part of our journey as we revolutionize how gamers connect, compete, and collaborate.",
+      "p2": "Game on!"
     },
     "cta": {
       "title": "Join the Jynx Community",
@@ -44,85 +76,78 @@
       "description": "Learn how Jynx protects your privacy and handles your data. Our transparent privacy policy outlines our practices and your rights."
     },
     "title": "Privacy Policy",
-    "last_updated": "Last updated: February 2024",
+    "last_updated": "Last updated: March 2024",
     "intro": {
       "title": "Introduction",
-      "p1": "Welcome to Jynx! We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and safeguard your information when you use our website or mobile application.",
-      "p2": "By using Jynx, you agree to the collection and use of information in accordance with this policy. We only collect and use personal data when we need it for legitimate business purposes."
+      "p1": "Welcome to Jynx. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit our website/application and tell you about your privacy rights and how the law protects you."
     },
     "information": {
-      "title": "Information We Collect",
-      "p1": "When you create a Jynx account or interact with our services, we may collect the following types of information:",
+      "title": "The Data We Collect",
+      "p1": "We collect and process the following data:",
       "personal": {
-        "title": "Personal Information",
-        "email": "Email address (for account creation and notifications)",
-        "username": "Username and display name",
-        "language": "Language preferences",
-        "profile": "Optional profile information you choose to provide"
-      },
-      "usage": {
-        "title": "Usage Information",
-        "interactions": "Interaction data with other users and communities",
-        "preferences": "Gaming preferences and play styles",
-        "activity": "Session activity and messaging patterns"
-      },
-      "technical": {
-        "title": "Technical Information",
-        "device": "Device information (type, operating system)",
-        "ip": "IP address and general location data",
-        "cookies": "Cookies and similar tracking technologies"
+        "email": "Email Addresses: We collect your email address when you provide it through our application."
       }
     },
     "use": {
-      "title": "How We Use Your Information",
-      "p1": "We use the collected information for various purposes, including:",
-      "account": "To create and maintain your account",
-      "features": "To provide and improve our core matchmaking and community features",
-      "personalize": "To personalize your experience and recommend relevant content",
-      "communicate": "To communicate with you about service updates and offers",
-      "security": "To ensure the security and integrity of our platform",
-      "legal": "To comply with legal obligations"
+      "title": "How We Use Your Data",
+      "p1": "We use your email address for the following purposes:",
+      "notifications": "To send you notifications about activity on the platform",
+      "feedback": "To collect feedback about your experience with Jynx",
+      "database": "To maintain our client database",
+      "newsletters": "To send newsletters and updates about our services"
     },
     "sharing": {
-      "title": "Information Sharing",
-      "p1": "We do not sell your personal information to third parties. We may share your information in the following circumstances:",
-      "service": "With service providers who help us operate our platform",
-      "legal": "When required by law or to protect our legal rights",
-      "business": "In connection with a business transaction (e.g., merger or acquisition)",
-      "consent": "With your consent or at your direction"
+      "title": "Data Sharing and Disclosure",
+      "p1": "We do not share your email address with any third parties except as required by law."
     },
     "security": {
       "title": "Data Security",
-      "p1": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction.",
-      "p2": "While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security. We encourage you to use strong passwords and keep your account information secure."
+      "p1": "We implement appropriate security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction."
+    },
+
+    "retention": {
+      "title": "Data Retention",
+      "p1": "We will retain your email address for as long as legally permitted under French law, or until you request its deletion."
     },
     "rights": {
       "title": "Your Rights",
-      "p1": "Depending on your location, you may have certain rights regarding your personal data, including:",
-      "access": "The right to access the personal data we hold about you",
-      "rectification": "The right to request correction of inaccurate data",
-      "deletion": "The right to request deletion of your data",
-      "restriction": "The right to restrict processing of your data",
-      "portability": "The right to data portability",
-      "objection": "The right to object to the processing of your data",
-      "p2": "To exercise these rights, please contact us using the information provided at the end of this policy."
+      "p1": "You have the right to:",
+      "access": "Request access to your personal data",
+      "rectification": "Request correction of your personal data",
+      "deletion": "Request deletion of your personal data",
+      "objection": "Object to processing of your personal data",
+      "restriction": "Request restriction of processing your personal data",
+      "portability": "Request transfer of your personal data",
+      "p2": "If you wish to exercise any of these rights, please contact us by email."
+    },
+
+    "deletion": {
+      "title": "Data Deletion Requests",
+      "p1": "If you would like to have your data deleted from our systems, please send an email to privacy@jynx.app with the subject line \"Data Deletion Request\" and include the email address you used to register with Jynx."
     },
     "cookies": {
-      "title": "Cookies and Tracking Technologies",
-      "p1": "We use cookies and similar technologies to enhance your experience, analyze usage patterns, and deliver personalized content. You can control cookies through your browser settings, but disabling them may affect the functionality of our services."
+      "title": "Cookies and Tracking",
+      "none": "We do not use cookies on our platform.",
+      "analytics": "We use Google Analytics to collect anonymous information about how visitors use our website. Google Analytics uses technologies that do not identify you personally. The information generated is transmitted to and stored by Google on servers that may be located outside your country of residence."
     },
-    "children": {
-      "title": "Children's Privacy",
-      "p1": "Our services are not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us."
+    "international": {
+      "title": "International Transfers",
+      "p1": "As Jynx operates worldwide, your information may be transferred to and processed in countries other than the one in which you reside. These countries may have data protection laws that are different from those in your country."
+    },
+
+    "age": {
+      "title": "Age Restrictions",
+      "p1": "Jynx is a social media platform (similar to Tinder and Discord) and is intended for users who are 13 years or older. We do not knowingly collect data from anyone under this age."
     },
     "changes": {
       "title": "Changes to This Privacy Policy",
-      "p1": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the \"last updated\" date. We encourage you to review this Privacy Policy periodically."
+      "p1": "We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page and sending you an email notification."
     },
     "contact": {
       "title": "Contact Us",
-      "p1": "If you have any questions about this Privacy Policy, please contact us at:",
-      "email": "Email: privacy@jynx.app"
+      "p1": "If you have any questions about this privacy policy or our data practices, please contact us at:",
+      "email": "Email: privacy@jynx.app",
+      "address": "Address: 123 Gaming Street, 75001 Paris, France"
     }
   },
   "terms": {
@@ -131,63 +156,95 @@
       "description": "Read the Terms of Service for Jynx. These terms outline your rights and responsibilities when using our gaming community platform."
     },
     "title": "Terms of Service",
-    "last_updated": "Last updated: February 2024",
+    "last_updated": "Last updated: March 2025",
     "intro": {
       "title": "Introduction",
-      "p1": "Welcome to Jynx! These Terms of Service (\"Terms\") govern your use of the Jynx website and mobile application (collectively, the \"Service\") operated by Jynx Gaming, Inc. (\"we,\" \"us,\" or \"our\").",
+      "p1": "Welcome to Jynx, a social platform designed to help gamers meet and play together. These Terms of Service (\"Terms\") govern your access to and use of the Jynx application and website (collectively, the \"Service\"). Please read these Terms carefully before using our Service.",
       "p2": "By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Service."
     },
-    "accounts": {
-      "title": "Accounts",
+    "eligibility": {
+      "title": "1. Eligibility",
+      "p1": "You must be at least 18 years old to create an account on Jynx and use the Service. By creating an account and using the Service, you represent and warrant that:",
+      "li1": "You are at least 18 years of age.",
+      "li2": "You can form a binding contract with Jynx.",
+      "li3": "You are not a person who is barred from using the Service under the laws of any applicable jurisdiction.",
+      "li4": "You will comply with these Terms and all applicable local, state, national, and international laws, rules, and regulations."
+    },
+    "account": {
+      "title": "2. Your Account",
       "p1": "When you create an account with us, you must provide accurate, complete, and current information. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account.",
-      "p2": "You are responsible for safeguarding the password you use to access the Service and for any activities or actions under your password. We encourage you to use \"strong\" passwords (passwords that use a combination of upper and lower case letters, numbers, and symbols) with your account.",
+      "p2": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password. We encourage you to use \"strong\" passwords (passwords that use a combination of upper and lower case letters, numbers, and symbols) with your account.",
       "p3": "You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account."
     },
-    "conduct": {
-      "title": "Acceptable Use",
-      "p1": "You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to use the Service:",
-      "unlawful": "In any way that violates any applicable national or international law or regulation",
-      "harmful": "For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way",
-      "impersonate": "To impersonate or attempt to impersonate another person or entity",
-      "data": "To engage in any data mining, data harvesting, or any other similar activity",
-      "p2": "Additionally, you agree not to:",
-      "interfere": "Use the Service in any manner that could disable, overburden, damage, or impair the Service",
-      "security": "Use any robot, spider, or other automatic device or process to access the Service for any purpose",
-      "attack": "Attack the Service via a denial-of-service attack or a distributed denial-of-service attack",
-      "harassment": "Engage in any form of harassment, hate speech, or conduct that is otherwise harmful to other users",
-      "inappropriate": "Post or share content that is offensive, inappropriate, or violates the rights of others"
+    "premium": {
+      "title": "3. Free Service and Premium Features",
+      "p1": "Basic access to Jynx is provided free of charge. However, certain premium features may require payment. If you choose to use premium features, you agree to pay all applicable fees.",
+      "p2": "We reserve the right to modify, terminate, or otherwise amend our offered subscription plans and paid features at any time."
     },
-    "content": {
-      "title": "User Content",
-      "p1": "Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"User Content\"). You are responsible for the User Content that you post to the Service, including its legality, reliability, and appropriateness.",
-      "p2": "By posting User Content to the Service, you grant us the right to use, modify, publicly perform, publicly display, reproduce, and distribute such content on and through the Service. You retain any and all of your rights to any User Content you submit, post, or display on or through the Service and you are responsible for protecting those rights.",
-      "p3": "You represent and warrant that: (i) the User Content is yours or you have the right to use it and grant us the rights and license as provided in these Terms, and (ii) the posting of your User Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person."
+    "content_conduct": {
+      "title": "4. Content and Conduct",
+      "user_content": "a. User Content",
+      "p1": "Our Service allows you to post, link, store, share and otherwise make available certain information, text, graphics, videos, or other material (\"Content\"). You are responsible for the Content that you post on or through the Service, including its legality, reliability, and appropriateness.",
+      "p2": "By posting Content on or through the Service, you represent and warrant that:",
+      "li1": "The Content is yours (you own it) or you have the right to use it and grant us the rights and license as provided in these Terms.",
+      "li2": "The posting of your Content on or through the Service does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights of any person.",
+      "prohibited": "b. Prohibited Content and Behavior",
+      "p3": "You may not use the Service for any purpose that is illegal or prohibited by these Terms. You agree not to use the Service to:",
+      "li3": "Post, upload, or distribute content that is pornographic, discriminatory, racist, or otherwise offensive.",
+      "li4": "Harass, bully, or intimidate other users.",
+      "li5": "Impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity.",
+      "li6": "Interfere with or disrupt the Service or servers or networks connected to the Service.",
+      "li7": "Attempt to gain unauthorized access to parts of the Service that are restricted.",
+      "li8": "Use the Service for any harmful or malicious purpose.",
+      "li9": "Promote or participate in any illegal activities.",
+      "removal": "c. Content Removal and Account Termination",
+      "p4": "We reserve the right, but not the obligation, to:",
+      "li10": "Remove or refuse to distribute any Content on the Service that violates these Terms.",
+      "li11": "Terminate or suspend your access to all or part of the Service for any reason, including violation of these Terms.",
+      "li12": "Take appropriate legal action against users for any illegal or unauthorized use of the Service."
     },
     "intellectual": {
-      "title": "Intellectual Property",
-      "p1": "The Service and its original content (excluding User Content), features, and functionality are and will remain the exclusive property of Jynx Gaming, Inc. and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Jynx Gaming, Inc."
+      "title": "5. Intellectual Property",
+      "service": "a. The Service",
+      "p1": "The Service and its original content (excluding Content provided by users), features, and functionality are and will remain the exclusive property of Jynx and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Jynx.",
+      "user_content": "b. User Content",
+      "p2": "By submitting Content to the Service, you grant us a worldwide, non-exclusive, royalty-free license (with the right to sublicense) to use, copy, reproduce, process, adapt, modify, publish, transmit, display and distribute such Content in any and all media or distribution methods now known or later developed.",
+      "p3": "You agree that this license includes the right for Jynx to provide, promote, and improve the Service and to make Content submitted to or through the Service available to other companies, organizations or individuals for the distribution of such Content."
     },
-    "termination": {
-      "title": "Termination",
-      "p1": "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
-      "p2": "Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service or delete your account within the application settings."
+    "privacy": {
+      "title": "6. Privacy",
+      "p1": "Your privacy is important to us. Please review our Privacy Policy to understand our practices regarding your personal information. By using the Service, you agree to the collection and use of information in accordance with our Privacy Policy."
+    },
+    "third_party": {
+      "title": "7. Third-Party Links",
+      "p1": "Our Service may contain links to third-party websites or services that are not owned or controlled by Jynx. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You further acknowledge and agree that Jynx shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services."
     },
     "limitation": {
-      "title": "Limitation of Liability",
-      "p1": "In no event shall Jynx Gaming, Inc., nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage."
+      "title": "8. Limitation of Liability",
+      "p1": "In no event shall Jynx, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from:",
+      "li1": "Your access to or use of or inability to access or use the Service.",
+      "li2": "Any conduct or content of any third party on the Service.",
+      "li3": "Any content obtained from the Service.",
+      "li4": "Unauthorized access, use, or alteration of your transmissions or content."
     },
     "disclaimer": {
-      "title": "Disclaimer",
-      "p1": "Your use of the Service is at your sole risk. The Service is provided on an \"AS IS\" and \"AS AVAILABLE\" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.",
-      "p2": "Jynx Gaming, Inc., its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements."
+      "title": "9. Disclaimer",
+      "p1": "Your use of the Service is at your sole risk. The Service is provided on an \"AS IS\" and \"AS AVAILABLE\" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, or course of performance."
+    },
+    "dispute": {
+      "title": "10. Dispute Resolution",
+      "governing": "a. Governing Law",
+      "p1": "These Terms shall be governed and construed in accordance with the laws of France, without regard to its conflict of law provisions.",
+      "arbitration": "b. Arbitration",
+      "p2": "Any dispute arising from or relating to the subject matter of these Terms shall be finally settled by arbitration in Paris, France, using the French language in accordance with the Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services, Inc. (JAMS) then in effect, by one commercial arbitrator with substantial experience in resolving intellectual property and commercial contract disputes."
     },
     "changes": {
-      "title": "Changes",
+      "title": "11. Changes to Terms",
       "p1": "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will try to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.",
-      "p2": "By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service."
+      "p2": "By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, please stop using the Service."
     },
     "contact": {
-      "title": "Contact Us",
+      "title": "12. Contact Us",
       "p1": "If you have any questions about these Terms, please contact us at:",
       "email": "Email: terms@jynx.app"
     }
@@ -207,7 +264,7 @@
   "features": {
     "title": "Game Better, Together",
     "subtitle": "Intelligent gaming community tools designed for modern players",
-    "description": "Jynx transforms solo gaming into a social experience by intelligently connecting players based on gaming preferences, play styles, and community interests.",
+    "description": "Jynx transforms solo gaming into a social experience by intelligently connecting players based on gaming preferences, play styles, and community interests",
     "cards": {
       "scheduling": {
         "title": "Intelligent Matchmaking",
