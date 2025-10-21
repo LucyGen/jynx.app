@@ -1,0 +1,864 @@
+{
+  "meta": {
+    "title": "Jynx | जहाँ गेमिंग हो जाती है सोशल",
+    "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग प्राथमिकताओं, खेलने की शैली और कम्युनिटी रुचियों के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर",
+    "keywords": "गेमिंग मैचमेकिंग ऐप, एआई मैचमेकिंग, गेमिंग टीममेट्स खोजें, गेमिंग सोशल प्लेटफॉर्म, LFG विकल्प, गेमिंग स्क्वाड खोजक, प्रतिस्पर्धी गेमिंग, गेमिंग समुदाय, ईस्पोर्ट्स मैचमेकिंग, League of Legends टीममेट्स, Valorant मैचमेकिंग",
+    "og_title": "Jynx - एआई गेमिंग मैचमेकिंग ऐप | जहां गेमिंग सामाजिक हो जाती है",
+    "og_description": "एआई-संचालित मैचमेकिंग के साथ अपना परफेक्ट गेमिंग स्क्वाड खोजें। 10,000+ गेमर्स से जुड़ें। हमेशा के लिए मुफ्त।",
+    "og_image_alt": "Jynx गेमिंग मैचमेकिंग प्लेटफॉर्म - अपना परफेक्ट स्क्वाड खोजें",
+    "twitter_title": "Jynx - एआई गेमिंग मैचमेकिंग ऐप | जहां गेमिंग सामाजिक हो जाती है",
+    "twitter_description": "एआई-संचालित मैचमेकिंग के साथ अपना परफेक्ट गेमिंग स्क्वाड खोजें। 10,000+ गेमर्स से जुड़ें। हमेशा के लिए मुफ्त।",
+    "twitter_image_alt": "Jynx गेमिंग मैचमेकिंग प्लेटफॉर्म"
+  },
+  "about": {
+    "meta": {
+      "title": "Jynx | हमारे बारे में",
+      "description": "Jynx के बारे में और जानें, गेमिंग कम्युनिटी प्लेटफॉर्म जो सोलो गेमिंग को एक सोशल अनुभव में बदल देता है।",
+      "og_title": "Jynx के बारे में - एआई गेमिंग मैचमेकिंग के पीछे की टीम",
+      "og_description": "गेमर्स द्वारा गेमर्स के लिए स्थापित। Jynx के मिशन के बारे में जानें जो सोलो गेमिंग को सामाजिक अनुभवों में बदलता है।",
+      "og_image_alt": "Jynx टीम और प्लेटफॉर्म अवलोकन",
+      "twitter_title": "Jynx के बारे में - एआई गेमिंग मैचमेकिंग प्लेटफॉर्म",
+      "twitter_description": "गेमर्स द्वारा गेमर्स के लिए स्थापित। Jynx के मिशन के बारे में जानें।",
+      "twitter_image_alt": "Jynx प्लेटफॉर्म के बारे में"
+    },
+    "title": "Jynx के बारे में",
+    "subtitle": "गेमिंग को सोलो से सोशल में बदलना",
+    "story": {
+      "title": "हमारी कहानी",
+      "p1": "2024 में स्थापित, Jynx एक सरल लेकिन शक्तिशाली विज़न से जन्मा: गेमर्स के कनेक्ट होने और साथ खेलने के तरीके को बदलना। हम उस निराशा को समझते हैं जब कीमती गेमिंग समय संगत टीममेट्स की खोज में बर्बाद हो जाता है या ऐसे खिलाड़ियों को खोजने में संघर्ष करना पड़ता है जो आपके स्किल लेवल और गेमिंग स्टाइल से मेल खाते हों।",
+      "p2": "हमारा प्लेटफॉर्म सोलो गेमिंग अनुभव और संतोषजनक टीम प्ले के बीच एक पुल का काम करता है, जो आपको अपने परफेक्ट गेमिंग कंपेनियन्स को जल्दी से खोजने की सुविधा देता है - स्किल लेवल, प्लेइंग स्टाइल और पर्सनैलिटी के आधार पर।"
+    },
+    "problem": {
+      "title": "हम कौन सी समस्या हल कर रहे हैं",
+      "intro": "खुद गेमर होने के नाते, हमने इन चुनौतियों का अनुभव किया है:",
+      "points": {
+        "time": "असल में खेलने की तुलना में टीममेट्स की तलाश में ज़्यादा समय बिताना",
+        "mismatch": "ऐसे खिलाड़ियों के साथ मैच होना जिनके स्किल्स या लक्ष्य आपसे मेल नहीं खाते",
+        "disconnected": "व्यापक गेमिंग कम्युनिटी से डिस्कनेक्ट महसूस करना",
+        "relationships": "लंबे समय तक चलने वाले गेमिंग रिश्ते बनाने में संघर्ष"
+      },
+      "conclusion": "Jynx इन समस्याओं को इनोवेटिव मैचमेकिंग सिस्टम्स के साथ हल करता है जो विशेष रूप से गेमर्स के लिए, गेमर्स द्वारा डिज़ाइन किया गया है।"
+    },
+    "founders": {
+      "title": "हमारे फाउंडर्स",
+      "arthur": {
+        "name": "Arthur Bonvallet",
+        "role": "Co-Founder & Product Owner",
+        "bio": "पेरिस से एक passionate गेमर और अनुभवी प्रोडक्ट स्पेशलिस्ट, Arthur अपनी यूज़र एक्सपीरियंस और प्रोडक्ट डेवलपमेंट की गहरी समझ Jynx में लाते हैं। उनका विज़न हमारे प्लेटफॉर्म के intuitive डिज़ाइन और फीचर सेट को guide करता है।"
+      },
+      "antoine": {
+        "name": "Antoine Haie",
+        "role": "Co-Founder & Lead Developer",
+        "bio": "पेरिस में स्थित Antoine की fullstack developer के रूप में तकनीकी expertise Jynx प्लेटफॉर्म को power देती है। उनकी गेमिंग बैकग्राउंड और तकनीकी स्किल्स का कॉम्बिनेशन सुनिश्चित करता है कि हमारा प्लेटफॉर्म सभी लेवल के गेमर्स के लिए एक seamless अनुभव प्रदान करे।"
+      }
+    },
+    "features": {
+      "title": "Jynx को क्या अलग बनाता है",
+      "elo": {
+        "title": "ELO-Based Match Queue",
+        "description": "हमारा sophisticated मैचिंग algorithm आपके स्किल लेवल (ELO) को ध्यान में रखता है ताकि आपको ऐसे teammates और opponents से जोड़ा जा सके जो सही level की challenge और compatibility प्रदान करें।"
+      },
+      "chat": {
+        "title": "Global Chat System",
+        "description": "हमारे vibrant global chat system के माध्यम से व्यापक गेमिंग कम्युनिटी के साथ connected रहें, जहाँ आप strategies पर चर्चा कर सकते हैं, experiences शेयर कर सकते हैं, या बस fellow gamers के साथ hang out कर सकते हैं।"
+      },
+      "guilds": {
+        "title": "Guild-Based Communities",
+        "description": "हमारे यूनीक \"guild\" सिस्टम के साथ अपना गेमिंग घर खोजें। अपनी पसंदीदा games या playing styles के आधार पर existing communities join करें, या अपना खुद का guild बनाएं और community leader बनें। अपनी reputation build करें, अपनी team culture establish करें, और gaming allies का नेटवर्क बढ़ाएं।"
+      }
+    },
+    "for_everyone": {
+      "title": "हर गेमर के लिए",
+      "p1": "चाहे आप fun companions की तलाश में एक casual player हों या tournament play के लिए serious teammates की तलाश में एक competitive gamer, Jynx सभी का स्वागत करता है। हमारा प्लेटफॉर्म सभी game types, genres और platforms पर communities को support करता है।",
+      "p2": "अपनी पसंदीदा game के लिए कोई community नहीं दिख रही? एक बनाएं और इसके founding leader बनें! Jynx में, हम गेमर्स को अपने खुद के spaces build और nurture करने के लिए empower करने में विश्वास रखते हैं।"
+    },
+    "mission": {
+      "title": "हमारा मिशन",
+      "p1": "Jynx सिर्फ एक प्लेटफॉर्म से बढ़कर है—यह गेमर्स की एक growing community है जो मानते हैं कि गेमिंग साथ में बेहतर है। हम अभी शुरुआत कर रहे हैं, और हम आपको हमारे journey का हिस्सा बनने के लिए आमंत्रित करते हैं क्योंकि हम revolutionize करते हैं कि कैसे गेमर्स connect, compete और collaborate करते हैं।",
+      "p2": "Game on!"
+    },
+    "cta": {
+      "title": "Jynx Community में शामिल हों",
+      "description": "अपने perfect gaming squad को खोजने के नए तरीके का अनुभव करने वाले पहले व्यक्ति बनें",
+      "button": "Waitlist में शामिल हों"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Jynx | Privacy Policy",
+      "description": "जानें कि Jynx कैसे आपकी privacy को protect करता है और आपके data को handle करता है। हमारी transparent privacy policy हमारी practices और आपके अधिकारों को outline करती है।",
+      "og_title": "Jynx गोपनीयता नीति - आपका डेटा सुरक्षा",
+      "og_description": "पारदर्शी गोपनीयता नीति जो बताती है कि Jynx आपके गेमिंग डेटा को कैसे संभालता है।",
+      "og_image_alt": "Jynx गोपनीयता नीति",
+      "twitter_title": "Jynx गोपनीयता नीति",
+      "twitter_description": "जानें कि हम आपके डेटा की सुरक्षा कैसे करते हैं और आपकी गोपनीयता का सम्मान करते हैं।",
+      "twitter_image_alt": "गोपनीयता नीति"
+    },
+    "title": "Privacy Policy",
+    "last_updated": "आखिरी अपडेट: अक्टूबर 2025",
+    "version": "संस्करण: 1.0",
+    "intro": {
+      "title": "1. परिचय",
+      "p1": "Jynx (\"हम\", \"हमारा\", \"एप्लिकेशन\") एक सोशल गेमिंग प्लेटफॉर्म है जो खिलाड़ियों को connect करने, teams बनाने और साथ खेलने की अनुमति देता है।",
+      "legal_info": "कानूनी जानकारी:",
+      "entity": "कानूनी इकाई: Jynx Group",
+      "dpo": "Privacy Officer संपर्क: dpo@jynx.app",
+      "jurisdiction": "न्यायक्षेत्र: फ्रांस, यूरोपीय संघ (GDPR Compliance)",
+      "p2": "यह privacy policy बताती है कि जब आप हमारे एप्लिकेशन का उपयोग करते हैं तो हम कैसे आपके personal data को collect, use, share और protect करते हैं।"
+    },
+    "age_verification": {
+      "title": "2. न्यूनतम आयु और सत्यापन",
+      "p1": "हमारा एप्लिकेशन 18 वर्ष और उससे अधिक आयु के users के लिए आरक्षित है।",
+      "p2": "अपना account बनाते समय, हम आपसे आपकी जन्म तिथि प्रदान करने के लिए कहते हैं। यदि आपकी आयु 18 वर्ष से कम है, तो आप account नहीं बना पाएंगे या हमारी services का उपयोग नहीं कर पाएंगे।"
+    },
+    "data_collected": {
+      "title": "3. एकत्रित डेटा",
+      "registration": {
+        "title": "3.1. Registration और Profile Data",
+        "intro": "आपका account बनाते और manage करते समय हम निम्नलिखित जानकारी एकत्र करते हैं:"
+      },
+      "auth": {
+        "title": "Authentication जानकारी:",
+        "email": "Email (email/password accounts के लिए)",
+        "username": "Username/nickname",
+        "photo": "Profile photo (वैकल्पिक)",
+        "social": "Social login identifiers (Google, Apple) यदि आप ये methods उपयोग करते हैं"
+      },
+      "profile": {
+        "title": "Profile जानकारी:",
+        "birthdate": "जन्म तिथि (उम्र सत्यापन के लिए)",
+        "location": "देश और timezone",
+        "languages": "बोली जाने वाली भाषाएं",
+        "bio": "Biography (वैकल्पिक)",
+        "preferences": "गेमिंग preferences और availability",
+        "handle": "यूनीक handle (private friend discovery के लिए स्वचालित रूप से generated)"
+      },
+      "gaming": {
+        "title": "3.2. Gaming Data",
+        "intro": "आपको compatible teammates खोजने में मदद करने के लिए, हम एकत्र करते हैं:"
+      },
+      "game_profiles": {
+        "title": "Game Profiles:",
+        "games": "आपके द्वारा खेले जाने वाले games",
+        "ranks": "Levels, ranks और game statistics",
+        "champions": "पसंदीदा champions/characters",
+        "playstyle": "Play style"
+      },
+      "riot": {
+        "title": "Riot Games API Integration:",
+        "intro": "हम Riot Games API से retrieve करते हैं (आपकी सहमति से):",
+        "summoner": "Summoner name और Riot ID",
+        "rank": "Rank और match history (League of Legends, Valorant, आदि)",
+        "stats": "Champion statistics",
+        "matches": "हाल की match history",
+        "reason": "एकत्र करने का कारण: आपकी player profile display करना और अन्य players के साथ matching में सुधार करना।"
+      },
+      "technical": {
+        "title": "3.3. Usage और Technical Data",
+        "intro": "हम स्वचालित रूप से कुछ technical data एकत्र करते हैं:"
+      },
+      "analytics": {
+        "title": "Analytics और Performance:",
+        "firebase": "Firebase Performance Monitoring: App startup time, interface fluidity",
+        "sentry": "Sentry: Error और performance reports (personal data anonymization के साथ)",
+        "crashlytics": "Firebase Crashlytics: Crash reports",
+        "disable": "आप Settings > Privacy > \"Enable Analytics\" में analytics data collection को disable कर सकते हैं।"
+      },
+      "device": {
+        "title": "Device जानकारी:",
+        "type": "Device type और model",
+        "os": "Operating system version",
+        "app_version": "एप्लिकेशन version"
+      },
+      "behavior": {
+        "title": "User Behavior:",
+        "screens": "देखी गई screens और उपयोग की गई features",
+        "time": "एप्लिकेशन में बिताया गया समय",
+        "interactions": "Interface interactions"
+      },
+      "communication": {
+        "title": "3.4. Communication Data",
+        "messages": "Messages: Community chats में messages, users के बीच private messages, conversation history",
+        "notifications": "Notifications: FCM tokens (Firebase Cloud Messaging) push notifications के लिए"
+      },
+      "user_content": {
+        "title": "3.5. User Generated Content",
+        "photos": "Upload की गई photos (profile pictures, अतिरिक्त photos)",
+        "reports": "Security और moderation reports",
+        "cosmetics": "Cosmetic preferences (avatars, badges)"
+      }
+    },
+    "third_party": {
+      "title": "4. Third-Party Services और Data Sharing",
+      "firebase": {
+        "title": "4.1. Firebase Services (Google)",
+        "intro": "हम निम्नलिखित Firebase services का उपयोग करते हैं, सभी GDPR compliant:",
+        "auth": "Firebase Authentication: Secure user account management",
+        "firestore": "Cloud Firestore: आपके profile और game data का storage",
+        "storage": "Firebase Storage: आपकी profile images को hosting",
+        "functions": "Cloud Functions: Secure backend logic execution",
+        "messaging": "Firebase Cloud Messaging: Push notifications",
+        "appcheck": "Firebase App Check: Abuse और bots से protection",
+        "performance": "Firebase Performance Monitoring: App performance monitoring",
+        "crashlytics": "Firebase Crashlytics: Crash reports",
+        "policy": "Firebase Privacy Policy: https://firebase.google.com/support/privacy"
+      },
+      "sentry": {
+        "title": "4.2. Sentry (Error Monitoring)",
+        "intro": "हम error और performance tracking के लिए Sentry का उपयोग करते हैं। एकत्रित data में शामिल है:",
+        "traces": "Error traces",
+        "context": "Technical context (OS, app version)",
+        "policy": "Sentry Privacy Policy: https://sentry.io/privacy/"
+      },
+      "riot": {
+        "title": "4.3. Riot Games API",
+        "p1": "जब आप अपना Riot Games account link करते हैं, तो हम official Riot Games API के माध्यम से आपकी game statistics retrieve करते हैं। यह data केवल आपकी profile display करने और matching में सुधार के लिए उपयोग किया जाता है।",
+        "policy": "Riot Games Privacy Policy: https://www.riotgames.com/en/privacy-notice"
+      }
+    },
+    "data_usage": {
+      "title": "5. Data का उपयोग",
+      "intro": "हम आपके data का उपयोग इसके लिए करते हैं:",
+      "services": {
+        "title": "1. हमारी Services प्रदान करना:",
+        "account": "आपका account बनाना और manage करना",
+        "connect": "आपको अन्य players से connect करने की अनुमति देना",
+        "teams": "Team creation और gaming session organization को facilitate करना"
+      },
+      "personalization": {
+        "title": "2. Personalization:",
+        "matching": "Compatible teammates की recommend करना (game-based, rank, style matching)",
+        "content": "Relevant content display करना"
+      },
+      "communication": {
+        "title": "3. Communication:",
+        "notifications": "आपको महत्वपूर्ण notifications भेजना (matches मिलने पर, messages प्राप्त होने पर)"
+      },
+      "improvement": {
+        "title": "4. Service में सुधार:",
+        "analyze": "Features में सुधार के लिए usage का analyze करना",
+        "bugs": "Bugs को identify और fix करना",
+        "performance": "Performance को optimize करना"
+      },
+      "security": {
+        "title": "5. Security और Compliance:",
+        "fraud": "Fraud और abuse को prevent करना",
+        "terms": "हमारे terms of use को enforce करना",
+        "legal": "कानूनी दायित्वों का पालन करना"
+      }
+    },
+    "retention": {
+      "title": "6. Data Retention",
+      "periods": {
+        "title": "6.1. Retention Periods",
+        "profile": "Profile Data: जब तक आपका account active है तब तक retained",
+        "analytics": "Logs और Analytics: Firebase Analytics: 14 महीने (Firebase policy)"
+      },
+      "deletion": {
+        "title": "6.2. Data Deletion",
+        "p1": "आप किसी भी समय अपने account के deletion का अनुरोध कर सकते हैं (Section 7 देखें)।",
+        "legal": "कानूनी Retention: कुछ data हमारे कानूनी दायित्वों का पालन करने के लिए अधिक समय तक retained किया जा सकता है (जैसे security reports, financial transactions)।"
+      }
+    },
+    "rights": {
+      "title": "7. आपके अधिकार (GDPR)",
+      "intro": "GDPR के तहत, आपके पास निम्नलिखित अधिकार हैं:",
+      "access": {
+        "title": "7.1. Access का अधिकार",
+        "p1": "आप हमारे पास मौजूद सभी data की एक copy का अनुरोध कर सकते हैं।",
+        "how": "इस अधिकार का उपयोग कैसे करें: Settings > Privacy > \"Export My Data\"",
+        "process": "यह process एक JSON file generate करती है जिसमें आपका सभी data होता है (profile, messages, statistics, आदि)। Download link 7 दिनों के लिए valid है।"
+      },
+      "rectification": {
+        "title": "7.2. Rectification का अधिकार",
+        "p1": "आप किसी भी समय एप्लिकेशन से अपनी profile information को modify कर सकते हैं (username, bio, preferences, आदि)।"
+      },
+      "erasure": {
+        "title": "7.3. Erasure का अधिकार (\"Right to be Forgotten\")",
+        "p1": "आप अपने account के deletion का अनुरोध कर सकते हैं।",
+        "how": "इस अधिकार का उपयोग कैसे करें: Settings > Danger Zone > \"Delete My Account\"",
+        "process": {
+          "title": "Automated Deletion Process:",
+          "step1": "गलती से deletion को रोकने के लिए two-step confirmation",
+          "step2": "आपके personal data का तुरंत anonymization (Firestore)",
+          "step3": "आपके Firebase Authentication account का deletion (स्वचालित रूप से सभी OAuth tokens को revoke करता है)",
+          "step4": "Reference के रूप में एक anonymized ID प्रदान की जाती है",
+          "step5": "आपके messages और generated content को delete करने का option"
+        },
+        "important": "महत्वपूर्ण: Deletion irreversible है। कुछ anonymized data statistical purposes के लिए retained किया जा सकता है (GDPR-compliant)।",
+        "manual": "Manual Deletion Requests: विशिष्ट data deletion requests के लिए (जैसे केवल एक specific community के messages delete करना, Storage images delete करना, या अन्य edge cases), कृपया हमारे Data Protection Officer को dpo@jynx.app पर संपर्क करें। हम GDPR द्वारा आवश्यक 30 दिनों के भीतर manual requests को process करेंगे।"
+      },
+      "portability": {
+        "title": "7.4. Data Portability का अधिकार",
+        "p1": "Data export (Section 7.1) आपको structured, machine-readable format (JSON) में अपना data retrieve करने की अनुमति देता है।"
+      },
+      "objection": {
+        "title": "7.5. Object करने का अधिकार",
+        "p1": "आप direct marketing purposes के लिए अपने data की processing पर object कर सकते हैं।"
+      },
+      "withdraw": {
+        "title": "7.6. Consent Withdraw करने का अधिकार",
+        "p1": "आप अपनी consent इसके लिए withdraw कर सकते हैं:",
+        "analytics": "Analytics: Settings > Privacy > \"Enable Analytics\" को disable करें",
+        "notifications": "Push Notifications: Device settings",
+        "oauth": "नोट: जब आप अपना account delete करते हैं तो OAuth tokens (Google, Apple) स्वचालित रूप से revoke हो जाते हैं (Section 7.3)।"
+      }
+    },
+    "security": {
+      "title": "8. Data Security",
+      "intro": "हम आपके data को protect करने के लिए technical और organizational security measures लागू करते हैं:",
+      "encryption": "Encryption: HTTPS के माध्यम से secure communication",
+      "rules": "Firebase Security Rules: Firestore data तक strict access control",
+      "auth": "Authentication: Firebase Auth के माध्यम से secure session management",
+      "validation": "Input Validation: SecureTextInput के माध्यम से XSS injection prevention",
+      "rate_limiting": "Rate Limiting: Abuse से protection (spam messages, automated actions)",
+      "moderation": "Moderation: Content reporting और moderation system",
+      "breach": "कोई भी system 100% secure नहीं है। Data breach की स्थिति में, हम आपको GDPR के अनुपालन में सूचित करेंगे (72 घंटों के भीतर)।"
+    },
+    "international": {
+      "title": "9. International Data Transfers",
+      "p1": "आपका data यूरोपीय संघ के बाहर स्थित servers पर transfer और store किया जा सकता है, जिसमें शामिल हैं:",
+      "google": "Google Cloud / Firebase: GDPR compliance के साथ global infrastructure का उपयोग करता है",
+      "sentry": "Sentry: Privacy Shield compliance के साथ US-based servers",
+      "guarantees": "गारंटी: हमारे सभी partners GDPR के बराबर protection guarantees प्रदान करते हैं (standard contractual clauses, Privacy Shield certifications)।"
+    },
+    "cookies": {
+      "title": "10. Cookies और Similar Technologies",
+      "p1": "हमारा mobile application पारंपरिक अर्थ में cookies का उपयोग नहीं करता, लेकिन उपयोग करता है:",
+      "tokens": "Authentication Tokens: Secure तरीके से locally stored",
+      "cache": "Local Cache: Performance में सुधार के लिए (profile data, recent messages)"
+    },
+    "changes": {
+      "title": "11. इस Policy में परिवर्तन",
+      "p1": "हम इस privacy policy को update कर सकते हैं। बड़े परिवर्तनों की स्थिति में, हम आपको सूचित करेंगे:",
+      "notification": "एक in-app notification के माध्यम से",
+      "email": "आपके account से जुड़े email address पर email द्वारा"
+    },
+    "contact": {
+      "title": "12. हमसे संपर्क करें",
+      "p1": "इस privacy policy के बारे में किसी भी प्रश्न के लिए या अपने अधिकारों का उपयोग करने के लिए:",
+      "email": "Email: dpo@jynx.app",
+      "authority": "Supervisory Authority: यदि आपको लगता है कि आपके अधिकारों का सम्मान नहीं किया जा रहा है, तो आप फ्रांस में CNIL (Commission Nationale de l'Informatique et des Libertés) में शिकायत दर्ज कर सकते हैं।"
+    },
+    "consent": {
+      "title": "13. सहमति",
+      "p1": "Jynx का उपयोग करके, आप इस privacy policy में वर्णित अपने data के collection और use के लिए सहमति देते हैं।",
+      "p2": "आप किसी भी समय अपना account delete करके अपनी सहमति withdraw कर सकते हैं।"
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Jynx | Terms of Service",
+      "description": "Jynx के Terms of Service पढ़ें। ये terms हमारे gaming community platform का उपयोग करते समय आपके अधिकारों और जिम्मेदारियों को outline करते हैं।",
+      "og_title": "Jynx सेवा की शर्तें",
+      "og_description": "शर्तें जो Jynx प्लेटफॉर्म पर आपके अधिकारों और जिम्मेदारियों का वर्णन करती हैं।",
+      "og_image_alt": "Jynx सेवा की शर्तें",
+      "twitter_title": "Jynx सेवा की शर्तें",
+      "twitter_description": "शर्तें जो आपके अधिकारों और जिम्मेदारियों का वर्णन करती हैं।",
+      "twitter_image_alt": "सेवा की शर्तें"
+    },
+    "title": "Terms of Service",
+    "last_updated": "आखिरी अपडेट: मार्च 2025",
+    "intro": {
+      "title": "परिचय",
+      "p1": "Jynx में आपका स्वागत है, एक सोशल प्लेटफॉर्म जो गेमर्स को मिलने और साथ खेलने में मदद करने के लिए डिज़ाइन किया गया है। ये Terms of Service (\"Terms\") Jynx एप्लिकेशन और website (सामूहिक रूप से, \"Service\") तक आपकी access और use को govern करते हैं। कृपया हमारी Service का उपयोग करने से पहले इन Terms को ध्यान से पढ़ें।",
+      "p2": "Service को access या use करके, आप इन Terms से बाध्य होने के लिए सहमत होते हैं। यदि आप Terms के किसी भी हिस्से से असहमत हैं, तो आप Service को access नहीं कर सकते।"
+    },
+    "eligibility": {
+      "title": "1. पात्रता",
+      "p1": "Jynx पर account बनाने और Service का उपयोग करने के लिए आपकी आयु कम से कम 18 वर्ष होनी चाहिए। Account बनाकर और Service का उपयोग करके, आप represent और warrant करते हैं कि:",
+      "li1": "आपकी आयु कम से कम 18 वर्ष है।",
+      "li2": "आप Jynx के साथ एक बाध्यकारी contract बना सकते हैं।",
+      "li3": "आप ऐसे व्यक्ति नहीं हैं जिसे किसी applicable jurisdiction के कानूनों के तहत Service का उपयोग करने से रोका गया है।",
+      "li4": "आप इन Terms और सभी applicable local, state, national, और international laws, rules, और regulations का पालन करेंगे।"
+    },
+    "account": {
+      "title": "2. आपका Account",
+      "p1": "जब आप हमारे साथ एक account बनाते हैं, तो आपको accurate, complete, और current information प्रदान करनी होगी। ऐसा न करना Terms का उल्लंघन है, जिसके परिणामस्वरूप आपके account का तुरंत termination हो सकता है।",
+      "p2": "आप Service को access करने के लिए उपयोग किए जाने वाले password की सुरक्षा और अपने password के तहत किसी भी activities या actions के लिए जिम्मेदार हैं। हम आपको अपने account के साथ \"strong\" passwords (passwords जो upper और lower case letters, numbers, और symbols के combination का उपयोग करते हैं) उपयोग करने के लिए प्रोत्साहित करते हैं।",
+      "p3": "आप सहमत हैं कि अपना password किसी third party को disclose नहीं करेंगे। आपको किसी भी security breach या अपने account के unauthorized use के बारे में जागरूक होने पर तुरंत हमें सूचित करना होगा।"
+    },
+    "premium": {
+      "title": "3. Free Service और Premium Features",
+      "p1": "Jynx तक basic access मुफ्त में प्रदान की जाती है। हालांकि, कुछ premium features के लिए payment की आवश्यकता हो सकती है। यदि आप premium features का उपयोग करना चुनते हैं, तो आप सभी applicable fees का भुगतान करने के लिए सहमत हैं।",
+      "p2": "हम किसी भी समय अपने offered subscription plans और paid features को modify, terminate, या otherwise amend करने का अधिकार सुरक्षित रखते हैं।"
+    },
+    "content_conduct": {
+      "title": "4. Content और Conduct",
+      "user_content": "a. User Content",
+      "p1": "हमारी Service आपको कुछ information, text, graphics, videos, या अन्य material (\"Content\") को post, link, store, share और otherwise available बनाने की अनुमति देती है। आप Service पर या Service के माध्यम से post किए गए Content के लिए जिम्मेदार हैं, जिसमें इसकी legality, reliability, और appropriateness शामिल है।",
+      "p2": "Service पर या Service के माध्यम से Content post करके, आप represent और warrant करते हैं कि:",
+      "li1": "Content आपका है (आप इसके owner हैं) या आपके पास इसे use करने और इन Terms में प्रदान किए गए अनुसार हमें rights और license grant करने का अधिकार है।",
+      "li2": "Service पर या Service के माध्यम से आपके Content को post करना किसी भी व्यक्ति के privacy rights, publicity rights, copyrights, contract rights या किसी अन्य rights का उल्लंघन नहीं करता।",
+      "prohibited": "b. Prohibited Content और Behavior",
+      "p3": "आप Service का उपयोग किसी ऐसे purpose के लिए नहीं कर सकते जो illegal है या इन Terms द्वारा prohibited है। आप सहमत हैं कि Service का उपयोग इसके लिए नहीं करेंगे:",
+      "li3": "Pornographic, discriminatory, racist, या otherwise offensive content को post, upload, या distribute करना।",
+      "li4": "अन्य users को harass, bully, या intimidate करना।",
+      "li5": "किसी भी व्यक्ति या entity का impersonate करना, या किसी व्यक्ति या entity के साथ अपनी affiliation को falsely state या otherwise misrepresent करना।",
+      "li6": "Service या Service से connected servers या networks को interfere या disrupt करना।",
+      "li7": "Service के उन हिस्सों तक unauthorized access प्राप्त करने का प्रयास करना जो restricted हैं।",
+      "li8": "Service का उपयोग किसी harmful या malicious purpose के लिए करना।",
+      "li9": "किसी illegal activities को promote या participate करना।",
+      "removal": "c. Content Removal और Account Termination",
+      "p4": "हम अधिकार सुरक्षित रखते हैं, लेकिन दायित्व नहीं:",
+      "li10": "Service पर किसी भी Content को remove या distribute करने से इनकार करना जो इन Terms का उल्लंघन करता है।",
+      "li11": "किसी भी कारण से, इन Terms के उल्लंघन सहित, Service के सभी या हिस्से तक आपकी access को terminate या suspend करना।",
+      "li12": "Service के किसी illegal या unauthorized use के लिए users के खिलाफ appropriate legal action लेना।"
+    },
+    "intellectual": {
+      "title": "5. Intellectual Property",
+      "service": "a. Service",
+      "p1": "Service और इसकी original content (users द्वारा प्रदान की गई Content को छोड़कर), features, और functionality Jynx और इसके licensors की exclusive property है और रहेगी। Service copyright, trademark, और United States और foreign countries दोनों के अन्य कानूनों द्वारा protected है। हमारे trademarks और trade dress का उपयोग Jynx की पूर्व written consent के बिना किसी product या service के connection में नहीं किया जा सकता।",
+      "user_content": "b. User Content",
+      "p2": "Service को Content submit करके, आप हमें एक worldwide, non-exclusive, royalty-free license (sublicense करने के अधिकार के साथ) grant करते हैं ताकि ऐसी Content को use, copy, reproduce, process, adapt, modify, publish, transmit, display और distribute किया जा सके किसी भी और सभी media या distribution methods में जो अब ज्ञात हैं या बाद में developed हैं।",
+      "p3": "आप सहमत हैं कि इस license में Jynx के लिए Service को provide, promote, और improve करने और Service को या Service के माध्यम से submit की गई Content को अन्य companies, organizations या individuals के लिए ऐसी Content के distribution के लिए available बनाने का अधिकार शामिल है।"
+    },
+    "privacy": {
+      "title": "6. Privacy",
+      "p1": "आपकी privacy हमारे लिए महत्वपूर्ण है। कृपया अपनी personal information के संबंध में हमारी practices को समझने के लिए हमारी Privacy Policy की समीक्षा करें। Service का उपयोग करके, आप हमारी Privacy Policy के अनुसार information के collection और use के लिए सहमत हैं।"
+    },
+    "third_party": {
+      "title": "7. Third-Party Links",
+      "p1": "हमारी Service में third-party websites या services के links हो सकते हैं जो Jynx द्वारा owned या controlled नहीं हैं। हमारा किसी third-party websites या services की content, privacy policies, या practices पर कोई control नहीं है, और हम कोई जिम्मेदारी नहीं लेते। आप आगे acknowledge और agree करते हैं कि Jynx किसी ऐसी content, goods, या services के use या reliance के connection में caused या alleged to be caused किसी damage या loss के लिए, directly या indirectly, responsible या liable नहीं होगा जो किसी ऐसी websites या services पर या through available हैं।"
+    },
+    "limitation": {
+      "title": "8. Limitation of Liability",
+      "p1": "किसी भी स्थिति में Jynx, न ही इसके directors, employees, partners, agents, suppliers, या affiliates, किसी indirect, incidental, special, consequential, या punitive damages के लिए liable होंगे, जिसमें बिना सीमा के, profits, data, use, goodwill, या other intangible losses का loss शामिल है, जो इससे उत्पन्न होते हैं:",
+      "li1": "Service तक आपकी access या use या Service तक access या use करने में असमर्थता।",
+      "li2": "Service पर किसी third party की कोई conduct या content।",
+      "li3": "Service से प्राप्त कोई content।",
+      "li4": "आपके transmissions या content की unauthorized access, use, या alteration।"
+    },
+    "disclaimer": {
+      "title": "9. Disclaimer",
+      "p1": "Service का आपका उपयोग आपके sole risk पर है। Service \"AS IS\" और \"AS AVAILABLE\" आधार पर प्रदान की जाती है। Service बिना किसी warranties के प्रदान की जाती है, चाहे express या implied, जिसमें शामिल हैं, लेकिन इन तक सीमित नहीं है, merchantability, fitness for a particular purpose, non-infringement, या course of performance की implied warranties।"
+    },
+    "dispute": {
+      "title": "10. Dispute Resolution",
+      "governing": "a. Governing Law",
+      "p1": "ये Terms फ्रांस के कानूनों के अनुसार governed और construed किए जाएंगे, इसके conflict of law provisions के संबंध के बिना।",
+      "arbitration": "b. Arbitration",
+      "p2": "इन Terms की subject matter से arising या relating कोई भी dispute अंततः Paris, France में arbitration द्वारा settled किया जाएगा, French language का उपयोग करते हुए Judicial Arbitration and Mediation Services, Inc. (JAMS) के तब प्रभावी Arbitration Rules और Procedures के अनुसार, intellectual property और commercial contract disputes को resolve करने में substantial experience वाले एक commercial arbitrator द्वारा।"
+    },
+    "changes": {
+      "title": "11. Terms में परिवर्तन",
+      "p1": "हम किसी भी समय, अपने sole discretion पर, इन Terms को modify या replace करने का अधिकार सुरक्षित रखते हैं। यदि revision material है, तो हम किसी भी नए terms के प्रभावी होने से पहले कम से कम 30 दिनों का notice देने की कोशिश करेंगे। क्या material change है यह हमारे sole discretion पर निर्धारित किया जाएगा।",
+      "p2": "उन revisions के प्रभावी होने के बाद हमारी Service को access या use करना जारी रखने से, आप revised Terms से बाध्य होने के लिए सहमत होते हैं। यदि आप नए Terms से सहमत नहीं हैं, तो कृपया Service का उपयोग बंद करें।"
+    },
+    "contact": {
+      "title": "12. हमसे संपर्क करें",
+      "p1": "यदि इन Terms के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे संपर्क करें:",
+      "email": "Email: terms@jynx.app"
+    }
+  },
+  "nav": {
+    "home": "होम",
+    "solution": "समाधान",
+    "feedback": "फीडबैक"
+  },
+  "header": {
+    "cta": "Jynx पाएं"
+  },
+  "hero": {
+    "title": "जहाँ गेमिंग हो जाती है सोशल",
+    "subtitle": "ऐसे teammates खोजें जो आपकी style, skill level, और schedule से match करें",
+    "description": "",
+    "pre_launch_text": "Jynx डाउनलोड करें और अपनी gaming community में शामिल हों",
+    "app_store_small": "Download करें",
+    "app_store_large": "App Store पर",
+    "play_store_small": "पाएं",
+    "play_store_large": "Google Play पर",
+    "cta_primary": "अपनी COMMUNITY में शामिल हों"
+  },
+  "features": {
+    "title": "बेहतर खेलें, साथ में",
+    "subtitle": "आधुनिक खिलाड़ियों के लिए डिज़ाइन किए गए intelligent gaming community tools",
+    "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग preferences, play styles, और community interests के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर",
+    "cards": {
+      "scheduling": {
+        "title": "Intelligent Matchmaking",
+        "description": "सेकंडों में अपना perfect gaming squad खोजें - ऐसे players जो आपके skill level, play style, और schedule से match करें"
+      },
+      "finder": {
+        "title": "Community Discovery",
+        "description": "ऐसी gaming communities खोजें जो आपकी interests और play style से perfectly match करती हैं"
+      },
+      "communication": {
+        "title": "Real-time Communication",
+        "description": "कभी कोई message miss न करें - chat seamlessly काम करती है भले ही आपका connection न करे"
+      },
+      "sessions": {
+        "title": "Gaming Sessions",
+        "description": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें"
+      }
+    }
+  },
+  "gaming_sections": {
+    "intelligent_matchmaking": {
+      "title": "Intelligent Matchmaking",
+      "subtitle": "सेकंडों में अपना perfect gaming squad खोजें - ऐसे players जो आपके skill level, play style, और schedule से match करें"
+    },
+    "community_building": {
+      "title": "Community Building",
+      "subtitle": "अपनी खुद की community बनाएं और एक leader बनें। अपने criteria से match करने वाले अपने teammates को recruit करें, अपने goals set करें, और अपनी limits push करें। आपकी community, आपके rules, आपकी success"
+    },
+    "global_chat": {
+      "title": "Global Chat",
+      "subtitle": "Global chat के माध्यम से सैकड़ों लोगों के साथ real-time conversations में engage हों, अपने ELO से stand out करें, और ऐसे teammates के साथ connect करें जो आपके जैसे हैं"
+    },
+    "gaming_sessions": {
+      "title": "Gaming Sessions",
+      "subtitle": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें"
+    }
+  },
+  "problem": {
+    "title": "चुनौती",
+    "description": "Competitive gaming में compatible teammates खोजना अक्सर frustrating और time-consuming होता है। Random matchmaking शायद ही कभी आपको ऐसे players से connect करती है जो आपकी communication style, skill level, और schedule से match करते हैं।"
+  },
+  "solution": {
+    "title": "Jynx से मिलें",
+    "description": "हमारा intelligent platform आपको आपके actual gameplay preferences के आधार पर perfect gaming companions से connect करता है, यह सुनिश्चित करते हुए कि हर match बेहतर gaming experience की ओर ले जाता है।",
+    "benefits": {
+      "scheduling": "Gaming sessions schedule करें जो सभी की availability के साथ काम करें",
+      "time": "Compatible teammates की खोज में घंटों बचाएं",
+      "playstyle": "ऐसे players के साथ connect करें जो आपकी communication style और game approach share करते हैं"
+    }
+  },
+  "collaborative": {
+    "title": "Jynx के भविष्य को साथ में shape करें",
+    "description": "Jynx एक community-driven project है जो आपके input के साथ evolve करता है। हम मानते हैं कि सबसे अच्छे social gaming platforms players के लिए, players के साथ बनाए जाते हैं",
+    "discord": "हमारे Discord में शामिल हों",
+    "ideas": "अपने Ideas शेयर करें"
+  },
+  "form": {
+    "email": {
+      "label": "Email Address",
+      "placeholder": "अपना email दर्ज करें",
+      "error": "कृपया एक valid email address दर्ज करें"
+    },
+    "optional": "वैकल्पिक",
+    "submit": "Waitlist में शामिल हों",
+    "submitting": "Submit हो रहा है...",
+    "success": "आप अंदर हैं! जब Jynx launch होगा तो हम आपको notify करेंगे।",
+    "error": "Oops! कुछ गलत हुआ। कृपया फिर से कोशिश करें।",
+    "errors": {
+      "permission_denied": "आपके पास यह form submit करने की permission नहीं है।",
+      "invalid_argument": "आपके द्वारा प्रदान की गई information invalid है।",
+      "not_found": "Resource नहीं मिला। कृपया बाद में फिर से कोशिश करें।",
+      "server_unavailable": "हमारे servers वर्तमान में unavailable हैं। कृपया बाद में फिर से कोशिश करें।",
+      "too_many_requests": "बहुत सारे requests। कृपया बाद में फिर से कोशिश करें।",
+      "server_error": "हमारी तरफ से एक error हुआ। कृपया फिर से कोशिश करें।",
+      "network_error": "Network connection error। कृपया अपना internet connection check करें।",
+      "timeout": "Request timeout हो गया। कृपया फिर से कोशिश करें।",
+      "invalid_email": "कृपया एक valid email address दर्ज करें।",
+      "empty_field": "यह field खाली नहीं हो सकती।",
+      "default": "एक unexpected error हुआ। कृपया फिर से कोशिश करें।"
+    }
+  },
+  "feedback": {
+    "title": "आपके सुझाव, हमारी प्राथमिकता",
+    "feedback": "आपका feedback",
+    "subtitle": "कोई spam नहीं। हम आपसे केवल तभी संपर्क करेंगे जब Jynx launch होगा।",
+    "yes": "हां",
+    "no": "नहीं",
+    "textarea": "हमें बताएं कि आप Jynx में क्या add या modify करना चाहते हैं",
+    "submit": "भेजें",
+    "note": "हमेशा के लिए free",
+    "submitting": "Submit हो रहा है...",
+    "thanks": "आपके feedback के लिए धन्यवाद!",
+    "error": "Feedback submit नहीं हो सका। कृपया फिर से कोशिश करें।",
+    "error_empty": "कृपया अपना email या feedback प्रदान करें।"
+  },
+  "footer": {
+    "company": {
+      "title": "कंपनी",
+      "about": "हमारे बारे में"
+    },
+    "legal": {
+      "title": "कानूनी",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "copyright": "© 2024 Jynx. सर्वाधिकार सुरक्षित।",
+    "language": "भाषा"
+  },
+  "errors": {
+    "generic": "कुछ गलत हुआ। कृपया फिर से कोशिश करें।",
+    "network": "Network error। कृपया अपना connection check करें।",
+    "validation": "कृपया अपना input check करें और फिर से कोशिश करें।",
+    "not_found": "Page नहीं मिला।",
+    "server": "Server error। कृपया बाद में फिर से कोशिश करें।"
+  },
+  "accessibility": {
+    "skip_to_content": "Main content पर skip करें",
+    "menu_toggle": "Navigation menu toggle करें",
+    "theme_toggle": "Dark mode toggle करें",
+    "language_selector": "भाषा चुनें",
+    "close_modal": "Modal बंद करें"
+  },
+  "theme-feedback": {
+    "submit": "Feedback Submit करें",
+    "title": "आपको कौन से colors पसंद हैं?",
+    "description": "इसे apply करने के लिए एक theme tile पर click करें। अपनी पसंदीदा themes के \"Like\" boxes को check करें अपनी preferences submit करने के लिए।",
+    "thanks": "आपके theme feedback के लिए धन्यवाद!",
+    "current_theme": "Current theme:"
+  },
+  "download": {
+    "meta": {
+      "title": "Jynx Download करें - Gaming Social Platform",
+      "description": "Jynx Download करें - Gamers के साथ connect करें, teammates खोजें, communities में शामिल हों। iOS और Android पर उपलब्ध।",
+      "og_title": "Jynx ऐप डाउनलोड करें - अपना गेमिंग स्क्वाड खोजें",
+      "og_description": "iOS या Android पर Jynx ऐप प्राप्त करें। एआई मैचमेकिंग के साथ संगत टीममेट्स खोजना शुरू करें।",
+      "og_image_alt": "Jynx गेमिंग ऐप डाउनलोड करें",
+      "twitter_title": "Jynx डाउनलोड करें - गेमिंग सोशल प्लेटफॉर्म",
+      "twitter_description": "iOS या Android पर Jynx ऐप प्राप्त करें। आज टीममेट्स खोजना शुरू करें।",
+      "twitter_image_alt": "Jynx मोबाइल ऐप"
+    },
+    "hero": {
+      "title": "Jynx - Gaming Social Platform",
+      "subtitle": "Gamers के साथ connect करें, teammates खोजें, communities में शामिल हों",
+      "status": "Coming Soon: iOS और Android पर उपलब्ध"
+    },
+    "store": {
+      "app_store": {
+        "text_small": "Download करें",
+        "text_large": "App Store पर"
+      },
+      "google_play": {
+        "text_small": "पाएं",
+        "text_large": "Google Play पर"
+      },
+      "coming_soon": "Coming Soon"
+    },
+    "signup": {
+      "title": "हमारे Launch होने पर Notified होएं",
+      "description": "पहले जानें जब Jynx आपके platform पर उपलब्ध हो",
+      "email_placeholder": "अपना email दर्ज करें",
+      "submit": "मुझे Notify करें"
+    },
+    "social": {
+      "title": "अपने gaming squad के साथ शेयर करें",
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "copy_link": "Link Copy करें"
+    },
+    "info": {
+      "title": "अपने Gaming Experience को Transform करें",
+      "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, gaming preferences, play styles, और community interests के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर। अपना perfect gaming squad खोजें और फिर कभी अकेले न खेलें।"
+    },
+    "js_messages": {
+      "share_twitter": "Jynx को देखें - gaming social platform जो solo gaming को social experiences में बदल देता है! 🎮",
+      "share_discord_alert": "Link copy हो गया! अब आप इसे Discord में paste करके अपने gaming friends के साथ शेयर कर सकते हैं।",
+      "copy_success": "✓ Copy हो गया!",
+      "copy_fallback": "Link clipboard में copy हो गया!",
+      "form_submitting": "Submit हो रहा है...",
+      "form_success": "✓ धन्यवाद! जब Jynx mobile पर launch होगा तो हम आपको notify करेंगे।",
+      "form_error": "कुछ गलत हुआ। कृपया फिर से कोशिश करें।"
+    },
+    "features": {
+      "title": "Mobile में क्या आ रहा है",
+      "subtitle": "Jynx की सारी power, आपके phone के लिए optimized",
+      "cards": {
+        "instant_connect": {
+          "title": "Instant Connect",
+          "description": "अपने notification से सिर्फ एक tap में voice chats और gaming sessions में शामिल हों"
+        },
+        "notifications": {
+          "title": "Smart Notifications",
+          "description": "Notified हों जब आपके favorite teammates online आएं या जब perfect matches मिलें"
+        },
+        "cross_platform": {
+          "title": "Cross-Platform Sync",
+          "description": "आपकी conversations, matches, और communities mobile और desktop पर sync में रहते हैं"
+        },
+        "offline_mode": {
+          "title": "Offline Mode",
+          "description": "बिना internet connection के भी अपने matches देखें और sessions plan करें"
+        }
+      }
+    },
+    "theme_feedback": {
+      "title": "App Design करने में हमारी मदद करें",
+      "description": "आप mobile app के लिए कौन सी color scheme prefer करेंगे? आपका feedback हमें perfect experience बनाने में मदद करता है।",
+      "current_theme": "Current theme:",
+      "submit": "App Theme Preference Submit करें",
+      "thanks": "App interface design करने में मदद करने के लिए धन्यवाद!"
+    }
+  },
+  "use_cases": {
+    "title": "वास्तविक गेमर्स, वास्तविक कहानियां",
+    "subtitle": "देखें कैसे Jynx AI matchmaking ने gamers को उनके perfect squads खोजने में मदद की",
+    "competitive": {
+      "title": "Competitive Players के लिए",
+      "quote": "मैं एक Diamond League of Legends player हूं जो एक consistent ranked squad की तलाश में था। Jynx के AI matchmaking ने मुझे मेरे skill level के players से connect किया जो same roles खेलते हैं और similar schedules रखते हैं। हम सिर्फ 2 महीनों में Diamond IV से Diamond I तक पहुंच गए!",
+      "name": "Alex, 24",
+      "role": "Diamond League of Legends Player",
+      "stat1": "+400 LP हासिल किए",
+      "stat2": "78% Win Rate"
+    },
+    "casual": {
+      "title": "Casual Gamers के लिए",
+      "quote": "मैं सिर्फ chill लोगों को ढूंढना चाहती थी जिनके साथ weekends पर co-op games खेल सकूं। Jynx के player discovery ने मुझे profiles के through swipe करने और ऐसे gamers से connect करने दिया जो मेरी vibe share करते हैं। अब मेरे पास Valorant unrated matches के लिए एक regular group है और यह बहुत मज़ेदार है!",
+      "name": "Sarah, 21",
+      "role": "Casual Valorant Player",
+      "stat1": "15+ Gaming Friends",
+      "stat2": "Weekly Gaming Nights"
+    },
+    "community": {
+      "title": "Community Leaders के लिए",
+      "quote": "मैं indie game enthusiasts के लिए 500-member community चलाता हूं। Jynx के community features मुझे events organize करने, discussions moderate करने, और real-time chat के साथ सभी को engaged रखने में मदद करते हैं। AI matchmaking members को हमारी community के भीतर instantly teammates खोजने में मदद करता है।",
+      "name": "Marcus, 28",
+      "role": "Gaming Community Leader",
+      "stat1": "500+ Members",
+      "stat2": "50+ Weekly Matches"
+    },
+    "solo": {
+      "title": "Solo Players के लिए",
+      "quote": "अकेले gaming करना मज़ेदार नहीं रह गया था। Jynx ने मुझे अपने favorite games के आसपास communities discover करने में मदद की और अब मेरे पास हर रात खेलने के लिए एक regular group है। AI ने मुझे perfectly ऐसे लोगों से match किया जो same gaming goals रखते हैं - casual लेकिन competitive जब matter करता है।",
+      "name": "James, 26",
+      "role": "Former Solo Queue Player",
+      "stat1": "Daily Squad Games",
+      "stat2": "3 Communities Joined"
+    }
+  },
+  "comparison": {
+    "title": "Jynx क्यों है सबसे अच्छा Gaming Matchmaking Platform",
+    "subtitle": "देखें हम अन्य gaming platforms से कैसे compare करते हैं",
+    "table": {
+      "feature": "Feature",
+      "lfg": "Traditional LFG",
+      "ai_matching": "AI-Powered Matchmaking",
+      "auto_finder": "Automatic Teammate Finder",
+      "elo_matching": "Skill-Based Matching (ELO)",
+      "communities": "Gaming Communities",
+      "chat": "Real-Time Chat",
+      "sessions": "Gaming Sessions Scheduling",
+      "integration": "Player Profile Integration",
+      "discovery": "Tinder-Style Player Discovery",
+      "gaming_focused": "Gaming के लिए बनाया गया",
+      "price": "कीमत",
+      "yes": "हां",
+      "no": "नहीं",
+      "manual": "Manual search",
+      "limited": "सीमित",
+      "manual_posts": "Manual posts",
+      "basic": "Basic",
+      "builtin": "Built-in",
+      "servers": "Servers",
+      "teams": "Teams",
+      "advanced": "Advanced",
+      "riot_api": "Riot API",
+      "general": "General",
+      "varies": "अलग-अलग",
+      "free_forever": "हमेशा के लिए मुफ्त",
+      "free_varies": "Free/अलग-अलग"
+    },
+    "cta": {
+      "title": "अंतर का अनुभव करने के लिए तैयार हैं?",
+      "description": "10,000+ gamers में शामिल हों जिन्होंने Jynx AI matchmaking के साथ अपने perfect squads पाए",
+      "button": "AI के साथ Matching शुरू करें - हमेशा के लिए मुफ्त"
+    }
+  },
+  "reviews": {
+    "title": "गेमर्स Jynx के बारे में क्या कहते हैं",
+    "subtitle": "10,000+ खिलाड़ी पहले से ही अपने perfect squads खोज चुके हैं",
+    "cards": {
+      "mike": {
+        "name": "Mike Chen",
+        "role": "League of Legends Player",
+        "rating": 5,
+        "quote": "Jynx ने मेरे gaming experience को बदल दिया। अब मुझे असल में मेरे vibe से match करने वाले teammates मिलते हैं। कोई और toxic random players नहीं!"
+      },
+      "sarah": {
+        "name": "Sarah Johnson",
+        "role": "Valorant Enthusiast",
+        "rating": 5,
+        "quote": "सबसे अच्छा matchmaking platform जो मैंने उपयोग किया है। AI-powered system सही teammates ढूंढने में सचमुच अच्छा काम करता है। बेहद recommend करती हूं!"
+      },
+      "alex": {
+        "name": "Alex Rivera",
+        "role": "Competitive Gamer",
+        "rating": 5,
+        "quote": "मैंने teammates खोजने की कोशिश में Discord servers में बहुत समय बर्बाद किया। Jynx के साथ, मैं मिनटों में एक पूरी squad पा लेता हूं। Game changer!"
+      },
+      "emma": {
+        "name": "Emma Davis",
+        "role": "Casual Player",
+        "rating": 5,
+        "quote": "मुझे यह पसंद है कि मैं ऐसे players खोज सकती हूं जो मेरे schedule से match करते हैं। कोई और late-night games नहीं जब मैं सुबह काम कर रही हूं!"
+      },
+      "david": {
+        "name": "David Kim",
+        "role": "Community Leader",
+        "rating": 5,
+        "quote": "Jynx के community features एक dream हैं। मैंने एक 200-member guild बनाया और events organize करना पहले कभी इतना आसान नहीं रहा।"
+      },
+      "lisa": {
+        "name": "Lisa Martinez",
+        "role": "Former Solo Player",
+        "rating": 5,
+        "quote": "Solo queue से squad gaming में जाना जीवन बदलने वाला रहा है। Jynx ने मुझे अद्भुत लोगों से मिलवाया जो अब मेरे असली दोस्त हैं!"
+      }
+    },
+    "cta": {
+      "title": "अपने Perfect Squad खोजने के लिए तैयार हैं?",
+      "description": "हजारों खुश gamers में शामिल हों",
+      "button": "मुफ्त में शुरू करें"
+    }
+  },
+  "faq": {
+    "title": "अक्सर पूछे जाने वाले प्रश्न",
+    "subtitle": "Jynx के बारे में वह सब कुछ जो आपको जानना चाहिए",
+    "questions": {
+      "what_is": {
+        "question": "Jynx क्या है?",
+        "answer": "Jynx एक AI-powered gaming matchmaking platform है जो आपको आपके skill level, play style, और schedule के आधार पर perfect teammates खोजने में मदद करता है। यह Discord और traditional LFG platforms का एक modern विकल्प है, gaming communities के लिए विशेष रूप से designed है।"
+      },
+      "how_matching": {
+        "question": "AI matchmaking कैसे काम करता है?",
+        "answer": "हमारा AI आपके gaming preferences, skill level (ELO), favorite champions, play style, और availability को analyze करता है ताकि आपको ऐसे teammates से match किया जा सके जो perfectly आपकी requirements से fit होते हैं। जितना अधिक आप platform का उपयोग करते हैं, matches उतने ही बेहतर होते जाते हैं।"
+      },
+      "games": {
+        "question": "कौन से games support किए जाते हैं?",
+        "answer": "Jynx सभी popular multiplayer games को support करता है, जिनमें League of Legends, Valorant, और अधिक शामिल हैं। हमारा platform game-agnostic है, इसलिए आप किसी भी competitive या cooperative game के लिए communities बना सकते हैं।"
+      },
+      "free": {
+        "question": "क्या Jynx मुफ्त है?",
+        "answer": "हां! Jynx सभी core features के साथ हमेशा के लिए मुफ्त है। कोई hidden costs नहीं, कोई premium tiers नहीं जो essential features को lock करते हैं। हम मानते हैं कि हर gamer को अच्छे teammates खोजने का access होना चाहिए।"
+      },
+      "difference": {
+        "question": "Jynx Discord या अन्य LFG platforms से कैसे अलग है?",
+        "answer": "Traditional LFG platforms के विपरीत जहां आपको manually teammates search करने पड़ते हैं, Jynx AI-powered matchmaking का उपयोग करता है ताकि आपको स्वचालित रूप से compatible players से connect किया जा सके। साथ ही, हमारे पास gaming communities के लिए designed specialized features हैं जैसे ELO-based matching, gaming session scheduling, और Riot API integration।"
+      },
+      "start": {
+        "question": "मैं कैसे शुरुआत करूं?",
+        "answer": "बस Jynx download करें, अपना profile बनाएं, अपने favorite games add करें, और matchmaking शुरू करें! हमारा onboarding process सरल है और आप मिनटों में अपने पहले teammates से connect हो जाएंगे।"
+      },
+      "communities": {
+        "question": "क्या मैं अपनी खुद की gaming community बना सकता हूं?",
+        "answer": "बिल्कुल! Jynx communities (guilds) बनाने और manage करने को आसान बनाता है। आप अपने खुद के community leader बन सकते हैं, अपने criteria set कर सकते हैं, events organize कर सकते हैं, और अपनी gaming tribe grow कर सकते हैं।"
+      },
+      "safe": {
+        "question": "Jynx कितना safe है?",
+        "answer": "Safety हमारी top priority है। हमारे पास robust moderation tools, reporting systems, और community guidelines हैं ताकि सभी के लिए एक positive gaming environment ensure किया जा सके। सभी data Firebase के माध्यम से securely stored है और हम GDPR-compliant हैं।"
+      }
+    },
+    "cta": {
+      "title": "और प्रश्न हैं?",
+      "description": "हमारी community में शामिल हों या support से संपर्क करें",
+      "button": "हमसे संपर्क करें"
+    }
+  },
+  "final_cta": {
+    "title": "Solo Gaming खत्म करें। Squad Gaming शुरू करें।",
+    "subtitle": "हजारों gamers में शामिल हों जिन्होंने Jynx के साथ अपने perfect teammates पाए",
+    "features": {
+      "free": "हमेशा के लिए मुफ्त",
+      "instant": "Instant Matchmaking",
+      "no_card": "कोई Credit Card नहीं चाहिए"
+    },
+    "button": "मुफ्त में शुरू करें",
+    "note": "2 मिनट में setup हो जाता है • कोई download नहीं चाहिए"
+  }
+}

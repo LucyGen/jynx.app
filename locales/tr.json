@@ -1,0 +1,879 @@
+{
+  "meta": {
+    "title": "Jynx | Oyun Sosyalleşiyor",
+    "description": "Jynx, oyun tercihlerine, oyun tarzlarına ve topluluk ilgi alanlarına göre oyuncuları bağlayarak solo oyunu sosyal deneyime dönüştürür.",
+    "keywords": "oyun sosyal platformu, oyuncu eşleştirme, oyun topluluğu, takım oluşturma, oyun arkadaşları, oyuncular için sosyal ağ, League of Legends eşleştirme, Valorant takım arkadaşları bulma, oyun LFG",
+    "og_title": "Jynx - Oyuncular İçin Sosyal Platform",
+    "og_description": "Oyun tercihlerinize ve oyun tarzınıza göre mükemmel takım arkadaşlarınızı bulun. Daha iyi oyun deneyimi için Jynx topluluğuna katılın."
+  },
+  "about": {
+    "meta": {
+      "title": "Jynx Hakkında | Misyonumuz ve Vizyonumuz",
+      "description": "Jynx'in anlamlı bağlantılar yoluyla oyun topluluğunu nasıl dönüştürdüğünü öğrenin. Ekibimizle tanışın, hikayemizi ve oyunu herkes için daha sosyal hale getirme taahhüdümüzü keşfedin.",
+      "og_title": "Jynx Hakkında - Oyunu Sosyalleştiren Ekip",
+      "og_description": "Oyun topluluğunu yeniden tanımlama tutkusuyla birleşmiş ekiple tanışın. Misyonumuzu, vizyonumuzu ve oyunu herkes için daha bağlantılı ve keyifli hale getirme yolculuğumuzu keşfedin."
+    },
+    "hero": {
+      "title": "Oyun Sosyal Devrimini Yönlendirmek",
+      "subtitle": "Jynx'in arkasındaki ekip ve vizyon ile tanışın"
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "content": "Jynx'te oyunun sadece kazanmakla ilgili değil, bağlantı kurmakla ilgili olduğuna inanıyoruz. Misyonumuz, oyuncuların anlamlı ilişkiler kurabilecekleri ve birlikte en iyi deneyimleri yaratabileceği bir platform oluşturmaktır.",
+      "values_title": "Değerlerimiz",
+      "values": {
+        "community": {
+          "title": "Topluluk Öncelikli",
+          "description": "Oyun topluluğunu her kararın merkezine koyuyoruz"
+        },
+        "innovation": {
+          "title": "İnovasyon",
+          "description": "Oyuncuların bağlanma ve oynama şeklini sürekli geliştiriyoruz"
+        },
+        "inclusivity": {
+          "title": "Kapsayıcılık",
+          "description": "Her geçmişten ve yetenek seviyesinden oyuncuyu karşılayan alanlar yaratıyoruz"
+        },
+        "transparency": {
+          "title": "Şeffaflık",
+          "description": "Topluluğumuzla açık ve dürüst diyalog sürdürüyoruz"
+        }
+      }
+    },
+    "story": {
+      "title": "Hikayemiz",
+      "content": "Jynx, oyunculuğun en büyük paradoksunu - çevrimiçi çok oyunculu oyunlar oynadığınız halde sıklıkla yalnız hissetmenizi - çözme tutkusundan doğdu. Kurucularımız rastgele eşleştirmenin hayal kırıklığını ve iyi takım arkadaşları bulmanın zorluğunu ilk elden deneyimlediler.<br><br>2023'te Arthur Bonvallet ve Nathan Nathan daha iyi bir yol oluşturmak için güçlerini birleştirdiler. Modern sosyal ağları sofistike eşleştirme algoritmaları ile birleştirerek, oyuncuların gerçekten bağlanabileceği, birlikte oynayabileceği ve kalıcı arkadaşlıklar kurabileceği bir platform oluşturduk."
+    },
+    "team": {
+      "title": "Ekibimizle Tanışın",
+      "founders_title": "Kurucular",
+      "founders": {
+        "arthur": {
+          "name": "Arthur Bonvallet",
+          "role": "Kurucu Ortak & CEO",
+          "bio": "Bir oyuncu ve girişimci olan Arthur, topluluk ve teknoloji tutkusunu getirerek oyun sosyal bağlantısı için vizyonunu hayata geçiriyor."
+        },
+        "nathan": {
+          "name": "Nathan Nathan",
+          "role": "Kurucu Ortak & CTO",
+          "bio": "Yetenekli bir geliştirici ve rekabetçi oyuncu olan Nathan, Jynx'in sofistike eşleştirme sistemini ve teknik altyapısını yönetiyor."
+        }
+      }
+    },
+    "journey": {
+      "title": "Yolculuğumuz",
+      "milestones": {
+        "2023_q1": {
+          "title": "Jynx Kuruldu",
+          "description": "Arthur ve Nathan oyun sosyal bağlantısı sorununu çözmek için güçlerini birleştirdi"
+        },
+        "2023_q2": {
+          "title": "Beta Lansmanı",
+          "description": "İlk test kullanıcıları topluluğuyla birlikte ilk beta sürümü piyasaya sürüldü"
+        },
+        "2023_q4": {
+          "title": "Topluluk Büyümesi",
+          "description": "Birden fazla oyunda binlerce aktif kullanıcıya ulaşıldı"
+        },
+        "2024_q1": {
+          "title": "Büyük Güncellemeler",
+          "description": "Geliştirilmiş eşleştirme algoritmaları ve yeni topluluk özellikleri tanıtıldı"
+        }
+      }
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "content": "Jynx'in her oyuncu için platform olduğu bir gelecek görüyoruz, burada solo oynamak bir seçimdir, gereklilik değil. Oyunlar, diller ve bölgeler arasında genişlemeye devam ederken, geliştirilmiş eşleştirme ve topluluk özelliklerinde yenilik yapmaya devam ediyoruz.<br><br>Hedefimiz sadece takım arkadaşları bulmak değil, oyun içinde ve dışında devam eden gerçek bağlantılar ve arkadaşlıklar beslemektir."
+    },
+    "join_us": {
+      "title": "Bize Katılın",
+      "content": "Oyunu daha sosyal hale getirme misyonuna ilgi mi duyuyorsunuz? Ekibimize katılacak veya ortaklar olarak işbirliği yapacak yetenekli bireyleri her zaman arıyoruz.",
+      "cta_careers": "Kariyer Fırsatlarına Bakın",
+      "cta_contact": "İletişime Geçin"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Gizlilik Politikası | Jynx",
+      "description": "Jynx'in gizlilik politikasını okuyun. Bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
+      "og_title": "Jynx Gizlilik Politikası",
+      "og_description": "Verilerinizi nasıl işlediğimizi ve gizliliğinizi nasıl koruduğumuzu öğrenin."
+    },
+    "title": "Gizlilik Politikası",
+    "effective_date": "Yürürlük Tarihi: 1 Ocak 2024",
+    "last_updated": "Son Güncelleme: 1 Ocak 2024",
+    "intro": "Jynx (&quot;biz,&quot; &quot;bizim,&quot; veya &quot;bizimki&quot;) gizliliğinizi korumaya kendini adamıştır. Bu gizlilik politikası, hizmetlerimizi kullandığınızda bilgilerinizi toplama, kullanma ve ifşa etme uygulamalarımızı açıklar.",
+    "sections": {
+      "information_collection": {
+        "title": "1. Topladığımız Bilgiler",
+        "subsections": {
+          "account_info": {
+            "title": "1.1 Hesap Bilgileri",
+            "content": "Jynx hesabı oluşturduğunuzda, şunları topluyoruz:<ul><li>E-posta adresi</li><li>Kullanıcı adı</li><li>Profil bilgileri (isteğe bağlı)</li><li>Oyun tercihleri ve istatistikleri</li></ul>"
+          },
+          "usage_data": {
+            "title": "1.2 Kullanım Verileri",
+            "content": "Hizmetimizle nasıl etkileşimde bulunduğunuza dair bilgileri otomatik olarak topluyoruz:<ul><li>Cihaz bilgileri</li><li>Kayıt verileri</li><li>Çerezler ve benzer teknolojiler</li><li>Uygulama içi aktivite</li></ul>"
+          },
+          "third_party": {
+            "title": "1.3 Üçüncü Taraf Hizmetleri",
+            "content": "Üçüncü taraf oyun hesaplarınızı (örn. Riot Games, Discord) bağladığınızda, bu platformlardan belirli bilgileri topluyoruz:<ul><li>Oyun istatistikleri ve rütbeler</li><li>Herkese açık profil bilgileri</li><li>Arkadaş listesi (izin verirseniz)</li></ul>"
+          }
+        }
+      },
+      "information_use": {
+        "title": "2. Bilgilerinizi Nasıl Kullanırız",
+        "content": "Topladığımız bilgileri şu amaçlarla kullanırız:<ul><li>Hizmetimizi sağlamak ve sürdürmek</li><li>Hesabınızı yönetmek</li><li>Sizi uyumlu oyuncularla eşleştirmek</li><li>Kişiselleştirilmiş deneyimler sunmak</li><li>Platformumuzu geliştirmek ve optimize etmek</li><li>Sizinle iletişim kurmak</li><li>Dolandırıcılığı önlemek ve güvenliği sağlamak</li></ul>"
+      },
+      "information_sharing": {
+        "title": "3. Bilgi Paylaşımı",
+        "content": "Kişisel bilgilerinizi aşağıdaki durumlar dışında satmıyoruz veya kiraya vermiyoruz:<ul><li><strong>Diğer kullanıcılarla:</strong> Seçtiğiniz profil bilgileri ve oyun istatistikleri</li><li><strong>Hizmet sağlayıcılarla:</strong> Bizim adımıza hizmet sunan üçüncü taraflar</li><li><strong>Yasal gereksinimler:</strong> Yasalara, düzenlemelere veya yasal sürece uymak için gerektiğinde</li><li><strong>İşletme transferleri:</strong> Birleşme, satın alma veya varlık satışı durumunda</li></ul>"
+      },
+      "data_security": {
+        "title": "4. Veri Güvenliği",
+        "content": "Kişisel bilgilerinizi korumak için endüstri standardı güvenlik önlemleri uyguluyoruz:<ul><li>Şifreleme (transit ve dinlenme halinde)</li><li>Düzenli güvenlik denetimleri</li><li>Sınırlı personel erişimi</li><li>Güvenli veri merkezleri</li></ul>"
+      },
+      "your_rights": {
+        "title": "5. Haklarınız",
+        "content": "Kişisel bilgileriniz hakkında aşağıdaki haklara sahipsiniz:<ul><li><strong>Erişim:</strong> Hakkınızda tuttuğumuz verilerin bir kopyasını talep edin</li><li><strong>Düzeltme:</strong> Yanlış bilgileri güncelleyin</li><li><strong>Silme:</strong> Hesabınızın ve verilerinizin silinmesini talep edin</li><li><strong>Taşınabilirlik:</strong> Verilerinizi yapılandırılmış, yaygın olarak kullanılan formatta alın</li><li><strong>İtiraz:</strong> Belirli veri işlemelerine itiraz edin</li></ul>"
+      },
+      "children_privacy": {
+        "title": "6. Çocukların Gizliliği",
+        "content": "Hizmetimiz 13 yaş altı çocuklara yönelik değildir. Bilerek 13 yaş altı çocuklardan kişisel bilgi toplamıyoruz. Böyle bilgiler topladığımızı öğrenirsek, derhal silmek için adımlar atarız."
+      },
+      "international_transfers": {
+        "title": "7. Uluslararası Veri Transferleri",
+        "content": "Bilgileriniz ikamet ülkenizin dışındaki sunuculara aktarılabilir ve orada muhafaza edilebilir. Bu ülkelerdeki veri koruma yasaları sizinkinden farklı olabilir. Hizmetimizi kullanarak bu transferlere onay verirsiniz."
+      },
+      "cookies": {
+        "title": "8. Çerezler ve İzleme Teknolojileri",
+        "content": "Hizmetimizdeki aktiviteyi izlemek ve belirli bilgileri saklamak için çerezler ve benzer izleme teknolojileri kullanırız. Tarayıcınızı tüm çerezleri reddetmek veya bir çerez gönderildiğinde belirtmek için talimat verebilirsiniz."
+      },
+      "third_party_services": {
+        "title": "9. Üçüncü Taraf Hizmetleri",
+        "content": "Hizmetimiz kendi gizlilik politikalarına sahip üçüncü taraf hizmetlerine bağlantılar içerebilir. Bu sitelerin içeriği veya uygulamalarından sorumlu değiliz."
+      },
+      "gdpr_compliance": {
+        "title": "10. GDPR Uyumluluğu (AB Kullanıcıları)",
+        "content": "Avrupa Ekonomik Alanı'nda (EEA) bulunuyorsanız, Genel Veri Koruma Yönetmeliği (GDPR) kapsamında belirli haklara sahipsiniz:<ul><li>Bilgilendirilmiş onay hakkı</li><li>Erişim hakkı</li><li>Düzeltme hakkı</li><li>Silme hakkı ('unutulma hakkı')</li><li>Veri taşınabilirliği hakkı</li><li>İşlemeyi kısıtlama hakkı</li><li>İtiraz hakkı</li><li>Otomatik karar verme ve profilleme ile ilgili haklar</li></ul>"
+      },
+      "california_privacy": {
+        "title": "11. Kaliforniya Gizlilik Hakları (CCPA)",
+        "content": "Kaliforniya sakinleri, Kaliforniya Tüketici Gizlilik Yasası (CCPA) kapsamında ek haklara sahiptir:<ul><li>Hakkınızda topladığımız kişisel bilgi kategorilerini bilme hakkı</li><li>Kişisel bilgilerin satışından veya paylaşımından vazgeçme hakkı</li><li>Hassas kişisel bilgilerin kullanımını ve ifşasını sınırlama hakkı</li><li>Kişisel bilgilerinize erişim hakkı</li><li>Kişisel bilgilerinizi silme hakkı</li></ul>"
+      },
+      "changes": {
+        "title": "12. Bu Gizlilik Politikasındaki Değişiklikler",
+        "content": "Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler hakkında bu sayfaya yeni gizlilik politikasını göndererek sizi bilgilendireceğiz. Değişiklikler bu sayfada yayınlandığında yürürlüğe girer."
+      },
+      "contact": {
+        "title": "13. Bize Ulaşın",
+        "content": "Bu gizlilik politikası hakkında sorularınız veya endişeleriniz varsa, lütfen bize şu adresten ulaşın:",
+        "email": "E-posta: privacy@jynx.app",
+        "address": "Adres: 6 Quai Magellan, 44000 Nantes, France"
+      }
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Hizmet Şartları | Jynx",
+      "description": "Jynx hizmet şartlarını okuyun. Hizmetimizi kullanırken geçerli kuralları ve düzenlemeleri anlayın.",
+      "og_title": "Jynx Hizmet Şartları",
+      "og_description": "Platformumuzun kullanımını yöneten şartları öğrenin."
+    },
+    "title": "Hizmet Şartları",
+    "effective_date": "Yürürlük Tarihi: 1 Ocak 2024",
+    "last_updated": "Son Güncelleme: 1 Ocak 2024",
+    "intro": "Jynx'e (&quot;Hizmet&quot;) hoş geldiniz. Platformumuza erişerek veya kullanarak, aşağıdaki hizmet şartlarına bağlı olmayı kabul edersiniz. Kabul etmiyorsanız, lütfen Hizmeti kullanmayın.",
+    "sections": {
+      "acceptance": {
+        "title": "1. Şartların Kabulü",
+        "content": "Hizmetimize erişerek ve kullanarak, bu Hizmet Şartlarını ve Gizlilik Politikamızı okuduğunuzu, anladığınızı ve bunlara bağlı olmayı kabul ettiğinizi onaylarsınız. Bu şartları kabul etmiyorsanız, Hizmeti kullanmayın."
+      },
+      "eligibility": {
+        "title": "2. Uygunluk",
+        "content": "Hizmetimizi kullanmak için şunları yapmalısınız:<ul><li>En az 13 yaşında olmalısınız</li><li>Hesap oluşturmak ve bu şartlara girmek için yasal kapasiteye sahip olmalısınız</li><li>İkamet ettiğiniz ülkede Hizmeti kullanmaktan yasaklanmamış olmalısınız</li><li>Doğru ve eksiksiz bilgi sağlamalısınız</li></ul>"
+      },
+      "account": {
+        "title": "3. Kullanıcı Hesapları",
+        "subsections": {
+          "registration": {
+            "title": "3.1 Kayıt",
+            "content": "Hesap kaydı sırasında doğru, eksiksiz ve güncel bilgi sağlamalısınız. Hesap güvenliğinizi korumak sizin sorumluluğunuzdadır."
+          },
+          "account_security": {
+            "title": "3.2 Hesap Güvenliği",
+            "content": "Aşağıdakilerden siz sorumlusunuz:<ul><li>Hesap kimlik bilgilerinizin gizliliğini korumak</li><li>Hesabınız altında gerçekleşen tüm aktiviteler</li><li>Hesabınıza yetkisiz erişimi veya kullanımı derhal bildirmek</li></ul>"
+          },
+          "account_termination": {
+            "title": "3.3 Hesap Sonlandırma",
+            "content": "Herhangi bir nedenle ve herhangi bir zamanda hesapları askıya alma veya sonlandırma hakkını saklı tutarız."
+          }
+        }
+      },
+      "acceptable_use": {
+        "title": "4. Kabul Edilebilir Kullanım",
+        "content": "Şunları yapmamayı kabul edersiniz:<ul><li>Hizmeti yasadışı amaçlar için kullanmak</li><li>Diğer kullanıcıları taciz etmek, istismar etmek, tehdit etmek veya korkutmak</li><li>Yanlış veya yanıltıcı bilgiler göndermek</li><li>Sistemlerimizin güvenliğini ihlal etmeye veya atlatmaya çalışmak</li><li>Fikri mülkiyet haklarımızı ihlal etmek</li><li>Spam, kimlik avı veya diğer kötü niyetli faaliyetlerde bulunmak</li><li>Otomatik araçlarla Hizmetten veri toplamak</li><li>Diğer kullanıcıların kimliğine bürünmek veya başkalarıyla olan bağlantınızı yanlış beyan etmek</li></ul>"
+      },
+      "content": {
+        "title": "5. Kullanıcı İçeriği",
+        "subsections": {
+          "your_content": {
+            "title": "5.1 İçeriğiniz",
+            "content": "Hizmete yüklediğiniz veya gönderdiğiniz tüm içerikten siz sorumlusunuz. Bize içeriğinizi kullanma, değiştirme, kamuya açık olarak sergileme, yeniden üretme ve dağıtma hakkı veren dünya çapında, münhasır olmayan, telifsiz bir lisans verirsiniz."
+          },
+          "prohibited_content": {
+            "title": "5.2 Yasaklanan İçerik",
+            "content": "Şu tür içerik gönderemezsiniz:<ul><li>Yasadışı, zararlı, tehdit edici, istismarcı, taciz edici, karalayıcı, müstehcen, iftira niteliğinde, başkalarının gizliliğini ihlal eden, nefret dolu veya ırksal veya etnik olarak sakıncalı içerik</li><li>Çocuklara herhangi bir şekilde zarar veren içerik</li><li>Fikri mülkiyet veya diğer mülkiyet haklarını ihlal eden içerik</li><li>Virüs veya diğer zararlı bilgisayar kodları içeren içerik</li></ul>"
+          }
+        }
+      },
+      "intellectual_property": {
+        "title": "6. Fikri Mülkiyet Hakları",
+        "content": "Hizmet ve orijinal içeriği, özellikleri ve işlevselliği Jynx'in münhasır mülkiyetindedir ve uluslararası telif hakkı, ticari marka, patent, ticari sır ve diğer fikri mülkiyet veya mülkiyet hakları yasalarıyla korunmaktadır."
+      },
+      "third_party": {
+        "title": "7. Üçüncü Taraf Hizmetleri",
+        "content": "Hizmetimiz üçüncü taraf web sitelerine veya hizmetlerine bağlantılar içerebilir. Bu üçüncü taraf sitelerinin veya hizmetlerinin içeriğini, gizlilik politikalarını veya uygulamalarını kontrol etmiyoruz ve sorumlu değiliz."
+      },
+      "disclaimer": {
+        "title": "8. Garanti Reddi",
+        "content": "Hizmet &quot;olduğu gibi&quot; ve &quot;mevcut olduğu şekilde&quot; sunulur. Jynx, satılabilirlik, belirli bir amaca uygunluk ve ihlal etmeme garantileri dahil ancak bunlarla sınırlı olmamak üzere her türlü garantiyi açıkça reddeder."
+      },
+      "limitation_liability": {
+        "title": "9. Sorumluluğun Sınırlandırılması",
+        "content": "Yasanın izin verdiği azami ölçüde, Jynx Hizmetin kullanımından veya kullanılamamasından kaynaklanan dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zararlardan sorumlu olmayacaktır."
+      },
+      "indemnification": {
+        "title": "10. Tazmin",
+        "content": "Hizmetin kullanımınızdan, bu Hizmet Şartlarının ihlalinden veya başkalarının haklarının ihlalinden kaynaklanan tüm iddialar, zararlar, yükümlülükler, kayıplar, sorumluluklar, maliyetler veya borçlar ve masraflar (avukat ücretleri dahil) konusunda Jynx ve memurlarını, yöneticilerini, çalışanlarını ve acentelerini savunmayı, tazmin etmeyi ve zararsız tutmayı kabul edersiniz."
+      },
+      "termination": {
+        "title": "11. Sonlandırma",
+        "content": "Herhangi bir nedenle ve önceden haber vermeksizin hesabınızı derhal sonlandırabilir veya askıya alabiliriz. Sonlandırma üzerine, Hizmeti kullanma hakkınız derhal sona erer."
+      },
+      "governing_law": {
+        "title": "12. Geçerli Yasa",
+        "content": "Bu şartlar, çatışma yasası hükümlerine bakılmaksızın Fransa yasalarına göre yönetilir ve yorumlanır. Bu şartları uygulamamamız, bu hükümleri feragat ettiğimiz anlamına gelmez."
+      },
+      "dispute_resolution": {
+        "title": "13. Uyuşmazlık Çözümü",
+        "content": "Bu şartlardan kaynaklanan veya bunlarla ilgili herhangi bir uyuşmazlık önce müzakere yoluyla çözülmeye çalışılmalıdır. Müzakere başarısız olursa, uyuşmazlık Fransa, Nantes mahkemelerinin münhasır yargı yetkisine sunulacaktır."
+      },
+      "changes_terms": {
+        "title": "14. Şartlardaki Değişiklikler",
+        "content": "Bu şartları istediğimiz zaman değiştirme veya değiştirme hakkını saklı tutaruz. Bir revizyon önemliyse, yeni şartların yürürlüğe girmesinden en az 30 gün önce bildirim vermeye çaba göstereceğiz."
+      },
+      "severability": {
+        "title": "15. Ayrılabilirlik",
+        "content": "Bu şartların herhangi bir hükmünün uygulanamaz veya geçersiz olduğu tespit edilirse, bu hüküm geçerli yasaya göre izin verilen azami ölçüde uygulanabilir olacak şekilde değiştirilecek ve yorumlanacak ve geri kalan hükümler tam olarak yürürlükte kalmaya devam edecektir."
+      },
+      "entire_agreement": {
+        "title": "16. Tam Anlaşma",
+        "content": "Bu şartlar, Hizmetin kullanımıyla ilgili sizinle Jynx arasındaki tüm anlaşmayı oluşturur ve önceki tüm sözlü veya yazılı anlaşmaların veya sözleşmelerin yerini alır."
+      },
+      "contact_terms": {
+        "title": "17. Bize Ulaşın",
+        "content": "Bu Hizmet Şartları hakkında sorularınız veya endişeleriniz varsa, lütfen bize şu adresten ulaşın:",
+        "email": "E-posta: legal@jynx.app",
+        "address": "Adres: 6 Quai Magellan, 44000 Nantes, France"
+      }
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "features": "Özellikler",
+    "download": "İndir",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "language": "Dil",
+    "menu": "Menü",
+    "close": "Kapat"
+  },
+  "hero": {
+    "title": "Oyunun <span class=\"highlight\">Sosyal Olduğu</span> Yer",
+    "subtitle": "Oyun tercihlerine, oyun tarzına ve topluluk ilgi alanlarına göre mükemmel takım arkadaşlarını bulun. Yalnız oynamayın — birlikte kazanın.",
+    "cta_primary": "Ücretsiz İndirin",
+    "cta_secondary": "Nasıl Çalıştığını Görün",
+    "available_on": "Şurada mevcut:",
+    "coming_soon": "Yakında geliyor:",
+    "platforms": {
+      "ios": "iOS",
+      "android": "Android",
+      "windows": "Windows",
+      "mac": "Mac",
+      "linux": "Linux"
+    }
+  },
+  "features": {
+    "title": "Oyun Deneyiminizi Dönüştüren Özellikler",
+    "subtitle": "Anlamlı bağlantılar, daha iyi eşleşmeler ve gelişen oyun toplulukları için tasarlanmış güçlü araçlar.",
+    "smart_matching": {
+      "title": "Akıllı Eşleştirme",
+      "description": "Oyun tercihlerine, yetenek seviyesine, oyun tarzına ve dile göre mükemmel takım arkadaşlarını bulun."
+    },
+    "game_profiles": {
+      "title": "Oyun Profilleri",
+      "description": "Birden fazla oyundaki istatistiklerinizi otomatik olarak senkronize edin ve ilerlemenizi izleyin."
+    },
+    "community": {
+      "title": "Canlı Topluluklar",
+      "description": "Oyuna özel topluluklara katılın, etkinliklere katılın ve kalıcı arkadaşlıklar kurun."
+    },
+    "voice_chat": {
+      "title": "Entegre Ses Sohbeti",
+      "description": "Yerleşik ses sohbetiyle sorunsuz bir şekilde iletişim kurun ve daha iyi ekip koordinasyonu sağlayın."
+    },
+    "privacy": {
+      "title": "Gizlilik Öncelikli",
+      "description": "Uçtan uca şifreleme ve sağlam gizlilik kontrolleriyle verileriniz güvendedir."
+    },
+    "cross_platform": {
+      "title": "Çapraz Platform",
+      "description": "Jynx'i tüm cihazlarınızda kullanın ve bağlı kalın."
+    }
+  },
+  "gaming_sections": {
+    "league": {
+      "title": "Mükemmel <span class=\"highlight\">League of Legends</span> Takım Arkadaşlarını Bulun",
+      "description": "Rütbe, rol ve oyun tarzına göre oyuncularla bağlantı kurun. Deneyimli bir şampiyon olun veya yeni başlıyor olun, hedeflerinizi paylaşan takım arkadaşları bulun.",
+      "features": {
+        "rank_matching": "Rütbe Eşleştirme",
+        "role_preference": "Rol Tercihi",
+        "champion_pool": "Şampiyon Havuzu Uyumluluğu",
+        "voice_ready": "Ses Hazır Ekipler"
+      }
+    },
+    "valorant": {
+      "title": "<span class=\"highlight\">Valorant</span> Takımınızı Oluşturun",
+      "description": "Ajan rolleri, yetenek seviyesi ve iletişim tercihine göre oyuncular bulun. Rekabetçi sıralama kazanımı veya sıradan oyunlar olsun, takımınız sizi bekliyor.",
+      "features": {
+        "agent_synergy": "Ajan Sinerjisi",
+        "competitive_ready": "Rekabetçi Hazır",
+        "strategy_focused": "Strateji Odaklı Ekipler",
+        "regional_servers": "Bölgesel Sunucu Eşleştirme"
+      }
+    }
+  },
+  "problem": {
+    "title": "Solo Kuyruğun Hayal Kırıklıklarından Bıktınız mı?",
+    "subtitle": "Her oyuncunun karşılaştığı sorunlar:",
+    "issues": {
+      "toxic": {
+        "title": "Toksik Oyuncular",
+        "description": "Oyun deneyiminizi mahveden toksik takım arkadaşlarıyla eşleşmek"
+      },
+      "skill_gap": {
+        "title": "Yetenek Farkı",
+        "description": "Yetenek seviyeleri sizinkiyle eşleşmeyen oyuncularla oynamak"
+      },
+      "no_communication": {
+        "title": "İletişim Yok",
+        "description": "İletişim kurmayan veya farklı diller konuşan takım arkadaşları"
+      },
+      "inconsistent": {
+        "title": "Tutarsız Ekipler",
+        "description": "Her oyunda sıfırdan başlamak ve hiç ekip sinerjisi olmamak"
+      }
+    }
+  },
+  "solution": {
+    "title": "Jynx Solo Oyunu Sosyal Deneyime Nasıl Dönüştürür",
+    "steps": {
+      "create_profile": {
+        "title": "Profil Oluştur",
+        "description": "Oyun hesaplarınızı bağlayın, tercihlerinizi ayarlayın ve oyun tarzınızı sergileyin."
+      },
+      "get_matched": {
+        "title": "Eşleşin",
+        "description": "Akıllı algoritmamız hedeflerinizi, yeteneğinizi ve kişiliğinizi paylaşan oyuncuları bulur."
+      },
+      "play_together": {
+        "title": "Birlikte Oynayın",
+        "description": "Ekibinizle bağlantı kurun, iletişim kurun ve birlikte kazanın. Kalıcı oyun arkadaşlıkları kurun."
+      },
+      "build_community": {
+        "title": "Topluluk Oluşturun",
+        "description": "Ağınızı büyütün, etkinliklere katılın ve güvendiğiniz oyuncularla önceden hazırlanmış gruplar oluşturun."
+      }
+    }
+  },
+  "collaborative": {
+    "title": "Birlikte Daha İyi Oyun",
+    "description": "Jynx, oyun içi işbirliğini geliştiren ve her maçı daha keyifli hale getiren araçlar sağlar.",
+    "features": {
+      "team_formation": {
+        "title": "Kolay Ekip Oluşturma",
+        "description": "Hızlıca ekip oluşturun, arkadaşlarınızı veya yeni oyuncuları davet edin ve birlikte kuyruğa girin."
+      },
+      "scheduling": {
+        "title": "Seans Planlaması",
+        "description": "Oyun seanslarını planlayın, müsaitlik ayarlayın ve takım arkadaşlarınız çevrimiçi olduğunda bildirimler alın."
+      },
+      "performance": {
+        "title": "Performans İzleme",
+        "description": "Ekip istatistiklerini izleyin, ilerlemeyi takip edin ve birlikte gelişin."
+      },
+      "events": {
+        "title": "Topluluk Etkinlikleri",
+        "description": "Turnuvalara, meydan okumalara ve topluluk oyun gecelerine katılın."
+      }
+    }
+  },
+  "form": {
+    "title": "Jynx Beta'ya Katılın",
+    "subtitle": "İlk kullanıcılardan biri olun ve oyun sosyal deneyiminin geleceğini şekillendirmeye yardımcı olun.",
+    "email": {
+      "label": "E-posta Adresi",
+      "placeholder": "your.email@example.com"
+    },
+    "games": {
+      "label": "Ana Oyunlar (En fazla 3 seçin)",
+      "placeholder": "Ana oyunları seçin...",
+      "options": {
+        "league": "League of Legends",
+        "valorant": "Valorant",
+        "csgo": "CS:GO",
+        "dota": "Dota 2",
+        "overwatch": "Overwatch",
+        "apex": "Apex Legends",
+        "fortnite": "Fortnite",
+        "other": "Diğer"
+      }
+    },
+    "platform": {
+      "label": "Tercih Edilen Platform",
+      "options": {
+        "pc": "PC",
+        "console": "Konsol",
+        "mobile": "Mobil",
+        "all": "Tümü"
+      }
+    },
+    "play_style": {
+      "label": "Oyun Tarzı",
+      "options": {
+        "competitive": "Rekabetçi / Sıralama",
+        "casual": "Sıradan / Eğlence",
+        "mixed": "Karışık",
+        "professional": "Profesyonel / E-Spor"
+      }
+    },
+    "consent": "Jynx ve oyun endüstrisi ile ilgili güncellemeler, ipuçları ve özel teklifler almak istiyorum.",
+    "submit": "Erken Erişim Alın",
+    "submitting": "Gönderiliyor...",
+    "success": "Teşekkürler! Yakında sizinle iletişime geçeceğiz.",
+    "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+  },
+  "feedback": {
+    "title": "Geri Bildiriminizi Paylaşın",
+    "subtitle": "Görüşünüz daha iyi bir Jynx oluşturmamıza yardımcı olur",
+    "name": {
+      "label": "İsim",
+      "placeholder": "Adınız"
+    },
+    "email": {
+      "label": "E-posta",
+      "placeholder": "your.email@example.com"
+    },
+    "category": {
+      "label": "Kategori",
+      "options": {
+        "bug": "Hata Bildirimi",
+        "feature": "Özellik İsteği",
+        "improvement": "İyileştirme Önerisi",
+        "other": "Diğer"
+      }
+    },
+    "message": {
+      "label": "Geri Bildiriminiz",
+      "placeholder": "Düşüncelerinizi, önerilerinizi veya karşılaştığınız sorunları bize bildirin..."
+    },
+    "submit": "Geri Bildirim Gönder",
+    "submitting": "Gönderiliyor...",
+    "success": "Geri bildiriminiz için teşekkürler!",
+    "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+  },
+  "footer": {
+    "tagline": "Oyuncuları bağlamak, topluluklar oluşturmak ve daha iyi oyun deneyimleri yaratmak.",
+    "product": {
+      "title": "Ürün",
+      "features": "Özellikler",
+      "download": "İndir",
+      "pricing": "Fiyatlandırma",
+      "roadmap": "Yol Haritası"
+    },
+    "company": {
+      "title": "Şirket",
+      "about": "Hakkında",
+      "blog": "Blog",
+      "careers": "Kariyer",
+      "contact": "İletişim"
+    },
+    "resources": {
+      "title": "Kaynaklar",
+      "help": "Yardım Merkezi",
+      "community": "Topluluk",
+      "guides": "Kılavuzlar",
+      "api": "API"
+    },
+    "legal": {
+      "title": "Yasal",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları",
+      "cookies": "Çerezler",
+      "licenses": "Lisanslar"
+    },
+    "social": {
+      "title": "Sosyal",
+      "discord": "Discord",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "youtube": "YouTube"
+    },
+    "newsletter": {
+      "title": "Bültene Abone Olun",
+      "placeholder": "E-postanızı girin",
+      "button": "Abone Ol",
+      "success": "Abone olduğunuz için teşekkürler!",
+      "error": "Abone olma başarısız. Lütfen tekrar deneyin."
+    },
+    "copyright": "© 2024 Jynx. Tüm hakları saklıdır.",
+    "made_with": "❤️ ile yapıldı",
+    "in": "Nantes, Fransa'da"
+  },
+  "errors": {
+    "required": "Bu alan gereklidir",
+    "email_invalid": "Lütfen geçerli bir e-posta adresi girin",
+    "min_length": "En az {min} karakter olmalıdır",
+    "max_length": "En fazla {max} karakter olmalıdır",
+    "network_error": "Ağ hatası. İnternet bağlantınızı kontrol edin.",
+    "server_error": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+    "generic": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+  },
+  "accessibility": {
+    "skip_to_content": "İçeriğe atla",
+    "open_menu": "Menüyü aç",
+    "close_menu": "Menüyü kapat",
+    "toggle_theme": "Temayı değiştir",
+    "language_selector": "Dil seç",
+    "external_link": "Dış bağlantı",
+    "loading": "Yükleniyor...",
+    "scroll_to_top": "Yukarı kaydır",
+    "play_video": "Videoyu oynat",
+    "pause_video": "Videoyu duraklat"
+  },
+  "theme_feedback": {
+    "title": "Tema Geri Bildirimi",
+    "question": "Koyu temayı beğeniyor musunuz?",
+    "like": "Beğen",
+    "dislike": "Beğenme",
+    "thank_you": "Geri bildiriminiz için teşekkürler!"
+  },
+  "download": {
+    "meta": {
+      "title": "Jynx İndir | Windows, macOS, Linux, iOS, Android",
+      "description": "Jynx'i tüm platformlarda indirin. Windows, macOS, Linux, iOS, Android'de mevcut. Oyun deneyiminizi şimdi geliştirmeye başlayın.",
+      "og_title": "Jynx İndir - Tüm Platformlarda Mevcut",
+      "og_description": "Tercih ettiğiniz cihazda Jynx'i edinin. Tüm büyük platformlarda mevcut."
+    },
+    "hero": {
+      "title": "Platformunuzda <span class=\"highlight\">Jynx İndirin</span>",
+      "subtitle": "Tüm cihazlarda mevcut. Takım arkadaşlarınızla her zaman her yerde bağlantıda kalın."
+    },
+    "platforms": {
+      "desktop": {
+        "title": "Masaüstü",
+        "windows": {
+          "title": "Windows için",
+          "requirements": "Windows 10 veya üstü",
+          "download": "Windows için İndir",
+          "coming_soon": "Yakında geliyor"
+        },
+        "mac": {
+          "title": "macOS için",
+          "requirements": "macOS 11 veya üstü",
+          "download": "Mac için İndir",
+          "coming_soon": "Yakında geliyor"
+        },
+        "linux": {
+          "title": "Linux için",
+          "requirements": "Ubuntu 20.04 veya üstü",
+          "download": "Linux için İndir",
+          "coming_soon": "Yakında geliyor"
+        }
+      },
+      "mobile": {
+        "title": "Mobil",
+        "ios": {
+          "title": "iOS için",
+          "requirements": "iOS 14 veya üstü",
+          "download": "App Store'dan İndir",
+          "coming_soon": "Yakında geliyor"
+        },
+        "android": {
+          "title": "Android için",
+          "requirements": "Android 8 veya üstü",
+          "download": "Google Play'den İndir",
+          "coming_soon": "Yakında geliyor"
+        }
+      }
+    },
+    "features": {
+      "title": "Tüm Platformlarda Aynı Harika Deneyim",
+      "cross_platform": {
+        "title": "Çapraz Platform Senkronizasyonu",
+        "description": "Profiliniz, eşleşmeleriniz, mesajlarınız tüm cihazlarınızda otomatik olarak senkronize edilir"
+      },
+      "native": {
+        "title": "Yerel Uygulamalar",
+        "description": "En iyi performans için her platform için yerel olarak oluşturulmuş ve optimize edilmiş"
+      },
+      "updates": {
+        "title": "Otomatik Güncellemeler",
+        "description": "Ekstra çaba göstermeden her zaman en son özellikler ve güvenlik yamalarıyla güncel kalın"
+      }
+    },
+    "faq": {
+      "title": "Sık Sorulan Sorular",
+      "system_requirements": {
+        "question": "Sistem gereksinimleri nelerdir?",
+        "answer": "Jynx çoğu modern cihazda çalışacak şekilde tasarlanmıştır. Windows 10 veya üstü, macOS 11 veya üstü, Ubuntu 20.04 veya üstü, iOS 14 veya üstü, Android 8 veya üstü gerektirir."
+      },
+      "free": {
+        "question": "Jynx ücretsiz mi?",
+        "answer": "Evet! Jynx indirmek ve kullanmak tamamen ücretsizdir. Daha sonra premium özellikler sunabiliriz ancak temel işlevsellik her zaman ücretsiz kalacaktır."
+      },
+      "multiple_devices": {
+        "question": "Jynx'i birden fazla cihazda kullanabilir miyim?",
+        "answer": "Kesinlikle! Jynx'i istediğiniz kadar cihaza yükleyebilirsiniz ve profiliniz ve verileriniz hepsinde senkronize olur."
+      },
+      "data_usage": {
+        "question": "Jynx ne kadar veri kullanır?",
+        "answer": "Jynx çok hafiftir. Tipik kullanım, çoğu mesajlaşma ve senkronizasyon için saatte yaklaşık 5-10MB veri kullanır. Ses sohbeti, kalite ayarlarınıza bağlı olarak saatte yaklaşık 30-50MB kullanır."
+      }
+    },
+    "cta": {
+      "title": "Başlamaya Hazır mısınız?",
+      "subtitle": "Binlerce oyuncu Jynx ile daha iyi takım arkadaşları buluyor",
+      "button": "Şimdi İndirin"
+    }
+  },
+  "use_cases": {
+    "title": "Her Oyuncu İçin Mükemmel Çözüm",
+    "subtitle": "Rekabetçi oyuncu, sıradan oyuncu veya oyun topluluğu lideri olun, Jynx sizin için burada",
+    "competitive": {
+      "title": "Rekabetçi Oyuncular",
+      "description": "Sıralamada yükselmek isteyen ciddi oyuncular için",
+      "features": {
+        "rank_based": "Rütbe Tabanlı Eşleştirme",
+        "performance": "Performans İzleme",
+        "voice": "Ses Sohbeti Hazır",
+        "scheduling": "Ekip Planlaması"
+      },
+      "cta": "Sıralamayı Tırmanmaya Başlayın"
+    },
+    "casual": {
+      "title": "Sıradan Oyuncular",
+      "description": "Eğlenceli, rahat oyun seanslarının tadını çıkaranlar için",
+      "features": {
+        "friendly": "Dostane Eşleşmeler",
+        "flexible": "Esnek Oyun Zamanı",
+        "variety": "Oyun Çeşitliliği",
+        "social": "Sosyal Odaklı"
+      },
+      "cta": "Ekibinizi Bulun"
+    },
+    "community": {
+      "title": "Topluluk Liderleri",
+      "description": "Oyun toplulukları ve klanları oluşturan ve yönetenler için",
+      "features": {
+        "management": "Topluluk Araçları",
+        "events": "Etkinlik Organizasyonu",
+        "moderation": "Moderasyon Özellikleri",
+        "growth": "Büyüme Analizi"
+      },
+      "cta": "Topluluk Oluşturun"
+    },
+    "streamer": {
+      "title": "Yayıncılar & İçerik Üreticileri",
+      "description": "İzleyicileriyle işbirlikçi içerik oluşturanlar için",
+      "features": {
+        "viewer_games": "İzleyici Oyunları",
+        "community_building": "Topluluk Oluşturma",
+        "moderation": "Moderasyon Araçları",
+        "integration": "Yayın Entegrasyonu"
+      },
+      "cta": "İzleyicilerinizle Bağlantı Kurun"
+    }
+  },
+  "comparison": {
+    "title": "Jynx Neden Öne Çıkıyor",
+    "subtitle": "Normal eşleştirme ve diğer platformlarla karşılaştırma",
+    "table": {
+      "feature": "Özellik",
+      "jynx": "Jynx",
+      "matchmaking": "Oyun İçi Eşleştirme",
+      "discord": "Discord Sunucuları",
+      "reddit": "Reddit/LFG Forumları",
+      "smart_matching": "Akıllı Oyuncu Eşleştirme",
+      "game_integration": "Oyun Entegrasyonu",
+      "voice_chat": "Yerleşik Ses Sohbeti",
+      "player_profiles": "Detaylı Oyuncu Profilleri",
+      "reputation": "İtibar Sistemi",
+      "cross_game": "Çapraz Oyun Desteği",
+      "mobile_app": "Mobil Uygulama",
+      "skill_based": "Yetenek Tabanlı Filtreleme",
+      "language_filter": "Dil Filtresi",
+      "availability": "Müsaitlik Eşleştirme",
+      "privacy_controls": "Gelişmiş Gizlilik Kontrolleri",
+      "dedicated_support": "Özel Destek"
+    },
+    "labels": {
+      "yes": "Evet",
+      "no": "Hayır",
+      "limited": "Sınırlı",
+      "basic": "Temel",
+      "advanced": "Gelişmiş",
+      "full": "Tam",
+      "partial": "Kısmi",
+      "manual": "Manuel"
+    },
+    "cta": {
+      "title": "Farkı Deneyimleyin",
+      "description": "Binlerce oyuncu Jynx ile mükemmel takımlarını zaten buldu",
+      "button": "Ücretsiz Başlayın"
+    }
+  },
+  "reviews": {
+    "title": "Oyuncular Jynx'i Neden Seviyor",
+    "subtitle": "Topluluğumuzdan doğrudan dinleyin",
+    "items": {
+      "sarah_competitive": {
+        "text": "Jynx sayesinde sıralama deneyimim tamamen değişti. Artık toksik oyuncular konusunda endişelenmeme gerek yok ve takım arkadaşlarım her zaman ellerinden gelenin en iyisini yapıyor. 3 ayda Platin'den Elmas'a çıktım!",
+        "author": "Sarah K.",
+        "role": "Rekabetçi League of Legends Oyuncusu",
+        "game": "League of Legends",
+        "rank": "Elmas",
+        "rating": 5
+      },
+      "mike_casual": {
+        "text": "Sıradan bir oyuncu olarak, programıma uyan ve iyi vakit geçirebileceğim insanları bulmak her zaman zordu. Jynx bunu çok kolaylaştırdı. Şimdi her hafta birlikte oynadığım düzenli bir grubum var.",
+        "author": "Mike T.",
+        "role": "Sıradan Oyuncu",
+        "game": "Valorant",
+        "rank": "Altın",
+        "rating": 5
+      },
+      "alex_community": {
+        "text": "Oyun topluluğumuzu yönetmek için en iyi platform. Etkinlik organizasyon araçları harika ve moderasyon özellikleri her şeyin sorunsuz çalışmasını sağlamaya yardımcı oluyor. 200'den fazla aktif üyeye ulaştık!",
+        "author": "Alex M.",
+        "role": "Topluluk Lideri",
+        "game": "Birden Fazla Oyun",
+        "rank": "Yönetici",
+        "rating": 5
+      },
+      "emma_streamer": {
+        "text": "Bir yayıncı olarak, Jynx izleyicilerimle etkileşim kurmanın harika bir yolu. İzleyici oyunları özelliği harika ve topluluğum yayın dışında birlikte oynamayı seviyor. İçeriğim için mükemmel!",
+        "author": "Emma R.",
+        "role": "Twitch Yayıncısı",
+        "game": "Çeşitli",
+        "rank": "Ortak",
+        "rating": 5
+      },
+      "jason_veteran": {
+        "text": "15 yıldır oyun oynuyorum ve Jynx kullandığım en iyi takım arkadaşı bulma platformu. Eşleştirme algoritması gerçekten çalışıyor ve tanıştığım oyuncuların kalitesi sürekli olarak harika.",
+        "author": "Jason L.",
+        "role": "Kıdemli Oyuncu",
+        "game": "CS:GO",
+        "rank": "Global Elite",
+        "rating": 5
+      },
+      "nina_international": {
+        "text": "Japonya'dan olarak, iyi iletişim kurabileceğim takım arkadaşları bulmak her zaman zordu. Jynx'in dil filtresi ve bölgesel eşleştirme oyun değiştirici. Sonunda benimle aynı dili konuşan bir ekibim var!",
+        "author": "Nina Y.",
+        "role": "Uluslararası Oyuncu",
+        "game": "Overwatch",
+        "rank": "Master",
+        "rating": 5
+      }
+    },
+    "stats": {
+      "title": "Sayılarla Güven",
+      "active_users": "Aktif Kullanıcılar",
+      "matches_made": "Yapılan Eşleşmeler",
+      "success_rate": "Başarı Oranı",
+      "avg_rating": "Ortalama Puan"
+    }
+  },
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "subtitle": "Jynx hakkında bilmeniz gereken her şey",
+    "items": {
+      "what_is": {
+        "question": "Jynx nedir?",
+        "answer": "Jynx, oyuncuların oyun tercihlerine, yetenek seviyesine, oyun tarzına ve kişiliğe göre mükemmel takım arkadaşlarını bulmalarına yardımcı olan bir sosyal platformdur. Solo oyunu sosyal deneyime dönüştürmek için akıllı eşleştirme algoritmaları ve topluluk özellikleri kullanırız."
+      },
+      "how_matching": {
+        "question": "Eşleştirme sistemi nasıl çalışır?",
+        "answer": "Eşleştirme algoritmamız birden fazla faktörü dikkate alır: oyun tercihleri, yetenek seviyesi/rütbe, tercih edilen roller, oyun tarzı (rekabetçi vs sıradan), dil, müsaitlik, oyuncu itibarı. Gerçekten uyumlu takım arkadaşlarıyla bağlantı kurmak için bu verileri kullanırız."
+      },
+      "supported_games": {
+        "question": "Hangi oyunlar destekleniyor?",
+        "answer": "Şu anda League of Legends, Valorant, CS:GO, Dota 2, Overwatch, Apex Legends, Fortnite gibi popüler çok oyunculu oyunları destekliyoruz. Sürekli olarak daha fazla oyun ekliyoruz. Tercih ettiğiniz oyun listede yoksa, bize bildirin!"
+      },
+      "cost": {
+        "question": "Jynx'in maliyeti nedir?",
+        "answer": "Jynx indirmek ve kullanmak tamamen ücretsizdir. Temel özelliklerimiz (oyuncu eşleştirme, profiller, temel ses sohbeti, topluluk erişimi) her zaman ücretsiz kalacaktır. Gelişmiş analitik, premium topluluk araçları, geliştirilmiş eşleştirme gibi isteğe bağlı premium özellikler daha sonra sunabiliriz."
+      },
+      "safety": {
+        "question": "Jynx güvenli mi? Toksik oyuncularla nasıl başa çıkıyorsunuz?",
+        "answer": "Güvenlik en önceliğimizdir. Çok katmanlı bir yaklaşım kullanırız: topluluk tabanlı itibar sistemi, oyuncu raporlama ve engelleme araçları, yapay zeka destekli toksisite tespiti, insan moderasyon ekibi, uçtan uca şifrelenmiş özel mesajlar. Sürekli toksisite gösteren oyuncular askıya alınır veya kalıcı olarak yasaklanır."
+      },
+      "privacy": {
+        "question": "Verilerim ve gizliliğim ne olacak?",
+        "answer": "Gizliliğinizi çok ciddiye alıyoruz. Verilerinizi üçüncü taraflara satmıyoruz, tüm özel mesajlar şifrelenir, profil görünürlüğünüz üzerinde tam kontrole sahipsiniz, GDPR ve CCPA ile uyumluyuz, düzenli güvenlik denetimleri yapıyoruz. Daha fazla bilgi için Gizlilik Politikamızı okuyun."
+      },
+      "platforms": {
+        "question": "Hangi platformlar destekleniyor?",
+        "answer": "Jynx tüm büyük platformlarda mevcuttur: Windows (10 veya üstü), macOS (11 veya üstü), Linux (Ubuntu 20.04 veya üstü), iOS (14 veya üstü), Android (8 veya üstü). Profiliniz ve verileriniz tüm cihazlarınızda senkronize olur."
+      },
+      "skill_levels": {
+        "question": "Acemiler de kullanabilir mi?",
+        "answer": "Kesinlikle! Jynx tüm yetenek seviyelerini karşılar. Elmas rütbeyi hedefleyen rekabetçi bir oyuncu, eğlence arayan sıradan bir oyuncu veya oyunu yeni öğrenen bir acemi olun, seviyenize uygun oyuncular bulabilirsiniz. Eşleştirme sistemimiz sizi benzer deneyime sahip kişilerle bağlar."
+      },
+      "voice_chat": {
+        "question": "Ses sohbeti gerekli mi?",
+        "answer": "Hayır, ses sohbeti tamamen isteğe bağlıdır. Birçok oyun iyi iletişimden faydalansa da, bazı oyuncuların metin sohbeti tercih ettiğini anlıyoruz. Profilinizde iletişim tercihlerinizi ayarlayabilirsiniz ve sizi benzer tercihlere sahip oyuncularla eşleştireceğiz."
+      },
+      "community_create": {
+        "question": "Kendi oyun topluluğumu/klanımı oluşturabilir miyim?",
+        "answer": "Evet! Jynx güçlü topluluk özellikleri içerir. Kendi topluluğunuzu oluşturabilir, üyeleri yönetebilir, etkinlikler düzenleyebilir, topluluk kanalları kurabilir, moderasyon araçlarını kullanabilir, topluluk büyümesini ve katılımını izleyebilirsiniz. Hem sıradan arkadaş grupları hem de büyük oyun organizasyonları için mükemmeldir."
+      },
+      "international": {
+        "question": "Jynx çok dilli mi?",
+        "answer": "Evet! Jynx İngilizce, Fransızca, İspanyolca, Portekizce, Almanca, İtalyanca, Rusça, Arapça, Hintçe, Endonezyaca, Lehçe, Ukraynaca, Korece, Türkçe, Bengalce, Vietnamca dillerinde mevcuttur. Tercih ettiğiniz dili ayarlayabilirsiniz ve eşleştirme sistemimiz sizinle aynı dili konuşan oyuncuları önceliklendirecektir."
+      },
+      "mobile_desktop": {
+        "question": "Mobil ve masaüstü sürümleri arasında fark var mı?",
+        "answer": "Hayır, tüm platformlarda aynı harika deneyimi elde edersiniz. Profiliniz, eşleşmeleriniz, mesajlarınız, topluluklarınız tüm cihazlarınızda senkronize olur. Tek fark, arayüzün her platform için optimize edilmesidir (örneğin dokunma dostu mobil, masaüstü klavye kısayolları)."
+      }
+    },
+    "cta": {
+      "title": "Hala sorularınız mı var?",
+      "description": "Destek ekibimiz yardıma hazır",
+      "button": "İletişime Geçin"
+    }
+  },
+  "final_cta": {
+    "title": "Daha İyi Oyun Deneyimine Başlamaya Hazır mısınız?",
+    "subtitle": "Binlerce oyuncu Jynx ile mükemmel takım arkadaşlarını buldu. Sıradaki siz olun.",
+    "button": "Ücretsiz İndirin",
+    "secondary_button": "Demoyu İzleyin",
+    "features": {
+      "free": "Tamamen Ücretsiz",
+      "no_card": "Kredi Kartı Gereksiz",
+      "instant": "Anında Erişim"
+    }
+  }
+}

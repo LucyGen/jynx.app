@@ -1,0 +1,15 @@
+# Netlify/Vercel redirects for clean URLs (English - root level)
+/download   /download.html   200
+/about      /about.html      200
+/privacy    /privacy.html    200
+/terms      /terms.html      200
+
+# Clean URLs for each language
+/:lang/download   /:lang/download.html   200
+/:lang/about      /:lang/about.html      200
+/:lang/privacy    /:lang/privacy.html    200
+/:lang/terms      /:lang/terms.html      200
+
+# Language root redirects to index.html
+/:lang/           /:lang/index.html      200
+/:lang            /:lang/index.html      200

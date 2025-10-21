@@ -1,0 +1,1328 @@
+{
+  "meta": {
+    "title": "Gaming-Teamkollegen finden | LFG Matchmaking App | Jynx",
+    "description": "Jynx ist die beste Alternative zu traditionellen LFG-Plattformen. Finde deine perfekten Gaming-Teamkollegen durch intelligentes Matchmaking basierend auf Skill, Spielstil und Zeitplan. Tritt qualitativ hochwertigen Gamern noch heute bei.",
+    "keywords": "Gaming Matchmaking App, intelligentes Matchmaking, Gaming-Teamkollegen finden, Gaming Social Plattform, LFG Alternative, Gaming Squad Finder, Competitive Gaming, Gaming Community, Esports Matchmaking, League of Legends Teamkollegen, Valorant Matchmaking",
+    "og_title": "Jynx - Smart Gaming Matchmaking App | Wo Gaming sozial wird",
+    "og_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt 10.000+ Gamern bei. Für immer kostenlos.",
+    "og_image_alt": "Jynx Gaming Matchmaking Plattform - Finde dein perfektes Squad",
+    "twitter_title": "Jynx - Smart Gaming Matchmaking App | Wo Gaming sozial wird",
+    "twitter_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt 10.000+ Gamern bei. Für immer kostenlos.",
+    "twitter_image_alt": "Jynx Gaming Matchmaking Plattform"
+  },
+  "about": {
+    "meta": {
+      "title": "Jynx | Über uns",
+      "description": "Erfahre mehr über Jynx, die Gaming-Community-Plattform, die Solo-Gaming in ein soziales Erlebnis verwandelt.",
+      "og_title": "Über Jynx - Lerne das Team hinter Smart Gaming Matchmaking kennen",
+      "og_description": "Von Gamern für Gamer gegründet. Erfahre mehr über Jynx' Mission, Solo-Gaming in soziale Erlebnisse zu verwandeln.",
+      "og_image_alt": "Jynx Team und Plattformübersicht",
+      "twitter_title": "Über Jynx - Smart Gaming Matchmaking Plattform",
+      "twitter_description": "Von Gamern für Gamer gegründet. Erfahre mehr über Jynx' Mission.",
+      "twitter_image_alt": "Über die Jynx Plattform"
+    },
+    "title": "Über Jynx",
+    "subtitle": "Gaming von Solo zu Social verwandeln",
+    "story": {
+      "title": "Unsere Geschichte",
+      "p1": "Gegründet 2024, entstand Jynx aus einer einfachen, aber kraftvollen Vision: die Art und Weise zu verändern, wie Gamer sich verbinden und zusammen spielen. Wir verstehen die Frustration, wertvolle Gaming-Zeit mit der Suche nach kompatiblen Teamkollegen zu verschwenden oder Schwierigkeiten zu haben, Spieler zu finden, die deinem Skill-Level und Gaming-Stil entsprechen.",
+      "p2": "Unsere Plattform dient als Brücke zwischen Solo-Gaming-Erfahrungen und erfüllendem Teamplay, sodass du schnell deine perfekten Gaming-Gefährten basierend auf Skill-Level, Spielstil und Persönlichkeit finden kannst."
+    },
+    "problem": {
+      "title": "Das Problem, das wir lösen",
+      "intro": "Als Gamer selbst haben wir die Herausforderungen aus erster Hand erlebt:",
+      "points": {
+        "time": "Mehr Zeit mit der Suche nach Teamkollegen verbringen als tatsächlich zu spielen",
+        "mismatch": "Mit Spielern gematcht werden, deren Skills oder Ziele nicht mit deinen übereinstimmen",
+        "disconnected": "Sich von der breiteren Gaming-Community abgekoppelt fühlen",
+        "relationships": "Schwierigkeiten, dauerhafte Gaming-Beziehungen aufzubauen"
+      },
+      "conclusion": "Jynx adressiert diese Schmerzpunkte mit innovativen Matchmaking-Systemen, die speziell für Gamer von Gamern entwickelt wurden."
+    },
+    "founders": {
+      "title": "Unsere Gründer",
+      "arthur": {
+        "name": "Arthur Bonvallet",
+        "role": "Mitgründer & Product Owner",
+        "bio": "Ein leidenschaftlicher Gamer und erfahrener Produktspezialist aus Paris. Arthur bringt sein tiefes Verständnis für User Experience und Produktentwicklung zu Jynx. Seine Vision treibt das intuitive Design und Feature-Set unserer Plattform an."
+      },
+      "antoine": {
+        "name": "Antoine Haie",
+        "role": "Mitgründer & Lead Developer",
+        "bio": "Antoines technisches Fachwissen als Fullstack-Entwickler treibt die Jynx-Plattform an. Mit Sitz in Paris stellt sein Gaming-Hintergrund kombiniert mit seinen technischen Fähigkeiten sicher, dass unsere Plattform ein nahtloses Erlebnis für Gamer aller Levels bietet."
+      }
+    },
+    "features": {
+      "title": "Was Jynx anders macht",
+      "elo": {
+        "title": "ELO-basierte Match-Warteschlange",
+        "description": "Unser ausgeklügelter Matching-Algorithmus berücksichtigt dein Skill-Level (ELO), um dich mit Teamkollegen und Gegnern zu verbinden, die das richtige Maß an Herausforderung und Kompatibilität bieten."
+      },
+      "chat": {
+        "title": "Globales Chat-System",
+        "description": "Bleibe mit der breiteren Gaming-Community über unser lebendiges globales Chat-System verbunden, wo du Strategien diskutieren, Erfahrungen teilen oder einfach mit Mitspielern abhängen kannst."
+      },
+      "guilds": {
+        "title": "Gilden-basierte Communities",
+        "description": "Finde dein Gaming-Zuhause mit unserem einzigartigen \"Gilden\"-System. Tritt bestehenden Communities basierend auf deinen Lieblingsspielen oder Spielstilen bei oder erstelle deine eigene Gilde und werde Community-Leader. Baue deinen Ruf auf, etabliere deine Team-Kultur und erweitere dein Netzwerk an Gaming-Verbündeten."
+      }
+    },
+    "for_everyone": {
+      "title": "Für jeden Gamer",
+      "p1": "Ob du ein Gelegenheitsspieler bist, der nach spaßigen Gefährten sucht, oder ein kompetitiver Gamer, der ernsthafte Teamkollegen für Turniere sucht - Jynx heißt alle willkommen. Unsere Plattform unterstützt Communities über alle Spieltypen, Genres und Plattformen hinweg.",
+      "p2": "Siehst du keine Community für dein Lieblingsspiel? Erstelle eine und werde ihr Gründungsleiter! Bei Jynx glauben wir daran, Gamer zu befähigen, ihre eigenen Räume aufzubauen und zu pflegen."
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "p1": "Jynx ist mehr als nur eine Plattform - es ist eine wachsende Community von Gamern, die glauben, dass Gaming zusammen besser ist. Wir fangen gerade erst an und laden dich ein, Teil unserer Reise zu sein, während wir revolutionieren, wie Gamer sich verbinden, konkurrieren und zusammenarbeiten.",
+      "p2": "Game on!"
+    },
+    "cta": {
+      "title": "Tritt der Jynx-Community bei",
+      "description": "Sei der Erste, der eine neue Art erlebt, dein perfektes Gaming-Squad zu finden",
+      "button": "Tritt der Warteliste bei"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Jynx | Datenschutzerklärung",
+      "description": "Erfahre, wie Jynx deine Privatsphäre schützt und deine Daten handhabt. Unsere transparente Datenschutzerklärung beschreibt unsere Praktiken und deine Rechte.",
+      "og_title": "Jynx Datenschutzerklärung - Dein Datenschutz",
+      "og_description": "Transparente Datenschutzerklärung, die beschreibt, wie Jynx deine Gaming-Daten handhabt.",
+      "og_image_alt": "Jynx Datenschutzerklärung",
+      "twitter_title": "Jynx Datenschutzerklärung",
+      "twitter_description": "Erfahre, wie wir deine Daten schützen und deine Privatsphäre respektieren.",
+      "twitter_image_alt": "Datenschutzerklärung"
+    },
+    "title": "Datenschutzerklärung",
+    "last_updated": "Zuletzt aktualisiert: Oktober 2025",
+    "version": "Version: 1.0",
+    "intro": {
+      "title": "1. Einleitung",
+      "p1": "Jynx (\"wir\", \"unser\", \"die Anwendung\") ist eine Social-Gaming-Plattform, die es Spielern ermöglicht, sich zu verbinden, Teams zu bilden und zusammen zu spielen.",
+      "legal_info": "Rechtliche Informationen:",
+      "entity": "Juristische Person: Jynx Group",
+      "dpo": "Kontakt Datenschutzbeauftragter: dpo@jynx.app",
+      "jurisdiction": "Gerichtsbarkeit: Frankreich, Europäische Union (DSGVO-Konformität)",
+      "p2": "Diese Datenschutzerklärung beschreibt, wie wir deine personenbezogenen Daten erheben, verwenden, teilen und schützen, wenn du unsere Anwendung nutzt."
+    },
+    "age_verification": {
+      "title": "2. Mindestalter und Verifizierung",
+      "p1": "Unsere Anwendung ist Nutzern ab 18 Jahren vorbehalten.",
+      "p2": "Bei der Erstellung deines Kontos bitten wir dich, dein Geburtsdatum anzugeben. Wenn du unter 18 bist, kannst du kein Konto erstellen oder unsere Dienste nutzen."
+    },
+    "data_collected": {
+      "title": "3. Erhobene Daten",
+      "registration": {
+        "title": "3.1. Registrierungs- und Profildaten",
+        "intro": "Wir erheben die folgenden Informationen bei der Erstellung und Verwaltung deines Kontos:"
+      },
+      "auth": {
+        "title": "Authentifizierungsinformationen:",
+        "email": "E-Mail (für E-Mail/Passwort-Konten)",
+        "username": "Benutzername/Nickname",
+        "photo": "Profilbild (optional)",
+        "social": "Social-Login-Identifikatoren (Google, Apple), wenn du diese Methoden verwendest"
+      },
+      "profile": {
+        "title": "Profilinformationen:",
+        "birthdate": "Geburtsdatum (für Altersverifizierung)",
+        "location": "Land und Zeitzone",
+        "languages": "Gesprochene Sprachen",
+        "bio": "Biografie (optional)",
+        "preferences": "Gaming-Präferenzen und Verfügbarkeit",
+        "handle": "Einzigartiger Handle (automatisch generiert für private Freundessuche)"
+      },
+      "gaming": {
+        "title": "3.2. Gaming-Daten",
+        "intro": "Um dir zu helfen, kompatible Teamkollegen zu finden, erheben wir:"
+      },
+      "game_profiles": {
+        "title": "Spielprofile:",
+        "games": "Spiele, die du spielst",
+        "ranks": "Level, Ränge und Spielstatistiken",
+        "champions": "Lieblingschampions/-charaktere",
+        "playstyle": "Spielstil"
+      },
+      "riot": {
+        "title": "Riot Games API Integration:",
+        "intro": "Wir rufen von der Riot Games API ab (mit deiner Zustimmung):",
+        "summoner": "Beschwörername und Riot ID",
+        "rank": "Rang und Match-Verlauf (League of Legends, Valorant, etc.)",
+        "stats": "Champion-Statistiken",
+        "matches": "Kürzlicher Match-Verlauf",
+        "reason": "Erhebungsgrund: Anzeige deines Spielerprofils und Verbesserung des Matchings mit anderen Spielern."
+      },
+      "technical": {
+        "title": "3.3. Nutzungs- und technische Daten",
+        "intro": "Wir erheben automatisch bestimmte technische Daten:"
+      },
+      "analytics": {
+        "title": "Analytics und Performance:",
+        "firebase": "Firebase Performance Monitoring: App-Startzeit, Interface-Flüssigkeit",
+        "sentry": "Sentry: Fehler- und Performance-Berichte (mit Anonymisierung persönlicher Daten)",
+        "crashlytics": "Firebase Crashlytics: Absturzberichte",
+        "disable": "Du kannst die Analytics-Datenerhebung in Einstellungen > Datenschutz > \"Analytics aktivieren\" deaktivieren."
+      },
+      "device": {
+        "title": "Geräteinformationen:",
+        "type": "Gerätetyp und Modell",
+        "os": "Betriebssystemversion",
+        "app_version": "Anwendungsversion"
+      },
+      "behavior": {
+        "title": "Nutzerverhalten:",
+        "screens": "Besuchte Bildschirme und verwendete Funktionen",
+        "time": "In der Anwendung verbrachte Zeit",
+        "interactions": "Interface-Interaktionen"
+      },
+      "communication": {
+        "title": "3.4. Kommunikationsdaten",
+        "messages": "Nachrichten: Nachrichten in Community-Chats, private Nachrichten zwischen Nutzern, Gesprächsverlauf",
+        "notifications": "Benachrichtigungen: FCM-Token (Firebase Cloud Messaging) für Push-Benachrichtigungen"
+      },
+      "user_content": {
+        "title": "3.5. Nutzergenerierte Inhalte",
+        "photos": "Hochgeladene Fotos (Profilbilder, zusätzliche Fotos)",
+        "reports": "Sicherheits- und Moderationsberichte",
+        "cosmetics": "Kosmetische Präferenzen (Avatare, Abzeichen)"
+      }
+    },
+    "third_party": {
+      "title": "4. Drittanbieter-Dienste und Datenaustausch",
+      "firebase": {
+        "title": "4.1. Firebase-Dienste (Google)",
+        "intro": "Wir verwenden die folgenden Firebase-Dienste, alle DSGVO-konform:",
+        "auth": "Firebase Authentication: Sichere Benutzerkontenverwaltung",
+        "firestore": "Cloud Firestore: Speicherung deiner Profil- und Spieldaten",
+        "storage": "Firebase Storage: Hosting deiner Profilbilder",
+        "functions": "Cloud Functions: Sichere Backend-Logik-Ausführung",
+        "messaging": "Firebase Cloud Messaging: Push-Benachrichtigungen",
+        "appcheck": "Firebase App Check: Schutz vor Missbrauch und Bots",
+        "performance": "Firebase Performance Monitoring: App-Performance-Überwachung",
+        "crashlytics": "Firebase Crashlytics: Absturzberichte",
+        "policy": "Firebase Datenschutzerklärung: https://firebase.google.com/support/privacy"
+      },
+      "sentry": {
+        "title": "4.2. Sentry (Fehlerüberwachung)",
+        "intro": "Wir verwenden Sentry für Fehler- und Performance-Tracking. Erhobene Daten umfassen:",
+        "traces": "Fehler-Traces",
+        "context": "Technischer Kontext (OS, App-Version)",
+        "policy": "Sentry Datenschutzerklärung: https://sentry.io/privacy/"
+      },
+      "riot": {
+        "title": "4.3. Riot Games API",
+        "p1": "Wenn du dein Riot Games-Konto verknüpfst, rufen wir deine Spielstatistiken über die offizielle Riot Games API ab. Diese Daten werden nur verwendet, um dein Profil anzuzeigen und das Matching zu verbessern.",
+        "policy": "Riot Games Datenschutzerklärung: https://www.riotgames.com/en/privacy-notice"
+      }
+    },
+    "data_usage": {
+      "title": "5. Datennutzung",
+      "intro": "Wir verwenden deine Daten, um:",
+      "services": {
+        "title": "1. Unsere Dienste bereitzustellen:",
+        "account": "Dein Konto zu erstellen und zu verwalten",
+        "connect": "Dir zu ermöglichen, dich mit anderen Spielern zu verbinden",
+        "teams": "Team-Erstellung und Gaming-Session-Organisation zu erleichtern"
+      },
+      "personalization": {
+        "title": "2. Personalisierung:",
+        "matching": "Kompatible Teamkollegen zu empfehlen (spielbasiertes, rang-, stil-basiertes Matching)",
+        "content": "Relevante Inhalte anzuzeigen"
+      },
+      "communication": {
+        "title": "3. Kommunikation:",
+        "notifications": "Dir wichtige Benachrichtigungen zu senden (gefundene Matches, erhaltene Nachrichten)"
+      },
+      "improvement": {
+        "title": "4. Service-Verbesserung:",
+        "analyze": "Nutzung zu analysieren, um Funktionen zu verbessern",
+        "bugs": "Bugs zu identifizieren und zu beheben",
+        "performance": "Performance zu optimieren"
+      },
+      "security": {
+        "title": "5. Sicherheit und Compliance:",
+        "fraud": "Betrug und Missbrauch zu verhindern",
+        "terms": "Unsere Nutzungsbedingungen durchzusetzen",
+        "legal": "Gesetzlichen Verpflichtungen nachzukommen"
+      }
+    },
+    "retention": {
+      "title": "6. Datenspeicherung",
+      "periods": {
+        "title": "6.1. Aufbewahrungsfristen",
+        "profile": "Profildaten: Gespeichert, solange dein Konto aktiv ist",
+        "analytics": "Logs und Analytics: Firebase Analytics: 14 Monate (Firebase-Richtlinie)"
+      },
+      "deletion": {
+        "title": "6.2. Datenlöschung",
+        "p1": "Du kannst jederzeit die Löschung deines Kontos beantragen (siehe Abschnitt 7).",
+        "legal": "Gesetzliche Aufbewahrung: Einige Daten können länger aufbewahrt werden, um unseren gesetzlichen Verpflichtungen nachzukommen (z.B. Sicherheitsberichte, Finanztransaktionen)."
+      }
+    },
+    "rights": {
+      "title": "7. Deine Rechte (DSGVO)",
+      "intro": "Gemäß DSGVO hast du folgende Rechte:",
+      "access": {
+        "title": "7.1. Auskunftsrecht",
+        "p1": "Du kannst eine Kopie aller Daten anfordern, die wir über dich haben.",
+        "how": "So übst du dieses Recht aus: Einstellungen > Datenschutz > \"Meine Daten exportieren\"",
+        "process": "Der Prozess generiert eine JSON-Datei mit allen deinen Daten (Profil, Nachrichten, Statistiken usw.). Der Download-Link ist 7 Tage gültig."
+      },
+      "rectification": {
+        "title": "7.2. Berichtigungsrecht",
+        "p1": "Du kannst deine Profilinformationen jederzeit von der Anwendung aus ändern (Benutzername, Biografie, Präferenzen usw.)."
+      },
+      "erasure": {
+        "title": "7.3. Recht auf Löschung (\"Recht auf Vergessenwerden\")",
+        "p1": "Du kannst die Löschung deines Kontos beantragen.",
+        "how": "So übst du dieses Recht aus: Einstellungen > Gefahrenzone > \"Mein Konto löschen\"",
+        "process": {
+          "title": "Automatisierter Löschprozess:",
+          "step1": "Zweistufige Bestätigung zur Verhinderung versehentlicher Löschungen",
+          "step2": "Sofortige Anonymisierung deiner personenbezogenen Daten (Firestore)",
+          "step3": "Löschung deines Firebase Authentication-Kontos (widerruft automatisch alle OAuth-Token)",
+          "step4": "Eine anonymisierte ID wird als Referenz bereitgestellt",
+          "step5": "Option zum Löschen deiner Nachrichten und generierten Inhalte"
+        },
+        "important": "Wichtig: Die Löschung ist irreversibel. Einige anonymisierte Daten können für statistische Zwecke aufbewahrt werden (DSGVO-konform).",
+        "manual": "Manuelle Löschanfragen: Für spezifische Datenlöschanfragen (z.B. nur Nachrichten aus einer bestimmten Community löschen, Storage-Bilder löschen oder andere Sonderfälle) kontaktiere bitte unseren Datenschutzbeauftragten unter dpo@jynx.app. Wir bearbeiten manuelle Anfragen innerhalb von 30 Tagen gemäß DSGVO."
+      },
+      "portability": {
+        "title": "7.4. Recht auf Datenübertragbarkeit",
+        "p1": "Der Datenexport (Abschnitt 7.1) ermöglicht es dir, deine Daten in einem strukturierten, maschinenlesbaren Format (JSON) abzurufen."
+      },
+      "objection": {
+        "title": "7.5. Widerspruchsrecht",
+        "p1": "Du kannst der Verarbeitung deiner Daten für Direktmarketing-Zwecke widersprechen."
+      },
+      "withdraw": {
+        "title": "7.6. Recht auf Widerruf der Einwilligung",
+        "p1": "Du kannst deine Einwilligung widerrufen für:",
+        "analytics": "Analytics: Einstellungen > Datenschutz > \"Analytics aktivieren\" deaktivieren",
+        "notifications": "Push-Benachrichtigungen: Geräteeinstellungen",
+        "oauth": "Hinweis: OAuth-Token (Google, Apple) werden automatisch widerrufen, wenn du dein Konto löschst (Abschnitt 7.3)."
+      }
+    },
+    "security": {
+      "title": "8. Datensicherheit",
+      "intro": "Wir implementieren technische und organisatorische Sicherheitsmaßnahmen zum Schutz deiner Daten:",
+      "encryption": "Verschlüsselung: Sichere Kommunikation über HTTPS",
+      "rules": "Firebase Security Rules: Strikte Zugriffskontrolle auf Firestore-Daten",
+      "auth": "Authentifizierung: Sichere Sitzungsverwaltung über Firebase Auth",
+      "validation": "Eingabe-Validierung: XSS-Injection-Prävention über SecureTextInput",
+      "rate_limiting": "Rate Limiting: Schutz vor Missbrauch (Spam-Nachrichten, automatisierte Aktionen)",
+      "moderation": "Moderation: Inhaltsmeldesystem und Moderationssystem",
+      "breach": "Kein System ist zu 100% sicher. Im Falle einer Datenpanne werden wir dich DSGVO-konform benachrichtigen (innerhalb von 72 Stunden)."
+    },
+    "international": {
+      "title": "9. Internationale Datenübertragungen",
+      "p1": "Deine Daten können auf Server außerhalb der Europäischen Union übertragen und gespeichert werden, einschließlich:",
+      "google": "Google Cloud / Firebase: Verwendet globale Infrastruktur mit DSGVO-Konformität",
+      "sentry": "Sentry: US-basierte Server mit Privacy Shield-Konformität",
+      "guarantees": "Garantien: Alle unsere Partner bieten Schutzgarantien gleichwertig zur DSGVO (Standardvertragsklauseln, Privacy Shield-Zertifizierungen)."
+    },
+    "cookies": {
+      "title": "10. Cookies und ähnliche Technologien",
+      "p1": "Unsere mobile Anwendung verwendet keine Cookies im traditionellen Sinne, sondern verwendet:",
+      "tokens": "Authentifizierungs-Token: Lokal auf sichere Weise gespeichert",
+      "cache": "Lokaler Cache: Zur Verbesserung der Performance (Profildaten, kürzliche Nachrichten)"
+    },
+    "changes": {
+      "title": "11. Änderungen dieser Richtlinie",
+      "p1": "Wir können diese Datenschutzerklärung aktualisieren. Bei wesentlichen Änderungen werden wir dich benachrichtigen:",
+      "notification": "Über eine In-App-Benachrichtigung",
+      "email": "Per E-Mail an die mit deinem Konto verknüpfte Adresse"
+    },
+    "contact": {
+      "title": "12. Kontaktiere uns",
+      "p1": "Bei Fragen zu dieser Datenschutzerklärung oder zur Ausübung deiner Rechte:",
+      "email": "E-Mail: dpo@jynx.app",
+      "authority": "Aufsichtsbehörde: Wenn du glaubst, dass deine Rechte nicht respektiert werden, kannst du eine Beschwerde bei der CNIL (Commission Nationale de l'Informatique et des Libertés) in Frankreich einreichen."
+    },
+    "consent": {
+      "title": "13. Einwilligung",
+      "p1": "Durch die Nutzung von Jynx stimmst du der Erhebung und Nutzung deiner Daten wie in dieser Datenschutzerklärung beschrieben zu.",
+      "p2": "Du kannst deine Einwilligung jederzeit widerrufen, indem du dein Konto löschst."
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Jynx | Nutzungsbedingungen",
+      "description": "Lies die Nutzungsbedingungen für Jynx. Diese Bedingungen beschreiben deine Rechte und Pflichten bei der Nutzung unserer Gaming-Community-Plattform.",
+      "og_title": "Jynx Nutzungsbedingungen",
+      "og_description": "Bedingungen, die deine Rechte und Pflichten auf der Jynx-Plattform beschreiben.",
+      "og_image_alt": "Jynx Nutzungsbedingungen",
+      "twitter_title": "Jynx Nutzungsbedingungen",
+      "twitter_description": "Bedingungen, die deine Rechte und Pflichten beschreiben.",
+      "twitter_image_alt": "Nutzungsbedingungen"
+    },
+    "title": "Nutzungsbedingungen - Jynx",
+    "last_updated_label": "Zuletzt aktualisiert:",
+    "last_updated": "12. Oktober 2025",
+    "version_label": "Version:",
+    "version": "1.0",
+    "section1": {
+      "title": "1. Einleitung & Annahme",
+      "intro": "Willkommen bei Jynx, einer Social-Gaming-Plattform, die Spieler verbindet, ihnen hilft, Teams zu bilden und zusammen zu spielen.",
+      "legal_entity_label": "Juristische Person:",
+      "legal_entity": "Jynx Group",
+      "contact_label": "Kontakt:",
+      "contact": "dpo@jynx.app",
+      "address_label": "Physische Adresse:",
+      "address": "BEACH BAT B1ETG APT2 1, 6 QUAI MAGELLAN, 44000 NANTES",
+      "jurisdiction_label": "Gerichtsbarkeit:",
+      "jurisdiction": "Frankreich, Europäische Union",
+      "acceptance": "Durch den Zugriff auf oder die Nutzung der Jynx-Anwendung (\"Dienst\", \"Plattform\", \"App\") erklärst du dich mit diesen Nutzungsbedingungen (\"Bedingungen\", \"ToS\") einverstanden. Wenn du mit diesen Bedingungen nicht einverstanden bist, darfst du den Dienst nicht nutzen.",
+      "important_label": "WICHTIG:",
+      "important": "Diese Bedingungen stellen eine rechtsverbindliche Vereinbarung zwischen dir und der Jynx Group dar."
+    },
+    "section2": {
+      "title": "2. Definitionen",
+      "intro": "Für die Zwecke dieser Bedingungen:",
+      "service_label": "\"Dienst\" / \"Plattform\" / \"App\":",
+      "service": "Die mobile Jynx-Anwendung und alle damit verbundenen Dienste",
+      "user_label": "\"Nutzer\" / \"Du\":",
+      "user": "Jede Person, die auf den Dienst zugreift oder ihn nutzt",
+      "content_label": "\"Inhalt\":",
+      "content": "Alle Texte, Bilder, Daten, Informationen oder andere Materialien, die über den Dienst gepostet, hochgeladen oder übertragen werden",
+      "account_label": "\"Konto\":",
+      "account": "Dein persönliches Jynx-Konto, das durch Registrierung erstellt wurde",
+      "community_label": "\"Community\":",
+      "community": "Eine Gruppe, die innerhalb von Jynx für Gaming und soziale Interaktion erstellt wurde",
+      "handle_label": "\"Handle\":",
+      "handle": "Dein eindeutiger Identifikator im Format @benutzername#diskriminator für private Freundessuche",
+      "we_label": "\"Wir\" / \"Uns\" / \"Jynx\":",
+      "we": "Jynx Group und ihre verbundenen Unternehmen"
+    },
+    "section3": {
+      "title": "3. Berechtigung & Kontoregistrierung",
+      "age": {
+        "title": "3.1. Altersanforderung",
+        "requirement": "Du musst mindestens 18 Jahre alt sein, um ein Konto zu erstellen und Jynx zu nutzen.",
+        "p1": "Während der Registrierung wirst du aufgefordert, dein Geburtsdatum anzugeben. Wenn du unter 18 Jahre alt bist, kannst du kein Konto erstellen oder auf den Dienst zugreifen.",
+        "enforcement_label": "Durchsetzung:",
+        "enforcement": "Unser Alters-Gate blockiert automatisch die Kontoerstellung für Nutzer unter 18 Jahren. Wenn wir feststellen, dass du falsche Informationen über dein Alter angegeben hast, wird dein Konto sofort gekündigt."
+      },
+      "creation": {
+        "title": "3.2. Kontoerstellung",
+        "intro": "Um Jynx zu nutzen, musst du ein Konto erstellen, indem du Folgendes angibst:",
+        "li1": "Eine gültige E-Mail-Adresse ODER Authentifizierung über Google/Apple",
+        "li2": "Einen eindeutigen Benutzernamen",
+        "li3": "Dein Geburtsdatum (für Altersverifizierung)",
+        "li4": "Profilinformationen (Land, Zeitzone, Sprachen, Gaming-Präferenzen)",
+        "handle": "Dir wird ein eindeutiger Handle zugewiesen (z.B. @benutzername#1234), der es Freunden ermöglicht, dich privat zu finden, ohne öffentlich durchsuchbar zu sein."
+      },
+      "security": {
+        "title": "3.3. Kontosicherheit",
+        "intro": "Du bist verantwortlich für:",
+        "li1": "Die Vertraulichkeit deiner Konto-Anmeldedaten",
+        "li2": "Alle Aktivitäten, die unter deinem Konto stattfinden",
+        "li3": "Uns sofort über jede unbefugte Nutzung zu informieren",
+        "liability": "Wir haften nicht für Verluste oder Schäden, die durch dein Versäumnis entstehen, deine Kontoinformationen zu schützen."
+      },
+      "accuracy": {
+        "title": "3.4. Kontorichtigkeit",
+        "intro": "Du stimmst zu:",
+        "li1": "Bei der Registrierung genaue, aktuelle und vollständige Informationen anzugeben",
+        "li2": "Deine Informationen zu aktualisieren, um sie genau und aktuell zu halten",
+        "li3": "Keine Person oder Entität zu imitieren",
+        "li4": "Keine mehreren Konten für missbräuchliche Zwecke zu erstellen"
+      }
+    },
+    "section4": {
+      "title": "4. Nutzerverhalten & verbotene Aktivitäten",
+      "acceptable": {
+        "title": "4.1. Akzeptable Nutzung",
+        "p1": "Jynx ist eine Community-getriebene Plattform. Du stimmst zu, den Dienst auf respektvolle, rechtmäßige und angemessene Weise zu nutzen."
+      },
+      "prohibited": {
+        "title": "4.2. Verbotenes Verhalten",
+        "intro": "Bei der Nutzung von Jynx stimmst du zu, NICHT:",
+        "harassment": {
+          "title": "Belästigung & Missbrauch:",
+          "li1": "Andere Nutzer zu belästigen, zu bedrohen, zu mobben, zu stalken oder einzuschüchtern",
+          "li2": "Hassrede oder Diskriminierung aufgrund von Rasse, ethnischer Zugehörigkeit, nationaler Herkunft, Religion, Geschlecht, sexueller Orientierung, Behinderung oder einer anderen geschützten Eigenschaft zu betreiben",
+          "li3": "Unerwünschte sexuelle Inhalte zu senden oder sexuelle Belästigung zu betreiben",
+          "li4": "Belästigung anderer zu koordinieren oder zu fördern"
+        },
+        "spam": {
+          "title": "Spam & Missbrauch:",
+          "li1": "Spam, unaufgeforderte Werbung oder Werbeinhalte zu senden",
+          "li2": "Den Dienst für kommerzielle Zwecke ohne unsere vorherige schriftliche Zustimmung zu nutzen",
+          "li3": "Mehrere Konten zu erstellen, um Sperren zu umgehen oder die Plattform zu manipulieren",
+          "li4": "Automatisierte Systeme (Bots, Skripte) zu verwenden, um auf den Dienst zuzugreifen oder mit ihm zu interagieren",
+          "li5": "Zu versuchen, Matchmaking-, Ranking- oder Community-Systeme zu manipulieren"
+        },
+        "impersonation": {
+          "title": "Identitätstäuschung & Betrug:",
+          "li1": "Eine andere Person, einen Nutzer oder eine Entität zu imitieren",
+          "li2": "Deine Identität, dein Alter oder deine Zugehörigkeit falsch darzustellen",
+          "li3": "Gefälschte Konten oder irreführende Profile zu erstellen",
+          "li4": "Deine Konto-Anmeldedaten zu teilen oder zu verkaufen"
+        },
+        "illegal": {
+          "title": "Illegale Aktivitäten:",
+          "li1": "Den Dienst für illegale Zwecke oder unter Verletzung von Gesetzen zu nutzen",
+          "li2": "Illegale Aktivitäten zu teilen, zu fördern oder zu erleichtern",
+          "li3": "Geistige Eigentumsrechte anderer zu verletzen",
+          "li4": "An Betrug, Betrügereien oder Phishing-Versuchen teilzunehmen"
+        },
+        "security": {
+          "title": "Plattformsicherheit:",
+          "li1": "Zu versuchen, unbefugten Zugriff auf unsere Systeme, Server oder Datenbanken zu erhalten",
+          "li2": "Malware, Viren oder bösartigen Code zu verbreiten",
+          "li3": "Einen Teil des Dienstes rückzuentwickeln, zu dekompilieren oder zu disassemblieren",
+          "li4": "Bugs, Glitches oder Schwachstellen für unfaire Vorteile auszunutzen (müssen an security@jynx.app gemeldet werden)"
+        },
+        "privacy": {
+          "title": "Datenschutzverletzungen:",
+          "li1": "Private Informationen anderer Nutzer ohne Zustimmung zu teilen (Doxxing)",
+          "li2": "Private Gespräche ohne Erlaubnis als Screenshot zu teilen",
+          "li3": "Nutzerdaten ohne Autorisierung zu sammeln oder zu ernten"
+        },
+        "content_violations": {
+          "title": "Inhaltsverstöße:",
+          "li1": "Inhalte zu posten, die gegen unsere Community-Richtlinien verstoßen",
+          "li2": "Gewalttätige, grafische oder verstörende Inhalte zu teilen",
+          "li3": "Inhalte zu posten, die in irgendeiner Weise Minderjährige betreffen",
+          "li4": "Urheberrechtlich geschütztes Material ohne Erlaubnis zu verbreiten"
+        },
+        "manipulation": {
+          "title": "Plattform-Manipulation:",
+          "li1": "Engagement-Metriken oder Reputation künstlich zu erhöhen",
+          "li2": "Massenberichte zu koordinieren, um unser Meldesystem zu missbrauchen",
+          "li3": "Den normalen Betrieb des Dienstes zu beeinträchtigen",
+          "li4": "Rate-Limits, Einschränkungen oder Sicherheitsfunktionen zu umgehen oder zu umgehen"
+        },
+        "enforcement_label": "Durchsetzung:",
+        "enforcement": "Verstöße gegen diese Verbote können zur Entfernung von Inhalten, Kontosperrung, dauerhafter Sperrung und/oder rechtlichen Schritten führen. Um Verstöße zu melden, kontaktiere support@jynx.app. Für Sicherheitsschwachstellen kontaktiere security@jynx.app"
+      },
+      "rate_limiting": {
+        "title": "4.3. Rate Limiting & Anti-Spam",
+        "intro": "Um die Plattform und das Nutzererlebnis zu schützen, setzen wir Rate-Limits durch:",
+        "client_label": "Client-seitig:",
+        "client": "10 Nachrichten pro Minute (gleitendes Fenster)",
+        "burst_label": "Server-seitiger Burst-Schutz:",
+        "burst": "1 Nachricht pro Sekunde",
+        "daily_label": "Server-seitiges Tageslimit:",
+        "daily": "500 Nachrichten pro Tag (wird um Mitternacht UTC zurückgesetzt)",
+        "warning": "Der Versuch, diese Limits zu umgehen, kann zur Kontosperrung führen."
+      },
+      "moderation": {
+        "title": "4.4. Moderation & Meldung",
+        "structure_title": "Moderationsstruktur:",
+        "structure_intro": "Jynx setzt ein zentralisiertes Moderationsteam ein, um eine konsistente Durchsetzung dieser Bedingungen und Community-Richtlinien auf der gesamten Plattform zu gewährleisten. Unser Moderationssystem umfasst:",
+        "structure": {
+          "li1": "Jynx Moderationsteam: Dediziertes Team, das für die Überprüfung aller gemeldeten Verstöße und angemessene Maßnahmen verantwortlich ist",
+          "li2": "Automatisierte Erkennung: Algorithmus-basierte Systeme, die automatisch Spam, illegale Inhalte und schwerwiegende Verstöße markieren und entfernen",
+          "li3": "Community-Owner-Befugnisse: Community-Owner haben begrenzte Moderationsfähigkeiten innerhalb ihrer Communities, einschließlich der Möglichkeit, Mitglieder zu kicken oder vorübergehende Stummschaltungen anzuwenden (bis zu 24 Stunden). Schwerwiegende Verstöße müssen an das Jynx-Moderationsteam eskaliert werden"
+        },
+        "reporting_title": "Meldeprozess:",
+        "reporting_intro": "Du kannst Verstöße melden über:",
+        "reporting": {
+          "li1": "In-App-Meldung: Verwende die \"Melden\"-Schaltfläche, die bei Nachrichten, Profilen und Community-Inhalten verfügbar ist. Wähle die entsprechende Kategorie (Belästigung, Spam, unangemessener Inhalt, Betrug oder Sonstiges) und gib Kontext an",
+          "li2": "E-Mail: Kontaktiere support@jynx.app mit detaillierten Informationen, einschließlich Screenshots und Beweisen, wenn zutreffend"
+        },
+        "reporting_note": "Alle Meldungen werden von unserem Moderationsteam überprüft. Das Einreichen falscher oder böswilliger Meldungen kann zu Maßnahmen gegen dein Konto führen.",
+        "response_title": "Reaktionszeiten:",
+        "response_intro": "Wir priorisieren Meldungen nach Schweregrad:",
+        "response": {
+          "urgent": "Dringend (Drohungen, illegale Inhalte, unmittelbare Gefahr): Überprüfung und Maßnahme innerhalb von 2 Stunden",
+          "high": "Hohe Priorität (Belästigung, Hassrede, sexuelle Inhalte): Überprüfung und Maßnahme innerhalb von 24 Stunden",
+          "medium": "Mittlere Priorität (Spam, Plattform-Manipulation, Regelverstöße): Überprüfung und Maßnahme innerhalb von 72 Stunden",
+          "low": "Niedrige Priorität (Community-Streitigkeiten, kleinere Verstöße): Überprüfung und Maßnahme innerhalb von 7 Tagen"
+        }
+      }
+    },
+    "section5": {
+      "title": "5. Inhaltsbesitz & Lizenz",
+      "your_content": {
+        "title": "5.1. Deine Inhalte",
+        "intro": "Du behältst das Eigentum an allen Inhalten, die du über den Dienst postest, hochlädst oder überträgst (\"Nutzerinhalte\"), einschließlich:",
+        "li1": "Nachrichten in Community-Chats und privaten Gesprächen",
+        "li2": "Profilinformationen, Biografien und Bilder",
+        "li3": "Gaming-Statistiken und Präferenzen"
+      },
+      "license": {
+        "title": "5.2. Lizenz an Jynx",
+        "intro": "Durch das Posten von Nutzerinhalten gewährst du Jynx eine nicht-exklusive, weltweite, lizenzgebührenfreie, unterlizenzierbare Lizenz:",
+        "core_title": "Kerndienstleistungen:",
+        "core": {
+          "li1": "Deine Nutzerinhalte zu hosten, zu speichern und anzuzeigen, wie es zur Bereitstellung des Dienstes erforderlich ist",
+          "li2": "Deine Nutzerinhalte gemäß deinen Datenschutzeinstellungen mit anderen Nutzern zu teilen (z.B. in Communities anzeigen, in Match-Profilen anzeigen)",
+          "li3": "Backup-Kopien zu erstellen und Datenredundanz für Zuverlässigkeit zu gewährleisten",
+          "li4": "Inhalte zu moderieren und auf Einhaltung dieser Bedingungen und geltender Gesetze zu überprüfen"
+        },
+        "improvement_title": "Service-Verbesserung & Analytics:",
+        "improvement": {
+          "li1": "Deine Nutzerinhalte zur Verbesserung und Entwicklung des Dienstes zu verwenden (z.B. Analytics, Feature-Entwicklung)",
+          "li2": "Machine-Learning-Modelle für unser Auto-Match-System und Empfehlungsalgorithmen zu trainieren",
+          "li3": "Aggregierte, anonymisierte Statistiken über Plattformnutzung und Nutzerverhalten zu generieren",
+          "li4": "Forschung zur Verbesserung der Nutzererfahrung und Plattformsicherheit durchzuführen"
+        },
+        "security_title": "Sicherheit & Compliance:",
+        "security": {
+          "li1": "Spam, Missbrauch, Betrug und Verstöße gegen diese Bedingungen zu erkennen und zu verhindern",
+          "li2": "Auf rechtliche Anfragen zu reagieren und unsere Rechte durchzusetzen",
+          "li3": "Moderationsaufzeichnungen für Plattformsicherheit zu führen"
+        },
+        "marketing_title": "Marketing & Werbenutzung (begrenzt):",
+        "marketing": {
+          "li1": "Aggregierte, anonymisierte Statistiken in Marketingmaterialien zu verwenden (z.B. \"10.000 Matches diesen Monat erstellt\")",
+          "li2": "Öffentlich geteilte Nutzerinhalte (Community-Beiträge, öffentliche Profile) in Werbematerialien zu verwenden, mit deiner expliziten Opt-in-Zustimmung",
+          "li3": "Deine Erlaubnis anzufordern, Testimonials, Screenshots oder spezifische Inhalte für Fallstudien oder Werbung zu verwenden"
+        },
+        "limitations_title": "Wichtige Einschränkungen:",
+        "limitations": {
+          "li1": "Private Nachrichten und Gespräche werden NIEMALS für Marketingzwecke verwendet",
+          "li2": "Wir werden immer deine explizite schriftliche Zustimmung einholen, bevor wir identifizierbare Nutzerinhalte (z.B. dein Profil, Benutzername, Bilder) in Marketingmaterialien verwenden",
+          "li3": "Du kannst die Zustimmung zur Marketingnutzung jederzeit widerrufen, indem du dpo@jynx.app kontaktierst",
+          "li4": "Anonymisierte oder aggregierte Daten erfordern keine zusätzliche Zustimmung"
+        },
+        "no_sell": "Wir werden deine persönlichen Daten NICHT an Dritte verkaufen. Siehe unsere Datenschutzerklärung für Details zur Datenhandhabung."
+      },
+      "third_party": {
+        "title": "5.3. Drittanbieter-Inhalte",
+        "intro": "Jynx integriert sich mit Drittanbieter-Diensten, einschließlich:",
+        "riot": "Riot Games API: Champion-Namen, Bilder, Statistiken und Match-Daten sind Eigentum von Riot Games. Jynx arbeitet unter den Riot Games API-Nutzungsbedingungen.",
+        "firebase": "Firebase-Dienste: Bereitgestellt von Google unter ihren Nutzungsbedingungen.",
+        "oauth": "OAuth-Anbieter: Google und Apple Authentifizierungsdienste."
+      },
+      "removal": {
+        "title": "5.4. Inhaltsentfernung",
+        "intro": "Wir behalten uns das Recht vor, alle Nutzerinhalte zu entfernen, die:",
+        "li1": "Gegen diese Bedingungen verstoßen",
+        "li2": "Gegen geltende Gesetze verstoßen",
+        "li3": "Geistige Eigentumsrechte Dritter verletzen",
+        "li4": "Gemeldet und als Verstoß gegen unsere Community-Richtlinien bestätigt wurden",
+        "notification": "Du wirst über die Entfernung von Inhalten benachrichtigt, wenn möglich."
+      }
+    },
+    "section6": {
+      "title": "6. Communities & Gaming-Funktionen",
+      "community": {
+        "title": "6.1. Community-Erstellung & -Verwaltung",
+        "intro": "Nutzer können Communities für Gaming und soziale Interaktion erstellen und beitreten.",
+        "freemium_title": "Freemium-Einschränkungen:",
+        "free_label": "Kostenlose Nutzer:",
+        "free": {
+          "li1": "Erstellen: Maximum 1 Community",
+          "li2": "Beitreten: Bis zu 5 Communities maximal",
+          "li3": "Community-Mitgliederlimits: Communities unterliegen Mitgliederobergrenzen basierend auf ihrem Boost-Level"
+        },
+        "premium_label": "Premium-Nutzer (Jynx+):",
+        "premium": {
+          "li1": "Erstellen: Unbegrenzte Communities",
+          "li2": "Beitreten: Unbegrenzte Communities",
+          "li3": "Exklusive Vorteile: 2 kostenlose Community-Boosts pro Monat zur Unterstützung deiner Lieblings-Communities"
+        },
+        "boost_title": "Community-Boost-System:",
+        "boost_intro": "Communities können ihre Mitgliederkapazität erhöhen und zusätzliche Funktionen durch Community-Boosts freischalten:",
+        "boost": {
+          "level0": "Level 0 (Basis): Bis zu 30 Mitglieder",
+          "level1": "Level 1 (5 Boosts): Bis zu 100 Mitglieder + Benutzerdefinierte Community-Hintergrundbilder",
+          "level2": "Level 2 (15 Boosts): Bis zu 250 Mitglieder + Benutzerdefinierte Rollenerstellung",
+          "level3": "Level 3 (30 Boosts): Bis zu 500 Mitglieder + Erweiterte Community-Funktionen"
+        }
+      },
+      "automatch": {
+        "title": "6.2. Auto-Match-System",
+        "intro": "Jynx verwendet ein intelligentes Auto-Match-System, um Spieler zu verbinden basierend auf:",
+        "li1": "Spielpräferenzen",
+        "li2": "Skill-Levels (z.B. Riot Games Rang)",
+        "li3": "Spielstile und Verfügbarkeit",
+        "li4": "Sprache und Zeitzone",
+        "consent": "Durch die Nutzung der Auto-Match-Funktion stimmst du zu, dass dein Gaming-Profil mit potenziellen Matches geteilt wird."
+      },
+      "riot": {
+        "title": "6.3. Riot Games Integration",
+        "intro": "Wenn du dein Riot Games-Konto verknüpfst, rufen wir ab:",
+        "li1": "Beschwörername und Riot ID",
+        "li2": "Ranked-Statistiken (League of Legends, Valorant, etc.)",
+        "li3": "Champion-Meisterschaft und Match-Verlauf",
+        "unlink": "Du kannst dein Riot-Konto jederzeit über die Einstellungen trennen."
+      }
+    },
+    "section7": {
+      "title": "7. Kontosperrung & Kündigung",
+      "suspension": {
+        "title": "7.1. Sperrung durch Jynx",
+        "intro": "Wir behalten uns das Recht vor, dein Konto zu sperren oder zu kündigen, wenn du:",
+        "li1": "Gegen diese Nutzungsbedingungen verstößt",
+        "li2": "An verbotenem Verhalten teilnimmst (Abschnitt 4.2)",
+        "li3": "An betrügerischen oder illegalen Aktivitäten teilnimmst",
+        "li4": "Wiederholt gültige Meldungen von anderen Nutzern erhältst",
+        "actions_title": "Moderationsmaßnahmen:",
+        "actions_intro": "Unser Moderationsteam kann folgende Maßnahmen ergreifen:",
+        "warning_label": "1. Warnung (geringe Schwere)",
+        "warning": {
+          "li1": "Ausgestellt für kleinere Verstöße oder Erstverstöße",
+          "li2": "Keine Kontobeschränkungen, aber Verstoß wird dokumentiert",
+          "li3": "Warnungen bleiben 30 Tage lang bestehen"
+        },
+        "temp_label": "2. Vorübergehende Sperrung (mittlere bis hohe Schwere)",
+        "temp": {
+          "li1": "7-tägige Sperrung: Standarddauer für erhebliche Verstöße (Belästigung, Spam, Plattform-Manipulation)",
+          "li2": "14-tägige Sperrung: Wiederholte Verstöße oder schwerwiegendere Verstöße",
+          "li3": "30-tägige Sperrung: Schwerwiegende Verstöße, die keine dauerhafte Entfernung rechtfertigen",
+          "li4": "Während der Sperrung verlierst du den gesamten Zugriff auf den Dienst"
+        },
+        "permanent_label": "3. Dauerhafte Sperrung (kritische Schwere)",
+        "permanent": {
+          "intro": "Ausgestellt für die schwerwiegendsten Verstöße, einschließlich:",
+          "li1": "Illegale Aktivitäten (Betrug, Verbreitung illegaler Inhalte)",
+          "li2": "Schwere Belästigung, Drohungen oder Hassrede",
+          "li3": "Wiederholte Verstöße nach mehreren Sperrungen",
+          "li4": "Erstellen mehrerer Konten zur Umgehung von Sperren",
+          "li5": "Ausnutzung von Sicherheitsschwachstellen für böswillige Zwecke"
+        }
+      },
+      "effect": {
+        "title": "7.2. Auswirkung der Kündigung",
+        "intro": "Bei Kontokündigung:",
+        "li1": "Verlierst du den Zugriff auf dein Konto und alle zugehörigen Daten",
+        "li2": "Werden deine Nutzerdaten gemäß DSGVO anonymisiert",
+        "li3": "Wird dein Firebase Authentication-Konto gelöscht",
+        "li4": "Werden OAuth-Token (Google, Apple) automatisch widerrufen",
+        "refund": "Rückerstattungsrichtlinie: Keine Rückerstattungen werden für Premium-Abonnements oder virtuelle Gegenstände (Kosmetika) gewährt, wenn dein Konto aufgrund von Verstößen gegen diese Bedingungen gekündigt wird."
+      },
+      "user_deletion": {
+        "title": "7.3. Vom Nutzer initiierte Löschung",
+        "p1": "Du kannst dein Konto jederzeit über Einstellungen > Gefahrenzone > Mein Konto löschen löschen.",
+        "p2": "Diese Aktion ist irreversibel. Siehe unsere Datenschutzerklärung für den Löschprozess."
+      },
+      "appeal": {
+        "title": "7.4. Einspruchsverfahren",
+        "intro": "Wenn du glaubst, dass dein Konto irrtümlich gesperrt oder gekündigt wurde, hast du das Recht, Einspruch gegen die Entscheidung einzulegen.",
+        "how_title": "So legst du Einspruch ein:",
+        "how": {
+          "li1": "Reiche deinen Einspruch ein: Kontaktiere uns unter dpo@jynx.app mit deinen Kontoinformationen (Benutzername, E-Mail, Handle), Grund für den Einspruch, unterstützenden Beweisen und deiner Perspektive auf den Vorfall",
+          "li2": "Überprüfungszeitplan: Wir werden alle Einsprüche innerhalb von 7 Werktagen nach Einreichung prüfen",
+          "li3": "Untersuchung: Unser Moderationsteam wird den ursprünglichen Verstoßbericht und die Beweise erneut untersuchen, deinen Kontoverlauf und Kontext überprüfen und neue Informationen, die du bereitgestellt hast, berücksichtigen",
+          "li4": "Entscheidung: Nach der Überprüfung werden wir entweder die Entscheidung aufrechterhalten, die Strafe reduzieren oder die Entscheidung aufheben und dein Konto wiederherstellen",
+          "li5": "Benachrichtigung: Du erhältst unsere endgültige Entscheidung per E-Mail, einschließlich des Ergebnisses und der Erklärung unserer Begründung"
+        },
+        "deadlines_title": "Einspruchsfristen:",
+        "deadlines_intro": "Du musst deinen Einspruch einreichen innerhalb:",
+        "deadlines": {
+          "li1": "24 Stunden für Stummschaltungen oder kurze Sperrungen (1-7 Tage)",
+          "li2": "7 Tagen für Sperrungen (14-30 Tage)",
+          "li3": "30 Tagen für dauerhafte Sperren"
+        }
+      }
+    },
+    "section8": {
+      "title": "8. Premium-Dienste & Zahlungen",
+      "status": "Status der Premium-Funktionen: Jynx arbeitet derzeit als kostenlose Plattform. Premium-Abonnement-Funktionen (Jynx+) und kostenpflichtige Kosmetika kommen bald und sind noch nicht zum Kauf verfügbar.",
+      "freemium": {
+        "title": "8.1. Freemium-Modell",
+        "intro": "Jynx arbeitet mit einem Freemium-Modell, bei dem alle Kernfunktionen kostenlos zugänglich sind, mit optionalen Premium-Erweiterungen.",
+        "free_title": "Einschränkungen der kostenlosen Stufe:",
+        "free": {
+          "li1": "Match-Warteschlange: 20 Likes pro Tag, 200 Profilansichten pro Tag",
+          "li2": "Chat-Anfragen: 3 Anfragen pro Tag aus der Match-Warteschlange, 5 Anfragen pro Tag global",
+          "li3": "Communities: 1 Community erstellen, bis zu 5 Communities beitreten",
+          "li4": "Kosmetika: Zugriff auf kostenlose Kosmetik-Gegenstände (Abzeichen, Avatar-Rahmen)"
+        },
+        "premium_title": "Jynx+ Premium-Vorteile (Bald verfügbar):",
+        "premium": {
+          "li1": "Unbegrenzte Communities: Unbegrenzt Communities erstellen und beitreten",
+          "li2": "Community-Boosts: 2 kostenlose Community-Boosts pro Monat zur Unterstützung deiner Lieblings-Communities",
+          "li3": "Unbegrenztes Matching: Keine täglichen Limits für Likes, Profilansichten oder Chat-Anfragen",
+          "li4": "Prioritäts-Support: Schnellere Antwortzeiten für Support-Anfragen",
+          "li5": "Premium-Abzeichen: Zeige ein spezielles Premium-Abzeichen auf deinem Profil an",
+          "li6": "Exklusive Kosmetika: Zugriff auf Premium-Kosmetik-Gegenstände",
+          "li7": "Erweiterte Funktionen: Früher Zugang zu neuen Funktionen und verbesserten Matching-Algorithmen"
+        }
+      },
+      "cosmetics": {
+        "title": "8.2. Kosmetika & Virtuelle Gegenstände",
+        "intro": "Jynx wird optionale Kosmetik-Gegenstände zur Personalisierung deines Profils anbieten, einschließlich Abzeichen, Avatar-Rahmen und Helden-Rahmen.",
+        "important": "Wichtig: Kosmetika sind rein dekorative digitale Gegenstände ohne realen Wert. Du besitzt keine Kosmetika; dir wird eine begrenzte, widerrufbare Lizenz zur Anzeige auf deinem Jynx-Profil gewährt."
+      },
+      "refunds": {
+        "title": "8.3. Rückerstattungen & Stornierungen",
+        "eu_title": "EU-Verbraucherrechte (14-tägige Widerrufsfrist):",
+        "eu": {
+          "p1": "Wenn du ein Verbraucher in der Europäischen Union bist, hast du das Recht, innerhalb von 14 Tagen nach dem Kauf von digitalen Inhalten zurückzutreten, vorbehaltlich Bedingungen."
+        },
+        "policy_title": "Rückerstattungsrichtlinie:",
+        "policy": {
+          "li1": "Technische Fehler: Wenn du technische Probleme hast, die dich daran hindern, auf gekaufte Funktionen zuzugreifen, kontaktiere support@jynx.app innerhalb von 14 Tagen für eine vollständige Rückerstattung",
+          "li2": "Versehentliche Käufe: Rückerstattungen für versehentliche Käufe können nach unserem Ermessen innerhalb von 48 Stunden nach dem Kauf gewährt werden",
+          "li3": "Unbefugte Transaktionen: Melde unbefugte Transaktionen sofort an dpo@jynx.app und deinen Zahlungsanbieter",
+          "li4": "Keine Rückerstattungen für: Kontokündigung aufgrund von Verstößen gegen die Bedingungen, Sinnesänderung nach Verwendung von Premium-Funktionen für mehr als 14 Tage"
+        }
+      }
+    },
+    "section9": {
+      "title": "9. Drittanbieter-Dienste",
+      "intro": "Jynx integriert sich mit den folgenden Drittanbieter-Diensten, die jeweils von ihren eigenen Bedingungen geregelt werden:",
+      "firebase": {
+        "title": "9.1. Firebase-Dienste (Google)",
+        "intro": "Wir verwenden Firebase für:",
+        "li1": "Authentifizierung",
+        "li2": "Cloud Firestore (Datenbank)",
+        "li3": "Cloud Storage (Bilder)",
+        "li4": "Cloud Functions (Backend-Logik)",
+        "li5": "Cloud Messaging (Push-Benachrichtigungen)",
+        "li6": "App Check (Sicherheit)",
+        "li7": "Performance Monitoring",
+        "li8": "Crashlytics (Absturzberichterstattung)"
+      },
+      "sentry": {
+        "title": "9.2. Sentry (Fehlerüberwachung)",
+        "p1": "Wir verwenden Sentry für Fehler-Tracking und Performance-Überwachung. Daten werden anonymisiert, bevor sie an Sentry gesendet werden."
+      },
+      "riot": {
+        "title": "9.3. Riot Games API",
+        "p1": "Wir verwenden die Riot Games API, um Gaming-Statistiken abzurufen (League of Legends, Valorant, etc.)."
+      },
+      "oauth": {
+        "title": "9.4. OAuth-Anbieter",
+        "intro": "Wir bieten Authentifizierung über:",
+        "li1": "Google Sign-In",
+        "li2": "Apple Sign-In"
+      },
+      "responsibility": "Du bist dafür verantwortlich, die Bedingungen dieser Drittanbieter-Dienste einzuhalten."
+    },
+    "section10": {
+      "title": "10. Haftungsausschlüsse & Haftungsbeschränkung",
+      "as_is": {
+        "title": "10.1. Dienst bereitgestellt \"WIE BESEHEN\"",
+        "p1": "DER DIENST WIRD AUF \"WIE BESEHEN\"- UND \"WIE VERFÜGBAR\"-BASIS OHNE JEGLICHE GARANTIEN BEREITGESTELLT, WEDER AUSDRÜCKLICH NOCH STILLSCHWEIGEND, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF: Garantien der Marktgängigkeit, Eignung für einen bestimmten Zweck oder Nichtverletzung; Garantien für ununterbrochenen, sicheren oder fehlerfreien Dienst; Genauigkeit oder Zuverlässigkeit von Auto-Match-Ergebnissen."
+      },
+      "third_party": {
+        "title": "10.2. Keine Garantie für Drittanbieter-Dienste",
+        "intro": "Wir sind nicht verantwortlich für:",
+        "li1": "Ausfallzeiten oder Probleme mit Firebase, Riot Games API oder anderen Drittanbieter-Diensten",
+        "li2": "Genauigkeit von Riot Games-Statistiken (z.B. Rang, Match-Verlauf)",
+        "li3": "Datenverlust aufgrund von Drittanbieter-Dienst-Ausfällen"
+      },
+      "limitation": {
+        "title": "10.3. Haftungsbeschränkung",
+        "p1": "IM MAXIMAL GESETZLICH ZULÄSSIGEN UMFANG HAFTET JYNX NICHT FÜR: Indirekte, zufällige, spezielle, Folge- oder Strafschäden; Gewinnverlust, Daten- oder Goodwill-Verlust; Dienstunterbrechungen oder Nichtverfügbarkeit; Nutzergenerierte Inhalte oder Verhalten anderer Nutzer.",
+        "max": "Maximale Haftung: Unsere Gesamthaftung übersteigt nicht den Betrag, den du Jynx in den 12 Monaten vor dem Anspruch gezahlt hast, oder 100 €, je nachdem, welcher Betrag höher ist."
+      }
+    },
+    "section11": {
+      "title": "11. Änderungen der Bedingungen",
+      "right": {
+        "title": "11.1. Recht auf Änderung",
+        "intro": "Wir behalten uns das Recht vor, diese Bedingungen jederzeit zu ändern. Wenn wir Änderungen vornehmen, werden wir:",
+        "li1": "Das Datum \"Zuletzt aktualisiert\" oben in diesem Dokument aktualisieren",
+        "li2": "30 Tage im Voraus für alle Änderungen ankündigen",
+        "li3": "Dich über In-App-Benachrichtigung informieren",
+        "li4": "Dich per E-Mail an die mit deinem Konto verknüpfte Adresse benachrichtigen"
+      },
+      "acceptance": {
+        "title": "11.2. Annahme von Änderungen",
+        "p1": "Deine fortgesetzte Nutzung des Dienstes nach Inkrafttreten der Änderungen stellt deine Annahme der überarbeiteten Bedingungen dar.",
+        "p2": "Wenn du mit den überarbeiteten Bedingungen nicht einverstanden bist, musst du die Nutzung des Dienstes einstellen und dein Konto löschen, bevor die Änderungen in Kraft treten."
+      },
+      "material": {
+        "title": "11.3. Wesentliche Änderungen",
+        "intro": "Für wesentliche Änderungen, die deine Rechte oder Pflichten erheblich beeinflussen (z.B. Änderungen der Zahlungsbedingungen, Haftungsbeschränkungen, Datenverarbeitung, Streitbeilegung), werden wir:",
+        "li1": "60 Tage im Voraus ankündigen (doppelte Standardankündigungsfrist)",
+        "li2": "Ausdrückliche Anerkennung der Änderungen verlangen, bevor du den Dienst weiter nutzen kannst",
+        "li3": "Dir die Möglichkeit bieten, deine Daten zu exportieren, wenn du dich entscheidest, die Nutzung des Dienstes einzustellen"
+      }
+    },
+    "section12": {
+      "title": "12. Anwendbares Recht & Streitbeilegung",
+      "law": {
+        "title": "12.1. Anwendbares Recht",
+        "p1": "Diese Bedingungen unterliegen und werden gemäß den Gesetzen Frankreichs und den geltenden EU-Vorschriften ausgelegt, ohne Berücksichtigung von Kollisionsnormen.",
+        "regulations": "Geltende Vorschriften: Französisches Zivilgesetzbuch (Code civil), Französisches Verbrauchergesetzbuch (Code de la consommation), Datenschutz-Grundverordnung (DSGVO), EU Digital Services Act (DSA), EU-Verbraucherrechte-Richtlinie."
+      },
+      "jurisdiction": {
+        "title": "12.2. Gerichtsstand",
+        "p1": "Alle Streitigkeiten, die sich aus diesen Bedingungen oder dem Dienst ergeben, unterliegen der ausschließlichen Zuständigkeit der zuständigen Gerichte von Nantes, Frankreich."
+      },
+      "resolution": {
+        "title": "12.3. Streitbeilegung & Schiedsverfahren",
+        "no_mandatory": "Kein obligatorisches Schiedsverfahren: Jynx verlangt kein obligatorisches Schiedsverfahren. Du behältst das Recht, Streitigkeiten vor die Gerichte von Nantes, Frankreich zu bringen.",
+        "adr_title": "Alternative Streitbeilegung (optional):",
+        "adr_intro": "Bevor du ein Gerichtsverfahren einleitest, ermutigen wir dich:",
+        "adr": {
+          "li1": "Kontaktiere uns direkt: Versuche, das Problem zu lösen, indem du support@jynx.app oder dpo@jynx.app kontaktierst",
+          "li2": "Informelle Verhandlung: Wir werden in gutem Glauben mit dir zusammenarbeiten, um innerhalb von 30 Tagen eine gütliche Lösung zu erreichen",
+          "li3": "Mediation (optional): Wenn eine informelle Lösung fehlschlägt, kannst du eine Mediation über einen neutralen Drittmediator vorschlagen"
+        }
+      },
+      "eu_rights": {
+        "title": "12.4. EU-Verbraucherrechte",
+        "intro": "Wenn du ein Verbraucher in der Europäischen Union bist, behältst du alle obligatorischen Verbraucherrechte nach EU-Recht, einschließlich:",
+        "li1": "14-tägige Widerrufsfrist für Käufe digitaler Inhalte",
+        "li2": "Recht auf Abhilfe bei fehlerhaften Produkten oder Dienstleistungen",
+        "li3": "Schutz vor unfairen Vertragsklauseln",
+        "li4": "Recht, Beschwerden bei deiner lokalen Verbraucherschutzbehörde einzureichen",
+        "li5": "Zugang zur EU ODR-Plattform"
+      },
+      "gdpr": {
+        "title": "12.5. DSGVO-Konformität",
+        "p1": "Unsere Datenpraktiken entsprechen der Datenschutz-Grundverordnung (DSGVO). Siehe unsere Datenschutzerklärung für Details zur Datenerhebung, -verarbeitung, -aufbewahrung, deinen Rechten und wie du unseren Datenschutzbeauftragten kontaktierst."
+      }
+    },
+    "section13": {
+      "title": "13. Kontakt & Rechtsinformationen",
+      "contact": {
+        "title": "13.1. Kontaktiere uns",
+        "intro": "Bei Fragen zu diesen Nutzungsbedingungen:",
+        "general_label": "Allgemeine Anfragen:",
+        "general": "dpo@jynx.app",
+        "support_label": "Kundensupport:",
+        "support": "support@jynx.app",
+        "security_label": "Sicherheitsprobleme:",
+        "security": "security@jynx.app"
+      },
+      "legal": {
+        "title": "13.2. Juristische Person",
+        "company_label": "Firmenname:",
+        "company": "Jynx Group",
+        "address_label": "Physische Adresse:",
+        "address_line1": "BEACH BAT B1ETG APT2 1",
+        "address_line2": "6 QUAI MAGELLAN",
+        "address_line3": "44000 NANTES",
+        "address_line4": "FRANKREICH",
+        "registration_label": "Registrierungsinformationen:",
+        "siren_label": "SIREN:",
+        "siren": "991443896",
+        "siret_label": "SIRET:",
+        "siret": "99144389600014",
+        "rcs_label": "Registriert bei:",
+        "rcs": "Registre du Commerce et des Sociétés (RCS) de Nantes",
+        "date_label": "Registrierungsdatum:",
+        "date": "17. September 2025",
+        "form_label": "Rechtsform:",
+        "form": "Société par Actions Simplifiée (SAS)",
+        "vat_label": "USt-IdNr.:",
+        "vat": "FR39991443896",
+        "dpo_label": "Datenschutzbeauftragter (DPO):",
+        "dpo": "dpo@jynx.app"
+      }
+    },
+    "section14": {
+      "title": "14. Verschiedenes",
+      "entire": {
+        "title": "14.1. Gesamte Vereinbarung",
+        "p1": "Diese Bedingungen bilden zusammen mit unserer Datenschutzerklärung die gesamte Vereinbarung zwischen dir und Jynx bezüglich des Dienstes."
+      },
+      "severability": {
+        "title": "14.2. Salvatorische Klausel",
+        "p1": "Sollte eine Bestimmung dieser Bedingungen für ungültig oder nicht durchsetzbar befunden werden, bleiben die übrigen Bestimmungen in vollem Umfang in Kraft."
+      },
+      "waiver": {
+        "title": "14.3. Verzicht",
+        "p1": "Unser Versäumnis, ein Recht oder eine Bestimmung dieser Bedingungen durchzusetzen, stellt keinen Verzicht auf dieses Recht oder diese Bestimmung dar."
+      },
+      "assignment": {
+        "title": "14.4. Abtretung",
+        "p1": "Du darfst diese Bedingungen nicht ohne unsere vorherige schriftliche Zustimmung abtreten oder übertragen. Wir können diese Bedingungen ohne Einschränkung abtreten."
+      },
+      "language": {
+        "title": "14.5. Sprache",
+        "p1": "Diese Bedingungen werden auf Englisch bereitgestellt. Im Falle von Widersprüchen zwischen der englischen Version und einer Übersetzung hat die englische Version Vorrang."
+      }
+    },
+    "final_acknowledgment": "Durch die Nutzung von Jynx bestätigst du, dass du diese Nutzungsbedingungen gelesen, verstanden hast und dich an sie gebunden fühlst."
+  },
+  "nav": {
+    "home": "Startseite",
+    "solution": "Lösung",
+    "feedback": "Feedback"
+  },
+  "header": {
+    "cta": "Jynx holen"
+  },
+  "hero": {
+    "title": "Wo Gaming sozial wird",
+    "subtitle": "Finde Teamkollegen, die zu deinem Stil, Skill-Level und Zeitplan passen",
+    "description": "",
+    "pre_launch_text": "TRITT DEINER COMMUNITY JETZT BEI",
+    "app_store_small": "Laden im",
+    "app_store_large": "App Store",
+    "play_store_small": "JETZT BEI",
+    "play_store_large": "Google Play",
+    "cta_primary": "TRITT DEINER COMMUNITY BEI",
+    "title_primary": "Smart Gaming Matchmaking Plattform",
+    "tagline": "Wo Gaming sozial wird"
+  },
+  "features": {
+    "title": "Besser spielen, zusammen",
+    "subtitle": "Intelligente Gaming-Community-Tools für moderne Spieler",
+    "description": "Jynx ist eine gute Alternative zu traditionellen LFG-Plattformen - verwandelt Solo-Gaming in ein soziales Erlebnis, indem es Teamkollegen intelligent basierend auf Gaming-Präferenzen, Spielstilen und Zeitplan-Kompatibilität verbindet",
+    "cards": {
+      "scheduling": {
+        "title": "Intelligentes Matchmaking",
+        "description": "Finde dein perfektes Gaming-Squad in Sekunden - Spieler, die zu deinem Skill-Level, Spielstil und Zeitplan passen"
+      },
+      "finder": {
+        "title": "Community-Entdeckung",
+        "description": "Entdecke Gaming-Communities, die perfekt zu deinen Interessen und deinem Spielstil passen"
+      },
+      "communication": {
+        "title": "Echtzeit-Kommunikation",
+        "description": "Verpasse nie eine Nachricht - Chat funktioniert nahtlos, auch wenn deine Verbindung es nicht tut"
+      },
+      "sessions": {
+        "title": "Gaming-Sessions",
+        "description": "Plane deine Gaming-Abende im Voraus und suche nie wieder in letzter Minute nach Teamkollegen"
+      }
+    },
+    "title_seo": "Besser spielen, zusammen mit Smart Matchmaking",
+    "description_seo": "Jynx ist eine intelligente Gaming-Matchmaking-Plattform, die Solo-Gaming in ein soziales Erlebnis verwandelt. Unsere intelligenten Algorithmen verbinden Spieler basierend auf Skill-Level, Spielstil und Gaming-Präferenzen. Ob du nach League of Legends-Teamkollegen, Valorant-Squad oder lockeren Gaming-Freunden suchst, Jynx ist deine LFG-Alternative, die wirklich funktioniert. Tritt 10.000+ Gamern bei und spiele nie wieder allein."
+  },
+  "gaming_sections": {
+    "intelligent_matchmaking": {
+      "title": "Intelligentes Matchmaking",
+      "subtitle": "Finde deine perfekten Gaming-Teamkollegen in Sekunden - kein LFG-Spam mehr. Matche mit Spielern basierend auf Skill-Level, Spielstil und Zeitplan-Kompatibilität",
+      "title_seo": "Smart Gaming Matchmaking",
+      "subtitle_header": "Finde Teamkollegen, die zu deinem Skill-Level & Spielstil passen",
+      "subtitle_seo": "Unsere Smart-Matchmaking-Algorithmen analysieren dein Gaming-Profil, Skill-Level (ELO), bevorzugten Spielstil und Verfügbarkeit, um dein perfektes Gaming-Squad in Sekunden zu finden. Kein endloses Durchsuchen von LFG-Posts oder Warten in leeren Lobbys mehr. Lass unser System die Arbeit erledigen und verbinde dich automatisch mit kompatiblen Teamkollegen."
+    },
+    "community_building": {
+      "title": "Community-Aufbau",
+      "subtitle": "Erstelle deine eigene Community und werde ein Leader. Rekrutiere deine eigenen Teamkollegen, die deinen Kriterien entsprechen, setze deine Ziele und verschiebe deine Grenzen. Deine Community, deine Regeln, dein Erfolg",
+      "title_seo": "Baue deine Gaming-Community",
+      "subtitle_header": "Erstelle & leite dein eigenes Gaming-Squad",
+      "subtitle_seo": "Erstelle deine eigene Gaming-Community und werde ein Leader. Rekrutiere Teamkollegen, die deinen Kriterien entsprechen, setze deine Ziele und verschiebe deine Grenzen. Ob du ein Esports-Team aufbaust, eine lockere Gaming-Gruppe oder eine Content-Creator-Community, Jynx gibt dir die Tools, um dein Squad zu vergrößern und zu verwalten. Deine Community, deine Regeln, dein Erfolg."
+    },
+    "global_chat": {
+      "title": "Globaler Chat",
+      "subtitle": "Beteilige dich an Echtzeit-Gesprächen mit Hunderten von Menschen über den globalen Chat, hebe dich mit deinem ELO ab und finde Teamkollegen, die zu deiner Persönlichkeit und Energie passen",
+      "title_seo": "Echtzeit-Gaming-Chat & Kommunikation",
+      "subtitle_header": "Verbinde dich mit Tausenden von Gamern weltweit"
+    },
+    "gaming_sessions": {
+      "title": "Gaming-Sessions",
+      "subtitle": "Plane deine Gaming-Abende im Voraus und suche nie wieder in letzter Minute nach Teamkollegen",
+      "title_seo": "Gaming-Sessions planen",
+      "subtitle_header": "Plane deine Gaming-Abende mit deinem Squad"
+    }
+  },
+  "problem": {
+    "title": "Die Herausforderung",
+    "description": "Das Finden kompatibler Teamkollegen im kompetitiven Gaming ist oft frustrierend und zeitaufwändig. Zufälliges Matchmaking verbindet dich selten mit Spielern, die zu deinem Kommunikationsstil, Skill-Level und Zeitplan passen."
+  },
+  "solution": {
+    "title": "Lerne Jynx kennen",
+    "description": "Unsere intelligente Plattform verbindet dich mit den perfekten Gaming-Gefährten basierend auf deinen tatsächlichen Gameplay-Präferenzen, um sicherzustellen, dass jedes Match zu einem besseren Gaming-Erlebnis führt.",
+    "benefits": {
+      "scheduling": "Plane Gaming-Sessions, die mit der Verfügbarkeit aller funktionieren",
+      "time": "Spare Stunden bei der Suche nach kompatiblen Teamkollegen",
+      "playstyle": "Verbinde dich mit Spielern, die deinen Kommunikationsstil und Spiel-Ansatz teilen"
+    }
+  },
+  "collaborative": {
+    "title": "Gestalte die Zukunft von Jynx gemeinsam",
+    "description": "Von Gamern für Gamer erstellt. Unsere Mission ist einfach: eine Social-Gaming-Plattform aufbauen, die von Leidenschaft angetrieben wird, nicht von Profit. Wir sind hier, weil wir Gaming lieben, und dein Input formt direkt Jynx' Zukunft",
+    "discord": "Tritt unserem Discord bei",
+    "ideas": "Teile deine Ideen"
+  },
+  "form": {
+    "email": {
+      "label": "E-Mail-Adresse",
+      "placeholder": "",
+      "error": "Bitte gib eine gültige E-Mail-Adresse ein"
+    },
+    "optional": "Optional",
+    "submit": "Der Warteliste beitreten",
+    "submitting": "Wird übermittelt...",
+    "success": "Du bist dabei! Wir benachrichtigen dich, wenn Jynx startet.",
+    "error": "Hoppla! Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "errors": {
+      "permission_denied": "Du hast keine Berechtigung, dieses Formular zu übermitteln.",
+      "invalid_argument": "Die von dir bereitgestellten Informationen sind ungültig.",
+      "not_found": "Ressource nicht gefunden. Bitte versuche es später erneut.",
+      "server_unavailable": "Unsere Server sind derzeit nicht verfügbar. Bitte versuche es später erneut.",
+      "too_many_requests": "Zu viele Anfragen. Bitte versuche es später erneut.",
+      "server_error": "Ein Fehler ist auf unserer Seite aufgetreten. Bitte versuche es später erneut.",
+      "network_error": "Netzwerkverbindungsfehler. Bitte überprüfe deine Internetverbindung.",
+      "timeout": "Zeitüberschreitung der Anfrage. Bitte versuche es erneut.",
+      "invalid_email": "Bitte gib eine gültige E-Mail-Adresse ein.",
+      "empty_field": "Dieses Feld darf nicht leer sein.",
+      "default": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+    }
+  },
+  "feedback": {
+    "coming_soon": "Demnächst",
+    "title": "Deine Vorschläge, unsere Priorität",
+    "feedback": "Deine Nachricht (optional)",
+    "feedback_label": "Deine Nachricht",
+    "subtitle": "Kein Spam. Wir kontaktieren dich nur, wenn Jynx startet.",
+    "countdown_label": "Start in",
+    "countdown_days": "TAGE",
+    "countdown_hours": "STUNDEN",
+    "countdown_minutes": "MINUTEN",
+    "countdown_seconds": "SEKUNDEN",
+    "launch_date": "1. Dezember im Store",
+    "discord": "Tritt unserem Discord bei",
+    "yes": "Ja",
+    "no": "Nein",
+    "textarea": "",
+    "submit": "Senden",
+    "note": "Für immer kostenlos",
+    "submitting": "Wird übermittelt...",
+    "thanks": "Danke für dein Feedback!",
+    "error": "Feedback konnte nicht übermittelt werden. Bitte versuche es erneut.",
+    "error_empty": "Bitte gib entweder deine E-Mail oder Feedback an."
+  },
+  "footer": {
+    "company": {
+      "title": "Unternehmen",
+      "about": "Über uns",
+      "about_seo": "Über Jynx Gaming Plattform"
+    },
+    "legal": {
+      "title": "Rechtliches",
+      "privacy": "Datenschutzerklärung",
+      "terms": "Nutzungsbedingungen",
+      "cookies": "Cookie-Richtlinie",
+      "privacy_seo": "Datenschutzerklärung",
+      "terms_seo": "Nutzungsbedingungen"
+    },
+    "download": {
+      "title": "Herunterladen",
+      "app_store": "App Store",
+      "google_play": "Google Play"
+    },
+    "copyright": "© 2024 Jynx. Alle Rechte vorbehalten.",
+    "language": "Sprache"
+  },
+  "errors": {
+    "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "network": "Netzwerkfehler. Bitte überprüfe deine Verbindung.",
+    "validation": "Bitte überprüfe deine Eingabe und versuche es erneut.",
+    "not_found": "Seite nicht gefunden.",
+    "server": "Serverfehler. Bitte versuche es später erneut."
+  },
+  "accessibility": {
+    "skip_to_content": "Zum Hauptinhalt springen",
+    "menu_toggle": "Navigationsmenü umschalten",
+    "theme_toggle": "Dunkelmodus umschalten",
+    "language_selector": "Sprache auswählen",
+    "close_modal": "Modal schließen"
+  },
+  "breadcrumb": {
+    "home": "Startseite",
+    "about": "Über",
+    "download": "Herunterladen",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen zum Gaming-Matchmaking",
+    "cta_heading": "FRAGEN?",
+    "cta_subtitle": "Hast du weitere Fragen?",
+    "cta_write_to_us": "Schreib uns",
+    "cta_button": "Kontaktiere uns!",
+    "q1": {
+      "question": "Gibt es eine Tinder-ähnliche App für Gamer, um Teamkollegen zu finden?",
+      "answer": "Wenn du es leid bist, Zufallsspieler zu haben, die nach dem ersten Fehler aufgeben, nicht in deiner Sprache kommunizieren können oder online sind, wenn du schläfst, lässt dich Jynx nach dem filtern, was wirklich wichtig ist: kompatible Zeitpläne, ähnliche Skill-Levels und gemeinsame Gaming-Präferenzen. Du swipst durch potenzielle Teamkollegen, die deinen Kriterien entsprechen, überspringst das unangenehme Cold-Messaging und verbindest dich nur mit Spielern, die wirklich verfügbar sind, wenn du spielen möchtest.<br><br>Der Unterschied zu regulären LFG-Foren oder Discord-Servern? Du schreist nicht ins Leere in der Hoffnung, dass jemand antwortet, du siehst nur Leute, die bereits zu deiner Verfügbarkeit passen, deine Sprache sprechen und deine Spiele spielen. Weniger Zeit damit, \"LFG\" im Chat zu spammen, mehr Zeit im Spiel mit Leuten, mit denen du wirklich wieder zusammenspielen möchtest."
+    },
+    "q2": {
+      "question": "Wie trifft man Gamer online und baut eine Gaming-Freundesgruppe auf?",
+      "answer": "Die größte Herausforderung beim Treffen von Gamern ist nicht, Leute zu finden, sondern die RICHTIGEN Leute zu finden. Du brauchst Teamkollegen, die verfügbar sind, wenn du spielst, in deiner Sprache kommunizieren und zu deinem Skill-Level passen.<br><br><strong>Das funktioniert wirklich:</strong><br><strong>• Filtere bevor du dich verpflichtest:</strong> Suche nach Plattformen, auf denen du Spielerprofile mit verifizierten Stats, Verfügbarkeit und Spielstil durchsuchen kannst, bevor du dich verbindest<br><strong>• Priorisiere Kompatibilität:</strong> Zeitzone, Rang und Kommunikationsstil sind wichtiger als nur dasselbe Spiel zu spielen<br><strong>• Baue schrittweise auf:</strong> Konzentriere dich darauf, 2-3 solide Teamkollegen zu finden, anstatt riesigen Communities beizutreten, in denen bedeutungsvolle Verbindungen schwieriger aufzubauen sind<br><br>Vermeide Plattformen, die dich zwingen, \"LFG\"-Nachrichten zu spammen und auf Antworten zu hoffen, deine Zeit ist wertvoll."
+    },
+    "q3": {
+      "question": "Wie findet man Teamkollegen für Ranked-Spiele in League of Legends und Valorant?",
+      "answer": "Das Finden guter Ranked-Teamkollegen geht nicht um Quantität, sondern um Kompatibilität. Mit Zufallsspielern zu spielen, die nicht kommunizieren, nach dem ersten Tod aufgeben oder Rollen spielen, mit denen sie nicht vertraut sind, kostet dich LP und Verstand.<br><br>Worauf man bei Ranked-Teamkollegen achten sollte:<br><strong>• Verifizierter Rang:</strong> Stelle sicher, dass sie wirklich auf deinem ELO sind (kein Smurfing oder Boosting)<br><strong>• Rollen-Kompatibilität:</strong> Überprüfe ihren Champion-Pool und bevorzugte Rollen, bevor du queust<br><strong>• Konsistente Verfügbarkeit:</strong> Ranked-Grinding erfordert regelmäßiges Spielen, finde Leute mit ähnlichen Zeitplänen<br><strong>• Kommunikationsstil:</strong> Einige Spieler bevorzugen Shotcalling, andere wollen minimalen Chat. Stimme dies im Voraus ab.<br><br>Der beste Ansatz? Verwende Plattformen, die Spieler-Ränge über Riot's API verifizieren und dir ermöglichen, nach Rolle, Zeitplan und Kommunikationspräferenzen zu filtern. Du wirst weniger Zeit im Champ-Select dodgen verbringen und mehr Zeit klettern."
+    },
+    "q4": {
+      "question": "Was sind die besten Alternativen zu Discord, um Gaming-Teamkollegen zu finden?",
+      "answer": "Discord ist großartig zum Chatten mit Teamkollegen, die du BEREITS hast, aber schrecklich, um neue zu finden. Hier ist warum:<br><br>\"LFG\" in einem Server mit 10.000 Mitgliedern zu posten bedeutet, dass deine Nachricht in Minuten begraben wird. Du hast keine Möglichkeit, nach Skill-Level, Verfügbarkeit oder Spielstil zu filtern, bevor du dich meldest. Und am wichtigsten, du machst die ganze Arbeit, spammst Kanäle, schreibst Fremde an, hoffst, dass jemand antwortet.<br><br>Was du wirklich brauchst, ist eine Plattform, die für Entdeckung konzipiert ist, nicht nur für Kommunikation:<br><strong>• Spielerprofile:</strong> Sieh jemandes Rang, Zeitplan und bevorzugte Rollen BEVOR du eine Nachricht schreibst<br><strong>• Intelligente Filterung:</strong> Suche nach Kriterien, die wichtig sind (Sprache, Zeitzone, Skill-Level)<br><strong>• Aktives Matching:</strong> Erhalte Empfehlungen, anstatt ins Leere zu schreien<br><br>Das Ziel ist nicht, Discord zu ersetzen, sondern das richtige Tool für die Entdeckung zu verwenden und dann zu Discord für Voice-Chat zu wechseln, sobald du kompatible Teamkollegen gefunden hast."
+    },
+    "q5": {
+      "question": "Gibt es kostenlose Gaming-Matchmaking-Apps und -Plattformen?",
+      "answer": "Ja, und du solltest nicht bezahlen müssen, nur um Teamkollegen zu finden. Viele Plattformen bieten robuste kostenlose Stufen an, die die Grundlagen beinhalten: Spielerentdeckung, Profil-Browsing, Chat und Session-Planung.<br><br><strong>Was man von kostenlosen Stufen erwarten kann:</strong><br>• Kern-Matchmaking-Funktionen (Suchen, Filtern, Verbinden)<br>• Spielerprofile mit Stats<br>• Basis-Messaging und Session-Planung<br><br><strong>Was Premium-Stufen normalerweise hinzufügen:</strong><br>• Unbegrenzte tägliche Matches/Swipes<br>• Erweiterte Filter (sehr spezifische Kriterien)<br>• Kosmetische Upgrades (Abzeichen, Profil-Anpassung)<br><br><strong>Warnsignale zu vermeiden:</strong><br>• Paywall für Basisfunktionen wie Messaging oder sehen, wer mit dir gematcht hat<br>• Dich zum Bezahlen zwingen, um deinen Rang zu verifizieren oder Konten zu verknüpfen<br>• Überhaupt keine kostenlose Stufe (wenn sie vom Produkt überzeugt sind, sollten sie dich es testen lassen)<br><br>Deine Zeit ist wertvoller als Abonnementgebühren, konzentriere dich auf Plattformen mit großzügigen kostenlosen Stufen, damit du testen kannst, bevor du dich verpflichtest."
+    }
+  },
+  "how_it_works": {
+    "title": "Wie Smart Gaming Matchmaking funktioniert",
+    "subtitle": "Finde dein perfektes Gaming-Squad in 4 einfachen Schritten",
+    "step1": {
+      "title": "Erstelle dein Gaming-Profil",
+      "description": "Erzähle uns von deinen Gaming-Präferenzen: Lieblingsspiele, Skill-Level (ELO), Spielstil (aggressiv, defensiv, Support), bevorzugte Rollen und wann du spielst. Verbinde dein Riot Games-Konto für automatische Rang-Verifizierung.",
+      "feature1": "League of Legends & Valorant-Konten verknüpfen",
+      "feature2": "Setze deinen Gaming-Zeitplan",
+      "feature3": "Wähle deinen bevorzugten Kommunikationsstil"
+    },
+    "step2": {
+      "title": "Unser System analysiert dein Profil",
+      "description": "Unsere Smart-Matchmaking-Algorithmen verarbeiten deine Gaming-Daten, Spielmuster und Präferenzen, um dein einzigartiges Gamer-Profil zu erstellen. Das System lernt aus deinen Interaktionen, um die Match-Qualität im Laufe der Zeit zu verbessern.",
+      "feature1": "Fortschrittliches algorithmusbasiertes Matching",
+      "feature2": "Kompatibilitäts-Bewertungssystem",
+      "feature3": "Verhaltens- und Kommunikationsanalyse"
+    },
+    "step3": {
+      "title": "Werde mit deinem Squad gematcht",
+      "description": "Erhalte sofortige Teamkollegen-Empfehlungen basierend auf deinem Profil. Durchsuche kompatible Spieler, überprüfe ihre Stats und sende Verbindungsanfragen. Unser intelligentes System stellt sicher, dass du mit Gamern gematcht wirst, die deinen Spielstil ergänzen.",
+      "feature1": "Intelligente Teamkollegen-Vorschläge",
+      "feature2": "Detaillierte Spielerprofile mit Stats",
+      "feature3": "Ein-Klick-Verbindungsanfragen"
+    },
+    "step4": {
+      "title": "Spielt zusammen & gewinnt mehr",
+      "description": "Nutze den integrierten Chat zur Koordination, plane Gaming-Sessions und baue dauerhafte Freundschaften auf. Tritt Communities rund um deine Lieblingsspiele bei oder erstelle sie. Verfolge die Performance deines Squads und klettere gemeinsam die Ränge hinauf.",
+      "feature1": "Echtzeit-Chat und Benachrichtigungen",
+      "feature2": "Gaming-Session-Planung",
+      "feature3": "Squad-Performance-Tracking"
+    },
+    "cta": "Fang jetzt an, Teamkollegen zu finden - Es ist kostenlos"
+  },
+  "theme-feedback": {
+    "submit": "Feedback senden",
+    "title": "Welche Farben magst du?",
+    "description": "Klicke auf eine Theme-Kachel, um es anzuwenden. Aktiviere die \"Gefällt mir\"-Boxen deiner Lieblings-Themes, um deine Präferenzen einzureichen.",
+    "thanks": "Danke für dein Theme-Feedback!",
+    "current_theme": "Aktuelles Theme:"
+  },
+  "download": {
+    "meta": {
+      "title": "Jynx herunterladen - Gaming Social Plattform",
+      "description": "Lade Jynx herunter - Verbinde dich mit Gamern, finde Teamkollegen, tritt Communities bei. Verfügbar auf iOS und Android.",
+      "og_title": "Jynx App herunterladen - Finde dein Gaming-Squad",
+      "og_description": "Hol dir die Jynx-App auf iOS oder Android. Fang an, kompatible Teamkollegen mit KI-Matchmaking zu finden.",
+      "og_image_alt": "Jynx Gaming App herunterladen",
+      "twitter_title": "Jynx herunterladen - Gaming Social Plattform",
+      "twitter_description": "Hol dir die Jynx-App auf iOS oder Android. Fang heute an, Teamkollegen zu finden.",
+      "twitter_image_alt": "Jynx Mobile App"
+    },
+    "hero": {
+      "title": "Jynx - Gaming Social Plattform",
+      "subtitle": "Verbinde dich mit Gamern, finde Teamkollegen, tritt Communities bei",
+      "status": "Demnächst: Verfügbar auf iOS und Android"
+    },
+    "store": {
+      "app_store": {
+        "text_small": "Laden im",
+        "text_large": "App Store"
+      },
+      "google_play": {
+        "text_small": "Jetzt bei",
+        "text_large": "Google Play"
+      },
+      "coming_soon": "Demnächst"
+    },
+    "signup": {
+      "title": "Werde benachrichtigt, wenn wir starten",
+      "description": "Sei der Erste, der erfährt, wann Jynx auf deiner Plattform verfügbar ist",
+      "email_placeholder": "Gib deine E-Mail ein",
+      "submit": "Benachrichtige mich"
+    },
+    "social": {
+      "title": "Teile mit deinem Gaming-Squad",
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "copy_link": "Link kopieren"
+    },
+    "info": {
+      "title": "Verwandle dein Gaming-Erlebnis",
+      "description": "Jynx verwandelt Solo-Gaming in ein soziales Erlebnis, indem es Spieler intelligent basierend auf Gaming-Präferenzen, Spielstilen und Community-Interessen verbindet. Finde dein perfektes Gaming-Squad und spiele nie wieder allein."
+    },
+    "js_messages": {
+      "share_twitter": "Schau dir Jynx an - die Gaming-Social-Plattform, die Solo-Gaming in soziale Erlebnisse verwandelt! 🎮",
+      "share_discord_alert": "Link kopiert! Du kannst ihn jetzt in Discord einfügen, um ihn mit deinen Gaming-Freunden zu teilen.",
+      "copy_success": "✓ Kopiert!",
+      "copy_fallback": "Link in Zwischenablage kopiert!",
+      "form_submitting": "Wird übermittelt...",
+      "form_success": "✓ Danke! Wir benachrichtigen dich, wenn Jynx auf Mobilgeräten startet.",
+      "form_error": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+    },
+    "features": {
+      "title": "Was kommt auf Mobile",
+      "subtitle": "Die ganze Power von Jynx, optimiert für dein Handy",
+      "cards": {
+        "instant_connect": {
+          "title": "Sofortverbindung",
+          "description": "Tritt Voice-Chats und Gaming-Sessions mit einem einzigen Tippen bei, direkt von deiner Benachrichtigung"
+        },
+        "notifications": {
+          "title": "Intelligente Benachrichtigungen",
+          "description": "Werde benachrichtigt, wenn deine Lieblings-Teamkollegen online kommen oder perfekte Matches gefunden werden"
+        },
+        "cross_platform": {
+          "title": "Plattformübergreifende Synchronisierung",
+          "description": "Deine Gespräche, Matches und Communities bleiben über Mobile und Desktop synchronisiert"
+        },
+        "offline_mode": {
+          "title": "Offline-Modus",
+          "description": "Sieh dir deine Matches an und plane Sessions auch ohne Internetverbindung"
+        }
+      }
+    },
+    "theme_feedback": {
+      "title": "Hilf uns, die App zu gestalten",
+      "description": "Welches Farbschema würdest du für die mobile App bevorzugen? Dein Feedback hilft uns, das perfekte Erlebnis zu schaffen.",
+      "current_theme": "Aktuelles Theme:",
+      "submit": "App-Theme-Präferenz senden",
+      "thanks": "Danke, dass du uns hilfst, die App-Oberfläche zu gestalten!"
+    }
+  },
+  "reviews": {
+    "main_title": "BEWERTUNGEN",
+    "subtitle_prefix": "WAS UNSERE",
+    "subtitle_highlight": "NUTZER SAGEN",
+    "review1": {
+      "quote": "Ich bin ein Diamond League of Legends-Spieler auf der Suche nach einem konsistenten Ranked-Squad. Jynx' Smart-Matchmaking hat mich mit Spielern auf meinem Skill-Level verbunden, die dieselben Rollen spielen und ähnliche Zeitpläne haben. Wir sind in nur 2 Monaten von Diamond IV auf Diamond I geklettert!",
+      "name": "Alex 'Frostbyte' Ramirez",
+      "role": "Diamond League of Legends-Spieler"
+    },
+    "review2": {
+      "quote": "Ich wollte nur chillige Leute finden, mit denen ich am Wochenende Co-op-Spiele spielen kann. Jynx' Spielerentdeckung ließ mich durch Profile swipen und mich mit Gamern verbinden, die meine Stimmung teilen. Jetzt habe ich eine regelmäßige Gruppe für Valorant-Unranked-Matches und es macht so viel Spaß!",
+      "name": "Sarah 'PixelQueen' Chen",
+      "role": "Gelegenheits-Valorant-Spielerin"
+    },
+    "review3": {
+      "quote": "Ich leite eine 500-Mitglieder-Community für Indie-Game-Enthusiasten. Jynx' Community-Funktionen helfen mir, Events zu organisieren, Diskussionen zu moderieren und alle mit Echtzeit-Chat engagiert zu halten. Das KI-Matchmaking hilft Mitgliedern, Teamkollegen innerhalb unserer Community sofort zu finden.",
+      "name": "Marcus 'IronWill' Thompson",
+      "role": "Gaming-Community-Leader"
+    },
+    "review4": {
+      "quote": "Alleine zu gamen hat keinen Spaß mehr gemacht. Jynx hat mir geholfen, Communities rund um meine Lieblingsspiele zu entdecken und jetzt habe ich eine regelmäßige Gruppe, mit der ich jeden Abend spiele. Die KI hat mich perfekt mit Leuten gematcht, die dieselben Gaming-Ziele haben - locker, aber kompetitiv, wenn es darauf ankommt.",
+      "name": "James 'ShadowStrike' Wilson",
+      "role": "Ehemaliger Solo-Queue-Spieler"
+    }
+  },
+  "comparison": {
+    "title": "Von Gamern für Gamer gemacht",
+    "table": {
+      "feature": "Funktion",
+      "lfg": "Traditionelles LFG",
+      "game_session_matchmaking": "Game-Session-Matchmaking",
+      "auto_finder": "Automatischer Teamkollegen-Finder",
+      "elo_matching": "Skill-basiertes Matching (ELO)",
+      "community_search": "Community-Suche & Entdeckung",
+      "chat": "Echtzeit-Chat",
+      "tournaments": "Turnier-Organisation",
+      "integration": "Spielerprofil-Integration",
+      "discovery": "Tinder-Style Spielerentdeckung",
+      "gaming_focused": "Von Gamern gebaut & für Gaming",
+      "price": "Preis",
+      "yes": "Ja",
+      "no": "Nein",
+      "manual": "Manuelle Suche",
+      "limited": "Begrenzt",
+      "manual_posts": "Manuelle Posts",
+      "basic": "Basis",
+      "by_game_skill": "Nach Spiel, Rang & Sprache",
+      "servers": "Server",
+      "teams": "Teams",
+      "advanced": "Erweitert",
+      "coming_soon": "Demnächst",
+      "exclusive_features": "Exklusive Funktionen",
+      "game_apis": "Spiel-APIs",
+      "general": "Allgemein",
+      "varies": "Variiert",
+      "free_jynx_plus": "Kostenlos / Jynx+",
+      "free_varies": "Kostenlos/Variiert"
+    },
+    "cta": {
+      "title": "Bereit, den Unterschied zu erleben?",
+      "description": "Tritt 10.000+ Gamern bei, die ihre perfekten Squads mit Jynx KI-Matchmaking gefunden haben",
+      "button": "Fang an zu matchen mit KI - Für immer kostenlos"
+    }
+  }
+}
