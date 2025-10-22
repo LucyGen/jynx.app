@@ -1,6 +1,30 @@
+# Jynx Gaming Platform - Robots.txt
 User-agent: *
 Allow: /
-Disallow: /locales/
-Disallow: /*.json$
+Disallow: /admin/
+Disallow: /api/
+Disallow: /assets/js/
+Disallow: /private/
 
+# Sitemap
 Sitemap: https://jynx.app/sitemap.xml
+
+# Crawl-delay for non-Google bots
+User-agent: Bingbot
+Crawl-delay: 1
+
+User-agent: Slurp
+Crawl-delay: 1
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
