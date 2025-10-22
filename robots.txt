@@ -3,7 +3,6 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /api/
-Disallow: /assets/js/
 Disallow: /private/
 
 # Sitemap
