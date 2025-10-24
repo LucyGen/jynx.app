@@ -101,9 +101,12 @@
       "title": "1. Introdução",
       "p1": "Jynx (\"nós\", \"nosso\", \"o aplicativo\") é uma plataforma de gaming social que permite aos jogadores se conectarem, formarem equipes e jogarem juntos.",
       "legal_info": "Informações Legais:",
-      "entity": "Entidade Legal: Jynx Group",
-      "dpo": "Contato do Oficial de Privacidade: dpo@jynx.app",
-      "jurisdiction": "Jurisdição: França, União Europeia (Conformidade GDPR)",
+      "entity_label": "Entidade Legal:",
+      "entity": "Jynx Group",
+      "dpo_label": "Contato do Oficial de Privacidade:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Jurisdição:",
+      "jurisdiction": "França, União Europeia (Conformidade GDPR)",
       "p2": "Esta política de privacidade descreve como coletamos, usamos, compartilhamos e protegemos seus dados pessoais quando você usa nosso aplicativo."
     },
     "age_verification": {
@@ -151,7 +154,8 @@
         "rank": "Rank e histórico de partidas (League of Legends, Valorant, etc.)",
         "stats": "Estatísticas de campeões",
         "matches": "Histórico de partidas recente",
-        "reason": "Razão da Coleta: Exibir seu perfil de jogador e melhorar a correspondência com outros jogadores."
+        "reason_label": "Razão da Coleta:",
+        "reason": "Exibir seu perfil de jogador e melhorar a correspondência com outros jogadores."
       },
       "technical": {
         "title": "3.3. Dados de Uso e Técnicos",
@@ -159,9 +163,12 @@
       },
       "analytics": {
         "title": "Analytics e Desempenho:",
-        "firebase": "Firebase Performance Monitoring: Tempo de inicialização do app, fluidez da interface",
-        "sentry": "Sentry: Relatórios de erros e desempenho (com anonimização de dados pessoais)",
-        "crashlytics": "Firebase Crashlytics: Relatórios de falhas",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "Tempo de inicialização do app, fluidez da interface",
+        "sentry_label": "Sentry:",
+        "sentry": "Relatórios de erros e desempenho (com anonimização de dados pessoais)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Relatórios de falhas",
         "disable": "Você pode desabilitar a coleta de dados de analytics em Configurações > Privacidade > \"Habilitar Analytics\"."
       },
       "device": {
@@ -178,8 +185,10 @@
       },
       "communication": {
         "title": "3.4. Dados de Comunicação",
-        "messages": "Mensagens: Mensagens em chats de comunidade, mensagens privadas entre usuários, histórico de conversação",
-        "notifications": "Notificações: Tokens FCM (Firebase Cloud Messaging) para notificações push"
+        "messages_label": "Mensagens:",
+        "messages": "Mensagens em chats de comunidade, mensagens privadas entre usuários, histórico de conversação",
+        "notifications_label": "Notificações:",
+        "notifications": "Tokens FCM (Firebase Cloud Messaging) para notificações push"
       },
       "user_content": {
         "title": "3.5. Conteúdo Gerado pelo Usuário",
@@ -193,27 +202,38 @@
       "firebase": {
         "title": "4.1. Serviços Firebase (Google)",
         "intro": "Usamos os seguintes serviços Firebase, todos em conformidade com GDPR:",
-        "auth": "Firebase Authentication: Gerenciamento seguro de contas de usuário",
-        "firestore": "Cloud Firestore: Armazenamento de seu perfil e dados de jogo",
-        "storage": "Firebase Storage: Hospedagem de suas imagens de perfil",
-        "functions": "Cloud Functions: Execução segura de lógica backend",
-        "messaging": "Firebase Cloud Messaging: Notificações push",
-        "appcheck": "Firebase App Check: Proteção contra abuso e bots",
-        "performance": "Firebase Performance Monitoring: Monitoramento de desempenho do app",
-        "crashlytics": "Firebase Crashlytics: Relatórios de falhas",
-        "policy": "Política de Privacidade Firebase: https://firebase.google.com/support/privacy"
+        "auth_label": "Firebase Authentication:",
+        "auth": "Gerenciamento seguro de contas de usuário",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Armazenamento de seu perfil e dados de jogo",
+        "storage_label": "Firebase Storage:",
+        "storage": "Hospedagem de suas imagens de perfil",
+        "functions_label": "Cloud Functions:",
+        "functions": "Execução segura de lógica backend",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Notificações push",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Proteção contra abuso e bots",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "Monitoramento de desempenho do app",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Relatórios de falhas",
+        "policy_label": "Política de Privacidade Firebase:",
+        "policy": "https://firebase.google.com/support/privacy"
       },
       "sentry": {
         "title": "4.2. Sentry (Monitoramento de Erros)",
         "intro": "Usamos Sentry para rastreamento de erros e desempenho. Os dados coletados incluem:",
         "traces": "Rastreamentos de erros",
         "context": "Contexto técnico (SO, versão do app)",
-        "policy": "Política de Privacidade Sentry: https://sentry.io/privacy/"
+        "policy_label": "Política de Privacidade Sentry:",
+        "policy": "https://sentry.io/privacy/"
       },
       "riot": {
         "title": "4.3. Riot Games API",
         "p1": "Quando você vincula sua conta Riot Games, recuperamos suas estatísticas de jogo via API oficial da Riot Games. Estes dados são usados apenas para exibir seu perfil e melhorar a correspondência.",
-        "policy": "Política de Privacidade Riot Games: https://www.riotgames.com/en/privacy-notice"
+        "policy_label": "Política de Privacidade Riot Games:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
       }
     },
     "data_usage": {
@@ -251,13 +271,16 @@
       "title": "6. Retenção de Dados",
       "periods": {
         "title": "6.1. Períodos de Retenção",
-        "profile": "Dados de Perfil: Retidos enquanto sua conta estiver ativa",
-        "analytics": "Registros e Analytics: Firebase Analytics: 14 meses (política Firebase)"
+        "profile_label": "Dados de Perfil:",
+        "profile": "Retidos enquanto sua conta estiver ativa",
+        "analytics_label": "Registros e Analytics:",
+        "analytics": "Firebase Analytics: 14 meses (política Firebase)"
       },
       "deletion": {
         "title": "6.2. Exclusão de Dados",
         "p1": "Você pode solicitar a exclusão de sua conta a qualquer momento (veja Seção 7).",
-        "legal": "Retenção Legal: Alguns dados podem ser retidos por mais tempo para cumprir nossas obrigações legais (ex: relatórios de segurança, transações financeiras)."
+        "legal_label": "Retenção Legal:",
+        "legal": "Alguns dados podem ser retidos por mais tempo para cumprir nossas obrigações legais (ex: relatórios de segurança, transações financeiras)."
       }
     },
     "rights": {
@@ -266,7 +289,8 @@
       "access": {
         "title": "7.1. Direito de Acesso",
         "p1": "Você pode solicitar uma cópia de todos os dados que temos sobre você.",
-        "how": "Como exercer este direito: Configurações > Privacidade > \"Exportar Meus Dados\"",
+        "how_label": "Como exercer este direito:",
+        "how": "Configurações > Privacidade > \"Exportar Meus Dados\"",
         "process": "O processo gera um arquivo JSON contendo todos os seus dados (perfil, mensagens, estatísticas, etc.). O link de download é válido por 7 dias."
       },
       "rectification": {
@@ -276,7 +300,8 @@
       "erasure": {
         "title": "7.3. Direito ao Esquecimento (\"Direito de Ser Esquecido\")",
         "p1": "Você pode solicitar a exclusão de sua conta.",
-        "how": "Como exercer este direito: Configurações > Zona de Perigo > \"Excluir Minha Conta\"",
+        "how_label": "Como exercer este direito:",
+        "how": "Configurações > Zona de Perigo > \"Excluir Minha Conta\"",
         "process": {
           "title": "Processo de Exclusão Automatizado:",
           "step1": "Confirmação em duas etapas para prevenir exclusões acidentais",
@@ -285,8 +310,10 @@
           "step4": "Um ID anonimizado é fornecido como referência",
           "step5": "Opção para excluir suas mensagens e conteúdo gerado"
         },
-        "important": "Importante: A exclusão é irreversível. Alguns dados anonimizados podem ser retidos para fins estatísticos (em conformidade com GDPR).",
-        "manual": "Solicitações de Exclusão Manual: Para solicitações de exclusão de dados específicos (ex: excluir apenas mensagens de uma comunidade específica, excluir imagens do Storage, ou outros casos especiais), entre em contato com nosso Oficial de Proteção de Dados em dpo@jynx.app. Processaremos solicitações manuais dentro de 30 dias conforme exigido pelo GDPR."
+        "important_label": "Importante:",
+        "important": "A exclusão é irreversível. Alguns dados anonimizados podem ser retidos para fins estatísticos (em conformidade com GDPR).",
+        "manual_label": "Solicitações de Exclusão Manual:",
+        "manual": "Para solicitações de exclusão de dados específicos (ex: excluir apenas mensagens de uma comunidade específica, excluir imagens do Storage, ou outros casos especiais), entre em contato com nosso Oficial de Proteção de Dados em dpo@jynx.app. Processaremos solicitações manuais dentro de 30 dias conforme exigido pelo GDPR."
       },
       "portability": {
         "title": "7.4. Direito à Portabilidade de Dados",
@@ -299,34 +326,48 @@
       "withdraw": {
         "title": "7.6. Direito de Retirar Consentimento",
         "p1": "Você pode retirar seu consentimento para:",
-        "analytics": "Analytics: Configurações > Privacidade > Desabilitar \"Habilitar Analytics\"",
-        "notifications": "Notificações Push: Configurações do dispositivo",
-        "oauth": "Nota: Tokens OAuth (Google, Apple) são automaticamente revogados quando você exclui sua conta (Seção 7.3)."
+        "analytics_label": "Analytics:",
+        "analytics": "Configurações > Privacidade > Desabilitar \"Habilitar Analytics\"",
+        "notifications_label": "Notificações Push:",
+        "notifications": "Configurações do dispositivo",
+        "oauth_label": "Nota:",
+        "oauth": "Tokens OAuth (Google, Apple) são automaticamente revogados quando você exclui sua conta (Seção 7.3)."
       }
     },
     "security": {
       "title": "8. Segurança de Dados",
       "intro": "Implementamos medidas de segurança técnicas e organizacionais para proteger seus dados:",
-      "encryption": "Criptografia: Comunicação segura via HTTPS",
-      "rules": "Regras de Segurança Firebase: Controle de acesso rigoroso aos dados do Firestore",
-      "auth": "Autenticação: Gerenciamento seguro de sessão via Firebase Auth",
-      "validation": "Validação de Entrada: Prevenção de injeção XSS via SecureTextInput",
-      "rate_limiting": "Limitação de Taxa: Proteção contra abuso (mensagens spam, ações automatizadas)",
-      "moderation": "Moderação: Sistema de relatório de conteúdo e moderação",
+      "encryption_label": "Criptografia:",
+      "encryption": "Comunicação segura via HTTPS",
+      "rules_label": "Regras de Segurança Firebase:",
+      "rules": "Controle de acesso rigoroso aos dados do Firestore",
+      "auth_label": "Autenticação:",
+      "auth": "Gerenciamento seguro de sessão via Firebase Auth",
+      "validation_label": "Validação de Entrada:",
+      "validation": "Prevenção de injeção XSS via SecureTextInput",
+      "rate_limiting_label": "Limitação de Taxa:",
+      "rate_limiting": "Proteção contra abuso (mensagens spam, ações automatizadas)",
+      "moderation_label": "Moderação:",
+      "moderation": "Sistema de relatório de conteúdo e moderação",
       "breach": "Nenhum sistema é 100% seguro. Em caso de violação de dados, notificaremos você em conformidade com GDPR (dentro de 72 horas)."
     },
     "international": {
       "title": "9. Transferências Internacionais de Dados",
       "p1": "Seus dados podem ser transferidos e armazenados em servidores localizados fora da União Europeia, incluindo:",
-      "google": "Google Cloud / Firebase: Usa infraestrutura global com conformidade GDPR",
-      "sentry": "Sentry: Servidores baseados nos EUA com conformidade Privacy Shield",
-      "guarantees": "Garantias: Todos os nossos parceiros oferecem garantias de proteção equivalentes ao GDPR (cláusulas contratuais padrão, certificações Privacy Shield)."
+      "google_label": "Google Cloud / Firebase:",
+      "google": "Usa infraestrutura global com conformidade GDPR",
+      "sentry_label": "Sentry:",
+      "sentry": "Servidores baseados nos EUA com conformidade Privacy Shield",
+      "guarantees_label": "Garantias:",
+      "guarantees": "Todos os nossos parceiros oferecem garantias de proteção equivalentes ao GDPR (cláusulas contratuais padrão, certificações Privacy Shield)."
     },
     "cookies": {
       "title": "10. Cookies e Tecnologias Similares",
       "p1": "Nosso aplicativo móvel não usa cookies no sentido tradicional, mas usa:",
-      "tokens": "Tokens de Autenticação: Armazenados localmente de forma segura",
-      "cache": "Cache Local: Para melhorar desempenho (dados de perfil, mensagens recentes)"
+      "tokens_label": "Tokens de Autenticação:",
+      "tokens": "Armazenados localmente de forma segura",
+      "cache_label": "Cache Local:",
+      "cache": "Para melhorar desempenho (dados de perfil, mensagens recentes)"
     },
     "changes": {
       "title": "11. Mudanças nesta Política",
@@ -337,8 +378,10 @@
     "contact": {
       "title": "12. Entre em Contato",
       "p1": "Para quaisquer perguntas sobre esta política de privacidade ou para exercer seus direitos:",
-      "email": "Email: dpo@jynx.app",
-      "authority": "Autoridade Supervisora: Se você acredita que seus direitos não estão sendo respeitados, pode apresentar uma reclamação à CNIL (Commission Nationale de l'Informatique et des Libertés) na França."
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Autoridade Supervisora:",
+      "authority": "Se você acredita que seus direitos não estão sendo respeitados, pode apresentar uma reclamação à CNIL (Commission Nationale de l'Informatique et des Libertés) na França."
     },
     "consent": {
       "title": "13. Consentimento",

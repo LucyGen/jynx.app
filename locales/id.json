@@ -101,9 +101,12 @@
       "title": "1. Pendahuluan",
       "p1": "Jynx (\"kami\", \"kami\", \"aplikasi\") adalah platform gaming sosial yang memungkinkan pemain untuk terhubung, membentuk tim, dan bermain bersama.",
       "legal_info": "Informasi Hukum:",
-      "entity": "Entitas Hukum: Jynx Group",
-      "dpo": "Kontak Petugas Privasi: dpo@jynx.app",
-      "jurisdiction": "Yurisdiksi: Prancis, Uni Eropa (Kepatuhan GDPR)",
+      "entity_label": "Entitas Hukum:",
+      "entity": "Jynx Group",
+      "dpo_label": "Kontak Petugas Privasi:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Yurisdiksi:",
+      "jurisdiction": "Prancis, Uni Eropa (Kepatuhan GDPR)",
       "p2": "Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, berbagi, dan melindungi data pribadi Anda saat Anda menggunakan aplikasi kami."
     },
     "age_verification": {
@@ -151,7 +154,8 @@
         "rank": "Rank dan riwayat pertandingan (League of Legends, Valorant, dll.)",
         "stats": "Statistik champion",
         "matches": "Riwayat pertandingan terkini",
-        "reason": "Alasan Pengumpulan: Menampilkan profil pemain Anda dan meningkatkan matching dengan pemain lain."
+        "reason_label": "Alasan Pengumpulan:",
+        "reason": "Menampilkan profil pemain Anda dan meningkatkan matching dengan pemain lain."
       },
       "technical": {
         "title": "3.3. Data Penggunaan dan Teknis",
@@ -159,9 +163,12 @@
       },
       "analytics": {
         "title": "Analitik dan Performa:",
-        "firebase": "Firebase Performance Monitoring: Waktu startup aplikasi, kelancaran antarmuka",
-        "sentry": "Sentry: Laporan error dan performa (dengan anonimisasi data pribadi)",
-        "crashlytics": "Firebase Crashlytics: Laporan crash",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "Waktu startup aplikasi, kelancaran antarmuka",
+        "sentry_label": "Sentry:",
+        "sentry": "Laporan error dan performa (dengan anonimisasi data pribadi)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Laporan crash",
         "disable": "Anda dapat menonaktifkan pengumpulan data analitik di Pengaturan > Privasi > \"Aktifkan Analitik\"."
       },
       "device": {
@@ -178,8 +185,10 @@
       },
       "communication": {
         "title": "3.4. Data Komunikasi",
-        "messages": "Pesan: Pesan dalam chat komunitas, pesan pribadi antar pengguna, riwayat percakapan",
-        "notifications": "Notifikasi: Token FCM (Firebase Cloud Messaging) untuk notifikasi push"
+        "messages_label": "Pesan:",
+        "messages": "Pesan dalam chat komunitas, pesan pribadi antar pengguna, riwayat percakapan",
+        "notifications_label": "Notifikasi:",
+        "notifications": "Token FCM (Firebase Cloud Messaging) untuk notifikasi push"
       },
       "user_content": {
         "title": "3.5. Konten yang Dibuat Pengguna",
@@ -193,27 +202,38 @@
       "firebase": {
         "title": "4.1. Layanan Firebase (Google)",
         "intro": "Kami menggunakan layanan Firebase berikut, semua mematuhi GDPR:",
-        "auth": "Firebase Authentication: Manajemen akun pengguna yang aman",
-        "firestore": "Cloud Firestore: Penyimpanan profil dan data game Anda",
-        "storage": "Firebase Storage: Hosting gambar profil Anda",
-        "functions": "Cloud Functions: Eksekusi logika backend yang aman",
-        "messaging": "Firebase Cloud Messaging: Notifikasi push",
-        "appcheck": "Firebase App Check: Perlindungan terhadap penyalahgunaan dan bot",
-        "performance": "Firebase Performance Monitoring: Pemantauan performa aplikasi",
-        "crashlytics": "Firebase Crashlytics: Laporan crash",
-        "policy": "Kebijakan Privasi Firebase: https://firebase.google.com/support/privacy"
+        "auth_label": "Firebase Authentication:",
+        "auth": "Manajemen akun pengguna yang aman",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Penyimpanan profil dan data game Anda",
+        "storage_label": "Firebase Storage:",
+        "storage": "Hosting gambar profil Anda",
+        "functions_label": "Cloud Functions:",
+        "functions": "Eksekusi logika backend yang aman",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Notifikasi push",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Perlindungan terhadap penyalahgunaan dan bot",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "Pemantauan performa aplikasi",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Laporan crash",
+        "policy_label": "Kebijakan Privasi Firebase:",
+        "policy": "https://firebase.google.com/support/privacy"
       },
       "sentry": {
         "title": "4.2. Sentry (Pemantauan Error)",
         "intro": "Kami menggunakan Sentry untuk pelacakan error dan performa. Data yang dikumpulkan termasuk:",
         "traces": "Jejak error",
         "context": "Konteks teknis (OS, versi aplikasi)",
-        "policy": "Kebijakan Privasi Sentry: https://sentry.io/privacy/"
+        "policy_label": "Kebijakan Privasi Sentry:",
+        "policy": "https://sentry.io/privacy/"
       },
       "riot": {
         "title": "4.3. Riot Games API",
         "p1": "Saat Anda menghubungkan akun Riot Games, kami mengambil statistik game Anda melalui API resmi Riot Games. Data ini hanya digunakan untuk menampilkan profil Anda dan meningkatkan matching.",
-        "policy": "Kebijakan Privasi Riot Games: https://www.riotgames.com/en/privacy-notice"
+        "policy_label": "Kebijakan Privasi Riot Games:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
       }
     },
     "data_usage": {
@@ -251,13 +271,16 @@
       "title": "6. Penyimpanan Data",
       "periods": {
         "title": "6.1. Periode Penyimpanan",
-        "profile": "Data Profil: Disimpan selama akun Anda aktif",
-        "analytics": "Log dan Analitik: Firebase Analytics: 14 bulan (kebijakan Firebase)"
+        "profile_label": "Data Profil:",
+        "profile": "Disimpan selama akun Anda aktif",
+        "analytics_label": "Log dan Analitik:",
+        "analytics": "Firebase Analytics: 14 bulan (kebijakan Firebase)"
       },
       "deletion": {
         "title": "6.2. Penghapusan Data",
         "p1": "Anda dapat meminta penghapusan akun Anda kapan saja (lihat Bagian 7).",
-        "legal": "Penyimpanan Hukum: Beberapa data mungkin disimpan lebih lama untuk mematuhi kewajiban hukum kami (misalnya, laporan keamanan, transaksi keuangan)."
+        "legal_label": "Penyimpanan Hukum:",
+        "legal": "Beberapa data mungkin disimpan lebih lama untuk mematuhi kewajiban hukum kami (misalnya, laporan keamanan, transaksi keuangan)."
       }
     },
     "rights": {
@@ -266,7 +289,8 @@
       "access": {
         "title": "7.1. Hak Akses",
         "p1": "Anda dapat meminta salinan semua data yang kami simpan tentang Anda.",
-        "how": "Cara menggunakan hak ini: Pengaturan > Privasi > \"Ekspor Data Saya\"",
+        "how_label": "Cara menggunakan hak ini:",
+        "how": "Pengaturan > Privasi > \"Ekspor Data Saya\"",
         "process": "Proses ini menghasilkan file JSON yang berisi semua data Anda (profil, pesan, statistik, dll.). Link download berlaku selama 7 hari."
       },
       "rectification": {
@@ -276,7 +300,8 @@
       "erasure": {
         "title": "7.3. Hak Penghapusan (\"Hak untuk Dilupakan\")",
         "p1": "Anda dapat meminta penghapusan akun Anda.",
-        "how": "Cara menggunakan hak ini: Pengaturan > Zona Bahaya > \"Hapus Akun Saya\"",
+        "how_label": "Cara menggunakan hak ini:",
+        "how": "Pengaturan > Zona Bahaya > \"Hapus Akun Saya\"",
         "process": {
           "title": "Proses Penghapusan Otomatis:",
           "step1": "Konfirmasi dua langkah untuk mencegah penghapusan tidak sengaja",
@@ -285,8 +310,10 @@
           "step4": "ID anonim disediakan sebagai referensi",
           "step5": "Opsi untuk menghapus pesan dan konten yang dibuat"
         },
-        "important": "Penting: Penghapusan tidak dapat dibatalkan. Beberapa data anonim mungkin disimpan untuk tujuan statistik (mematuhi GDPR).",
-        "manual": "Permintaan Penghapusan Manual: Untuk permintaan penghapusan data khusus (misalnya, hapus hanya pesan dari komunitas tertentu, hapus gambar Storage, atau kasus lainnya), silakan hubungi Petugas Perlindungan Data kami di dpo@jynx.app. Kami akan memproses permintaan manual dalam 30 hari sesuai dengan GDPR."
+        "important_label": "Penting:",
+        "important": "Penghapusan tidak dapat dibatalkan. Beberapa data anonim mungkin disimpan untuk tujuan statistik (mematuhi GDPR).",
+        "manual_label": "Permintaan Penghapusan Manual:",
+        "manual": "Untuk permintaan penghapusan data khusus (misalnya, hapus hanya pesan dari komunitas tertentu, hapus gambar Storage, atau kasus lainnya), silakan hubungi Petugas Perlindungan Data kami di dpo@jynx.app. Kami akan memproses permintaan manual dalam 30 hari sesuai dengan GDPR."
       },
       "portability": {
         "title": "7.4. Hak Portabilitas Data",
@@ -299,34 +326,48 @@
       "withdraw": {
         "title": "7.6. Hak untuk Menarik Persetujuan",
         "p1": "Anda dapat menarik persetujuan untuk:",
-        "analytics": "Analitik: Pengaturan > Privasi > Nonaktifkan \"Aktifkan Analitik\"",
-        "notifications": "Notifikasi Push: Pengaturan perangkat",
-        "oauth": "Catatan: Token OAuth (Google, Apple) secara otomatis dicabut saat Anda menghapus akun (Bagian 7.3)."
+        "analytics_label": "Analitik:",
+        "analytics": "Pengaturan > Privasi > Nonaktifkan \"Aktifkan Analitik\"",
+        "notifications_label": "Notifikasi Push:",
+        "notifications": "Pengaturan perangkat",
+        "oauth_label": "Catatan:",
+        "oauth": "Token OAuth (Google, Apple) secara otomatis dicabut saat Anda menghapus akun (Bagian 7.3)."
       }
     },
     "security": {
       "title": "8. Keamanan Data",
       "intro": "Kami menerapkan langkah-langkah keamanan teknis dan organisasi untuk melindungi data Anda:",
-      "encryption": "Enkripsi: Komunikasi aman melalui HTTPS",
-      "rules": "Firebase Security Rules: Kontrol akses ketat ke data Firestore",
-      "auth": "Autentikasi: Manajemen sesi aman melalui Firebase Auth",
-      "validation": "Validasi Input: Pencegahan injeksi XSS melalui SecureTextInput",
-      "rate_limiting": "Rate Limiting: Perlindungan terhadap penyalahgunaan (spam pesan, tindakan otomatis)",
-      "moderation": "Moderasi: Sistem pelaporan dan moderasi konten",
+      "encryption_label": "Enkripsi:",
+      "encryption": "Komunikasi aman melalui HTTPS",
+      "rules_label": "Firebase Security Rules:",
+      "rules": "Kontrol akses ketat ke data Firestore",
+      "auth_label": "Autentikasi:",
+      "auth": "Manajemen sesi aman melalui Firebase Auth",
+      "validation_label": "Validasi Input:",
+      "validation": "Pencegahan injeksi XSS melalui SecureTextInput",
+      "rate_limiting_label": "Rate Limiting:",
+      "rate_limiting": "Perlindungan terhadap penyalahgunaan (spam pesan, tindakan otomatis)",
+      "moderation_label": "Moderasi:",
+      "moderation": "Sistem pelaporan dan moderasi konten",
       "breach": "Tidak ada sistem yang 100% aman. Jika terjadi pelanggaran data, kami akan memberi tahu Anda sesuai dengan GDPR (dalam 72 jam)."
     },
     "international": {
       "title": "9. Transfer Data Internasional",
       "p1": "Data Anda mungkin ditransfer dan disimpan di server yang berlokasi di luar Uni Eropa, termasuk:",
-      "google": "Google Cloud / Firebase: Menggunakan infrastruktur global dengan kepatuhan GDPR",
-      "sentry": "Sentry: Server berbasis AS dengan kepatuhan Privacy Shield",
-      "guarantees": "Jaminan: Semua mitra kami menawarkan jaminan perlindungan setara dengan GDPR (klausul kontrak standar, sertifikasi Privacy Shield)."
+      "google_label": "Google Cloud / Firebase:",
+      "google": "Menggunakan infrastruktur global dengan kepatuhan GDPR",
+      "sentry_label": "Sentry:",
+      "sentry": "Server berbasis AS dengan kepatuhan Privacy Shield",
+      "guarantees_label": "Jaminan:",
+      "guarantees": "Semua mitra kami menawarkan jaminan perlindungan setara dengan GDPR (klausul kontrak standar, sertifikasi Privacy Shield)."
     },
     "cookies": {
       "title": "10. Cookie dan Teknologi Serupa",
       "p1": "Aplikasi mobile kami tidak menggunakan cookie dalam arti tradisional, tetapi menggunakan:",
-      "tokens": "Token Autentikasi: Disimpan secara lokal dengan cara yang aman",
-      "cache": "Cache Lokal: Untuk meningkatkan performa (data profil, pesan terkini)"
+      "tokens_label": "Token Autentikasi:",
+      "tokens": "Disimpan secara lokal dengan cara yang aman",
+      "cache_label": "Cache Lokal:",
+      "cache": "Untuk meningkatkan performa (data profil, pesan terkini)"
     },
     "changes": {
       "title": "11. Perubahan pada Kebijakan Ini",
@@ -337,8 +378,10 @@
     "contact": {
       "title": "12. Hubungi Kami",
       "p1": "Untuk pertanyaan mengenai kebijakan privasi ini atau untuk menggunakan hak Anda:",
-      "email": "Email: dpo@jynx.app",
-      "authority": "Otoritas Pengawas: Jika Anda percaya hak Anda tidak dihormati, Anda dapat mengajukan keluhan ke CNIL (Commission Nationale de l'Informatique et des Libertés) di Prancis."
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Otoritas Pengawas:",
+      "authority": "Jika Anda percaya hak Anda tidak dihormati, Anda dapat mengajukan keluhan ke CNIL (Commission Nationale de l'Informatique et des Libertés) di Prancis."
     },
     "consent": {
       "title": "13. Persetujuan",

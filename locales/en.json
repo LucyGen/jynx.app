@@ -101,9 +101,12 @@
       "title": "1. Introduction",
       "p1": "Jynx (\"we\", \"our\", \"the application\") is a social gaming platform that allows players to connect, form teams and play together.",
       "legal_info": "Legal Information:",
-      "entity": "Legal Entity: Jynx Group",
-      "dpo": "Privacy Officer Contact: dpo@jynx.app",
-      "jurisdiction": "Jurisdiction: France, European Union (GDPR Compliance)",
+      "entity_label": "Legal Entity:",
+      "entity": "Jynx Group",
+      "dpo_label": "Privacy Officer Contact:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Jurisdiction:",
+      "jurisdiction": "France, European Union (GDPR Compliance)",
       "p2": "This privacy policy describes how we collect, use, share and protect your personal data when you use our application."
     },
     "age_verification": {
@@ -151,7 +154,8 @@
         "rank": "Rank and match history (League of Legends, Valorant, etc.)",
         "stats": "Champion statistics",
         "matches": "Recent match history",
-        "reason": "Collection Reason: Display your player profile and improve matching with other players."
+        "reason_label": "Collection Reason:",
+        "reason": "Display your player profile and improve matching with other players."
       },
       "technical": {
         "title": "3.3. Usage and Technical Data",
@@ -159,9 +163,12 @@
       },
       "analytics": {
         "title": "Analytics and Performance:",
-        "firebase": "Firebase Performance Monitoring: App startup time, interface fluidity",
-        "sentry": "Sentry: Error and performance reports (with personal data anonymization)",
-        "crashlytics": "Firebase Crashlytics: Crash reports",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "App startup time, interface fluidity",
+        "sentry_label": "Sentry:",
+        "sentry": "Error and performance reports (with personal data anonymization)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Crash reports",
         "disable": "You can disable analytics data collection in Settings > Privacy > \"Enable Analytics\"."
       },
       "device": {
@@ -178,8 +185,10 @@
       },
       "communication": {
         "title": "3.4. Communication Data",
-        "messages": "Messages: Messages in community chats, private messages between users, conversation history",
-        "notifications": "Notifications: FCM tokens (Firebase Cloud Messaging) for push notifications"
+        "messages_label": "Messages:",
+        "messages": "Messages in community chats, private messages between users, conversation history",
+        "notifications_label": "Notifications:",
+        "notifications": "FCM tokens (Firebase Cloud Messaging) for push notifications"
       },
       "user_content": {
         "title": "3.5. User Generated Content",
@@ -193,27 +202,38 @@
       "firebase": {
         "title": "4.1. Firebase Services (Google)",
         "intro": "We use the following Firebase services, all GDPR compliant:",
-        "auth": "Firebase Authentication: Secure user account management",
-        "firestore": "Cloud Firestore: Storage of your profile and game data",
-        "storage": "Firebase Storage: Hosting your profile images",
-        "functions": "Cloud Functions: Secure backend logic execution",
-        "messaging": "Firebase Cloud Messaging: Push notifications",
-        "appcheck": "Firebase App Check: Protection against abuse and bots",
-        "performance": "Firebase Performance Monitoring: App performance monitoring",
-        "crashlytics": "Firebase Crashlytics: Crash reports",
-        "policy": "Firebase Privacy Policy: https://firebase.google.com/support/privacy"
+        "auth_label": "Firebase Authentication:",
+        "auth": "Secure user account management",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Storage of your profile and game data",
+        "storage_label": "Firebase Storage:",
+        "storage": "Hosting your profile images",
+        "functions_label": "Cloud Functions:",
+        "functions": "Secure backend logic execution",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Push notifications",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Protection against abuse and bots",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "App performance monitoring",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Crash reports",
+        "policy_label": "Firebase Privacy Policy:",
+        "policy": "https://firebase.google.com/support/privacy"
       },
       "sentry": {
         "title": "4.2. Sentry (Error Monitoring)",
         "intro": "We use Sentry for error and performance tracking. Collected data includes:",
         "traces": "Error traces",
         "context": "Technical context (OS, app version)",
-        "policy": "Sentry Privacy Policy: https://sentry.io/privacy/"
+        "policy_label": "Sentry Privacy Policy:",
+        "policy": "https://sentry.io/privacy/"
       },
       "riot": {
         "title": "4.3. Riot Games API",
         "p1": "When you link your Riot Games account, we retrieve your game statistics via the official Riot Games API. This data is used only to display your profile and improve matching.",
-        "policy": "Riot Games Privacy Policy: https://www.riotgames.com/en/privacy-notice"
+        "policy_label": "Riot Games Privacy Policy:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
       }
     },
     "data_usage": {
@@ -251,13 +271,16 @@
       "title": "6. Data Retention",
       "periods": {
         "title": "6.1. Retention Periods",
-        "profile": "Profile Data: Retained as long as your account is active",
-        "analytics": "Logs and Analytics: Firebase Analytics: 14 months (Firebase policy)"
+        "profile_label": "Profile Data:",
+        "profile": "Retained as long as your account is active",
+        "analytics_label": "Logs and Analytics:",
+        "analytics": "Firebase Analytics: 14 months (Firebase policy)"
       },
       "deletion": {
         "title": "6.2. Data Deletion",
         "p1": "You can request deletion of your account at any time (see Section 7).",
-        "legal": "Legal Retention: Some data may be retained longer to comply with our legal obligations (e.g., security reports, financial transactions)."
+        "legal_label": "Legal Retention:",
+        "legal": "Some data may be retained longer to comply with our legal obligations (e.g., security reports, financial transactions)."
       }
     },
     "rights": {
@@ -266,7 +289,8 @@
       "access": {
         "title": "7.1. Right of Access",
         "p1": "You can request a copy of all data we hold about you.",
-        "how": "How to exercise this right: Settings > Privacy > \"Export My Data\"",
+        "how_label": "How to exercise this right:",
+        "how": "Settings > Privacy > \"Export My Data\"",
         "process": "The process generates a JSON file containing all your data (profile, messages, statistics, etc.). The download link is valid for 7 days."
       },
       "rectification": {
@@ -276,7 +300,8 @@
       "erasure": {
         "title": "7.3. Right to Erasure (\"Right to be Forgotten\")",
         "p1": "You can request deletion of your account.",
-        "how": "How to exercise this right: Settings > Danger Zone > \"Delete My Account\"",
+        "how_label": "How to exercise this right:",
+        "how": "Settings > Danger Zone > \"Delete My Account\"",
         "process": {
           "title": "Automated Deletion Process:",
           "step1": "Two-step confirmation to prevent accidental deletions",
@@ -285,8 +310,10 @@
           "step4": "An anonymized ID is provided as reference",
           "step5": "Option to delete your messages and generated content"
         },
-        "important": "Important: Deletion is irreversible. Some anonymized data may be retained for statistical purposes (GDPR-compliant).",
-        "manual": "Manual Deletion Requests: For specific data deletion requests (e.g., delete only messages from a specific community, delete Storage images, or other edge cases), please contact our Data Protection Officer at dpo@jynx.app. We will process manual requests within 30 days as required by GDPR."
+        "important_label": "Important:",
+        "important": "Deletion is irreversible. Some anonymized data may be retained for statistical purposes (GDPR-compliant).",
+        "manual_label": "Manual Deletion Requests:",
+        "manual": "For specific data deletion requests (e.g., delete only messages from a specific community, delete Storage images, or other edge cases), please contact our Data Protection Officer at dpo@jynx.app. We will process manual requests within 30 days as required by GDPR."
       },
       "portability": {
         "title": "7.4. Right to Data Portability",
@@ -299,34 +326,48 @@
       "withdraw": {
         "title": "7.6. Right to Withdraw Consent",
         "p1": "You can withdraw your consent for:",
-        "analytics": "Analytics: Settings > Privacy > Disable \"Enable Analytics\"",
-        "notifications": "Push Notifications: Device settings",
-        "oauth": "Note: OAuth tokens (Google, Apple) are automatically revoked when you delete your account (Section 7.3)."
+        "analytics_label": "Analytics:",
+        "analytics": "Settings > Privacy > Disable \"Enable Analytics\"",
+        "notifications_label": "Push Notifications:",
+        "notifications": "Device settings",
+        "oauth_label": "Note:",
+        "oauth": "OAuth tokens (Google, Apple) are automatically revoked when you delete your account (Section 7.3)."
       }
     },
     "security": {
       "title": "8. Data Security",
       "intro": "We implement technical and organizational security measures to protect your data:",
-      "encryption": "Encryption: Secure communication via HTTPS",
-      "rules": "Firebase Security Rules: Strict access control to Firestore data",
-      "auth": "Authentication: Secure session management via Firebase Auth",
-      "validation": "Input Validation: XSS injection prevention via SecureTextInput",
-      "rate_limiting": "Rate Limiting: Protection against abuse (spam messages, automated actions)",
-      "moderation": "Moderation: Content reporting and moderation system",
+      "encryption_label": "Encryption:",
+      "encryption": "Secure communication via HTTPS",
+      "rules_label": "Firebase Security Rules:",
+      "rules": "Strict access control to Firestore data",
+      "auth_label": "Authentication:",
+      "auth": "Secure session management via Firebase Auth",
+      "validation_label": "Input Validation:",
+      "validation": "XSS injection prevention via SecureTextInput",
+      "rate_limiting_label": "Rate Limiting:",
+      "rate_limiting": "Protection against abuse (spam messages, automated actions)",
+      "moderation_label": "Moderation:",
+      "moderation": "Content reporting and moderation system",
       "breach": "No system is 100% secure. In case of a data breach, we will notify you in compliance with GDPR (within 72 hours)."
     },
     "international": {
       "title": "9. International Data Transfers",
       "p1": "Your data may be transferred and stored on servers located outside the European Union, including:",
-      "google": "Google Cloud / Firebase: Uses global infrastructure with GDPR compliance",
-      "sentry": "Sentry: US-based servers with Privacy Shield compliance",
-      "guarantees": "Guarantees: All our partners offer protection guarantees equivalent to GDPR (standard contractual clauses, Privacy Shield certifications)."
+      "google_label": "Google Cloud / Firebase:",
+      "google": "Uses global infrastructure with GDPR compliance",
+      "sentry_label": "Sentry:",
+      "sentry": "US-based servers with Privacy Shield compliance",
+      "guarantees_label": "Guarantees:",
+      "guarantees": "All our partners offer protection guarantees equivalent to GDPR (standard contractual clauses, Privacy Shield certifications)."
     },
     "cookies": {
       "title": "10. Cookies and Similar Technologies",
       "p1": "Our mobile application does not use cookies in the traditional sense, but uses:",
-      "tokens": "Authentication Tokens: Stored locally in a secure manner",
-      "cache": "Local Cache: To improve performance (profile data, recent messages)"
+      "tokens_label": "Authentication Tokens:",
+      "tokens": "Stored locally in a secure manner",
+      "cache_label": "Local Cache:",
+      "cache": "To improve performance (profile data, recent messages)"
     },
     "changes": {
       "title": "11. Changes to This Policy",
@@ -337,8 +378,10 @@
     "contact": {
       "title": "12. Contact Us",
       "p1": "For any questions regarding this privacy policy or to exercise your rights:",
-      "email": "Email: dpo@jynx.app",
-      "authority": "Supervisory Authority: If you believe your rights are not being respected, you can file a complaint with the CNIL (Commission Nationale de l'Informatique et des Libertés) in France."
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Supervisory Authority:",
+      "authority": "If you believe your rights are not being respected, you can file a complaint with the CNIL (Commission Nationale de l'Informatique et des Libertés) in France."
     },
     "consent": {
       "title": "13. Consent",
@@ -1032,6 +1075,7 @@
     "submitting": "Submitting...",
     "success": "You're in! We'll notify you when Jynx launches.",
     "error": "Oops! Something went wrong. Please try again.",
+    "nojs_note": "This will open your email client. For the best experience, please enable JavaScript.",
     "errors": {
       "permission_denied": "You don't have permission to submit this form.",
       "invalid_argument": "The information you provided is invalid.",
@@ -1265,6 +1309,7 @@
     "main_title": "REVIEWS",
     "subtitle_prefix": "WHAT OUR",
     "subtitle_highlight": "USERS SAY",
+    "nojs_note": "Enable JavaScript to browse all reviews",
     "review1": {
       "quote": "I'm a Diamond League of Legends player looking for a consistent ranked squad. Jynx's smart matchmaking connected me with players at my skill level who play the same roles and have similar schedules. We climbed from Diamond IV to Diamond I in just 2 months!",
       "name": "Alex 'Frostbyte' Ramirez",
@@ -1285,6 +1330,9 @@
       "name": "James 'ShadowStrike' Wilson",
       "role": "Former Solo Queue Player"
     }
+  },
+  "global": {
+    "nojs_banner": "JavaScript is disabled. Some interactive features may not work optimally."
   },
   "comparison": {
     "title": "Made for gamers, by gamers",

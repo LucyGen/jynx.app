@@ -101,9 +101,12 @@
       "title": "1. परिचय",
       "p1": "Jynx (\"हम\", \"हमारा\", \"एप्लिकेशन\") एक सोशल गेमिंग प्लेटफॉर्म है जो खिलाड़ियों को connect करने, teams बनाने और साथ खेलने की अनुमति देता है।",
       "legal_info": "कानूनी जानकारी:",
-      "entity": "कानूनी इकाई: Jynx Group",
-      "dpo": "Privacy Officer संपर्क: dpo@jynx.app",
-      "jurisdiction": "न्यायक्षेत्र: फ्रांस, यूरोपीय संघ (GDPR Compliance)",
+      "entity_label": "कानूनी इकाई:",
+      "entity": "Jynx Group",
+      "dpo_label": "Privacy Officer संपर्क:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "न्यायक्षेत्र:",
+      "jurisdiction": "फ्रांस, यूरोपीय संघ (GDPR Compliance)",
       "p2": "यह privacy policy बताती है कि जब आप हमारे एप्लिकेशन का उपयोग करते हैं तो हम कैसे आपके personal data को collect, use, share और protect करते हैं।"
     },
     "age_verification": {
@@ -151,7 +154,8 @@
         "rank": "Rank और match history (League of Legends, Valorant, आदि)",
         "stats": "Champion statistics",
         "matches": "हाल की match history",
-        "reason": "एकत्र करने का कारण: आपकी player profile display करना और अन्य players के साथ matching में सुधार करना।"
+        "reason_label": "एकत्र करने का कारण:",
+        "reason": "आपकी player profile display करना और अन्य players के साथ matching में सुधार करना।"
       },
       "technical": {
         "title": "3.3. Usage और Technical Data",
@@ -159,9 +163,12 @@
       },
       "analytics": {
         "title": "Analytics और Performance:",
-        "firebase": "Firebase Performance Monitoring: App startup time, interface fluidity",
-        "sentry": "Sentry: Error और performance reports (personal data anonymization के साथ)",
-        "crashlytics": "Firebase Crashlytics: Crash reports",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "App startup time, interface fluidity",
+        "sentry_label": "Sentry:",
+        "sentry": "Error और performance reports (personal data anonymization के साथ)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Crash reports",
         "disable": "आप Settings > Privacy > \"Enable Analytics\" में analytics data collection को disable कर सकते हैं।"
       },
       "device": {
@@ -178,8 +185,10 @@
       },
       "communication": {
         "title": "3.4. Communication Data",
-        "messages": "Messages: Community chats में messages, users के बीच private messages, conversation history",
-        "notifications": "Notifications: FCM tokens (Firebase Cloud Messaging) push notifications के लिए"
+        "messages_label": "Messages:",
+        "messages": "Community chats में messages, users के बीच private messages, conversation history",
+        "notifications_label": "Notifications:",
+        "notifications": "FCM tokens (Firebase Cloud Messaging) push notifications के लिए"
       },
       "user_content": {
         "title": "3.5. User Generated Content",
@@ -193,27 +202,38 @@
       "firebase": {
         "title": "4.1. Firebase Services (Google)",
         "intro": "हम निम्नलिखित Firebase services का उपयोग करते हैं, सभी GDPR compliant:",
-        "auth": "Firebase Authentication: Secure user account management",
-        "firestore": "Cloud Firestore: आपके profile और game data का storage",
-        "storage": "Firebase Storage: आपकी profile images को hosting",
-        "functions": "Cloud Functions: Secure backend logic execution",
-        "messaging": "Firebase Cloud Messaging: Push notifications",
-        "appcheck": "Firebase App Check: Abuse और bots से protection",
-        "performance": "Firebase Performance Monitoring: App performance monitoring",
-        "crashlytics": "Firebase Crashlytics: Crash reports",
-        "policy": "Firebase Privacy Policy: https://firebase.google.com/support/privacy"
+        "auth_label": "Firebase Authentication:",
+        "auth": "Secure user account management",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "आपके profile और game data का storage",
+        "storage_label": "Firebase Storage:",
+        "storage": "आपकी profile images को hosting",
+        "functions_label": "Cloud Functions:",
+        "functions": "Secure backend logic execution",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Push notifications",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Abuse और bots से protection",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "App performance monitoring",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Crash reports",
+        "policy_label": "Firebase Privacy Policy:",
+        "policy": "https://firebase.google.com/support/privacy"
       },
       "sentry": {
         "title": "4.2. Sentry (Error Monitoring)",
         "intro": "हम error और performance tracking के लिए Sentry का उपयोग करते हैं। एकत्रित data में शामिल है:",
         "traces": "Error traces",
         "context": "Technical context (OS, app version)",
-        "policy": "Sentry Privacy Policy: https://sentry.io/privacy/"
+        "policy_label": "Sentry Privacy Policy:",
+        "policy": "https://sentry.io/privacy/"
       },
       "riot": {
         "title": "4.3. Riot Games API",
         "p1": "जब आप अपना Riot Games account link करते हैं, तो हम official Riot Games API के माध्यम से आपकी game statistics retrieve करते हैं। यह data केवल आपकी profile display करने और matching में सुधार के लिए उपयोग किया जाता है।",
-        "policy": "Riot Games Privacy Policy: https://www.riotgames.com/en/privacy-notice"
+        "policy_label": "Riot Games Privacy Policy:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
       }
     },
     "data_usage": {
@@ -251,13 +271,16 @@
       "title": "6. Data Retention",
       "periods": {
         "title": "6.1. Retention Periods",
-        "profile": "Profile Data: जब तक आपका account active है तब तक retained",
-        "analytics": "Logs और Analytics: Firebase Analytics: 14 महीने (Firebase policy)"
+        "profile_label": "Profile Data:",
+        "profile": "जब तक आपका account active है तब तक retained",
+        "analytics_label": "Logs और Analytics:",
+        "analytics": "Firebase Analytics: 14 महीने (Firebase policy)"
       },
       "deletion": {
         "title": "6.2. Data Deletion",
         "p1": "आप किसी भी समय अपने account के deletion का अनुरोध कर सकते हैं (Section 7 देखें)।",
-        "legal": "कानूनी Retention: कुछ data हमारे कानूनी दायित्वों का पालन करने के लिए अधिक समय तक retained किया जा सकता है (जैसे security reports, financial transactions)।"
+        "legal_label": "कानूनी Retention:",
+        "legal": "कुछ data हमारे कानूनी दायित्वों का पालन करने के लिए अधिक समय तक retained किया जा सकता है (जैसे security reports, financial transactions)।"
       }
     },
     "rights": {
@@ -266,7 +289,8 @@
       "access": {
         "title": "7.1. Access का अधिकार",
         "p1": "आप हमारे पास मौजूद सभी data की एक copy का अनुरोध कर सकते हैं।",
-        "how": "इस अधिकार का उपयोग कैसे करें: Settings > Privacy > \"Export My Data\"",
+        "how_label": "इस अधिकार का उपयोग कैसे करें:",
+        "how": "Settings > Privacy > \"Export My Data\"",
         "process": "यह process एक JSON file generate करती है जिसमें आपका सभी data होता है (profile, messages, statistics, आदि)। Download link 7 दिनों के लिए valid है।"
       },
       "rectification": {
@@ -276,7 +300,8 @@
       "erasure": {
         "title": "7.3. Erasure का अधिकार (\"Right to be Forgotten\")",
         "p1": "आप अपने account के deletion का अनुरोध कर सकते हैं।",
-        "how": "इस अधिकार का उपयोग कैसे करें: Settings > Danger Zone > \"Delete My Account\"",
+        "how_label": "इस अधिकार का उपयोग कैसे करें:",
+        "how": "Settings > Danger Zone > \"Delete My Account\"",
         "process": {
           "title": "Automated Deletion Process:",
           "step1": "गलती से deletion को रोकने के लिए two-step confirmation",
@@ -285,8 +310,10 @@
           "step4": "Reference के रूप में एक anonymized ID प्रदान की जाती है",
           "step5": "आपके messages और generated content को delete करने का option"
         },
-        "important": "महत्वपूर्ण: Deletion irreversible है। कुछ anonymized data statistical purposes के लिए retained किया जा सकता है (GDPR-compliant)।",
-        "manual": "Manual Deletion Requests: विशिष्ट data deletion requests के लिए (जैसे केवल एक specific community के messages delete करना, Storage images delete करना, या अन्य edge cases), कृपया हमारे Data Protection Officer को dpo@jynx.app पर संपर्क करें। हम GDPR द्वारा आवश्यक 30 दिनों के भीतर manual requests को process करेंगे।"
+        "important_label": "महत्वपूर्ण:",
+        "important": "Deletion irreversible है। कुछ anonymized data statistical purposes के लिए retained किया जा सकता है (GDPR-compliant)।",
+        "manual_label": "Manual Deletion Requests:",
+        "manual": "विशिष्ट data deletion requests के लिए (जैसे केवल एक specific community के messages delete करना, Storage images delete करना, या अन्य edge cases), कृपया हमारे Data Protection Officer को dpo@jynx.app पर संपर्क करें। हम GDPR द्वारा आवश्यक 30 दिनों के भीतर manual requests को process करेंगे।"
       },
       "portability": {
         "title": "7.4. Data Portability का अधिकार",
@@ -299,34 +326,48 @@
       "withdraw": {
         "title": "7.6. Consent Withdraw करने का अधिकार",
         "p1": "आप अपनी consent इसके लिए withdraw कर सकते हैं:",
-        "analytics": "Analytics: Settings > Privacy > \"Enable Analytics\" को disable करें",
-        "notifications": "Push Notifications: Device settings",
-        "oauth": "नोट: जब आप अपना account delete करते हैं तो OAuth tokens (Google, Apple) स्वचालित रूप से revoke हो जाते हैं (Section 7.3)।"
+        "analytics_label": "Analytics:",
+        "analytics": "Settings > Privacy > \"Enable Analytics\" को disable करें",
+        "notifications_label": "Push Notifications:",
+        "notifications": "Device settings",
+        "oauth_label": "नोट:",
+        "oauth": "जब आप अपना account delete करते हैं तो OAuth tokens (Google, Apple) स्वचालित रूप से revoke हो जाते हैं (Section 7.3)।"
       }
     },
     "security": {
       "title": "8. Data Security",
       "intro": "हम आपके data को protect करने के लिए technical और organizational security measures लागू करते हैं:",
-      "encryption": "Encryption: HTTPS के माध्यम से secure communication",
-      "rules": "Firebase Security Rules: Firestore data तक strict access control",
-      "auth": "Authentication: Firebase Auth के माध्यम से secure session management",
-      "validation": "Input Validation: SecureTextInput के माध्यम से XSS injection prevention",
-      "rate_limiting": "Rate Limiting: Abuse से protection (spam messages, automated actions)",
-      "moderation": "Moderation: Content reporting और moderation system",
+      "encryption_label": "Encryption:",
+      "encryption": "HTTPS के माध्यम से secure communication",
+      "rules_label": "Firebase Security Rules:",
+      "rules": "Firestore data तक strict access control",
+      "auth_label": "Authentication:",
+      "auth": "Firebase Auth के माध्यम से secure session management",
+      "validation_label": "Input Validation:",
+      "validation": "SecureTextInput के माध्यम से XSS injection prevention",
+      "rate_limiting_label": "Rate Limiting:",
+      "rate_limiting": "Abuse से protection (spam messages, automated actions)",
+      "moderation_label": "Moderation:",
+      "moderation": "Content reporting और moderation system",
       "breach": "कोई भी system 100% secure नहीं है। Data breach की स्थिति में, हम आपको GDPR के अनुपालन में सूचित करेंगे (72 घंटों के भीतर)।"
     },
     "international": {
       "title": "9. International Data Transfers",
       "p1": "आपका data यूरोपीय संघ के बाहर स्थित servers पर transfer और store किया जा सकता है, जिसमें शामिल हैं:",
-      "google": "Google Cloud / Firebase: GDPR compliance के साथ global infrastructure का उपयोग करता है",
-      "sentry": "Sentry: Privacy Shield compliance के साथ US-based servers",
-      "guarantees": "गारंटी: हमारे सभी partners GDPR के बराबर protection guarantees प्रदान करते हैं (standard contractual clauses, Privacy Shield certifications)।"
+      "google_label": "Google Cloud / Firebase:",
+      "google": "GDPR compliance के साथ global infrastructure का उपयोग करता है",
+      "sentry_label": "Sentry:",
+      "sentry": "Privacy Shield compliance के साथ US-based servers",
+      "guarantees_label": "गारंटी:",
+      "guarantees": "हमारे सभी partners GDPR के बराबर protection guarantees प्रदान करते हैं (standard contractual clauses, Privacy Shield certifications)।"
     },
     "cookies": {
       "title": "10. Cookies और Similar Technologies",
       "p1": "हमारा mobile application पारंपरिक अर्थ में cookies का उपयोग नहीं करता, लेकिन उपयोग करता है:",
-      "tokens": "Authentication Tokens: Secure तरीके से locally stored",
-      "cache": "Local Cache: Performance में सुधार के लिए (profile data, recent messages)"
+      "tokens_label": "Authentication Tokens:",
+      "tokens": "Secure तरीके से locally stored",
+      "cache_label": "Local Cache:",
+      "cache": "Performance में सुधार के लिए (profile data, recent messages)"
     },
     "changes": {
       "title": "11. इस Policy में परिवर्तन",
@@ -337,8 +378,10 @@
     "contact": {
       "title": "12. हमसे संपर्क करें",
       "p1": "इस privacy policy के बारे में किसी भी प्रश्न के लिए या अपने अधिकारों का उपयोग करने के लिए:",
-      "email": "Email: dpo@jynx.app",
-      "authority": "Supervisory Authority: यदि आपको लगता है कि आपके अधिकारों का सम्मान नहीं किया जा रहा है, तो आप फ्रांस में CNIL (Commission Nationale de l'Informatique et des Libertés) में शिकायत दर्ज कर सकते हैं।"
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Supervisory Authority:",
+      "authority": "यदि आपको लगता है कि आपके अधिकारों का सम्मान नहीं किया जा रहा है, तो आप फ्रांस में CNIL (Commission Nationale de l'Informatique et des Libertés) में शिकायत दर्ज कर सकते हैं।"
     },
     "consent": {
       "title": "13. सहमति",

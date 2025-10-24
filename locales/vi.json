@@ -232,7 +232,8 @@
     "contact": {
       "title": "Liên Hệ Với Chúng Tôi",
       "description": "Nếu bạn có câu hỏi hoặc thắc mắc về chính sách bảo mật này, vui lòng liên hệ:",
-      "email": "Email: privacy@jynx.app",
+      "email_label": "Email:",
+      "email": "privacy@jynx.app",
       "address": "Địa chỉ: 6 Quai Magellan, 44000 Nantes, France"
     }
   },
@@ -648,22 +649,38 @@
     "competitive": {
       "title": "Người Xay Cạnh Tranh",
       "description": "Đồng đội với người chơi nghiêm túc ưu tiên phối hợp, chiến lược và tiến trình xếp hạng.",
-      "features": ["Ghép đôi dựa trên rank", "Công cụ chiến lược đội", "Theo dõi hiệu suất"]
+      "features": [
+        "Ghép đôi dựa trên rank",
+        "Công cụ chiến lược đội",
+        "Theo dõi hiệu suất"
+      ]
     },
     "casual": {
       "title": "Người Chơi Thông Thường",
       "description": "Tìm người chơi muốn thưởng thức game vui vẻ, không căng thẳng trong môi trường thoải mái.",
-      "features": ["Ghép đôi thân thiện thông thường", "Lịch trình linh hoạt", "Chơi không áp lực"]
+      "features": [
+        "Ghép đôi thân thiện thông thường",
+        "Lịch trình linh hoạt",
+        "Chơi không áp lực"
+      ]
     },
     "social": {
       "title": "Game Thủ Xã Hội",
       "description": "Xây dựng tình bạn lâu dài và trở thành một phần của cộng đồng sôi động là nhiều hơn game.",
-      "features": ["Sự kiện cộng đồng", "Tích hợp trò chuyện thoại", "Tính năng xã hội"]
+      "features": [
+        "Sự kiện cộng đồng",
+        "Tích hợp trò chuyện thoại",
+        "Tính năng xã hội"
+      ]
     },
     "learner": {
       "title": "Học Cho Người Mới",
       "description": "Kết nối với đồng đội kiên nhẫn có thể giúp bạn cải thiện và học cơ chế game.",
-      "features": ["Ghép đôi thân thiện với người mới", "Hướng dẫn và mẹo", "Chương trình cố vấn"]
+      "features": [
+        "Ghép đôi thân thiện với người mới",
+        "Hướng dẫn và mẹo",
+        "Chương trình cố vấn"
+      ]
     }
   },
   "comparison": {
