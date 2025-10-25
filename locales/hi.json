@@ -506,17 +506,19 @@
     "title": "जहाँ गेमिंग हो जाती है सोशल",
     "subtitle": "ऐसे teammates खोजें जो आपकी style, skill level, और schedule से match करें",
     "description": "",
-    "pre_launch_text": "Jynx डाउनलोड करें और अपनी gaming community में शामिल हों",
+    "pre_launch_text": "अब अपनी कम्युनिटी में शामिल हों",
     "app_store_small": "Download करें",
-    "app_store_large": "App Store पर",
+    "app_store_large": "App Store",
     "play_store_small": "पाएं",
-    "play_store_large": "Google Play पर",
-    "cta_primary": "अपनी COMMUNITY में शामिल हों"
+    "play_store_large": "Google Play",
+    "cta_primary": "अपनी COMMUNITY में शामिल हों",
+    "title_primary": "स्मार्ट गेमिंग मैचमेकिंग प्लेटफॉर्म",
+    "tagline": "जहाँ गेमिंग हो जाती है सोशल"
   },
   "features": {
     "title": "बेहतर खेलें, साथ में",
     "subtitle": "आधुनिक खिलाड़ियों के लिए डिज़ाइन किए गए intelligent gaming community tools",
-    "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग preferences, play styles, और community interests के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर",
+    "description": "Jynx पारंपरिक LFG प्लेटफॉर्म का एक अच्छा विकल्प है - गेमिंग प्राथमिकताओं, खेल शैलियों और शेड्यूल संगतता के आधार पर साथियों को बुद्धिमानी से जोड़कर एकल गेमिंग को एक सामाजिक अनुभव में बदल देता है",
     "cards": {
       "scheduling": {
         "title": "Intelligent Matchmaking",
@@ -534,24 +536,36 @@
         "title": "Gaming Sessions",
         "description": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें"
       }
-    }
+    },
+    "title_seo": "स्मार्ट मैचमेकिंग के साथ बेहतर खेलें, साथ में",
+    "description_seo": "Jynx एक स्मार्ट गेमिंग मैचमेकिंग प्लेटफॉर्म है जो solo gaming को social experience में बदल देता है। हमारे intelligent algorithms skill level, play style, और gaming preferences के आधार पर players को connect करते हैं। चाहे आप League of Legends teammates, Valorant squad, या casual gaming friends ढूंढ रहे हों, Jynx वह LFG alternative है जो वाकई काम करता है। 10,000+ gamers में शामिल हों और फिर कभी अकेले न खेलें।"
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Intelligent Matchmaking",
-      "subtitle": "सेकंडों में अपना perfect gaming squad खोजें - ऐसे players जो आपके skill level, play style, और schedule से match करें"
+      "subtitle": "सेकंडों में अपने perfect gaming teammates को खोजें - अब LFG spam नहीं। skill level, play style, और schedule compatibility के आधार पर players से match करें",
+      "title_seo": "Smart Gaming Matchmaking",
+      "subtitle_header": "ऐसे Teammates खोजें जो आपके Skill Level और Play Style से Match करें",
+      "subtitle_seo": "हमारे smart matchmaking algorithms आपकी gaming profile, skill level (ELO), preferred play style, और availability का analyze करके seconds में आपका perfect gaming squad ढूंढते हैं। अब endless LFG posts browse करने या empty lobbies में wait करने की जरूरत नहीं। हमारे system को काम करने दें और automatically compatible teammates से connect हों।"
     },
     "community_building": {
       "title": "Community Building",
-      "subtitle": "अपनी खुद की community बनाएं और एक leader बनें। अपने criteria से match करने वाले अपने teammates को recruit करें, अपने goals set करें, और अपनी limits push करें। आपकी community, आपके rules, आपकी success"
+      "subtitle": "अपनी community बनाएं और leader बनें। अपने criteria से match करने वाले teammates recruit करें, अपने goals set करें, और अपनी limits push करें। आपकी community, आपके rules, आपकी success",
+      "title_seo": "अपनी Gaming Community बनाएं",
+      "subtitle_header": "अपना Gaming Squad बनाएं और Lead करें",
+      "subtitle_seo": "अपनी gaming community बनाएं और leader बनें। अपने criteria से match करने वाले teammates recruit करें, अपने goals set करें, और अपनी limits push करें। चाहे आप esports team, casual gaming group, या content creator community बना रहे हों, Jynx आपको अपने squad को grow और manage करने के tools देता है। आपकी community, आपके rules, आपकी success।"
     },
     "global_chat": {
       "title": "Global Chat",
-      "subtitle": "Global chat के माध्यम से सैकड़ों लोगों के साथ real-time conversations में engage हों, अपने ELO से stand out करें, और ऐसे teammates के साथ connect करें जो आपके जैसे हैं"
+      "subtitle": "Global chat के through सैकड़ों लोगों के साथ real-time conversations में engage हों, अपने ELO से stand out करें, और ऐसे teammates खोजें जो आपकी personality और energy से match करें",
+      "title_seo": "Real-Time Gaming Chat और Communication",
+      "subtitle_header": "दुनिया भर में हजारों Gamers से Connect करें"
     },
     "gaming_sessions": {
       "title": "Gaming Sessions",
-      "subtitle": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें"
+      "subtitle": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें",
+      "title_seo": "Gaming Sessions Schedule करें",
+      "subtitle_header": "अपने Squad के साथ अपनी Gaming Nights Plan करें"
     }
   },
   "problem": {
@@ -599,9 +613,18 @@
     }
   },
   "feedback": {
+    "coming_soon": "जल्द आ रहा है",
     "title": "आपके सुझाव, हमारी प्राथमिकता",
-    "feedback": "आपका feedback",
+    "feedback": "आपका संदेश (वैकल्पिक)",
+    "feedback_label": "आपका संदेश",
     "subtitle": "कोई spam नहीं। हम आपसे केवल तभी संपर्क करेंगे जब Jynx launch होगा।",
+    "countdown_label": "लॉन्च हो रहा है",
+    "countdown_days": "दिन",
+    "countdown_hours": "घंटे",
+    "countdown_minutes": "मिनट",
+    "countdown_seconds": "सेकंड",
+    "launch_date": "1 दिसंबर को स्टोर पर",
+    "discord": "हमारे Discord में शामिल हों",
     "yes": "हां",
     "no": "नहीं",
     "textarea": "हमें बताएं कि आप Jynx में क्या add या modify करना चाहते हैं",
@@ -615,13 +638,21 @@
   "footer": {
     "company": {
       "title": "कंपनी",
-      "about": "हमारे बारे में"
+      "about": "हमारे बारे में",
+      "about_seo": "Jynx Gaming Platform के बारे में"
     },
     "legal": {
       "title": "कानूनी",
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
-      "cookies": "Cookie Policy"
+      "privacy": "गोपनीयता नीति",
+      "terms": "सेवा की शर्तें",
+      "cookies": "कुकी नीति",
+      "privacy_seo": "गोपनीयता नीति",
+      "terms_seo": "सेवा की शर्तें"
+    },
+    "download": {
+      "title": "डाउनलोड",
+      "app_store": "App Store",
+      "google_play": "Google Play"
     },
     "copyright": "© 2024 Jynx. सर्वाधिकार सुरक्षित।",
     "language": "भाषा"
@@ -639,6 +670,13 @@
     "theme_toggle": "Dark mode toggle करें",
     "language_selector": "भाषा चुनें",
     "close_modal": "Modal बंद करें"
+  },
+  "breadcrumb": {
+    "home": "होम",
+    "about": "हमारे बारे में",
+    "download": "डाउनलोड",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें"
   },
   "theme-feedback": {
     "submit": "Feedback Submit करें",
@@ -776,10 +814,18 @@
       "elo_matching": "Skill-Based Matching (ELO)",
       "communities": "Gaming Communities",
       "chat": "Real-Time Chat",
+      "tournaments": "टूर्नामेंट आयोजन",
       "sessions": "Gaming Sessions Scheduling",
       "integration": "Player Profile Integration",
       "discovery": "Tinder-Style Player Discovery",
       "gaming_focused": "Gaming के लिए बनाया गया",
+      "game_session_matchmaking": "गेम सेशन मैचमेकिंग",
+      "coming_soon": "जल्द आ रहा है",
+      "exclusive_features": "(विशेष सुविधाएँ)",
+      "game_apis": "गेम APIs",
+      "community_search": "कम्युनिटी सर्च और डिस्कवरी",
+      "by_game_skill": "गेम, रैंक और भाषा के अनुसार",
+      "on_computer_only": "केवल कंप्यूटर पर",
       "price": "कीमत",
       "yes": "हां",
       "no": "नहीं",
@@ -795,6 +841,7 @@
       "general": "General",
       "varies": "अलग-अलग",
       "free_forever": "हमेशा के लिए मुफ्त",
+      "free_jynx_plus": "Free / Jynx+",
       "free_varies": "Free/अलग-अलग"
     },
     "cta": {
@@ -804,94 +851,89 @@
     }
   },
   "reviews": {
-    "title": "गेमर्स Jynx के बारे में क्या कहते हैं",
-    "subtitle": "10,000+ खिलाड़ी पहले से ही अपने perfect squads खोज चुके हैं",
-    "cards": {
-      "mike": {
-        "name": "Mike Chen",
-        "role": "League of Legends Player",
-        "rating": 5,
-        "quote": "Jynx ने मेरे gaming experience को बदल दिया। अब मुझे असल में मेरे vibe से match करने वाले teammates मिलते हैं। कोई और toxic random players नहीं!"
-      },
-      "sarah": {
-        "name": "Sarah Johnson",
-        "role": "Valorant Enthusiast",
-        "rating": 5,
-        "quote": "सबसे अच्छा matchmaking platform जो मैंने उपयोग किया है। AI-powered system सही teammates ढूंढने में सचमुच अच्छा काम करता है। बेहद recommend करती हूं!"
-      },
-      "alex": {
-        "name": "Alex Rivera",
-        "role": "Competitive Gamer",
-        "rating": 5,
-        "quote": "मैंने teammates खोजने की कोशिश में Discord servers में बहुत समय बर्बाद किया। Jynx के साथ, मैं मिनटों में एक पूरी squad पा लेता हूं। Game changer!"
-      },
-      "emma": {
-        "name": "Emma Davis",
-        "role": "Casual Player",
-        "rating": 5,
-        "quote": "मुझे यह पसंद है कि मैं ऐसे players खोज सकती हूं जो मेरे schedule से match करते हैं। कोई और late-night games नहीं जब मैं सुबह काम कर रही हूं!"
-      },
-      "david": {
-        "name": "David Kim",
-        "role": "Community Leader",
-        "rating": 5,
-        "quote": "Jynx के community features एक dream हैं। मैंने एक 200-member guild बनाया और events organize करना पहले कभी इतना आसान नहीं रहा।"
-      },
-      "lisa": {
-        "name": "Lisa Martinez",
-        "role": "Former Solo Player",
-        "rating": 5,
-        "quote": "Solo queue से squad gaming में जाना जीवन बदलने वाला रहा है। Jynx ने मुझे अद्भुत लोगों से मिलवाया जो अब मेरे असली दोस्त हैं!"
-      }
+    "main_title": "समीक्षा",
+    "subtitle_prefix": "हमारे",
+    "subtitle_highlight": "उपयोगकर्ता क्या कहते हैं",
+    "review1": {
+      "quote": "मैं League of Legends में Diamond खिलाड़ी हूं जो एक स्थिर रैंक्ड स्क्वाड की तलाश कर रहा हूं। Jynx की स्मार्ट मैचमेकिंग ने मुझे मेरे स्किल लेवल के खिलाड़ियों से जोड़ा जो समान भूमिकाएं निभाते हैं और समान शेड्यूल रखते हैं। हम सिर्फ 2 महीनों में Diamond IV से Diamond I तक पहुंच गए!",
+      "name": "Alex 'Frostbyte' Ramirez",
+      "role": "League of Legends में Diamond खिलाड़ी"
     },
-    "cta": {
-      "title": "अपने Perfect Squad खोजने के लिए तैयार हैं?",
-      "description": "हजारों खुश gamers में शामिल हों",
-      "button": "मुफ्त में शुरू करें"
+    "review2": {
+      "quote": "मैं सिर्फ सप्ताहांत में को-ऑप गेम खेलने के लिए शांत लोगों को खोजना चाहती थी। Jynx की प्लेयर डिस्कवरी ने मुझे प्रोफाइल स्वाइप करने और उन गेमर्स से जुड़ने दी जो मेरी वाइब शेयर करते हैं। अब मेरे पास Valorant unrated मैचों के लिए एक नियमित समूह है और यह बहुत मजेदार है!",
+      "name": "Sarah 'PixelQueen' Chen",
+      "role": "कैजुअल Valorant खिलाड़ी"
+    },
+    "review3": {
+      "quote": "मैं indie game enthusiasts के लिए 500 सदस्यों वाले समुदाय को चलाता हूं। Jynx की कम्युनिटी फीचर्स मुझे इवेंट्स ऑर्गनाइज करने, चर्चाओं को मॉडरेट करने और रियल-टाइम चैट के साथ सभी को engaged रखने में मदद करती हैं। AI मैचमेकिंग सदस्यों को हमारे समुदाय के भीतर तुरंत टीममेट्स खोजने में मदद करती है।",
+      "name": "Marcus 'IronWill' Thompson",
+      "role": "गेमिंग कम्युनिटी लीडर"
+    },
+    "review4": {
+      "quote": "अकेले गेमिंग अब मजेदार नहीं रही। Jynx ने मुझे मेरे पसंदीदा गेम्स के आसपास समुदायों की खोज करने में मदद की और अब मेरे पास हर रात खेलने के लिए एक नियमित समूह है। AI ने मुझे उन लोगों के साथ perfectly मैच किया जिनके पास समान गेमिंग लक्ष्य हैं - कैजुअल लेकिन competitive जब यह मायने रखता है।",
+      "name": "James 'ShadowStrike' Wilson",
+      "role": "पूर्व Solo Queue खिलाड़ी"
     }
   },
   "faq": {
-    "title": "अक्सर पूछे जाने वाले प्रश्न",
-    "subtitle": "Jynx के बारे में वह सब कुछ जो आपको जानना चाहिए",
-    "questions": {
-      "what_is": {
-        "question": "Jynx क्या है?",
-        "answer": "Jynx एक AI-powered gaming matchmaking platform है जो आपको आपके skill level, play style, और schedule के आधार पर perfect teammates खोजने में मदद करता है। यह Discord और traditional LFG platforms का एक modern विकल्प है, gaming communities के लिए विशेष रूप से designed है।"
-      },
-      "how_matching": {
-        "question": "AI matchmaking कैसे काम करता है?",
-        "answer": "हमारा AI आपके gaming preferences, skill level (ELO), favorite champions, play style, और availability को analyze करता है ताकि आपको ऐसे teammates से match किया जा सके जो perfectly आपकी requirements से fit होते हैं। जितना अधिक आप platform का उपयोग करते हैं, matches उतने ही बेहतर होते जाते हैं।"
-      },
-      "games": {
-        "question": "कौन से games support किए जाते हैं?",
-        "answer": "Jynx सभी popular multiplayer games को support करता है, जिनमें League of Legends, Valorant, और अधिक शामिल हैं। हमारा platform game-agnostic है, इसलिए आप किसी भी competitive या cooperative game के लिए communities बना सकते हैं।"
-      },
-      "free": {
-        "question": "क्या Jynx मुफ्त है?",
-        "answer": "हां! Jynx सभी core features के साथ हमेशा के लिए मुफ्त है। कोई hidden costs नहीं, कोई premium tiers नहीं जो essential features को lock करते हैं। हम मानते हैं कि हर gamer को अच्छे teammates खोजने का access होना चाहिए।"
-      },
-      "difference": {
-        "question": "Jynx Discord या अन्य LFG platforms से कैसे अलग है?",
-        "answer": "Traditional LFG platforms के विपरीत जहां आपको manually teammates search करने पड़ते हैं, Jynx AI-powered matchmaking का उपयोग करता है ताकि आपको स्वचालित रूप से compatible players से connect किया जा सके। साथ ही, हमारे पास gaming communities के लिए designed specialized features हैं जैसे ELO-based matching, gaming session scheduling, और Riot API integration।"
-      },
-      "start": {
-        "question": "मैं कैसे शुरुआत करूं?",
-        "answer": "बस Jynx download करें, अपना profile बनाएं, अपने favorite games add करें, और matchmaking शुरू करें! हमारा onboarding process सरल है और आप मिनटों में अपने पहले teammates से connect हो जाएंगे।"
-      },
-      "communities": {
-        "question": "क्या मैं अपनी खुद की gaming community बना सकता हूं?",
-        "answer": "बिल्कुल! Jynx communities (guilds) बनाने और manage करने को आसान बनाता है। आप अपने खुद के community leader बन सकते हैं, अपने criteria set कर सकते हैं, events organize कर सकते हैं, और अपनी gaming tribe grow कर सकते हैं।"
-      },
-      "safe": {
-        "question": "Jynx कितना safe है?",
-        "answer": "Safety हमारी top priority है। हमारे पास robust moderation tools, reporting systems, और community guidelines हैं ताकि सभी के लिए एक positive gaming environment ensure किया जा सके। सभी data Firebase के माध्यम से securely stored है और हम GDPR-compliant हैं।"
-      }
+    "title": "गेमिंग मैचमेकिंग के बारे में अक्सर पूछे जाने वाले प्रश्न",
+    "cta_heading": "कोई प्रश्न?",
+    "cta_subtitle": "और प्रश्न हैं?",
+    "cta_write_to_us": "हमें लिखें",
+    "cta_button": "हमसे संपर्क करें!",
+    "q1": {
+      "question": "क्या गेमर्स के लिए teammates खोजने के लिए Tinder जैसा app है?",
+      "answer": "अगर आप random players से थक गए हैं जो quit कर देते हैं, आपकी भाषा में communicate नहीं कर सकते, या जब आप सो रहे होते हैं तब online होते हैं, तो Jynx आपको वही filter करने देता है जो वास्तव में मायने रखता है: compatible schedules, similar skill levels, और shared gaming preferences। आप potential teammates को swipe करते हैं जो आपके criteria को पूरा करते हैं, awkward cold messages को skip करते हैं, और केवल उन players के साथ connect होते हैं जो वास्तव में उपलब्ध हैं जब आप खेलना चाहते हैं।<br><br>Regular LFG forums या Discord servers से अंतर? आप void में चिल्ला नहीं रहे हैं यह उम्मीद करते हुए कि कोई respond करेगा - आप केवल उन लोगों को देखते हैं जो पहले से ही आपकी availability से match होते हैं, आपकी भाषा बोलते हैं, और आपके games खेलते हैं। Chat में \"LFG\" spam करने में कम समय, उन लोगों के साथ खेलने में ज्यादा समय जिनके साथ आप फिर से squad करना चाहेंगे।"
     },
-    "cta": {
-      "title": "और प्रश्न हैं?",
-      "description": "हमारी community में शामिल हों या support से संपर्क करें",
-      "button": "हमसे संपर्क करें"
+    "q2": {
+      "question": "Gamers से online कैसे मिलें और gaming friend group कैसे बनाएं?",
+      "answer": "Gamers से मिलने में सबसे बड़ी चुनौती लोगों को ढूंढना नहीं है - यह सही लोगों को ढूंढना है। आपको ऐसे teammates की जरूरत है जो available हों जब आप खेलते हैं, आपकी भाषा में communicate करते हैं, और आपके skill level से match करते हैं।<br><br><strong>वास्तव में क्या काम करता है:</strong><br><strong>• Commit करने से पहले filter करें:</strong> ऐसे platforms की तलाश करें जहां आप connect करने से पहले verified stats, availability, और play style के साथ player profiles browse कर सकें<br><strong>• Compatibility को prioritize करें:</strong> Time zone, rank, और communication style एक ही game खेलने से ज्यादा महत्वपूर्ण हैं<br><strong>• Gradually build करें:</strong> 2-3 reliable teammates खोजने पर focus करें बजाय huge communities join करने के जहां meaningful connections बनाना कठिन है<br><br>ऐसे platforms से बचें जो आपको \"LFG\" messages spam करने के लिए मजबूर करते हैं और replies की उम्मीद करते हैं - आपका समय कीमती है।"
+    },
+    "q3": {
+      "question": "League of Legends और Valorant में ranked games के लिए teammates कैसे खोजें?",
+      "answer": "Ranked games के लिए अच्छे teammates खोजना quantity का नहीं, बल्कि compatibility का सवाल है। Random players के साथ खेलना जो communicate नहीं करते, first death के बाद quit कर जाते हैं, या ऐसी roles खेलते हैं जिनमें वे comfortable नहीं हैं, आपको LP और mental health cost करता है।<br><br>Ranked teammates में क्या देखें:<br><strong>• Verified rank:</strong> सुनिश्चित करें कि वे वास्तव में आपके ELO पर हैं (smurfing या boosted नहीं)<br><strong>• Role compatibility:</strong> Queue करने से पहले उनके champion pool और preferred roles check करें<br><strong>• Consistent availability:</strong> Ranked grinding regular play की मांग करती है, similar schedules वाले लोग खोजें<br><strong>• Communication style:</strong> कुछ players shotcalling prefer करते हैं, अन्य minimal chat चाहते हैं। इस पर पहले से agree करें।<br><br>सबसे अच्छा approach? ऐसे platforms use करें जो Riot API के through players' ranks verify करते हैं और आपको role, schedule, और communication preferences से filter करने देते हैं। आप champ select dodges में कम समय बिताएंगे और climbing में ज्यादा।"
+    },
+    "q4": {
+      "question": "Gaming teammates खोजने के लिए Discord के सर्वोत्तम alternatives क्या हैं?",
+      "answer": "Discord उन teammates के साथ chat करने के लिए बढ़िया है जो आपके पास पहले से हैं, लेकिन नए खोजने के लिए भयानक है। क्यों:<br><br>10,000 members वाले server में \"LFG\" post करने का मतलब है कि आपका message minutes में buried हो जाएगा। आपके पास skill level, availability, या play style से filter करने का कोई तरीका नहीं है इससे पहले कि आप reach out करें। और सबसे महत्वपूर्ण, आप सारा काम कर रहे हैं - channels में spam कर रहे हैं, strangers को DM कर रहे हैं, यह उम्मीद करते हुए कि कोई respond करेगा।<br><br>आपको वास्तव में क्या चाहिए एक platform जो discovery के लिए designed है, सिर्फ communication के लिए नहीं:<br><strong>• Player profiles:</strong> Message भेजने से पहले किसी की rank, schedule, और preferred roles देखें<br><strong>• Smart filtering:</strong> उन criteria से search करें जो matter करते हैं (language, time zone, skill level)<br><strong>• Active matching:</strong> Void में चिल्लाने के बजाय recommendations पाएं<br><br>Goal Discord को replace करना नहीं है - यह discovery के लिए सही tool use करना है, फिर compatible teammates खोजने के बाद voice chat के लिए Discord पर move करना है।"
+    },
+    "q5": {
+      "question": "क्या free gaming matchmaking apps और platforms हैं?",
+      "answer": "हां, और teammates खोजने के लिए आपको pay नहीं करना चाहिए। कई platforms robust free tiers offer करते हैं जिनमें basics शामिल हैं: player discovery, profile browsing, chat, और session planning।<br><br><strong>Free tiers से क्या expect करें:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Stats के साथ player profiles<br>• Basic messaging और session scheduling<br><br><strong>Premium tiers आमतौर पर क्या add करते हैं:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags जिनसे avoid करें:</strong><br>• Core features के लिए paying जैसे messaging या देखना कि आपसे कौन matched<br>• Rank verification या account linking के लिए pay करने के लिए forcing<br>• कोई free tier नहीं (अगर वे product में confident हैं, तो उन्हें आपको try करने देना चाहिए)<br><br>आपका time subscription fees से ज्यादा valuable है - generous free tiers वाले platforms पर focus करें ताकि आप commit करने से पहले test कर सकें।"
     }
+  },
+  "how_it_works": {
+    "title": "स्मार्ट गेमिंग मैचमेकिंग कैसे काम करती है",
+    "subtitle": "4 सरल चरणों में अपनी परफेक्ट गेमिंग स्क्वाड खोजें",
+    "step1": {
+      "title": "अपनी गेमिंग प्रोफ़ाइल बनाएं",
+      "description": "हमें अपनी गेमिंग प्राथमिकताओं के बारे में बताएं: पसंदीदा गेम, स्किल लेवल (ELO), प्ले स्टाइल (आक्रामक, रक्षात्मक, सपोर्ट), पसंदीदा रोल, और आप कब खेलते हैं। ऑटोमैटिक रैंक वेरिफिकेशन के लिए अपना Riot Games अकाउंट कनेक्ट करें।",
+      "feature1": "League of Legends और Valorant अकाउंट लिंक करें",
+      "feature2": "अपना गेमिंग शेड्यूल सेट करें",
+      "feature3": "अपनी पसंदीदा कम्युनिकेशन स्टाइल चुनें"
+    },
+    "step2": {
+      "title": "हमारा सिस्टम आपकी प्रोफ़ाइल का विश्लेषण करता है",
+      "description": "हमारे स्मार्ट मैचमेकिंग एल्गोरिदम आपके गेमिंग डेटा, प्ले पैटर्न और प्राथमिकताओं को प्रोसेस करते हैं ताकि आपकी यूनीक गेमर प्रोफ़ाइल बनाई जा सके। समय के साथ मैच क्वालिटी को बेहतर बनाने के लिए सिस्टम आपकी इंटरैक्शन से सीखता है।",
+      "feature1": "एडवांस्ड एल्गोरिदम-आधारित मैचिंग",
+      "feature2": "कम्पैटिबिलिटी स्कोरिंग सिस्टम",
+      "feature3": "व्यवहार और कम्युनिकेशन विश्लेषण"
+    },
+    "step3": {
+      "title": "अपनी स्क्वाड के साथ मैच हों",
+      "description": "अपनी प्रोफ़ाइल के आधार पर इंस्टेंट टीममेट रेकमेंडेशन प्राप्त करें। कम्पैटिबल प्लेयर ब्राउज़ करें, उनके स्टैट्स चेक करें, और कनेक्शन रिक्वेस्ट भेजें। हमारा इंटेलिजेंट सिस्टम सुनिश्चित करता है कि आप ऐसे गेमर्स के साथ मैच हों जो आपकी प्ले स्टाइल को पूरा करते हैं।",
+      "feature1": "स्मार्ट टीममेट सुझाव",
+      "feature2": "स्टैट्स के साथ विस्तृत प्लेयर प्रोफ़ाइल",
+      "feature3": "वन-क्लिक कनेक्शन रिक्वेस्ट"
+    },
+    "step4": {
+      "title": "साथ खेलें और ज्यादा जीतें",
+      "description": "कोऑर्डिनेट करने के लिए बिल्ट-इन चैट का उपयोग करें, गेमिंग सेशन शेड्यूल करें, और स्थायी दोस्ती बनाएं। अपने पसंदीदा गेम के आसपास कम्युनिटी में शामिल हों या बनाएं। अपनी स्क्वाड के परफ़ॉर्मेंस को ट्रैक करें और साथ में रैंक चढ़ें।",
+      "feature1": "रियल-टाइम चैट और नोटिफिकेशन",
+      "feature2": "गेमिंग सेशन शेड्यूलिंग",
+      "feature3": "स्क्वाड परफ़ॉर्मेंस ट्रैकिंग"
+    },
+    "cta": "अभी टीममेट खोजना शुरू करें - यह मुफ्त है"
   },
   "final_cta": {
     "title": "Solo Gaming खत्म करें। Squad Gaming शुरू करें।",

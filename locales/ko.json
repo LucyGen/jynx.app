@@ -1,10 +1,14 @@
 {
   "meta": {
-    "title": "Jynx | 게임이 소셜해지는 곳",
-    "description": "Jynx는 게임 선호도, 플레이 스타일, 커뮤니티 관심사를 기반으로 게이머들을 연결하여 솔로 게임을 소셜 경험으로 전환합니다.",
-    "keywords": "게임 소셜 플랫폼, 게이머 매칭, 게임 커뮤니티, 팀 빌딩, 게임 친구, 게이머를 위한 소셜 네트워크, League of Legends 매칭, Valorant 팀원 찾기, 게임 LFG",
-    "og_title": "Jynx - 게이머를 위한 소셜 플랫폼",
-    "og_description": "게임 선호도와 플레이 스타일에 따라 완벽한 팀원을 찾으세요. 더 나은 게임 경험을 위해 Jynx 커뮤니티에 참여하세요."
+    "title": "게임 팀원 찾기 | LFG 매칭 앱 | Jynx",
+    "description": "Jynx의 스마트 매칭으로 완벽한 게임 팀원을 찾으세요. 실력, 플레이 스타일, 일정별로 매칭. 10,000+ 게이머와 함께하세요. 영원히 무료.",
+    "keywords": "게임 매칭 앱, 스마트 매칭, 게임 팀원 찾기, 게임 소셜 플랫폼, LFG 대안, 게임 스쿼드 찾기, 경쟁 게임, 게임 커뮤니티, e스포츠 매칭, League of Legends 팀원, Valorant 매칭",
+    "og_title": "Jynx - 스마트 게임 매칭 앱 | 게임이 소셜해지는 곳",
+    "og_description": "지능형 매칭으로 완벽한 게임 스쿼드를 찾으세요. 10,000+ 게이머와 함께하세요. 영원히 무료.",
+    "og_image_alt": "Jynx 게임 매칭 플랫폼 - 완벽한 스쿼드 찾기",
+    "twitter_title": "Jynx - 스마트 게임 매칭 앱 | 게임이 소셜해지는 곳",
+    "twitter_description": "지능형 매칭으로 완벽한 게임 스쿼드를 찾으세요. 10,000+ 게이머와 함께하세요. 영원히 무료.",
+    "twitter_image_alt": "Jynx 게임 매칭 플랫폼"
   },
   "about": {
     "meta": {
@@ -97,11 +101,15 @@
       "title": "개인정보 처리방침 | Jynx",
       "description": "Jynx의 개인정보 처리방침을 읽어보세요. 우리가 귀하의 정보를 수집, 사용 및 보호하는 방법을 알아보세요.",
       "og_title": "Jynx 개인정보 처리방침",
-      "og_description": "우리가 귀하의 데이터를 처리하고 귀하의 개인정보를 보호하는 방법을 알아보세요."
+      "og_description": "우리가 귀하의 데이터를 처리하고 귀하의 개인정보를 보호하는 방법을 알아보세요.",
+      "og_image_alt": "Jynx 개인정보 처리방침",
+      "twitter_title": "Jynx 개인정보 처리방침",
+      "twitter_description": "우리가 귀하의 데이터를 보호하고 개인정보를 존중하는 방법을 알아보세요.",
+      "twitter_image_alt": "개인정보 처리방침"
     },
     "title": "개인정보 처리방침",
     "effective_date": "발효일: 2024년 1월 1일",
-    "last_updated": "최종 업데이트: 2024년 1월 1일",
+    "last_updated": "최종 업데이트: 2025년 10월",
     "intro": "Jynx(&quot;우리,&quot; &quot;당사,&quot; 또는 &quot;우리의&quot;)는 귀하의 개인정보를 보호하기 위해 최선을 다하고 있습니다. 이 개인정보 처리방침은 귀하가 우리 서비스를 사용할 때 귀하의 정보를 수집, 사용 및 공개하는 관행을 설명합니다.",
     "sections": {
       "information_collection": {
@@ -171,18 +179,23 @@
         "email": "이메일: privacy@jynx.app",
         "address": "주소: 6 Quai Magellan, 44000 Nantes, France"
       }
-    }
+    },
+    "version": "버전: 1.0"
   },
   "terms": {
     "meta": {
       "title": "이용약관 | Jynx",
       "description": "Jynx의 이용약관을 읽어보세요. 우리 서비스 사용에 적용되는 규칙과 규정을 이해하세요.",
       "og_title": "Jynx 이용약관",
-      "og_description": "우리 플랫폼 사용을 관리하는 약관을 알아보세요."
+      "og_description": "우리 플랫폼 사용을 관리하는 약관을 알아보세요.",
+      "og_image_alt": "Jynx 이용약관",
+      "twitter_title": "Jynx 이용약관",
+      "twitter_description": "우리 플랫폼 사용을 관리하는 약관을 알아보세요.",
+      "twitter_image_alt": "이용약관"
     },
     "title": "이용약관",
     "effective_date": "발효일: 2024년 1월 1일",
-    "last_updated": "최종 업데이트: 2024년 1월 1일",
+    "last_updated": "최종 업데이트: 2025년 10월",
     "intro": "Jynx(&quot;서비스&quot;)에 오신 것을 환영합니다. 우리 플랫폼에 접근하거나 사용함으로써 귀하는 다음 이용약관에 구속되는 것에 동의합니다. 동의하지 않으시면 서비스를 사용하지 마십시오.",
     "sections": {
       "acceptance": {
@@ -277,37 +290,56 @@
         "email": "이메일: legal@jynx.app",
         "address": "주소: 6 Quai Magellan, 44000 Nantes, France"
       }
-    }
+    },
+    "version": "버전: 1.0",
+    "last_updated_label": "최종 업데이트",
+    "version_label": "버전"
   },
   "nav": {
     "home": "홈",
-    "about": "소개",
-    "features": "기능",
-    "download": "다운로드",
-    "privacy": "개인정보 처리방침",
-    "terms": "이용약관",
-    "language": "언어",
-    "menu": "메뉴",
-    "close": "닫기"
+    "solution": "솔루션",
+    "feedback": "피드백"
+  },
+  "header": {
+    "cta": "Jynx 받기"
   },
   "hero": {
-    "title": "게임이 <span class=\"highlight\">소셜해지는</span> 곳",
-    "subtitle": "게임 선호도, 플레이 스타일, 커뮤니티 관심사를 기반으로 완벽한 팀원을 찾으세요. 혼자 게임하지 마세요 — 함께 승리하세요.",
-    "cta_primary": "무료 다운로드",
-    "cta_secondary": "작동 방식 보기",
-    "available_on": "다음에서 사용 가능:",
-    "coming_soon": "곧 출시:",
-    "platforms": {
-      "ios": "iOS",
-      "android": "Android",
-      "windows": "Windows",
-      "mac": "Mac",
-      "linux": "Linux"
-    }
+    "title": "게임이 소셜해지는 곳",
+    "subtitle": "스타일, 실력 수준, 일정에 맞는 팀원을 찾으세요",
+    "description": "",
+    "pre_launch_text": "지금 커뮤니티에 가입하세요",
+    "app_store_small": "다운로드:",
+    "app_store_large": "App Store",
+    "play_store_small": "받기:",
+    "play_store_large": "Google Play",
+    "cta_primary": "커뮤니티 가입",
+    "title_primary": "스마트 게임 매칭 플랫폼",
+    "tagline": "게임이 소셜해지는 곳"
   },
   "features": {
-    "title": "게임 경험을 변화시키는 기능",
-    "subtitle": "의미 있는 연결, 더 나은 매치, 그리고 번창하는 게임 커뮤니티를 위해 설계된 강력한 도구들.",
+    "title": "함께, 더 나은 게임",
+    "subtitle": "현대 플레이어를 위해 설계된 지능형 게임 커뮤니티 도구",
+    "description": "Jynx는 전통적인 LFG 플랫폼의 좋은 대안입니다 - 게임 선호도, 플레이 스타일 및 일정 호환성을 기반으로 팀원을 지능적으로 연결하여 솔로 게임을 소셜 경험으로 전환합니다",
+    "cards": {
+      "scheduling": {
+        "title": "지능형 매칭",
+        "description": "몇 초 안에 완벽한 게임 스쿼드를 찾으세요 - 실력 수준, 플레이 스타일, 일정에 맞는 플레이어"
+      },
+      "finder": {
+        "title": "커뮤니티 발견",
+        "description": "관심사와 플레이 스타일에 완벽하게 맞는 게임 커뮤니티를 발견하세요"
+      },
+      "communication": {
+        "title": "실시간 커뮤니케이션",
+        "description": "메시지를 놓치지 마세요 - 연결이 끊겨도 채팅은 원활하게 작동합니다"
+      },
+      "sessions": {
+        "title": "게임 세션",
+        "description": "게임 밤을 미리 계획하고 다시는 팀원을 찾느라 허둥대지 마세요"
+      }
+    },
+    "title_seo": "스마트 매칭으로 함께 더 나은 게임",
+    "description_seo": "Jynx는 솔로 게임을 소셜 경험으로 전환하는 스마트 게임 매칭 플랫폼입니다. 우리의 지능형 알고리즘은 실력 수준, 플레이 스타일, 게임 선호도를 기반으로 플레이어를 연결합니다. League of Legends 팀원, Valorant 스쿼드, 캐주얼 게임 친구를 찾고 계시다면, Jynx는 실제로 작동하는 LFG 대안입니다. 10,000+ 게이머와 함께하고 다시는 혼자 플레이하지 마세요.",
     "smart_matching": {
       "title": "스마트 매칭",
       "description": "게임 선호도, 실력 수준, 플레이 스타일, 언어를 기반으로 완벽한 팀원을 찾으세요."
@@ -334,25 +366,31 @@
     }
   },
   "gaming_sections": {
-    "league": {
-      "title": "완벽한 <span class=\"highlight\">League of Legends</span> 팀원 찾기",
-      "description": "랭크, 역할, 플레이 스타일을 기반으로 플레이어와 연결하세요. 노련한 챔피언이든 이제 막 시작하든 상관없이 귀하의 목표를 공유하는 팀원을 찾으세요.",
-      "features": {
-        "rank_matching": "랭크 매칭",
-        "role_preference": "역할 선호도",
-        "champion_pool": "챔피언 풀 호환성",
-        "voice_ready": "음성 준비 팀"
-      }
+    "intelligent_matchmaking": {
+      "title": "지능형 매칭",
+      "subtitle": "몇 초 안에 완벽한 게임 팀원을 찾으세요 - 더 이상 LFG 스팸 없음. 실력 수준, 플레이 스타일, 일정 호환성을 기반으로 플레이어와 매칭",
+      "title_seo": "스마트 게임 매칭",
+      "subtitle_header": "실력 수준 및 플레이 스타일에 맞는 팀원 찾기",
+      "subtitle_seo": "우리의 스마트 매칭 알고리즘은 게임 프로필, 실력 수준(ELO), 선호하는 플레이 스타일, 가용성을 분석하여 몇 초 안에 완벽한 게임 스쿼드를 찾습니다. 더 이상 끝없는 LFG 게시물을 탐색하거나 빈 로비에서 기다릴 필요가 없습니다. 시스템이 작업을 수행하고 호환되는 팀원과 자동으로 연결하도록 하세요."
     },
-    "valorant": {
-      "title": "귀하의 <span class=\"highlight\">Valorant</span> 분대 구성",
-      "description": "에이전트 역할, 실력 수준, 소통 선호도를 기반으로 플레이어를 찾으세요. 경쟁 랭크 상승이든 캐주얼 게임이든 귀하의 분대가 기다립니다.",
-      "features": {
-        "agent_synergy": "에이전트 시너지",
-        "competitive_ready": "경쟁 준비",
-        "strategy_focused": "전략 중심 팀",
-        "regional_servers": "지역 서버 매칭"
-      }
+    "community_building": {
+      "title": "커뮤니티 구축",
+      "subtitle": "자신의 커뮤니티를 만들고 리더가 되세요. 기준에 맞는 팀원을 모집하고, 목표를 설정하고, 한계를 뛰어넘으세요. 귀하의 커뮤니티, 귀하의 규칙, 귀하의 성공",
+      "title_seo": "게임 커뮤니티 구축",
+      "subtitle_header": "자신의 게임 스쿼드 만들고 이끌기",
+      "subtitle_seo": "자신의 게임 커뮤니티를 만들고 리더가 되세요. 기준에 맞는 팀원을 모집하고, 목표를 설정하고, 한계를 뛰어넘으세요. e스포츠 팀, 캐주얼 게임 그룹, 콘텐츠 크리에이터 커뮤니티를 구축하든, Jynx는 스쿼드를 성장시키고 관리할 도구를 제공합니다. 귀하의 커뮤니티, 귀하의 규칙, 귀하의 성공."
+    },
+    "global_chat": {
+      "title": "글로벌 채팅",
+      "subtitle": "글로벌 채팅을 통해 수백 명의 사람들과 실시간 대화에 참여하고, ELO로 두각을 나타내고, 성격과 에너지가 맞는 팀원을 찾으세요",
+      "title_seo": "실시간 게임 채팅 및 커뮤니케이션",
+      "subtitle_header": "전 세계 수천 명의 게이머와 연결"
+    },
+    "gaming_sessions": {
+      "title": "게임 세션",
+      "subtitle": "게임 밤을 미리 계획하고 다시는 팀원을 찾느라 허둥대지 마세요",
+      "title_seo": "게임 세션 일정 관리",
+      "subtitle_header": "스쿼드와 함께 게임 밤 계획하기"
     }
   },
   "problem": {
@@ -421,135 +459,81 @@
     }
   },
   "form": {
-    "title": "Jynx 베타에 참여하세요",
-    "subtitle": "최초 사용자 중 한 명이 되어 게임 소셜 경험의 미래를 형성하는 데 도움을 주세요.",
     "email": {
       "label": "이메일 주소",
-      "placeholder": "your.email@example.com"
+      "placeholder": "",
+      "error": "유효한 이메일 주소를 입력하세요"
     },
-    "games": {
-      "label": "주요 게임 (최대 3개 선택)",
-      "placeholder": "주요 게임 선택...",
-      "options": {
-        "league": "League of Legends",
-        "valorant": "Valorant",
-        "csgo": "CS:GO",
-        "dota": "Dota 2",
-        "overwatch": "Overwatch",
-        "apex": "Apex Legends",
-        "fortnite": "Fortnite",
-        "other": "기타"
-      }
-    },
-    "platform": {
-      "label": "선호 플랫폼",
-      "options": {
-        "pc": "PC",
-        "console": "콘솔",
-        "mobile": "모바일",
-        "all": "모두"
-      }
-    },
-    "play_style": {
-      "label": "플레이 스타일",
-      "options": {
-        "competitive": "경쟁 / 랭크",
-        "casual": "캐주얼 / 재미",
-        "mixed": "혼합",
-        "professional": "프로 / E스포츠"
-      }
-    },
-    "consent": "Jynx 및 게임 업계의 업데이트, 팁, 특별 제안을 받고 싶습니다.",
-    "submit": "얼리 액세스 받기",
+    "optional": "선택 사항",
+    "submit": "대기자 명단 가입",
     "submitting": "제출 중...",
-    "success": "감사합니다! 곧 연락드리겠습니다.",
-    "error": "문제가 발생했습니다. 다시 시도해 주세요."
+    "success": "완료! Jynx 출시 시 알려드리겠습니다.",
+    "error": "문제가 발생했습니다. 다시 시도해 주세요.",
+    "errors": {
+      "permission_denied": "이 양식을 제출할 권한이 없습니다.",
+      "invalid_argument": "제공하신 정보가 유효하지 않습니다.",
+      "not_found": "리소스를 찾을 수 없습니다. 나중에 다시 시도해 주세요.",
+      "server_unavailable": "서버를 현재 사용할 수 없습니다. 나중에 다시 시도해 주세요.",
+      "too_many_requests": "요청이 너무 많습니다. 나중에 다시 시도해 주세요.",
+      "server_error": "서버에서 오류가 발생했습니다. 나중에 다시 시도해 주세요.",
+      "network_error": "네트워크 연결 오류. 인터넷 연결을 확인해 주세요.",
+      "timeout": "요청 시간이 초과되었습니다. 다시 시도해 주세요.",
+      "invalid_email": "유효한 이메일 주소를 입력하세요.",
+      "empty_field": "이 필드는 비워둘 수 없습니다.",
+      "default": "예기치 않은 오류가 발생했습니다. 다시 시도해 주세요."
+    }
   },
   "feedback": {
-    "title": "피드백을 공유해 주세요",
-    "subtitle": "귀하의 의견은 더 나은 Jynx를 만드는 데 도움이 됩니다",
-    "name": {
-      "label": "이름",
-      "placeholder": "귀하의 이름"
-    },
-    "email": {
-      "label": "이메일",
-      "placeholder": "your.email@example.com"
-    },
-    "category": {
-      "label": "카테고리",
-      "options": {
-        "bug": "버그 리포트",
-        "feature": "기능 요청",
-        "improvement": "개선 제안",
-        "other": "기타"
-      }
-    },
-    "message": {
-      "label": "귀하의 피드백",
-      "placeholder": "귀하의 생각, 제안 또는 발견한 문제를 알려주세요..."
-    },
-    "submit": "피드백 보내기",
-    "submitting": "보내는 중...",
-    "success": "피드백 감사합니다!",
-    "error": "문제가 발생했습니다. 다시 시도해 주세요."
+    "coming_soon": "출시 예정",
+    "title": "귀하의 제안, 우리의 우선순위",
+    "feedback": "귀하의 메시지 (선택 사항)",
+    "feedback_label": "귀하의 메시지",
+    "subtitle": "스팸 없음. Jynx 출시 시에만 연락드리겠습니다.",
+    "countdown_label": "출시까지",
+    "countdown_days": "일",
+    "countdown_hours": "시간",
+    "countdown_minutes": "분",
+    "countdown_seconds": "초",
+    "launch_date": "12월 1일 스토어 출시",
+    "discord": "Discord 가입",
+    "yes": "예",
+    "no": "아니오",
+    "textarea": "",
+    "submit": "보내기",
+    "note": "영원히 무료",
+    "submitting": "제출 중...",
+    "thanks": "피드백 감사합니다!",
+    "error": "피드백을 제출할 수 없습니다. 다시 시도해 주세요.",
+    "error_empty": "이메일이나 피드백 중 하나를 제공해 주세요."
   },
   "footer": {
-    "tagline": "게이머들을 연결하고, 커뮤니티를 구축하고, 더 나은 게임 경험을 창조합니다.",
-    "product": {
-      "title": "제품",
-      "features": "기능",
-      "download": "다운로드",
-      "pricing": "가격",
-      "roadmap": "로드맵"
-    },
     "company": {
       "title": "회사",
       "about": "소개",
-      "blog": "블로그",
-      "careers": "채용",
-      "contact": "연락처"
-    },
-    "resources": {
-      "title": "리소스",
-      "help": "도움말 센터",
-      "community": "커뮤니티",
-      "guides": "가이드",
-      "api": "API"
+      "about_seo": "Jynx 게임 플랫폼 소개"
     },
     "legal": {
       "title": "법률",
       "privacy": "개인정보 처리방침",
       "terms": "이용약관",
-      "cookies": "쿠키",
-      "licenses": "라이선스"
+      "cookies": "쿠키 정책",
+      "privacy_seo": "개인정보 처리방침",
+      "terms_seo": "이용약관"
     },
-    "social": {
-      "title": "소셜",
-      "discord": "Discord",
-      "twitter": "Twitter",
-      "instagram": "Instagram",
-      "youtube": "YouTube"
-    },
-    "newsletter": {
-      "title": "뉴스레터 구독",
-      "placeholder": "귀하의 이메일을 입력하세요",
-      "button": "구독",
-      "success": "구독해 주셔서 감사합니다!",
-      "error": "구독에 실패했습니다. 다시 시도해 주세요."
+    "download": {
+      "title": "다운로드",
+      "app_store": "App Store",
+      "google_play": "Google Play"
     },
     "copyright": "© 2024 Jynx. 모든 권리 보유.",
-    "made_with": "❤️로 제작",
-    "in": "프랑스 낭트"
+    "language": "언어"
   },
   "errors": {
-    "required": "이 필드는 필수입니다",
-    "email_invalid": "유효한 이메일 주소를 입력하세요",
-    "min_length": "최소 {min}자 이상이어야 합니다",
-    "max_length": "최대 {max}자 이하여야 합니다",
-    "network_error": "네트워크 오류. 인터넷 연결을 확인하세요.",
-    "server_error": "서버 오류. 나중에 다시 시도해 주세요.",
-    "generic": "문제가 발생했습니다. 다시 시도해 주세요."
+    "generic": "문제가 발생했습니다. 다시 시도해 주세요.",
+    "network": "네트워크 오류. 연결을 확인하세요.",
+    "validation": "입력을 확인하고 다시 시도해 주세요.",
+    "not_found": "페이지를 찾을 수 없습니다.",
+    "server": "서버 오류. 나중에 다시 시도해 주세요."
   },
   "accessibility": {
     "skip_to_content": "콘텐츠로 건너뛰기",
@@ -563,12 +547,19 @@
     "play_video": "비디오 재생",
     "pause_video": "비디오 일시 정지"
   },
+  "breadcrumb": {
+    "home": "홈",
+    "about": "소개",
+    "download": "다운로드",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관"
+  },
   "theme_feedback": {
-    "title": "테마 피드백",
-    "question": "어두운 테마가 마음에 드시나요?",
-    "like": "좋아요",
-    "dislike": "싫어요",
-    "thank_you": "피드백 감사합니다!"
+    "title": "앱 디자인에 도움을 주세요",
+    "description": "모바일 앱에 어떤 색 구성표를 선호하시나요? 귀하의 피드백은 완벽한 경험을 만드는 데 도움이 됩니다.",
+    "current_theme": "현재 테마:",
+    "submit": "앱 테마 선호도 제출",
+    "thanks": "앱 인터페이스 디자인에 도움을 주셔서 감사합니다!"
   },
   "download": {
     "meta": {
@@ -657,6 +648,20 @@
       "title": "시작할 준비가 되셨나요?",
       "subtitle": "수천 명의 게이머들이 Jynx로 더 나은 팀원을 찾고 있습니다",
       "button": "지금 다운로드"
+    },
+    "js_messages": {
+      "share_twitter": "Jynx를 확인하세요 - 솔로 게임을 소셜 경험으로 전환하는 게임 소셜 플랫폼! 🎮",
+      "share_discord_alert": "링크가 복사되었습니다! 이제 Discord에 붙여넣어 게임 친구들과 공유할 수 있습니다.",
+      "copy_success": "✓ 복사됨!",
+      "copy_fallback": "링크가 클립보드에 복사되었습니다!",
+      "form_submitting": "제출 중..."
+    },
+    "theme_feedback": {
+      "title": "앱 디자인에 도움을 주세요",
+      "description": "모바일 앱에 어떤 색 구성표를 선호하시나요? 귀하의 피드백은 완벽한 경험을 만드는 데 도움이 됩니다.",
+      "current_theme": "현재 테마:",
+      "submit": "앱 테마 선호도 제출",
+      "thanks": "앱 인터페이스 디자인에 도움을 주셔서 감사합니다!"
     }
   },
   "use_cases": {
@@ -708,162 +713,129 @@
     }
   },
   "comparison": {
-    "title": "Jynx가 돋보이는 이유",
-    "subtitle": "일반 매치메이킹 및 기타 플랫폼과의 비교",
+    "title": "게이머를 위해, 게이머가 만든",
     "table": {
       "feature": "기능",
-      "jynx": "Jynx",
-      "matchmaking": "인게임 매치메이킹",
-      "discord": "Discord 서버",
-      "reddit": "Reddit/LFG 포럼",
-      "smart_matching": "스마트 플레이어 매칭",
-      "game_integration": "게임 통합",
-      "voice_chat": "내장 음성 채팅",
-      "player_profiles": "상세한 플레이어 프로필",
-      "reputation": "평판 시스템",
-      "cross_game": "크로스 게임 지원",
-      "mobile_app": "모바일 앱",
-      "skill_based": "실력 기반 필터링",
-      "language_filter": "언어 필터",
-      "availability": "가용성 매칭",
-      "privacy_controls": "고급 개인정보 보호 제어",
-      "dedicated_support": "전담 지원"
-    },
-    "labels": {
+      "lfg": "전통적 LFG",
+      "game_session_matchmaking": "게임 세션 매칭",
+      "auto_finder": "자동 팀원 찾기",
+      "elo_matching": "실력 기반 매칭 (ELO)",
+      "community_search": "커뮤니티 검색 및 발견",
+      "chat": "실시간 채팅",
+      "tournaments": "토너먼트 조직",
+      "integration": "플레이어 프로필 통합",
+      "discovery": "틴더 스타일 플레이어 발견",
+      "gaming_focused": "게이머가 게임을 위해 제작",
+      "price": "가격",
       "yes": "예",
       "no": "아니오",
+      "manual": "수동 검색",
       "limited": "제한적",
+      "manual_posts": "수동 게시물",
       "basic": "기본",
+      "by_game_skill": "게임, 랭크, 언어별",
+      "on_computer_only": "컴퓨터에서만",
+      "servers": "서버",
+      "teams": "팀",
       "advanced": "고급",
-      "full": "완전",
-      "partial": "부분",
-      "manual": "수동"
+      "coming_soon": "출시 예정",
+      "exclusive_features": "(독점 기능)",
+      "game_apis": "게임 API",
+      "general": "일반",
+      "varies": "다양함",
+      "free_jynx_plus": "무료 / Jynx+",
+      "free_varies": "무료/다양함"
     },
     "cta": {
-      "title": "차이를 경험하세요",
-      "description": "수천 명의 게이머들이 이미 Jynx로 더 나은 팀원을 찾았습니다",
-      "button": "무료 시작"
+      "title": "차이를 경험할 준비가 되셨나요?",
+      "description": "10,000+ 게이머가 Jynx AI 매칭으로 완벽한 스쿼드를 찾았습니다",
+      "button": "AI 매칭 시작 - 영원히 무료"
     }
   },
   "reviews": {
-    "title": "게이머들이 Jynx를 좋아하는 이유",
-    "subtitle": "우리 커뮤니티에서 직접 들어보세요",
-    "items": {
-      "sarah_competitive": {
-        "text": "Jynx 덕분에 내 랭크 경험이 완전히 바뀌었습니다. 더 이상 독성 플레이어를 걱정할 필요가 없고, 내 팀원들은 항상 최선을 다합니다. 3개월 만에 플래티넘에서 다이아몬드로 올라갔습니다!",
-        "author": "Sarah K.",
-        "role": "경쟁 League of Legends 플레이어",
-        "game": "League of Legends",
-        "rank": "다이아몬드",
-        "rating": 5
-      },
-      "mike_casual": {
-        "text": "캐주얼 게이머로서 내 일정에 맞고 즐거운 시간을 보낼 수 있는 사람들을 찾는 것이 항상 어려웠습니다. Jynx는 그것을 매우 쉽게 만들었습니다. 이제 나는 매주 함께 플레이하는 일반 그룹을 가지고 있습니다.",
-        "author": "Mike T.",
-        "role": "캐주얼 게이머",
-        "game": "Valorant",
-        "rank": "골드",
-        "rating": 5
-      },
-      "alex_community": {
-        "text": "우리 게임 커뮤니티를 관리하기 위한 최고의 플랫폼입니다. 이벤트 조직 도구는 훌륭하고, 관리 기능은 모든 것을 부드럽게 실행되도록 유지하는 데 도움이 됩니다. 200명 이상의 활성 회원으로 성장했습니다!",
-        "author": "Alex M.",
-        "role": "커뮤니티 리더",
-        "game": "여러 게임",
-        "rank": "관리자",
-        "rating": 5
-      },
-      "emma_streamer": {
-        "text": "스트리머로서 Jynx는 내 청중과 소통하는 놀라운 방법입니다. 시청자 게임 기능은 환상적이며, 내 커뮤니티가 스트림 밖에서도 함께 플레이하는 것을 좋아합니다. 내 콘텐츠에 완벽합니다!",
-        "author": "Emma R.",
-        "role": "Twitch 스트리머",
-        "game": "다양함",
-        "rank": "파트너",
-        "rating": 5
-      },
-      "jason_veteran": {
-        "text": "15년 동안 게임을 해왔고, Jynx는 제가 사용한 최고의 팀원 찾기 플랫폼입니다. 매칭 알고리즘은 실제로 작동하며, 제가 만난 플레이어의 품질은 일관되게 훌륭합니다.",
-        "author": "Jason L.",
-        "role": "베테랑 게이머",
-        "game": "CS:GO",
-        "rank": "글로벌 엘리트",
-        "rating": 5
-      },
-      "nina_international": {
-        "text": "일본 출신으로 좋은 의사소통이 가능한 팀원을 찾는 것은 항상 도전이었습니다. Jynx의 언어 필터와 지역 매칭은 게임 체인저입니다. 마침내 나와 같은 언어를 사용하는 팀을 가지게 되었습니다!",
-        "author": "Nina Y.",
-        "role": "국제 플레이어",
-        "game": "Overwatch",
-        "rank": "마스터",
-        "rating": 5
-      }
+    "main_title": "리뷰",
+    "subtitle_prefix": "우리의",
+    "subtitle_highlight": "사용자들이 말하는 것",
+    "review1": {
+      "quote": "저는 League of Legends에서 다이아몬드 랭크 플레이어로 지속적인 랭크 팀을 찾고 있었습니다. Jynx의 스마트 매칭이 저와 같은 실력 수준에 있고, 같은 역할을 플레이하며, 비슷한 일정을 가진 플레이어들과 연결시켜 주었습니다. 우리는 단 2개월 만에 다이아몬드 IV에서 다이아몬드 I로 올라갔습니다!",
+      "name": "알렉스 'Frostbyte' 라미레스",
+      "role": "다이아몬드 League of Legends 플레이어"
     },
-    "stats": {
-      "title": "숫자로 보는 신뢰",
-      "active_users": "활성 사용자",
-      "matches_made": "생성된 매치",
-      "success_rate": "성공률",
-      "avg_rating": "평균 평점"
+    "review2": {
+      "quote": "저는 주말에 협동 게임을 할 수 있는 편안한 사람들을 찾고 싶었습니다. Jynx의 플레이어 파인더는 프로필을 탐색하고 제 분위기를 공유하는 게이머들과 채팅할 수 있게 해주었습니다. 이제 Valorant 언랭크 매치를 위한 정규 그룹이 생겼고 정말 재미있습니다!",
+      "name": "사라 'PixelQueen' 첸",
+      "role": "캐주얼 Valorant 플레이어"
+    },
+    "review3": {
+      "quote": "저는 인디 게임 애호가를 위한 500명 규모의 커뮤니티를 운영하고 있습니다. Jynx의 커뮤니티 기능은 이벤트를 조직하고, 토론을 조정하며, 실시간 채팅을 통해 모든 사람의 참여를 유지하는 데 도움이 됩니다. AI 매칭은 회원들이 우리 커뮤니티 내에서 즉시 팀원을 찾는 데 도움이 됩니다.",
+      "name": "마르쿠스 'IronWill' 톰슨",
+      "role": "게임 커뮤니티 리더"
+    },
+    "review4": {
+      "quote": "솔로 플레이는 더 이상 재미가 없었습니다. Jynx는 제가 좋아하는 게임을 중심으로 한 커뮤니티를 발견하는 데 도움을 주었고, 이제 매일 저녁 함께 플레이할 정규 그룹이 생겼습니다. AI가 저와 같은 게임 목표를 가진 사람들과 완벽하게 매칭시켜 주었습니다 — 캐주얼하지만 중요할 때는 경쟁적입니다.",
+      "name": "제임스 'ShadowStrike' 윌슨",
+      "role": "전 솔로 큐 플레이어"
     }
   },
   "faq": {
-    "title": "자주 묻는 질문",
-    "subtitle": "Jynx에 대해 알아야 할 모든 것",
-    "items": {
-      "what_is": {
-        "question": "Jynx란 무엇입니까?",
-        "answer": "Jynx는 게이머들이 게임 선호도, 실력 수준, 플레이 스타일, 개성을 기반으로 완벽한 팀원을 찾을 수 있도록 돕는 소셜 플랫폼입니다. 우리는 스마트 매칭 알고리즘과 커뮤니티 기능을 사용하여 혼자 플레이하는 것을 소셜 경험으로 전환합니다."
-      },
-      "how_matching": {
-        "question": "매칭 시스템은 어떻게 작동합니까?",
-        "answer": "우리의 매칭 알고리즘은 여러 요소를 고려합니다: 게임 선호도, 실력 수준/랭크, 선호 역할, 플레이 스타일(경쟁 vs 캐주얼), 언어, 가용성, 플레이어 평판. 우리는 이 데이터를 사용하여 귀하를 진정으로 호환되는 팀원과 연결합니다."
-      },
-      "supported_games": {
-        "question": "어떤 게임이 지원됩니까?",
-        "answer": "우리는 현재 League of Legends, Valorant, CS:GO, Dota 2, Overwatch, Apex Legends, Fortnite 등 인기 있는 멀티플레이어 게임을 지원합니다. 우리는 지속적으로 더 많은 게임을 추가하고 있습니다. 귀하가 선호하는 게임이 목록에 없으면 알려주세요!"
-      },
-      "cost": {
-        "question": "Jynx는 얼마입니까?",
-        "answer": "Jynx는 완전히 무료로 다운로드하고 사용할 수 있습니다. 우리의 핵심 기능(플레이어 매칭, 프로필, 기본 음성 채팅, 커뮤니티 액세스)은 항상 무료입니다. 나중에 고급 분석, 프리미엄 커뮤니티 도구, 강화된 매칭과 같은 선택적 프리미엄 기능을 제공할 수 있습니다."
-      },
-      "safety": {
-        "question": "Jynx는 안전합니까? 독성 플레이어를 어떻게 처리합니까?",
-        "answer": "안전은 우리의 최우선 과제입니다. 우리는 다층 접근 방식을 사용합니다: 커뮤니티 기반 평판 시스템, 플레이어 리포팅 및 차단 도구, AI 기반 독성 감지, 인간 관리 팀, 엔드투엔드 암호화된 개인 메시지. 반복적으로 독성을 보이는 플레이어는 일시 중단되거나 영구적으로 금지됩니다."
-      },
-      "privacy": {
-        "question": "내 데이터와 개인정보 보호는 어떻게 됩니까?",
-        "answer": "우리는 귀하의 개인정보를 매우 심각하게 생각합니다. 우리는 귀하의 데이터를 제3자에게 판매하지 않으며, 모든 개인 메시지는 암호화되며, 귀하는 귀하의 프로필 가시성을 완전히 제어할 수 있고, GDPR 및 CCPA를 준수하며, 정기적인 보안 감사를 수행합니다. 자세한 내용은 우리의 개인정보 처리방침을 읽어보세요."
-      },
-      "platforms": {
-        "question": "어떤 플랫폼이 지원됩니까?",
-        "answer": "Jynx는 모든 주요 플랫폼에서 사용 가능합니다: Windows(10 이상), macOS(11 이상), Linux(Ubuntu 20.04 이상), iOS(14 이상), Android(8 이상). 귀하의 프로필과 데이터는 모든 장치에서 동기화됩니다."
-      },
-      "skill_levels": {
-        "question": "초보자도 사용할 수 있습니까?",
-        "answer": "물론입니다! Jynx는 모든 실력 수준을 환영합니다. 경쟁 게이머로 다이아몬드 랭크를 목표로 하든, 캐주얼 플레이어로 재미를 찾든, 이제 막 게임을 배우는 초보자든 상관없이 귀하의 수준에 맞는 플레이어를 찾을 수 있습니다. 우리의 매칭 시스템은 귀하를 비슷한 경험을 가진 사람들과 연결합니다."
-      },
-      "voice_chat": {
-        "question": "음성 채팅이 필요합니까?",
-        "answer": "아니요, 음성 채팅은 완전히 선택 사항입니다. 많은 게임이 좋은 의사소통으로 이익을 얻지만, 우리는 일부 플레이어가 텍스트 채팅을 선호한다는 것을 이해합니다. 귀하의 프로필에서 귀하의 의사소통 선호도를 설정할 수 있으며, 우리는 귀하를 비슷한 선호도를 가진 플레이어와 매칭할 것입니다."
-      },
-      "community_create": {
-        "question": "내 자신의 게임 커뮤니티/클랜을 만들 수 있습니까?",
-        "answer": "예! Jynx는 강력한 커뮤니티 기능을 포함합니다. 귀하는 자신의 커뮤니티를 만들고, 회원을 관리하고, 이벤트를 조직하고, 커뮤니티 채널을 설정하고, 관리 도구를 사용하고, 커뮤니티 성장과 참여를 추적할 수 있습니다. 캐주얼 친구 그룹과 대규모 게임 조직 모두에게 완벽합니다."
-      },
-      "international": {
-        "question": "Jynx는 다국어를 지원합니까?",
-        "answer": "예! Jynx는 영어, 프랑스어, 스페인어, 포르투갈어, 독일어, 이탈리아어, 러시아어, 아랍어, 힌디어, 인도네시아어, 폴란드어, 우크라이나어, 한국어, 터키어, 벵골어, 베트남어로 제공됩니다. 귀하는 귀하의 선호 언어를 설정할 수 있으며, 우리의 매칭 시스템은 귀하와 같은 언어를 사용하는 플레이어를 우선시합니다."
-      },
-      "mobile_desktop": {
-        "question": "모바일과 데스크톱 버전 간에 차이가 있습니까?",
-        "answer": "아니요, 모든 플랫폼에서 동일한 훌륭한 경험을 얻을 수 있습니다. 귀하의 프로필, 매치, 메시지, 커뮤니티는 모든 장치에서 동기화됩니다. 유일한 차이점은 인터페이스가 각 플랫폼에 최적화되어 있다는 것입니다(예: 터치 친화적 모바일, 데스크톱 키보드 단축키)."
-      }
+    "title": "게임 매칭에 대한 자주 묻는 질문",
+    "cta_heading": "질문이 있으신가요?",
+    "cta_subtitle": "여전히 질문이 있으신가요?",
+    "cta_write_to_us": "저희에게 연락하세요",
+    "cta_button": "문의하기!",
+    "q1": {
+      "question": "게이머가 팀원을 찾을 수 있는 틴더 같은 앱이 있나요?",
+      "answer": "게임을 떠나고, 당신의 언어를 말하지 못하거나, 당신이 잠들 때 온라인 상태인 랜덤 플레이어에게 지쳤다면, Jynx는 정말 중요한 것을 필터링할 수 있게 해줍니다: 호환되는 일정, 유사한 실력 수준, 공유된 게임 선호도. 당신은 당신의 기준과 일치하는 잠재적 팀원을 탐색하고, 어색한 콜드 DM을 건너뛰고, 당신이 플레이하고 싶을 때 실제로 이용 가능한 플레이어들과만 연결합니다.<br><br>일반 LFG 포럼이나 Discord 서버와의 차이점은? 당신은 공허에 소리를 지르며 누군가 응답하기를 바라지 않습니다. 당신은 이미 당신의 가용성과 일치하고, 당신의 언어를 말하며, 당신의 게임을 플레이하는 사람들만 봅니다. 채팅에 'LFG'를 스팸하는 시간은 줄이고, 실제로 다시 팀을 구성하고 싶은 사람들과 게임하는 시간은 늘립니다."
     },
-    "cta": {
-      "title": "여전히 질문이 있으신가요?",
-      "description": "우리의 지원 팀이 도와드릴 준비가 되어 있습니다",
-      "button": "연락하기"
+    "q2": {
+      "question": "온라인에서 게이머를 만나고 게임 친구 그룹을 만드는 방법은?",
+      "answer": "게이머를 만날 때 가장 큰 문제는 사람을 찾는 것이 아니라 올바른 사람을 찾는 것입니다. 당신이 플레이할 때 이용 가능하고, 당신의 언어를 말하며, 당신의 실력 수준과 일치하는 팀원이 필요합니다.<br><br><strong>실제로 효과가 있는 것:</strong><br><strong>• 커밋하기 전에 필터링:</strong> 연결하기 전에 검증된 통계, 가용성 및 플레이 스타일로 플레이어 프로필을 탐색할 수 있는 플랫폼을 찾으세요<br><strong>• 호환성 우선순위:</strong> 시간대, 랭크 및 의사소통 스타일이 단순히 같은 게임을 플레이하는 것보다 중요합니다<br><strong>• 점진적으로 구축:</strong> 의미 있는 연결을 만들기 어려운 거대한 커뮤니티에 가입하는 것보다 2-3명의 신뢰할 수 있는 팀원을 찾는 데 집중하세요<br><br>'LFG' 메시지를 스팸하고 응답을 기다려야 하는 플랫폼을 피하세요. 당신의 시간은 소중합니다."
+    },
+    "q3": {
+      "question": "League of Legends와 Valorant의 랭크 게임을 위한 팀원을 어떻게 찾나요?",
+      "answer": "랭크 게임을 위한 좋은 팀원을 찾는 것은 수량의 문제가 아니라 호환성의 문제입니다. 의사소통하지 않고, 첫 번째 죽음 후 게임을 떠나거나, 편하지 않은 역할을 플레이하는 랜덤 플레이어와 플레이하는 것은 LP와 정신력을 소모합니다.<br><br>랭크 팀원에게서 찾아야 할 것:<br><strong>• 검증된 랭크:</strong> 그들이 실제로 당신의 ELO에 있는지 확인하세요(스머핑하거나 부스팅된 것이 아닌지)<br><strong>• 역할 호환성:</strong> 큐에 들어가기 전에 그들의 챔피언 풀과 선호 역할을 확인하세요<br><strong>• 일관된 가용성:</strong> 랭크 그라인드는 정기적인 플레이가 필요하므로 비슷한 일정을 가진 사람들을 찾으세요<br><strong>• 의사소통 스타일:</strong> 일부 플레이어는 샷콜을 선호하고, 다른 플레이어는 최소한의 채팅을 원합니다. 이것을 미리 조정하세요.<br><br>최고의 접근 방식은? Riot API를 통해 플레이어 랭크를 검증하고 역할, 일정 및 의사소통 선호도로 필터링할 수 있는 플랫폼을 사용하세요. 챔피언 선택에서 닷지하는 시간은 줄이고 랭크를 올리는 시간은 늘립니다."
+    },
+    "q4": {
+      "question": "게임 팀원을 찾기 위한 Discord의 최고 대안은 무엇인가요?",
+      "answer": "Discord는 이미 가지고 있는 팀원들과 소통하기에는 훌륭하지만 새로운 팀원을 찾기에는 끔찍합니다. 이유는 다음과 같습니다:<br><br>10,000명이 있는 서버에 'LFG'를 게시하는 것은 몇 분 안에 당신의 메시지가 묻힌다는 것을 의미합니다. 연락하기 전에 실력 수준, 가용성 또는 플레이 스타일로 필터링할 방법이 없습니다. 그리고 가장 중요한 것은 당신이 모든 일을 하고 있다는 것입니다—채널을 스팸하고, 낯선 사람에게 DM을 보내며, 누군가 응답하기를 바랍니다.<br><br>당신이 정말로 필요한 것은 채팅이 아니라 발견을 위해 설계된 플랫폼입니다:<br><strong>• 플레이어 프로필:</strong> 메시지를 보내기 전에 누군가의 랭크, 일정 및 선호 역할을 확인하세요<br><strong>• 스마트 필터링:</strong> 중요한 기준(언어, 시간대, 실력 수준)으로 검색하세요<br><strong>• 능동적 매칭:</strong> 공허에 소리를 지르는 대신 추천을 받으세요<br><br>목표는 Discord를 대체하는 것이 아니라 발견을 위해 올바른 도구를 사용한 다음 호환되는 팀원을 찾으면 음성 채팅을 위해 Discord로 이동하는 것입니다."
+    },
+    "q5": {
+      "question": "무료 게임 매칭 앱과 플랫폼이 있나요?",
+      "answer": "예, 그리고 팀원을 찾기 위해 돈을 지불할 필요가 없어야 합니다. 많은 플랫폼은 기본 기능을 포함하는 강력한 무료 티어를 제공합니다: 플레이어 발견, 프로필 탐색, 채팅 및 세션 예약.<br><br><strong>무료 티어에서 기대할 것:</strong><br>• 기본 매칭 기능(발견, 필터, 연결)<br>• 통계가 있는 플레이어 프로필<br>• 기본 메시징 및 세션 예약<br><br><strong>프리미엄 티어가 일반적으로 추가하는 것:</strong><br>• 무제한 일일 매치/스와이프<br>• 고급 필터(매우 구체적인 기준)<br>• 화장품 향상(배지, 프로필 사용자 지정)<br><br><strong>피해야 할 위험 신호:</strong><br>• 메시징이나 누가 당신과 매칭되었는지 보는 것과 같은 기본 기능에 대한 유료화<br>• 랭크 검증 또는 계정 연결에 대한 유료화 강요<br>• 무료 티어가 전혀 없음(제품에 자신감이 있다면 시도할 수 있게 해야 함)<br><br>당신의 시간은 구독료보다 더 가치가 있습니다. 커밋하기 전에 테스트할 수 있도록 관대한 무료 티어가 있는 플랫폼에 집중하세요."
     }
+  },
+  "how_it_works": {
+    "title": "스마트 게임 매칭 작동 방식",
+    "subtitle": "4가지 간단한 단계로 완벽한 게임 팀 찾기",
+    "step1": {
+      "title": "게임 프로필 생성",
+      "description": "게임 선호도에 대해 알려주세요: 좋아하는 게임, 실력 수준(ELO), 플레이 스타일(공격적, 방어적, 서포트), 선호 역할, 플레이 시간. 자동 랭크 검증을 위해 Riot Games 계정을 연결하세요.",
+      "feature1": "League of Legends 및 Valorant 계정 연결",
+      "feature2": "게임 일정 설정",
+      "feature3": "선호하는 의사소통 스타일 선택"
+    },
+    "step2": {
+      "title": "시스템이 프로필 분석",
+      "description": "스마트 매칭 알고리즘이 게임 데이터, 플레이 패턴 및 선호도를 처리하여 고유한 게이머 프로필을 만듭니다. 시스템은 상호 작용에서 학습하여 시간이 지남에 따라 매치 품질을 개선합니다.",
+      "feature1": "고급 알고리즘 기반 매칭",
+      "feature2": "호환성 점수 시스템",
+      "feature3": "행동 및 의사소통 분석"
+    },
+    "step3": {
+      "title": "팀 매치 받기",
+      "description": "프로필을 기반으로 즉각적인 팀원 추천을 받으세요. 호환되는 플레이어를 탐색하고, 통계를 확인하고, 연결 요청을 보내세요. 스마트 시스템은 플레이 스타일을 보완하는 게이머와 매칭되도록 보장합니다.",
+      "feature1": "스마트 팀원 제안",
+      "feature2": "통계가 포함된 상세한 플레이어 프로필",
+      "feature3": "원클릭 연결 요청"
+    },
+    "step4": {
+      "title": "함께 플레이하고 더 많이 승리",
+      "description": "내장된 채팅을 사용하여 조정하고, 게임 세션을 예약하고, 장기적인 우정을 쌓으세요. 좋아하는 게임을 중심으로 커뮤니티에 가입하거나 만드세요. 팀 성과를 추적하고 함께 랭크를 올리세요.",
+      "feature1": "실시간 채팅 및 알림",
+      "feature2": "게임 세션 예약",
+      "feature3": "팀 성과 추적"
+    },
+    "cta": "지금 팀원 찾기 시작 — 무료입니다"
   },
   "final_cta": {
     "title": "더 나은 게임 경험을 시작할 준비가 되셨나요?",

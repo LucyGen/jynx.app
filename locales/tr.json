@@ -1,10 +1,14 @@
 {
   "meta": {
-    "title": "Jynx | Oyun Sosyalleşiyor",
-    "description": "Jynx, oyun tercihlerine, oyun tarzlarına ve topluluk ilgi alanlarına göre oyuncuları bağlayarak solo oyunu sosyal deneyime dönüştürür.",
-    "keywords": "oyun sosyal platformu, oyuncu eşleştirme, oyun topluluğu, takım oluşturma, oyun arkadaşları, oyuncular için sosyal ağ, League of Legends eşleştirme, Valorant takım arkadaşları bulma, oyun LFG",
-    "og_title": "Jynx - Oyuncular İçin Sosyal Platform",
-    "og_description": "Oyun tercihlerinize ve oyun tarzınıza göre mükemmel takım arkadaşlarınızı bulun. Daha iyi oyun deneyimi için Jynx topluluğuna katılın."
+    "title": "Oyun Takım Arkadaşları Bul | LFG Eşleştirme Uygulaması | Jynx",
+    "description": "Jynx'in akıllı eşleştirmesi ile mükemmel oyun takım arkadaşlarınızı bulun. Yetenek, oyun tarzı ve programa göre eşleşin. 10.000+ oyuncuya katılın. Sonsuza kadar ücretsiz.",
+    "keywords": "oyun eşleştirme uygulaması, akıllı eşleştirme, oyun takım arkadaşları bul, oyun sosyal platformu, LFG alternatifi, oyun takımı bulucu, rekabetçi oyun, oyun topluluğu, espor eşleştirme, League of Legends takım arkadaşları, Valorant eşleştirme",
+    "og_title": "Jynx - Akıllı Oyun Eşleştirme Uygulaması | Oyun Sosyalleşiyor",
+    "og_description": "Akıllı eşleştirme ile mükemmel oyun takımınızı bulun. 10.000+ oyuncuya katılın. Sonsuza kadar ücretsiz.",
+    "og_image_alt": "Jynx Oyun Eşleştirme Platformu - Mükemmel Takımınızı Bulun",
+    "twitter_title": "Jynx - Akıllı Oyun Eşleştirme Uygulaması | Oyun Sosyalleşiyor",
+    "twitter_description": "Akıllı eşleştirme ile mükemmel oyun takımınızı bulun. 10.000+ oyuncuya katılın. Sonsuza kadar ücretsiz.",
+    "twitter_image_alt": "Jynx Oyun Eşleştirme Platformu"
   },
   "about": {
     "meta": {
@@ -281,78 +285,76 @@
   },
   "nav": {
     "home": "Ana Sayfa",
-    "about": "Hakkında",
-    "features": "Özellikler",
-    "download": "İndir",
-    "privacy": "Gizlilik Politikası",
-    "terms": "Hizmet Şartları",
-    "language": "Dil",
-    "menu": "Menü",
-    "close": "Kapat"
+    "solution": "Çözüm",
+    "feedback": "Geri Bildirim"
+  },
+  "header": {
+    "cta": "Jynx'i Edinin"
   },
   "hero": {
-    "title": "Oyunun <span class=\"highlight\">Sosyal Olduğu</span> Yer",
-    "subtitle": "Oyun tercihlerine, oyun tarzına ve topluluk ilgi alanlarına göre mükemmel takım arkadaşlarını bulun. Yalnız oynamayın — birlikte kazanın.",
-    "cta_primary": "Ücretsiz İndirin",
-    "cta_secondary": "Nasıl Çalıştığını Görün",
-    "available_on": "Şurada mevcut:",
-    "coming_soon": "Yakında geliyor:",
-    "platforms": {
-      "ios": "iOS",
-      "android": "Android",
-      "windows": "Windows",
-      "mac": "Mac",
-      "linux": "Linux"
-    }
+    "title": "Oyunun Sosyalleştiği Yer",
+    "subtitle": "Tarzınıza, yetenek seviyenize ve programınıza uygun takım arkadaşları bulun",
+    "description": "",
+    "pre_launch_text": "ŞİMDİ TOPLULUĞUNUZA KATILIN",
+    "app_store_small": "İndir",
+    "app_store_large": "App Store",
+    "play_store_small": "İNDİR",
+    "play_store_large": "Google Play",
+    "cta_primary": "TOPLULUĞUNUZA KATILIN",
+    "title_primary": "Akıllı Oyun Eşleştirme Platformu",
+    "tagline": "Oyunun Sosyalleştiği Yer"
   },
   "features": {
-    "title": "Oyun Deneyiminizi Dönüştüren Özellikler",
-    "subtitle": "Anlamlı bağlantılar, daha iyi eşleşmeler ve gelişen oyun toplulukları için tasarlanmış güçlü araçlar.",
-    "smart_matching": {
-      "title": "Akıllı Eşleştirme",
-      "description": "Oyun tercihlerine, yetenek seviyesine, oyun tarzına ve dile göre mükemmel takım arkadaşlarını bulun."
+    "title": "Birlikte Daha İyi Oyun",
+    "subtitle": "Modern oyuncular için tasarlanmış akıllı oyun topluluğu araçları",
+    "description": "Jynx, geleneksel LFG platformlarına iyi bir alternatiftir - oyun tercihlerine, oyun tarzlarına ve program uyumluluğuna göre takım arkadaşlarını akıllıca bağlayarak solo oyunu sosyal bir deneyime dönüştürür",
+    "cards": {
+      "scheduling": {
+        "title": "Akıllı Eşleştirme",
+        "description": "Saniyeler içinde mükemmel oyun takımınızı bulun - yetenek seviyenize, oyun tarzınıza ve programınıza uyan oyuncular"
+      },
+      "finder": {
+        "title": "Topluluk Keşfi",
+        "description": "İlgi alanlarınıza ve oyun tarzınıza mükemmel şekilde uyan oyun topluluklarını keşfedin"
+      },
+      "communication": {
+        "title": "Gerçek Zamanlı İletişim",
+        "description": "Hiçbir mesajı kaçırmayın - bağlantınız olmasa bile sohbet sorunsuz çalışır"
+      },
+      "sessions": {
+        "title": "Oyun Oturumları",
+        "description": "Oyun gecelerinizi önceden planlayın ve bir daha asla takım arkadaşı aramayla uğraşmayın"
+      }
     },
-    "game_profiles": {
-      "title": "Oyun Profilleri",
-      "description": "Birden fazla oyundaki istatistiklerinizi otomatik olarak senkronize edin ve ilerlemenizi izleyin."
-    },
-    "community": {
-      "title": "Canlı Topluluklar",
-      "description": "Oyuna özel topluluklara katılın, etkinliklere katılın ve kalıcı arkadaşlıklar kurun."
-    },
-    "voice_chat": {
-      "title": "Entegre Ses Sohbeti",
-      "description": "Yerleşik ses sohbetiyle sorunsuz bir şekilde iletişim kurun ve daha iyi ekip koordinasyonu sağlayın."
-    },
-    "privacy": {
-      "title": "Gizlilik Öncelikli",
-      "description": "Uçtan uca şifreleme ve sağlam gizlilik kontrolleriyle verileriniz güvendedir."
-    },
-    "cross_platform": {
-      "title": "Çapraz Platform",
-      "description": "Jynx'i tüm cihazlarınızda kullanın ve bağlı kalın."
-    }
+    "title_seo": "Akıllı Eşleştirme ile Birlikte Daha İyi Oyun",
+    "description_seo": "Jynx, solo oyunu sosyal bir deneyime dönüştüren akıllı bir oyun eşleştirme platformudur. Akıllı algoritmalarımız, yetenek seviyesine, oyun tarzına ve oyun tercihlerine göre oyuncuları bağlar. League of Legends takım arkadaşları, Valorant takımı veya rahat oyun arkadaşları arıyor olun, Jynx gerçekten işe yarayan LFG alternatifidir. 10.000+ oyuncuya katılın ve bir daha asla yalnız oynamayın."
   },
   "gaming_sections": {
-    "league": {
-      "title": "Mükemmel <span class=\"highlight\">League of Legends</span> Takım Arkadaşlarını Bulun",
-      "description": "Rütbe, rol ve oyun tarzına göre oyuncularla bağlantı kurun. Deneyimli bir şampiyon olun veya yeni başlıyor olun, hedeflerinizi paylaşan takım arkadaşları bulun.",
-      "features": {
-        "rank_matching": "Rütbe Eşleştirme",
-        "role_preference": "Rol Tercihi",
-        "champion_pool": "Şampiyon Havuzu Uyumluluğu",
-        "voice_ready": "Ses Hazır Ekipler"
-      }
+    "intelligent_matchmaking": {
+      "title": "Akıllı Eşleştirme",
+      "subtitle": "Saniyeler içinde mükemmel oyun takım arkadaşlarınızı bulun - artık LFG spamı yok. Yetenek seviyesine, oyun tarzına ve program uyumluluğuna göre oyuncularla eşleşin",
+      "title_seo": "Akıllı Oyun Eşleştirme",
+      "subtitle_header": "Yetenek Seviyenize ve Oyun Tarzınıza Uyan Takım Arkadaşları Bulun",
+      "subtitle_seo": "Akıllı eşleştirme algoritmalarımız, oyun profilinizi, yetenek seviyenizi (ELO), tercih ettiğiniz oyun tarzınızı ve müsaitliğinizi analiz ederek saniyeler içinde mükemmel oyun takımınızı bulur. Artık sonsuz LFG gönderilerine göz atmak veya boş lobiler de beklemek yok. Sistemimizin çalışmasına izin verin ve otomatik olarak uyumlu takım arkadaşlarıyla bağlantı kurun."
     },
-    "valorant": {
-      "title": "<span class=\"highlight\">Valorant</span> Takımınızı Oluşturun",
-      "description": "Ajan rolleri, yetenek seviyesi ve iletişim tercihine göre oyuncular bulun. Rekabetçi sıralama kazanımı veya sıradan oyunlar olsun, takımınız sizi bekliyor.",
-      "features": {
-        "agent_synergy": "Ajan Sinerjisi",
-        "competitive_ready": "Rekabetçi Hazır",
-        "strategy_focused": "Strateji Odaklı Ekipler",
-        "regional_servers": "Bölgesel Sunucu Eşleştirme"
-      }
+    "community_building": {
+      "title": "Topluluk Oluşturma",
+      "subtitle": "Kendi topluluğunuzu oluşturun ve lider olun. Kriterlerinize uyan kendi takım arkadaşlarınızı işe alın, hedeflerinizi belirleyin ve sınırlarınızı zorlayın. Topluluğunuz, kurallarınız, başarınız",
+      "title_seo": "Oyun Topluluğunuzu Oluşturun",
+      "subtitle_header": "Kendi Oyun Takımınızı Oluşturun ve Yönetin",
+      "subtitle_seo": "Kendi oyun topluluğunuzu oluşturun ve lider olun. Kriterlerinize uyan takım arkadaşları işe alın, hedeflerinizi belirleyin ve sınırlarınızı zorlayın. Bir espor takımı, rahat oyun grubu veya içerik oluşturucu topluluğu oluşturuyor olun, Jynx size takımınızı büyütmek ve yönetmek için araçlar sunar. Topluluğunuz, kurallarınız, başarınız."
+    },
+    "global_chat": {
+      "title": "Küresel Sohbet",
+      "subtitle": "Küresel sohbet aracılığıyla yüzlerce insanla gerçek zamanlı konuşmalara katılın, ELO'nuzla öne çıkın ve kişiliğinize ve enerjinize uyan takım arkadaşları bulun",
+      "title_seo": "Gerçek Zamanlı Oyun Sohbeti ve İletişim",
+      "subtitle_header": "Dünya Çapında Binlerce Oyuncuyla Bağlantı Kurun"
+    },
+    "gaming_sessions": {
+      "title": "Oyun Oturumları",
+      "subtitle": "Oyun gecelerinizi önceden planlayın ve bir daha asla takım arkadaşı aramayla uğraşmayın",
+      "title_seo": "Oyun Oturumlarını Planlayın",
+      "subtitle_header": "Takımınızla Oyun Gecelerinizi Planlayın"
     }
   },
   "problem": {
@@ -399,26 +401,10 @@
     }
   },
   "collaborative": {
-    "title": "Birlikte Daha İyi Oyun",
-    "description": "Jynx, oyun içi işbirliğini geliştiren ve her maçı daha keyifli hale getiren araçlar sağlar.",
-    "features": {
-      "team_formation": {
-        "title": "Kolay Ekip Oluşturma",
-        "description": "Hızlıca ekip oluşturun, arkadaşlarınızı veya yeni oyuncuları davet edin ve birlikte kuyruğa girin."
-      },
-      "scheduling": {
-        "title": "Seans Planlaması",
-        "description": "Oyun seanslarını planlayın, müsaitlik ayarlayın ve takım arkadaşlarınız çevrimiçi olduğunda bildirimler alın."
-      },
-      "performance": {
-        "title": "Performans İzleme",
-        "description": "Ekip istatistiklerini izleyin, ilerlemeyi takip edin ve birlikte gelişin."
-      },
-      "events": {
-        "title": "Topluluk Etkinlikleri",
-        "description": "Turnuvalara, meydan okumalara ve topluluk oyun gecelerine katılın."
-      }
-    }
+    "title": "Jynx'in Geleceğini Birlikte Şekillendirin",
+    "description": "Oyuncular tarafından, oyuncular için oluşturuldu. Misyonumuz basit: kâr değil, tutku tarafından yönlendirilen sosyal bir oyun platformu oluşturmak. Buradayız çünkü oyunu seviyoruz ve sizin girdileriniz Jynx'in geleceğini doğrudan şekillendiriyor",
+    "discord": "Discord'umuza Katılın",
+    "ideas": "Fikirlerinizi Paylaşın"
   },
   "form": {
     "title": "Jynx Beta'ya Katılın",
@@ -466,6 +452,8 @@
     "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
   },
   "feedback": {
+    "coming_soon": "Yakında",
+    "launch_date": "1 Aralık'ta mağazada",
     "title": "Geri Bildiriminizi Paylaşın",
     "subtitle": "Görüşünüz daha iyi bir Jynx oluşturmamıza yardımcı olur",
     "name": {
@@ -495,52 +483,26 @@
     "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
   },
   "footer": {
-    "tagline": "Oyuncuları bağlamak, topluluklar oluşturmak ve daha iyi oyun deneyimleri yaratmak.",
-    "product": {
-      "title": "Ürün",
-      "features": "Özellikler",
-      "download": "İndir",
-      "pricing": "Fiyatlandırma",
-      "roadmap": "Yol Haritası"
-    },
     "company": {
       "title": "Şirket",
-      "about": "Hakkında",
-      "blog": "Blog",
-      "careers": "Kariyer",
-      "contact": "İletişim"
-    },
-    "resources": {
-      "title": "Kaynaklar",
-      "help": "Yardım Merkezi",
-      "community": "Topluluk",
-      "guides": "Kılavuzlar",
-      "api": "API"
+      "about": "Hakkımızda",
+      "about_seo": "Jynx Oyun Platformu Hakkında"
     },
     "legal": {
       "title": "Yasal",
       "privacy": "Gizlilik Politikası",
       "terms": "Hizmet Şartları",
-      "cookies": "Çerezler",
-      "licenses": "Lisanslar"
+      "cookies": "Çerez Politikası",
+      "privacy_seo": "Gizlilik Politikası",
+      "terms_seo": "Hizmet Şartları"
     },
-    "social": {
-      "title": "Sosyal",
-      "discord": "Discord",
-      "twitter": "Twitter",
-      "instagram": "Instagram",
-      "youtube": "YouTube"
-    },
-    "newsletter": {
-      "title": "Bültene Abone Olun",
-      "placeholder": "E-postanızı girin",
-      "button": "Abone Ol",
-      "success": "Abone olduğunuz için teşekkürler!",
-      "error": "Abone olma başarısız. Lütfen tekrar deneyin."
+    "download": {
+      "title": "İndir",
+      "app_store": "App Store",
+      "google_play": "Google Play"
     },
     "copyright": "© 2024 Jynx. Tüm hakları saklıdır.",
-    "made_with": "❤️ ile yapıldı",
-    "in": "Nantes, Fransa'da"
+    "language": "Dil"
   },
   "errors": {
     "required": "Bu alan gereklidir",
@@ -562,6 +524,20 @@
     "scroll_to_top": "Yukarı kaydır",
     "play_video": "Videoyu oynat",
     "pause_video": "Videoyu duraklat"
+  },
+  "breadcrumb": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "download": "İndir",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları"
+  },
+  "theme-feedback": {
+    "submit": "Geri Bildirim Gönder",
+    "title": "Hangi renkleri seversiniz?",
+    "description": "Uygulamak için bir tema kutusuna tıklayın. Favori temalarınızı göndermek için \"Beğen\" kutularını işaretleyin.",
+    "thanks": "Tema geri bildiriminiz için teşekkürler!",
+    "current_theme": "Mevcut tema:"
   },
   "theme_feedback": {
     "title": "Tema Geri Bildirimi",
@@ -727,7 +703,13 @@
       "language_filter": "Dil Filtresi",
       "availability": "Müsaitlik Eşleştirme",
       "privacy_controls": "Gelişmiş Gizlilik Kontrolleri",
-      "dedicated_support": "Özel Destek"
+      "dedicated_support": "Özel Destek",
+      "game_session_matchmaking": "Oyun Seansı Eşleştirme",
+      "coming_soon": "Yakında",
+      "exclusive_features": "(Özel Özellikler)",
+      "community_search": "Topluluk Arama ve Keşif",
+      "by_game_skill": "Oyun, Rütbe ve Dile Göre",
+      "on_computer_only": "Sadece bilgisayarda"
     },
     "labels": {
       "yes": "Evet",
@@ -746,124 +728,89 @@
     }
   },
   "reviews": {
-    "title": "Oyuncular Jynx'i Neden Seviyor",
-    "subtitle": "Topluluğumuzdan doğrudan dinleyin",
-    "items": {
-      "sarah_competitive": {
-        "text": "Jynx sayesinde sıralama deneyimim tamamen değişti. Artık toksik oyuncular konusunda endişelenmeme gerek yok ve takım arkadaşlarım her zaman ellerinden gelenin en iyisini yapıyor. 3 ayda Platin'den Elmas'a çıktım!",
-        "author": "Sarah K.",
-        "role": "Rekabetçi League of Legends Oyuncusu",
-        "game": "League of Legends",
-        "rank": "Elmas",
-        "rating": 5
-      },
-      "mike_casual": {
-        "text": "Sıradan bir oyuncu olarak, programıma uyan ve iyi vakit geçirebileceğim insanları bulmak her zaman zordu. Jynx bunu çok kolaylaştırdı. Şimdi her hafta birlikte oynadığım düzenli bir grubum var.",
-        "author": "Mike T.",
-        "role": "Sıradan Oyuncu",
-        "game": "Valorant",
-        "rank": "Altın",
-        "rating": 5
-      },
-      "alex_community": {
-        "text": "Oyun topluluğumuzu yönetmek için en iyi platform. Etkinlik organizasyon araçları harika ve moderasyon özellikleri her şeyin sorunsuz çalışmasını sağlamaya yardımcı oluyor. 200'den fazla aktif üyeye ulaştık!",
-        "author": "Alex M.",
-        "role": "Topluluk Lideri",
-        "game": "Birden Fazla Oyun",
-        "rank": "Yönetici",
-        "rating": 5
-      },
-      "emma_streamer": {
-        "text": "Bir yayıncı olarak, Jynx izleyicilerimle etkileşim kurmanın harika bir yolu. İzleyici oyunları özelliği harika ve topluluğum yayın dışında birlikte oynamayı seviyor. İçeriğim için mükemmel!",
-        "author": "Emma R.",
-        "role": "Twitch Yayıncısı",
-        "game": "Çeşitli",
-        "rank": "Ortak",
-        "rating": 5
-      },
-      "jason_veteran": {
-        "text": "15 yıldır oyun oynuyorum ve Jynx kullandığım en iyi takım arkadaşı bulma platformu. Eşleştirme algoritması gerçekten çalışıyor ve tanıştığım oyuncuların kalitesi sürekli olarak harika.",
-        "author": "Jason L.",
-        "role": "Kıdemli Oyuncu",
-        "game": "CS:GO",
-        "rank": "Global Elite",
-        "rating": 5
-      },
-      "nina_international": {
-        "text": "Japonya'dan olarak, iyi iletişim kurabileceğim takım arkadaşları bulmak her zaman zordu. Jynx'in dil filtresi ve bölgesel eşleştirme oyun değiştirici. Sonunda benimle aynı dili konuşan bir ekibim var!",
-        "author": "Nina Y.",
-        "role": "Uluslararası Oyuncu",
-        "game": "Overwatch",
-        "rank": "Master",
-        "rating": 5
-      }
+    "main_title": "İNCELEMELER",
+    "subtitle_prefix": "KULLANICILARIMIZ",
+    "subtitle_highlight": "NE DİYOR",
+    "review1": {
+      "quote": "League of Legends'da Diamond seviyesinde bir oyuncuyum ve sürekli sıralı oyun takımı arıyordum. Jynx'in akıllı eşleştirmesi beni aynı yetenek seviyesinde, aynı rolleri oynayan ve benzer programı olan oyuncularla buluşturdu. Sadece 2 ayda Diamond IV'ten Diamond I'e çıktık!",
+      "name": "Alex 'Frostbyte' Ramirez",
+      "role": "League of Legends Diamond Oyuncusu"
     },
-    "stats": {
-      "title": "Sayılarla Güven",
-      "active_users": "Aktif Kullanıcılar",
-      "matches_made": "Yapılan Eşleşmeler",
-      "success_rate": "Başarı Oranı",
-      "avg_rating": "Ortalama Puan"
+    "review2": {
+      "quote": "Hafta sonları rahat co-op oyunlar için sakin insanlar bulmak istiyordum. Jynx'in oyuncu bulucu özelliği profilleri incelememe ve benimle aynı havayı paylaşan oyuncularla bağlantı kurmama olanak tanıdı. Artık Valorant sıralamasız maçları için sürekli bir grubum var ve çok eğlenceli!",
+      "name": "Sarah 'PixelQueen' Chen",
+      "role": "Rahat Valorant Oyuncusu"
+    },
+    "review3": {
+      "quote": "Indie oyun meraklıları için 500 kişilik bir topluluğu yönetiyorum. Jynx'in topluluk özellikleri etkinlikler düzenlememe, tartışmaları denetlememe ve gerçek zamanlı sohbetle herkesin bağlı kalmasını sağlamama yardımcı oluyor. AI eşleştirme, üyelerin topluluğumuz içinde anında takım arkadaşları bulmasına yardımcı oluyor.",
+      "name": "Marcus 'IronWill' Thompson",
+      "role": "Oyun Topluluğu Lideri"
+    },
+    "review4": {
+      "quote": "Solo oynamak artık eğlenceli değildi. Jynx en sevdiğim oyunlar etrafındaki toplulukları keşfetmeme yardımcı oldu ve şimdi her akşam oynayabileceğim düzenli bir grubum var. AI beni aynı oyun hedeflerine sahip insanlarla mükemmel şekilde eşleştirdi — rahat ama önemli olduğunda rekabetçi.",
+      "name": "James 'ShadowStrike' Wilson",
+      "role": "Eski Solo Sıra Oyuncusu"
     }
   },
   "faq": {
-    "title": "Sık Sorulan Sorular",
-    "subtitle": "Jynx hakkında bilmeniz gereken her şey",
-    "items": {
-      "what_is": {
-        "question": "Jynx nedir?",
-        "answer": "Jynx, oyuncuların oyun tercihlerine, yetenek seviyesine, oyun tarzına ve kişiliğe göre mükemmel takım arkadaşlarını bulmalarına yardımcı olan bir sosyal platformdur. Solo oyunu sosyal deneyime dönüştürmek için akıllı eşleştirme algoritmaları ve topluluk özellikleri kullanırız."
-      },
-      "how_matching": {
-        "question": "Eşleştirme sistemi nasıl çalışır?",
-        "answer": "Eşleştirme algoritmamız birden fazla faktörü dikkate alır: oyun tercihleri, yetenek seviyesi/rütbe, tercih edilen roller, oyun tarzı (rekabetçi vs sıradan), dil, müsaitlik, oyuncu itibarı. Gerçekten uyumlu takım arkadaşlarıyla bağlantı kurmak için bu verileri kullanırız."
-      },
-      "supported_games": {
-        "question": "Hangi oyunlar destekleniyor?",
-        "answer": "Şu anda League of Legends, Valorant, CS:GO, Dota 2, Overwatch, Apex Legends, Fortnite gibi popüler çok oyunculu oyunları destekliyoruz. Sürekli olarak daha fazla oyun ekliyoruz. Tercih ettiğiniz oyun listede yoksa, bize bildirin!"
-      },
-      "cost": {
-        "question": "Jynx'in maliyeti nedir?",
-        "answer": "Jynx indirmek ve kullanmak tamamen ücretsizdir. Temel özelliklerimiz (oyuncu eşleştirme, profiller, temel ses sohbeti, topluluk erişimi) her zaman ücretsiz kalacaktır. Gelişmiş analitik, premium topluluk araçları, geliştirilmiş eşleştirme gibi isteğe bağlı premium özellikler daha sonra sunabiliriz."
-      },
-      "safety": {
-        "question": "Jynx güvenli mi? Toksik oyuncularla nasıl başa çıkıyorsunuz?",
-        "answer": "Güvenlik en önceliğimizdir. Çok katmanlı bir yaklaşım kullanırız: topluluk tabanlı itibar sistemi, oyuncu raporlama ve engelleme araçları, yapay zeka destekli toksisite tespiti, insan moderasyon ekibi, uçtan uca şifrelenmiş özel mesajlar. Sürekli toksisite gösteren oyuncular askıya alınır veya kalıcı olarak yasaklanır."
-      },
-      "privacy": {
-        "question": "Verilerim ve gizliliğim ne olacak?",
-        "answer": "Gizliliğinizi çok ciddiye alıyoruz. Verilerinizi üçüncü taraflara satmıyoruz, tüm özel mesajlar şifrelenir, profil görünürlüğünüz üzerinde tam kontrole sahipsiniz, GDPR ve CCPA ile uyumluyuz, düzenli güvenlik denetimleri yapıyoruz. Daha fazla bilgi için Gizlilik Politikamızı okuyun."
-      },
-      "platforms": {
-        "question": "Hangi platformlar destekleniyor?",
-        "answer": "Jynx tüm büyük platformlarda mevcuttur: Windows (10 veya üstü), macOS (11 veya üstü), Linux (Ubuntu 20.04 veya üstü), iOS (14 veya üstü), Android (8 veya üstü). Profiliniz ve verileriniz tüm cihazlarınızda senkronize olur."
-      },
-      "skill_levels": {
-        "question": "Acemiler de kullanabilir mi?",
-        "answer": "Kesinlikle! Jynx tüm yetenek seviyelerini karşılar. Elmas rütbeyi hedefleyen rekabetçi bir oyuncu, eğlence arayan sıradan bir oyuncu veya oyunu yeni öğrenen bir acemi olun, seviyenize uygun oyuncular bulabilirsiniz. Eşleştirme sistemimiz sizi benzer deneyime sahip kişilerle bağlar."
-      },
-      "voice_chat": {
-        "question": "Ses sohbeti gerekli mi?",
-        "answer": "Hayır, ses sohbeti tamamen isteğe bağlıdır. Birçok oyun iyi iletişimden faydalansa da, bazı oyuncuların metin sohbeti tercih ettiğini anlıyoruz. Profilinizde iletişim tercihlerinizi ayarlayabilirsiniz ve sizi benzer tercihlere sahip oyuncularla eşleştireceğiz."
-      },
-      "community_create": {
-        "question": "Kendi oyun topluluğumu/klanımı oluşturabilir miyim?",
-        "answer": "Evet! Jynx güçlü topluluk özellikleri içerir. Kendi topluluğunuzu oluşturabilir, üyeleri yönetebilir, etkinlikler düzenleyebilir, topluluk kanalları kurabilir, moderasyon araçlarını kullanabilir, topluluk büyümesini ve katılımını izleyebilirsiniz. Hem sıradan arkadaş grupları hem de büyük oyun organizasyonları için mükemmeldir."
-      },
-      "international": {
-        "question": "Jynx çok dilli mi?",
-        "answer": "Evet! Jynx İngilizce, Fransızca, İspanyolca, Portekizce, Almanca, İtalyanca, Rusça, Arapça, Hintçe, Endonezyaca, Lehçe, Ukraynaca, Korece, Türkçe, Bengalce, Vietnamca dillerinde mevcuttur. Tercih ettiğiniz dili ayarlayabilirsiniz ve eşleştirme sistemimiz sizinle aynı dili konuşan oyuncuları önceliklendirecektir."
-      },
-      "mobile_desktop": {
-        "question": "Mobil ve masaüstü sürümleri arasında fark var mı?",
-        "answer": "Hayır, tüm platformlarda aynı harika deneyimi elde edersiniz. Profiliniz, eşleşmeleriniz, mesajlarınız, topluluklarınız tüm cihazlarınızda senkronize olur. Tek fark, arayüzün her platform için optimize edilmesidir (örneğin dokunma dostu mobil, masaüstü klavye kısayolları)."
-      }
+    "title": "Oyun Eşleştirme Hakkında Sık Sorulan Sorular",
+    "cta_heading": "SORULARINIZ MI VAR?",
+    "cta_subtitle": "Başka sorularınız mı var?",
+    "cta_write_to_us": "Bize yazın",
+    "cta_button": "Bizimle iletişime geçin!",
+    "q1": {
+      "question": "Oyuncuların takım arkadaşı bulması için Tinder benzeri bir uygulama var mı?",
+      "answer": "Öfkelenerek oyundan çıkan, dilinizde iletişim kuramayan veya siz uyurken çevrimiçi olan rastgele oyunculardan bıktıysanız, Jynx gerçekten önemli olana göre filtreleme yapmanızı sağlar: uyumlu programlar, benzer yetenek seviyeleri ve ortak oyun tercihleri. Kriterlerinizi karşılayan potansiyel takım arkadaşlarını gözden geçirir, garip soğuk mesajlaşmayı atlarsınız ve yalnızca oynamak istediğinizde gerçekten müsait olan oyuncularla bağlantı kurarsınız.<br><br>Normal LFG forumları veya Discord sunucularından fark nedir? Birinin yanıt vermesini umarak boşluğa bağırmıyorsunuz, yalnızca müsaitliğinize, dilinize ve oyunlarınıza zaten uyan kişileri görüyorsunuz. Sohbette 'LFG' spam yapmak için daha az zaman, gerçekten tekrar takım kurmak isteyeceğiniz kişilerle oyun içinde daha fazla zaman."
     },
-    "cta": {
-      "title": "Hala sorularınız mı var?",
-      "description": "Destek ekibimiz yardıma hazır",
-      "button": "İletişime Geçin"
+    "q2": {
+      "question": "Çevrimiçi oyuncularla nasıl tanışılır ve oyun arkadaş grubu nasıl oluşturulur?",
+      "answer": "Oyuncularla tanışmadaki en büyük zorluk insan bulmak değil, DOĞRU insanları bulmaktır. Oynadığınızda müsait olan, dilinizde iletişim kuran ve yetenek seviyenize uyan takım arkadaşlarına ihtiyacınız var.<br><br><strong>İşe yarayan şey:</strong><br><strong>• Taahhütte bulunmadan önce filtreleyin:</strong> Bağlanmadan önce doğrulanmış istatistikler, müsaitlik ve oyun tarzı ile oyuncu profillerine göz atabileceğiniz platformlar arayın<br><strong>• Uyumluluğu önceliklendirin:</strong> Saat dilimi, sıralama ve iletişim tarzı sadece aynı oyunu oynamaktan daha önemlidir<br><strong>• Kademeli olarak oluşturun:</strong> Anlamlı bağlantıların kurulmasının daha zor olduğu büyük topluluklara katılmak yerine 2-3 sağlam takım arkadaşı bulmaya odaklanın<br><br>'LFG' mesajları spam yapmaya ve yanıt beklemeye zorlayan platformlardan kaçının, zamanınız değerlidir."
+    },
+    "q3": {
+      "question": "League of Legends ve Valorant'ta sıralı oyunlar için takım arkadaşları nasıl bulunur?",
+      "answer": "İyi sıralı takım arkadaşları bulmak miktar değil, uyumlulukla ilgilidir. İletişim kurmayan, ilk kanından sonra öfkelenerek çıkan veya rahat olmadıkları rolleri oynayan rastgele oyuncularla oynamak LP ve akıl sağlığınıza mal olur.<br><br>Sıralı takım arkadaşlarında aranacaklar:<br><strong>• Doğrulanmış sıralama:</strong> Gerçekten ELO'nuzda olduklarından emin olun (smurf veya boost değil)<br><strong>• Rol uyumluluğu:</strong> Kuyruğa girmeden önce şampiyon havuzlarını ve tercih ettikleri rolleri kontrol edin<br><strong>• Tutarlı müsaitlik:</strong> Sıralı tırmanma düzenli oyun gerektirir, benzer programlara sahip kişiler bulun<br><strong>• İletişim tarzı:</strong> Bazı oyuncular komuta vermeyi tercih eder, diğerleri minimum sohbet ister. Bunu önceden eşleştirin.<br><br>En iyi yaklaşım? Riot API'si aracılığıyla oyuncu sıralamalarını doğrulayan ve rol, program ve iletişim tercihlerine göre filtrelemenize izin veren platformları kullanın. Şampiyon seçiminde kaçınmak için daha az zaman, tırmanmak için daha fazla zaman harcarsınız."
+    },
+    "q4": {
+      "question": "Oyun takım arkadaşları bulmak için Discord'a en iyi alternatifler nelerdir?",
+      "answer": "Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır, ancak yenilerini bulmak için korkunçtur. İşte nedeni:<br><br>10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın bir yolu yoktur. Ve en önemlisi, tüm işi siz yapıyorsunuz, kanalları spam yapıyor, yabancılara DM atıyor, birinin yanıt vermesini umuyorsunuz.<br><br>Gerçekten ihtiyacınız olan şey, iletişim için değil, keşif için tasarlanmış bir platformdur:<br><strong>• Oyuncu profilleri:</strong> Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün<br><strong>• Akıllı filtreleme:</strong> Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi)<br><strong>• Aktif eşleştirme:</strong> Boşluğa bağırmak yerine öneriler alın<br><br>Amaç Discord'u değiştirmek değil, keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir."
+    },
+    "q5": {
+      "question": "Ücretsiz oyun eşleştirme uygulamaları ve platformları var mı?",
+      "answer": "Evet ve sadece takım arkadaşı bulmak için ödeme yapmanız gerekmemeli. Birçok platform temelleri içeren sağlam ücretsiz katmanlar sunar: oyuncu keşfi, profil tarama, sohbet ve seans planlaması.<br><br><strong>Ücretsiz katmanlardan beklenecekler:</strong><br>• Temel eşleştirme özellikleri (arama, filtreleme, bağlanma)<br>• İstatistiklerle oyuncu profilleri<br>• Temel mesajlaşma ve seans planlaması<br><br><strong>Premium katmanlar genellikle şunları ekler:</strong><br>• Sınırsız günlük eşleşme/kaydırma<br>• Gelişmiş filtreler (çok spesifik kriterler)<br>• Kozmetik yükseltmeler (rozetler, profil özelleştirme)<br><br><strong>Kaçınılması gereken kırmızı bayraklar:</strong><br>• Mesajlaşma veya kiminle eşleştiğinizi görme gibi temel özellikleri ücretli hale getirmek<br>• Sıralamanızı doğrulamak veya hesapları bağlamak için ödeme yapmaya zorlamak<br>• Hiç ücretsiz katman yok (ürüne güveniyorlarsa, denemenize izin vermeliler)<br><br>Zamanınız abonelik ücretlerinden daha değerlidir, taahhütte bulunmadan önce test edebilmeniz için cömert ücretsiz katmanlara sahip platformlara odaklanın."
     }
+  },
+  "how_it_works": {
+    "title": "Akıllı Oyun Eşleştirme Nasıl Çalışır",
+    "subtitle": "4 basit adımda mükemmel oyun takımınızı bulun",
+    "step1": {
+      "title": "Oyun Profilinizi Oluşturun",
+      "description": "Bize oyun tercihlerinizi anlatın: favori oyunlarınız, yetenek seviyeniz (ELO), oyun tarzınız (agresif, defansif, destek), tercih ettiğiniz roller ve ne zaman oynadığınız. Otomatik sıralama doğrulaması için Riot Games hesabınızı bağlayın.",
+      "feature1": "League of Legends ve Valorant hesaplarını bağlayın",
+      "feature2": "Oyun programınızı ayarlayın",
+      "feature3": "Tercih ettiğiniz iletişim tarzını seçin"
+    },
+    "step2": {
+      "title": "Sistemimiz Profilinizi Analiz Eder",
+      "description": "Akıllı eşleştirme algoritmalarımız benzersiz oyuncu profilinizi oluşturmak için oyun verilerinizi, oyun modellerinizi ve tercihlerinizi işler. Sistem, eşleşme kalitesini zaman içinde iyileştirmek için etkileşimlerinizden öğrenir.",
+      "feature1": "Gelişmiş algoritma tabanlı eşleştirme",
+      "feature2": "Uyumluluk puanlama sistemi",
+      "feature3": "Davranış ve iletişim analizi"
+    },
+    "step3": {
+      "title": "Takım Eşleştirmelerinizi Alın",
+      "description": "Profilinize göre anında takım arkadaşı önerileri alın. Uyumlu oyuncuları inceleyin, istatistiklerini kontrol edin ve bağlantı istekleri gönderin. Akıllı sistemimiz sizi oyun tarzınızı tamamlayan oyuncularla eşleştirmenizi garanti eder.",
+      "feature1": "Akıllı takım arkadaşı önerileri",
+      "feature2": "İstatistiklerle detaylı oyuncu profilleri",
+      "feature3": "Tek tıkla bağlantı istekleri"
+    },
+    "step4": {
+      "title": "Birlikte Oynayın ve Daha Fazla Kazanın",
+      "description": "Koordinasyon için yerleşik sohbeti kullanın, oyun seansları planlayın ve uzun vadeli arkadaşlıklar kurun. Favori oyunlarınız etrafındaki topluluklara katılın veya kendi topluluğunuzu oluşturun. Takımınızın performansını takip edin ve birlikte sıralamayı tırmanın.",
+      "feature1": "Gerçek zamanlı sohbet ve bildirimler",
+      "feature2": "Oyun seansı planlaması",
+      "feature3": "Takım performansı takibi"
+    },
+    "cta": "Şimdi takım arkadaşları bulmaya başlayın — ücretsiz"
   },
   "final_cta": {
     "title": "Daha İyi Oyun Deneyimine Başlamaya Hazır mısınız?",
