@@ -984,10 +984,10 @@
     "subtitle": "Find teammates that match your style, skill level, and schedule",
     "description": "",
     "pre_launch_text": "JOIN YOUR COMMUNITY NOW",
-    "app_store_small": "Download on the",
-    "app_store_large": "App Store",
-    "play_store_small": "GET IT ON",
-    "play_store_large": "Google Play",
+    "app_store_small": "Download For",
+    "app_store_large": "Apple iOS",
+    "play_store_small": "Download For",
+    "play_store_large": "Android",
     "cta_primary": "JOIN YOUR COMMUNITY",
     "title_primary": "Smart Gaming Matchmaking Platform",
     "tagline": "Where Gaming Gets Social"
@@ -1241,12 +1241,12 @@
     },
     "store": {
       "app_store": {
-        "text_small": "Download on the",
-        "text_large": "App Store"
+        "text_small": "Download For",
+        "text_large": "Apple iOS"
       },
       "google_play": {
-        "text_small": "Get it on",
-        "text_large": "Google Play"
+        "text_small": "Download For",
+        "text_large": "Android"
       },
       "coming_soon": "Coming Soon"
     },

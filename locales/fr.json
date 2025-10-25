@@ -1087,7 +1087,8 @@
       "invalid_email": "Veuillez entrer une adresse email valide.",
       "empty_field": "Ce champ ne peut pas être vide.",
       "default": "Une erreur inattendue s'est produite. Veuillez réessayer."
-    }
+    },
+    "nojs_note": "Cela ouvrira votre client email. Pour une meilleure expérience, veuillez activer JavaScript."
   },
   "feedback": {
     "coming_soon": "Bientôt disponible",
@@ -1327,7 +1328,8 @@
       "quote": "Jouer seul n'était plus fun. Jynx m'a aidé à découvrir des communautés autour de mes jeux favoris et maintenant j'ai un groupe régulier pour jouer chaque soir. L'IA m'a parfaitement matché avec des personnes qui ont les mêmes objectifs gaming - casual mais compétitif quand ça compte.",
       "name": "James 'ShadowStrike' Wilson",
       "role": "Ancien Joueur Solo Queue"
-    }
+    },
+    "nojs_note": "Activez JavaScript pour parcourir tous les avis"
   },
   "comparison": {
     "title": "Fait pour les gamers, par les gamers",
@@ -1368,5 +1370,8 @@
       "description": "Rejoignez plus de 10 000 joueurs qui ont trouvé leurs équipes parfaites avec le matchmaking IA Jynx",
       "button": "Commencer le Matching avec l'IA - Gratuit pour Toujours"
     }
+  },
+  "global": {
+    "nojs_banner": "JavaScript est désactivé. Certaines fonctionnalités interactives pourraient ne pas fonctionner de manière optimale."
   }
 }

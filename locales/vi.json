@@ -100,9 +100,296 @@
     "last_updated": "Cập nhật lần cuối: Tháng 10 năm 2025",
     "version": "Phiên bản: 1.0",
     "intro": {
-      "title": "Giới Thiệu",
-      "p1": "Tại Jynx (\"chúng tôi,\" \"của chúng tôi,\" hoặc \"nền tảng\"), chúng tôi coi trọng quyền riêng tư của bạn. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng nền tảng ghép đôi game của chúng tôi.",
-      "p2": "Bằng cách sử dụng dịch vụ của chúng tôi, bạn đồng ý với các thực hành được mô tả trong chính sách này. Vui lòng đọc kỹ tài liệu này."
+      "title": "1. Giới Thiệu",
+      "p1": "Jynx (\"chúng tôi\", \"của chúng tôi\", \"ứng dụng\") là nền tảng game xã hội cho phép người chơi kết nối, thành lập đội và chơi cùng nhau.",
+      "legal_info": "Thông Tin Pháp Lý:",
+      "entity_label": "Pháp Nhân:",
+      "entity": "Jynx Group",
+      "dpo_label": "Liên Hệ Nhân Viên Bảo Vệ Quyền Riêng Tư:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Quyền Tài Phán:",
+      "jurisdiction": "Pháp, Liên Minh Châu Âu (Tuân thủ GDPR)",
+      "p2": "Chính sách bảo mật này mô tả cách chúng tôi thu thập, sử dụng, chia sẻ và bảo vệ dữ liệu cá nhân của bạn khi bạn sử dụng ứng dụng của chúng tôi."
+    },
+    "age_verification": {
+      "title": "2. Độ Tuổi Tối Thiểu và Xác Minh",
+      "p1": "Ứng dụng của chúng tôi dành cho người dùng từ 18 tuổi trở lên.",
+      "p2": "Khi tạo tài khoản, chúng tôi yêu cầu bạn cung cấp ngày sinh. Nếu bạn dưới 18 tuổi, bạn sẽ không thể tạo tài khoản hoặc sử dụng dịch vụ của chúng tôi."
+    },
+    "data_collected": {
+      "title": "3. Dữ Liệu Thu Thập",
+      "registration": {
+        "title": "3.1. Dữ Liệu Đăng Ký và Hồ Sơ",
+        "intro": "Chúng tôi thu thập thông tin sau khi tạo và quản lý tài khoản của bạn:"
+      },
+      "auth": {
+        "title": "Thông Tin Xác Thực:",
+        "email": "Email (cho tài khoản email/mật khẩu)",
+        "username": "Tên người dùng/biệt danh",
+        "photo": "Ảnh hồ sơ (tùy chọn)",
+        "social": "Định danh đăng nhập xã hội (Google, Apple) nếu bạn sử dụng các phương pháp này"
+      },
+      "profile": {
+        "title": "Thông Tin Hồ Sơ:",
+        "birthdate": "Ngày sinh (để xác minh độ tuổi)",
+        "location": "Quốc gia và múi giờ",
+        "languages": "Ngôn ngữ nói",
+        "bio": "Tiểu sử (tùy chọn)",
+        "preferences": "Sở thích game và khả năng sẵn có",
+        "handle": "Handle độc nhất (được tạo tự động để khám phá bạn bè riêng tư)"
+      },
+      "gaming": {
+        "title": "3.2. Dữ Liệu Game",
+        "intro": "Để giúp bạn tìm đồng đội tương thích, chúng tôi thu thập:"
+      },
+      "game_profiles": {
+        "title": "Hồ Sơ Game:",
+        "games": "Game bạn chơi",
+        "ranks": "Cấp độ, rank và thống kê game",
+        "champions": "Tướng/nhân vật yêu thích",
+        "playstyle": "Phong cách chơi"
+      },
+      "riot": {
+        "title": "Tích Hợp Riot Games API:",
+        "intro": "Chúng tôi lấy từ Riot Games API (với sự đồng ý của bạn):",
+        "summoner": "Tên Summoner và Riot ID",
+        "rank": "Rank và lịch sử trận đấu (League of Legends, Valorant, v.v.)",
+        "stats": "Thống kê tướng",
+        "matches": "Lịch sử trận đấu gần đây",
+        "reason_label": "Lý Do Thu Thập:",
+        "reason": "Hiển thị hồ sơ người chơi của bạn và cải thiện việc ghép cặp với người chơi khác."
+      },
+      "technical": {
+        "title": "3.3. Dữ Liệu Sử Dụng và Kỹ Thuật",
+        "intro": "Chúng tôi tự động thu thập một số dữ liệu kỹ thuật:"
+      },
+      "analytics": {
+        "title": "Phân Tích và Hiệu Suất:",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "Thời gian khởi động ứng dụng, độ mượt giao diện",
+        "sentry_label": "Sentry:",
+        "sentry": "Báo cáo lỗi và hiệu suất (với ẩn danh hóa dữ liệu cá nhân)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Báo cáo sự cố",
+        "disable": "Bạn có thể tắt thu thập dữ liệu phân tích trong Cài đặt > Quyền riêng tư > \"Bật Phân tích\"."
+      },
+      "device": {
+        "title": "Thông Tin Thiết Bị:",
+        "type": "Loại và model thiết bị",
+        "os": "Phiên bản hệ điều hành",
+        "app_version": "Phiên bản ứng dụng"
+      },
+      "behavior": {
+        "title": "Hành Vi Người Dùng:",
+        "screens": "Màn hình đã truy cập và tính năng đã sử dụng",
+        "time": "Thời gian dành trong ứng dụng",
+        "interactions": "Tương tác giao diện"
+      },
+      "communication": {
+        "title": "3.4. Dữ Liệu Giao Tiếp",
+        "messages_label": "Tin Nhắn:",
+        "messages": "Tin nhắn trong trò chuyện cộng đồng, tin nhắn riêng giữa người dùng, lịch sử trò chuyện",
+        "notifications_label": "Thông Báo:",
+        "notifications": "Token FCM (Firebase Cloud Messaging) cho thông báo đẩy"
+      },
+      "user_content": {
+        "title": "3.5. Nội Dung Do Người Dùng Tạo",
+        "photos": "Ảnh đã tải lên (ảnh hồ sơ, ảnh bổ sung)",
+        "reports": "Báo cáo bảo mật và kiểm duyệt",
+        "cosmetics": "Sở thích thẩm mỹ (avatar, huy hiệu)"
+      }
+    },
+    "third_party": {
+      "title": "4. Dịch Vụ Bên Thứ Ba và Chia Sẻ Dữ Liệu",
+      "firebase": {
+        "title": "4.1. Dịch Vụ Firebase (Google)",
+        "intro": "Chúng tôi sử dụng các dịch vụ Firebase sau, tất cả tuân thủ GDPR:",
+        "auth_label": "Firebase Authentication:",
+        "auth": "Quản lý tài khoản người dùng an toàn",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Lưu trữ hồ sơ và dữ liệu game của bạn",
+        "storage_label": "Firebase Storage:",
+        "storage": "Lưu trữ ảnh hồ sơ của bạn",
+        "functions_label": "Cloud Functions:",
+        "functions": "Thực thi logic backend an toàn",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Thông báo đẩy",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Bảo vệ chống lạm dụng và bot",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "Giám sát hiệu suất ứng dụng",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Báo cáo sự cố",
+        "policy_label": "Chính Sách Bảo Mật Firebase:",
+        "policy": "https://firebase.google.com/support/privacy"
+      },
+      "sentry": {
+        "title": "4.2. Sentry (Giám Sát Lỗi)",
+        "intro": "Chúng tôi sử dụng Sentry để theo dõi lỗi và hiệu suất. Dữ liệu thu thập bao gồm:",
+        "traces": "Dấu vết lỗi",
+        "context": "Bối cảnh kỹ thuật (HĐH, phiên bản ứng dụng)",
+        "policy_label": "Chính Sách Bảo Mật Sentry:",
+        "policy": "https://sentry.io/privacy/"
+      },
+      "riot": {
+        "title": "4.3. Riot Games API",
+        "p1": "Khi bạn liên kết tài khoản Riot Games, chúng tôi lấy thống kê game của bạn qua Riot Games API chính thức. Dữ liệu này chỉ được sử dụng để hiển thị hồ sơ của bạn và cải thiện việc ghép cặp.",
+        "policy_label": "Chính Sách Bảo Mật Riot Games:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
+      }
+    },
+    "data_usage": {
+      "title": "5. Sử Dụng Dữ Liệu",
+      "intro": "Chúng tôi sử dụng dữ liệu của bạn để:",
+      "services": {
+        "title": "1. Cung Cấp Dịch Vụ:",
+        "account": "Tạo và quản lý tài khoản của bạn",
+        "connect": "Cho phép bạn kết nối với người chơi khác",
+        "teams": "Tạo điều kiện thuận lợi cho việc tạo đội và tổ chức phiên game"
+      },
+      "personalization": {
+        "title": "2. Cá Nhân Hóa:",
+        "matching": "Đề xuất đồng đội tương thích (dựa trên game, rank, phong cách)",
+        "content": "Hiển thị nội dung liên quan"
+      },
+      "communication": {
+        "title": "3. Giao Tiếp:",
+        "notifications": "Gửi thông báo quan trọng (tìm thấy trận đấu, nhận tin nhắn)"
+      },
+      "improvement": {
+        "title": "4. Cải Thiện Dịch Vụ:",
+        "analyze": "Phân tích sử dụng để cải thiện tính năng",
+        "bugs": "Xác định và sửa lỗi",
+        "performance": "Tối ưu hóa hiệu suất"
+      },
+      "security": {
+        "title": "5. Bảo Mật và Tuân Thủ:",
+        "fraud": "Ngăn chặn gian lận và lạm dụng",
+        "terms": "Thực thi điều khoản sử dụng của chúng tôi",
+        "legal": "Tuân thủ nghĩa vụ pháp lý"
+      }
+    },
+    "retention": {
+      "title": "6. Lưu Giữ Dữ Liệu",
+      "periods": {
+        "title": "6.1. Thời Gian Lưu Giữ",
+        "profile_label": "Dữ Liệu Hồ Sơ:",
+        "profile": "Được giữ lại khi tài khoản của bạn còn hoạt động",
+        "analytics_label": "Nhật Ký và Phân Tích:",
+        "analytics": "Firebase Analytics: 14 tháng (chính sách Firebase)"
+      },
+      "deletion": {
+        "title": "6.2. Xóa Dữ Liệu",
+        "p1": "Bạn có thể yêu cầu xóa tài khoản bất cứ lúc nào (xem Mục 7).",
+        "legal_label": "Lưu Giữ Pháp Lý:",
+        "legal": "Một số dữ liệu có thể được giữ lại lâu hơn để tuân thủ nghĩa vụ pháp lý của chúng tôi (ví dụ: báo cáo bảo mật, giao dịch tài chính)."
+      }
+    },
+    "rights": {
+      "title": "7. Quyền Của Bạn (GDPR)",
+      "intro": "Theo GDPR, bạn có các quyền sau:",
+      "access": {
+        "title": "7.1. Quyền Truy Cập",
+        "p1": "Bạn có thể yêu cầu bản sao tất cả dữ liệu chúng tôi có về bạn.",
+        "how_label": "Cách thực hiện quyền này:",
+        "how": "Cài đặt > Quyền riêng tư > \"Xuất Dữ Liệu Của Tôi\"",
+        "process": "Quy trình tạo tệp JSON chứa tất cả dữ liệu của bạn (hồ sơ, tin nhắn, thống kê, v.v.). Liên kết tải xuống có hiệu lực trong 7 ngày."
+      },
+      "rectification": {
+        "title": "7.2. Quyền Sửa Chữa",
+        "p1": "Bạn có thể sửa đổi thông tin hồ sơ bất cứ lúc nào từ ứng dụng (tên người dùng, tiểu sử, sở thích, v.v.)."
+      },
+      "erasure": {
+        "title": "7.3. Quyền Xóa (\"Quyền Được Quên\")",
+        "p1": "Bạn có thể yêu cầu xóa tài khoản của mình.",
+        "how_label": "Cách thực hiện quyền này:",
+        "how": "Cài đặt > Vùng Nguy Hiểm > \"Xóa Tài Khoản Của Tôi\"",
+        "process": {
+          "title": "Quy Trình Xóa Tự Động:",
+          "step1": "Xác nhận hai bước để ngăn xóa vô tình",
+          "step2": "Ẩn danh hóa ngay lập tức dữ liệu cá nhân của bạn (Firestore)",
+          "step3": "Xóa tài khoản Firebase Authentication của bạn (tự động thu hồi tất cả token OAuth)",
+          "step4": "Cung cấp ID ẩn danh làm tham chiếu",
+          "step5": "Tùy chọn xóa tin nhắn và nội dung đã tạo của bạn"
+        },
+        "important_label": "Quan Trọng:",
+        "important": "Xóa là không thể đảo ngược. Một số dữ liệu ẩn danh có thể được giữ lại cho mục đích thống kê (tuân thủ GDPR).",
+        "manual_label": "Yêu Cầu Xóa Thủ Công:",
+        "manual": "Đối với yêu cầu xóa dữ liệu cụ thể (ví dụ: chỉ xóa tin nhắn từ cộng đồng cụ thể, xóa ảnh Storage, hoặc các trường hợp đặc biệt khác), vui lòng liên hệ Nhân viên Bảo vệ Dữ liệu của chúng tôi tại dpo@jynx.app. Chúng tôi sẽ xử lý yêu cầu thủ công trong vòng 30 ngày theo yêu cầu của GDPR."
+      },
+      "portability": {
+        "title": "7.4. Quyền Di Chuyển Dữ Liệu",
+        "p1": "Việc xuất dữ liệu (Mục 7.1) cho phép bạn lấy dữ liệu của mình ở định dạng có cấu trúc, có thể đọc được bằng máy (JSON)."
+      },
+      "objection": {
+        "title": "7.5. Quyền Phản Đối",
+        "p1": "Bạn có thể phản đối việc xử lý dữ liệu của bạn cho mục đích tiếp thị trực tiếp."
+      },
+      "withdraw": {
+        "title": "7.6. Quyền Rút Lại Sự Đồng Ý",
+        "p1": "Bạn có thể rút lại sự đồng ý của mình cho:",
+        "analytics_label": "Phân Tích:",
+        "analytics": "Cài đặt > Quyền riêng tư > Tắt \"Bật Phân tích\"",
+        "notifications_label": "Thông Báo Đẩy:",
+        "notifications": "Cài đặt thiết bị",
+        "oauth_label": "Lưu Ý:",
+        "oauth": "Token OAuth (Google, Apple) được tự động thu hồi khi bạn xóa tài khoản (Mục 7.3)."
+      }
+    },
+    "security": {
+      "title": "8. Bảo Mật Dữ Liệu",
+      "intro": "Chúng tôi triển khai các biện pháp bảo mật kỹ thuật và tổ chức để bảo vệ dữ liệu của bạn:",
+      "encryption_label": "Mã Hóa:",
+      "encryption": "Giao tiếp an toàn qua HTTPS",
+      "rules_label": "Quy Tắc Bảo Mật Firebase:",
+      "rules": "Kiểm soát truy cập chặt chẽ đến dữ liệu Firestore",
+      "auth_label": "Xác Thực:",
+      "auth": "Quản lý phiên an toàn qua Firebase Auth",
+      "validation_label": "Xác Thực Đầu Vào:",
+      "validation": "Ngăn chặn tiêm XSS qua SecureTextInput",
+      "rate_limiting_label": "Giới Hạn Tốc Độ:",
+      "rate_limiting": "Bảo vệ chống lạm dụng (spam tin nhắn, hành động tự động)",
+      "moderation_label": "Kiểm Duyệt:",
+      "moderation": "Hệ thống báo cáo và kiểm duyệt nội dung",
+      "breach": "Không có hệ thống nào an toàn 100%. Trong trường hợp vi phạm dữ liệu, chúng tôi sẽ thông báo cho bạn tuân thủ GDPR (trong vòng 72 giờ)."
+    },
+    "international": {
+      "title": "9. Chuyển Giao Dữ Liệu Quốc Tế",
+      "p1": "Dữ liệu của bạn có thể được chuyển và lưu trữ trên máy chủ bên ngoài Liên minh Châu Âu, bao gồm:",
+      "google_label": "Google Cloud / Firebase:",
+      "google": "Sử dụng cơ sở hạ tầng toàn cầu với tuân thủ GDPR",
+      "sentry_label": "Sentry:",
+      "sentry": "Máy chủ tại Mỹ với tuân thủ Privacy Shield",
+      "guarantees_label": "Đảm Bảo:",
+      "guarantees": "Tất cả đối tác của chúng tôi cung cấp bảo vệ tương đương với GDPR (điều khoản hợp đồng tiêu chuẩn, chứng nhận Privacy Shield)."
+    },
+    "cookies": {
+      "title": "10. Cookie và Công Nghệ Tương Tự",
+      "p1": "Ứng dụng di động của chúng tôi không sử dụng cookie theo nghĩa truyền thống, nhưng sử dụng:",
+      "tokens_label": "Token Xác Thực:",
+      "tokens": "Được lưu trữ cục bộ một cách an toàn",
+      "cache_label": "Bộ Nhớ Cache Cục Bộ:",
+      "cache": "Để cải thiện hiệu suất (dữ liệu hồ sơ, tin nhắn gần đây)"
+    },
+    "changes": {
+      "title": "11. Thay Đổi Chính Sách Này",
+      "p1": "Chúng tôi có thể cập nhật chính sách bảo mật này. Trong trường hợp thay đổi lớn, chúng tôi sẽ thông báo cho bạn:",
+      "notification": "Qua thông báo trong ứng dụng",
+      "email": "Qua email đến địa chỉ liên kết với tài khoản của bạn"
+    },
+    "contact": {
+      "title": "12. Liên Hệ Với Chúng Tôi",
+      "p1": "Để biết bất kỳ câu hỏi nào về chính sách bảo mật này hoặc để thực hiện quyền của bạn:",
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Cơ Quan Giám Sát:",
+      "authority": "Nếu bạn tin rằng quyền của bạn không được tôn trọng, bạn có thể nộp đơn khiếu nại tới CNIL (Commission Nationale de l'Informatique et des Libertés) tại Pháp.",
+      "address": "Địa chỉ: 6 Quai Magellan, 44000 Nantes, France"
+    },
+    "consent": {
+      "title": "13. Sự Đồng Ý",
+      "p1": "Bằng cách sử dụng Jynx, bạn đồng ý với việc thu thập và sử dụng dữ liệu của bạn như được mô tả trong chính sách bảo mật này.",
+      "p2": "Bạn có thể rút lại sự đồng ý của mình bất cứ lúc nào bằng cách xóa tài khoản."
     },
     "information_collection": {
       "title": "Thông Tin Chúng Tôi Thu Thập",
@@ -207,34 +494,9 @@
       },
       "deletion": "Nếu bạn xóa tài khoản của mình, chúng tôi sẽ xóa hoặc ẩn danh dữ liệu cá nhân của bạn, tuân theo các yêu cầu pháp lý."
     },
-    "cookies": {
-      "title": "Cookie và Công Nghệ Theo Dõi",
-      "description": "Chúng tôi sử dụng cookie và công nghệ tương tự:",
-      "types": {
-        "essential": "Cookie thiết yếu: Cần thiết cho chức năng nền tảng",
-        "analytics": "Cookie phân tích: Để hiểu mẫu sử dụng",
-        "preference": "Cookie sở thích: Để nhớ cài đặt của bạn"
-      },
-      "control": "Bạn có thể quản lý cookie thông qua cài đặt trình duyệt của mình."
-    },
     "children": {
       "title": "Quyền Riêng Tư Trẻ Em",
       "description": "Jynx không dành cho các cá nhân dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi."
-    },
-    "international": {
-      "title": "Chuyển Giao Dữ Liệu Quốc Tế",
-      "description": "Thông tin của bạn có thể được xử lý và lưu trữ trên máy chủ ở các quốc gia khác nhau. Chúng tôi đảm bảo các biện pháp bảo vệ phù hợp để giữ an toàn cho dữ liệu của bạn."
-    },
-    "changes": {
-      "title": "Thay Đổi Chính Sách Này",
-      "description": "Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách sửa đổi ngày \"Cập nhật lần cuối\" và đăng thông báo trên nền tảng."
-    },
-    "contact": {
-      "title": "Liên Hệ Với Chúng Tôi",
-      "description": "Nếu bạn có câu hỏi hoặc thắc mắc về chính sách bảo mật này, vui lòng liên hệ:",
-      "email_label": "Email:",
-      "email": "privacy@jynx.app",
-      "address": "Địa chỉ: 6 Quai Magellan, 44000 Nantes, France"
     }
   },
   "terms": {
@@ -249,9 +511,184 @@
       "twitter_description": "Điều khoản và điều kiện sử dụng Jynx.",
       "twitter_image_alt": "Điều Khoản Dịch Vụ"
     },
-    "title": "Điều Khoản Dịch Vụ",
-    "last_updated": "Cập nhật lần cuối: Tháng 10 năm 2025",
-    "version": "Phiên bản: 1.0",
+    "title": "Điều Khoản Dịch Vụ - Jynx",
+    "last_updated_label": "Cập Nhật Lần Cuối:",
+    "last_updated": "12 Tháng 10, 2025",
+    "version_label": "Phiên bản:",
+    "version": "1.0",
+    "section1": {
+      "title": "1. Giới Thiệu & Chấp Nhận",
+      "intro": "Chào mừng đến với Jynx, nền tảng game xã hội kết nối người chơi, giúp họ thành lập đội và chơi cùng nhau.",
+      "legal_entity_label": "Pháp Nhân:",
+      "legal_entity": "Jynx Group",
+      "contact_label": "Liên Hệ:",
+      "contact": "dpo@jynx.app",
+      "address_label": "Địa Chỉ Vật Lý:",
+      "address": "BEACH BAT B1ETG APT2 1, 6 QUAI MAGELLAN, 44000 NANTES",
+      "jurisdiction_label": "Quyền Tài Phán:",
+      "jurisdiction": "Pháp, Liên Minh Châu Âu",
+      "acceptance": "Bằng cách truy cập hoặc sử dụng ứng dụng Jynx (\"Dịch vụ\", \"Nền tảng\", \"Ứng dụng\"), bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\", \"ToS\"). Nếu bạn không đồng ý với các Điều khoản này, bạn không được sử dụng Dịch vụ.",
+      "important_label": "QUAN TRỌNG:",
+      "important": "Các Điều khoản này tạo thành thỏa thuận ràng buộc về mặt pháp lý giữa bạn và Jynx Group."
+    },
+    "section2": {
+      "title": "2. Định Nghĩa",
+      "intro": "Theo mục đích của các Điều khoản này:",
+      "service_label": "\"Dịch vụ\" / \"Nền tảng\" / \"Ứng dụng\":",
+      "service": "Ứng dụng di động Jynx và tất cả các dịch vụ liên quan",
+      "user_label": "\"Người dùng\" / \"Bạn\":",
+      "user": "Bất kỳ người nào truy cập hoặc sử dụng Dịch vụ",
+      "content_label": "\"Nội dung\":",
+      "content": "Tất cả văn bản, hình ảnh, dữ liệu, thông tin hoặc tài liệu khác được đăng, tải lên hoặc truyền qua Dịch vụ",
+      "account_label": "\"Tài khoản\":",
+      "account": "Tài khoản Jynx cá nhân của bạn được tạo thông qua đăng ký",
+      "community_label": "\"Cộng đồng\":",
+      "community": "Một nhóm được tạo trong Jynx để chơi game và tương tác xã hội",
+      "handle_label": "\"Handle\":",
+      "handle": "Định danh duy nhất của bạn theo định dạng @username#discriminator để khám phá bạn bè riêng tư",
+      "we_label": "\"Chúng tôi\" / \"Của chúng tôi\" / \"Jynx\":",
+      "we": "Jynx Group và các chi nhánh"
+    },
+    "section3": {
+      "title": "3. Điều Kiện Đủ Điều Kiện & Đăng Ký Tài Khoản",
+      "age": {
+        "title": "3.1. Yêu Cầu Độ Tuổi",
+        "requirement": "Bạn phải từ 18 tuổi trở lên để tạo tài khoản và sử dụng Jynx.",
+        "p1": "Trong quá trình đăng ký, bạn sẽ được yêu cầu cung cấp ngày sinh. Nếu bạn dưới 18 tuổi, bạn sẽ không thể tạo tài khoản hoặc truy cập Dịch vụ.",
+        "enforcement_label": "Thực Thi:",
+        "enforcement": "Cổng độ tuổi của chúng tôi tự động chặn tạo tài khoản cho người dùng dưới 18 tuổi. Nếu chúng tôi phát hiện rằng bạn đã cung cấp thông tin sai về độ tuổi của mình, tài khoản của bạn sẽ bị chấm dứt ngay lập tức."
+      },
+      "creation": {
+        "title": "3.2. Tạo Tài Khoản",
+        "intro": "Để sử dụng Jynx, bạn phải tạo tài khoản bằng cách cung cấp:",
+        "li1": "Địa chỉ email hợp lệ HOẶC xác thực qua Google/Apple",
+        "li2": "Tên người dùng duy nhất",
+        "li3": "Ngày sinh của bạn (để xác minh độ tuổi)",
+        "li4": "Thông tin hồ sơ (quốc gia, múi giờ, ngôn ngữ, sở thích game)",
+        "handle": "Bạn sẽ được gán một Handle duy nhất (ví dụ: @username#1234) cho phép bạn bè tìm bạn một cách riêng tư mà không bị lộ ra tìm kiếm công khai."
+      },
+      "security": {
+        "title": "3.3. Bảo Mật Tài Khoản",
+        "intro": "Bạn chịu trách nhiệm về:",
+        "li1": "Duy trì tính bảo mật của thông tin đăng nhập tài khoản của bạn",
+        "li2": "Tất cả hoạt động xảy ra dưới tài khoản của bạn",
+        "li3": "Thông báo cho chúng tôi ngay lập tức về bất kỳ việc sử dụng trái phép nào của tài khoản của bạn",
+        "liability": "Chúng tôi không chịu trách nhiệm về bất kỳ mất mát hoặc thiệt hại nào phát sinh từ việc bạn không bảo vệ thông tin tài khoản của mình."
+      },
+      "accuracy": {
+        "title": "3.4. Độ Chính Xác Tài Khoản",
+        "intro": "Bạn đồng ý:",
+        "li1": "Cung cấp thông tin chính xác, hiện tại và đầy đủ trong quá trình đăng ký",
+        "li2": "Cập nhật thông tin của bạn để giữ nó chính xác và hiện tại",
+        "li3": "Không mạo danh bất kỳ người hoặc tổ chức nào",
+        "li4": "Không tạo nhiều tài khoản cho mục đích lạm dụng"
+      }
+    },
+    "section4": {
+      "title": "4. Hành Vi Người Dùng & Hoạt Động Bị Cấm",
+      "acceptable": {
+        "title": "4.1. Sử Dụng Chấp Nhận Được",
+        "p1": "Jynx là nền tảng do cộng đồng điều khiển. Bạn đồng ý sử dụng Dịch vụ một cách tôn trọng, hợp pháp và phù hợp."
+      },
+      "prohibited": {
+        "title": "4.2. Hành Vi Bị Cấm",
+        "intro": "Khi sử dụng Jynx, bạn đồng ý KHÔNG:",
+        "harassment": {
+          "title": "Quấy Rối & Lạm Dụng:",
+          "li1": "Quấy rối, đe dọa, bắt nạt, rình rập hoặc đe dọa người dùng khác",
+          "li2": "Tham gia vào phát ngôn thù hận hoặc phân biệt đối xử dựa trên chủng tộc, dân tộc, quốc tịch, tôn giáo, giới tính, khuynh hướng tình dục, khuyết tật hoặc bất kỳ đặc điểm được bảo vệ nào khác",
+          "li3": "Gửi nội dung tình dục không mong muốn hoặc tham gia vào quấy rối tình dục",
+          "li4": "Phối hợp hoặc khuyến khích quấy rối người khác"
+        },
+        "spam": {
+          "title": "Spam & Lạm Dụng:",
+          "li1": "Gửi spam, quảng cáo không mong muốn hoặc nội dung khuyến mại",
+          "li2": "Sử dụng Dịch vụ cho mục đích thương mại mà không có sự đồng ý trước bằng văn bản của chúng tôi",
+          "li3": "Tạo nhiều tài khoản để trốn tránh lệnh cấm hoặc thao túng nền tảng",
+          "li4": "Sử dụng hệ thống tự động (bot, script) để truy cập hoặc tương tác với Dịch vụ",
+          "li5": "Cố gắng thao túng ghép cặp, xếp hạng hoặc hệ thống cộng đồng"
+        },
+        "impersonation": {
+          "title": "Mạo Danh & Gian Lận:",
+          "li1": "Mạo danh người, người dùng hoặc tổ chức khác",
+          "li2": "Trình bày sai danh tính, độ tuổi hoặc liên kết của bạn",
+          "li3": "Tạo tài khoản giả hoặc hồ sơ gây hiểu lầm",
+          "li4": "Chia sẻ hoặc bán thông tin đăng nhập tài khoản của bạn"
+        },
+        "illegal": {
+          "title": "Hoạt Động Bất Hợp Pháp:",
+          "li1": "Sử dụng Dịch vụ cho bất kỳ mục đích bất hợp pháp nào hoặc vi phạm bất kỳ luật nào",
+          "li2": "Chia sẻ, thúc đẩy hoặc tạo điều kiện cho hoạt động bất hợp pháp",
+          "li3": "Vi phạm quyền sở hữu trí tuệ của người khác",
+          "li4": "Tham gia vào gian lận, lừa đảo hoặc cố gắng lừa đảo"
+        },
+        "security": {
+          "title": "Bảo Mật Nền Tảng:",
+          "li1": "Cố gắng truy cập trái phép vào hệ thống, máy chủ hoặc cơ sở dữ liệu của chúng tôi",
+          "li2": "Phân phối phần mềm độc hại, virus hoặc mã độc hại",
+          "li3": "Dịch ngược, dịch ngược hoặc tháo rời bất kỳ phần nào của Dịch vụ",
+          "li4": "Khai thác lỗi, trục trặc hoặc lỗ hổng để có lợi thế không công bằng (phải báo cáo cho security@jynx.app)"
+        },
+        "privacy": {
+          "title": "Vi Phạm Quyền Riêng Tư:",
+          "li1": "Chia sẻ thông tin riêng tư của người dùng khác mà không có sự đồng ý (doxxing)",
+          "li2": "Chụp màn hình hoặc chia sẻ cuộc trò chuyện riêng tư mà không có sự cho phép",
+          "li3": "Thu thập hoặc thu hoạch dữ liệu người dùng mà không có ủy quyền"
+        },
+        "content_violations": {
+          "title": "Vi Phạm Nội Dung:",
+          "li1": "Đăng nội dung vi phạm Hướng dẫn Cộng đồng của chúng tôi",
+          "li2": "Chia sẻ nội dung bạo lực, đồ họa hoặc gây rối",
+          "li3": "Đăng nội dung liên quan đến trẻ vị thành niên dưới bất kỳ dạng nào",
+          "li4": "Phân phối tài liệu có bản quyền mà không có sự cho phép"
+        },
+        "manipulation": {
+          "title": "Thao Túng Nền Tảng:",
+          "li1": "Làm tăng số liệu tương tác hoặc danh tiếng một cách giả tạo",
+          "li2": "Phối hợp báo cáo hàng loạt để lạm dụng hệ thống báo cáo của chúng tôi",
+          "li3": "Can thiệp vào hoạt động bình thường của Dịch vụ",
+          "li4": "Vượt qua hoặc né tránh bất kỳ giới hạn tốc độ, hạn chế hoặc tính năng an toàn nào"
+        },
+        "enforcement_label": "Thực Thi:",
+        "enforcement": "Vi phạm các điều cấm này có thể dẫn đến xóa nội dung, tạm ngưng tài khoản, cấm vĩnh viễn và/hoặc hành động pháp lý. Để báo cáo vi phạm, liên hệ support@jynx.app. Đối với lỗ hổng bảo mật, liên hệ security@jynx.app"
+      },
+      "rate_limiting": {
+        "title": "4.3. Giới Hạn Tốc Độ & Chống Spam",
+        "intro": "Để bảo vệ nền tảng và trải nghiệm người dùng, chúng tôi thực thi giới hạn tốc độ:",
+        "client_label": "Phía máy khách:",
+        "client": "10 tin nhắn mỗi phút (cửa sổ trượt)",
+        "burst_label": "Bảo vệ burst phía máy chủ:",
+        "burst": "1 tin nhắn mỗi giây",
+        "daily_label": "Giới hạn hàng ngày phía máy chủ:",
+        "daily": "500 tin nhắn mỗi ngày (đặt lại lúc nửa đêm UTC)",
+        "warning": "Cố gắng vượt qua các giới hạn này có thể dẫn đến tạm ngưng tài khoản."
+      },
+      "moderation": {
+        "title": "4.4. Kiểm Duyệt & Báo Cáo",
+        "structure_title": "Cấu Trúc Kiểm Duyệt:",
+        "structure_intro": "Jynx sử dụng đội ngũ kiểm duyệt tập trung để đảm bảo thực thi nhất quán các Điều khoản này và Hướng dẫn Cộng đồng trên nền tảng. Hệ thống kiểm duyệt của chúng tôi bao gồm:",
+        "structure": {
+          "li1": "Đội Ngũ Kiểm Duyệt Jynx: Đội ngũ chuyên dụng chịu trách nhiệm xem xét tất cả các vi phạm được báo cáo và thực hiện hành động thích hợp",
+          "li2": "Phát Hiện Tự Động: Hệ thống dựa trên thuật toán tự động gắn cờ và xóa spam, nội dung bất hợp pháp và vi phạm nghiêm trọng",
+          "li3": "Quyền Chủ Sở Hữu Cộng Đồng: Chủ sở hữu cộng đồng có khả năng kiểm duyệt hạn chế trong cộng đồng của họ, bao gồm khả năng kick thành viên hoặc áp dụng tắt tiếng tạm thời (tối đa 24 giờ). Vi phạm nghiêm trọng phải được báo cáo cho đội ngũ kiểm duyệt Jynx"
+        },
+        "reporting_title": "Quy Trình Báo Cáo:",
+        "reporting_intro": "Bạn có thể báo cáo vi phạm thông qua:",
+        "reporting": {
+          "li1": "Báo Cáo Trong Ứng Dụng: Sử dụng nút \"Báo cáo\" có sẵn trên tin nhắn, hồ sơ và nội dung cộng đồng. Chọn danh mục thích hợp (Quấy rối, Spam, Nội dung Không phù hợp, Gian lận hoặc Khác) và cung cấp bối cảnh",
+          "li2": "Email: Liên hệ support@jynx.app với thông tin chi tiết, bao gồm ảnh chụp màn hình và bằng chứng khi có thể"
+        },
+        "reporting_note": "Tất cả báo cáo được xem xét bởi đội ngũ kiểm duyệt của chúng tôi. Gửi báo cáo sai hoặc ác ý có thể dẫn đến hành động đối với tài khoản của bạn.",
+        "response_title": "Thời Gian Phản Hồi:",
+        "response_intro": "Chúng tôi ưu tiên báo cáo dựa trên mức độ nghiêm trọng:",
+        "response": {
+          "urgent": "Khẩn cấp (đe dọa, nội dung bất hợp pháp, nguy hại sắp xảy ra): Xem xét và hành động trong vòng 2 giờ",
+          "high": "Ưu Tiên Cao (quấy rối, phát ngôn thù hận, nội dung tình dục): Xem xét và hành động trong vòng 24 giờ",
+          "medium": "Ưu Tiên Trung Bình (spam, thao túng nền tảng, vi phạm quy tắc): Xem xét và hành động trong vòng 72 giờ",
+          "low": "Ưu Tiên Thấp (tranh chấp cộng đồng, vi phạm nhỏ): Xem xét và hành động trong vòng 7 ngày"
+        }
+      }
+    },
     "intro": {
       "title": "Giới Thiệu",
       "p1": "Chào mừng bạn sử dụng Jynx (\"chúng tôi,\" \"của chúng tôi,\" hoặc \"nền tảng\"). Các Điều khoản Dịch vụ này (\"Điều khoản\") điều chỉnh quyền truy cập và sử dụng nền tảng ghép đôi game của chúng tôi.",
@@ -353,7 +790,399 @@
       "description": "Nếu bạn có câu hỏi về các Điều khoản này, vui lòng liên hệ:",
       "email": "Email: legal@jynx.app",
       "address": "Địa chỉ: 6 Quai Magellan, 44000 Nantes, France"
-    }
+    },
+    "section5": {
+      "title": "5. Quyền Sở Hữu và Giấy Phép Nội Dung",
+      "your_content": {
+        "title": "5.1. Nội Dung Của Bạn",
+        "intro": "Bạn giữ quyền sở hữu tất cả nội dung bạn đăng, tải lên hoặc truyền qua Dịch vụ (\"Nội dung Người dùng\"), bao gồm:",
+        "li1": "Tin nhắn trong trò chuyện cộng đồng và cuộc trò chuyện riêng tư",
+        "li2": "Thông tin hồ sơ, tiểu sử và hình ảnh",
+        "li3": "Thống kê và sở thích game"
+      },
+      "license": {
+        "title": "5.2. Giấy Phép Cho Jynx",
+        "intro": "Bằng cách đăng Nội dung Người dùng, bạn cấp cho Jynx giấy phép không độc quyền, toàn cầu, miễn phí bản quyền, có thể cấp lại để:",
+        "core_title": "Hoạt Động Dịch Vụ Cốt Lõi:",
+        "core": {
+          "li1": "Lưu trữ, lưu trữ và hiển thị Nội dung Người dùng của bạn khi cần thiết để cung cấp Dịch vụ",
+          "li2": "Chia sẻ Nội dung Người dùng của bạn với người dùng khác theo cài đặt quyền riêng tư của bạn (ví dụ: hiển thị trong cộng đồng, hiển thị trong hồ sơ ghép cặp)",
+          "li3": "Tạo bản sao lưu và đảm bảo dự phòng dữ liệu để đảm bảo độ tin cậy",
+          "li4": "Kiểm duyệt và xem xét nội dung để tuân thủ các Điều khoản này và luật hiện hành"
+        },
+        "improvement_title": "Cải Thiện Dịch Vụ & Phân Tích:",
+        "improvement": {
+          "li1": "Sử dụng Nội dung Người dùng của bạn để cải thiện và phát triển Dịch vụ (ví dụ: phân tích, phát triển tính năng)",
+          "li2": "Huấn luyện mô hình học máy cho hệ thống ghép cặp tự động và thuật toán đề xuất của chúng tôi",
+          "li3": "Tạo thống kê tổng hợp, ẩn danh về sử dụng nền tảng và hành vi người dùng",
+          "li4": "Tiến hành nghiên cứu để nâng cao trải nghiệm người dùng và an toàn nền tảng"
+        },
+        "security_title": "Bảo Mật & Tuân Thủ:",
+        "security": {
+          "li1": "Phát hiện và ngăn chặn spam, lạm dụng, gian lận và vi phạm các Điều khoản này",
+          "li2": "Phản hồi các yêu cầu pháp lý và thực thi quyền của chúng tôi",
+          "li3": "Duy trì hồ sơ kiểm duyệt để an toàn nền tảng"
+        },
+        "marketing_title": "Sử Dụng Tiếp Thị & Khuyến Mại (Có Giới Hạn):",
+        "marketing": {
+          "li1": "Sử dụng thống kê tổng hợp, ẩn danh trong tài liệu tiếp thị (ví dụ: \"10.000 trận đấu được thực hiện tháng này\")",
+          "li2": "Hiển thị Nội dung Người dùng được chia sẻ công khai (bài đăng cộng đồng, hồ sơ công khai) trong tài liệu khuyến mại, với sự đồng ý chọn tham gia rõ ràng của bạn",
+          "li3": "Yêu cầu sự cho phép của bạn để sử dụng lời chứng thực, ảnh chụp màn hình hoặc nội dung cụ thể cho nghiên cứu điển hình hoặc quảng cáo"
+        },
+        "limitations_title": "Giới Hạn Quan Trọng:",
+        "limitations": {
+          "li1": "Tin nhắn và cuộc trò chuyện riêng tư sẽ KHÔNG BAO GIỜ được sử dụng cho mục đích tiếp thị",
+          "li2": "Chúng tôi sẽ luôn có được sự đồng ý rõ ràng bằng văn bản của bạn trước khi sử dụng Nội dung Người dùng có thể nhận dạng (ví dụ: hồ sơ, tên người dùng, hình ảnh của bạn) trong tài liệu tiếp thị",
+          "li3": "Bạn có thể rút lại sự đồng ý cho việc sử dụng tiếp thị bất cứ lúc nào bằng cách liên hệ dpo@jynx.app",
+          "li4": "Dữ liệu ẩn danh hoặc tổng hợp không yêu cầu sự đồng ý bổ sung"
+        },
+        "no_sell": "Chúng tôi sẽ KHÔNG bán dữ liệu cá nhân của bạn cho bên thứ ba. Xem Chính sách Bảo mật của chúng tôi để biết chi tiết xử lý dữ liệu."
+      },
+      "third_party": {
+        "title": "5.3. Nội Dung Bên Thứ Ba",
+        "intro": "Jynx tích hợp với các dịch vụ bên thứ ba, bao gồm:",
+        "riot": "Riot Games API: Tên tướng, hình ảnh, thống kê và dữ liệu trận đấu là tài sản của Riot Games. Jynx hoạt động theo Điều khoản Dịch vụ Riot Games API.",
+        "firebase": "Dịch Vụ Firebase: Được cung cấp bởi Google theo Điều khoản Dịch vụ của họ.",
+        "oauth": "Nhà Cung Cấp OAuth: Dịch vụ xác thực Google và Apple."
+      },
+      "removal": {
+        "title": "5.4. Xóa Nội Dung",
+        "intro": "Chúng tôi bảo lưu quyền xóa bất kỳ Nội dung Người dùng nào mà:",
+        "li1": "Vi phạm các Điều khoản này",
+        "li2": "Vi phạm luật hiện hành",
+        "li3": "Vi phạm quyền sở hữu trí tuệ của bên thứ ba",
+        "li4": "Được báo cáo và xác nhận vi phạm hướng dẫn cộng đồng của chúng tôi",
+        "notification": "Bạn sẽ được thông báo về việc xóa nội dung khi có thể."
+      }
+    },
+    "section6": {
+      "title": "6. Cộng Đồng & Tính Năng Game",
+      "community": {
+        "title": "6.1. Tạo & Quản Lý Cộng Đồng",
+        "intro": "Người dùng có thể tạo và tham gia cộng đồng để chơi game và tương tác xã hội.",
+        "freemium_title": "Giới Hạn Freemium:",
+        "free_label": "Người Dùng Miễn Phí:",
+        "free": {
+          "li1": "Tạo: Tối đa 1 cộng đồng",
+          "li2": "Tham gia: Tối đa 5 cộng đồng",
+          "li3": "Giới Hạn Thành Viên Cộng Đồng: Cộng đồng có giới hạn thành viên dựa trên cấp độ boost của họ"
+        },
+        "premium_label": "Người Dùng Cao Cấp (Jynx+):",
+        "premium": {
+          "li1": "Tạo: Không giới hạn cộng đồng",
+          "li2": "Tham gia: Không giới hạn cộng đồng",
+          "li3": "Lợi Ích Độc Quyền: 2 boost cộng đồng miễn phí mỗi tháng để hỗ trợ cộng đồng yêu thích của bạn"
+        },
+        "boost_title": "Hệ Thống Boost Cộng Đồng:",
+        "boost_intro": "Cộng đồng có thể tăng sức chứa thành viên và mở khóa tính năng bổ sung thông qua boost cộng đồng:",
+        "boost": {
+          "level0": "Cấp 0 (Cơ bản): Tối đa 30 thành viên",
+          "level1": "Cấp 1 (5 boost): Tối đa 100 thành viên + Hình nền cộng đồng tùy chỉnh",
+          "level2": "Cấp 2 (15 boost): Tối đa 250 thành viên + Tạo vai trò tùy chỉnh",
+          "level3": "Cấp 3 (30 boost): Tối đa 500 thành viên + Tính năng cộng đồng nâng cao"
+        }
+      },
+      "automatch": {
+        "title": "6.2. Hệ Thống Ghép Cặp Tự Động",
+        "intro": "Jynx sử dụng hệ thống ghép cặp tự động thông minh để kết nối người chơi dựa trên:",
+        "li1": "Sở thích game",
+        "li2": "Trình độ kỹ năng (ví dụ: rank Riot Games)",
+        "li3": "Phong cách chơi và khả năng sẵn có",
+        "li4": "Ngôn ngữ và múi giờ",
+        "consent": "Bằng cách sử dụng tính năng ghép cặp tự động, bạn đồng ý hồ sơ game của bạn được chia sẻ với đối tác tiềm năng."
+      },
+      "riot": {
+        "title": "6.3. Tích Hợp Riot Games",
+        "intro": "Khi bạn liên kết tài khoản Riot Games, chúng tôi lấy:",
+        "li1": "Tên Summoner và Riot ID",
+        "li2": "Thống kê Ranked (League of Legends, Valorant, v.v.)",
+        "li3": "Thành thạo tướng và lịch sử trận đấu",
+        "unlink": "Bạn có thể hủy liên kết tài khoản Riot bất cứ lúc nào từ Cài đặt."
+      }
+    },
+    "section7": {
+      "title": "7. Tạm Ngưng & Chấm Dứt Tài Khoản",
+      "suspension": {
+        "title": "7.1. Tạm Ngưng Bởi Jynx",
+        "intro": "Chúng tôi bảo lưu quyền tạm ngưng hoặc chấm dứt tài khoản của bạn nếu bạn:",
+        "li1": "Vi phạm các Điều khoản Dịch vụ này",
+        "li2": "Tham gia vào hành vi bị cấm (Mục 4.2)",
+        "li3": "Tham gia vào hoạt động gian lận hoặc bất hợp pháp",
+        "li4": "Nhận liên tục các báo cáo hợp lệ từ người dùng khác",
+        "actions_title": "Hành Động Kiểm Duyệt:",
+        "actions_intro": "Đội ngũ kiểm duyệt của chúng tôi có thể thực hiện các hành động sau:",
+        "warning_label": "1. Cảnh Báo (Mức Độ Thấp)",
+        "warning": {
+          "li1": "Cấp cho vi phạm nhỏ hoặc lần đầu vi phạm",
+          "li2": "Không hạn chế tài khoản, nhưng vi phạm được ghi lại",
+          "li3": "Cảnh báo vẫn còn trong hồ sơ trong 30 ngày"
+        },
+        "temp_label": "2. Tạm Ngưng Tạm Thời (Mức Độ Trung Bình đến Cao)",
+        "temp": {
+          "li1": "Tạm ngưng 7 ngày: Thời gian tiêu chuẩn cho vi phạm đáng kể (quấy rối, spam, thao túng nền tảng)",
+          "li2": "Tạm ngưng 14 ngày: Vi phạm lặp lại hoặc vi phạm nghiêm trọng hơn",
+          "li3": "Tạm ngưng 30 ngày: Vi phạm nghiêm trọng không đủ điều kiện loại bỏ vĩnh viễn",
+          "li4": "Trong thời gian tạm ngưng, bạn mất tất cả quyền truy cập vào Dịch vụ"
+        },
+        "permanent_label": "3. Cấm Vĩnh Viễn (Mức Độ Nghiêm Trọng)",
+        "permanent": {
+          "intro": "Cấp cho các vi phạm nghiêm trọng nhất, bao gồm:",
+          "li1": "Hoạt động bất hợp pháp (gian lận, phân phối nội dung bất hợp pháp)",
+          "li2": "Quấy rối nghiêm trọng, đe dọa hoặc phát ngôn thù hận",
+          "li3": "Vi phạm lặp lại sau nhiều lần tạm ngưng",
+          "li4": "Tạo nhiều tài khoản để trốn tránh lệnh cấm",
+          "li5": "Khai thác lỗ hổng bảo mật cho mục đích ác ý"
+        }
+      },
+      "effect": {
+        "title": "7.2. Hiệu Lực Của Chấm Dứt",
+        "intro": "Khi chấm dứt tài khoản:",
+        "li1": "Bạn mất quyền truy cập vào tài khoản và tất cả dữ liệu liên quan",
+        "li2": "Dữ liệu người dùng của bạn được ẩn danh hóa theo GDPR",
+        "li3": "Tài khoản Firebase Authentication của bạn bị xóa",
+        "li4": "Token OAuth (Google, Apple) được tự động thu hồi",
+        "refund": "Chính Sách Hoàn Tiền: Không hoàn tiền cho đăng ký cao cấp hoặc vật phẩm ảo (mỹ phẩm) khi tài khoản của bạn bị chấm dứt do vi phạm các Điều khoản này."
+      },
+      "user_deletion": {
+        "title": "7.3. Xóa Do Người Dùng Khởi Xướng",
+        "p1": "Bạn có thể xóa tài khoản của mình bất cứ lúc nào qua Cài đặt > Vùng Nguy Hiểm > Xóa Tài Khoản Của Tôi.",
+        "p2": "Hành động này không thể đảo ngược. Xem Chính sách Bảo mật của chúng tôi để biết quy trình xóa."
+      },
+      "appeal": {
+        "title": "7.4. Quy Trình Kháng Cáo",
+        "intro": "Nếu bạn tin rằng tài khoản của bạn bị tạm ngưng hoặc chấm dứt nhầm, bạn có quyền kháng cáo quyết định.",
+        "how_title": "Cách Kháng Cáo:",
+        "how": {
+          "li1": "Gửi Kháng Cáo Của Bạn: Liên hệ với chúng tôi tại dpo@jynx.app với thông tin tài khoản của bạn (tên người dùng, email, handle), lý do kháng cáo, bất kỳ bằng chứng hỗ trợ nào và quan điểm của bạn về sự cố",
+          "li2": "Thời Gian Xem Xét: Chúng tôi sẽ xem xét tất cả kháng cáo trong vòng 7 ngày làm việc kể từ khi gửi",
+          "li3": "Điều Tra: Đội ngũ kiểm duyệt của chúng tôi sẽ kiểm tra lại báo cáo vi phạm và bằng chứng ban đầu, xem xét lịch sử tài khoản và bối cảnh của bạn, và xem xét bất kỳ thông tin mới nào bạn đã cung cấp",
+          "li4": "Quyết Định: Sau khi xem xét, chúng tôi sẽ giữ nguyên quyết định, giảm nhẹ hình phạt hoặc hủy bỏ quyết định và khôi phục tài khoản của bạn",
+          "li5": "Thông Báo: Bạn sẽ nhận được quyết định cuối cùng của chúng tôi qua email, bao gồm kết quả và giải thích lý do của chúng tôi"
+        },
+        "deadlines_title": "Hạn Chót Kháng Cáo:",
+        "deadlines_intro": "Bạn phải gửi kháng cáo của mình trong vòng:",
+        "deadlines": {
+          "li1": "24 giờ cho tắt tiếng hoặc tạm ngưng ngắn hạn (1-7 ngày)",
+          "li2": "7 ngày cho tạm ngưng (14-30 ngày)",
+          "li3": "30 ngày cho cấm vĩnh viễn"
+        }
+      }
+    },
+    "section8": {
+      "title": "8. Dịch Vụ Cao Cấp & Thanh Toán",
+      "status": "Trạng Thái Tính Năng Cao Cấp: Jynx hiện hoạt động như một nền tảng miễn phí. Tính năng đăng ký cao cấp (Jynx+) và mỹ phẩm trả phí sắp ra mắt và chưa có sẵn để mua.",
+      "freemium": {
+        "title": "8.1. Mô Hình Freemium",
+        "intro": "Jynx hoạt động trên mô hình freemium trong đó tất cả tính năng cốt lõi đều có thể truy cập miễn phí, với cải tiến cao cấp tùy chọn.",
+        "free_title": "Giới Hạn Cấp Miễn Phí:",
+        "free": {
+          "li1": "Hàng Đợi Ghép Cặp: 20 lượt thích mỗi ngày, 200 lượt xem hồ sơ mỗi ngày",
+          "li2": "Yêu Cầu Trò Chuyện: 3 yêu cầu mỗi ngày từ hàng đợi ghép cặp, 5 yêu cầu mỗi ngày trên toàn cầu",
+          "li3": "Cộng Đồng: Tạo 1 cộng đồng, tham gia tối đa 5 cộng đồng",
+          "li4": "Mỹ Phẩm: Truy cập các mục mỹ phẩm cấp miễn phí (huy hiệu, viền avatar)"
+        },
+        "premium_title": "Lợi Ích Cao Cấp Jynx+ (Sắp Ra Mắt):",
+        "premium": {
+          "li1": "Cộng Đồng Không Giới Hạn: Tạo và tham gia không giới hạn cộng đồng",
+          "li2": "Boost Cộng Đồng: 2 boost cộng đồng miễn phí mỗi tháng để hỗ trợ cộng đồng yêu thích của bạn",
+          "li3": "Ghép Cặp Không Giới Hạn: Không giới hạn hàng ngày về lượt thích, xem hồ sơ hoặc yêu cầu trò chuyện",
+          "li4": "Hỗ Trợ Ưu Tiên: Thời gian phản hồi nhanh hơn cho yêu cầu hỗ trợ",
+          "li5": "Huy Hiệu Cao Cấp: Hiển thị huy hiệu cao cấp đặc biệt trên hồ sơ của bạn",
+          "li6": "Mỹ Phẩm Độc Quyền: Truy cập các mục mỹ phẩm cấp cao cấp",
+          "li7": "Tính Năng Nâng Cao: Truy cập sớm vào tính năng mới và thuật toán ghép cặp nâng cao"
+        }
+      },
+      "cosmetics": {
+        "title": "8.2. Mỹ Phẩm & Vật Phẩm Ảo",
+        "intro": "Jynx sẽ cung cấp các mục mỹ phẩm tùy chọn để cá nhân hóa hồ sơ của bạn, bao gồm huy hiệu, viền avatar và viền hero.",
+        "important": "Quan Trọng: Mỹ phẩm là các mục kỹ thuật số thuần túy trang trí không có giá trị thế giới thực. Bạn không sở hữu mỹ phẩm; bạn được cấp giấy phép hạn chế, có thể thu hồi để hiển thị chúng trên hồ sơ Jynx của bạn."
+      },
+      "refunds": {
+        "title": "8.3. Hoàn Tiền & Hủy Bỏ",
+        "eu_title": "Quyền Người Tiêu Dùng EU (Thời Gian Làm Mát 14 Ngày):",
+        "eu": {
+          "p1": "Nếu bạn là người tiêu dùng ở Liên minh Châu Âu, bạn có quyền rút khỏi mua nội dung kỹ thuật số trong vòng 14 ngày kể từ ngày mua, theo điều kiện."
+        },
+        "policy_title": "Chính Sách Hoàn Tiền:",
+        "policy": {
+          "li1": "Lỗi Kỹ Thuật: Nếu bạn gặp vấn đề kỹ thuật ngăn bạn truy cập tính năng đã mua, liên hệ support@jynx.app trong vòng 14 ngày để được hoàn tiền đầy đủ",
+          "li2": "Mua Sắm Vô Ý: Hoàn tiền cho mua hàng vô ý có thể được cấp theo quyết định của chúng tôi trong vòng 48 giờ kể từ khi mua",
+          "li3": "Giao Dịch Không Được Ủy Quyền: Báo cáo giao dịch không được ủy quyền ngay lập tức cho dpo@jynx.app và nhà cung cấp thanh toán của bạn",
+          "li4": "Không Hoàn Tiền Cho: Chấm dứt tài khoản do vi phạm Điều khoản, thay đổi ý định sau khi sử dụng tính năng cao cấp hơn 14 ngày"
+        }
+      }
+    },
+    "section9": {
+      "title": "9. Dịch Vụ Bên Thứ Ba",
+      "intro": "Jynx tích hợp với các dịch vụ bên thứ ba sau, mỗi dịch vụ được điều chỉnh bởi điều khoản riêng của họ:",
+      "firebase": {
+        "title": "9.1. Dịch Vụ Firebase (Google)",
+        "intro": "Chúng tôi sử dụng Firebase cho:",
+        "li1": "Xác thực",
+        "li2": "Cloud Firestore (cơ sở dữ liệu)",
+        "li3": "Cloud Storage (hình ảnh)",
+        "li4": "Cloud Functions (logic backend)",
+        "li5": "Cloud Messaging (thông báo đẩy)",
+        "li6": "App Check (bảo mật)",
+        "li7": "Performance Monitoring",
+        "li8": "Crashlytics (báo cáo sự cố)"
+      },
+      "sentry": {
+        "title": "9.2. Sentry (Giám Sát Lỗi)",
+        "p1": "Chúng tôi sử dụng Sentry để theo dõi lỗi và giám sát hiệu suất. Dữ liệu được ẩn danh hóa trước khi được gửi đến Sentry."
+      },
+      "riot": {
+        "title": "9.3. Riot Games API",
+        "p1": "Chúng tôi sử dụng Riot Games API để lấy thống kê game (League of Legends, Valorant, v.v.)."
+      },
+      "oauth": {
+        "title": "9.4. Nhà Cung Cấp OAuth",
+        "intro": "Chúng tôi cung cấp xác thực qua:",
+        "li1": "Google Sign-In",
+        "li2": "Apple Sign-In"
+      },
+      "responsibility": "Bạn chịu trách nhiệm tuân thủ các điều khoản của các dịch vụ bên thứ ba này."
+    },
+    "section10": {
+      "title": "10. Tuyên Bố Từ Chối & Giới Hạn Trách Nhiệm",
+      "as_is": {
+        "title": "10.1. Dịch Vụ Được Cung Cấp \"NGUYÊN TRẠNG\"",
+        "p1": "DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ \"NGUYÊN TRẠNG\" VÀ \"NHƯ CÓ SẴN\", KHÔNG CÓ BẢO ĐẢM DƯỚI BẤT KỲ HÌNH THỨC NÀO, RÕ RÀNG HOẶC NGỤ Ý, BAO GỒM NHƯNG KHÔNG GIỚI HẠN: Bảo đảm về khả năng bán được, phù hợp cho mục đích cụ thể hoặc không vi phạm; Đảm bảo dịch vụ không bị gián đoạn, an toàn hoặc không có lỗi; Độ chính xác hoặc độ tin cậy của kết quả ghép cặp tự động."
+      },
+      "third_party": {
+        "title": "10.2. Không Bảo Đảm Về Dịch Vụ Bên Thứ Ba",
+        "intro": "Chúng tôi không chịu trách nhiệm về:",
+        "li1": "Thời gian ngừng hoạt động hoặc vấn đề với Firebase, Riot Games API hoặc dịch vụ bên thứ ba khác",
+        "li2": "Độ chính xác của thống kê Riot Games (ví dụ: rank, lịch sử trận đấu)",
+        "li3": "Mất dữ liệu do lỗi dịch vụ bên thứ ba"
+      },
+      "limitation": {
+        "title": "10.3. Giới Hạn Trách Nhiệm",
+        "p1": "TRONG PHẠM VI TỐI ĐA ĐƯỢC PHÉP BỞI LUẬT PHÁP, JYNX SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ: Thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt; Mất lợi nhuận, dữ liệu hoặc thiện chí; Gián đoạn hoặc không có sẵn dịch vụ; Nội dung do người dùng tạo hoặc hành vi của người dùng khác.",
+        "max": "Trách Nhiệm Tối Đa: Tổng trách nhiệm của chúng tôi sẽ không vượt quá số tiền bạn đã trả cho Jynx trong 12 tháng trước khiếu nại, hoặc €100, tùy theo số nào lớn hơn."
+      }
+    },
+    "section11": {
+      "title": "11. Sửa Đổi Điều Khoản",
+      "right": {
+        "title": "11.1. Quyền Sửa Đổi",
+        "intro": "Chúng tôi bảo lưu quyền sửa đổi các Điều khoản này bất cứ lúc nào. Khi chúng tôi thực hiện thay đổi, chúng tôi sẽ:",
+        "li1": "Cập nhật ngày \"Cập Nhật Lần Cuối\" ở đầu tài liệu này",
+        "li2": "Cung cấp thông báo trước 30 ngày cho tất cả thay đổi",
+        "li3": "Thông báo cho bạn qua thông báo trong ứng dụng",
+        "li4": "Thông báo cho bạn qua email tại địa chỉ liên kết với tài khoản của bạn"
+      },
+      "acceptance": {
+        "title": "11.2. Chấp Nhận Thay Đổi",
+        "p1": "Việc bạn tiếp tục sử dụng Dịch vụ sau khi thay đổi có hiệu lực tạo thành sự chấp nhận của bạn đối với các Điều khoản sửa đổi.",
+        "p2": "Nếu bạn không đồng ý với các Điều khoản sửa đổi, bạn phải ngừng sử dụng Dịch vụ và xóa tài khoản của bạn trước khi thay đổi có hiệu lực."
+      },
+      "material": {
+        "title": "11.3. Thay Đổi Quan Trọng",
+        "intro": "Đối với các thay đổi quan trọng ảnh hưởng đáng kể đến quyền hoặc nghĩa vụ của bạn (ví dụ: thay đổi điều khoản thanh toán, giới hạn trách nhiệm, xử lý dữ liệu, giải quyết tranh chấp), chúng tôi sẽ:",
+        "li1": "Cung cấp thông báo trước 60 ngày (gấp đôi thời gian thông báo tiêu chuẩn)",
+        "li2": "Yêu cầu xác nhận rõ ràng về các thay đổi trước khi bạn có thể tiếp tục sử dụng Dịch vụ",
+        "li3": "Cung cấp cho bạn cơ hội xuất dữ liệu của bạn nếu bạn chọn ngừng sử dụng Dịch vụ"
+      }
+    },
+    "section12": {
+      "title": "12. Luật Điều Chỉnh & Giải Quyết Tranh Chấp",
+      "law": {
+        "title": "12.1. Luật Điều Chỉnh",
+        "p1": "Các Điều khoản này được điều chỉnh và giải thích theo luật pháp Pháp và các quy định hiện hành của Liên minh Châu Âu, không xét đến các nguyên tắc xung đột luật pháp.",
+        "regulations": "Các Quy Định Có Hiệu Lực: Bộ Luật Dân Sự Pháp (Code civil), Bộ Luật Người Tiêu Dùng Pháp (Code de la consommation), Quy Định Bảo Vệ Dữ Liệu Chung (GDPR), Đạo Luật Dịch Vụ Kỹ Thuật Số EU (DSA), Chỉ Thị Quyền Người Tiêu Dùng EU."
+      },
+      "jurisdiction": {
+        "title": "12.2. Quyền Tài Phán",
+        "p1": "Bất kỳ tranh chấp nào phát sinh từ các Điều khoản này hoặc Dịch vụ sẽ thuộc thẩm quyền độc quyền của các tòa án có thẩm quyền tại Nantes, Pháp."
+      },
+      "resolution": {
+        "title": "12.3. Giải Quyết Tranh Chấp & Trọng Tài",
+        "no_mandatory": "Không Có Trọng Tài Bắt Buộc: Jynx không yêu cầu trọng tài bắt buộc. Bạn giữ quyền mang tranh chấp đến tòa án Nantes, Pháp.",
+        "adr_title": "Giải Quyết Tranh Chấp Thay Thế (Tùy chọn):",
+        "adr_intro": "Trước khi khởi kiện, chúng tôi khuyến khích bạn:",
+        "adr": {
+          "li1": "Liên Hệ Trực Tiếp Với Chúng Tôi: Cố gắng giải quyết vấn đề bằng cách liên hệ support@jynx.app hoặc dpo@jynx.app",
+          "li2": "Đàm Phán Không Chính Thức: Chúng tôi sẽ làm việc với bạn một cách thiện chí để đạt được giải pháp thân thiện trong vòng 30 ngày",
+          "li3": "Hòa Giải (Tùy chọn): Nếu giải pháp không chính thức thất bại, bạn có thể đề xuất hòa giải thông qua một trung gian trung lập bên thứ ba"
+        }
+      },
+      "eu_rights": {
+        "title": "12.4. Quyền Người Tiêu Dùng EU",
+        "intro": "Nếu bạn là người tiêu dùng ở Liên minh Châu Âu, bạn giữ tất cả quyền người tiêu dùng bắt buộc theo luật EU, bao gồm:",
+        "li1": "Thời gian làm mát 14 ngày cho mua nội dung kỹ thuật số",
+        "li2": "Quyền được khắc phục cho sản phẩm hoặc dịch vụ bị lỗi",
+        "li3": "Bảo vệ chống điều khoản hợp đồng không công bằng",
+        "li4": "Quyền nộp đơn khiếu nại với cơ quan bảo vệ người tiêu dùng địa phương của bạn",
+        "li5": "Truy cập vào nền tảng ODR của EU"
+      },
+      "gdpr": {
+        "title": "12.5. Tuân Thủ GDPR",
+        "p1": "Các thực hành dữ liệu của chúng tôi tuân thủ Quy Định Bảo Vệ Dữ Liệu Chung (GDPR). Xem Chính sách Bảo mật của chúng tôi để biết chi tiết về thu thập, xử lý, lưu giữ dữ liệu, quyền của bạn và cách liên hệ với Nhân viên Bảo vệ Dữ liệu của chúng tôi."
+      }
+    },
+    "section13": {
+      "title": "13. Thông Tin Liên Hệ & Pháp Lý",
+      "contact": {
+        "title": "13.1. Liên Hệ Với Chúng Tôi",
+        "intro": "Đối với câu hỏi về các Điều khoản Dịch vụ này:",
+        "general_label": "Yêu Cầu Chung:",
+        "general": "dpo@jynx.app",
+        "support_label": "Hỗ Trợ Khách Hàng:",
+        "support": "support@jynx.app",
+        "security_label": "Vấn Đề Bảo Mật:",
+        "security": "security@jynx.app"
+      },
+      "legal": {
+        "title": "13.2. Pháp Nhân",
+        "company_label": "Tên Công Ty:",
+        "company": "Jynx Group",
+        "address_label": "Địa Chỉ Vật Lý:",
+        "address_line1": "BEACH BAT B1ETG APT2 1",
+        "address_line2": "6 QUAI MAGELLAN",
+        "address_line3": "44000 NANTES",
+        "address_line4": "FRANCE",
+        "registration_label": "Thông Tin Đăng Ký:",
+        "siren_label": "SIREN:",
+        "siren": "991443896",
+        "siret_label": "SIRET:",
+        "siret": "99144389600014",
+        "rcs_label": "Đăng ký với:",
+        "rcs": "Registre du Commerce et des Sociétés (RCS) de Nantes",
+        "date_label": "Ngày Đăng Ký:",
+        "date": "17 Tháng 9, 2025",
+        "form_label": "Hình Thức Pháp Lý:",
+        "form": "Société par Actions Simplifiée (SAS)",
+        "vat_label": "Số VAT:",
+        "vat": "FR39991443896",
+        "dpo_label": "Nhân Viên Bảo Vệ Dữ Liệu (DPO):",
+        "dpo": "dpo@jynx.app"
+      }
+    },
+    "section14": {
+      "title": "14. Điều Khoản Khác",
+      "entire": {
+        "title": "14.1. Toàn Bộ Thỏa Thuận",
+        "p1": "Các Điều khoản này, cùng với Chính sách Bảo mật của chúng tôi, tạo thành toàn bộ thỏa thuận giữa bạn và Jynx liên quan đến Dịch vụ."
+      },
+      "severability": {
+        "title": "14.2. Khả Năng Tách Rời",
+        "p1": "Nếu bất kỳ điều khoản nào của các Điều khoản này được nhận thấy là không hợp lệ hoặc không thể thực thi, các điều khoản còn lại sẽ vẫn có hiệu lực đầy đủ."
+      },
+      "waiver": {
+        "title": "14.3. Từ Bỏ",
+        "p1": "Việc chúng tôi không thực thi bất kỳ quyền hoặc điều khoản nào của các Điều khoản này sẽ không tạo thành sự từ bỏ quyền hoặc điều khoản đó."
+      },
+      "assignment": {
+        "title": "14.4. Chuyển Nhượng",
+        "p1": "Bạn không được chuyển nhượng hoặc chuyển giao các Điều khoản này mà không có sự đồng ý trước bằng văn bản của chúng tôi. Chúng tôi có thể chuyển nhượng các Điều khoản này mà không bị hạn chế."
+      },
+      "language": {
+        "title": "14.5. Ngôn Ngữ",
+        "p1": "Các Điều khoản này được cung cấp bằng tiếng Anh. Trong trường hợp có bất kỳ xung đột nào giữa phiên bản tiếng Anh và bản dịch, phiên bản tiếng Anh sẽ được ưu tiên."
+      }
+    },
+    "final_acknowledgment": "Bằng cách sử dụng Jynx, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này."
   },
   "nav": {
     "home": "Trang chủ",
@@ -447,7 +1276,8 @@
     "issue4": {
       "title": "Xung Đột Thời Gian Chơi",
       "description": "Tìm game thủ chia sẻ cùng lịch trình sẵn có—không còn chơi đơn độc nữa."
-    }
+    },
+    "description": "Việc tìm đồng đội tương thích trong game cạnh tranh thường gây bực bội và tốn thời gian. Ghép cặp ngẫu nhiên hiếm khi kết nối bạn với người chơi phù hợp với phong cách giao tiếp, trình độ kỹ năng và lịch trình của bạn."
   },
   "solution": {
     "title": "Cách Jynx Hoạt Động",
@@ -463,6 +1293,12 @@
     "step3": {
       "title": "Chơi và Chiến Thắng Cùng Nhau",
       "description": "Thành lập đội, phối hợp và leo bảng xếp hạng cùng nhau."
+    },
+    "description": "Nền tảng thông minh của chúng tôi kết nối bạn với những người bạn đồng hành game hoàn hảo dựa trên sở thích game thực tế của bạn, đảm bảo mỗi trận đấu dẫn đến trải nghiệm game tốt hơn.",
+    "benefits": {
+      "scheduling": "Lên lịch phiên game phù hợp với khả năng sẵn có của mọi người",
+      "time": "Tiết kiệm hàng giờ tìm kiếm đồng đội tương thích",
+      "playstyle": "Kết nối với người chơi chia sẻ phong cách giao tiếp và cách tiếp cận game của bạn"
     }
   },
   "collaborative": {
@@ -496,7 +1332,8 @@
       "invalid_email": "Vui lòng nhập địa chỉ email hợp lệ.",
       "empty_field": "Trường này không được để trống.",
       "default": "Đã xảy ra lỗi không mong muốn. Vui lòng thử lại."
-    }
+    },
+    "nojs_note": "Điều này sẽ mở ứng dụng email của bạn. Để có trải nghiệm tốt nhất, vui lòng bật JavaScript."
   },
   "feedback": {
     "coming_soon": "Sắp ra mắt",
@@ -514,7 +1351,24 @@
       "submitting": "Đang gửi...",
       "success": "Cảm ơn phản hồi của bạn!",
       "error": "Đã xảy ra lỗi. Vui lòng thử lại."
-    }
+    },
+    "feedback": "Tin nhắn của bạn (tùy chọn)",
+    "feedback_label": "Tin nhắn của bạn",
+    "countdown_label": "Ra mắt trong",
+    "countdown_days": "NGÀY",
+    "countdown_hours": "GIỜ",
+    "countdown_minutes": "PHÚT",
+    "countdown_seconds": "GIÂY",
+    "discord": "Tham gia Discord của chúng tôi",
+    "yes": "Có",
+    "no": "Không",
+    "textarea": "",
+    "submit": "Gửi",
+    "note": "Miễn phí mãi mãi",
+    "submitting": "Đang gửi...",
+    "thanks": "Cảm ơn phản hồi của bạn!",
+    "error": "Không thể gửi phản hồi. Vui lòng thử lại.",
+    "error_empty": "Vui lòng cung cấp email hoặc phản hồi của bạn."
   },
   "footer": {
     "company": {
@@ -545,14 +1399,22 @@
     "generic_error": "Đã Xảy Ra Lỗi",
     "generic_error_description": "Chúng tôi gặp lỗi. Vui lòng thử lại.",
     "network_error": "Lỗi Mạng",
-    "network_error_description": "Kiểm tra kết nối internet của bạn và thử lại."
+    "network_error_description": "Kiểm tra kết nối internet của bạn và thử lại.",
+    "generic": "Đã xảy ra lỗi. Vui lòng thử lại.",
+    "network": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn.",
+    "validation": "Vui lòng kiểm tra đầu vào của bạn và thử lại.",
+    "not_found": "Không tìm thấy trang.",
+    "server": "Lỗi máy chủ. Vui lòng thử lại sau."
   },
   "accessibility": {
     "skip_to_content": "Bỏ qua đến nội dung",
     "open_menu": "Mở menu",
     "close_menu": "Đóng menu",
     "toggle_theme": "Chuyển đổi chủ đề",
-    "language_selector": "Bộ chọn ngôn ngữ"
+    "language_selector": "Bộ chọn ngôn ngữ",
+    "menu_toggle": "Bật/tắt menu điều hướng",
+    "theme_toggle": "Bật/tắt chế độ tối",
+    "close_modal": "Đóng hộp thoại"
   },
   "breadcrumb": {
     "home": "Trang chủ",
@@ -586,8 +1448,9 @@
       "twitter_image_alt": "Tải Xuống Jynx"
     },
     "hero": {
-      "title": "Nhận Jynx Cho Nền Tảng Của Bạn",
-      "subtitle": "Có sẵn trên Windows, macOS, iOS và Android. Kết nối với cộng đồng game của bạn trên tất cả thiết bị."
+      "title": "Jynx - Nền Tảng Xã Hội Gaming",
+      "subtitle": "Kết nối với game thủ, tìm đồng đội, tham gia cộng đồng",
+      "status": "Sắp Ra Mắt: Có Sẵn trên iOS và Android"
     },
     "platforms": {
       "title": "Chọn Nền Tảng Của Bạn",
@@ -615,18 +1478,25 @@
       }
     },
     "features": {
-      "title": "Trải Nghiệm Liền Mạch Trên Tất Cả Thiết Bị",
-      "cross_platform": {
-        "title": "Đồng Bộ Đa Nền Tảng",
-        "description": "Hồ sơ, trận đấu và tin nhắn của bạn được đồng bộ trên tất cả thiết bị."
-      },
-      "performance": {
-        "title": "Hiệu Suất Cao",
-        "description": "Được tối ưu hóa cho trải nghiệm mượt mà, phản hồi nhanh."
-      },
-      "notifications": {
-        "title": "Thông Báo Thời Gian Thực",
-        "description": "Không bỏ lỡ yêu cầu trận đấu và cập nhật đội."
+      "title": "Những Gì Sẽ Có Trên Di Động",
+      "subtitle": "Tất cả sức mạnh của Jynx, được tối ưu hóa cho điện thoại của bạn",
+      "cards": {
+        "instant_connect": {
+          "title": "Kết Nối Tức Thì",
+          "description": "Tham gia trò chuyện thoại và phiên game chỉ với một lần chạm, ngay từ thông báo của bạn"
+        },
+        "notifications": {
+          "title": "Thông Báo Thông Minh",
+          "description": "Nhận thông báo khi đồng đội yêu thích của bạn trực tuyến hoặc khi tìm thấy trận đấu hoàn hảo"
+        },
+        "cross_platform": {
+          "title": "Đồng Bộ Đa Nền Tảng",
+          "description": "Cuộc trò chuyện, trận đấu và cộng đồng của bạn luôn được đồng bộ giữa di động và máy tính để bàn"
+        },
+        "offline_mode": {
+          "title": "Chế Độ Ngoại Tuyến",
+          "description": "Xem trận đấu và lên kế hoạch phiên của bạn ngay cả khi không có kết nối internet"
+        }
       }
     },
     "system_requirements": {
@@ -671,6 +1541,49 @@
       "title": "Tham Gia Jynx Ngay Hôm Nay",
       "description": "Bắt đầu kết nối với game thủ cùng chí hướng và nâng cao trải nghiệm game của bạn.",
       "button": "Bắt Đầu"
+    },
+    "store": {
+      "app_store": {
+        "text_small": "Tải về",
+        "text_large": "App Store"
+      },
+      "google_play": {
+        "text_small": "Tải về",
+        "text_large": "Google Play"
+      },
+      "coming_soon": "Sắp Ra Mắt"
+    },
+    "signup": {
+      "title": "Nhận Thông Báo Khi Chúng Tôi Ra Mắt",
+      "description": "Trở thành người đầu tiên biết khi Jynx có sẵn trên nền tảng của bạn",
+      "email_placeholder": "Nhập email của bạn",
+      "submit": "Thông Báo Cho Tôi"
+    },
+    "social": {
+      "title": "Chia sẻ với đội game của bạn",
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "copy_link": "Sao Chép Liên Kết"
+    },
+    "info": {
+      "title": "Biến Đổi Trải Nghiệm Game Của Bạn",
+      "description": "Jynx biến game đơn lẻ thành trải nghiệm xã hội bằng cách kết nối thông minh người chơi dựa trên sở thích game, phong cách chơi và sở thích cộng đồng. Tìm đội game hoàn hảo của bạn và không bao giờ chơi một mình nữa."
+    },
+    "js_messages": {
+      "share_twitter": "Xem Jynx - nền tảng game xã hội biến game đơn lẻ thành trải nghiệm xã hội! 🎮",
+      "share_discord_alert": "Đã sao chép liên kết! Bây giờ bạn có thể dán nó vào Discord để chia sẻ với bạn bè game của bạn.",
+      "copy_success": "✓ Đã sao chép!",
+      "copy_fallback": "Đã sao chép liên kết vào clipboard!",
+      "form_submitting": "Đang gửi...",
+      "form_success": "✓ Cảm ơn! Chúng tôi sẽ thông báo cho bạn khi Jynx ra mắt trên di động.",
+      "form_error": "Đã xảy ra lỗi. Vui lòng thử lại."
+    },
+    "theme_feedback": {
+      "title": "Giúp Chúng Tôi Thiết Kế Ứng Dụng",
+      "description": "Bạn thích bảng màu nào cho ứng dụng di động? Phản hồi của bạn giúp chúng tôi tạo ra trải nghiệm hoàn hảo.",
+      "current_theme": "Chủ đề hiện tại:",
+      "submit": "Gửi Sở Thích Chủ Đề Ứng Dụng",
+      "thanks": "Cảm ơn đã giúp chúng tôi thiết kế giao diện ứng dụng!"
     }
   },
   "use_cases": {
@@ -776,7 +1689,8 @@
       "quote": "Chơi solo không còn vui nữa. Jynx đã giúp tôi khám phá các cộng đồng xung quanh các trò chơi yêu thích của mình, và giờ tôi có một nhóm ổn định để chơi mỗi tối. AI đã ghép đôi hoàn hảo cho tôi với những người có cùng mục tiêu chơi game - thông thường nhưng cạnh tranh khi quan trọng.",
       "name": "James 'ShadowStrike' Wilson",
       "role": "Cựu Người Chơi Solo Queue"
-    }
+    },
+    "nojs_note": "Bật JavaScript để duyệt tất cả đánh giá"
   },
   "faq": {
     "title": "Câu Hỏi Thường Gặp Về Ghép Đôi Game",
@@ -848,5 +1762,8 @@
       "matches": "50,000+ Trận Đấu Hàng Ngày",
       "rating": "4.8/5 Xếp Hạng Trung Bình"
     }
+  },
+  "global": {
+    "nojs_banner": "JavaScript đã bị tắt. Một số tính năng tương tác có thể không hoạt động tối ưu."
   }
 }

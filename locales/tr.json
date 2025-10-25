@@ -15,38 +15,76 @@
       "title": "Jynx Hakkında | Misyonumuz ve Vizyonumuz",
       "description": "Jynx'in anlamlı bağlantılar yoluyla oyun topluluğunu nasıl dönüştürdüğünü öğrenin. Ekibimizle tanışın, hikayemizi ve oyunu herkes için daha sosyal hale getirme taahhüdümüzü keşfedin.",
       "og_title": "Jynx Hakkında - Oyunu Sosyalleştiren Ekip",
-      "og_description": "Oyun topluluğunu yeniden tanımlama tutkusuyla birleşmiş ekiple tanışın. Misyonumuzu, vizyonumuzu ve oyunu herkes için daha bağlantılı ve keyifli hale getirme yolculuğumuzu keşfedin."
+      "og_description": "Oyun topluluğunu yeniden tanımlama tutkusuyla birleşmiş ekiple tanışın. Misyonumuzu, vizyonumuzu ve oyunu herkes için daha bağlantılı ve keyifli hale getirme yolculuğumuzu keşfedin.",
+      "og_image_alt": "Jynx Ekibi ve Platform Genel Bakış",
+      "twitter_title": "Jynx Hakkında - Akıllı Oyun Eşleştirme Platformu",
+      "twitter_description": "Oyuncular tarafından oyuncular için kuruldu. Jynx'in misyonunu öğrenin.",
+      "twitter_image_alt": "Jynx Platformu Hakkında"
+    },
+    "title": "Jynx Hakkında",
+    "subtitle": "Oyunu soldan sosyale dönüştürmek",
+    "story": {
+      "title": "Hikayemiz",
+      "p1": "2024'te kurulan Jynx, basit ama güçlü bir vizyondan doğdu: oyuncuların bağlanma ve birlikte oynama şeklini dönüştürmek. Değerli oyun zamanınızı uyumlu takım arkadaşları aramak için harcamanın veya yetenek seviyeniz ve oyun tarzınıza uyan oyuncular bulmakta zorlanmanın hayal kırıklığını anlıyoruz.",
+      "p2": "Platformumuz, solo oyun deneyimleri ile tatmin edici takım oyunu arasında köprü görevi görüyor ve yetenek seviyesine, oyun tarzına ve kişiliğe göre mükemmel oyun arkadaşlarınızı hızlıca bulmanıza olanak tanıyor."
+    },
+    "problem": {
+      "title": "Çözdüğümüz Sorun",
+      "intro": "Oyuncular olarak, zorlukları ilk elden deneyimledik:",
+      "points": {
+        "time": "Takım arkadaşları aramak için oyundan daha fazla zaman harcamak",
+        "mismatch": "Becerileri veya hedefleri sizinkiyle uyuşmayan oyuncularla eşleşmek",
+        "disconnected": "Daha geniş oyun topluluğundan kopuk hissetmek",
+        "relationships": "Kalıcı oyun ilişkileri kurmakta zorlanmak"
+      },
+      "conclusion": "Jynx bu sorunları özellikle oyuncular için, oyuncular tarafından tasarlanmış yenilikçi eşleştirme sistemleriyle ele alıyor."
+    },
+    "founders": {
+      "title": "Kurucularımız",
+      "arthur": {
+        "name": "Arthur Bonvallet",
+        "role": "Kurucu Ortak & Ürün Sahibi",
+        "bio": "Paris'ten tutkulu bir oyuncu ve deneyimli ürün uzmanı olan Arthur, kullanıcı deneyimi ve ürün geliştirme konusundaki derin anlayışını Jynx'e getiriyor. Vizyonu, platformumuzun sezgisel tasarımını ve özellik setini yönlendiriyor."
+      },
+      "antoine": {
+        "name": "Antoine Haie",
+        "role": "Kurucu Ortak & Baş Geliştirici",
+        "bio": "Antoine'ın fullstack geliştirici olarak teknik uzmanlığı Jynx platformunu güçlendiriyor. Paris merkezli, oyun geçmişi ve teknik becerileri birleşerek platformumuzun her seviyeden oyuncu için sorunsuz bir deneyim sunmasını sağlıyor."
+      }
+    },
+    "features": {
+      "title": "Jynx'i Farklı Kılan Nedir",
+      "elo": {
+        "title": "ELO Tabanlı Eşleşme Kuyruğu",
+        "description": "Sofistike eşleştirme algoritmamız, sizi doğru düzeyde zorluk ve uyumluluk sağlayan takım arkadaşları ve rakiplerle bağlamak için yetenek seviyenizi (ELO) dikkate alır."
+      },
+      "chat": {
+        "title": "Küresel Sohbet Sistemi",
+        "description": "Stratejileri tartışabileceğiniz, deneyimleri paylaşabileceğiniz veya sadece diğer oyuncularla takılabileceğiniz canlı küresel sohbet sistemimiz aracılığıyla daha geniş oyun topluluğuyla bağlantıda kalın."
+      },
+      "guilds": {
+        "title": "Lonca Tabanlı Topluluklar",
+        "description": "Benzersiz 'lonca' sistemimizle oyun evinizi bulun. Favori oyunlarınıza veya oyun tarzlarınıza göre mevcut topluluklara katılın veya kendi loncanızı oluşturup topluluk lideri olun. İtibarınızı oluşturun, takım kültürünüzü kurun ve oyun müttefiklerinizi ağınızı büyütün."
+      }
+    },
+    "for_everyone": {
+      "title": "Her Oyuncu İçin",
+      "p1": "Eğlenceli arkadaşlar arayan sıradan bir oyuncu veya turnuva oyunu için ciddi takım arkadaşları arayan rekabetçi bir oyuncu olun, Jynx herkese kapılarını açıyor. Platformumuz tüm oyun türleri, türler ve platformlardaki toplulukları destekler.",
+      "p2": "Favori oyunun için bir topluluk görmüyor musun? Bir tane oluştur ve kurucu lideri ol! Jynx'te, oyuncuların kendi alanlarını oluşturma ve besleme gücüne inanıyoruz."
+    },
+    "mission": {
+      "title": "Misyonumuz",
+      "p1": "Jynx sadece bir platform değil - oyunun birlikte daha iyi olduğuna inanan büyüyen bir oyuncu topluluğudur. Daha yeni başlıyoruz ve oyuncuların nasıl bağlandığını, rekabet ettiğini ve işbirliği yaptığını devrimleştirirken yolculuğumuzun bir parçası olmanız için sizi davet ediyoruz.",
+      "p2": "Oyuna devam!"
+    },
+    "cta": {
+      "title": "Jynx Topluluğuna Katılın",
+      "description": "Mükemmel oyun takımınızı bulmanın yeni bir yolunu deneyimleyen ilk kişi olun",
+      "button": "Bekleme Listesine Katıl"
     },
     "hero": {
       "title": "Oyun Sosyal Devrimini Yönlendirmek",
       "subtitle": "Jynx'in arkasındaki ekip ve vizyon ile tanışın"
-    },
-    "mission": {
-      "title": "Misyonumuz",
-      "content": "Jynx'te oyunun sadece kazanmakla ilgili değil, bağlantı kurmakla ilgili olduğuna inanıyoruz. Misyonumuz, oyuncuların anlamlı ilişkiler kurabilecekleri ve birlikte en iyi deneyimleri yaratabileceği bir platform oluşturmaktır.",
-      "values_title": "Değerlerimiz",
-      "values": {
-        "community": {
-          "title": "Topluluk Öncelikli",
-          "description": "Oyun topluluğunu her kararın merkezine koyuyoruz"
-        },
-        "innovation": {
-          "title": "İnovasyon",
-          "description": "Oyuncuların bağlanma ve oynama şeklini sürekli geliştiriyoruz"
-        },
-        "inclusivity": {
-          "title": "Kapsayıcılık",
-          "description": "Her geçmişten ve yetenek seviyesinden oyuncuyu karşılayan alanlar yaratıyoruz"
-        },
-        "transparency": {
-          "title": "Şeffaflık",
-          "description": "Topluluğumuzla açık ve dürüst diyalog sürdürüyoruz"
-        }
-      }
-    },
-    "story": {
-      "title": "Hikayemiz",
-      "content": "Jynx, oyunculuğun en büyük paradoksunu - çevrimiçi çok oyunculu oyunlar oynadığınız halde sıklıkla yalnız hissetmenizi - çözme tutkusundan doğdu. Kurucularımız rastgele eşleştirmenin hayal kırıklığını ve iyi takım arkadaşları bulmanın zorluğunu ilk elden deneyimlediler.<br><br>2023'te Arthur Bonvallet ve Nathan Nathan daha iyi bir yol oluşturmak için güçlerini birleştirdiler. Modern sosyal ağları sofistike eşleştirme algoritmaları ile birleştirerek, oyuncuların gerçekten bağlanabileceği, birlikte oynayabileceği ve kalıcı arkadaşlıklar kurabileceği bir platform oluşturduk."
     },
     "team": {
       "title": "Ekibimizle Tanışın",
@@ -101,12 +139,307 @@
       "title": "Gizlilik Politikası | Jynx",
       "description": "Jynx'in gizlilik politikasını okuyun. Bilgilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
       "og_title": "Jynx Gizlilik Politikası",
-      "og_description": "Verilerinizi nasıl işlediğimizi ve gizliliğinizi nasıl koruduğumuzu öğrenin."
+      "og_description": "Verilerinizi nasıl işlediğimizi ve gizliliğinizi nasıl koruduğumuzu öğrenin.",
+      "og_image_alt": "Jynx Gizlilik Politikası",
+      "twitter_title": "Jynx Gizlilik Politikası",
+      "twitter_description": "Verilerinizi nasıl koruduğumuzu ve gizliliğinize nasıl saygı gösterdiğimizi öğrenin.",
+      "twitter_image_alt": "Gizlilik Politikası"
     },
     "title": "Gizlilik Politikası",
+    "last_updated": "Son güncelleme: Ekim 2025",
+    "version": "Versiyon: 1.0",
     "effective_date": "Yürürlük Tarihi: 1 Ocak 2024",
-    "last_updated": "Son Güncelleme: 1 Ocak 2024",
-    "intro": "Jynx (&quot;biz,&quot; &quot;bizim,&quot; veya &quot;bizimki&quot;) gizliliğinizi korumaya kendini adamıştır. Bu gizlilik politikası, hizmetlerimizi kullandığınızda bilgilerinizi toplama, kullanma ve ifşa etme uygulamalarımızı açıklar.",
+    "intro": {
+      "title": "1. Giriş",
+      "p1": "Jynx (\"biz\", \"bizim\", \"uygulama\"), oyuncuların bağlanmasına, takım kurmasına ve birlikte oynamasına olanak tanıyan sosyal bir oyun platformudur.",
+      "legal_info": "Yasal Bilgiler:",
+      "entity_label": "Yasal Varlık:",
+      "entity": "Jynx Group",
+      "dpo_label": "Gizlilik Sorumlusu İletişim:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Yargı Yetkisi:",
+      "jurisdiction": "Fransa, Avrupa Birliği (GDPR Uyumluluğu)",
+      "p2": "Bu gizlilik politikası, uygulamamızı kullandığınızda kişisel verilerinizi nasıl topladığımızı, kullandığımızı, paylaştığımızı ve koruduğumuzu açıklar."
+    },
+    "age_verification": {
+      "title": "2. Minimum Yaş ve Doğrulama",
+      "p1": "Uygulamamız 18 yaş ve üzeri kullanıcılar içindir.",
+      "p2": "Hesabınızı oluştururken, doğum tarihinizi sağlamanızı istiyoruz. 18 yaşın altındaysanız, hesap oluşturamaz veya hizmetlerimizi kullanamazsınız."
+    },
+    "data_collected": {
+      "title": "3. Toplanan Veriler",
+      "registration": {
+        "title": "3.1. Kayıt ve Profil Verileri",
+        "intro": "Hesabınızı oluştururken ve yönetirken aşağıdaki bilgileri topluyoruz:"
+      },
+      "auth": {
+        "title": "Kimlik Doğrulama Bilgileri:",
+        "email": "E-posta (e-posta/şifre hesapları için)",
+        "username": "Kullanıcı adı/takma ad",
+        "photo": "Profil fotoğrafı (isteğe bağlı)",
+        "social": "Bu yöntemleri kullanıyorsanız sosyal giriş tanımlayıcıları (Google, Apple)"
+      },
+      "profile": {
+        "title": "Profil Bilgileri:",
+        "birthdate": "Doğum tarihi (yaş doğrulaması için)",
+        "location": "Ülke ve saat dilimi",
+        "languages": "Konuşulan diller",
+        "bio": "Biyografi (isteğe bağlı)",
+        "preferences": "Oyun tercihleri ve müsaitlik",
+        "handle": "Özel arkadaş keşfi için benzersiz tanımlayıcı (otomatik oluşturulur)"
+      },
+      "gaming": {
+        "title": "3.2. Oyun Verileri",
+        "intro": "Uyumlu takım arkadaşları bulmanıza yardımcı olmak için şunları topluyoruz:"
+      },
+      "game_profiles": {
+        "title": "Oyun Profilleri:",
+        "games": "Oynadığınız oyunlar",
+        "ranks": "Seviyeler, rütbeler ve oyun istatistikleri",
+        "champions": "Favori şampiyonlar/karakterler",
+        "playstyle": "Oyun tarzı"
+      },
+      "riot": {
+        "title": "Riot Games API Entegrasyonu:",
+        "intro": "Riot Games API'sinden (onayınızla) şunları alıyoruz:",
+        "summoner": "Çağırıcı adı ve Riot ID",
+        "rank": "Rütbe ve maç geçmişi (League of Legends, Valorant, vb.)",
+        "stats": "Şampiyon istatistikleri",
+        "matches": "Son maç geçmişi",
+        "reason_label": "Toplama Nedeni:",
+        "reason": "Oyuncu profilinizi göstermek ve diğer oyuncularla eşleştirmeyi iyileştirmek."
+      },
+      "technical": {
+        "title": "3.3. Kullanım ve Teknik Veriler",
+        "intro": "Belirli teknik verileri otomatik olarak topluyoruz:"
+      },
+      "analytics": {
+        "title": "Analitik ve Performans:",
+        "firebase_label": "Firebase Performans İzleme:",
+        "firebase": "Uygulama başlatma süresi, arayüz akıcılığı",
+        "sentry_label": "Sentry:",
+        "sentry": "Hata ve performans raporları (kişisel veri anonimleştirme ile)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Çökme raporları",
+        "disable": "Ayarlar > Gizlilik > \"Analitikleri Etkinleştir\" bölümünden analitik veri toplamayı devre dışı bırakabilirsiniz."
+      },
+      "device": {
+        "title": "Cihaz Bilgileri:",
+        "type": "Cihaz türü ve modeli",
+        "os": "İşletim sistemi sürümü",
+        "app_version": "Uygulama sürümü"
+      },
+      "behavior": {
+        "title": "Kullanıcı Davranışı:",
+        "screens": "Ziyaret edilen ekranlar ve kullanılan özellikler",
+        "time": "Uygulamada geçirilen süre",
+        "interactions": "Arayüz etkileşimleri"
+      },
+      "communication": {
+        "title": "3.4. İletişim Verileri",
+        "messages_label": "Mesajlar:",
+        "messages": "Topluluk sohbetlerindeki mesajlar, kullanıcılar arası özel mesajlar, sohbet geçmişi",
+        "notifications_label": "Bildirimler:",
+        "notifications": "Push bildirimleri için FCM token'ları (Firebase Cloud Messaging)"
+      },
+      "user_content": {
+        "title": "3.5. Kullanıcı Tarafından Oluşturulan İçerik",
+        "photos": "Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar)",
+        "reports": "Güvenlik ve moderasyon raporları",
+        "cosmetics": "Kozmetik tercihleri (avatarlar, rozetler)"
+      }
+    },
+    "third_party": {
+      "title": "4. Üçüncü Taraf Hizmetleri ve Veri Paylaşımı",
+      "firebase": {
+        "title": "4.1. Firebase Hizmetleri (Google)",
+        "intro": "Tamamı GDPR uyumlu aşağıdaki Firebase hizmetlerini kullanıyoruz:",
+        "auth_label": "Firebase Authentication:",
+        "auth": "Güvenli kullanıcı hesabı yönetimi",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Profil ve oyun verilerinizin saklanması",
+        "storage_label": "Firebase Storage:",
+        "storage": "Profil resimlerinizin barındırılması",
+        "functions_label": "Cloud Functions:",
+        "functions": "Güvenli backend mantık yürütme",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Push bildirimleri",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Kötüye kullanım ve botlara karşı koruma",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "Uygulama performans izleme",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Çökme raporları",
+        "policy_label": "Firebase Gizlilik Politikası:",
+        "policy": "https://firebase.google.com/support/privacy"
+      },
+      "sentry": {
+        "title": "4.2. Sentry (Hata İzleme)",
+        "intro": "Hata ve performans takibi için Sentry kullanıyoruz. Toplanan veriler şunları içerir:",
+        "traces": "Hata izleri",
+        "context": "Teknik bağlam (İS, uygulama sürümü)",
+        "policy_label": "Sentry Gizlilik Politikası:",
+        "policy": "https://sentry.io/privacy/"
+      },
+      "riot": {
+        "title": "4.3. Riot Games API",
+        "p1": "Riot Games hesabınızı bağladığınızda, resmi Riot Games API'si aracılığıyla oyun istatistiklerinizi alırız. Bu veriler yalnızca profilinizi görüntülemek ve eşleştirmeyi iyileştirmek için kullanılır.",
+        "policy_label": "Riot Games Gizlilik Politikası:",
+        "policy": "https://www.riotgames.com/tr/privacy-notice"
+      }
+    },
+    "data_usage": {
+      "title": "5. Veri Kullanımı",
+      "intro": "Verilerinizi şu amaçlarla kullanırız:",
+      "services": {
+        "title": "1. Hizmetlerimizi Sağlamak:",
+        "account": "Hesabınızı oluşturmak ve yönetmek",
+        "connect": "Diğer oyuncularla bağlantı kurmanızı sağlamak",
+        "teams": "Takım oluşturma ve oyun seansı organizasyonunu kolaylaştırmak"
+      },
+      "personalization": {
+        "title": "2. Kişiselleştirme:",
+        "matching": "Uyumlu takım arkadaşları önermek (oyun tabanlı, rütbe, tarz eşleştirme)",
+        "content": "İlgili içeriği göstermek"
+      },
+      "communication": {
+        "title": "3. İletişim:",
+        "notifications": "Size önemli bildirimler göndermek (eşleşmeler bulundu, mesajlar alındı)"
+      },
+      "improvement": {
+        "title": "4. Hizmet İyileştirme:",
+        "analyze": "Özellikleri iyileştirmek için kullanımı analiz etmek",
+        "bugs": "Hataları tanımlamak ve düzeltmek",
+        "performance": "Performansı optimize etmek"
+      },
+      "security": {
+        "title": "5. Güvenlik ve Uyumluluk:",
+        "fraud": "Dolandırıcılığı ve kötüye kullanımı önlemek",
+        "terms": "Kullanım şartlarımızı uygulamak",
+        "legal": "Yasal yükümlülüklerimize uymak"
+      }
+    },
+    "retention": {
+      "title": "6. Veri Saklama",
+      "periods": {
+        "title": "6.1. Saklama Süreleri",
+        "profile_label": "Profil Verileri:",
+        "profile": "Hesabınız aktif olduğu sürece saklanır",
+        "analytics_label": "Günlükler ve Analitik:",
+        "analytics": "Firebase Analytics: 14 ay (Firebase politikası)"
+      },
+      "deletion": {
+        "title": "6.2. Veri Silme",
+        "p1": "Hesabınızın silinmesini istediğiniz zaman talep edebilirsiniz (Bölüm 7'ye bakın).",
+        "legal_label": "Yasal Saklama:",
+        "legal": "Bazı veriler yasal yükümlülüklerimizi yerine getirmek için daha uzun süre saklanabilir (örn. güvenlik raporları, finansal işlemler)."
+      }
+    },
+    "rights": {
+      "title": "7. Haklarınız (GDPR)",
+      "intro": "GDPR kapsamında aşağıdaki haklara sahipsiniz:",
+      "access": {
+        "title": "7.1. Erişim Hakkı",
+        "p1": "Hakkınızda tuttuğumuz tüm verilerin bir kopyasını talep edebilirsiniz.",
+        "how_label": "Bu hakkı nasıl kullanırsınız:",
+        "how": "Ayarlar > Gizlilik > \"Verilerimi Dışa Aktar\"",
+        "process": "İşlem, tüm verilerinizi içeren bir JSON dosyası oluşturur (profil, mesajlar, istatistikler, vb.). İndirme bağlantısı 7 gün geçerlidir."
+      },
+      "rectification": {
+        "title": "7.2. Düzeltme Hakkı",
+        "p1": "Profil bilgilerinizi uygulamadan istediğiniz zaman değiştirebilirsiniz (kullanıcı adı, biyografi, tercihler, vb.)."
+      },
+      "erasure": {
+        "title": "7.3. Silme Hakkı (\"Unutulma Hakkı\")",
+        "p1": "Hesabınızın silinmesini talep edebilirsiniz.",
+        "how_label": "Bu hakkı nasıl kullanırsınız:",
+        "how": "Ayarlar > Tehlike Bölgesi > \"Hesabımı Sil\"",
+        "process": {
+          "title": "Otomatik Silme İşlemi:",
+          "step1": "Kazara silmeleri önlemek için iki aşamalı onay",
+          "step2": "Kişisel verilerinizin anında anonimleştirilmesi (Firestore)",
+          "step3": "Firebase Authentication hesabınızın silinmesi (tüm OAuth token'larını otomatik iptal eder)",
+          "step4": "Referans olarak anonimleştirilmiş bir ID sağlanır",
+          "step5": "Mesajlarınızı ve oluşturduğunuz içeriği silme seçeneği"
+        },
+        "important_label": "Önemli:",
+        "important": "Silme geri alınamaz. Bazı anonimleştirilmiş veriler istatistiksel amaçlarla saklanabilir (GDPR uyumlu).",
+        "manual_label": "Manuel Silme Talepleri:",
+        "manual": "Özel veri silme talepleri için (örn. yalnızca belirli bir topluluktaki mesajları silmek, Storage görüntülerini silmek veya diğer özel durumlar), lütfen Veri Koruma Görevlimizle dpo@jynx.app adresinden iletişime geçin. GDPR'ın gerektirdiği şekilde manuel talepleri 30 gün içinde işleme alacağız."
+      },
+      "portability": {
+        "title": "7.4. Veri Taşınabilirliği Hakkı",
+        "p1": "Veri dışa aktarma (Bölüm 7.1), verilerinizi yapılandırılmış, makine tarafından okunabilir bir formatta (JSON) almanıza olanak tanır."
+      },
+      "objection": {
+        "title": "7.5. İtiraz Hakkı",
+        "p1": "Doğrudan pazarlama amaçlı verilerinizin işlenmesine itiraz edebilirsiniz."
+      },
+      "withdraw": {
+        "title": "7.6. Onayı Geri Çekme Hakkı",
+        "p1": "Şunlar için onayınızı geri çekebilirsiniz:",
+        "analytics_label": "Analitik:",
+        "analytics": "Ayarlar > Gizlilik > \"Analitikleri Etkinleştir\" seçeneğini devre dışı bırakın",
+        "notifications_label": "Push Bildirimleri:",
+        "notifications": "Cihaz ayarları",
+        "oauth_label": "Not:",
+        "oauth": "OAuth token'ları (Google, Apple) hesabınızı sildiğinizde otomatik olarak iptal edilir (Bölüm 7.3)."
+      }
+    },
+    "security": {
+      "title": "8. Veri Güvenliği",
+      "intro": "Verilerinizi korumak için teknik ve organizasyonel güvenlik önlemleri uyguluyoruz:",
+      "encryption_label": "Şifreleme:",
+      "encryption": "HTTPS aracılığıyla güvenli iletişim",
+      "rules_label": "Firebase Güvenlik Kuralları:",
+      "rules": "Firestore verilerine katı erişim kontrolü",
+      "auth_label": "Kimlik Doğrulama:",
+      "auth": "Firebase Auth aracılığıyla güvenli oturum yönetimi",
+      "validation_label": "Giriş Doğrulaması:",
+      "validation": "SecureTextInput aracılığıyla XSS enjeksiyonu önleme",
+      "rate_limiting_label": "Hız Sınırlaması:",
+      "rate_limiting": "Kötüye kullanıma karşı koruma (spam mesajlar, otomatik eylemler)",
+      "moderation_label": "Moderasyon:",
+      "moderation": "İçerik raporlama ve moderasyon sistemi",
+      "breach": "Hiçbir sistem %100 güvenli değildir. Bir veri ihlali durumunda, GDPR'a uygun olarak (72 saat içinde) sizi bilgilendireceğiz."
+    },
+    "international": {
+      "title": "9. Uluslararası Veri Transferleri",
+      "p1": "Verileriniz Avrupa Birliği dışında bulunan sunuculara aktarılabilir ve orada saklanabilir, bunlar şunları içerir:",
+      "google_label": "Google Cloud / Firebase:",
+      "google": "GDPR uyumluluğu ile küresel altyapı kullanır",
+      "sentry_label": "Sentry:",
+      "sentry": "Privacy Shield uyumluluğu ile ABD tabanlı sunucular",
+      "guarantees_label": "Garantiler:",
+      "guarantees": "Tüm ortaklarımız GDPR'a eşdeğer koruma garantileri sunar (standart sözleşme hükümleri, Privacy Shield sertifikaları)."
+    },
+    "cookies": {
+      "title": "10. Çerezler ve Benzer Teknolojiler",
+      "p1": "Mobil uygulamamız geleneksel anlamda çerez kullanmaz, ancak şunları kullanır:",
+      "tokens_label": "Kimlik Doğrulama Token'ları:",
+      "tokens": "Güvenli bir şekilde yerel olarak saklanır",
+      "cache_label": "Yerel Önbellek:",
+      "cache": "Performansı iyileştirmek için (profil verileri, son mesajlar)"
+    },
+    "changes": {
+      "title": "11. Bu Politikadaki Değişiklikler",
+      "p1": "Bu gizlilik politikasını güncelleyebiliriz. Önemli değişiklikler durumunda sizi bilgilendireceğiz:",
+      "notification": "Uygulama içi bildirim aracılığıyla",
+      "email": "Hesabınızla ilişkili e-posta adresine"
+    },
+    "contact": {
+      "title": "12. Bizimle İletişime Geçin",
+      "p1": "Bu gizlilik politikası hakkında sorularınız için veya haklarınızı kullanmak için:",
+      "email_label": "E-posta:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Denetim Otoritesi:",
+      "authority": "Haklarınızın saygı görmediğine inanıyorsanız, Fransa'daki CNIL'e (Commission Nationale de l'Informatique et des Libertés) şikayette bulunabilirsiniz."
+    },
+    "consent": {
+      "title": "13. Onay",
+      "p1": "Jynx'i kullanarak, bu gizlilik politikasında açıklandığı şekilde verilerinizin toplanmasına ve kullanılmasına onay verirsiniz.",
+      "p2": "Hesabınızı silerek onayınızı istediğiniz zaman geri çekebilirsiniz."
+    },
     "sections": {
       "information_collection": {
         "title": "1. Topladığımız Bilgiler",
@@ -182,12 +515,584 @@
       "title": "Hizmet Şartları | Jynx",
       "description": "Jynx hizmet şartlarını okuyun. Hizmetimizi kullanırken geçerli kuralları ve düzenlemeleri anlayın.",
       "og_title": "Jynx Hizmet Şartları",
-      "og_description": "Platformumuzun kullanımını yöneten şartları öğrenin."
+      "og_description": "Platformumuzun kullanımını yöneten şartları öğrenin.",
+      "og_image_alt": "Jynx Hizmet Şartları",
+      "twitter_title": "Jynx Hizmet Şartları",
+      "twitter_description": "Hak ve sorumluluklarınızı özetleyen şartlar.",
+      "twitter_image_alt": "Hizmet Şartları"
     },
-    "title": "Hizmet Şartları",
+    "title": "Hizmet Şartları - Jynx",
+    "last_updated_label": "Son Güncelleme:",
+    "last_updated": "12 Ekim 2025",
+    "version_label": "Versiyon:",
+    "version": "1.0",
     "effective_date": "Yürürlük Tarihi: 1 Ocak 2024",
-    "last_updated": "Son Güncelleme: 1 Ocak 2024",
     "intro": "Jynx'e (&quot;Hizmet&quot;) hoş geldiniz. Platformumuza erişerek veya kullanarak, aşağıdaki hizmet şartlarına bağlı olmayı kabul edersiniz. Kabul etmiyorsanız, lütfen Hizmeti kullanmayın.",
+    "section1": {
+      "title": "1. Giriş ve Kabul",
+      "intro": "Oyuncuları birbirine bağlayan, takım kurmalarına ve birlikte oynamalarına yardımcı olan sosyal bir oyun platformu olan Jynx'e hoş geldiniz.",
+      "legal_entity_label": "Yasal Varlık:",
+      "legal_entity": "Jynx Group",
+      "contact_label": "İletişim:",
+      "contact": "dpo@jynx.app",
+      "address_label": "Fiziksel Adres:",
+      "address": "BEACH BAT B1ETG APT2 1, 6 QUAI MAGELLAN, 44000 NANTES",
+      "jurisdiction_label": "Yargı Yetkisi:",
+      "jurisdiction": "Fransa, Avrupa Birliği",
+      "acceptance": "Jynx uygulamasına (\"Hizmet\", \"Platform\", \"Uygulama\") erişerek veya kullanarak, bu Hizmet Şartlarına (\"Şartlar\", \"HŞ\") bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, Hizmeti kullanamazsınız.",
+      "important_label": "ÖNEMLİ:",
+      "important": "Bu Şartlar, siz ve Jynx Group arasında yasal olarak bağlayıcı bir anlaşma oluşturur."
+    },
+    "section2": {
+      "title": "2. Tanımlar",
+      "intro": "Bu Şartların amaçları doğrultusunda:",
+      "service_label": "\"Hizmet\" / \"Platform\" / \"Uygulama\":",
+      "service": "Jynx mobil uygulaması ve tüm ilgili hizmetler",
+      "user_label": "\"Kullanıcı\" / \"Siz\":",
+      "user": "Hizmete erişen veya kullanan herhangi bir kişi",
+      "content_label": "\"İçerik\":",
+      "content": "Hizmet üzerinden yayınlanan, yüklenen veya iletilen tüm metin, resim, veri, bilgi veya diğer materyaller",
+      "account_label": "\"Hesap\":",
+      "account": "Kayıt yoluyla oluşturulan kişisel Jynx hesabınız",
+      "community_label": "\"Topluluk\":",
+      "community": "Jynx içinde oyun ve sosyal etkileşim için oluşturulan bir grup",
+      "handle_label": "\"Tanımlayıcı\":",
+      "handle": "@kullanıcıadı#ayırt edici formatındaki özel arkadaş keşfi için benzersiz tanımlayıcınız",
+      "we_label": "\"Biz\" / \"Bize\" / \"Jynx\":",
+      "we": "Jynx Group ve bağlı kuruluşları"
+    },
+    "section3": {
+      "title": "3. Uygunluk ve Hesap Kaydı",
+      "age": {
+        "title": "3.1. Yaş Gereksinimi",
+        "requirement": "Hesap oluşturmak ve Jynx'i kullanmak için en az 18 yaşında olmalısınız.",
+        "p1": "Kayıt sırasında doğum tarihinizi sağlamanız gerekecektir. 18 yaşın altındaysanız, hesap oluşturamaz veya Hizmete erişemezsiniz.",
+        "enforcement_label": "Uygulama:",
+        "enforcement": "Yaş kapımız, 18 yaşın altındaki kullanıcılar için hesap oluşturmayı otomatik olarak engeller. Yaşınız hakkında yanlış bilgi verdiğinizi tespit edersek, hesabınız derhal kapatılacaktır."
+      },
+      "creation": {
+        "title": "3.2. Hesap Oluşturma",
+        "intro": "Jynx'i kullanmak için şunları sağlayarak bir hesap oluşturmalısınız:",
+        "li1": "Geçerli bir e-posta adresi VEYA Google/Apple aracılığıyla kimlik doğrulama",
+        "li2": "Benzersiz bir kullanıcı adı",
+        "li3": "Doğum tarihiniz (yaş doğrulaması için)",
+        "li4": "Profil bilgileri (ülke, saat dilimi, diller, oyun tercihleri)",
+        "handle": "Arkadaşların sizi herkese açık arama maruziyeti olmadan özel olarak bulmasına olanak tanıyan benzersiz bir Tanımlayıcı (örn. @kullanıcıadı#1234) size atanacaktır."
+      },
+      "security": {
+        "title": "3.3. Hesap Güvenliği",
+        "intro": "Şunlardan siz sorumlusunuz:",
+        "li1": "Hesap kimlik bilgilerinizin gizliliğini korumak",
+        "li2": "Hesabınız altında gerçekleşen tüm aktiviteler",
+        "li3": "Yetkisiz kullanımı derhal bize bildirmek",
+        "liability": "Hesap bilgilerinizi korumadaki başarısızlığınızdan kaynaklanan herhangi bir kayıp veya zarardan sorumlu değiliz."
+      },
+      "accuracy": {
+        "title": "3.4. Hesap Doğruluğu",
+        "intro": "Şunları kabul edersiniz:",
+        "li1": "Kayıt sırasında doğru, güncel ve eksiksiz bilgi sağlamak",
+        "li2": "Doğru ve güncel tutmak için bilgilerinizi güncellemek",
+        "li3": "Herhangi bir kişi veya kuruluşun kimliğine bürünmemek",
+        "li4": "Kötüye kullanım amaçlı birden fazla hesap oluşturmamak"
+      }
+    },
+    "section4": {
+      "title": "4. Kullanıcı Davranışı ve Yasaklanan Aktiviteler",
+      "acceptable": {
+        "title": "4.1. Kabul Edilebilir Kullanım",
+        "p1": "Jynx topluluk odaklı bir platformdur. Hizmeti saygılı, yasal ve uygun bir şekilde kullanmayı kabul edersiniz."
+      },
+      "prohibited": {
+        "title": "4.2. Yasaklanan Davranış",
+        "intro": "Jynx'i kullanırken şunları YAPMAMAK için kabul edersiniz:",
+        "harassment": {
+          "title": "Taciz ve Kötüye Kullanım:",
+          "li1": "Diğer kullanıcıları taciz etmek, tehdit etmek, zorbalık yapmak, takip etmek veya korkutmak",
+          "li2": "Irk, etnik köken, ulusal köken, din, cinsiyet, cinsel yönelim, engellilik veya diğer korunan özelliklere dayalı nefret söylemi veya ayrımcılık yapmak",
+          "li3": "İstenmeyen cinsel içerik göndermek veya cinsel tacizde bulunmak",
+          "li4": "Başkalarına tacizi koordine etmek veya teşvik etmek"
+        },
+        "spam": {
+          "title": "Spam ve Kötüye Kullanım:",
+          "li1": "Spam, istenmeyen reklam veya tanıtım içeriği göndermek",
+          "li2": "Hizmeti önceden yazılı onayımız olmadan ticari amaçlarla kullanmak",
+          "li3": "Yasakları atlatmak veya platformu manipüle etmek için birden fazla hesap oluşturmak",
+          "li4": "Hizmete erişmek veya etkileşim kurmak için otomatik sistemler (botlar, scriptler) kullanmak",
+          "li5": "Eşleştirme, sıralama veya topluluk sistemlerini manipüle etmeye çalışmak"
+        },
+        "impersonation": {
+          "title": "Kimliğe Bürünme ve Dolandırıcılık:",
+          "li1": "Başka bir kişi, kullanıcı veya kuruluşun kimliğine bürünmek",
+          "li2": "Kimliğinizi, yaşınızı veya bağlantınızı yanlış beyan etmek",
+          "li3": "Sahte hesaplar veya yanıltıcı profiller oluşturmak",
+          "li4": "Hesap kimlik bilgilerinizi paylaşmak veya satmak"
+        },
+        "illegal": {
+          "title": "Yasadışı Aktivite:",
+          "li1": "Hizmeti herhangi bir yasadışı amaç için veya yasaları ihlal ederek kullanmak",
+          "li2": "Yasadışı faaliyetleri paylaşmak, tanıtmak veya kolaylaştırmak",
+          "li3": "Başkalarının fikri mülkiyet haklarını ihlal etmek",
+          "li4": "Dolandırıcılık, sahtecilik veya kimlik avı girişimlerinde bulunmak"
+        },
+        "security": {
+          "title": "Platform Güvenliği:",
+          "li1": "Sistemlerimize, sunucularımıza veya veritabanlarımıza yetkisiz erişim kazanmaya çalışmak",
+          "li2": "Kötü amaçlı yazılım, virüs veya zararlı kod dağıtmak",
+          "li3": "Hizmetin herhangi bir bölümünü tersine mühendislik yapmak, derlemek veya parçalarına ayırmak",
+          "li4": "Haksız avantaj için hataları, aksaklıkları veya güvenlik açıklarını istismar etmek (security@jynx.app adresine bildirmelisiniz)"
+        },
+        "privacy": {
+          "title": "Gizlilik İhlalleri:",
+          "li1": "Diğer kullanıcıların özel bilgilerini izinleri olmadan paylaşmak (doxxing)",
+          "li2": "Özel konuşmaları izinsiz ekran görüntüsü almak veya paylaşmak",
+          "li3": "Yetki olmadan kullanıcı verileri toplamak veya toplamak"
+        },
+        "content_violations": {
+          "title": "İçerik İhlalleri:",
+          "li1": "Topluluk Kılavuzlarımızı ihlal eden içerik yayınlamak",
+          "li2": "Şiddet içeren, grafik veya rahatsız edici içerik paylaşmak",
+          "li3": "Küçükleri içeren içerik yayınlamak",
+          "li4": "Telif hakkıyla korunan materyalleri izinsiz dağıtmak"
+        },
+        "manipulation": {
+          "title": "Platform Manipülasyonu:",
+          "li1": "Etkileşim ölçümlerini veya itibarı yapay olarak şişirmek",
+          "li2": "Raporlama sistemimizi kötüye kullanmak için toplu raporlama koordine etmek",
+          "li3": "Hizmetin normal çalışmasına müdahale etmek",
+          "li4": "Hız sınırlarını, kısıtlamaları veya güvenlik özelliklerini atlatmak veya atlamak"
+        },
+        "enforcement_label": "Uygulama:",
+        "enforcement": "Bu yasakların ihlali içerik kaldırma, hesap askıya alma, kalıcı yasak ve/veya yasal işlemle sonuçlanabilir. İhlalleri bildirmek için support@jynx.app ile iletişime geçin. Güvenlik açıkları için security@jynx.app ile iletişime geçin"
+      },
+      "rate_limiting": {
+        "title": "4.3. Hız Sınırlaması ve Anti-Spam",
+        "intro": "Platform ve kullanıcı deneyimini korumak için hız sınırları uyguluyoruz:",
+        "client_label": "İstemci tarafı:",
+        "client": "Dakikada 10 mesaj (kayan pencere)",
+        "burst_label": "Sunucu tarafı patlama koruması:",
+        "burst": "Saniyede 1 mesaj",
+        "daily_label": "Sunucu tarafı günlük limit:",
+        "daily": "Günde 500 mesaj (gece yarısı UTC'de sıfırlanır)",
+        "warning": "Bu sınırları atlatmaya çalışmak hesap askıya alınmasıyla sonuçlanabilir."
+      },
+      "moderation": {
+        "title": "4.4. Moderasyon ve Raporlama",
+        "structure_title": "Moderasyon Yapısı:",
+        "structure_intro": "Jynx, bu Şartların ve Topluluk Kılavuzlarının platform genelinde tutarlı uygulanmasını sağlamak için merkezi bir moderasyon ekibi kullanır. Moderasyon sistemimiz şunları içerir:",
+        "structure": {
+          "li1": "Jynx Moderasyon Ekibi: Bildirilen tüm ihlalleri gözden geçirmekten ve uygun eylemi almaktan sorumlu özel ekip",
+          "li2": "Otomatik Algılama: Spam, yasadışı içerik ve ciddi ihlalleri otomatik olarak işaretleyen ve kaldıran algoritma tabanlı sistemler",
+          "li3": "Topluluk Sahibi Yetkileri: Topluluk sahipleri topluluklarında sınırlı moderasyon yeteneklerine sahiptir, üyeleri atma veya geçici sessizleştirme (24 saate kadar) uygulama yetkisi dahil. Ciddi ihlaller Jynx moderasyon ekibine iletilmelidir"
+        },
+        "reporting_title": "Raporlama Süreci:",
+        "reporting_intro": "İhlalleri şunlar aracılığıyla bildirebilirsiniz:",
+        "reporting": {
+          "li1": "Uygulama İçi Raporlama: Mesajlar, profiller ve topluluk içeriğinde bulunan \"Bildir\" düğmesini kullanın. Uygun kategoriyi seçin (Taciz, Spam, Uygunsuz İçerik, Dolandırıcılık veya Diğer) ve bağlam sağlayın",
+          "li2": "E-posta: Ekran görüntüleri ve kanıtlar dahil olmak üzere ayrıntılı bilgilerle support@jynx.app ile iletişime geçin"
+        },
+        "reporting_note": "Tüm raporlar moderasyon ekibimiz tarafından incelenir. Yanlış veya kötü niyetli raporlar göndermek hesabınıza karşı işlem yapılmasına neden olabilir.",
+        "response_title": "Yanıt Süreleri:",
+        "response_intro": "Raporları ciddiyete göre önceliklendiriyoruz:",
+        "response": {
+          "urgent": "Acil (tehditler, yasadışı içerik, yakın tehlike): 2 saat içinde inceleme ve işlem",
+          "high": "Yüksek Öncelik (taciz, nefret söylemi, cinsel içerik): 24 saat içinde inceleme ve işlem",
+          "medium": "Orta Öncelik (spam, platform manipülasyonu, kural ihlalleri): 72 saat içinde inceleme ve işlem",
+          "low": "Düşük Öncelik (topluluk anlaşmazlıkları, küçük ihlaller): 7 gün içinde inceleme ve işlem"
+        }
+      }
+    },
+    "section5": {
+      "title": "5. İçerik Sahipliği ve Lisans",
+      "your_content": {
+        "title": "5.1. İçeriğiniz",
+        "intro": "Hizmet üzerinden gönderdiğiniz, yüklediğiniz veya ilettiğiniz tüm içeriğin (\"Kullanıcı İçeriği\") sahipliğini korursunuz, bunlar şunları içerir:",
+        "li1": "Topluluk sohbetlerindeki ve özel konuşmalardaki mesajlar",
+        "li2": "Profil bilgileri, biyografiler ve resimler",
+        "li3": "Oyun istatistikleri ve tercihler"
+      },
+      "license": {
+        "title": "5.2. Jynx'e Lisans",
+        "intro": "Kullanıcı İçeriği yayınlayarak, Jynx'e şunlar için münhasır olmayan, dünya çapında, telifsiz, alt lisanslanabilir bir lisans verirsiniz:",
+        "core_title": "Temel Hizmet Operasyonları:",
+        "core": {
+          "li1": "Hizmeti sağlamak için gerektiği şekilde Kullanıcı İçeriğinizi barındırmak, saklamak ve görüntülemek",
+          "li2": "Gizlilik ayarlarınıza göre Kullanıcı İçeriğinizi diğer kullanıcılarla paylaşmak (örn. topluluklarda görüntüleme, eşleşme profillerinde gösterme)",
+          "li3": "Güvenilirlik için yedek kopyalar oluşturmak ve veri fazlalığını sağlamak",
+          "li4": "Bu Şartlara ve yürürlükteki yasalara uygunluk için içeriği denetlemek ve gözden geçirmek"
+        },
+        "improvement_title": "Hizmet İyileştirme ve Analitik:",
+        "improvement": {
+          "li1": "Hizmeti iyileştirmek ve geliştirmek için Kullanıcı İçeriğinizi kullanmak (örn. analitik, özellik geliştirme)",
+          "li2": "Otomatik eşleştirme sistemimiz ve öneri algoritmalarımız için makine öğrenmesi modellerini eğitmek",
+          "li3": "Platform kullanımı ve kullanıcı davranışı hakkında toplu, anonimleştirilmiş istatistikler oluşturmak",
+          "li4": "Kullanıcı deneyimini ve platform güvenliğini artırmak için araştırma yapmak"
+        },
+        "security_title": "Güvenlik ve Uyumluluk:",
+        "security": {
+          "li1": "Spam, kötüye kullanım, dolandırıcılık ve bu Şartların ihlallerini tespit etmek ve önlemek",
+          "li2": "Yasal taleplere yanıt vermek ve haklarımızı uygulamak",
+          "li3": "Platform güvenliği için moderasyon kayıtlarını sürdürmek"
+        },
+        "marketing_title": "Pazarlama ve Tanıtım Kullanımı (Sınırlı):",
+        "marketing": {
+          "li1": "Pazarlama materyallerinde toplu, anonimleştirilmiş istatistikler kullanmak (örn. \"Bu ay 10.000 eşleşme yapıldı\")",
+          "li2": "Açık onayınızla tanıtım materyallerinde herkese açık paylaşılan Kullanıcı İçeriğini (topluluk gönderileri, halka açık profiller) öne çıkarmak",
+          "li3": "Tanıklıklar, ekran görüntüleri veya vaka çalışmaları veya reklamcılık için belirli içeriği kullanmak üzere izninizi istemek"
+        },
+        "limitations_title": "Önemli Sınırlamalar:",
+        "limitations": {
+          "li1": "Özel mesajlar ve konuşmalar ASLA pazarlama amaçlarıyla kullanılmayacaktır",
+          "li2": "Pazarlama materyallerinde tanımlanabilir Kullanıcı İçeriğini (örn. profiliniz, kullanıcı adınız, resimleriniz) kullanmadan önce her zaman açık yazılı onayınızı alacağız",
+          "li3": "Pazarlama kullanımı için onayınızı istediğiniz zaman dpo@jynx.app ile iletişime geçerek geri çekebilirsiniz",
+          "li4": "Anonimleştirilmiş veya toplu veriler ek onay gerektirmez"
+        },
+        "no_sell": "Kişisel verilerinizi üçüncü taraflara SATMAYACAĞIZ. Veri işleme detayları için Gizlilik Politikamıza bakın."
+      },
+      "third_party": {
+        "title": "5.3. Üçüncü Taraf İçeriği",
+        "intro": "Jynx, şunlar dahil olmak üzere üçüncü taraf hizmetleriyle entegre olur:",
+        "riot": "Riot Games API: Şampiyon isimleri, resimler, istatistikler ve maç verileri Riot Games'in mülkiyetindedir. Jynx, Riot Games API Hizmet Şartları altında faaliyet gösterir.",
+        "firebase": "Firebase Hizmetleri: Google tarafından Hizmet Şartları altında sağlanır.",
+        "oauth": "OAuth Sağlayıcıları: Google ve Apple kimlik doğrulama hizmetleri."
+      },
+      "removal": {
+        "title": "5.4. İçerik Kaldırma",
+        "intro": "Şunları yapan herhangi bir Kullanıcı İçeriğini kaldırma hakkını saklı tutarız:",
+        "li1": "Bu Şartları ihlal ediyor",
+        "li2": "Geçerli yasaları ihlal ediyor",
+        "li3": "Üçüncü taraf fikri mülkiyet haklarını ihlal ediyor",
+        "li4": "Topluluk kılavuzlarımızı ihlal ettiği bildirilmiş ve onaylanmış",
+        "notification": "Mümkün olduğunda içerik kaldırma konusunda bilgilendirileceksiniz."
+      }
+    },
+    "section6": {
+      "title": "6. Topluluklar ve Oyun Özellikleri",
+      "community": {
+        "title": "6.1. Topluluk Oluşturma ve Yönetimi",
+        "intro": "Kullanıcılar oyun ve sosyal etkileşim için topluluklar oluşturabilir ve katılabilir.",
+        "freemium_title": "Freemium Sınırlamaları:",
+        "free_label": "Ücretsiz Kullanıcılar:",
+        "free": {
+          "li1": "Oluştur: Maksimum 1 topluluk",
+          "li2": "Katıl: Maksimum 5 topluluğa kadar",
+          "li3": "Topluluk Üye Limitleri: Topluluklar, güçlendirme seviyelerine göre üye üst sınırlarına tabidir"
+        },
+        "premium_label": "Premium Kullanıcılar (Jynx+):",
+        "premium": {
+          "li1": "Oluştur: Sınırsız topluluk",
+          "li2": "Katıl: Sınırsız topluluk",
+          "li3": "Özel Avantajlar: Favori topluluklarınızı desteklemek için ayda 2 ücretsiz topluluk güçlendirme"
+        },
+        "boost_title": "Topluluk Güçlendirme Sistemi:",
+        "boost_intro": "Topluluklar, topluluk güçlendirmeleri yoluyla üye kapasitelerini artırabilir ve ek özelliklerin kilidini açabilir:",
+        "boost": {
+          "level0": "Seviye 0 (Temel): 30 üyeye kadar",
+          "level1": "Seviye 1 (5 güçlendirme): 100 üyeye kadar + Özel topluluk duvar kağıtları",
+          "level2": "Seviye 2 (15 güçlendirme): 250 üyeye kadar + Özel rol oluşturma",
+          "level3": "Seviye 3 (30 güçlendirme): 500 üyeye kadar + Gelişmiş topluluk özellikleri"
+        }
+      },
+      "automatch": {
+        "title": "6.2. Otomatik Eşleştirme Sistemi",
+        "intro": "Jynx, oyuncuları şunlara göre bağlamak için akıllı bir otomatik eşleştirme sistemi kullanır:",
+        "li1": "Oyun tercihleri",
+        "li2": "Yetenek seviyeleri (örn. Riot Games sıralaması)",
+        "li3": "Oyun tarzları ve müsaitlik",
+        "li4": "Dil ve saat dilimi",
+        "consent": "Otomatik eşleştirme özelliğini kullanarak, oyun profilinizin potansiyel eşleşmelerle paylaşılmasına onay verirsiniz."
+      },
+      "riot": {
+        "title": "6.3. Riot Games Entegrasyonu",
+        "intro": "Riot Games hesabınızı bağladığınızda, şunları alıyoruz:",
+        "li1": "Çağırıcı adı ve Riot ID",
+        "li2": "Sıralı istatistikler (League of Legends, Valorant, vb.)",
+        "li3": "Şampiyon ustalığı ve maç geçmişi",
+        "unlink": "Riot hesabınızı Ayarlar'dan istediğiniz zaman bağlantısını kaldırabilirsiniz."
+      }
+    },
+    "section7": {
+      "title": "7. Hesap Askıya Alma ve Sonlandırma",
+      "suspension": {
+        "title": "7.1. Jynx Tarafından Askıya Alma",
+        "intro": "Şunları yaparsanız hesabınızı askıya alma veya sonlandırma hakkını saklı tutarız:",
+        "li1": "Bu Hizmet Şartlarını ihlal ederseniz",
+        "li2": "Yasaklanan davranışlarda bulunursanız (Bölüm 4.2)",
+        "li3": "Dolandırıcılık veya yasadışı faaliyetlerde bulunursanız",
+        "li4": "Diğer kullanıcılardan tekrar tekrar geçerli raporlar alırsanız",
+        "actions_title": "Moderasyon Eylemleri:",
+        "actions_intro": "Moderasyon ekibimiz aşağıdaki eylemleri alabilir:",
+        "warning_label": "1. Uyarı (Düşük Ciddiyet)",
+        "warning": {
+          "li1": "Küçük ihlaller veya ilk kez ihlaller için verilir",
+          "li2": "Hesap kısıtlaması yok, ancak ihlal belgelenir",
+          "li3": "Uyarılar 30 gün boyunca kayıtlarda kalır"
+        },
+        "temp_label": "2. Geçici Askıya Alma (Orta ila Yüksek Ciddiyet)",
+        "temp": {
+          "li1": "7 günlük askıya alma: Önemli ihlaller için standart süre (taciz, spam, platform manipülasyonu)",
+          "li2": "14 günlük askıya alma: Tekrarlanan ihlaller veya daha ciddi ihlaller",
+          "li3": "30 günlük askıya alma: Kalıcı kaldırmayı garanti etmeyen ciddi ihlaller",
+          "li4": "Askıya alma sırasında, Hizmete tüm erişiminizi kaybedersiniz"
+        },
+        "permanent_label": "3. Kalıcı Yasak (Kritik Ciddiyet)",
+        "permanent": {
+          "intro": "En ciddi ihlaller için verilir, bunlar şunları içerir:",
+          "li1": "Yasadışı aktiviteler (dolandırıcılık, yasadışı içerik dağıtımı)",
+          "li2": "Ciddi taciz, tehditler veya nefret söylemi",
+          "li3": "Birden fazla askıya almadan sonra tekrarlanan ihlaller",
+          "li4": "Yasakları atlatmak için birden fazla hesap oluşturma",
+          "li5": "Kötü amaçlı maksatlar için güvenlik açıklarını istismar etme"
+        }
+      },
+      "effect": {
+        "title": "7.2. Sonlandırmanın Etkisi",
+        "intro": "Hesap sonlandırması üzerine:",
+        "li1": "Hesabınıza ve tüm ilişkili verilere erişiminizi kaybedersiniz",
+        "li2": "Kullanıcı verileriniz GDPR'a uygun olarak anonimleştirilir",
+        "li3": "Firebase Authentication hesabınız silinir",
+        "li4": "OAuth token'ları (Google, Apple) otomatik olarak iptal edilir",
+        "refund": "İade Politikası: Bu Şartların ihlali nedeniyle hesabınız sonlandırıldığında premium abonelikler veya sanal öğeler (kozmetikler) için iade yapılmaz."
+      },
+      "user_deletion": {
+        "title": "7.3. Kullanıcı Tarafından Başlatılan Silme",
+        "p1": "Hesabınızı Ayarlar > Tehlike Bölgesi > Hesabımı Sil yoluyla istediğiniz zaman silebilirsiniz.",
+        "p2": "Bu eylem geri alınamaz. Silme işlemi için Gizlilik Politikamıza bakın."
+      },
+      "appeal": {
+        "title": "7.4. İtiraz Süreci",
+        "intro": "Hesabınızın yanlışlıkla askıya alındığına veya sonlandırıldığına inanıyorsanız, karara itiraz etme hakkınız vardır.",
+        "how_title": "Nasıl İtiraz Edilir:",
+        "how": {
+          "li1": "İtirazınızı Gönderin: Hesap bilgilerinizle (kullanıcı adı, e-posta, tanımlayıcı), itiraz nedeni, destekleyici kanıtlar ve olaya ilişkin bakış açınızla dpo@jynx.app ile iletişime geçin",
+          "li2": "İnceleme Zaman Çizelgesi: Gönderimden itibaren 7 iş günü içinde tüm itirazları inceleyeceğiz",
+          "li3": "Soruşturma: Moderasyon ekibimiz orijinal ihlal raporunu ve kanıtları yeniden inceleyecek, hesap geçmişinizi ve bağlamı gözden geçirecek ve sağladığınız yeni bilgileri değerlendirecek",
+          "li4": "Karar: İncelemeden sonra, kararı onaylayacak, cezayı azaltacak veya kararı iptal edip hesabınızı geri yükleyeceğiz",
+          "li5": "Bildirim: E-posta yoluyla sonuç ve muhakememizin açıklaması dahil olmak üzere nihai kararımızı alacaksınız"
+        },
+        "deadlines_title": "İtiraz Son Tarihleri:",
+        "deadlines_intro": "İtirazınızı şu süreler içinde göndermelisiniz:",
+        "deadlines": {
+          "li1": "Sessizleştirmeler veya kısa askıya almalar (1-7 gün) için 24 saat",
+          "li2": "Askıya almalar (14-30 gün) için 7 gün",
+          "li3": "Kalıcı yasaklar için 30 gün"
+        }
+      }
+    },
+    "section8": {
+      "title": "8. Premium Hizmetler ve Ödemeler",
+      "status": "Premium Özellikler Durumu: Jynx şu anda ücretsiz kullanımlı bir platform olarak çalışmaktadır. Premium abonelik özellikleri (Jynx+) ve ücretli kozmetikler yakında geliyor ve henüz satın alınabilir değil.",
+      "freemium": {
+        "title": "8.1. Freemium Modeli",
+        "intro": "Jynx, tüm temel özelliklerin ücretsiz olarak erişilebilir olduğu, isteğe bağlı premium iyileştirmelerle bir freemium modelinde çalışır.",
+        "free_title": "Ücretsiz Katman Sınırlamaları:",
+        "free": {
+          "li1": "Eşleşme Kuyruğu: Günde 20 beğeni, günde 200 profil görüntüleme",
+          "li2": "Sohbet İstekleri: Eşleşme kuyruğundan günde 3 istek, küresel olarak günde 5 istek",
+          "li3": "Topluluklar: 1 topluluk oluştur, 5 topluluğa kadar katıl",
+          "li4": "Kozmetikler: Ücretsiz katman kozmetik öğelerine erişim (rozetler, avatar kenarlıkları)"
+        },
+        "premium_title": "Jynx+ Premium Avantajları (Yakında Geliyor):",
+        "premium": {
+          "li1": "Sınırsız Topluluklar: Sınırsız topluluk oluştur ve katıl",
+          "li2": "Topluluk Güçlendirmeleri: Favori topluluklarınızı desteklemek için ayda 2 ücretsiz topluluk güçlendirme",
+          "li3": "Sınırsız Eşleştirme: Beğeniler, profil görüntülemeleri veya sohbet istekleri için günlük limit yok",
+          "li4": "Öncelikli Destek: Destek sorguları için daha hızlı yanıt süreleri",
+          "li5": "Premium Rozet: Profilinizde özel premium rozet görüntüleme",
+          "li6": "Özel Kozmetikler: Premium katman kozmetik öğelerine erişim",
+          "li7": "Gelişmiş Özellikler: Yeni özelliklere erken erişim ve geliştirilmiş eşleştirme algoritmaları"
+        }
+      },
+      "cosmetics": {
+        "title": "8.2. Kozmetikler ve Sanal Öğeler",
+        "intro": "Jynx, rozetler, avatar kenarlıkları ve kahraman kenarlıkları dahil olmak üzere profilinizi kişiselleştirmek için isteğe bağlı kozmetik öğeler sunacaktır.",
+        "important": "Önemli: Kozmetikler gerçek dünya değeri olmayan tamamen dekoratif dijital öğelerdir. Kozmetiklere sahip değilsiniz; Jynx profilinizde görüntülemek için sınırlı, iptal edilebilir bir lisans verilir."
+      },
+      "refunds": {
+        "title": "8.3. İadeler ve İptaller",
+        "eu_title": "AB Tüketici Hakları (14 Günlük Cayma Süresi):",
+        "eu": {
+          "p1": "Avrupa Birliği'nde bir tüketiciyseniz, koşullara tabi olarak satın almadan sonraki 14 gün içinde dijital içerik alımlarından cayma hakkınız vardır."
+        },
+        "policy_title": "İade Politikası:",
+        "policy": {
+          "li1": "Teknik Hatalar: Satın alınan özelliklere erişiminizi engelleyen teknik sorunlar yaşarsanız, tam iade için satın alımdan sonraki 14 gün içinde support@jynx.app ile iletişime geçin",
+          "li2": "Kazara Alımlar: Kazara alımlar için iadeler, satın alımdan sonraki 48 saat içinde takdirimize bağlı olarak verilebilir",
+          "li3": "Yetkisiz İşlemler: Yetkisiz işlemleri derhal dpo@jynx.app ve ödeme sağlayıcınıza bildirin",
+          "li4": "İade Yapılmayan Durumlar: Şartların ihlali nedeniyle hesap sonlandırma, premium özellikleri 14 günden fazla kullandıktan sonra fikir değiştirme"
+        }
+      }
+    },
+    "section9": {
+      "title": "9. Üçüncü Taraf Hizmetleri",
+      "intro": "Jynx, her biri kendi şartlarıyla yönetilen aşağıdaki üçüncü taraf hizmetleriyle entegre olur:",
+      "firebase": {
+        "title": "9.1. Firebase Hizmetleri (Google)",
+        "intro": "Firebase'i şunlar için kullanıyoruz:",
+        "li1": "Kimlik Doğrulama",
+        "li2": "Cloud Firestore (veritabanı)",
+        "li3": "Cloud Storage (resimler)",
+        "li4": "Cloud Functions (backend mantığı)",
+        "li5": "Cloud Messaging (push bildirimleri)",
+        "li6": "App Check (güvenlik)",
+        "li7": "Performans İzleme",
+        "li8": "Crashlytics (çökme raporlama)"
+      },
+      "sentry": {
+        "title": "9.2. Sentry (Hata İzleme)",
+        "p1": "Hata izleme ve performans izleme için Sentry kullanıyoruz. Veriler Sentry'ye gönderilmeden önce anonimleştirilir."
+      },
+      "riot": {
+        "title": "9.3. Riot Games API",
+        "p1": "Oyun istatistiklerini (League of Legends, Valorant, vb.) almak için Riot Games API'sini kullanıyoruz."
+      },
+      "oauth": {
+        "title": "9.4. OAuth Sağlayıcıları",
+        "intro": "Şunlar aracılığıyla kimlik doğrulama sunuyoruz:",
+        "li1": "Google Oturum Açma",
+        "li2": "Apple Oturum Açma"
+      },
+      "responsibility": "Bu üçüncü taraf hizmetlerin şartlarına uymaktan siz sorumlusunuz."
+    },
+    "section10": {
+      "title": "10. Feragatnameler ve Sorumluluk Sınırlaması",
+      "as_is": {
+        "title": "10.1. \"OLDUĞU GİBİ\" Sağlanan Hizmet",
+        "p1": "HİZMET \"OLDUĞU GİBİ\" VE \"MEVCUTİYETİNE GÖRE\" ESASINA GÖRE SAĞLANIR, HERHANGİ BİR AÇIK VEYA ZIMNİ GARANTİ OLMAKSIZIN, BUNLARLA SINIRLI OLMAMAK ÜZERE: Satılabilirlik, belirli bir amaca uygunluk veya ihlal etmeme garantileri; Kesintisiz, güvenli veya hatasız hizmet garantileri; Otomatik eşleştirme sonuçlarının doğruluğu veya güvenilirliği."
+      },
+      "third_party": {
+        "title": "10.2. Üçüncü Taraf Hizmetlerinde Garanti Yok",
+        "intro": "Şunlardan sorumlu değiliz:",
+        "li1": "Firebase, Riot Games API veya diğer üçüncü taraf hizmetlerindeki kesinti süresi veya sorunlar",
+        "li2": "Riot Games istatistiklerinin doğruluğu (örn. sıralama, maç geçmişi)",
+        "li3": "Üçüncü taraf hizmet arızaları nedeniyle veri kaybı"
+      },
+      "limitation": {
+        "title": "10.3. Sorumluluk Sınırlaması",
+        "p1": "YASANIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, JYNX ŞUNLARDAN SORUMLU OLMAYACAKTIR: Dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zararlar; Kar, veri veya iyi niyet kaybı; Hizmet kesintileri veya kullanılamama; Kullanıcı tarafından oluşturulan içerik veya diğer kullanıcıların davranışı.",
+        "max": "Maksimum Sorumluluk: Toplam sorumluluğumuz, talebin öncesindeki 12 ayda Jynx'e ödediğiniz tutarı veya hangisi daha büyükse 100 €'yu aşmayacaktır."
+      }
+    },
+    "section11": {
+      "title": "11. Şartlarda Değişiklikler",
+      "right": {
+        "title": "11.1. Değiştirme Hakkı",
+        "intro": "Bu Şartları istediğimiz zaman değiştirme hakkını saklı tutarız. Değişiklik yaptığımızda:",
+        "li1": "Bu belgenin üst kısmındaki \"Son Güncelleme\" tarihini güncelleyeceğiz",
+        "li2": "Tüm değişiklikler için 30 gün önceden bildirim sağlayacağız",
+        "li3": "Uygulama içi bildirim yoluyla sizi bilgilendireceğiz",
+        "li4": "Hesabınızla ilişkili e-posta adresine e-posta göndereceğiz"
+      },
+      "acceptance": {
+        "title": "11.2. Değişikliklerin Kabulü",
+        "p1": "Değişiklikler yürürlüğe girdikten sonra Hizmeti kullanmaya devam etmeniz, revize edilmiş Şartları kabul ettiğiniz anlamına gelir.",
+        "p2": "Revize edilmiş Şartları kabul etmiyorsanız, değişiklikler yürürlüğe girmeden önce Hizmeti kullanmayı bırakmalı ve hesabınızı silmelisiniz."
+      },
+      "material": {
+        "title": "11.3. Önemli Değişiklikler",
+        "intro": "Haklarınızı veya yükümlülüklerinizi önemli ölçüde etkileyen önemli değişiklikler için (örn. ödeme şartlarındaki değişiklikler, sorumluluk sınırlamaları, veri işleme, uyuşmazlık çözümü):",
+        "li1": "60 gün önceden bildirim sağlayacağız (standart bildirim süresinin iki katı)",
+        "li2": "Hizmeti kullanmaya devam etmeden önce değişiklikleri açıkça onaylamanızı isteyeceğiz",
+        "li3": "Hizmeti kullanmayı bırakmayı seçerseniz verilerinizi dışa aktarma fırsatı sunacağız"
+      }
+    },
+    "section12": {
+      "title": "12. Geçerli Yasa ve Uyuşmazlık Çözümü",
+      "law": {
+        "title": "12.1. Geçerli Yasa",
+        "p1": "Bu Şartlar, kanunlar çatışması ilkelerine bakılmaksızın Fransa yasalarına ve geçerli Avrupa Birliği düzenlemelerine göre yönetilir ve yorumlanır.",
+        "regulations": "Geçerli Düzenlemeler: Fransız Medeni Kanunu (Code civil), Fransız Tüketici Kanunu (Code de la consommation), Genel Veri Koruma Yönetmeliği (GDPR), AB Dijital Hizmetler Yasası (DSA), AB Tüketici Hakları Direktifi."
+      },
+      "jurisdiction": {
+        "title": "12.2. Yargı Yetkisi",
+        "p1": "Bu Şartlardan veya Hizmetten kaynaklanan herhangi bir uyuşmazlık, Nantes, Fransa'nın yetkili mahkemelerinin münhasır yargı yetkisine tabi olacaktır."
+      },
+      "resolution": {
+        "title": "12.3. Uyuşmazlık Çözümü ve Tahkim",
+        "no_mandatory": "Zorunlu Tahkim Yok: Jynx zorunlu tahkim gerektirmez. Uyuşmazlıkları Nantes, Fransa mahkemeleri önünde getirme hakkınızı korursunuz.",
+        "adr_title": "Alternatif Uyuşmazlık Çözümü (İsteğe Bağlı):",
+        "adr_intro": "Yasal işlemlere başlamadan önce, sizi şunlara teşvik ediyoruz:",
+        "adr": {
+          "li1": "Doğrudan Bizimle İletişime Geçin: Sorunu support@jynx.app veya dpo@jynx.app ile iletişime geçerek çözmeye çalışın",
+          "li2": "Resmi Olmayan Müzakere: 30 gün içinde dostane bir çözüme ulaşmak için sizinle iyi niyetle çalışacağız",
+          "li3": "Arabuluculuk (İsteğe Bağlı): Resmi olmayan çözüm başarısız olursa, tarafsız bir üçüncü taraf arabulucu aracılığıyla arabuluculuk önerebilirsiniz"
+        }
+      },
+      "eu_rights": {
+        "title": "12.4. AB Tüketici Hakları",
+        "intro": "Avrupa Birliği'nde bir tüketiciyseniz, şunlar dahil olmak üzere AB yasası kapsamındaki tüm zorunlu tüketici haklarınızı korursunuz:",
+        "li1": "Dijital içerik satın alımları için 14 günlük cayma süresi",
+        "li2": "Kusurlu ürünler veya hizmetler için çözüm hakkı",
+        "li3": "Haksız sözleşme şartlarına karşı koruma",
+        "li4": "Yerel tüketici koruma otoritenize şikayet başvurusunda bulunma hakkı",
+        "li5": "AB ODR platformuna erişim"
+      },
+      "gdpr": {
+        "title": "12.5. GDPR Uyumluluğu",
+        "p1": "Veri uygulamalarımız Genel Veri Koruma Yönetmeliği (GDPR) ile uyumludur. Veri toplama, işleme, saklama, haklarınız ve Veri Koruma Görevlimizle nasıl iletişime geçeceğiniz hakkında detaylar için Gizlilik Politikamıza bakın."
+      }
+    },
+    "section13": {
+      "title": "13. İletişim ve Yasal Bilgiler",
+      "contact": {
+        "title": "13.1. Bizimle İletişime Geçin",
+        "intro": "Bu Hizmet Şartları hakkında sorularınız için:",
+        "general_label": "Genel Sorular:",
+        "general": "dpo@jynx.app",
+        "support_label": "Müşteri Desteği:",
+        "support": "support@jynx.app",
+        "security_label": "Güvenlik Sorunları:",
+        "security": "security@jynx.app"
+      },
+      "legal": {
+        "title": "13.2. Yasal Varlık",
+        "company_label": "Şirket Adı:",
+        "company": "Jynx Group",
+        "address_label": "Fiziksel Adres:",
+        "address_line1": "BEACH BAT B1ETG APT2 1",
+        "address_line2": "6 QUAI MAGELLAN",
+        "address_line3": "44000 NANTES",
+        "address_line4": "FRANSA",
+        "registration_label": "Kayıt Bilgileri:",
+        "siren_label": "SIREN:",
+        "siren": "991443896",
+        "siret_label": "SIRET:",
+        "siret": "99144389600014",
+        "rcs_label": "Kayıtlı:",
+        "rcs": "Nantes Ticaret ve Şirketler Sicili (RCS)",
+        "date_label": "Kayıt Tarihi:",
+        "date": "17 Eylül 2025",
+        "form_label": "Yasal Form:",
+        "form": "Société par Actions Simplifiée (SAS)",
+        "vat_label": "KDV Numarası:",
+        "vat": "FR39991443896",
+        "dpo_label": "Veri Koruma Görevlisi (DPO):",
+        "dpo": "dpo@jynx.app"
+      }
+    },
+    "section14": {
+      "title": "14. Çeşitli Hükümler",
+      "entire": {
+        "title": "14.1. Tam Anlaşma",
+        "p1": "Bu Şartlar, Gizlilik Politikamızla birlikte, Hizmetle ilgili siz ve Jynx arasındaki tüm anlaşmayı oluşturur."
+      },
+      "severability": {
+        "title": "14.2. Ayrılabilirlik",
+        "p1": "Bu Şartların herhangi bir hükmünün geçersiz veya uygulanamaz olduğu tespit edilirse, kalan hükümler tam olarak yürürlükte kalacaktır."
+      },
+      "waiver": {
+        "title": "14.3. Feragat",
+        "p1": "Bu Şartların herhangi bir hak veya hükmünü uygulamamız, o hak veya hükümden feragat ettiğimiz anlamına gelmez."
+      },
+      "assignment": {
+        "title": "14.4. Devir",
+        "p1": "Önceden yazılı onayımız olmadan bu Şartları devredemez veya transfer edemezsiniz. Bu Şartları kısıtlama olmaksızın devredebiliriz."
+      },
+      "language": {
+        "title": "14.5. Dil",
+        "p1": "Bu Şartlar İngilizce olarak sağlanmıştır. İngilizce versiyon ile herhangi bir çeviri arasında herhangi bir çelişki durumunda, İngilizce versiyon geçerli olacaktır."
+      }
+    },
+    "final_acknowledgment": "Jynx'i kullanarak, bu Hizmet Şartlarını okuduğunuzu, anladığınızı ve bunlara bağlı olmayı kabul ettiğinizi onaylarsınız.",
     "sections": {
       "acceptance": {
         "title": "1. Şartların Kabulü",
@@ -360,6 +1265,7 @@
   "problem": {
     "title": "Solo Kuyruğun Hayal Kırıklıklarından Bıktınız mı?",
     "subtitle": "Her oyuncunun karşılaştığı sorunlar:",
+    "description": "Rekabetçi oyunda uyumlu takım arkadaşları bulmak genellikle sinir bozucu ve zaman alıcıdır. Rastgele eşleştirme, sizi iletişim tarzınıza, yetenek seviyenize ve programınıza uyan oyuncularla nadiren bağlar.",
     "issues": {
       "toxic": {
         "title": "Toksik Oyuncular",
@@ -381,6 +1287,12 @@
   },
   "solution": {
     "title": "Jynx Solo Oyunu Sosyal Deneyime Nasıl Dönüştürür",
+    "description": "Akıllı platformumuz sizi gerçek oyun tercihlerinize göre mükemmel oyun arkadaşlarınızla bağlar ve her eşleşmenin daha iyi bir oyun deneyimine yol açmasını sağlar.",
+    "benefits": {
+      "scheduling": "Herkesin müsaitliğiyle uyumlu oyun seansları planlayın",
+      "time": "Uyumlu takım arkadaşları aramak için saatler tasarruf edin",
+      "playstyle": "İletişim tarzınızı ve oyun yaklaşımınızı paylaşan oyuncularla bağlantı kurun"
+    },
     "steps": {
       "create_profile": {
         "title": "Profil Oluştur",
@@ -411,7 +1323,23 @@
     "subtitle": "İlk kullanıcılardan biri olun ve oyun sosyal deneyiminin geleceğini şekillendirmeye yardımcı olun.",
     "email": {
       "label": "E-posta Adresi",
-      "placeholder": "your.email@example.com"
+      "placeholder": "your.email@example.com",
+      "error": "Lütfen geçerli bir e-posta adresi girin"
+    },
+    "optional": "İsteğe bağlı",
+    "nojs_note": "Bu, e-posta istemcinizi açacaktır. En iyi deneyim için lütfen JavaScript'i etkinleştirin.",
+    "errors": {
+      "permission_denied": "Bu formu gönderme izniniz yok.",
+      "invalid_argument": "Sağladığınız bilgiler geçersiz.",
+      "not_found": "Kaynak bulunamadı. Lütfen daha sonra tekrar deneyin.",
+      "server_unavailable": "Sunucularımız şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.",
+      "too_many_requests": "Çok fazla istek. Lütfen daha sonra tekrar deneyin.",
+      "server_error": "Bizim tarafımızda bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+      "network_error": "Ağ bağlantı hatası. Lütfen internet bağlantınızı kontrol edin.",
+      "timeout": "İstek zaman aşımına uğradı. Lütfen tekrar deneyin.",
+      "invalid_email": "Lütfen geçerli bir e-posta adresi girin.",
+      "empty_field": "Bu alan boş bırakılamaz.",
+      "default": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."
     },
     "games": {
       "label": "Ana Oyunlar (En fazla 3 seçin)",
@@ -456,6 +1384,20 @@
     "launch_date": "1 Aralık'ta mağazada",
     "title": "Geri Bildiriminizi Paylaşın",
     "subtitle": "Görüşünüz daha iyi bir Jynx oluşturmamıza yardımcı olur",
+    "feedback": "Mesajınız (isteğe bağlı)",
+    "feedback_label": "Mesajınız",
+    "countdown_label": "Lansmana kalan süre",
+    "countdown_days": "GÜN",
+    "countdown_hours": "SAAT",
+    "countdown_minutes": "DAKİKA",
+    "countdown_seconds": "SANİYE",
+    "discord": "Discord'umuza katılın",
+    "yes": "Evet",
+    "no": "Hayır",
+    "textarea": "",
+    "note": "Sonsuza kadar ücretsiz",
+    "thanks": "Geri bildiriminiz için teşekkürler!",
+    "error_empty": "Lütfen e-postanızı veya geri bildiriminizi sağlayın.",
     "name": {
       "label": "İsim",
       "placeholder": "Adınız"
@@ -511,14 +1453,21 @@
     "max_length": "En fazla {max} karakter olmalıdır",
     "network_error": "Ağ hatası. İnternet bağlantınızı kontrol edin.",
     "server_error": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
-    "generic": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+    "generic": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "network": "Ağ hatası. Lütfen bağlantınızı kontrol edin.",
+    "validation": "Lütfen girişinizi kontrol edin ve tekrar deneyin.",
+    "not_found": "Sayfa bulunamadı.",
+    "server": "Sunucu hatası. Lütfen daha sonra tekrar deneyin."
   },
   "accessibility": {
     "skip_to_content": "İçeriğe atla",
     "open_menu": "Menüyü aç",
     "close_menu": "Menüyü kapat",
+    "menu_toggle": "Gezinme menüsünü aç/kapat",
     "toggle_theme": "Temayı değiştir",
+    "theme_toggle": "Karanlık modu aç/kapat",
     "language_selector": "Dil seç",
+    "close_modal": "Pencereyi kapat",
     "external_link": "Dış bağlantı",
     "loading": "Yükleniyor...",
     "scroll_to_top": "Yukarı kaydır",
@@ -551,11 +1500,81 @@
       "title": "Jynx İndir | Windows, macOS, Linux, iOS, Android",
       "description": "Jynx'i tüm platformlarda indirin. Windows, macOS, Linux, iOS, Android'de mevcut. Oyun deneyiminizi şimdi geliştirmeye başlayın.",
       "og_title": "Jynx İndir - Tüm Platformlarda Mevcut",
-      "og_description": "Tercih ettiğiniz cihazda Jynx'i edinin. Tüm büyük platformlarda mevcut."
+      "og_description": "Tercih ettiğiniz cihazda Jynx'i edinin. Tüm büyük platformlarda mevcut.",
+      "og_image_alt": "Jynx Oyun Uygulamasını İndirin",
+      "twitter_title": "Jynx İndir - Oyun Sosyal Platformu",
+      "twitter_description": "Jynx uygulamasını iOS veya Android'de edinin. Bugün takım arkadaşları bulmaya başlayın.",
+      "twitter_image_alt": "Jynx Mobil Uygulaması"
     },
     "hero": {
       "title": "Platformunuzda <span class=\"highlight\">Jynx İndirin</span>",
-      "subtitle": "Tüm cihazlarda mevcut. Takım arkadaşlarınızla her zaman her yerde bağlantıda kalın."
+      "subtitle": "Tüm cihazlarda mevcut. Takım arkadaşlarınızla her zaman her yerde bağlantıda kalın.",
+      "status": "Yakında: iOS ve Android'de Mevcut"
+    },
+    "store": {
+      "app_store": {
+        "text_small": "İndir",
+        "text_large": "App Store"
+      },
+      "google_play": {
+        "text_small": "İndir",
+        "text_large": "Google Play"
+      },
+      "coming_soon": "Yakında Geliyor"
+    },
+    "signup": {
+      "title": "Lansman Yaptığımızda Haberdar Olun",
+      "description": "Jynx platformunuzda kullanılabilir olduğunda ilk öğrenen siz olun",
+      "email_placeholder": "E-postanızı girin",
+      "submit": "Beni Bilgilendir"
+    },
+    "social": {
+      "title": "Oyun takımınızla paylaşın",
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "copy_link": "Bağlantıyı Kopyala"
+    },
+    "info": {
+      "title": "Oyun Deneyiminizi Dönüştürün",
+      "description": "Jynx, oyun tercihlerine, oyun tarzlarına ve topluluk ilgi alanlarına göre oyuncuları akıllıca bağlayarak solo oyunu sosyal bir deneyime dönüştürür. Mükemmel oyun takımınızı bulun ve bir daha asla yalnız oynamayın."
+    },
+    "js_messages": {
+      "share_twitter": "Jynx'e göz atın - solo oyunu sosyal deneyimlere dönüştüren oyun sosyal platformu! 🎮",
+      "share_discord_alert": "Bağlantı kopyalandı! Artık oyun arkadaşlarınızla paylaşmak için Discord'a yapıştırabilirsiniz.",
+      "copy_success": "✓ Kopyalandı!",
+      "copy_fallback": "Bağlantı panoya kopyalandı!",
+      "form_submitting": "Gönderiliyor...",
+      "form_success": "✓ Teşekkürler! Jynx mobilde piyasaya çıktığında sizi bilgilendireceğiz.",
+      "form_error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+    },
+    "features": {
+      "title": "Mobile Gelenler",
+      "subtitle": "Jynx'in tüm gücü, telefonunuz için optimize edilmiş",
+      "cards": {
+        "instant_connect": {
+          "title": "Anında Bağlantı",
+          "description": "Bildiriminizden tek dokunuşla sesli sohbetlere ve oyun seanslarına katılın"
+        },
+        "notifications": {
+          "title": "Akıllı Bildirimler",
+          "description": "Favori takım arkadaşlarınız çevrimiçi olduğunda veya mükemmel eşleşmeler bulunduğunda bildirim alın"
+        },
+        "cross_platform": {
+          "title": "Platformlar Arası Senkronizasyon",
+          "description": "Konuşmalarınız, eşleşmeleriniz ve topluluklarınız mobil ve masaüstü arasında senkronize kalır"
+        },
+        "offline_mode": {
+          "title": "Çevrimdışı Mod",
+          "description": "İnternet bağlantısı olmasa bile eşleşmelerinizi görüntüleyin ve seansları planlayın"
+        }
+      }
+    },
+    "theme_feedback": {
+      "title": "Uygulamayı Tasarlamamıza Yardımcı Olun",
+      "description": "Mobil uygulama için hangi renk düzenini tercih edersiniz? Geri bildiriminiz mükemmel deneyimi oluşturmamıza yardımcı olur.",
+      "current_theme": "Mevcut tema:",
+      "submit": "Uygulama Tema Tercihini Gönder",
+      "thanks": "Uygulama arayüzünü tasarlamamıza yardımcı olduğunuz için teşekkürler!"
     },
     "platforms": {
       "desktop": {
@@ -593,21 +1612,6 @@
           "download": "Google Play'den İndir",
           "coming_soon": "Yakında geliyor"
         }
-      }
-    },
-    "features": {
-      "title": "Tüm Platformlarda Aynı Harika Deneyim",
-      "cross_platform": {
-        "title": "Çapraz Platform Senkronizasyonu",
-        "description": "Profiliniz, eşleşmeleriniz, mesajlarınız tüm cihazlarınızda otomatik olarak senkronize edilir"
-      },
-      "native": {
-        "title": "Yerel Uygulamalar",
-        "description": "En iyi performans için her platform için yerel olarak oluşturulmuş ve optimize edilmiş"
-      },
-      "updates": {
-        "title": "Otomatik Güncellemeler",
-        "description": "Ekstra çaba göstermeden her zaman en son özellikler ve güvenlik yamalarıyla güncel kalın"
       }
     },
     "faq": {
@@ -731,6 +1735,7 @@
     "main_title": "İNCELEMELER",
     "subtitle_prefix": "KULLANICILARIMIZ",
     "subtitle_highlight": "NE DİYOR",
+    "nojs_note": "Tüm incelemelere göz atmak için JavaScript'i etkinleştirin",
     "review1": {
       "quote": "League of Legends'da Diamond seviyesinde bir oyuncuyum ve sürekli sıralı oyun takımı arıyordum. Jynx'in akıllı eşleştirmesi beni aynı yetenek seviyesinde, aynı rolleri oynayan ve benzer programı olan oyuncularla buluşturdu. Sadece 2 ayda Diamond IV'ten Diamond I'e çıktık!",
       "name": "Alex 'Frostbyte' Ramirez",
@@ -821,6 +1826,53 @@
       "free": "Tamamen Ücretsiz",
       "no_card": "Kredi Kartı Gereksiz",
       "instant": "Anında Erişim"
+    }
+  },
+  "global": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "close": "Kapat",
+    "nojs_banner": "Bu site, tüm özellikler için JavaScript gerektirir. En iyi deneyim için lütfen etkinleştirin."
+  },
+  "comparison": {
+    "title": "Jynx Neden Diğer Platformlardan Daha İyi",
+    "table": {
+      "feature": "Özellik",
+      "lfg": "LFG Forumlari",
+      "game_session_matchmaking": "Oyun Seansı Eşleştirme",
+      "auto_finder": "Otomatik Takım Arkadaşı Bulucu",
+      "elo_matching": "ELO Tabanlı Eşleştirme",
+      "community_search": "Topluluk Arama ve Keşif",
+      "chat": "Yerleşik Sohbet",
+      "tournaments": "Turnuva Organizasyonu",
+      "integration": "Oyun Entegrasyonu",
+      "discovery": "Topluluk Keşfi",
+      "gaming_focused": "Oyun Odaklı",
+      "price": "Fiyat",
+      "yes": "Evet",
+      "no": "Hayır",
+      "manual": "Manuel",
+      "limited": "Sınırlı",
+      "manual_posts": "Manuel Gönderiler",
+      "basic": "Temel",
+      "by_game_skill": "Oyun, Rütbe ve Dile Göre",
+      "on_computer_only": "Sadece Bilgisayarda",
+      "servers": "Sunucular",
+      "teams": "Takımlar",
+      "advanced": "Gelişmiş",
+      "coming_soon": "Yakında Geliyor",
+      "exclusive_features": "(Özel Özellikler)",
+      "game_apis": "Oyun API'leri",
+      "general": "Genel",
+      "varies": "Değişir",
+      "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
+      "free_varies": "Ücretsiz + Değişir"
+    },
+    "cta": {
+      "title": "Farkı Deneyimlemeye Hazır mısınız?",
+      "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan 10.000+ oyuncuya katılın",
+      "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
     }
   }
 }

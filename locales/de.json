@@ -1087,7 +1087,8 @@
       "invalid_email": "Bitte gib eine gültige E-Mail-Adresse ein.",
       "empty_field": "Dieses Feld darf nicht leer sein.",
       "default": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
-    }
+    },
+    "nojs_note": "Dies öffnet Ihr E-Mail-Programm. Für die beste Erfahrung aktivieren Sie bitte JavaScript."
   },
   "feedback": {
     "coming_soon": "Demnächst",
@@ -1327,7 +1328,8 @@
       "quote": "Alleine zu gamen hat keinen Spaß mehr gemacht. Jynx hat mir geholfen, Communities rund um meine Lieblingsspiele zu entdecken und jetzt habe ich eine regelmäßige Gruppe, mit der ich jeden Abend spiele. Die KI hat mich perfekt mit Leuten gematcht, die dieselben Gaming-Ziele haben - locker, aber kompetitiv, wenn es darauf ankommt.",
       "name": "James 'ShadowStrike' Wilson",
       "role": "Ehemaliger Solo-Queue-Spieler"
-    }
+    },
+    "nojs_note": "Aktivieren Sie JavaScript, um alle Bewertungen zu durchsuchen"
   },
   "comparison": {
     "title": "Von Gamern für Gamer gemacht",
@@ -1368,5 +1370,8 @@
       "description": "Tritt 10.000+ Gamern bei, die ihre perfekten Squads mit Jynx KI-Matchmaking gefunden haben",
       "button": "Fang an zu matchen mit KI - Für immer kostenlos"
     }
+  },
+  "global": {
+    "nojs_banner": "JavaScript ist deaktiviert. Einige interaktive Funktionen funktionieren möglicherweise nicht optimal."
   }
 }

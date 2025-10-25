@@ -402,97 +402,574 @@
     },
     "title": "Terms of Service",
     "last_updated": "आखिरी अपडेट: मार्च 2025",
-    "intro": {
-      "title": "परिचय",
-      "p1": "Jynx में आपका स्वागत है, एक सोशल प्लेटफॉर्म जो गेमर्स को मिलने और साथ खेलने में मदद करने के लिए डिज़ाइन किया गया है। ये Terms of Service (\"Terms\") Jynx एप्लिकेशन और website (सामूहिक रूप से, \"Service\") तक आपकी access और use को govern करते हैं। कृपया हमारी Service का उपयोग करने से पहले इन Terms को ध्यान से पढ़ें।",
-      "p2": "Service को access या use करके, आप इन Terms से बाध्य होने के लिए सहमत होते हैं। यदि आप Terms के किसी भी हिस्से से असहमत हैं, तो आप Service को access नहीं कर सकते।"
+    "last_updated_label": "आखिरी अपडेट:",
+    "version_label": "संस्करण:",
+    "version": "1.0",
+    "section1": {
+      "title": "1. परिचय और स्वीकृति",
+      "intro": "Jynx में आपका स्वागत है, एक सोशल गेमिंग प्लेटफॉर्म जो खिलाड़ियों को जोड़ता है, टीम बनाने और एक साथ खेलने में मदद करता है।",
+      "legal_entity_label": "कानूनी इकाई:",
+      "legal_entity": "Jynx Group",
+      "contact_label": "संपर्क:",
+      "contact": "dpo@jynx.app",
+      "address_label": "भौतिक पता:",
+      "address": "BEACH BAT B1ETG APT2 1, 6 QUAI MAGELLAN, 44000 NANTES",
+      "jurisdiction_label": "न्यायक्षेत्र:",
+      "jurisdiction": "फ्रांस, यूरोपीय संघ",
+      "acceptance": "Jynx एप्लिकेशन (\"Service\", \"Platform\", \"App\") तक पहुंच या उपयोग करके, आप इन सेवा की शर्तों (\"Terms\", \"ToS\") से बाध्य होने के लिए सहमत होते हैं। यदि आप इन Terms से सहमत नहीं हैं, तो आप Service का उपयोग नहीं कर सकते।",
+      "important_label": "महत्वपूर्ण:",
+      "important": "ये Terms आपके और Jynx Group के बीच एक कानूनी रूप से बाध्यकारी समझौता बनाती हैं।"
     },
-    "eligibility": {
-      "title": "1. पात्रता",
-      "p1": "Jynx पर account बनाने और Service का उपयोग करने के लिए आपकी आयु कम से कम 18 वर्ष होनी चाहिए। Account बनाकर और Service का उपयोग करके, आप represent और warrant करते हैं कि:",
-      "li1": "आपकी आयु कम से कम 18 वर्ष है।",
-      "li2": "आप Jynx के साथ एक बाध्यकारी contract बना सकते हैं।",
-      "li3": "आप ऐसे व्यक्ति नहीं हैं जिसे किसी applicable jurisdiction के कानूनों के तहत Service का उपयोग करने से रोका गया है।",
-      "li4": "आप इन Terms और सभी applicable local, state, national, और international laws, rules, और regulations का पालन करेंगे।"
+    "section2": {
+      "title": "2. परिभाषाएं",
+      "intro": "इन Terms के उद्देश्यों के लिए:",
+      "service_label": "\"Service\" / \"Platform\" / \"App\":",
+      "service": "Jynx mobile एप्लिकेशन और सभी संबंधित services",
+      "user_label": "\"User\" / \"You\":",
+      "user": "कोई भी व्यक्ति जो Service तक पहुंचता है या उपयोग करता है",
+      "content_label": "\"Content\":",
+      "content": "Service के माध्यम से post, upload, या transmit किए गए सभी text, images, data, information, या other materials",
+      "account_label": "\"Account\":",
+      "account": "registration के माध्यम से बनाया गया आपका personal Jynx account",
+      "community_label": "\"Community\":",
+      "community": "गेमिंग और सामाजिक interaction के लिए Jynx के भीतर बनाया गया एक group",
+      "handle_label": "\"Handle\":",
+      "handle": "private friend discovery के लिए @username#discriminator format में आपकी unique identifier",
+      "we_label": "\"We\" / \"Us\" / \"Jynx\":",
+      "we": "Jynx Group और इसकी affiliates"
     },
-    "account": {
-      "title": "2. आपका Account",
-      "p1": "जब आप हमारे साथ एक account बनाते हैं, तो आपको accurate, complete, और current information प्रदान करनी होगी। ऐसा न करना Terms का उल्लंघन है, जिसके परिणामस्वरूप आपके account का तुरंत termination हो सकता है।",
-      "p2": "आप Service को access करने के लिए उपयोग किए जाने वाले password की सुरक्षा और अपने password के तहत किसी भी activities या actions के लिए जिम्मेदार हैं। हम आपको अपने account के साथ \"strong\" passwords (passwords जो upper और lower case letters, numbers, और symbols के combination का उपयोग करते हैं) उपयोग करने के लिए प्रोत्साहित करते हैं।",
-      "p3": "आप सहमत हैं कि अपना password किसी third party को disclose नहीं करेंगे। आपको किसी भी security breach या अपने account के unauthorized use के बारे में जागरूक होने पर तुरंत हमें सूचित करना होगा।"
+    "section3": {
+      "title": "3. पात्रता और Account Registration",
+      "age": {
+        "title": "3.1. आयु आवश्यकता",
+        "requirement": "Jynx पर account बनाने और उपयोग करने के लिए आपकी आयु कम से कम 18 वर्ष होनी चाहिए।",
+        "p1": "Registration के दौरान, आपको अपनी जन्म तिथि प्रदान करनी होगी। यदि आपकी आयु 18 वर्ष से कम है, तो आप account नहीं बना पाएंगे या Service तक पहुंच नहीं पाएंगे।",
+        "enforcement_label": "प्रवर्तन:",
+        "enforcement": "हमारी age gate स्वचालित रूप से 18 वर्ष से कम आयु के users के लिए account creation को block करती है। यदि हमें पता चलता है कि आपने अपनी आयु के बारे में गलत जानकारी प्रदान की है, तो आपका account तुरंत समाप्त कर दिया जाएगा।"
+      },
+      "creation": {
+        "title": "3.2. Account Creation",
+        "intro": "Jynx का उपयोग करने के लिए, आपको एक account बनाना होगा:",
+        "li1": "एक valid email address या Google/Apple के माध्यम से authentication",
+        "li2": "एक unique username",
+        "li3": "आपकी जन्म तिथि (आयु सत्यापन के लिए)",
+        "li4": "Profile information (देश, timezone, भाषाएं, gaming preferences)",
+        "handle": "आपको एक unique Handle (जैसे @username#1234) assign किया जाएगा जो friends को public search exposure के बिना privately आपको खोजने की अनुमति देता है।"
+      },
+      "security": {
+        "title": "3.3. Account Security",
+        "intro": "आप जिम्मेदार हैं:",
+        "li1": "अपने account credentials की गोपनीयता बनाए रखने के लिए",
+        "li2": "अपने account के तहत होने वाली सभी activities के लिए",
+        "li3": "किसी unauthorized use की तुरंत हमें सूचना देने के लिए",
+        "liability": "हम आपके account information की सुरक्षा में आपकी विफलता से उत्पन्न किसी भी loss या damage के लिए liable नहीं हैं।"
+      },
+      "accuracy": {
+        "title": "3.4. Account Accuracy",
+        "intro": "आप सहमत हैं:",
+        "li1": "Registration के दौरान accurate, current, और complete information प्रदान करने के लिए",
+        "li2": "अपनी information को accurate और current रखने के लिए update करने के लिए",
+        "li3": "किसी व्यक्ति या entity का impersonate नहीं करने के लिए",
+        "li4": "abusive purposes के लिए multiple accounts नहीं बनाने के लिए"
+      }
     },
-    "premium": {
-      "title": "3. Free Service और Premium Features",
-      "p1": "Jynx तक basic access मुफ्त में प्रदान की जाती है। हालांकि, कुछ premium features के लिए payment की आवश्यकता हो सकती है। यदि आप premium features का उपयोग करना चुनते हैं, तो आप सभी applicable fees का भुगतान करने के लिए सहमत हैं।",
-      "p2": "हम किसी भी समय अपने offered subscription plans और paid features को modify, terminate, या otherwise amend करने का अधिकार सुरक्षित रखते हैं।"
+    "section4": {
+      "title": "4. User Conduct और Prohibited Activities",
+      "acceptable": {
+        "title": "4.1. Acceptable Use",
+        "p1": "Jynx एक community-driven platform है। आप Service का उपयोग respectful, lawful, और appropriate तरीके से करने के लिए सहमत हैं।"
+      },
+      "prohibited": {
+        "title": "4.2. Prohibited Conduct",
+        "intro": "Jynx का उपयोग करते समय, आप सहमत हैं कि आप नहीं करेंगे:",
+        "harassment": {
+          "title": "Harassment और Abuse:",
+          "li1": "अन्य users को harass, threaten, bully, stalk, या intimidate करना",
+          "li2": "Hate speech या race, ethnicity, national origin, religion, gender, sexual orientation, disability, या किसी अन्य protected characteristic के आधार पर discrimination में engage होना",
+          "li3": "Unwanted sexual content भेजना या sexual harassment में engage होना",
+          "li4": "दूसरों के harassment को coordinate या encourage करना"
+        },
+        "spam": {
+          "title": "Spam और Misuse:",
+          "li1": "Spam, unsolicited advertising, या promotional content भेजना",
+          "li2": "हमारी पूर्व written consent के बिना commercial purposes के लिए Service का उपयोग करना",
+          "li3": "Bans को evade करने या platform को manipulate करने के लिए multiple accounts बनाना",
+          "li4": "Service को access या interact करने के लिए automated systems (bots, scripts) का उपयोग करना",
+          "li5": "Matchmaking, ranking, या community systems को manipulate करने का प्रयास करना"
+        },
+        "impersonation": {
+          "title": "Impersonation और Fraud:",
+          "li1": "किसी अन्य person, user, या entity का impersonate करना",
+          "li2": "अपनी identity, age, या affiliation को misrepresent करना",
+          "li3": "Fake accounts या misleading profiles बनाना",
+          "li4": "अपने account credentials को share या sell करना"
+        },
+        "illegal": {
+          "title": "Illegal Activity:",
+          "li1": "किसी illegal purpose के लिए या किसी laws के उल्लंघन में Service का उपयोग करना",
+          "li2": "Illegal activities को share, promote, या facilitate करना",
+          "li3": "दूसरों के intellectual property rights का उल्लंघन करना",
+          "li4": "Fraud, scams, या phishing attempts में engage होना"
+        },
+        "security": {
+          "title": "Platform Security:",
+          "li1": "हमारे systems, servers, या databases तक unauthorized access प्राप्त करने का प्रयास करना",
+          "li2": "Malware, viruses, या malicious code वितरित करना",
+          "li3": "Service के किसी भाग को reverse engineer, decompile, या disassemble करना",
+          "li4": "Unfair advantage के लिए bugs, glitches, या vulnerabilities का exploit करना (security@jynx.app को report करना आवश्यक है)"
+        },
+        "privacy": {
+          "title": "Privacy Violations:",
+          "li1": "Consent के बिना अन्य users की private information share करना (doxxing)",
+          "li2": "Permission के बिना private conversations को screenshot या share करना",
+          "li3": "Authorization के बिना user data collect या harvest करना"
+        },
+        "content_violations": {
+          "title": "Content Violations:",
+          "li1": "हमारी Community Guidelines का उल्लंघन करने वाली content post करना",
+          "li2": "Violent, graphic, या disturbing content share करना",
+          "li3": "किसी भी capacity में minors को involve करने वाली content post करना",
+          "li4": "Permission के बिना copyrighted material distribute करना"
+        },
+        "manipulation": {
+          "title": "Platform Manipulation:",
+          "li1": "Engagement metrics या reputation को artificially inflate करना",
+          "li2": "हमारी reporting system को abuse करने के लिए mass reporting को coordinate करना",
+          "li3": "Service के normal operation में interfere करना",
+          "li4": "किसी rate limits, restrictions, या safety features को bypass या circumvent करना"
+        },
+        "enforcement_label": "प्रवर्तन:",
+        "enforcement": "इन prohibitions का उल्लंघन करने पर content removal, account suspension, permanent ban, और/या legal action हो सकता है। उल्लंघनों की report करने के लिए, support@jynx.app से संपर्क करें। Security vulnerabilities के लिए, security@jynx.app से संपर्क करें"
+      },
+      "rate_limiting": {
+        "title": "4.3. Rate Limiting और Anti-Spam",
+        "intro": "Platform और user experience की सुरक्षा के लिए, हम rate limits लागू करते हैं:",
+        "client_label": "Client-side:",
+        "client": "प्रति मिनट 10 messages (sliding window)",
+        "burst_label": "Server-side burst protection:",
+        "burst": "प्रति सेकंड 1 message",
+        "daily_label": "Server-side daily limit:",
+        "daily": "प्रति दिन 500 messages (midnight UTC पर reset होता है)",
+        "warning": "इन limits को bypass करने का प्रयास करने पर account suspension हो सकता है।"
+      },
+      "moderation": {
+        "title": "4.4. Moderation और Reporting",
+        "structure_title": "Moderation Structure:",
+        "structure_intro": "Jynx एक centralized moderation team को employ करता है ताकि इन Terms और Community Guidelines को platform पर consistent enforcement सुनिश्चित किया जा सके। हमारी moderation system में शामिल हैं:",
+        "structure": {
+          "li1": "Jynx Moderation Team: सभी reported violations की समीक्षा करने और उचित कार्रवाई करने के लिए जिम्मेदार dedicated team",
+          "li2": "Automated Detection: Algorithm-based systems जो स्वचालित रूप से spam, illegal content, और severe violations को flag और remove करती हैं",
+          "li3": "Community Owner Powers: Community owners के पास अपनी communities के भीतर सीमित moderation capabilities हैं, जिसमें members को kick करने या temporary mutes (24 घंटे तक) apply करने की क्षमता शामिल है। Severe violations को Jynx moderation team को escalate किया जाना चाहिए"
+        },
+        "reporting_title": "Reporting Process:",
+        "reporting_intro": "आप violations को report कर सकते हैं:",
+        "reporting": {
+          "li1": "In-App Reporting: Messages, profiles, और community content पर उपलब्ध \"Report\" button का उपयोग करें। उचित category चुनें (Harassment, Spam, Inappropriate Content, Fraud, या Other) और context प्रदान करें",
+          "li2": "Email: Detailed information के साथ support@jynx.app से संपर्क करें, जिसमें applicable होने पर screenshots और evidence शामिल हों"
+        },
+        "reporting_note": "सभी reports की हमारी moderation team द्वारा समीक्षा की जाती है। False या malicious reports submit करने पर आपके account के खिलाफ action हो सकता है।",
+        "response_title": "Response Times:",
+        "response_intro": "हम severity के आधार पर reports को prioritize करते हैं:",
+        "response": {
+          "urgent": "Urgent (threats, illegal content, imminent harm): 2 घंटों के भीतर review और action",
+          "high": "High Priority (harassment, hate speech, sexual content): 24 घंटों के भीतर review और action",
+          "medium": "Medium Priority (spam, platform manipulation, rule violations): 72 घंटों के भीतर review और action",
+          "low": "Low Priority (community disputes, minor infractions): 7 दिनों के भीतर review और action"
+        }
+      }
     },
-    "content_conduct": {
-      "title": "4. Content और Conduct",
-      "user_content": "a. User Content",
-      "p1": "हमारी Service आपको कुछ information, text, graphics, videos, या अन्य material (\"Content\") को post, link, store, share और otherwise available बनाने की अनुमति देती है। आप Service पर या Service के माध्यम से post किए गए Content के लिए जिम्मेदार हैं, जिसमें इसकी legality, reliability, और appropriateness शामिल है।",
-      "p2": "Service पर या Service के माध्यम से Content post करके, आप represent और warrant करते हैं कि:",
-      "li1": "Content आपका है (आप इसके owner हैं) या आपके पास इसे use करने और इन Terms में प्रदान किए गए अनुसार हमें rights और license grant करने का अधिकार है।",
-      "li2": "Service पर या Service के माध्यम से आपके Content को post करना किसी भी व्यक्ति के privacy rights, publicity rights, copyrights, contract rights या किसी अन्य rights का उल्लंघन नहीं करता।",
-      "prohibited": "b. Prohibited Content और Behavior",
-      "p3": "आप Service का उपयोग किसी ऐसे purpose के लिए नहीं कर सकते जो illegal है या इन Terms द्वारा prohibited है। आप सहमत हैं कि Service का उपयोग इसके लिए नहीं करेंगे:",
-      "li3": "Pornographic, discriminatory, racist, या otherwise offensive content को post, upload, या distribute करना।",
-      "li4": "अन्य users को harass, bully, या intimidate करना।",
-      "li5": "किसी भी व्यक्ति या entity का impersonate करना, या किसी व्यक्ति या entity के साथ अपनी affiliation को falsely state या otherwise misrepresent करना।",
-      "li6": "Service या Service से connected servers या networks को interfere या disrupt करना।",
-      "li7": "Service के उन हिस्सों तक unauthorized access प्राप्त करने का प्रयास करना जो restricted हैं।",
-      "li8": "Service का उपयोग किसी harmful या malicious purpose के लिए करना।",
-      "li9": "किसी illegal activities को promote या participate करना।",
-      "removal": "c. Content Removal और Account Termination",
-      "p4": "हम अधिकार सुरक्षित रखते हैं, लेकिन दायित्व नहीं:",
-      "li10": "Service पर किसी भी Content को remove या distribute करने से इनकार करना जो इन Terms का उल्लंघन करता है।",
-      "li11": "किसी भी कारण से, इन Terms के उल्लंघन सहित, Service के सभी या हिस्से तक आपकी access को terminate या suspend करना।",
-      "li12": "Service के किसी illegal या unauthorized use के लिए users के खिलाफ appropriate legal action लेना।"
+    "section5": {
+      "title": "5. Content Ownership और License",
+      "your_content": {
+        "title": "5.1. आपकी Content",
+        "intro": "आप Service के माध्यम से post, upload, या transmit किए गए सभी content (\"User Content\") के owner हैं, जिसमें शामिल हैं:",
+        "li1": "Community chats और private conversations में messages",
+        "li2": "Profile information, biographies, और images",
+        "li3": "Gaming statistics और preferences"
+      },
+      "license": {
+        "title": "5.2. Jynx को License",
+        "intro": "User Content post करके, आप Jynx को एक non-exclusive, worldwide, royalty-free, sublicensable license grant करते हैं:",
+        "core_title": "Core Service Operations:",
+        "core": {
+          "li1": "Service प्रदान करने के लिए आवश्यक आपकी User Content को host, store, और display करना",
+          "li2": "आपकी privacy settings के अनुसार अन्य users के साथ आपकी User Content share करना (जैसे communities में display करना, match profiles में दिखाना)",
+          "li3": "Reliability के लिए backup copies बनाना और data redundancy सुनिश्चित करना",
+          "li4": "इन Terms और applicable laws के अनुपालन के लिए content को moderate और review करना"
+        },
+        "improvement_title": "Service Improvement और Analytics:",
+        "improvement": {
+          "li1": "Service को improve और develop करने के लिए आपकी User Content का उपयोग करना (जैसे analytics, feature development)",
+          "li2": "हमारे auto-match system और recommendation algorithms के लिए machine learning models को train करना",
+          "li3": "Platform usage और user behavior के बारे में aggregated, anonymized statistics generate करना",
+          "li4": "User experience और platform safety को enhance करने के लिए research conduct करना"
+        },
+        "security_title": "Security और Compliance:",
+        "security": {
+          "li1": "Spam, abuse, fraud, और इन Terms के violations को detect और prevent करना",
+          "li2": "Legal requests का जवाब देना और हमारे rights को enforce करना",
+          "li3": "Platform safety के लिए moderation records बनाए रखना"
+        },
+        "marketing_title": "Marketing और Promotional Use (Limited):",
+        "marketing": {
+          "li1": "Marketing materials में aggregated, anonymized statistics का उपयोग करना (जैसे \"इस महीने 10,000 matches बनाए गए\")",
+          "li2": "आपकी explicit opt-in consent के साथ promotional materials में publicly shared User Content (community posts, public profiles) को feature करना",
+          "li3": "Case studies या advertising के लिए testimonials, screenshots, या specific content का उपयोग करने के लिए आपकी permission request करना"
+        },
+        "limitations_title": "महत्वपूर्ण सीमाएं:",
+        "limitations": {
+          "li1": "Private messages और conversations को कभी भी marketing purposes के लिए उपयोग नहीं किया जाएगा",
+          "li2": "हम marketing materials में identifiable User Content (जैसे आपकी profile, username, images) का उपयोग करने से पहले हमेशा आपकी explicit written consent प्राप्त करेंगे",
+          "li3": "आप dpo@jynx.app से संपर्क करके marketing use के लिए consent को किसी भी समय withdraw कर सकते हैं",
+          "li4": "Anonymized या aggregated data को additional consent की आवश्यकता नहीं है"
+        },
+        "no_sell": "हम आपके personal data को third parties को नहीं बेचेंगे। Data handling विवरण के लिए हमारी Privacy Policy देखें।"
+      },
+      "third_party": {
+        "title": "5.3. Third-Party Content",
+        "intro": "Jynx third-party services के साथ integrate होता है, जिसमें शामिल हैं:",
+        "riot": "Riot Games API: Champion names, images, statistics, और match data Riot Games की property हैं। Jynx Riot Games API Terms of Service के तहत operate करता है।",
+        "firebase": "Firebase Services: Google द्वारा उनकी Terms of Service के तहत provided।",
+        "oauth": "OAuth Providers: Google और Apple authentication services।"
+      },
+      "removal": {
+        "title": "5.4. Content Removal",
+        "intro": "हम किसी भी User Content को remove करने का अधिकार सुरक्षित रखते हैं जो:",
+        "li1": "इन Terms का उल्लंघन करती है",
+        "li2": "Applicable laws का उल्लंघन करती है",
+        "li3": "Third-party intellectual property rights का उल्लंघन करती है",
+        "li4": "Report की गई है और हमारी community guidelines का उल्लंघन करने की पुष्टि हुई है",
+        "notification": "जब संभव हो तो आपको content removal की सूचना दी जाएगी।"
+      }
     },
-    "intellectual": {
-      "title": "5. Intellectual Property",
-      "service": "a. Service",
-      "p1": "Service और इसकी original content (users द्वारा प्रदान की गई Content को छोड़कर), features, और functionality Jynx और इसके licensors की exclusive property है और रहेगी। Service copyright, trademark, और United States और foreign countries दोनों के अन्य कानूनों द्वारा protected है। हमारे trademarks और trade dress का उपयोग Jynx की पूर्व written consent के बिना किसी product या service के connection में नहीं किया जा सकता।",
-      "user_content": "b. User Content",
-      "p2": "Service को Content submit करके, आप हमें एक worldwide, non-exclusive, royalty-free license (sublicense करने के अधिकार के साथ) grant करते हैं ताकि ऐसी Content को use, copy, reproduce, process, adapt, modify, publish, transmit, display और distribute किया जा सके किसी भी और सभी media या distribution methods में जो अब ज्ञात हैं या बाद में developed हैं।",
-      "p3": "आप सहमत हैं कि इस license में Jynx के लिए Service को provide, promote, और improve करने और Service को या Service के माध्यम से submit की गई Content को अन्य companies, organizations या individuals के लिए ऐसी Content के distribution के लिए available बनाने का अधिकार शामिल है।"
+    "section6": {
+      "title": "6. Communities और Gaming Features",
+      "community": {
+        "title": "6.1. Community Creation और Management",
+        "intro": "Users गेमिंग और सामाजिक interaction के लिए communities बना और join कर सकते हैं।",
+        "freemium_title": "Freemium Limitations:",
+        "free_label": "Free Users:",
+        "free": {
+          "li1": "Create: अधिकतम 1 community",
+          "li2": "Join: अधिकतम 5 communities तक",
+          "li3": "Community Member Limits: Communities अपने boost level के आधार पर member caps के अधीन हैं"
+        },
+        "premium_label": "Premium Users (Jynx+):",
+        "premium": {
+          "li1": "Create: Unlimited communities",
+          "li2": "Join: Unlimited communities",
+          "li3": "Exclusive Benefits: आपकी पसंदीदा communities को support करने के लिए प्रति माह 2 free community boosts"
+        },
+        "boost_title": "Community Boost System:",
+        "boost_intro": "Communities अपनी member capacity बढ़ा सकती हैं और community boosts के माध्यम से additional features unlock कर सकती हैं:",
+        "boost": {
+          "level0": "Level 0 (Base): 30 members तक",
+          "level1": "Level 1 (5 boosts): 100 members तक + Custom community wallpapers",
+          "level2": "Level 2 (15 boosts): 250 members तक + Custom role creation",
+          "level3": "Level 3 (30 boosts): 500 members तक + Advanced community features"
+        }
+      },
+      "automatch": {
+        "title": "6.2. Auto-Match System",
+        "intro": "Jynx एक intelligent auto-match system का उपयोग करता है जो players को connect करता है:",
+        "li1": "Game preferences",
+        "li2": "Skill levels (जैसे Riot Games rank)",
+        "li3": "Play styles और availability",
+        "li4": "Language और timezone",
+        "consent": "Auto-match feature का उपयोग करके, आप अपनी gaming profile को potential matches के साथ share करने के लिए सहमति देते हैं।"
+      },
+      "riot": {
+        "title": "6.3. Riot Games Integration",
+        "intro": "जब आप अपना Riot Games account link करते हैं, तो हम retrieve करते हैं:",
+        "li1": "Summoner name और Riot ID",
+        "li2": "Ranked statistics (League of Legends, Valorant, आदि)",
+        "li3": "Champion mastery और match history",
+        "unlink": "आप किसी भी समय Settings से अपना Riot account unlink कर सकते हैं।"
+      }
     },
-    "privacy": {
-      "title": "6. Privacy",
-      "p1": "आपकी privacy हमारे लिए महत्वपूर्ण है। कृपया अपनी personal information के संबंध में हमारी practices को समझने के लिए हमारी Privacy Policy की समीक्षा करें। Service का उपयोग करके, आप हमारी Privacy Policy के अनुसार information के collection और use के लिए सहमत हैं।"
+    "section7": {
+      "title": "7. Account Suspension और Termination",
+      "suspension": {
+        "title": "7.1. Jynx द्वारा Suspension",
+        "intro": "हम आपके account को suspend या terminate करने का अधिकार सुरक्षित रखते हैं यदि आप:",
+        "li1": "इन Terms of Service का उल्लंघन करते हैं",
+        "li2": "Prohibited conduct में engage होते हैं (Section 4.2)",
+        "li3": "Fraudulent या illegal activities में engage होते हैं",
+        "li4": "अन्य users से बार-बार valid reports प्राप्त करते हैं",
+        "actions_title": "Moderation Actions:",
+        "actions_intro": "हमारी moderation team निम्नलिखित actions ले सकती है:",
+        "warning_label": "1. Warning (Low Severity)",
+        "warning": {
+          "li1": "Minor infractions या first-time violations के लिए issued",
+          "li2": "कोई account restrictions नहीं, लेकिन violation documented है",
+          "li3": "Warnings 30 दिनों के लिए record पर रहती हैं"
+        },
+        "temp_label": "2. Temporary Suspension (Medium to High Severity)",
+        "temp": {
+          "li1": "7-day suspension: Significant violations के लिए standard duration (harassment, spam, platform manipulation)",
+          "li2": "14-day suspension: Repeated violations या more serious infractions",
+          "li3": "30-day suspension: Severe violations जो permanent removal की warranty नहीं देते",
+          "li4": "Suspension के दौरान, आप Service तक सभी access खो देते हैं"
+        },
+        "permanent_label": "3. Permanent Ban (Critical Severity)",
+        "permanent": {
+          "intro": "सबसे severe violations के लिए issued, जिसमें शामिल हैं:",
+          "li1": "Illegal activities (fraud, illegal content का distribution)",
+          "li2": "Severe harassment, threats, या hate speech",
+          "li3": "Multiple suspensions के बाद repeated violations",
+          "li4": "Bans को evade करने के लिए multiple accounts बनाना",
+          "li5": "Malicious purposes के लिए security vulnerabilities का exploitation"
+        }
+      },
+      "effect": {
+        "title": "7.2. Termination का प्रभाव",
+        "intro": "Account termination पर:",
+        "li1": "आप अपने account और सभी associated data तक access खो देते हैं",
+        "li2": "आपका user data GDPR के अनुसार anonymized किया जाता है",
+        "li3": "आपका Firebase Authentication account deleted हो जाता है",
+        "li4": "OAuth tokens (Google, Apple) स्वचालित रूप से revoked हो जाते हैं",
+        "refund": "Refund Policy: जब आपका account इन Terms के violations के कारण terminated होता है तो premium subscriptions या virtual items (cosmetics) के लिए कोई refunds issued नहीं किए जाते।"
+      },
+      "user_deletion": {
+        "title": "7.3. User-Initiated Deletion",
+        "p1": "आप किसी भी समय Settings > Danger Zone > Delete My Account के माध्यम से अपना account delete कर सकते हैं।",
+        "p2": "यह action irreversible है। Deletion process के लिए हमारी Privacy Policy देखें।"
+      },
+      "appeal": {
+        "title": "7.4. Appeal Process",
+        "intro": "यदि आपको विश्वास है कि आपका account गलती से suspended या terminated किया गया था, तो आपको decision को appeal करने का अधिकार है।",
+        "how_title": "Appeal कैसे करें:",
+        "how": {
+          "li1": "अपना Appeal Submit करें: अपनी account information (username, email, handle), appeal के लिए reason, कोई supporting evidence, और incident पर आपका perspective के साथ dpo@jynx.app से संपर्क करें",
+          "li2": "Review Timeline: हम submission के 7 business days के भीतर सभी appeals की समीक्षा करेंगे",
+          "li3": "Investigation: हमारी moderation team original violation report और evidence की re-examine करेगी, आपके account history और context की review करेगी, और आपके द्वारा प्रदान की गई किसी भी new information पर विचार करेगी",
+          "li4": "Decision: Review के बाद, हम या तो decision को uphold करेंगे, penalty को reduce करेंगे, या decision को overturn करेंगे और आपके account को reinstate करेंगे",
+          "li5": "Notification: आपको email के माध्यम से हमारा final decision प्राप्त होगा, जिसमें outcome और हमारे reasoning की explanation शामिल होगी"
+        },
+        "deadlines_title": "Appeal Deadlines:",
+        "deadlines_intro": "आपको अपना appeal इसके भीतर submit करना होगा:",
+        "deadlines": {
+          "li1": "Mutes या short suspensions (1-7 days) के लिए 24 घंटे",
+          "li2": "Suspensions (14-30 days) के लिए 7 दिन",
+          "li3": "Permanent bans के लिए 30 दिन"
+        }
+      }
     },
-    "third_party": {
-      "title": "7. Third-Party Links",
-      "p1": "हमारी Service में third-party websites या services के links हो सकते हैं जो Jynx द्वारा owned या controlled नहीं हैं। हमारा किसी third-party websites या services की content, privacy policies, या practices पर कोई control नहीं है, और हम कोई जिम्मेदारी नहीं लेते। आप आगे acknowledge और agree करते हैं कि Jynx किसी ऐसी content, goods, या services के use या reliance के connection में caused या alleged to be caused किसी damage या loss के लिए, directly या indirectly, responsible या liable नहीं होगा जो किसी ऐसी websites या services पर या through available हैं।"
+    "section8": {
+      "title": "8. Premium Services और Payments",
+      "status": "Premium Features Status: Jynx currently एक free-to-use platform के रूप में operate करता है। Premium subscription features (Jynx+) और paid cosmetics जल्द ही आ रहे हैं और अभी तक purchase के लिए उपलब्ध नहीं हैं।",
+      "freemium": {
+        "title": "8.1. Freemium Model",
+        "intro": "Jynx एक freemium model पर operate करता है जहाँ सभी core features मुफ्त में accessible हैं, optional premium enhancements के साथ।",
+        "free_title": "Free Tier Limitations:",
+        "free": {
+          "li1": "Match Queue: प्रति दिन 20 likes, प्रति दिन 200 profile views",
+          "li2": "Chat Requests: Match queue से प्रति दिन 3 requests, globally प्रति दिन 5 requests",
+          "li3": "Communities: 1 community create करें, 5 communities तक join करें",
+          "li4": "Cosmetics: Free tier cosmetic items तक access (badges, avatar borders)"
+        },
+        "premium_title": "Jynx+ Premium Benefits (Coming Soon):",
+        "premium": {
+          "li1": "Unlimited Communities: Unlimited communities create और join करें",
+          "li2": "Community Boosts: आपकी पसंदीदा communities को support करने के लिए प्रति माह 2 free community boosts",
+          "li3": "Unlimited Matching: Likes, profile views, या chat requests पर कोई daily limits नहीं",
+          "li4": "Priority Support: Support inquiries के लिए faster response times",
+          "li5": "Premium Badge: अपनी profile पर एक special premium badge display करें",
+          "li6": "Exclusive Cosmetics: Premium-tier cosmetic items तक access",
+          "li7": "Advanced Features: New features और enhanced matching algorithms तक early access"
+        }
+      },
+      "cosmetics": {
+        "title": "8.2. Cosmetics और Virtual Items",
+        "intro": "Jynx अपनी profile को personalize करने के लिए optional cosmetic items offer करेगा, जिसमें badges, avatar borders, और hero borders शामिल हैं।",
+        "important": "महत्वपूर्ण: Cosmetics purely decorative digital items हैं जिनका कोई real-world value नहीं है। आप cosmetics के own नहीं हैं; आपको उन्हें अपनी Jynx profile पर display करने के लिए एक limited, revocable license granted है।"
+      },
+      "refunds": {
+        "title": "8.3. Refunds और Cancellations",
+        "eu_title": "EU Consumer Rights (14-Day Cooling-Off Period):",
+        "eu": {
+          "p1": "यदि आप यूरोपीय संघ में एक consumer हैं, तो आपको purchase के 14 दिनों के भीतर digital content purchases से withdraw करने का अधिकार है, conditions के अधीन।"
+        },
+        "policy_title": "Refund Policy:",
+        "policy": {
+          "li1": "Technical Errors: यदि आप purchased features तक पहुंचने से रोकने वाली technical issues का अनुभव करते हैं, तो full refund के लिए 14 दिनों के भीतर support@jynx.app से संपर्क करें",
+          "li2": "Accidental Purchases: Accidental purchases के लिए refunds purchase के 48 घंटों के भीतर हमारे discretion पर issued किए जा सकते हैं",
+          "li3": "Unauthorized Transactions: Unauthorized transactions की तुरंत dpo@jynx.app और अपने payment provider को report करें",
+          "li4": "कोई Refunds नहीं: Terms violations के कारण account termination, 14 दिनों से अधिक के लिए premium features उपयोग करने के बाद mind change करने पर"
+        }
+      }
     },
-    "limitation": {
-      "title": "8. Limitation of Liability",
-      "p1": "किसी भी स्थिति में Jynx, न ही इसके directors, employees, partners, agents, suppliers, या affiliates, किसी indirect, incidental, special, consequential, या punitive damages के लिए liable होंगे, जिसमें बिना सीमा के, profits, data, use, goodwill, या other intangible losses का loss शामिल है, जो इससे उत्पन्न होते हैं:",
-      "li1": "Service तक आपकी access या use या Service तक access या use करने में असमर्थता।",
-      "li2": "Service पर किसी third party की कोई conduct या content।",
-      "li3": "Service से प्राप्त कोई content।",
-      "li4": "आपके transmissions या content की unauthorized access, use, या alteration।"
+    "section9": {
+      "title": "9. Third-Party Services",
+      "intro": "Jynx निम्नलिखित third-party services के साथ integrate होता है, प्रत्येक अपनी own terms द्वारा governed:",
+      "firebase": {
+        "title": "9.1. Firebase Services (Google)",
+        "intro": "हम Firebase का उपयोग करते हैं:",
+        "li1": "Authentication",
+        "li2": "Cloud Firestore (database)",
+        "li3": "Cloud Storage (images)",
+        "li4": "Cloud Functions (backend logic)",
+        "li5": "Cloud Messaging (push notifications)",
+        "li6": "App Check (security)",
+        "li7": "Performance Monitoring",
+        "li8": "Crashlytics (crash reporting)"
+      },
+      "sentry": {
+        "title": "9.2. Sentry (Error Monitoring)",
+        "p1": "हम error tracking और performance monitoring के लिए Sentry का उपयोग करते हैं। Data को Sentry को भेजने से पहले anonymized किया जाता है।"
+      },
+      "riot": {
+        "title": "9.3. Riot Games API",
+        "p1": "हम gaming statistics (League of Legends, Valorant, आदि) retrieve करने के लिए Riot Games API का उपयोग करते हैं।"
+      },
+      "oauth": {
+        "title": "9.4. OAuth Providers",
+        "intro": "हम authentication offer करते हैं:",
+        "li1": "Google Sign-In",
+        "li2": "Apple Sign-In"
+      },
+      "responsibility": "आप इन third-party services की terms का पालन करने के लिए जिम्मेदार हैं।"
     },
-    "disclaimer": {
-      "title": "9. Disclaimer",
-      "p1": "Service का आपका उपयोग आपके sole risk पर है। Service \"AS IS\" और \"AS AVAILABLE\" आधार पर प्रदान की जाती है। Service बिना किसी warranties के प्रदान की जाती है, चाहे express या implied, जिसमें शामिल हैं, लेकिन इन तक सीमित नहीं है, merchantability, fitness for a particular purpose, non-infringement, या course of performance की implied warranties।"
+    "section10": {
+      "title": "10. Disclaimers और Limitation of Liability",
+      "as_is": {
+        "title": "10.1. Service \"AS IS\" Provided",
+        "p1": "SERVICE \"AS IS\" और \"AS AVAILABLE\" आधार पर provided है, बिना किसी warranties के, express या implied, जिसमें शामिल हैं लेकिन इन तक सीमित नहीं हैं: Merchantability, fitness for a particular purpose, या non-infringement की warranties; Uninterrupted, secure, या error-free service की guarantees; Auto-match results की accuracy या reliability।"
+      },
+      "third_party": {
+        "title": "10.2. Third-Party Services पर कोई Warranty नहीं",
+        "intro": "हम जिम्मेदार नहीं हैं:",
+        "li1": "Firebase, Riot Games API, या other third-party services के साथ downtime या issues के लिए",
+        "li2": "Riot Games statistics की accuracy के लिए (जैसे rank, match history)",
+        "li3": "Third-party service failures के कारण data के loss के लिए"
+      },
+      "limitation": {
+        "title": "10.3. Limitation of Liability",
+        "p1": "कानून द्वारा अनुमत अधिकतम सीमा तक, JYNX किसी भी: Indirect, incidental, special, consequential, या punitive damages के लिए LIABLE नहीं होगा; Profits, data, या goodwill का loss; Service interruptions या unavailability; User-generated content या अन्य users के conduct।",
+        "max": "Maximum Liability: हमारी total liability claim से पहले 12 महीनों में आपके द्वारा Jynx को paid amount, या €100, जो भी अधिक हो, से अधिक नहीं होगी।"
+      }
     },
-    "dispute": {
-      "title": "10. Dispute Resolution",
-      "governing": "a. Governing Law",
-      "p1": "ये Terms फ्रांस के कानूनों के अनुसार governed और construed किए जाएंगे, इसके conflict of law provisions के संबंध के बिना।",
-      "arbitration": "b. Arbitration",
-      "p2": "इन Terms की subject matter से arising या relating कोई भी dispute अंततः Paris, France में arbitration द्वारा settled किया जाएगा, French language का उपयोग करते हुए Judicial Arbitration and Mediation Services, Inc. (JAMS) के तब प्रभावी Arbitration Rules और Procedures के अनुसार, intellectual property और commercial contract disputes को resolve करने में substantial experience वाले एक commercial arbitrator द्वारा।"
+    "section11": {
+      "title": "11. Terms में Modifications",
+      "right": {
+        "title": "11.1. Modify करने का अधिकार",
+        "intro": "हम किसी भी समय इन Terms को modify करने का अधिकार सुरक्षित रखते हैं। जब हम changes करते हैं, तो हम:",
+        "li1": "इस document के top पर \"Last Updated\" date को update करेंगे",
+        "li2": "सभी changes के लिए 30 days advance notice प्रदान करेंगे",
+        "li3": "In-app notification के माध्यम से आपको notify करेंगे",
+        "li4": "आपके account से associated email address पर email के माध्यम से आपको notify करेंगे"
+      },
+      "acceptance": {
+        "title": "11.2. Changes की स्वीकृति",
+        "p1": "Changes प्रभावी होने के बाद Service का आपका continued use revised Terms की आपकी स्वीकृति constitutes करता है।",
+        "p2": "यदि आप revised Terms से सहमत नहीं हैं, तो आपको changes प्रभावी होने से पहले Service का उपयोग बंद करना होगा और अपना account delete करना होगा।"
+      },
+      "material": {
+        "title": "11.3. Material Changes",
+        "intro": "Material changes के लिए जो आपके rights या obligations को significantly affect करते हैं (जैसे payment terms, liability limitations, data processing, dispute resolution में changes), हम:",
+        "li1": "60 days advance notice प्रदान करेंगे (standard notice period का double)",
+        "li2": "Service का उपयोग जारी रखने से पहले changes की explicit acknowledgment require करेंगे",
+        "li3": "यदि आप Service का उपयोग discontinue करना चुनते हैं तो आपको अपना data export करने का opportunity offer करेंगे"
+      }
     },
-    "changes": {
-      "title": "11. Terms में परिवर्तन",
-      "p1": "हम किसी भी समय, अपने sole discretion पर, इन Terms को modify या replace करने का अधिकार सुरक्षित रखते हैं। यदि revision material है, तो हम किसी भी नए terms के प्रभावी होने से पहले कम से कम 30 दिनों का notice देने की कोशिश करेंगे। क्या material change है यह हमारे sole discretion पर निर्धारित किया जाएगा।",
-      "p2": "उन revisions के प्रभावी होने के बाद हमारी Service को access या use करना जारी रखने से, आप revised Terms से बाध्य होने के लिए सहमत होते हैं। यदि आप नए Terms से सहमत नहीं हैं, तो कृपया Service का उपयोग बंद करें।"
+    "section12": {
+      "title": "12. Governing Law और Dispute Resolution",
+      "law": {
+        "title": "12.1. Governing Law",
+        "p1": "ये Terms फ्रांस के कानूनों और applicable European Union regulations के अनुसार governed और construed किए जाते हैं, conflict of law principles के संबंध के बिना।",
+        "regulations": "Applicable Regulations: French Civil Code (Code civil), French Consumer Code (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive।"
+      },
+      "jurisdiction": {
+        "title": "12.2. Jurisdiction",
+        "p1": "इन Terms या Service से arising कोई भी disputes Nantes, France के competent courts की exclusive jurisdiction के अधीन होंगे।"
+      },
+      "resolution": {
+        "title": "12.3. Dispute Resolution और Arbitration",
+        "no_mandatory": "कोई Mandatory Arbitration नहीं: Jynx mandatory arbitration require नहीं करता। आप Nantes, France के courts के सामने disputes लाने का अधिकार retain करते हैं।",
+        "adr_title": "Alternative Dispute Resolution (Optional):",
+        "adr_intro": "Legal proceedings initiate करने से पहले, हम आपको encourage करते हैं:",
+        "adr": {
+          "li1": "हमसे सीधे संपर्क करें: support@jynx.app या dpo@jynx.app से संपर्क करके issue को resolve करने का प्रयास करें",
+          "li2": "Informal Negotiation: हम 30 दिनों के भीतर एक amicable resolution तक पहुंचने के लिए आपके साथ good faith में काम करेंगे",
+          "li3": "Mediation (Optional): यदि informal resolution fail होता है, तो आप एक neutral third-party mediator के माध्यम से mediation propose कर सकते हैं"
+        }
+      },
+      "eu_rights": {
+        "title": "12.4. EU Consumer Rights",
+        "intro": "यदि आप यूरोपीय संघ में एक consumer हैं, तो आप EU law के तहत सभी mandatory consumer rights retain करते हैं, जिसमें शामिल हैं:",
+        "li1": "Digital content purchases के लिए 14-day cooling-off period",
+        "li2": "Defective products या services के लिए remedies का अधिकार",
+        "li3": "Unfair contract terms के खिलाफ protection",
+        "li4": "अपने local consumer protection authority के साथ complaints file करने का अधिकार",
+        "li5": "EU ODR platform तक access"
+      },
+      "gdpr": {
+        "title": "12.5. GDPR Compliance",
+        "p1": "हमारी data practices General Data Protection Regulation (GDPR) का पालन करती हैं। Data collection, processing, retention, आपके अधिकारों, और हमारे Data Protection Officer से संपर्क करने के बारे में details के लिए हमारी Privacy Policy देखें।"
+      }
     },
-    "contact": {
-      "title": "12. हमसे संपर्क करें",
-      "p1": "यदि इन Terms के बारे में आपके कोई प्रश्न हैं, तो कृपया हमसे संपर्क करें:",
-      "email": "Email: terms@jynx.app"
-    }
+    "section13": {
+      "title": "13. Contact और Legal Information",
+      "contact": {
+        "title": "13.1. हमसे संपर्क करें",
+        "intro": "इन Terms of Service के बारे में questions के लिए:",
+        "general_label": "General Inquiries:",
+        "general": "dpo@jynx.app",
+        "support_label": "Customer Support:",
+        "support": "support@jynx.app",
+        "security_label": "Security Issues:",
+        "security": "security@jynx.app"
+      },
+      "legal": {
+        "title": "13.2. Legal Entity",
+        "company_label": "Company Name:",
+        "company": "Jynx Group",
+        "address_label": "Physical Address:",
+        "address_line1": "BEACH BAT B1ETG APT2 1",
+        "address_line2": "6 QUAI MAGELLAN",
+        "address_line3": "44000 NANTES",
+        "address_line4": "FRANCE",
+        "registration_label": "Registration Information:",
+        "siren_label": "SIREN:",
+        "siren": "991443896",
+        "siret_label": "SIRET:",
+        "siret": "99144389600014",
+        "rcs_label": "Registered with:",
+        "rcs": "Registre du Commerce et des Sociétés (RCS) de Nantes",
+        "date_label": "Registration Date:",
+        "date": "September 17, 2025",
+        "form_label": "Legal Form:",
+        "form": "Société par Actions Simplifiée (SAS)",
+        "vat_label": "VAT Number:",
+        "vat": "FR39991443896",
+        "dpo_label": "Data Protection Officer (DPO):",
+        "dpo": "dpo@jynx.app"
+      }
+    },
+    "section14": {
+      "title": "14. विविध",
+      "entire": {
+        "title": "14.1. संपूर्ण समझौता",
+        "p1": "ये Terms, हमारी Privacy Policy के साथ मिलकर, Service के संबंध में आपके और Jynx के बीच संपूर्ण समझौता constitute करते हैं।"
+      },
+      "severability": {
+        "title": "14.2. Severability",
+        "p1": "यदि इन Terms का कोई provision invalid या unenforceable पाया जाता है, तो remaining provisions पूर्ण force और effect में बने रहेंगे।"
+      },
+      "waiver": {
+        "title": "14.3. Waiver",
+        "p1": "इन Terms के किसी right या provision को enforce करने में हमारी failure उस right या provision की waiver constitute नहीं करेगी।"
+      },
+      "assignment": {
+        "title": "14.4. Assignment",
+        "p1": "आप हमारी prior written consent के बिना इन Terms को assign या transfer नहीं कर सकते। हम बिना restriction के इन Terms को assign कर सकते हैं।"
+      },
+      "language": {
+        "title": "14.5. भाषा",
+        "p1": "ये Terms English में प्रदान किए गए हैं। English version और किसी translation के बीच किसी conflict की स्थिति में, English version prevail करेगा।"
+      }
+    },
+    "final_acknowledgment": "Jynx का उपयोग करके, आप acknowledge करते हैं कि आपने इन Terms of Service को पढ़ा है, समझा है, और इनसे बाध्य होने के लिए सहमत हैं।"
   },
   "nav": {
     "home": "होम",
@@ -610,7 +1087,8 @@
       "invalid_email": "कृपया एक valid email address दर्ज करें।",
       "empty_field": "यह field खाली नहीं हो सकती।",
       "default": "एक unexpected error हुआ। कृपया फिर से कोशिश करें।"
-    }
+    },
+    "nojs_note": "यह आपके email client को खोलेगा। सर्वोत्तम अनुभव के लिए, कृपया JavaScript enable करें।"
   },
   "feedback": {
     "coming_soon": "जल्द आ रहा है",
@@ -767,55 +1245,15 @@
       "thanks": "App interface design करने में मदद करने के लिए धन्यवाद!"
     }
   },
-  "use_cases": {
-    "title": "वास्तविक गेमर्स, वास्तविक कहानियां",
-    "subtitle": "देखें कैसे Jynx AI matchmaking ने gamers को उनके perfect squads खोजने में मदद की",
-    "competitive": {
-      "title": "Competitive Players के लिए",
-      "quote": "मैं एक Diamond League of Legends player हूं जो एक consistent ranked squad की तलाश में था। Jynx के AI matchmaking ने मुझे मेरे skill level के players से connect किया जो same roles खेलते हैं और similar schedules रखते हैं। हम सिर्फ 2 महीनों में Diamond IV से Diamond I तक पहुंच गए!",
-      "name": "Alex, 24",
-      "role": "Diamond League of Legends Player",
-      "stat1": "+400 LP हासिल किए",
-      "stat2": "78% Win Rate"
-    },
-    "casual": {
-      "title": "Casual Gamers के लिए",
-      "quote": "मैं सिर्फ chill लोगों को ढूंढना चाहती थी जिनके साथ weekends पर co-op games खेल सकूं। Jynx के player discovery ने मुझे profiles के through swipe करने और ऐसे gamers से connect करने दिया जो मेरी vibe share करते हैं। अब मेरे पास Valorant unrated matches के लिए एक regular group है और यह बहुत मज़ेदार है!",
-      "name": "Sarah, 21",
-      "role": "Casual Valorant Player",
-      "stat1": "15+ Gaming Friends",
-      "stat2": "Weekly Gaming Nights"
-    },
-    "community": {
-      "title": "Community Leaders के लिए",
-      "quote": "मैं indie game enthusiasts के लिए 500-member community चलाता हूं। Jynx के community features मुझे events organize करने, discussions moderate करने, और real-time chat के साथ सभी को engaged रखने में मदद करते हैं। AI matchmaking members को हमारी community के भीतर instantly teammates खोजने में मदद करता है।",
-      "name": "Marcus, 28",
-      "role": "Gaming Community Leader",
-      "stat1": "500+ Members",
-      "stat2": "50+ Weekly Matches"
-    },
-    "solo": {
-      "title": "Solo Players के लिए",
-      "quote": "अकेले gaming करना मज़ेदार नहीं रह गया था। Jynx ने मुझे अपने favorite games के आसपास communities discover करने में मदद की और अब मेरे पास हर रात खेलने के लिए एक regular group है। AI ने मुझे perfectly ऐसे लोगों से match किया जो same gaming goals रखते हैं - casual लेकिन competitive जब matter करता है।",
-      "name": "James, 26",
-      "role": "Former Solo Queue Player",
-      "stat1": "Daily Squad Games",
-      "stat2": "3 Communities Joined"
-    }
-  },
   "comparison": {
     "title": "Jynx क्यों है सबसे अच्छा Gaming Matchmaking Platform",
-    "subtitle": "देखें हम अन्य gaming platforms से कैसे compare करते हैं",
     "table": {
       "feature": "Feature",
       "lfg": "Traditional LFG",
-      "ai_matching": "AI-Powered Matchmaking",
       "auto_finder": "Automatic Teammate Finder",
       "elo_matching": "Skill-Based Matching (ELO)",
-      "communities": "Gaming Communities",
       "chat": "Real-Time Chat",
       "tournaments": "टूर्नामेंट आयोजन",
-      "sessions": "Gaming Sessions Scheduling",
       "integration": "Player Profile Integration",
       "discovery": "Tinder-Style Player Discovery",
       "gaming_focused": "Gaming के लिए बनाया गया",
@@ -833,14 +1271,11 @@
       "limited": "सीमित",
       "manual_posts": "Manual posts",
       "basic": "Basic",
-      "builtin": "Built-in",
       "servers": "Servers",
       "teams": "Teams",
       "advanced": "Advanced",
-      "riot_api": "Riot API",
       "general": "General",
       "varies": "अलग-अलग",
-      "free_forever": "हमेशा के लिए मुफ्त",
       "free_jynx_plus": "Free / Jynx+",
       "free_varies": "Free/अलग-अलग"
     },
@@ -873,7 +1308,8 @@
       "quote": "अकेले गेमिंग अब मजेदार नहीं रही। Jynx ने मुझे मेरे पसंदीदा गेम्स के आसपास समुदायों की खोज करने में मदद की और अब मेरे पास हर रात खेलने के लिए एक नियमित समूह है। AI ने मुझे उन लोगों के साथ perfectly मैच किया जिनके पास समान गेमिंग लक्ष्य हैं - कैजुअल लेकिन competitive जब यह मायने रखता है।",
       "name": "James 'ShadowStrike' Wilson",
       "role": "पूर्व Solo Queue खिलाड़ी"
-    }
+    },
+    "nojs_note": "सभी reviews ब्राउज़ करने के लिए JavaScript enable करें"
   },
   "faq": {
     "title": "गेमिंग मैचमेकिंग के बारे में अक्सर पूछे जाने वाले प्रश्न",
@@ -935,15 +1371,7 @@
     },
     "cta": "अभी टीममेट खोजना शुरू करें - यह मुफ्त है"
   },
-  "final_cta": {
-    "title": "Solo Gaming खत्म करें। Squad Gaming शुरू करें।",
-    "subtitle": "हजारों gamers में शामिल हों जिन्होंने Jynx के साथ अपने perfect teammates पाए",
-    "features": {
-      "free": "हमेशा के लिए मुफ्त",
-      "instant": "Instant Matchmaking",
-      "no_card": "कोई Credit Card नहीं चाहिए"
-    },
-    "button": "मुफ्त में शुरू करें",
-    "note": "2 मिनट में setup हो जाता है • कोई download नहीं चाहिए"
+  "global": {
+    "nojs_banner": "JavaScript disabled है। कुछ interactive features optimally काम नहीं कर सकती हैं।"
   }
 }
