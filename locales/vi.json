@@ -1816,17 +1816,8 @@
       "updated_on": "Cập nhật vào",
       "published_on": "Xuất bản vào",
       "reading_time": "{{time}} phút đọc",
-      "share": {
-        "title": "Chia sẻ bài viết này",
-        "twitter": "Chia sẻ trên Twitter",
-        "linkedin": "Chia sẻ trên LinkedIn",
-        "facebook": "Chia sẻ trên Facebook",
-        "copy": "Sao Chép Liên Kết",
-        "copied": "Đã sao chép!"
-      },
-      "tags": {
-        "title": "Thẻ"
-      },
+      "share": "Chia sẻ bài viết này :",
+      "tags": "Thẻ :",
       "author": {
         "title": "Về Tác Giả",
         "follow": "Theo dõi trên"

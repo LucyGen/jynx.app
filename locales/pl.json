@@ -1424,17 +1424,8 @@
       "updated_on": "Zaktualizowano",
       "published_on": "Opublikowano",
       "reading_time": "{{time}} min czytania",
-      "share": {
-        "title": "Udostępnij ten artykuł",
-        "twitter": "Udostępnij na Twitter",
-        "linkedin": "Udostępnij na LinkedIn",
-        "facebook": "Udostępnij na Facebook",
-        "copy": "Skopiuj Link",
-        "copied": "Skopiowano!"
-      },
-      "tags": {
-        "title": "Tagi"
-      },
+      "share": "Udostępnij ten artykuł :",
+      "tags": "Tagi :",
       "author": {
         "title": "O Autorze",
         "follow": "Śledź na"

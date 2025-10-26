@@ -1557,17 +1557,8 @@
       "updated_on": "Обновлено",
       "published_on": "Опубликовано",
       "reading_time": "{{time}} мин чтения",
-      "share": {
-        "title": "Поделиться статьёй",
-        "twitter": "Поделиться в Twitter",
-        "linkedin": "Поделиться в LinkedIn",
-        "facebook": "Поделиться в Facebook",
-        "copy": "Копировать Ссылку",
-        "copied": "Скопировано!"
-      },
-      "tags": {
-        "title": "Теги"
-      },
+      "share": "Поделиться статьёй :",
+      "tags": "Теги :",
       "author": {
         "title": "Об Авторе",
         "follow": "Подписаться на"

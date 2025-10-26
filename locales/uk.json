@@ -1575,17 +1575,8 @@
       "updated_on": "Оновлено",
       "published_on": "Опубліковано",
       "reading_time": "{{time}} хв читання",
-      "share": {
-        "title": "Поділитися статтею",
-        "twitter": "Поділитися в Twitter",
-        "linkedin": "Поділитися в LinkedIn",
-        "facebook": "Поділитися в Facebook",
-        "copy": "Копіювати Посилання",
-        "copied": "Скопійовано!"
-      },
-      "tags": {
-        "title": "Теги"
-      },
+      "share": "Поділитися статтею :",
+      "tags": "Теги :",
       "author": {
         "title": "Про Автора",
         "follow": "Підписатися на"

@@ -1424,17 +1424,8 @@
       "updated_on": "আপডেট করা হয়েছে",
       "published_on": "প্রকাশিত",
       "reading_time": "{{time}} মিনিট পড়ুন",
-      "share": {
-        "title": "এই আর্টিকেল শেয়ার করুন",
-        "twitter": "Twitter-এ শেয়ার করুন",
-        "linkedin": "LinkedIn-এ শেয়ার করুন",
-        "facebook": "Facebook-এ শেয়ার করুন",
-        "copy": "লিঙ্ক কপি করুন",
-        "copied": "কপি হয়েছে!"
-      },
-      "tags": {
-        "title": "ট্যাগ"
-      },
+      "share": "এই আর্টিকেল শেয়ার করুন :",
+      "tags": "ট্যাগ :",
       "author": {
         "title": "লেখক সম্পর্কে",
         "follow": "ফলো করুন"

@@ -1889,17 +1889,8 @@
       "updated_on": "업데이트됨",
       "published_on": "게시됨",
       "reading_time": "{{time}}분 읽기",
-      "share": {
-        "title": "이 글 공유하기",
-        "twitter": "Twitter에 공유",
-        "linkedin": "LinkedIn에 공유",
-        "facebook": "Facebook에 공유",
-        "copy": "링크 복사",
-        "copied": "복사됨!"
-      },
-      "tags": {
-        "title": "태그"
-      },
+      "share": "이 글 공유하기 :",
+      "tags": "태그 :",
       "author": {
         "title": "작성자 정보",
         "follow": "팔로우"

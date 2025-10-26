@@ -1881,17 +1881,8 @@
       "updated_on": "Güncellenme",
       "published_on": "Yayınlanma",
       "reading_time": "{{time}} dakika okuma",
-      "share": {
-        "title": "Bu makaleyi paylaş",
-        "twitter": "Twitter'da Paylaş",
-        "linkedin": "LinkedIn'de Paylaş",
-        "facebook": "Facebook'ta Paylaş",
-        "copy": "Bağlantıyı Kopyala",
-        "copied": "Kopyalandı!"
-      },
-      "tags": {
-        "title": "Etiketler"
-      },
+      "share": "Bu makaleyi paylaş :",
+      "tags": "Etiketler :",
       "author": {
         "title": "Yazar Hakkında",
         "follow": "Takip Et"

@@ -1424,17 +1424,8 @@
       "updated_on": "अपडेट किया गया",
       "published_on": "प्रकाशित",
       "reading_time": "{{time}} मिनट रीड",
-      "share": {
-        "title": "इस आर्टिकल को शेयर करें",
-        "twitter": "Twitter पर शेयर करें",
-        "linkedin": "LinkedIn पर शेयर करें",
-        "facebook": "Facebook पर शेयर करें",
-        "copy": "लिंक कॉपी करें",
-        "copied": "कॉपी हो गया!"
-      },
-      "tags": {
-        "title": "टैग"
-      },
+      "share": "इस आर्टिकल को शेयर करें :",
+      "tags": "टैग :",
       "author": {
         "title": "लेखक के बारे में",
         "follow": "फॉलो करें"

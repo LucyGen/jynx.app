@@ -1466,17 +1466,8 @@
       "updated_on": "تم التحديث في",
       "published_on": "تم النشر في",
       "reading_time": "{{time}} دقيقة قراءة",
-      "share": {
-        "title": "شارك هذا المقال",
-        "twitter": "مشاركة على Twitter",
-        "linkedin": "مشاركة على LinkedIn",
-        "facebook": "مشاركة على Facebook",
-        "copy": "نسخ الرابط",
-        "copied": "تم النسخ!"
-      },
-      "tags": {
-        "title": "الوسوم"
-      },
+      "share": "شارك هذا المقال :",
+      "tags": "الوسوم :",
       "author": {
         "title": "عن الكاتب",
         "follow": "تابع على"

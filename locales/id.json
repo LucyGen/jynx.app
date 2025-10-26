@@ -1424,17 +1424,8 @@
       "updated_on": "Diperbarui pada",
       "published_on": "Dipublikasikan pada",
       "reading_time": "{{time}} menit baca",
-      "share": {
-        "title": "Bagikan artikel ini",
-        "twitter": "Bagikan di Twitter",
-        "linkedin": "Bagikan di LinkedIn",
-        "facebook": "Bagikan di Facebook",
-        "copy": "Salin Tautan",
-        "copied": "Disalin!"
-      },
-      "tags": {
-        "title": "Tag"
-      },
+      "share": "Bagikan artikel ini :",
+      "tags": "Tag :",
       "author": {
         "title": "Tentang Penulis",
         "follow": "Ikuti di"
