@@ -1154,7 +1154,8 @@
     "about": "À Propos",
     "download": "Télécharger",
     "privacy": "Politique de Confidentialité",
-    "terms": "Conditions d'Utilisation"
+    "terms": "Conditions d'Utilisation",
+    "blog": "Blog"
   },
   "faq": {
     "title": "Questions Fréquentes sur le Matchmaking Gaming",
@@ -1369,6 +1370,133 @@
       "title": "Prêt à Expérimenter la Différence ?",
       "description": "Rejoignez plus de 10 000 joueurs qui ont trouvé leurs équipes parfaites avec le matchmaking IA Jynx",
       "button": "Commencer le Matching avec l'IA - Gratuit pour Toujours"
+    }
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog Jynx | Conseils et Guides de Matchmaking Gaming",
+      "description": "Découvrez des conseils d'experts sur le matchmaking gaming, la création de communautés et la recherche de coéquipiers parfaits. Guides, stratégies et insights.",
+      "index_title": "Blog Jynx | Conseils et Guides de Matchmaking Gaming",
+      "index_description": "Découvrez des conseils d'experts sur le matchmaking gaming, la création de communautés et la recherche de coéquipiers parfaits. Guides, stratégies et insights.",
+      "og_title": "Blog Jynx - Conseils de Matchmaking Gaming et Guides Communautés",
+      "og_description": "Guides d'experts sur le matchmaking IA, les communautés gaming et trouver des coéquipiers parfaits. Conseils et stratégies pour gamers compétitifs.",
+      "twitter_title": "Blog Jynx - Conseils et Guides Gaming",
+      "twitter_description": "Guides experts sur le matchmaking gaming et la création de communautés."
+    },
+    "hero": {
+      "title": "Guides et Conseils Matchmaking Gaming",
+      "subtitle": "Conseils d'experts pour trouver des coéquipiers, construire des communautés et maîtriser le gaming compétitif"
+    },
+    "filters": {
+      "all": "Tous les Articles",
+      "matchmaking": "Matchmaking & IA",
+      "communities": "Communautés Gaming",
+      "guides": "Guides et Conseils",
+      "aria_label": "Filtrer les articles de blog par catégorie"
+    },
+    "newsletter": {
+      "title": "Recevez les Insights Gaming",
+      "subtitle": "Rejoignez plus de 10 000 gamers recevant des conseils sur le matchmaking, la création de communautés et trouver des coéquipiers parfaits.",
+      "placeholder": "Entrez votre email",
+      "submit": "S'abonner",
+      "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment.",
+      "thanks": "Merci de vous être abonné ! Vérifiez votre boîte mail pour confirmer.",
+      "aria_label": "Adresse email"
+    },
+    "index": {
+      "title": "Blog Jynx",
+      "subtitle": "Guides d'experts sur le matchmaking gaming, la création de communautés et trouver votre équipe parfaite",
+      "filter_all": "Tous les Articles",
+      "filter_matchmaking": "Matchmaking & IA",
+      "filter_communities": "Communautés Gaming",
+      "filter_guides": "Guides et Conseils",
+      "filter_updates": "Mises à Jour Produit",
+      "no_posts": "Aucun article trouvé dans cette catégorie.",
+      "read_more": "Lire Plus",
+      "min_read": "min de lecture",
+      "newsletter": {
+        "title": "Recevez les Insights Gaming",
+        "subtitle": "Rejoignez plus de 10 000 gamers recevant des conseils sur le matchmaking, la création de communautés et trouver des coéquipiers parfaits.",
+        "placeholder": "Entrez votre email",
+        "button": "S'abonner",
+        "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+      }
+    },
+    "post": {
+      "written_by": "Écrit par",
+      "updated_on": "Mis à jour le",
+      "published_on": "Publié le",
+      "reading_time": "{{time}} min de lecture",
+      "share": {
+        "title": "Partager cet article",
+        "twitter": "Partager sur Twitter",
+        "linkedin": "Partager sur LinkedIn",
+        "facebook": "Partager sur Facebook",
+        "copy": "Copier le Lien",
+        "copied": "Copié !"
+      },
+      "tags": {
+        "title": "Tags"
+      },
+      "author": {
+        "title": "À Propos de l'Auteur",
+        "follow": "Suivre sur"
+      },
+      "related": {
+        "title": "Articles Connexes",
+        "subtitle": "Continuez à apprendre avec ces articles connexes"
+      },
+      "breadcrumb": {
+        "home": "Accueil",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Prêt à Trouver Votre Équipe Parfaite ?",
+        "subtitle": "Rejoignez des milliers de gamers utilisant le matchmaking intelligent Jynx",
+        "button": "Télécharger Jynx",
+        "heading_early": "Prêt à Trouver Votre Équipe Parfaite ?",
+        "heading_mid": "Rejoignez des Milliers de Gamers",
+        "heading_final": "Commencez Votre Aventure Gaming avec Jynx",
+        "tagline": "Prêt à améliorer votre expérience gaming ?",
+        "description": "Téléchargez Jynx et connectez-vous avec des coéquipiers compatibles en quelques minutes"
+      },
+      "aria": {
+        "share_twitter": "Partager sur Twitter",
+        "share_facebook": "Partager sur Facebook",
+        "share_linkedin": "Partager sur LinkedIn",
+        "share_copy": "Copier le lien",
+        "author_twitter": "Twitter de l'auteur",
+        "author_linkedin": "LinkedIn de l'auteur"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "Progression de lecture"
+    },
+    "categories": {
+      "matchmaking": "Matchmaking & IA",
+      "gaming_communities": "Communautés Gaming",
+      "social_gaming": "Gaming Social",
+      "technical": "Technique",
+      "product_updates": "Mises à Jour Produit",
+      "guides": "Guides et Conseils"
+    },
+    "common": {
+      "featured": "À la Une",
+      "min_read": "min de lecture",
+      "no_posts": "Aucun article de blog disponible pour le moment. Revenez bientôt !",
+      "back_to_blog": "Retour au Blog",
+      "load_more": "Charger Plus d'Articles",
+      "no_results": "Aucun article trouvé",
+      "search_placeholder": "Rechercher des articles...",
+      "recent_posts": "Articles Récents",
+      "popular_posts": "Articles Populaires",
+      "all_categories": "Toutes les Catégories"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "Télécharger sur l'App Store - Disponible Bientôt",
+        "play_store": "Disponible sur Google Play - Disponible Bientôt"
+      }
     }
   },
   "global": {

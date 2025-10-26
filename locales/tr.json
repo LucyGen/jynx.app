@@ -1479,7 +1479,8 @@
     "about": "Hakkımızda",
     "download": "İndir",
     "privacy": "Gizlilik Politikası",
-    "terms": "Kullanım Koşulları"
+    "terms": "Kullanım Koşulları",
+    "blog": "Blog"
   },
   "theme-feedback": {
     "submit": "Geri Bildirim Gönder",
@@ -1688,47 +1689,43 @@
     }
   },
   "comparison": {
-    "title": "Jynx Neden Öne Çıkıyor",
-    "subtitle": "Normal eşleştirme ve diğer platformlarla karşılaştırma",
+    "title": "Jynx Neden Diğer Platformlardan Daha İyi",
     "table": {
       "feature": "Özellik",
-      "jynx": "Jynx",
-      "matchmaking": "Oyun İçi Eşleştirme",
-      "discord": "Discord Sunucuları",
-      "reddit": "Reddit/LFG Forumları",
-      "smart_matching": "Akıllı Oyuncu Eşleştirme",
-      "game_integration": "Oyun Entegrasyonu",
-      "voice_chat": "Yerleşik Ses Sohbeti",
-      "player_profiles": "Detaylı Oyuncu Profilleri",
-      "reputation": "İtibar Sistemi",
-      "cross_game": "Çapraz Oyun Desteği",
-      "mobile_app": "Mobil Uygulama",
-      "skill_based": "Yetenek Tabanlı Filtreleme",
-      "language_filter": "Dil Filtresi",
-      "availability": "Müsaitlik Eşleştirme",
-      "privacy_controls": "Gelişmiş Gizlilik Kontrolleri",
-      "dedicated_support": "Özel Destek",
+      "lfg": "LFG Forumlari",
       "game_session_matchmaking": "Oyun Seansı Eşleştirme",
-      "coming_soon": "Yakında",
-      "exclusive_features": "(Özel Özellikler)",
+      "auto_finder": "Otomatik Takım Arkadaşı Bulucu",
+      "elo_matching": "ELO Tabanlı Eşleştirme",
       "community_search": "Topluluk Arama ve Keşif",
-      "by_game_skill": "Oyun, Rütbe ve Dile Göre",
-      "on_computer_only": "Sadece bilgisayarda"
-    },
-    "labels": {
+      "chat": "Yerleşik Sohbet",
+      "tournaments": "Turnuva Organizasyonu",
+      "integration": "Oyun Entegrasyonu",
+      "discovery": "Topluluk Keşfi",
+      "gaming_focused": "Oyun Odaklı",
+      "price": "Fiyat",
       "yes": "Evet",
       "no": "Hayır",
+      "manual": "Manuel",
       "limited": "Sınırlı",
+      "manual_posts": "Manuel Gönderiler",
       "basic": "Temel",
+      "by_game_skill": "Oyun, Rütbe ve Dile Göre",
+      "on_computer_only": "Sadece Bilgisayarda",
+      "servers": "Sunucular",
+      "teams": "Takımlar",
       "advanced": "Gelişmiş",
-      "full": "Tam",
-      "partial": "Kısmi",
-      "manual": "Manuel"
+      "coming_soon": "Yakında Geliyor",
+      "exclusive_features": "(Özel Özellikler)",
+      "game_apis": "Oyun API'leri",
+      "general": "Genel",
+      "varies": "Değişir",
+      "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
+      "free_varies": "Ücretsiz + Değişir"
     },
     "cta": {
-      "title": "Farkı Deneyimleyin",
-      "description": "Binlerce oyuncu Jynx ile mükemmel takımlarını zaten buldu",
-      "button": "Ücretsiz Başlayın"
+      "title": "Farkı Deneyimlemeye Hazır mısınız?",
+      "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan 10.000+ oyuncuya katılın",
+      "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
     }
   },
   "reviews": {
@@ -1835,44 +1832,124 @@
     "close": "Kapat",
     "nojs_banner": "Bu site, tüm özellikler için JavaScript gerektirir. En iyi deneyim için lütfen etkinleştirin."
   },
-  "comparison": {
-    "title": "Jynx Neden Diğer Platformlardan Daha İyi",
-    "table": {
-      "feature": "Özellik",
-      "lfg": "LFG Forumlari",
-      "game_session_matchmaking": "Oyun Seansı Eşleştirme",
-      "auto_finder": "Otomatik Takım Arkadaşı Bulucu",
-      "elo_matching": "ELO Tabanlı Eşleştirme",
-      "community_search": "Topluluk Arama ve Keşif",
-      "chat": "Yerleşik Sohbet",
-      "tournaments": "Turnuva Organizasyonu",
-      "integration": "Oyun Entegrasyonu",
-      "discovery": "Topluluk Keşfi",
-      "gaming_focused": "Oyun Odaklı",
-      "price": "Fiyat",
-      "yes": "Evet",
-      "no": "Hayır",
-      "manual": "Manuel",
-      "limited": "Sınırlı",
-      "manual_posts": "Manuel Gönderiler",
-      "basic": "Temel",
-      "by_game_skill": "Oyun, Rütbe ve Dile Göre",
-      "on_computer_only": "Sadece Bilgisayarda",
-      "servers": "Sunucular",
-      "teams": "Takımlar",
-      "advanced": "Gelişmiş",
-      "coming_soon": "Yakında Geliyor",
-      "exclusive_features": "(Özel Özellikler)",
-      "game_apis": "Oyun API'leri",
-      "general": "Genel",
-      "varies": "Değişir",
-      "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
-      "free_varies": "Ücretsiz + Değişir"
+  "blog": {
+    "meta": {
+      "title": "Jynx Blog | Oyun Eşleştirme İpuçları ve Kılavuzları",
+      "description": "Oyun eşleştirme, topluluk oluşturma ve mükemmel takım arkadaşları bulma konusunda uzman ipuçlarını keşfedin. Kılavuzlar, stratejiler ve içgörüler.",
+      "index_title": "Jynx Blog | Oyun Eşleştirme İpuçları ve Kılavuzları",
+      "index_description": "Oyun eşleştirme, topluluk oluşturma ve mükemmel takım arkadaşları bulma konusunda uzman ipuçlarını keşfedin. Kılavuzlar, stratejiler ve içgörüler.",
+      "og_title": "Jynx Blog - Oyun Eşleştirme İpuçları ve Topluluk Kılavuzları",
+      "og_description": "Yapay zeka eşleştirme, oyun toplulukları ve mükemmel takım arkadaşları bulma konusunda uzman kılavuzları. Rekabetçi oyuncular için ipuçları ve stratejiler.",
+      "twitter_title": "Jynx Blog - Oyun İpuçları ve Kılavuzları",
+      "twitter_description": "Oyun eşleştirme ve topluluk oluşturma konusunda uzman kılavuzları."
+    },
+    "hero": {
+      "title": "Oyun Eşleştirme Kılavuzları ve İpuçları",
+      "subtitle": "Takım arkadaşları bulma, topluluklar oluşturma ve rekabetçi oyunda ustalaşma için uzman içgörüleri"
+    },
+    "filters": {
+      "all": "Tüm Gönderiler",
+      "matchmaking": "Eşleştirme ve Yapay Zeka",
+      "communities": "Oyun Toplulukları",
+      "guides": "Kılavuzlar ve İpuçları",
+      "aria_label": "Blog gönderilerini kategoriye göre filtrele"
+    },
+    "newsletter": {
+      "title": "Oyun İçgörüleri Alın",
+      "subtitle": "Eşleştirme, topluluk oluşturma ve mükemmel takım arkadaşları bulma konusunda ipuçları alan 10.000+ oyuncuya katılın.",
+      "placeholder": "E-postanızı girin",
+      "submit": "Abone Ol",
+      "privacy": "Gizliliğinize saygı duyuyoruz. İstediğiniz zaman abonelikten çıkın.",
+      "thanks": "Abone olduğunuz için teşekkürler! Onaylamak için gelen kutunuzu kontrol edin.",
+      "aria_label": "E-posta adresi"
+    },
+    "common": {
+      "featured": "Öne Çıkan",
+      "min_read": "dakika okuma",
+      "no_posts": "Henüz blog gönderisi yok. Yakında tekrar kontrol edin!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Twitter'da Paylaş",
+        "share_facebook": "Facebook'ta Paylaş",
+        "share_linkedin": "LinkedIn'de Paylaş",
+        "share_copy": "Bağlantıyı kopyala",
+        "author_twitter": "Yazarın Twitter'ı",
+        "author_linkedin": "Yazarın LinkedIn'i"
+      },
+      "written_by": "Yazan",
+      "updated_on": "Güncellenme",
+      "published_on": "Yayınlanma",
+      "reading_time": "{{time}} dakika okuma",
+      "share": {
+        "title": "Bu makaleyi paylaş",
+        "twitter": "Twitter'da Paylaş",
+        "linkedin": "LinkedIn'de Paylaş",
+        "facebook": "Facebook'ta Paylaş",
+        "copy": "Bağlantıyı Kopyala",
+        "copied": "Kopyalandı!"
+      },
+      "tags": {
+        "title": "Etiketler"
+      },
+      "author": {
+        "title": "Yazar Hakkında",
+        "follow": "Takip Et"
+      },
+      "related": {
+        "title": "İlgili Makaleler",
+        "subtitle": "Bu ilgili gönderilerle öğrenmeye devam edin"
+      },
+      "breadcrumb": {
+        "home": "Ana Sayfa",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Mükemmel Kadronuzu Bulmaya Hazır Mısınız?",
+        "subtitle": "Jynx'in akıllı eşleştirmesini kullanan binlerce oyuncuya katılın",
+        "button": "Jynx'i İndir",
+        "heading_early": "Mükemmel Kadronuzu Bulmaya Hazır Mısınız?",
+        "heading_mid": "Binlerce Oyuncuya Katılın",
+        "heading_final": "Jynx ile Oyun Yolculuğunuza Başlayın",
+        "tagline": "Oyun deneyiminizi yükseltmeye hazır mısınız?",
+        "description": "Jynx'i indirin ve dakikalar içinde uyumlu takım arkadaşlarıyla bağlantı kurun"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "Okuma ilerlemesi"
     },
     "cta": {
-      "title": "Farkı Deneyimlemeye Hazır mısınız?",
-      "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan 10.000+ oyuncuya katılın",
-      "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
+      "aria": {
+        "app_store": "App Store'dan İndir - Yakında",
+        "play_store": "Google Play'de Mevcut - Yakında"
+      }
+    },
+    "index": {
+      "title": "Jynx Blog",
+      "subtitle": "Oyun eşleştirme, topluluk oluşturma ve mükemmel kadronuzu bulma konusunda uzman kılavuzları",
+      "filter_all": "Tüm Gönderiler",
+      "filter_matchmaking": "Eşleştirme ve Yapay Zeka",
+      "filter_communities": "Oyun Toplulukları",
+      "filter_guides": "Kılavuzlar ve İpuçları",
+      "filter_updates": "Ürün Güncellemeleri",
+      "no_posts": "Bu kategoride gönderi bulunamadı.",
+      "read_more": "Daha Fazla Oku",
+      "min_read": "dakika okuma",
+      "newsletter": {
+        "title": "Oyun İçgörüleri Alın",
+        "subtitle": "Eşleştirme, topluluk oluşturma ve mükemmel takım arkadaşları bulma konusunda ipuçları alan 10.000+ oyuncuya katılın.",
+        "placeholder": "E-postanızı girin",
+        "button": "Abone Ol",
+        "privacy": "Gizliliğinize saygı duyuyoruz. İstediğiniz zaman abonelikten çıkın."
+      }
+    },
+    "categories": {
+      "matchmaking": "Eşleştirme ve Yapay Zeka",
+      "gaming_communities": "Oyun Toplulukları",
+      "social_gaming": "Sosyal Oyun",
+      "technical": "Teknik",
+      "product_updates": "Ürün Güncellemeleri",
+      "guides": "Kılavuzlar ve İpuçları"
     }
   }
 }

@@ -1479,7 +1479,8 @@
     "about": "소개",
     "download": "다운로드",
     "privacy": "개인정보 처리방침",
-    "terms": "이용약관"
+    "terms": "이용약관",
+    "blog": "Blog"
   },
   "theme_feedback": {
     "title": "앱 디자인에 도움을 주세요",
@@ -1838,5 +1839,125 @@
   },
   "global": {
     "nojs_banner": "JavaScript가 비활성화되었습니다. 일부 대화형 기능이 최적으로 작동하지 않을 수 있습니다."
+  },
+  "blog": {
+    "meta": {
+      "title": "Jynx 블로그 | 게이밍 매치메이킹 팁 및 가이드",
+      "description": "게이밍 매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 전문가 팁을 확인하세요. 가이드, 전략 및 인사이트.",
+      "index_title": "Jynx 블로그 | 게이밍 매치메이킹 팁 및 가이드",
+      "index_description": "게이밍 매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 전문가 팁을 확인하세요. 가이드, 전략 및 인사이트.",
+      "og_title": "Jynx 블로그 - 게이밍 매치메이킹 팁 및 커뮤니티 가이드",
+      "og_description": "AI 매치메이킹, 게이밍 커뮤니티 및 완벽한 팀원 찾기에 대한 전문가 가이드. 경쟁 게이머를 위한 팁과 전략.",
+      "twitter_title": "Jynx 블로그 - 게이밍 팁 및 가이드",
+      "twitter_description": "게이밍 매치메이킹 및 커뮤니티 구축에 대한 전문가 가이드."
+    },
+    "hero": {
+      "title": "게이밍 매치메이킹 가이드 및 팁",
+      "subtitle": "팀원 찾기, 커뮤니티 구축 및 경쟁 게이밍 마스터를 위한 전문가 인사이트"
+    },
+    "filters": {
+      "all": "모든 게시물",
+      "matchmaking": "매치메이킹 및 AI",
+      "communities": "게이밍 커뮤니티",
+      "guides": "가이드 및 팁",
+      "aria_label": "카테고리별로 블로그 게시물 필터링"
+    },
+    "newsletter": {
+      "title": "게이밍 인사이트 받기",
+      "subtitle": "매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 팁을 받는 10,000명 이상의 게이머와 함께하세요.",
+      "placeholder": "이메일을 입력하세요",
+      "submit": "구독하기",
+      "privacy": "개인정보를 존중합니다. 언제든지 구독 취소하세요.",
+      "thanks": "구독해 주셔서 감사합니다! 확인을 위해 받은 편지함을 확인하세요.",
+      "aria_label": "이메일 주소"
+    },
+    "common": {
+      "featured": "주요",
+      "min_read": "분 읽기",
+      "no_posts": "아직 블로그 게시물이 없습니다. 곧 다시 확인하세요!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Twitter에 공유",
+        "share_facebook": "Facebook에 공유",
+        "share_linkedin": "LinkedIn에 공유",
+        "share_copy": "링크 복사",
+        "author_twitter": "작성자 Twitter",
+        "author_linkedin": "작성자 LinkedIn"
+      },
+      "written_by": "작성자",
+      "updated_on": "업데이트됨",
+      "published_on": "게시됨",
+      "reading_time": "{{time}}분 읽기",
+      "share": {
+        "title": "이 글 공유하기",
+        "twitter": "Twitter에 공유",
+        "linkedin": "LinkedIn에 공유",
+        "facebook": "Facebook에 공유",
+        "copy": "링크 복사",
+        "copied": "복사됨!"
+      },
+      "tags": {
+        "title": "태그"
+      },
+      "author": {
+        "title": "작성자 정보",
+        "follow": "팔로우"
+      },
+      "related": {
+        "title": "관련 글",
+        "subtitle": "관련 게시물로 계속 학습하세요"
+      },
+      "breadcrumb": {
+        "home": "홈",
+        "blog": "블로그"
+      },
+      "cta": {
+        "title": "완벽한 스쿼드를 찾을 준비가 되셨나요?",
+        "subtitle": "Jynx의 스마트 매치메이킹을 사용하는 수천 명의 게이머와 함께하세요",
+        "button": "Jynx 다운로드",
+        "heading_early": "완벽한 스쿼드를 찾을 준비가 되셨나요?",
+        "heading_mid": "수천 명의 게이머와 함께하세요",
+        "heading_final": "Jynx와 함께 게이밍 여정을 시작하세요",
+        "tagline": "게이밍 경험을 업그레이드할 준비가 되셨나요?",
+        "description": "Jynx를 다운로드하고 몇 분 안에 호환되는 팀원과 연결하세요"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "읽기 진행률"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "App Store에서 다운로드 - 곧 출시",
+        "play_store": "Google Play에서 이용 가능 - 곧 출시"
+      }
+    },
+    "index": {
+      "title": "Jynx 블로그",
+      "subtitle": "게이밍 매치메이킹, 커뮤니티 구축 및 완벽한 스쿼드 찾기에 대한 전문가 가이드",
+      "filter_all": "모든 게시물",
+      "filter_matchmaking": "매치메이킹 및 AI",
+      "filter_communities": "게이밍 커뮤니티",
+      "filter_guides": "가이드 및 팁",
+      "filter_updates": "제품 업데이트",
+      "no_posts": "이 카테고리에서 게시물을 찾을 수 없습니다.",
+      "read_more": "더 읽기",
+      "min_read": "분 읽기",
+      "newsletter": {
+        "title": "게이밍 인사이트 받기",
+        "subtitle": "매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 팁을 받는 10,000명 이상의 게이머와 함께하세요.",
+        "placeholder": "이메일을 입력하세요",
+        "button": "구독하기",
+        "privacy": "개인정보를 존중합니다. 언제든지 구독 취소하세요."
+      }
+    },
+    "categories": {
+      "matchmaking": "매치메이킹 및 AI",
+      "gaming_communities": "게이밍 커뮤니티",
+      "social_gaming": "소셜 게이밍",
+      "technical": "기술",
+      "product_updates": "제품 업데이트",
+      "guides": "가이드 및 팁"
+    }
   }
 }

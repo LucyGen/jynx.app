@@ -1154,7 +1154,8 @@
     "about": "Sobre",
     "download": "Baixar",
     "privacy": "Política de Privacidade",
-    "terms": "Termos de Serviço"
+    "terms": "Termos de Serviço",
+    "blog": "Blog"
   },
   "faq": {
     "title": "Perguntas Frequentes Sobre Matchmaking Gaming",
@@ -1373,5 +1374,125 @@
   },
   "global": {
     "nojs_banner": "JavaScript está desativado. Alguns recursos interativos podem não funcionar de forma ideal."
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog Jynx | Dicas e Guias de Matchmaking Gaming",
+      "description": "Descubra dicas de especialistas sobre matchmaking gaming, construção de comunidades e encontrar companheiros perfeitos. Guias, estratégias e insights.",
+      "index_title": "Blog Jynx | Dicas e Guias de Matchmaking Gaming",
+      "index_description": "Descubra dicas de especialistas sobre matchmaking gaming, construção de comunidades e encontrar companheiros perfeitos. Guias, estratégias e insights.",
+      "og_title": "Blog Jynx - Dicas de Matchmaking Gaming e Guias de Comunidades",
+      "og_description": "Guias especializados sobre matchmaking IA, comunidades gaming e encontrar companheiros perfeitos. Dicas e estratégias para gamers competitivos.",
+      "twitter_title": "Blog Jynx - Dicas e Guias Gaming",
+      "twitter_description": "Guias especializados sobre matchmaking gaming e construção de comunidades."
+    },
+    "hero": {
+      "title": "Guias e Dicas de Matchmaking Gaming",
+      "subtitle": "Insights especializados para encontrar companheiros, construir comunidades e dominar gaming competitivo"
+    },
+    "filters": {
+      "all": "Todas as Publicações",
+      "matchmaking": "Matchmaking e IA",
+      "communities": "Comunidades Gaming",
+      "guides": "Guias e Dicas",
+      "aria_label": "Filtrar publicações do blog por categoria"
+    },
+    "newsletter": {
+      "title": "Receba Insights Gaming",
+      "subtitle": "Junte-se a mais de 10.000 gamers recebendo dicas sobre matchmaking, construção de comunidades e encontrar companheiros perfeitos.",
+      "placeholder": "Digite seu email",
+      "submit": "Inscrever-se",
+      "privacy": "Respeitamos sua privacidade. Cancele a qualquer momento.",
+      "thanks": "Obrigado por se inscrever! Verifique sua caixa de entrada para confirmar.",
+      "aria_label": "Endereço de e-mail"
+    },
+    "common": {
+      "featured": "Destaque",
+      "min_read": "min de leitura",
+      "no_posts": "Nenhuma publicação de blog disponível no momento. Volte em breve!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Compartilhar no Twitter",
+        "share_facebook": "Compartilhar no Facebook",
+        "share_linkedin": "Compartilhar no LinkedIn",
+        "share_copy": "Copiar link",
+        "author_twitter": "Twitter do autor",
+        "author_linkedin": "LinkedIn do autor"
+      },
+      "written_by": "Escrito por",
+      "updated_on": "Atualizado em",
+      "published_on": "Publicado em",
+      "reading_time": "{{time}} min de leitura",
+      "share": {
+        "title": "Compartilhar este artigo",
+        "twitter": "Compartilhar no Twitter",
+        "linkedin": "Compartilhar no LinkedIn",
+        "facebook": "Compartilhar no Facebook",
+        "copy": "Copiar Link",
+        "copied": "Copiado!"
+      },
+      "tags": {
+        "title": "Tags"
+      },
+      "author": {
+        "title": "Sobre o Autor",
+        "follow": "Seguir em"
+      },
+      "related": {
+        "title": "Artigos Relacionados",
+        "subtitle": "Continue aprendendo com estes artigos relacionados"
+      },
+      "breadcrumb": {
+        "home": "Início",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Pronto para Encontrar Seu Squad Perfeito?",
+        "subtitle": "Junte-se a milhares de gamers usando o matchmaking inteligente da Jynx",
+        "button": "Baixar Jynx",
+        "heading_early": "Pronto para Encontrar Seu Squad Perfeito?",
+        "heading_mid": "Junte-se a Milhares de Gamers",
+        "heading_final": "Comece Sua Jornada Gaming com Jynx",
+        "tagline": "Pronto para melhorar sua experiência gaming?",
+        "description": "Baixe Jynx e conecte-se com companheiros compatíveis em minutos"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "Progresso de leitura"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "Baixar na App Store - Em Breve",
+        "play_store": "Disponível no Google Play - Em Breve"
+      }
+    },
+    "index": {
+      "title": "Blog Jynx",
+      "subtitle": "Guias especializados sobre matchmaking gaming, construção de comunidades e encontrar seu squad perfeito",
+      "filter_all": "Todas as Publicações",
+      "filter_matchmaking": "Matchmaking e IA",
+      "filter_communities": "Comunidades Gaming",
+      "filter_guides": "Guias e Dicas",
+      "filter_updates": "Atualizações do Produto",
+      "no_posts": "Nenhuma publicação encontrada nesta categoria.",
+      "read_more": "Leia Mais",
+      "min_read": "min de leitura",
+      "newsletter": {
+        "title": "Receba Insights Gaming",
+        "subtitle": "Junte-se a mais de 10.000 gamers recebendo dicas sobre matchmaking, construção de comunidades e encontrar companheiros perfeitos.",
+        "placeholder": "Digite seu email",
+        "button": "Inscrever-se",
+        "privacy": "Respeitamos sua privacidade. Cancele a qualquer momento."
+      }
+    },
+    "categories": {
+      "matchmaking": "Matchmaking e IA",
+      "gaming_communities": "Comunidades Gaming",
+      "social_gaming": "Gaming Social",
+      "technical": "Técnico",
+      "product_updates": "Atualizações do Produto",
+      "guides": "Guias e Dicas"
+    }
   }
 }

@@ -1421,7 +1421,8 @@
     "about": "Giới thiệu",
     "download": "Tải xuống",
     "privacy": "Chính sách bảo mật",
-    "terms": "Điều khoản dịch vụ"
+    "terms": "Điều khoản dịch vụ",
+    "blog": "Blog"
   },
   "theme-feedback": {
     "submit": "Gửi Phản Hồi",
@@ -1765,5 +1766,125 @@
   },
   "global": {
     "nojs_banner": "JavaScript đã bị tắt. Một số tính năng tương tác có thể không hoạt động tối ưu."
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog Jynx | Mẹo và Hướng Dẫn Ghép Đội Gaming",
+      "description": "Khám phá lời khuyên chuyên gia về ghép đội gaming, xây dựng cộng đồng và tìm đồng đội hoàn hảo. Hướng dẫn, chiến lược và thông tin chi tiết.",
+      "index_title": "Blog Jynx | Mẹo và Hướng Dẫn Ghép Đội Gaming",
+      "index_description": "Khám phá lời khuyên chuyên gia về ghép đội gaming, xây dựng cộng đồng và tìm đồng đội hoàn hảo. Hướng dẫn, chiến lược và thông tin chi tiết.",
+      "og_title": "Blog Jynx - Mẹo Ghép Đội Gaming và Hướng Dẫn Cộng Đồng",
+      "og_description": "Hướng dẫn chuyên gia về ghép đội AI, cộng đồng gaming và tìm đồng đội hoàn hảo. Mẹo và chiến lược cho game thủ cạnh tranh.",
+      "twitter_title": "Blog Jynx - Mẹo và Hướng Dẫn Gaming",
+      "twitter_description": "Hướng dẫn chuyên gia về ghép đội gaming và xây dựng cộng đồng."
+    },
+    "hero": {
+      "title": "Hướng Dẫn và Mẹo Ghép Đội Gaming",
+      "subtitle": "Thông tin chi tiết từ chuyên gia để tìm đồng đội, xây dựng cộng đồng và làm chủ gaming cạnh tranh"
+    },
+    "filters": {
+      "all": "Tất Cả Bài Viết",
+      "matchmaking": "Ghép Đội & AI",
+      "communities": "Cộng Đồng Gaming",
+      "guides": "Hướng Dẫn & Mẹo",
+      "aria_label": "Lọc bài viết blog theo danh mục"
+    },
+    "newsletter": {
+      "title": "Nhận Thông Tin Gaming",
+      "subtitle": "Tham gia cùng hơn 10.000 game thủ nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo.",
+      "placeholder": "Nhập email của bạn",
+      "submit": "Đăng Ký",
+      "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất kỳ lúc nào.",
+      "thanks": "Cảm ơn bạn đã đăng ký! Kiểm tra hộp thư đến để xác nhận.",
+      "aria_label": "Địa chỉ email"
+    },
+    "common": {
+      "featured": "Nổi Bật",
+      "min_read": "phút đọc",
+      "no_posts": "Chưa có bài viết blog nào. Quay lại sớm nhé!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Chia sẻ trên Twitter",
+        "share_facebook": "Chia sẻ trên Facebook",
+        "share_linkedin": "Chia sẻ trên LinkedIn",
+        "share_copy": "Sao chép liên kết",
+        "author_twitter": "Twitter tác giả",
+        "author_linkedin": "LinkedIn tác giả"
+      },
+      "written_by": "Viết bởi",
+      "updated_on": "Cập nhật vào",
+      "published_on": "Xuất bản vào",
+      "reading_time": "{{time}} phút đọc",
+      "share": {
+        "title": "Chia sẻ bài viết này",
+        "twitter": "Chia sẻ trên Twitter",
+        "linkedin": "Chia sẻ trên LinkedIn",
+        "facebook": "Chia sẻ trên Facebook",
+        "copy": "Sao Chép Liên Kết",
+        "copied": "Đã sao chép!"
+      },
+      "tags": {
+        "title": "Thẻ"
+      },
+      "author": {
+        "title": "Về Tác Giả",
+        "follow": "Theo dõi trên"
+      },
+      "related": {
+        "title": "Bài Viết Liên Quan",
+        "subtitle": "Tiếp tục học với các bài viết liên quan này"
+      },
+      "breadcrumb": {
+        "home": "Trang Chủ",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Sẵn Sàng Tìm Squad Hoàn Hảo?",
+        "subtitle": "Tham gia cùng hàng nghìn game thủ sử dụng ghép đội thông minh của Jynx",
+        "button": "Tải Jynx",
+        "heading_early": "Sẵn Sàng Tìm Squad Hoàn Hảo?",
+        "heading_mid": "Tham Gia Cùng Hàng Nghìn Game Thủ",
+        "heading_final": "Bắt Đầu Hành Trình Gaming với Jynx",
+        "tagline": "Sẵn sàng nâng cấp trải nghiệm gaming?",
+        "description": "Tải Jynx và kết nối với đồng đội tương thích trong vài phút"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "Tiến độ đọc"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "Tải trên App Store - Sắp Ra Mắt",
+        "play_store": "Có sẵn trên Google Play - Sắp Ra Mắt"
+      }
+    },
+    "index": {
+      "title": "Blog Jynx",
+      "subtitle": "Hướng dẫn chuyên gia về ghép đội gaming, xây dựng cộng đồng và tìm squad hoàn hảo của bạn",
+      "filter_all": "Tất Cả Bài Viết",
+      "filter_matchmaking": "Ghép Đội & AI",
+      "filter_communities": "Cộng Đồng Gaming",
+      "filter_guides": "Hướng Dẫn & Mẹo",
+      "filter_updates": "Cập Nhật Sản Phẩm",
+      "no_posts": "Không tìm thấy bài viết trong danh mục này.",
+      "read_more": "Đọc Thêm",
+      "min_read": "phút đọc",
+      "newsletter": {
+        "title": "Nhận Thông Tin Gaming",
+        "subtitle": "Tham gia cùng hơn 10.000 game thủ nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo.",
+        "placeholder": "Nhập email của bạn",
+        "button": "Đăng Ký",
+        "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất kỳ lúc nào."
+      }
+    },
+    "categories": {
+      "matchmaking": "Ghép Đội & AI",
+      "gaming_communities": "Cộng Đồng Gaming",
+      "social_gaming": "Gaming Xã Hội",
+      "technical": "Kỹ Thuật",
+      "product_updates": "Cập Nhật Sản Phẩm",
+      "guides": "Hướng Dẫn & Mẹo"
+    }
   }
 }

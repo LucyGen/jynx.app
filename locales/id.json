@@ -1154,7 +1154,8 @@
     "about": "Tentang",
     "download": "Unduh",
     "privacy": "Kebijakan Privasi",
-    "terms": "Ketentuan Layanan"
+    "terms": "Ketentuan Layanan",
+    "blog": "Blog"
   },
   "faq": {
     "title": "Pertanyaan yang Sering Diajukan Tentang Gaming Matchmaking",
@@ -1373,5 +1374,125 @@
   },
   "global": {
     "nojs_banner": "JavaScript dinonaktifkan. Beberapa fitur interaktif mungkin tidak berfungsi secara optimal."
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog Jynx | Tips & Panduan Matchmaking Gaming",
+      "description": "Temukan tips ahli tentang matchmaking gaming, membangun komunitas, dan menemukan rekan tim yang sempurna. Panduan, strategi, dan wawasan.",
+      "index_title": "Blog Jynx | Tips & Panduan Matchmaking Gaming",
+      "index_description": "Temukan tips ahli tentang matchmaking gaming, membangun komunitas, dan menemukan rekan tim yang sempurna. Panduan, strategi, dan wawasan.",
+      "og_title": "Blog Jynx - Tips Matchmaking Gaming & Panduan Komunitas",
+      "og_description": "Panduan ahli tentang matchmaking AI, komunitas gaming, dan menemukan rekan tim yang sempurna. Tips dan strategi untuk gamer kompetitif.",
+      "twitter_title": "Blog Jynx - Tips & Panduan Gaming",
+      "twitter_description": "Panduan ahli tentang matchmaking gaming dan membangun komunitas."
+    },
+    "hero": {
+      "title": "Panduan & Tips Matchmaking Gaming",
+      "subtitle": "Wawasan ahli untuk menemukan rekan tim, membangun komunitas, dan menguasai gaming kompetitif"
+    },
+    "filters": {
+      "all": "Semua Postingan",
+      "matchmaking": "Matchmaking & AI",
+      "communities": "Komunitas Gaming",
+      "guides": "Panduan & Tips",
+      "aria_label": "Filter postingan blog berdasarkan kategori"
+    },
+    "newsletter": {
+      "title": "Dapatkan Wawasan Gaming",
+      "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+      "placeholder": "Masukkan email Anda",
+      "submit": "Berlangganan",
+      "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja.",
+      "thanks": "Terima kasih telah berlangganan! Periksa inbox Anda untuk konfirmasi.",
+      "aria_label": "Alamat email"
+    },
+    "common": {
+      "featured": "Unggulan",
+      "min_read": "menit baca",
+      "no_posts": "Belum ada postingan blog. Kembali lagi segera!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Bagikan di Twitter",
+        "share_facebook": "Bagikan di Facebook",
+        "share_linkedin": "Bagikan di LinkedIn",
+        "share_copy": "Salin tautan",
+        "author_twitter": "Twitter penulis",
+        "author_linkedin": "LinkedIn penulis"
+      },
+      "written_by": "Ditulis oleh",
+      "updated_on": "Diperbarui pada",
+      "published_on": "Dipublikasikan pada",
+      "reading_time": "{{time}} menit baca",
+      "share": {
+        "title": "Bagikan artikel ini",
+        "twitter": "Bagikan di Twitter",
+        "linkedin": "Bagikan di LinkedIn",
+        "facebook": "Bagikan di Facebook",
+        "copy": "Salin Tautan",
+        "copied": "Disalin!"
+      },
+      "tags": {
+        "title": "Tag"
+      },
+      "author": {
+        "title": "Tentang Penulis",
+        "follow": "Ikuti di"
+      },
+      "related": {
+        "title": "Artikel Terkait",
+        "subtitle": "Lanjutkan belajar dengan postingan terkait ini"
+      },
+      "breadcrumb": {
+        "home": "Beranda",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Siap Menemukan Squad Sempurna Anda?",
+        "subtitle": "Bergabunglah dengan ribuan gamer yang menggunakan matchmaking cerdas Jynx",
+        "button": "Unduh Jynx",
+        "heading_early": "Siap Menemukan Squad Sempurna Anda?",
+        "heading_mid": "Bergabunglah dengan Ribuan Gamer",
+        "heading_final": "Mulai Perjalanan Gaming Anda dengan Jynx",
+        "tagline": "Siap meningkatkan pengalaman gaming Anda?",
+        "description": "Unduh Jynx dan terhubung dengan rekan tim yang kompatibel dalam hitungan menit"
+      }
+    },
+    "reading_progress": {
+      "aria_label": "Progres membaca"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "Unduh di App Store - Segera Hadir",
+        "play_store": "Tersedia di Google Play - Segera Hadir"
+      }
+    },
+    "index": {
+      "title": "Blog Jynx",
+      "subtitle": "Panduan ahli tentang matchmaking gaming, membangun komunitas, dan menemukan squad sempurna Anda",
+      "filter_all": "Semua Postingan",
+      "filter_matchmaking": "Matchmaking & AI",
+      "filter_communities": "Komunitas Gaming",
+      "filter_guides": "Panduan & Tips",
+      "filter_updates": "Update Produk",
+      "no_posts": "Tidak ada postingan yang ditemukan dalam kategori ini.",
+      "read_more": "Baca Selengkapnya",
+      "min_read": "menit baca",
+      "newsletter": {
+        "title": "Dapatkan Wawasan Gaming",
+        "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+        "placeholder": "Masukkan email Anda",
+        "button": "Berlangganan",
+        "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."
+      }
+    },
+    "categories": {
+      "matchmaking": "Matchmaking & AI",
+      "gaming_communities": "Komunitas Gaming",
+      "social_gaming": "Gaming Sosial",
+      "technical": "Teknis",
+      "product_updates": "Update Produk",
+      "guides": "Panduan & Tips"
+    }
   }
 }
