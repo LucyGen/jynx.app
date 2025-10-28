@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Jynx | Nơi Game Trở Nên Xã Hội",
+    "title": "Ứng Dụng Ghép Đôi Gaming | Tìm Đồng Đội LFG | Jynx",
     "description": "Jynx biến trải nghiệm chơi game đơn lẻ thành trải nghiệm xã hội bằng cách kết nối game thủ dựa trên sở thích game, phong cách chơi và sở thích cộng đồng.",
     "keywords": "nền tảng xã hội game, ghép đôi game thủ, cộng đồng game, tìm bạn League of Legends, đồng đội Valorant, mạng game, ứng dụng game xã hội, nền tảng LFG, kết nối game thủ, ghép đôi đa người chơi",
     "og_title": "Jynx - Ứng Dụng Ghép Đôi Game | Nơi Game Trở Nên Xã Hội",
@@ -1187,7 +1187,10 @@
   "nav": {
     "home": "Trang chủ",
     "solution": "Giải pháp",
-    "feedback": "Phản hồi"
+    "feedback": "Phản hồi",
+    "download": "Tải xuống",
+    "blog": "Blog",
+    "features": "Tính năng"
   },
   "header": {
     "cta": "Tải Jynx"
@@ -1303,7 +1306,7 @@
   },
   "collaborative": {
     "title": "Cùng Nhau Định Hình Tương Lai Của Jynx",
-    "description": "Được tạo bởi game thủ, dành cho game thủ. Sứ mệnh của chúng tôi đơn giản: xây dựng nền tảng game xã hội được thúc đẩy bởi đam mê, không phải lợi nhuận. Chúng tôi ở đây vì chúng tôi yêu game, và ý kiến của bạn trực tiếp định hình tương lai của Jynx",
+    "description": "<a href=\"/about\">Được tạo bởi game thủ, dành cho game thủ</a>. Sứ mệnh của chúng tôi đơn giản: xây dựng nền tảng game xã hội được thúc đẩy bởi đam mê, không phải lợi nhuận. Chúng tôi ở đây vì chúng tôi yêu game, và ý kiến của bạn trực tiếp định hình tương lai của Jynx",
     "discord": "Tham Gia Discord Của Chúng Tôi",
     "ideas": "Chia Sẻ Ý Tưởng Của Bạn"
   },
@@ -1374,7 +1377,8 @@
     "company": {
       "title": "Công ty",
       "about": "Về chúng tôi",
-      "about_seo": "Về Nền Tảng Game Jynx"
+      "about_seo": "Về Nền Tảng Game Jynx",
+      "blog": "Blog"
     },
     "legal": {
       "title": "Pháp lý",
@@ -1709,11 +1713,11 @@
     },
     "q3": {
       "question": "Làm thế nào để tìm đồng đội cho trận xếp hạng trong League of Legends và Valorant?",
-      "answer": "Tìm đồng đội tốt cho trận xếp hạng không phải về số lượng—mà về tương thích. Chơi với những người ngẫu nhiên không giao tiếp, bỏ cuộc sau lần chết đầu tiên, hoặc chơi vai trò họ không thoải mái sẽ khiến bạn mất LP và sự tỉnh táo.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank đã xác minh:</strong> Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò:</strong> Kiểm tra kho tướng và vai trò ưa thích trước khi xếp hàng<br><strong>• Khả năng sẵn có nhất quán:</strong> Grind rank yêu cầu chơi thường xuyên—tìm người có lịch trình tương tự<br><strong>• Phong cách giao tiếp:</strong> Một số người chơi thích shotcalling, một số muốn trò chuyện tối thiểu. Căn chỉnh điều này trước.<br><br>Cách tiếp cận tốt nhất? Sử dụng nền tảng xác minh rank người chơi qua Riot API và cho phép lọc theo vai trò, lịch trình và sở thích giao tiếp. Bạn sẽ dành ít thời gian dodge chọn tướng và nhiều thời gian leo rank hơn."
+      "answer": "Tìm đồng đội tốt cho trận xếp hạng không phải về số lượng—mà về tương thích. Chơi với những người ngẫu nhiên không giao tiếp, bỏ cuộc sau lần chết đầu tiên, hoặc chơi vai trò họ không thoải mái sẽ khiến bạn mất LP và sự tỉnh táo.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank đã xác minh:</strong> Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò:</strong> Kiểm tra kho tướng và vai trò ưa thích trước khi xếp hàng<br><strong>• Khả năng sẵn có nhất quán:</strong> Grind rank yêu cầu chơi thường xuyên—tìm người có lịch trình tương tự<br><strong>• Phong cách giao tiếp:</strong> Một số người chơi thích shotcalling, một số muốn trò chuyện tối thiểu. Căn chỉnh điều này trước.<br><br>Cách tiếp cận tốt nhất? Sử dụng nền tảng xác minh rank người chơi qua Riot API và cho phép lọc theo vai trò, lịch trình và sở thích giao tiếp. Bạn sẽ dành ít thời gian dodge chọn tướng và nhiều thời gian leo rank hơn. <a href=\"/blog/league-of-legends-teammate-guide\">Đọc hướng dẫn đồng đội League of Legends đầy đủ của chúng tôi</a> hoặc <a href=\"/blog/ai-gaming-matchmaking-guide\">tìm hiểu thêm về cách ghép đôi được hỗ trợ bởi AI hoạt động</a>."
     },
     "q4": {
       "question": "Các lựa chọn thay thế Discord tốt nhất để tìm đồng đội game là gì?",
-      "answer": "Discord tuyệt vời để trò chuyện với đồng đội bạn ĐÃ CÓ, nhưng tệ để tìm người mới. Đây là lý do:<br><br>Đăng \"LFG\" trên máy chủ có 10.000 thành viên có nghĩa là tin nhắn của bạn bị chôn vùi trong vài phút. Bạn không có cách lọc theo trình độ kỹ năng, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất—bạn làm tất cả công việc—spam kênh, nhắn tin riêng người lạ, hy vọng ai đó trả lời.<br><br>Những gì bạn thực sự cần là một nền tảng được xây dựng cho khám phá, không chỉ trò chuyện:<br><strong>• Hồ sơ người chơi:</strong> Xem rank, lịch trình và vai trò ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh:</strong> Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ kỹ năng)<br><strong>• Ghép đôi chủ động:</strong> Nhận đề xuất thay vì hét vào khoảng trống<br><br>Mục tiêu không phải là thay thế Discord—mà là sử dụng công cụ đúng cho khám phá, sau đó chuyển sang Discord để trò chuyện thoại khi bạn đã tìm được đồng đội tương thích."
+      "answer": "Discord tuyệt vời để trò chuyện với đồng đội bạn ĐÃ CÓ, nhưng tệ để tìm người mới. Đây là lý do:<br><br>Đăng \"LFG\" trên máy chủ có 10.000 thành viên có nghĩa là tin nhắn của bạn bị chôn vùi trong vài phút. Bạn không có cách lọc theo trình độ kỹ năng, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất—bạn làm tất cả công việc—spam kênh, nhắn tin riêng người lạ, hy vọng ai đó trả lời.<br><br>Những gì bạn thực sự cần là một nền tảng được xây dựng cho khám phá, không chỉ trò chuyện:<br><strong>• Hồ sơ người chơi:</strong> Xem rank, lịch trình và vai trò ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh:</strong> Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ kỹ năng)<br><strong>• Ghép đôi chủ động:</strong> Nhận đề xuất thay vì hét vào khoảng trống<br><br>Mục tiêu không phải là thay thế Discord—mà là sử dụng công cụ đúng cho khám phá, sau đó chuyển sang Discord để trò chuyện thoại khi bạn đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Tìm hiểu về sự phát triển của các nền tảng LFG và tại sao ghép đôi hiện đại hiệu quả hơn</a>."
     },
     "q5": {
       "question": "Có ứng dụng và nền tảng ghép đôi game miễn phí không?",
@@ -1877,5 +1881,48 @@
       "product_updates": "Cập Nhật Sản Phẩm",
       "guides": "Hướng Dẫn & Mẹo"
     }
+  },
+  "search": {
+    "meta": {
+      "title": "Kết Quả Tìm Kiếm | Jynx",
+      "description": "Tìm kiếm các hướng dẫn ghép đội gaming, mẹo và tài nguyên để tìm đồng đội hoàn hảo.",
+      "og_title": "Tìm Kiếm Blog Gaming Jynx",
+      "og_description": "Tìm hướng dẫn về ghép đội, xây dựng đội và gaming cạnh tranh.",
+      "og_image_alt": "Tìm Kiếm Jynx",
+      "twitter_title": "Tìm Kiếm Blog Gaming Jynx",
+      "twitter_description": "Tìm hướng dẫn về ghép đội, xây dựng đội và gaming cạnh tranh.",
+      "twitter_image_alt": "Tìm Kiếm Jynx"
+    },
+    "hero": {
+      "title": "Tìm Kiếm Hướng Dẫn Gaming",
+      "subtitle": "Tìm bài viết về ghép đội, xây dựng đội và gaming cạnh tranh"
+    },
+    "input": {
+      "placeholder": "Tìm kiếm bài viết...",
+      "aria_label": "Trường nhập tìm kiếm"
+    },
+    "button": {
+      "text": "Tìm Kiếm",
+      "aria_label": "Gửi truy vấn tìm kiếm"
+    },
+    "results": {
+      "heading": "Kết Quả Tìm Kiếm",
+      "count_singular": "Tìm thấy 1 kết quả cho",
+      "count_plural": "Tìm thấy {count} kết quả cho"
+    },
+    "loading": "Đang tìm kiếm...",
+    "empty": {
+      "title": "Không tìm thấy kết quả",
+      "description": "Chúng tôi không tìm thấy bài viết nào khớp với tìm kiếm của bạn. Hãy thử các từ khóa khác hoặc duyệt tất cả bài viết.",
+      "browse_button": "Duyệt Tất Cả Bài Viết"
+    },
+    "nojs": {
+      "message": "Tìm kiếm yêu cầu JavaScript được bật. Vui lòng bật JavaScript hoặc duyệt tất cả bài viết."
+    },
+    "breadcrumb": {
+      "home": "Trang Chủ",
+      "search": "Tìm Kiếm"
+    },
+    "back_to_blog": "Quay Lại Blog"
   }
 }

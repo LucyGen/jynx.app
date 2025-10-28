@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Encontre Companheiros de Gaming | App de Matchmaking LFG | Jynx",
+    "title": "App de Matchmaking Gaming | Encontre Companheiros LFG | Jynx",
     "description": "Jynx é a melhor alternativa às plataformas LFG tradicionais. Encontre seus companheiros de gaming perfeitos através de matchmaking inteligente baseado em habilidade, estilo de jogo e horário. Junte-se a gamers de qualidade hoje.",
     "keywords": "app de matchmaking gaming, matchmaking inteligente, encontrar companheiros gaming, plataforma social gaming, alternativa LFG, localizador de esquadrão gaming, gaming competitivo, comunidade gaming, matchmaking esports, companheiros League of Legends, matchmaking Valorant",
     "og_title": "Jynx - App de Matchmaking Gaming Inteligente | Onde Gaming Fica Social",
@@ -974,7 +974,10 @@
   "nav": {
     "home": "Início",
     "solution": "Solução",
-    "feedback": "Feedback"
+    "feedback": "Feedback",
+    "download": "Baixar",
+    "blog": "Blog",
+    "features": "Funcionalidades"
   },
   "header": {
     "cta": "Obter Jynx"
@@ -1060,7 +1063,7 @@
   },
   "collaborative": {
     "title": "Molde o Futuro de Jynx Juntos",
-    "description": "Criado por gamers, para gamers. Nossa missão é simples: construir uma plataforma de gaming social impulsionada por paixão, não lucro. Estamos aqui porque amamos gaming, e sua contribuição molda diretamente o futuro da Jynx",
+    "description": "<a href=\"/about\">Criado por gamers, para gamers</a>. Nossa missão é simples: construir uma plataforma de gaming social impulsionada por paixão, não lucro. Estamos aqui porque amamos gaming, e sua contribuição molda diretamente o futuro da Jynx",
     "discord": "Junte-se ao nosso Discord",
     "ideas": "Compartilhe Suas Ideias"
   },
@@ -1117,7 +1120,8 @@
     "company": {
       "title": "Empresa",
       "about": "Sobre Nós",
-      "about_seo": "Sobre a Plataforma Gaming Jynx"
+      "about_seo": "Sobre a Plataforma Gaming Jynx",
+      "blog": "Blog"
     },
     "legal": {
       "title": "Legal",
@@ -1173,11 +1177,11 @@
     },
     "q3": {
       "question": "Como encontrar companheiros para jogos ranqueados em League of Legends e Valorant?",
-      "answer": "Encontrar bons companheiros ranqueados não é sobre quantidade, é sobre compatibilidade. Jogar com randoms que não se comunicam, desistem após primeiro sangue, ou jogam funções com as quais não estão confortáveis custa LP e sanidade.<br><br>O que procurar em companheiros ranqueados:<br><strong>• Rank verificado:</strong> Certifique-se de que eles estão realmente no seu ELO (sem smurf ou boost)<br><strong>• Compatibilidade de função:</strong> Verifique seu pool de campeões e funções preferidas antes de entrar na fila<br><strong>• Disponibilidade consistente:</strong> Grinding ranqueado requer jogo regular, encontre pessoas com horários similares<br><strong>• Estilo de comunicação:</strong> Alguns jogadores preferem shotcalling, outros querem chat mínimo. Combine isso antecipadamente.<br><br>A melhor abordagem? Use plataformas que verifiquem ranks de jogadores através da API da Riot e permitam que você filtre por função, horário e preferências de comunicação. Você passará menos tempo na seleção de campeões esquivando e mais tempo subindo de rank."
+      "answer": "Encontrar bons companheiros ranqueados não é sobre quantidade, é sobre compatibilidade. Jogar com randoms que não se comunicam, desistem após primeiro sangue, ou jogam funções com as quais não estão confortáveis custa LP e sanidade.<br><br>O que procurar em companheiros ranqueados:<br><strong>• Rank verificado:</strong> Certifique-se de que eles estão realmente no seu ELO (sem smurf ou boost)<br><strong>• Compatibilidade de função:</strong> Verifique seu pool de campeões e funções preferidas antes de entrar na fila<br><strong>• Disponibilidade consistente:</strong> Grinding ranqueado requer jogo regular, encontre pessoas com horários similares<br><strong>• Estilo de comunicação:</strong> Alguns jogadores preferem shotcalling, outros querem chat mínimo. Combine isso antecipadamente.<br><br>A melhor abordagem? Use plataformas que verifiquem ranks de jogadores através da API da Riot e permitam que você filtre por função, horário e preferências de comunicação. Você passará menos tempo na seleção de campeões esquivando e mais tempo subindo de rank. <a href=\"/blog/league-of-legends-teammate-guide\">Leia nosso guia completo sobre companheiros de League of Legends</a> ou aprenda mais sobre <a href=\"/blog/ai-gaming-matchmaking-guide\">como funciona o matchmaking com IA</a>."
     },
     "q4": {
       "question": "Quais são as melhores alternativas ao Discord para encontrar companheiros de gaming?",
-      "answer": "Discord é ótimo para conversar com companheiros que você JÁ tem, mas terrível para encontrar novos. Aqui está o porquê:<br><br>Postar \"LFG\" em um servidor com 10.000 membros significa que sua mensagem é enterrada em minutos. Você não tem como filtrar por nível de habilidade, disponibilidade ou estilo de jogo antes de entrar em contato. E mais importante, você está fazendo todo o trabalho, fazendo spam em canais, enviando DMs para estranhos, esperando que alguém responda.<br><br>O que você realmente precisa é de uma plataforma projetada para descoberta, não apenas comunicação:<br><strong>• Perfis de jogadores:</strong> Ver rank, horário e funções preferidas de alguém ANTES de enviar mensagem<br><strong>• Filtragem inteligente:</strong> Buscar por critérios que importam (idioma, fuso horário, nível de habilidade)<br><strong>• Correspondência ativa:</strong> Receba recomendações em vez de gritar no vazio<br><br>O objetivo não é substituir Discord, é usar a ferramenta certa para descoberta, depois ir para o Discord para chat de voz uma vez que você encontrou companheiros compatíveis."
+      "answer": "Discord é ótimo para conversar com companheiros que você JÁ tem, mas terrível para encontrar novos. Aqui está o porquê:<br><br>Postar \"LFG\" em um servidor com 10.000 membros significa que sua mensagem é enterrada em minutos. Você não tem como filtrar por nível de habilidade, disponibilidade ou estilo de jogo antes de entrar em contato. E mais importante, você está fazendo todo o trabalho, fazendo spam em canais, enviando DMs para estranhos, esperando que alguém responda.<br><br>O que você realmente precisa é de uma plataforma projetada para descoberta, não apenas comunicação:<br><strong>• Perfis de jogadores:</strong> Ver rank, horário e funções preferidas de alguém ANTES de enviar mensagem<br><strong>• Filtragem inteligente:</strong> Buscar por critérios que importam (idioma, fuso horário, nível de habilidade)<br><strong>• Correspondência ativa:</strong> Receba recomendações em vez de gritar no vazio<br><br>O objetivo não é substituir Discord, é usar a ferramenta certa para descoberta, depois ir para o Discord para chat de voz uma vez que você encontrou companheiros compatíveis. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Aprenda sobre a evolução das plataformas LFG</a> e por que o matchmaking moderno é mais efetivo."
     },
     "q5": {
       "question": "Existem apps e plataformas de matchmaking gaming gratuitos?",
@@ -1485,5 +1489,48 @@
       "product_updates": "Atualizações do Produto",
       "guides": "Guias e Dicas"
     }
+  },
+  "search": {
+    "meta": {
+      "title": "Resultados da Busca | Jynx",
+      "description": "Pesquise nossos guias de matchmaking gaming, dicas e recursos para encontrar os companheiros perfeitos.",
+      "og_title": "Buscar Blog Gaming Jynx",
+      "og_description": "Encontre guias sobre matchmaking, construção de equipes e gaming competitivo.",
+      "og_image_alt": "Busca Jynx",
+      "twitter_title": "Buscar Blog Gaming Jynx",
+      "twitter_description": "Encontre guias sobre matchmaking, construção de equipes e gaming competitivo.",
+      "twitter_image_alt": "Busca Jynx"
+    },
+    "hero": {
+      "title": "Buscar Guias de Gaming",
+      "subtitle": "Encontre artigos sobre matchmaking, construção de equipes e gaming competitivo"
+    },
+    "input": {
+      "placeholder": "Buscar artigos...",
+      "aria_label": "Campo de entrada de busca"
+    },
+    "button": {
+      "text": "Buscar",
+      "aria_label": "Enviar consulta de busca"
+    },
+    "results": {
+      "heading": "Resultados da Busca",
+      "count_singular": "Encontrado 1 resultado para",
+      "count_plural": "Encontrados {count} resultados para"
+    },
+    "loading": "Buscando...",
+    "empty": {
+      "title": "Nenhum resultado encontrado",
+      "description": "Não conseguimos encontrar nenhum artigo correspondente à sua busca. Tente palavras-chave diferentes ou navegue todos os artigos.",
+      "browse_button": "Navegar Todos os Artigos"
+    },
+    "nojs": {
+      "message": "A busca requer JavaScript ativado. Por favor, ative JavaScript ou navegue todos os artigos."
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "search": "Busca"
+    },
+    "back_to_blog": "Voltar ao Blog"
   }
 }

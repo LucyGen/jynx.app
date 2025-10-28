@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Jynx | जहाँ गेमिंग हो जाती है सोशल",
+    "title": "गेमिंग मैचमेकिंग ऐप | LFG टीममेट्स खोजें | Jynx",
     "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग प्राथमिकताओं, खेलने की शैली और कम्युनिटी रुचियों के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर",
     "keywords": "गेमिंग मैचमेकिंग ऐप, एआई मैचमेकिंग, गेमिंग टीममेट्स खोजें, गेमिंग सोशल प्लेटफॉर्म, LFG विकल्प, गेमिंग स्क्वाड खोजक, प्रतिस्पर्धी गेमिंग, गेमिंग समुदाय, ईस्पोर्ट्स मैचमेकिंग, League of Legends टीममेट्स, Valorant मैचमेकिंग",
     "og_title": "Jynx - एआई गेमिंग मैचमेकिंग ऐप | जहां गेमिंग सामाजिक हो जाती है",
@@ -974,7 +974,10 @@
   "nav": {
     "home": "होम",
     "solution": "समाधान",
-    "feedback": "फीडबैक"
+    "feedback": "फीडबैक",
+    "download": "डाउनलोड करें",
+    "blog": "ब्लॉग",
+    "features": "फ़ीचर्स"
   },
   "header": {
     "cta": "Jynx पाएं"
@@ -1060,7 +1063,7 @@
   },
   "collaborative": {
     "title": "Jynx के भविष्य को साथ में shape करें",
-    "description": "Jynx एक community-driven project है जो आपके input के साथ evolve करता है। हम मानते हैं कि सबसे अच्छे social gaming platforms players के लिए, players के साथ बनाए जाते हैं",
+    "description": "<a href=\"/about\">गेमर्स द्वारा, गेमर्स के लिए बनाया गया</a>। हमारा mission सरल है: profit नहीं बल्कि passion से driven एक social gaming platform बनाना। हम यहाँ हैं क्योंकि हम gaming से प्यार करते हैं, और आपका input सीधे Jynx के भविष्य को shape करता है",
     "discord": "हमारे Discord में शामिल हों",
     "ideas": "अपने Ideas शेयर करें"
   },
@@ -1117,7 +1120,8 @@
     "company": {
       "title": "कंपनी",
       "about": "हमारे बारे में",
-      "about_seo": "Jynx Gaming Platform के बारे में"
+      "about_seo": "Jynx Gaming Platform के बारे में",
+      "blog": "ब्लॉग"
     },
     "legal": {
       "title": "कानूनी",
@@ -1155,7 +1159,7 @@
     "download": "डाउनलोड",
     "privacy": "गोपनीयता नीति",
     "terms": "सेवा की शर्तें",
-    "blog": "Blog"
+    "blog": "ब्लॉग"
   },
   "theme-feedback": {
     "submit": "Feedback Submit करें",
@@ -1328,11 +1332,11 @@
     },
     "q3": {
       "question": "League of Legends और Valorant में ranked games के लिए teammates कैसे खोजें?",
-      "answer": "Ranked games के लिए अच्छे teammates खोजना quantity का नहीं, बल्कि compatibility का सवाल है। Random players के साथ खेलना जो communicate नहीं करते, first death के बाद quit कर जाते हैं, या ऐसी roles खेलते हैं जिनमें वे comfortable नहीं हैं, आपको LP और mental health cost करता है।<br><br>Ranked teammates में क्या देखें:<br><strong>• Verified rank:</strong> सुनिश्चित करें कि वे वास्तव में आपके ELO पर हैं (smurfing या boosted नहीं)<br><strong>• Role compatibility:</strong> Queue करने से पहले उनके champion pool और preferred roles check करें<br><strong>• Consistent availability:</strong> Ranked grinding regular play की मांग करती है, similar schedules वाले लोग खोजें<br><strong>• Communication style:</strong> कुछ players shotcalling prefer करते हैं, अन्य minimal chat चाहते हैं। इस पर पहले से agree करें।<br><br>सबसे अच्छा approach? ऐसे platforms use करें जो Riot API के through players' ranks verify करते हैं और आपको role, schedule, और communication preferences से filter करने देते हैं। आप champ select dodges में कम समय बिताएंगे और climbing में ज्यादा।"
+      "answer": "Ranked games के लिए अच्छे teammates खोजना quantity का नहीं, बल्कि compatibility का सवाल है। Random players के साथ खेलना जो communicate नहीं करते, first death के बाद quit कर जाते हैं, या ऐसी roles खेलते हैं जिनमें वे comfortable नहीं हैं, आपको LP और mental health cost करता है।<br><br>Ranked teammates में क्या देखें:<br><strong>• Verified rank:</strong> सुनिश्चित करें कि वे वास्तव में आपके ELO पर हैं (smurfing या boosted नहीं)<br><strong>• Role compatibility:</strong> Queue करने से पहले उनके champion pool और preferred roles check करें<br><strong>• Consistent availability:</strong> Ranked grinding regular play की मांग करती है, similar schedules वाले लोग खोजें<br><strong>• Communication style:</strong> कुछ players shotcalling prefer करते हैं, अन्य minimal chat चाहते हैं। इस पर पहले से agree करें।<br><br>सबसे अच्छा approach? ऐसे platforms use करें जो Riot API के through players' ranks verify करते हैं और आपको role, schedule, और communication preferences से filter करने देते हैं। आप champ select dodges में कम समय बिताएंगे और climbing में ज्यादा। <a href=\"/blog/league-of-legends-teammate-guide\">हमारी पूर्ण League of Legends teammate guide पढ़ें</a> या <a href=\"/blog/ai-gaming-matchmaking-guide\">AI-powered matchmaking कैसे काम करती है, इसके बारे में और जानें</a>।"
     },
     "q4": {
       "question": "Gaming teammates खोजने के लिए Discord के सर्वोत्तम alternatives क्या हैं?",
-      "answer": "Discord उन teammates के साथ chat करने के लिए बढ़िया है जो आपके पास पहले से हैं, लेकिन नए खोजने के लिए भयानक है। क्यों:<br><br>10,000 members वाले server में \"LFG\" post करने का मतलब है कि आपका message minutes में buried हो जाएगा। आपके पास skill level, availability, या play style से filter करने का कोई तरीका नहीं है इससे पहले कि आप reach out करें। और सबसे महत्वपूर्ण, आप सारा काम कर रहे हैं - channels में spam कर रहे हैं, strangers को DM कर रहे हैं, यह उम्मीद करते हुए कि कोई respond करेगा।<br><br>आपको वास्तव में क्या चाहिए एक platform जो discovery के लिए designed है, सिर्फ communication के लिए नहीं:<br><strong>• Player profiles:</strong> Message भेजने से पहले किसी की rank, schedule, और preferred roles देखें<br><strong>• Smart filtering:</strong> उन criteria से search करें जो matter करते हैं (language, time zone, skill level)<br><strong>• Active matching:</strong> Void में चिल्लाने के बजाय recommendations पाएं<br><br>Goal Discord को replace करना नहीं है - यह discovery के लिए सही tool use करना है, फिर compatible teammates खोजने के बाद voice chat के लिए Discord पर move करना है।"
+      "answer": "Discord उन teammates के साथ chat करने के लिए बढ़िया है जो आपके पास पहले से हैं, लेकिन नए खोजने के लिए भयानक है। क्यों:<br><br>10,000 members वाले server में \"LFG\" post करने का मतलब है कि आपका message minutes में buried हो जाएगा। आपके पास skill level, availability, या play style से filter करने का कोई तरीका नहीं है इससे पहले कि आप reach out करें। और सबसे महत्वपूर्ण, आप सारा काम कर रहे हैं - channels में spam कर रहे हैं, strangers को DM कर रहे हैं, यह उम्मीद करते हुए कि कोई respond करेगा।<br><br>आपको वास्तव में क्या चाहिए एक platform जो discovery के लिए designed है, सिर्फ communication के लिए नहीं:<br><strong>• Player profiles:</strong> Message भेजने से पहले किसी की rank, schedule, और preferred roles देखें<br><strong>• Smart filtering:</strong> उन criteria से search करें जो matter करते हैं (language, time zone, skill level)<br><strong>• Active matching:</strong> Void में चिल्लाने के बजाय recommendations पाएं<br><br>Goal Discord को replace करना नहीं है - यह discovery के लिए सही tool use करना है, फिर compatible teammates खोजने के बाद voice chat के लिए Discord पर move करना है। <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG platforms के evolution और modern matchmaking अधिक effective क्यों है, इसके बारे में जानें</a>।"
     },
     "q5": {
       "question": "क्या free gaming matchmaking apps और platforms हैं?",
@@ -1485,5 +1489,48 @@
       "product_updates": "प्रोडक्ट अपडेट",
       "guides": "गाइड और टिप्स"
     }
+  },
+  "search": {
+    "meta": {
+      "title": "खोज परिणाम | Jynx",
+      "description": "हमारी गेमिंग मैचमेकिंग गाइड, टिप्स और संसाधनों को खोजें ताकि आप परफेक्ट टीममेट्स पा सकें।",
+      "og_title": "Jynx गेमिंग ब्लॉग खोजें",
+      "og_description": "मैचमेकिंग, टीम बिल्डिंग और कम्पिटिटिव गेमिंग पर गाइड खोजें।",
+      "og_image_alt": "Jynx खोज",
+      "twitter_title": "Jynx गेमिंग ब्लॉग खोजें",
+      "twitter_description": "मैचमेकिंग, टीम बिल्डिंग और कम्पिटिटिव गेमिंग पर गाइड खोजें।",
+      "twitter_image_alt": "Jynx खोज"
+    },
+    "hero": {
+      "title": "गेमिंग गाइड खोजें",
+      "subtitle": "मैचमेकिंग, टीम बिल्डिंग और कम्पिटिटिव गेमिंग के बारे में लेख खोजें"
+    },
+    "input": {
+      "placeholder": "लेख खोजें...",
+      "aria_label": "खोज इनपुट फील्ड"
+    },
+    "button": {
+      "text": "खोज",
+      "aria_label": "खोज क्वेरी सबमिट करें"
+    },
+    "results": {
+      "heading": "खोज परिणाम",
+      "count_singular": "के लिए 1 परिणाम मिला",
+      "count_plural": "के लिए {count} परिणाम मिले"
+    },
+    "loading": "खोज जारी है...",
+    "empty": {
+      "title": "कोई परिणाम नहीं मिला",
+      "description": "हम आपकी खोज से मेल खाने वाले कोई लेख नहीं ढूंढ सके। विभिन्न कीवर्ड आजमाएं या सभी लेख ब्राउज़ करें।",
+      "browse_button": "सभी लेख ब्राउज़ करें"
+    },
+    "nojs": {
+      "message": "खोज के लिए JavaScript सक्षम होना आवश्यक है। कृपया JavaScript सक्षम करें या सभी लेख ब्राउज़ करें।"
+    },
+    "breadcrumb": {
+      "home": "होम",
+      "search": "खोज"
+    },
+    "back_to_blog": "ब्लॉग पर वापस जाएं"
   }
 }

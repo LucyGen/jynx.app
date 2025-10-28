@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Temukan Rekan Tim Gaming | Aplikasi Matchmaking LFG | Jynx",
+    "title": "Aplikasi Matchmaking Gaming | Temukan Rekan LFG | Jynx",
     "description": "Jynx adalah alternatif terbaik untuk platform LFG tradisional. Temukan rekan tim gaming sempurna melalui matchmaking cerdas berdasarkan skill, gaya bermain, dan jadwal. Bergabunglah dengan gamer berkualitas hari ini.",
     "keywords": "aplikasi matchmaking gaming, smart matchmaking, temukan rekan tim gaming, platform sosial gaming, alternatif LFG, pencari squad gaming, gaming kompetitif, komunitas gaming, matchmaking esports, rekan tim League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
@@ -974,7 +974,10 @@
   "nav": {
     "home": "Beranda",
     "solution": "Solusi",
-    "feedback": "Umpan Balik"
+    "feedback": "Umpan Balik",
+    "download": "Unduh",
+    "blog": "Blog",
+    "features": "Fitur"
   },
   "header": {
     "cta": "Dapatkan Jynx"
@@ -1060,7 +1063,7 @@
   },
   "collaborative": {
     "title": "Bentuk Masa Depan Jynx Bersama",
-    "description": "Dibuat oleh gamer, untuk gamer. Misi kami sederhana: membangun platform gaming sosial yang didorong oleh passion, bukan profit. Kami ada karena kami mencintai gaming, dan masukan Anda secara langsung membentuk masa depan Jynx",
+    "description": "<a href=\"/about\">Dibuat oleh gamer, untuk gamer</a>. Misi kami sederhana: membangun platform gaming sosial yang didorong oleh passion, bukan profit. Kami ada karena kami mencintai gaming, dan masukan Anda secara langsung membentuk masa depan Jynx",
     "discord": "Bergabung dengan Discord kami",
     "ideas": "Bagikan Ide Anda"
   },
@@ -1117,7 +1120,8 @@
     "company": {
       "title": "Perusahaan",
       "about": "Tentang Kami",
-      "about_seo": "Tentang Platform Gaming Jynx"
+      "about_seo": "Tentang Platform Gaming Jynx",
+      "blog": "Blog"
     },
     "legal": {
       "title": "Hukum",
@@ -1173,11 +1177,11 @@
     },
     "q3": {
       "question": "Bagaimana cara menemukan rekan tim untuk game ranked di League of Legends dan Valorant?",
-      "answer": "Menemukan rekan tim ranked yang baik bukan tentang kuantitas, tapi tentang kompatibilitas. Bermain dengan random yang tidak berkomunikasi, rage quit setelah first blood, atau bermain role yang tidak nyaman bagi mereka merugikan LP dan kewarasan Anda.<br><br>Apa yang harus dicari dalam rekan tim ranked:<br><strong>• Rank terverifikasi:</strong> Pastikan mereka benar-benar di ELO Anda (bukan smurf atau boosted)<br><strong>• Kompatibilitas role:</strong> Periksa champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten:</strong> Ranked grinding memerlukan permainan reguler, temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi:</strong> Beberapa pemain lebih suka shotcalling, yang lain ingin chat minimal. Cocokkan ini di awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan memungkinkan Anda memfilter berdasarkan role, jadwal, dan preferensi komunikasi. Anda akan menghabiskan lebih sedikit waktu di champ select dodging dan lebih banyak waktu untuk climbing."
+      "answer": "Menemukan rekan tim ranked yang baik bukan tentang kuantitas, tapi tentang kompatibilitas. Bermain dengan random yang tidak berkomunikasi, rage quit setelah first blood, atau bermain role yang tidak nyaman bagi mereka merugikan LP dan kewarasan Anda.<br><br>Apa yang harus dicari dalam rekan tim ranked:<br><strong>• Rank terverifikasi:</strong> Pastikan mereka benar-benar di ELO Anda (bukan smurf atau boosted)<br><strong>• Kompatibilitas role:</strong> Periksa champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten:</strong> Ranked grinding memerlukan permainan reguler, temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi:</strong> Beberapa pemain lebih suka shotcalling, yang lain ingin chat minimal. Cocokkan ini di awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan memungkinkan Anda memfilter berdasarkan role, jadwal, dan preferensi komunikasi. Anda akan menghabiskan lebih sedikit waktu di champ select dodging dan lebih banyak waktu untuk climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Baca panduan lengkap rekan League of Legends kami</a> atau <a href=\"/blog/ai-gaming-matchmaking-guide\">pelajari lebih lanjut tentang cara kerja matchmaking berbasis AI</a>."
     },
     "q4": {
       "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
-      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server dengan 10.000 anggota berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel."
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server dengan 10.000 anggota berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Pelajari tentang evolusi platform LFG dan mengapa matchmaking modern lebih efektif</a>."
     },
     "q5": {
       "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
@@ -1485,5 +1489,48 @@
       "product_updates": "Update Produk",
       "guides": "Panduan & Tips"
     }
+  },
+  "search": {
+    "meta": {
+      "title": "Hasil Pencarian | Jynx",
+      "description": "Cari panduan matchmaking gaming, tips, dan sumber daya kami untuk menemukan rekan tim yang sempurna.",
+      "og_title": "Cari Blog Gaming Jynx",
+      "og_description": "Temukan panduan tentang matchmaking, pembangunan tim, dan gaming kompetitif.",
+      "og_image_alt": "Pencarian Jynx",
+      "twitter_title": "Cari Blog Gaming Jynx",
+      "twitter_description": "Temukan panduan tentang matchmaking, pembangunan tim, dan gaming kompetitif.",
+      "twitter_image_alt": "Pencarian Jynx"
+    },
+    "hero": {
+      "title": "Cari Panduan Gaming",
+      "subtitle": "Temukan artikel tentang matchmaking, pembangunan tim, dan gaming kompetitif"
+    },
+    "input": {
+      "placeholder": "Cari artikel...",
+      "aria_label": "Bidang input pencarian"
+    },
+    "button": {
+      "text": "Cari",
+      "aria_label": "Kirim kueri pencarian"
+    },
+    "results": {
+      "heading": "Hasil Pencarian",
+      "count_singular": "Ditemukan 1 hasil untuk",
+      "count_plural": "Ditemukan {count} hasil untuk"
+    },
+    "loading": "Mencari...",
+    "empty": {
+      "title": "Tidak ada hasil yang ditemukan",
+      "description": "Kami tidak dapat menemukan artikel yang cocok dengan pencarian Anda. Coba kata kunci yang berbeda atau telusuri semua artikel.",
+      "browse_button": "Telusuri Semua Artikel"
+    },
+    "nojs": {
+      "message": "Pencarian memerlukan JavaScript untuk diaktifkan. Silakan aktifkan JavaScript atau telusuri semua artikel."
+    },
+    "breadcrumb": {
+      "home": "Beranda",
+      "search": "Pencarian"
+    },
+    "back_to_blog": "Kembali ke Blog"
   }
 }

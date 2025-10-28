@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Trouver des Coéquipiers Gaming | Application Matchmaking LFG | Jynx",
+    "title": "Application Matchmaking Gaming | Trouver des Coéquipiers LFG | Jynx",
     "description": "Jynx est la meilleure alternative aux plateformes LFG traditionnelles. Trouvez vos coéquipiers gaming parfaits grâce à un matchmaking intelligent basé sur le niveau de compétence, le style de jeu et les disponibilités. Rejoignez des joueurs de qualité dès aujourd'hui.",
     "keywords": "application matchmaking gaming, matchmaking intelligent, trouver coéquipiers gaming, plateforme sociale gaming, alternative LFG, trouveur d'équipe gaming, gaming compétitif, communauté gaming, matchmaking esports, coéquipiers League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Application Matchmaking Gaming Intelligent | Quand le Gaming Devient Social",
@@ -974,7 +974,10 @@
   "nav": {
     "home": "Accueil",
     "solution": "Solution",
-    "feedback": "Avis"
+    "feedback": "Avis",
+    "download": "Télécharger",
+    "blog": "Blog",
+    "features": "Fonctionnalités"
   },
   "header": {
     "cta": "Télécharger Jynx"
@@ -1060,7 +1063,7 @@
   },
   "collaborative": {
     "title": "Façonnez l'Avenir de Jynx Ensemble",
-    "description": "Créé par des gamers, pour des gamers. Notre mission est simple : construire une plateforme sociale de gaming guidée par la passion, pas le profit. Nous sommes ici parce que nous aimons le gaming, et votre contribution façonne directement l'avenir de Jynx",
+    "description": "<a href=\"/about\">Créé par des gamers, pour des gamers</a>. Notre mission est simple : construire une plateforme sociale de gaming guidée par la passion, pas le profit. Nous sommes ici parce que nous aimons le gaming, et votre contribution façonne directement l'avenir de Jynx",
     "discord": "Rejoignez notre Discord",
     "ideas": "Partagez Vos Idées"
   },
@@ -1117,7 +1120,8 @@
     "company": {
       "title": "Entreprise",
       "about": "À Propos",
-      "about_seo": "À Propos de la Plateforme Gaming Jynx"
+      "about_seo": "À Propos de la Plateforme Gaming Jynx",
+      "blog": "Blog"
     },
     "legal": {
       "title": "Légal",
@@ -1173,11 +1177,11 @@
     },
     "q3": {
       "question": "Comment trouver des coéquipiers pour matchs classés dans League of Legends et Valorant ?",
-      "answer": "Trouver de bons coéquipiers classés ne concerne pas la quantité, mais la compatibilité. Jouer avec des randoms qui ne communiquent pas, quittent après le premier sang ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang vérifié :</strong> Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle :</strong> Vérifiez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière :</strong> Le grind classé nécessite du jeu régulier, trouvez des personnes avec des horaires similaires<br><strong>• Style de communication :</strong> Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes qui vérifient les rangs des joueurs via l'API Riot et vous permettent de filtrer par rôle, horaire et préférences de communication. Vous passerez moins de temps à dodge en champ select et plus de temps à climb."
+      "answer": "Trouver de bons coéquipiers classés ne concerne pas la quantité, mais la compatibilité. Jouer avec des randoms qui ne communiquent pas, quittent après le premier sang ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang vérifié :</strong> Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle :</strong> Vérifiez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière :</strong> Le grind classé nécessite du jeu régulier, trouvez des personnes avec des horaires similaires<br><strong>• Style de communication :</strong> Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes qui vérifient les rangs des joueurs via l'API Riot et vous permettent de filtrer par rôle, horaire et préférences de communication. Vous passerez moins de temps à dodge en champ select et plus de temps à climb. <a href=\"/blog/league-of-legends-teammate-guide\">Consultez notre guide complet pour trouver des coéquipiers League of Legends</a> ou découvrez <a href=\"/blog/ai-gaming-matchmaking-guide\">comment fonctionne le matchmaking par IA</a>."
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
-      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ, mais terrible pour en trouver de nouveaux. Voici pourquoi :<br><br>Poster \"LFG\" dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important, vous faites tout le travail, spammant les channels, DM-ant des inconnus, espérant une réponse.<br><br>Ce dont vous avez réellement besoin est une plateforme conçue pour la découverte, pas seulement la communication :<br><strong>• Profils de joueurs :</strong> Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent :</strong> Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif :</strong> Recevez des recommandations au lieu de crier dans le vide<br><br>L'objectif n'est pas de remplacer Discord, c'est d'utiliser le bon outil pour la découverte, puis passer à Discord pour le chat vocal une fois que vous avez trouvé des coéquipiers compatibles."
+      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ, mais terrible pour en trouver de nouveaux. Voici pourquoi :<br><br>Poster \"LFG\" dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important, vous faites tout le travail, spammant les channels, DM-ant des inconnus, espérant une réponse.<br><br>Ce dont vous avez réellement besoin est une plateforme conçue pour la découverte, pas seulement la communication :<br><strong>• Profils de joueurs :</strong> Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent :</strong> Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif :</strong> Recevez des recommandations au lieu de crier dans le vide<br><br>L'objectif n'est pas de remplacer Discord, c'est d'utiliser le bon outil pour la découverte, puis passer à Discord pour le chat vocal une fois que vous avez trouvé des coéquipiers compatibles. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Découvrez l'évolution des plateformes LFG</a> et pourquoi le matchmaking moderne est plus efficace."
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
@@ -1489,6 +1493,49 @@
         "play_store": "Disponible sur Google Play - Disponible Bientôt"
       }
     }
+  },
+  "search": {
+    "meta": {
+      "title": "Résultats de Recherche | Jynx",
+      "description": "Recherchez nos guides de matchmaking gaming, conseils et ressources pour trouver les coéquipiers parfaits.",
+      "og_title": "Recherche Blog Gaming Jynx",
+      "og_description": "Trouvez des guides sur le matchmaking, la formation d'équipes et le gaming compétitif.",
+      "og_image_alt": "Recherche Jynx",
+      "twitter_title": "Recherche Blog Gaming Jynx",
+      "twitter_description": "Trouvez des guides sur le matchmaking, la formation d'équipes et le gaming compétitif.",
+      "twitter_image_alt": "Recherche Jynx"
+    },
+    "hero": {
+      "title": "Rechercher des Guides Gaming",
+      "subtitle": "Trouvez des articles sur le matchmaking, la formation d'équipes et le gaming compétitif"
+    },
+    "input": {
+      "placeholder": "Rechercher des articles...",
+      "aria_label": "Champ de saisie de recherche"
+    },
+    "button": {
+      "text": "Rechercher",
+      "aria_label": "Soumettre la requête de recherche"
+    },
+    "results": {
+      "heading": "Résultats de Recherche",
+      "count_singular": "Trouvé 1 résultat pour",
+      "count_plural": "Trouvés {count} résultats pour"
+    },
+    "loading": "Recherche en cours...",
+    "empty": {
+      "title": "Aucun résultat trouvé",
+      "description": "Nous n'avons pas trouvé d'articles correspondant à votre recherche. Essayez des mots-clés différents ou parcourez tous les articles.",
+      "browse_button": "Parcourir Tous les Articles"
+    },
+    "nojs": {
+      "message": "La recherche nécessite que JavaScript soit activé. Veuillez activer JavaScript ou parcourir tous les articles."
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "search": "Recherche"
+    },
+    "back_to_blog": "Retour au Blog"
   },
   "global": {
     "nojs_banner": "JavaScript est désactivé. Certaines fonctionnalités interactives pourraient ne pas fonctionner de manière optimale."

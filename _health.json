@@ -1,0 +1,21 @@
+{
+  "status": "healthy",
+  "version": "1.0.0",
+  "timestamp": "2025-01-27T00:00:00Z",
+  "services": {
+    "search": {
+      "status": "operational",
+      "indices": 16,
+      "languages": ["en", "fr", "es", "pt", "de", "it", "ru", "ar", "hi", "id", "pl", "uk", "ko", "tr", "bn", "vi"]
+    },
+    "blog": {
+      "status": "operational",
+      "posts": 71
+    }
+  },
+  "endpoints": {
+    "search": "/search.html",
+    "blog": "/blog.html",
+    "search_indices": "/content/search/{locale}.json"
+  }
+}

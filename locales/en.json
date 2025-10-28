@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Find Gaming Teammates | LFG Matchmaking App | Jynx",
+    "title": "Gaming Matchmaking App | Find LFG Teammates | Jynx",
     "description": "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Join 10,000+ gamers. Free forever.",
     "keywords": "gaming matchmaking app, smart matchmaking, find gaming teammates, gaming social platform, LFG alternative, gaming squad finder, competitive gaming, gaming community, esports matchmaking, League of Legends teammates, Valorant matchmaking",
     "og_title": "Jynx - Smart Gaming Matchmaking App | Where Gaming Gets Social",
@@ -973,10 +973,12 @@
   },
   "nav": {
     "home": "Home",
-    "solution": "Solution",
+    "solution": "Features",
     "download": "Download",
     "blog": "Blog",
-    "feedback": "Feedback"
+    "feedback": "Contact",
+    "search": "Search",
+    "search_aria": "Search articles"
   },
   "header": {
     "cta": "Get Jynx"
@@ -1062,7 +1064,7 @@
   },
   "collaborative": {
     "title": "Shape the Future of Jynx Together",
-    "description": "Created by gamers, for gamers. Our mission is simple: build a social gaming platform driven by passion, not profit. We're here because we love gaming, and your input directly shapes Jynx's future",
+    "description": "<a href=\"/about\">Created by gamers, for gamers</a>. Our mission is simple: build a social gaming platform driven by passion, not profit. We're here because we love gaming, and your input directly shapes Jynx's future",
     "discord": "Join our Discord",
     "ideas": "Share Your Ideas"
   },
@@ -1120,7 +1122,8 @@
       "title": "Company",
       "about": "About Us",
       "about_seo": "About Jynx Gaming Platform",
-      "blog": "Blog"
+      "blog": "Blog",
+      "search": "Search"
     },
     "legal": {
       "title": "Legal",
@@ -1176,11 +1179,11 @@
     },
     "q3": {
       "question": "How to find teammates for ranked games in League of Legends and Valorant?",
-      "answer": "Finding good ranked teammates isn't about quantity, it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Verified rank:</strong> Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility:</strong> Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability:</strong> Ranked grinding requires regular play, find people with similar schedules<br><strong>• Communication style:</strong> Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing."
+      "answer": "Finding good ranked teammates isn't about quantity, it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Verified rank:</strong> Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility:</strong> Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability:</strong> Ranked grinding requires regular play, find people with similar schedules<br><strong>• Communication style:</strong> Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Read our complete League of Legends teammate guide</a> or learn more about <a href=\"/blog/ai-gaming-matchmaking-guide\">how AI-powered matchmaking works</a>."
     },
     "q4": {
       "question": "What are the best alternatives to Discord for finding gaming teammates?",
-      "answer": "Discord is great for chatting with teammates you ALREADY have, but terrible for finding new ones. Here's why:<br><br>Posting \"LFG\" in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly, you're doing all the work, spamming channels, DMing strangers, hoping someone responds.<br><br>What you actually need is a platform designed for discovery, not just communication:<br><strong>• Player profiles:</strong> See someone's rank, schedule, and preferred roles BEFORE messaging<br><strong>• Smart filtering:</strong> Search by criteria that matter (language, timezone, skill level)<br><strong>• Active matching:</strong> Get recommendations instead of shouting into the void<br><br>The goal isn't to replace Discord, it's to use the right tool for discovery, then move to Discord for voice chat once you've found compatible teammates."
+      "answer": "Discord is great for chatting with teammates you ALREADY have, but terrible for finding new ones. Here's why:<br><br>Posting \"LFG\" in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly, you're doing all the work, spamming channels, DMing strangers, hoping someone responds.<br><br>What you actually need is a platform designed for discovery, not just communication:<br><strong>• Player profiles:</strong> See someone's rank, schedule, and preferred roles BEFORE messaging<br><strong>• Smart filtering:</strong> Search by criteria that matter (language, timezone, skill level)<br><strong>• Active matching:</strong> Get recommendations instead of shouting into the void<br><br>The goal isn't to replace Discord, it's to use the right tool for discovery, then move to Discord for voice chat once you've found compatible teammates. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Learn about the evolution of LFG platforms</a> and why modern matchmaking is more effective."
     },
     "q5": {
       "question": "Are there free gaming matchmaking apps and platforms?",
@@ -1335,6 +1338,49 @@
       "role": "Former Solo Queue Player"
     }
   },
+  "search": {
+    "meta": {
+      "title": "Search Results | Jynx",
+      "description": "Search our gaming matchmaking guides, tips, and resources to find the perfect teammates.",
+      "og_title": "Search Jynx Gaming Blog",
+      "og_description": "Find guides on matchmaking, team building, and competitive gaming.",
+      "og_image_alt": "Jynx Search",
+      "twitter_title": "Search Jynx Gaming Blog",
+      "twitter_description": "Find guides on matchmaking, team building, and competitive gaming.",
+      "twitter_image_alt": "Jynx Search"
+    },
+    "hero": {
+      "title": "Search Gaming Guides",
+      "subtitle": "Find articles about matchmaking, team building, and competitive gaming"
+    },
+    "input": {
+      "placeholder": "Search articles...",
+      "aria_label": "Search input field"
+    },
+    "button": {
+      "text": "Search",
+      "aria_label": "Submit search query"
+    },
+    "results": {
+      "heading": "Search Results",
+      "count_singular": "Found 1 result for",
+      "count_plural": "Found {count} results for"
+    },
+    "loading": "Searching...",
+    "empty": {
+      "title": "No results found",
+      "description": "We couldn't find any articles matching your search. Try different keywords or browse all articles.",
+      "browse_button": "Browse All Articles"
+    },
+    "nojs": {
+      "message": "Search requires JavaScript to be enabled. Please enable JavaScript or browse all articles."
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "search": "Search"
+    },
+    "back_to_blog": "Back to Blog"
+  },
   "global": {
     "nojs_banner": "JavaScript is disabled. Some interactive features may not work optimally."
   },
@@ -1392,6 +1438,11 @@
     "hero": {
       "title": "Gaming Matchmaking Guides & Tips",
       "subtitle": "Expert insights on finding teammates, building communities, and mastering competitive gaming"
+    },
+    "search_bar": {
+      "placeholder": "Search articles...",
+      "button": "Search",
+      "aria_label": "Search blog articles"
     },
     "filters": {
       "all": "All Posts",

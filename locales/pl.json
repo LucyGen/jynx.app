@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Znajdź Kolegów Gaming | Aplikacja Matchmaking LFG | Jynx",
+    "title": "Aplikacja Matchmaking Gaming | Znajdź Kolegów LFG | Jynx",
     "description": "Jynx to najlepsza alternatywa dla tradycyjnych platform LFG. Znajdź idealnych kolegów gaming dzięki inteligentnemu dopasowywaniu opartemu na umiejętnościach, stylu gry i harmonogramie. Dołącz do jakościowych graczy już dziś.",
     "keywords": "aplikacja matchmaking gaming, inteligentne dopasowywanie, znaleźć kolegów gaming, społecznościowa platforma gaming, alternatywa LFG, wyszukiwarka drużyny gaming, gaming kompetytywny, społeczność gaming, matchmaking esports, koledzy League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Inteligentna Aplikacja Matchmaking Gaming | Gdzie Gaming Staje Się Społeczny",
@@ -974,7 +974,10 @@
   "nav": {
     "home": "Strona Główna",
     "solution": "Rozwiązanie",
-    "feedback": "Opinia"
+    "feedback": "Opinia",
+    "download": "Pobierz",
+    "blog": "Blog",
+    "features": "Funkcje"
   },
   "header": {
     "cta": "Pobierz Jynx"
@@ -1060,7 +1063,7 @@
   },
   "collaborative": {
     "title": "Kształtuj Przyszłość Jynx Razem",
-    "description": "Stworzone przez graczy, dla graczy. Nasza misja jest prosta: zbudować społecznościową platformę gaming napędzaną pasją, a nie zyskiem. Jesteśmy tutaj, bo kochamy gaming, a twój wkład bezpośrednio kształtuje przyszłość Jynx",
+    "description": "<a href=\"/about\">Stworzone przez graczy, dla graczy</a>. Nasza misja jest prosta: zbudować społecznościową platformę gaming napędzaną pasją, a nie zyskiem. Jesteśmy tutaj, bo kochamy gaming, a twój wkład bezpośrednio kształtuje przyszłość Jynx",
     "discord": "Dołącz do naszego Discord",
     "ideas": "Podziel się Swoimi Pomysłami"
   },
@@ -1117,7 +1120,8 @@
     "company": {
       "title": "Firma",
       "about": "O Nas",
-      "about_seo": "O Platformie Gaming Jynx"
+      "about_seo": "O Platformie Gaming Jynx",
+      "blog": "Blog"
     },
     "legal": {
       "title": "Prawne",
@@ -1173,11 +1177,11 @@
     },
     "q3": {
       "question": "Jak znaleźć kolegów do gier rankingowych w League of Legends i Valorant?",
-      "answer": "Znajdowanie dobrych kolegów rankingowych nie dotyczy ilości, to dotyczy kompatybilności. Granie z losowymi graczami, którzy nie komunikują się, wychodzą po pierwszej krwi lub grają rolami, z którymi się nie czują, kosztuje cię LP i zdrowie psychiczne.<br><br>Czego szukać w kolegach rankingowych:<br><strong>• Zweryfikowana ranga:</strong> Upewnij się, że są rzeczywiście na twoim ELO (nie smurfują ani nie są boostowani)<br><strong>• Kompatybilność ról:</strong> Sprawdź ich pulę bohaterów i preferowane role przed kolejkowaniem<br><strong>• Konsystentna dostępność:</strong> Grindowanie rankedów wymaga regularnej gry, znajdź ludzi z podobnymi harmonogramami<br><strong>• Styl komunikacji:</strong> Niektórzy gracze preferują shotcalling, inni chcą minimalnego czatu. Dopasuj to z góry.<br><br>Najlepsze podejście? Używaj platform, które weryfikują rangi graczy przez API Riot i pozwalają filtrować według roli, harmonogramu i preferencji komunikacji. Spędzisz mniej czasu w champ select dodging i więcej czasu na wspinanie się."
+      "answer": "Znajdowanie dobrych kolegów rankingowych nie dotyczy ilości, to dotyczy kompatybilności. Granie z losowymi graczami, którzy nie komunikują się, wychodzą po pierwszej krwi lub grają rolami, z którymi się nie czują, kosztuje cię LP i zdrowie psychiczne.<br><br>Czego szukać w kolegach rankingowych:<br><strong>• Zweryfikowana ranga:</strong> Upewnij się, że są rzeczywiście na twoim ELO (nie smurfują ani nie są boostowani)<br><strong>• Kompatybilność ról:</strong> Sprawdź ich pulę bohaterów i preferowane role przed kolejkowaniem<br><strong>• Konsystentna dostępność:</strong> Grindowanie rankedów wymaga regularnej gry, znajdź ludzi z podobnymi harmonogramami<br><strong>• Styl komunikacji:</strong> Niektórzy gracze preferują shotcalling, inni chcą minimalnego czatu. Dopasuj to z góry.<br><br>Najlepsze podejście? Używaj platform, które weryfikują rangi graczy przez API Riot i pozwalają filtrować według roli, harmonogramu i preferencji komunikacji. Spędzisz mniej czasu w champ select dodging i więcej czasu na wspinanie się. <a href=\"/blog/league-of-legends-teammate-guide\">Przeczytaj nasz kompletny przewodnik kolegów League of Legends</a> lub dowiedz się więcej o tym, <a href=\"/blog/ai-gaming-matchmaking-guide\">jak działa matchmaking napędzany AI</a>."
     },
     "q4": {
       "question": "Jakie są najlepsze alternatywy dla Discord do znajdowania kolegów gaming?",
-      "answer": "Discord jest świetny do czatowania z kolegami, których JUŻ masz, ale okropny do znajdowania nowych. Oto dlaczego:<br><br>Publikowanie \"LFG\" na serwerze z 10 000 członków oznacza, że twoja wiadomość zostaje zakopana w minuty. Nie masz sposobu na filtrowanie według poziomu umiejętności, dostępności lub stylu gry przed nawiązaniem kontaktu. I co najważniejsze, wykonujesz całą pracę, spamując kanały, wysyłając DM-y do nieznajomych, mając nadzieję, że ktoś odpowie.<br><br>To, czego naprawdę potrzebujesz, to platforma zaprojektowana do odkrywania, a nie tylko komunikacji:<br><strong>• Profile graczy:</strong> Zobacz rangę kogoś, harmonogram i preferowane role PRZED wysłaniem wiadomości<br><strong>• Inteligentne filtrowanie:</strong> Wyszukuj według kryteriów, które mają znaczenie (język, strefa czasowa, poziom umiejętności)<br><strong>• Aktywne matchowanie:</strong> Otrzymuj rekomendacje zamiast krzyczeć w próżnię<br><br>Celem nie jest zastąpienie Discord, to używanie odpowiedniego narzędzia do odkrywania, a następnie przejście na Discord do czatu głosowego, gdy już znajdziesz kompatybilnych kolegów."
+      "answer": "Discord jest świetny do czatowania z kolegami, których JUŻ masz, ale okropny do znajdowania nowych. Oto dlaczego:<br><br>Publikowanie \"LFG\" na serwerze z 10 000 członków oznacza, że twoja wiadomość zostaje zakopana w minuty. Nie masz sposobu na filtrowanie według poziomu umiejętności, dostępności lub stylu gry przed nawiązaniem kontaktu. I co najważniejsze, wykonujesz całą pracę, spamując kanały, wysyłając DM-y do nieznajomych, mając nadzieję, że ktoś odpowie.<br><br>To, czego naprawdę potrzebujesz, to platforma zaprojektowana do odkrywania, a nie tylko komunikacji:<br><strong>• Profile graczy:</strong> Zobacz rangę kogoś, harmonogram i preferowane role PRZED wysłaniem wiadomości<br><strong>• Inteligentne filtrowanie:</strong> Wyszukuj według kryteriów, które mają znaczenie (język, strefa czasowa, poziom umiejętności)<br><strong>• Aktywne matchowanie:</strong> Otrzymuj rekomendacje zamiast krzyczeć w próżnię<br><br>Celem nie jest zastąpienie Discord, to używanie odpowiedniego narzędzia do odkrywania, a następnie przejście na Discord do czatu głosowego, gdy już znajdziesz kompatybilnych kolegów. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Dowiedz się o ewolucji platform LFG</a> i dlaczego nowoczesne matchowanie jest bardziej efektywne."
     },
     "q5": {
       "question": "Czy istnieją darmowe aplikacje i platformy matchmaking gaming?",
@@ -1485,5 +1489,48 @@
       "product_updates": "Aktualizacje Produktu",
       "guides": "Przewodniki i Porady"
     }
+  },
+  "search": {
+    "meta": {
+      "title": "Wyniki Wyszukiwania | Jynx",
+      "description": "Przeszukaj nasze przewodniki matchmakingu gamingowego, porady i zasoby, aby znaleźć idealnych kolegów do gry.",
+      "og_title": "Wyszukaj Blog Jynx Gaming",
+      "og_description": "Znajdź przewodniki dotyczące matchmakingu, budowania drużyn i competitive gamingu.",
+      "og_image_alt": "Wyszukiwanie Jynx",
+      "twitter_title": "Wyszukaj Blog Jynx Gaming",
+      "twitter_description": "Znajdź przewodniki dotyczące matchmakingu, budowania drużyn i competitive gamingu.",
+      "twitter_image_alt": "Wyszukiwanie Jynx"
+    },
+    "hero": {
+      "title": "Wyszukaj Przewodniki Gaming",
+      "subtitle": "Znajdź artykuły na temat matchmakingu, budowania drużyn i competitive gamingu"
+    },
+    "input": {
+      "placeholder": "Wyszukaj artykuły...",
+      "aria_label": "Pole wyszukiwania"
+    },
+    "button": {
+      "text": "Szukaj",
+      "aria_label": "Wyślij zapytanie wyszukiwania"
+    },
+    "results": {
+      "heading": "Wyniki Wyszukiwania",
+      "count_singular": "Znaleziono 1 wynik dla",
+      "count_plural": "Znaleziono {count} wyników dla"
+    },
+    "loading": "Wyszukiwanie...",
+    "empty": {
+      "title": "Nie znaleziono wyników",
+      "description": "Nie znaleźliśmy artykułów pasujących do twojego wyszukiwania. Spróbuj użyć innych słów kluczowych lub przejrzyj wszystkie artykuły.",
+      "browse_button": "Przejrzyj Wszystkie Artykuły"
+    },
+    "nojs": {
+      "message": "Wyszukiwanie wymaga włączonego JavaScript. Włącz JavaScript lub przejrzyj wszystkie artykuły."
+    },
+    "breadcrumb": {
+      "home": "Strona Główna",
+      "search": "Wyszukiwanie"
+    },
+    "back_to_blog": "Powrót do Bloga"
   }
 }
