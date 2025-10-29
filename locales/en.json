@@ -986,7 +986,6 @@
   "hero": {
     "title": "Where Gaming Gets Social",
     "subtitle": "Find teammates that match your style, skill level, and schedule",
-    "description": "",
     "pre_launch_text": "JOIN YOUR COMMUNITY NOW",
     "app_store_small": "Download For",
     "app_store_large": "Apple iOS",
@@ -1071,7 +1070,7 @@
   "form": {
     "email": {
       "label": "Email Address",
-      "placeholder": "",
+      "placeholder": "Enter your email address",
       "error": "Please enter a valid email address"
     },
     "optional": "Optional",
@@ -1109,7 +1108,7 @@
     "discord": "Join our Discord",
     "yes": "Yes",
     "no": "No",
-    "textarea": "",
+    "textarea": "Tell us what you think... (optional)",
     "submit": "Send",
     "note": "Free forever",
     "submitting": "Submitting...",
@@ -1484,17 +1483,8 @@
       "updated_on": "Updated on",
       "published_on": "Published on",
       "reading_time": "{{time}} min read",
-      "share": {
-        "title": "Share this article",
-        "twitter": "Share on Twitter",
-        "linkedin": "Share on LinkedIn",
-        "facebook": "Share on Facebook",
-        "copy": "Copy Link",
-        "copied": "Copied!"
-      },
-      "tags": {
-        "title": "Tags"
-      },
+      "share": "Share:",
+      "tags": "Tags:",
       "author": {
         "title": "About the Author",
         "follow": "Follow on"
@@ -1525,8 +1515,6 @@
         "author_twitter": "Author Twitter",
         "author_linkedin": "Author LinkedIn"
       },
-      "tags": "Tags:",
-      "share": "Share:",
       "related_posts": "Related Articles"
     },
     "reading_progress": {

@@ -977,7 +977,8 @@
     "feedback": "Avis",
     "download": "Télécharger",
     "blog": "Blog",
-    "features": "Fonctionnalités"
+    "search": "Rechercher",
+    "search_aria": "Rechercher des articles"
   },
   "header": {
     "cta": "Télécharger Jynx"
@@ -985,7 +986,6 @@
   "hero": {
     "title": "Quand le Gaming Devient Social",
     "subtitle": "Trouvez des coéquipiers qui correspondent à votre style, niveau de compétence et disponibilités",
-    "description": "",
     "pre_launch_text": "REJOIGNEZ VOTRE COMMUNAUTÉ MAINTENANT",
     "app_store_small": "Télécharger sur",
     "app_store_large": "App Store",
@@ -1070,7 +1070,7 @@
   "form": {
     "email": {
       "label": "Adresse Email",
-      "placeholder": "",
+      "placeholder": "Entrez votre adresse email",
       "error": "Veuillez entrer une adresse email valide"
     },
     "optional": "Optionnel",
@@ -1108,7 +1108,7 @@
     "discord": "Rejoignez notre Discord",
     "yes": "Oui",
     "no": "Non",
-    "textarea": "",
+    "textarea": "Dites-nous ce que vous pensez... (optionnel)",
     "submit": "Envoyer",
     "note": "Gratuit pour toujours",
     "submitting": "Envoi en cours...",
@@ -1121,7 +1121,8 @@
       "title": "Entreprise",
       "about": "À Propos",
       "about_seo": "À Propos de la Plateforme Gaming Jynx",
-      "blog": "Blog"
+      "blog": "Blog",
+      "search": "Rechercher"
     },
     "legal": {
       "title": "Légal",
@@ -1462,7 +1463,8 @@
         "share_copy": "Copier le lien",
         "author_twitter": "Twitter de l'auteur",
         "author_linkedin": "LinkedIn de l'auteur"
-      }
+      },
+      "related_posts": "Articles Connexes"
     },
     "reading_progress": {
       "aria_label": "Progression de lecture"
@@ -1487,11 +1489,10 @@
       "popular_posts": "Articles Populaires",
       "all_categories": "Toutes les Catégories"
     },
-    "cta": {
-      "aria": {
-        "app_store": "Télécharger sur l'App Store - Disponible Bientôt",
-        "play_store": "Disponible sur Google Play - Disponible Bientôt"
-      }
+    "search_bar": {
+      "placeholder": "Rechercher des articles...",
+      "button": "Rechercher",
+      "aria_label": "Champ de recherche"
     }
   },
   "search": {

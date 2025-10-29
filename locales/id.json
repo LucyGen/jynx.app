@@ -977,7 +977,8 @@
     "feedback": "Umpan Balik",
     "download": "Unduh",
     "blog": "Blog",
-    "features": "Fitur"
+    "search": "Cari",
+    "search_aria": "Cari artikel"
   },
   "header": {
     "cta": "Dapatkan Jynx"
@@ -985,7 +986,6 @@
   "hero": {
     "title": "Tempat Gaming Menjadi Sosial",
     "subtitle": "Temukan rekan tim yang sesuai dengan gaya, level skill, dan jadwal Anda",
-    "description": "",
     "pre_launch_text": "BERGABUNG DENGAN KOMUNITAS ANDA SEKARANG",
     "app_store_small": "Download di",
     "app_store_large": "App Store",
@@ -1070,7 +1070,7 @@
   "form": {
     "email": {
       "label": "Alamat Email",
-      "placeholder": "",
+      "placeholder": "Masukkan alamat email Anda",
       "error": "Masukkan alamat email yang valid"
     },
     "optional": "Opsional",
@@ -1108,7 +1108,7 @@
     "discord": "Bergabung dengan Discord kami",
     "yes": "Ya",
     "no": "Tidak",
-    "textarea": "",
+    "textarea": "Beri tahu kami pendapat Anda... (opsional)",
     "submit": "Kirim",
     "note": "Gratis selamanya",
     "submitting": "Mengirim...",
@@ -1121,7 +1121,8 @@
       "title": "Perusahaan",
       "about": "Tentang Kami",
       "about_seo": "Tentang Platform Gaming Jynx",
-      "blog": "Blog"
+      "blog": "Blog",
+      "search": "Cari"
     },
     "legal": {
       "title": "Hukum",
@@ -1411,9 +1412,16 @@
       "aria_label": "Alamat email"
     },
     "common": {
+      "back_to_blog": "Kembali ke Blog",
+      "load_more": "Muat Lebih Banyak",
+      "no_results": "Tidak ada artikel ditemukan",
+      "search_placeholder": "Cari...",
+      "recent_posts": "Artikel Terbaru",
+      "popular_posts": "Artikel Populer",
+      "all_categories": "Semua Kategori",
       "featured": "Unggulan",
-      "min_read": "menit baca",
-      "no_posts": "Belum ada postingan blog. Kembali lagi segera!"
+      "min_read": "mnt baca",
+      "no_posts": "Belum ada posting blog yang tersedia. Periksa kembali segera!"
     },
     "post": {
       "aria": {
@@ -1451,16 +1459,11 @@
         "heading_final": "Mulai Perjalanan Gaming Anda dengan Jynx",
         "tagline": "Siap meningkatkan pengalaman gaming Anda?",
         "description": "Unduh Jynx dan terhubung dengan rekan tim yang kompatibel dalam hitungan menit"
-      }
+      },
+      "related_posts": "Artikel Terkait"
     },
     "reading_progress": {
       "aria_label": "Progres membaca"
-    },
-    "cta": {
-      "aria": {
-        "app_store": "Unduh di App Store - Segera Hadir",
-        "play_store": "Tersedia di Google Play - Segera Hadir"
-      }
     },
     "index": {
       "title": "Blog Jynx",
@@ -1488,6 +1491,11 @@
       "technical": "Teknis",
       "product_updates": "Update Produk",
       "guides": "Panduan & Tips"
+    },
+    "search_bar": {
+      "placeholder": "Cari artikel...",
+      "button": "Cari",
+      "aria_label": "Kolom pencarian"
     }
   },
   "search": {

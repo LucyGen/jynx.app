@@ -977,7 +977,8 @@
     "feedback": "Feedback",
     "download": "Herunterladen",
     "blog": "Blog",
-    "features": "Funktionen"
+    "search": "Suchen",
+    "search_aria": "Artikel suchen"
   },
   "header": {
     "cta": "Jynx holen"
@@ -985,7 +986,6 @@
   "hero": {
     "title": "Wo Gaming sozial wird",
     "subtitle": "Finde Teamkollegen, die zu deinem Stil, Skill-Level und Zeitplan passen",
-    "description": "",
     "pre_launch_text": "TRITT DEINER COMMUNITY JETZT BEI",
     "app_store_small": "Laden im",
     "app_store_large": "App Store",
@@ -1070,7 +1070,7 @@
   "form": {
     "email": {
       "label": "E-Mail-Adresse",
-      "placeholder": "",
+      "placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
       "error": "Bitte gib eine gültige E-Mail-Adresse ein"
     },
     "optional": "Optional",
@@ -1108,7 +1108,7 @@
     "discord": "Tritt unserem Discord bei",
     "yes": "Ja",
     "no": "Nein",
-    "textarea": "",
+    "textarea": "Sagen Sie uns, was Sie denken... (optional)",
     "submit": "Senden",
     "note": "Für immer kostenlos",
     "submitting": "Wird übermittelt...",
@@ -1121,7 +1121,8 @@
       "title": "Unternehmen",
       "about": "Über uns",
       "about_seo": "Über Jynx Gaming Plattform",
-      "blog": "Blog"
+      "blog": "Blog",
+      "search": "Suchen"
     },
     "legal": {
       "title": "Rechtliches",
@@ -1411,9 +1412,16 @@
       "aria_label": "E-Mail-Adresse"
     },
     "common": {
+      "back_to_blog": "Zurück zum Blog",
+      "load_more": "Mehr laden",
+      "no_results": "Keine Artikel gefunden",
+      "search_placeholder": "Suchen...",
+      "recent_posts": "Neueste Artikel",
+      "popular_posts": "Beliebte Artikel",
+      "all_categories": "Alle Kategorien",
       "featured": "Empfohlen",
       "min_read": "Min. Lesezeit",
-      "no_posts": "Noch keine Blogbeiträge verfügbar. Schauen Sie bald wieder vorbei!"
+      "no_posts": "Noch keine Blog-Beiträge verfügbar. Schauen Sie bald wieder vorbei!"
     },
     "post": {
       "aria": {
@@ -1451,16 +1459,11 @@
         "heading_final": "Starten Sie Ihre Gaming-Reise mit Jynx",
         "tagline": "Bereit, Ihr Gaming-Erlebnis zu verbessern?",
         "description": "Laden Sie Jynx herunter und verbinden Sie sich in Minuten mit kompatiblen Teamkollegen"
-      }
+      },
+      "related_posts": "Ähnliche Artikel"
     },
     "reading_progress": {
       "aria_label": "Lesefortschritt"
-    },
-    "cta": {
-      "aria": {
-        "app_store": "Im App Store herunterladen - Demnächst",
-        "play_store": "Bei Google Play verfügbar - Demnächst"
-      }
     },
     "index": {
       "title": "Jynx Blog",
@@ -1488,6 +1491,11 @@
       "technical": "Technisch",
       "product_updates": "Produktaktualisierungen",
       "guides": "Anleitungen & Tipps"
+    },
+    "search_bar": {
+      "placeholder": "Artikel suchen...",
+      "button": "Suchen",
+      "aria_label": "Suchfeld"
     }
   },
   "search": {

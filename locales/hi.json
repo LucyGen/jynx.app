@@ -977,7 +977,8 @@
     "feedback": "फीडबैक",
     "download": "डाउनलोड करें",
     "blog": "ब्लॉग",
-    "features": "फ़ीचर्स"
+    "search": "खोजें",
+    "search_aria": "लेख खोजें"
   },
   "header": {
     "cta": "Jynx पाएं"
@@ -985,7 +986,6 @@
   "hero": {
     "title": "जहाँ गेमिंग हो जाती है सोशल",
     "subtitle": "ऐसे teammates खोजें जो आपकी style, skill level, और schedule से match करें",
-    "description": "",
     "pre_launch_text": "अब अपनी कम्युनिटी में शामिल हों",
     "app_store_small": "Download करें",
     "app_store_large": "App Store",
@@ -1121,7 +1121,8 @@
       "title": "कंपनी",
       "about": "हमारे बारे में",
       "about_seo": "Jynx Gaming Platform के बारे में",
-      "blog": "ब्लॉग"
+      "blog": "ब्लॉग",
+      "search": "खोजें"
     },
     "legal": {
       "title": "कानूनी",
@@ -1411,9 +1412,16 @@
       "aria_label": "ईमेल पता"
     },
     "common": {
-      "featured": "फीचर्ड",
-      "min_read": "मिनट रीड",
-      "no_posts": "अभी कोई ब्लॉग पोस्ट उपलब्ध नहीं है। जल्द ही वापस आएं!"
+      "back_to_blog": "ब्लॉग पर वापस जाएं",
+      "load_more": "और लोड करें",
+      "no_results": "कोई लेख नहीं मिला",
+      "search_placeholder": "खोजें...",
+      "recent_posts": "हाल के लेख",
+      "popular_posts": "लोकप्रिय लेख",
+      "all_categories": "सभी श्रेणियां",
+      "featured": "विशेष रुप से प्रदर्शित",
+      "min_read": "मिनट पढ़ें",
+      "no_posts": "अभी तक कोई ब्लॉग पोस्ट उपलब्ध नहीं है। जल्द ही वापस जांचें!"
     },
     "post": {
       "aria": {
@@ -1451,16 +1459,11 @@
         "heading_final": "Jynx के साथ अपनी गेमिंग जर्नी शुरू करें",
         "tagline": "अपने गेमिंग एक्सपीरियंस को लेवल अप करने के लिए तैयार हैं?",
         "description": "Jynx डाउनलोड करें और मिनटों में कम्पैटिबल टीममेट्स के साथ कनेक्ट करें"
-      }
+      },
+      "related_posts": "संबंधित लेख"
     },
     "reading_progress": {
       "aria_label": "रीडिंग प्रोग्रेस"
-    },
-    "cta": {
-      "aria": {
-        "app_store": "App Store पर डाउनलोड करें - जल्द आ रहा है",
-        "play_store": "Google Play पर उपलब्ध - जल्द आ रहा है"
-      }
     },
     "index": {
       "title": "Jynx ब्लॉग",
@@ -1488,6 +1491,11 @@
       "technical": "तकनीकी",
       "product_updates": "प्रोडक्ट अपडेट",
       "guides": "गाइड और टिप्स"
+    },
+    "search_bar": {
+      "placeholder": "लेख खोजें...",
+      "button": "खोजें",
+      "aria_label": "खोज फ़ील्ड"
     }
   },
   "search": {
