@@ -4,10 +4,10 @@
     "description": "Jynx ist die beste Alternative zu traditionellen LFG-Plattformen. Finde deine perfekten Gaming-Teamkollegen durch intelligentes Matchmaking basierend auf Skill, Spielstil und Zeitplan. Tritt qualitativ hochwertigen Gamern noch heute bei.",
     "keywords": "Gaming Matchmaking App, intelligentes Matchmaking, Gaming-Teamkollegen finden, Gaming Social Plattform, LFG Alternative, Gaming Squad Finder, Competitive Gaming, Gaming Community, Esports Matchmaking, League of Legends Teamkollegen, Valorant Matchmaking",
     "og_title": "Jynx - Smart Gaming Matchmaking App | Wo Gaming sozial wird",
-    "og_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt 10.000+ Gamern bei. Für immer kostenlos.",
+    "og_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt der Warteliste bei. Für immer kostenlos.",
     "og_image_alt": "Jynx Gaming Matchmaking Plattform - Finde dein perfektes Squad",
     "twitter_title": "Jynx - Smart Gaming Matchmaking App | Wo Gaming sozial wird",
-    "twitter_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt 10.000+ Gamern bei. Für immer kostenlos.",
+    "twitter_description": "Finde dein perfektes Gaming-Squad durch intelligentes Matchmaking. Tritt der Warteliste bei. Für immer kostenlos.",
     "twitter_image_alt": "Jynx Gaming Matchmaking Plattform"
   },
   "about": {
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Besser spielen, zusammen mit Smart Matchmaking",
-    "description_seo": "Jynx ist eine intelligente Gaming-Matchmaking-Plattform, die Solo-Gaming in ein soziales Erlebnis verwandelt. Unsere intelligenten Algorithmen verbinden Spieler basierend auf Skill-Level, Spielstil und Gaming-Präferenzen. Ob du nach League of Legends-Teamkollegen, Valorant-Squad oder lockeren Gaming-Freunden suchst, Jynx ist deine LFG-Alternative, die wirklich funktioniert. Tritt 10.000+ Gamern bei und spiele nie wieder allein."
+    "description_seo": "Jynx ist eine intelligente Gaming-Matchmaking-Plattform, die Solo-Gaming in ein soziales Erlebnis verwandelt. Unsere intelligenten Algorithmen verbinden Spieler basierend auf Skill-Level, Spielstil und Gaming-Präferenzen. Ob du nach League of Legends-Teamkollegen, Valorant-Squad oder lockeren Gaming-Freunden suchst, Jynx ist deine LFG-Alternative, die wirklich funktioniert. Tritt der Warteliste bei und spiele nie wieder allein."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1312,30 +1312,30 @@
     }
   },
   "reviews": {
-    "main_title": "BEWERTUNGEN",
-    "subtitle_prefix": "WAS UNSERE",
-    "subtitle_highlight": "NUTZER SAGEN",
+    "main_title": "WARUM GAMER BRAUCHEN",
+    "subtitle_prefix": "BESSERES",
+    "subtitle_highlight": "MATCHMAKING",
+    "nojs_note": "Aktivieren Sie JavaScript, um alle Szenarien zu durchsuchen",
     "review1": {
-      "quote": "Ich bin ein Diamond League of Legends-Spieler auf der Suche nach einem konsistenten Ranked-Squad. Jynx' Smart-Matchmaking hat mich mit Spielern auf meinem Skill-Level verbunden, die dieselben Rollen spielen und ähnliche Zeitpläne haben. Wir sind in nur 2 Monaten von Diamond IV auf Diamond I geklettert!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Diamond League of Legends-Spieler"
+      "quote": "Zuverlässige Teamkollegen in meinem ELO zu finden sollte nicht bedeuten, stundenlang Discord vollzuspammen. Ich brauche Spieler, die kommunizieren, pünktlich erscheinen und tatsächlich ihre Hauptrolle spielen.",
+      "name": "Der Ranked-Grinder",
+      "role": "Wettkampfspieler"
     },
     "review2": {
-      "quote": "Ich wollte nur chillige Leute finden, mit denen ich am Wochenende Co-op-Spiele spielen kann. Jynx' Spielerentdeckung ließ mich durch Profile swipen und mich mit Gamern verbinden, die meine Stimmung teilen. Jetzt habe ich eine regelmäßige Gruppe für Valorant-Unranked-Matches und es macht so viel Spaß!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Gelegenheits-Valorant-Spielerin"
+      "quote": "Genervt von Randoms, die rage-quiten, nicht meine Sprache sprechen oder online sind, wenn ich schlafe. Ich will einfach nur Teamkollegen, die zu meinem Zeitplan und meiner Stimmung passen.",
+      "name": "Der Wochenend-Krieger",
+      "role": "Gelegenheitsgamer"
     },
     "review3": {
-      "quote": "Ich leite eine 500-Mitglieder-Community für Indie-Game-Enthusiasten. Jynx' Community-Funktionen helfen mir, Events zu organisieren, Diskussionen zu moderieren und alle mit Echtzeit-Chat engagiert zu halten. Das KI-Matchmaking hilft Mitgliedern, Teamkollegen innerhalb unserer Community sofort zu finden.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Gaming-Community-Leader"
+      "quote": "Gaming-Sessions über Zeitzonen hinweg zu organisieren ist Chaos ohne die richtigen Tools. Brauche ein System, das wirklich hilft, meine Community zu koordinieren.",
+      "name": "Der Community-Builder",
+      "role": "Gildenleiter"
     },
     "review4": {
-      "quote": "Alleine zu gamen hat keinen Spaß mehr gemacht. Jynx hat mir geholfen, Communities rund um meine Lieblingsspiele zu entdecken und jetzt habe ich eine regelmäßige Gruppe, mit der ich jeden Abend spiele. Die KI hat mich perfekt mit Leuten gematcht, die dieselben Gaming-Ziele haben - locker, aber kompetitiv, wenn es darauf ankommt.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Ehemaliger Solo-Queue-Spieler"
-    },
-    "nojs_note": "Aktivieren Sie JavaScript, um alle Bewertungen zu durchsuchen"
+      "quote": "Solo-Queue tötet meine Liebe zum Gaming. Jedes Match ist ein Münzwurf der Toxizität. Es muss einen besseren Weg geben, Leute zu finden, die wirklich zusammen besser werden wollen.",
+      "name": "Der Solo-Queue-Flüchtling",
+      "role": "Teamsuchender Spieler"
+    }
   },
   "comparison": {
     "title": "Von Gamern für Gamer gemacht",
@@ -1373,7 +1373,7 @@
     },
     "cta": {
       "title": "Bereit, den Unterschied zu erleben?",
-      "description": "Tritt 10.000+ Gamern bei, die ihre perfekten Squads mit Jynx KI-Matchmaking gefunden haben",
+      "description": "Tritt Gamern weltweit bei und finde dein perfektes Squad mit Jynx KI-Matchmaking",
       "button": "Fang an zu matchen mit KI - Für immer kostenlos"
     }
   },

@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Gaming Matchmaking App | Find LFG Teammates | Jynx",
-    "description": "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Join 10,000+ gamers. Free forever.",
+    "description": "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Join the waitlist. Free forever.",
     "keywords": "gaming matchmaking app, smart matchmaking, find gaming teammates, gaming social platform, LFG alternative, gaming squad finder, competitive gaming, gaming community, esports matchmaking, League of Legends teammates, Valorant matchmaking",
     "og_title": "Jynx - Smart Gaming Matchmaking App | Where Gaming Gets Social",
-    "og_description": "Find your perfect gaming squad with intelligent matchmaking. Join 10,000+ gamers. Free forever.",
+    "og_description": "Find your perfect gaming squad with intelligent matchmaking. Join the waitlist. Free forever.",
     "og_image_alt": "Jynx Gaming Matchmaking Platform - Find Your Perfect Squad",
     "twitter_title": "Jynx - Smart Gaming Matchmaking App | Where Gaming Gets Social",
-    "twitter_description": "Find your perfect gaming squad with intelligent matchmaking. Join 10,000+ gamers. Free forever.",
+    "twitter_description": "Find your perfect gaming squad with intelligent matchmaking. Join the waitlist. Free forever.",
     "twitter_image_alt": "Jynx Gaming Matchmaking Platform"
   },
   "about": {
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Game Better, Together with Smart Matchmaking",
-    "description_seo": "Jynx is a smart gaming matchmaking platform that transforms solo gaming into a social experience. Our intelligent algorithms connect players based on skill level, play style, and gaming preferences. Whether you're looking for League of Legends teammates, Valorant squad, or casual gaming friends, Jynx is your LFG alternative that actually works. Join 10,000+ gamers and never play alone again."
+    "description_seo": "Jynx is a smart gaming matchmaking platform that transforms solo gaming into a social experience. Our intelligent algorithms connect players based on skill level, play style, and gaming preferences. Whether you're looking for League of Legends teammates, Valorant squad, or casual gaming friends, Jynx is your LFG alternative that actually works. Join the waitlist and never play alone again."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1312,29 +1312,29 @@
     }
   },
   "reviews": {
-    "main_title": "REVIEWS",
-    "subtitle_prefix": "WHAT OUR",
-    "subtitle_highlight": "USERS SAY",
-    "nojs_note": "Enable JavaScript to browse all reviews",
+    "main_title": "WHY GAMERS NEED",
+    "subtitle_prefix": "BETTER",
+    "subtitle_highlight": "MATCHMAKING",
+    "nojs_note": "Enable JavaScript to browse all scenarios",
     "review1": {
-      "quote": "I'm a Diamond League of Legends player looking for a consistent ranked squad. Jynx's smart matchmaking connected me with players at my skill level who play the same roles and have similar schedules. We climbed from Diamond IV to Diamond I in just 2 months!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Diamond League of Legends Player"
+      "quote": "Finding consistent teammates at my ELO shouldn't mean spamming Discord for hours. I need players who communicate, show up on time, and actually play their main role.",
+      "name": "The Ranked Grinder",
+      "role": "Competitive Player"
     },
     "review2": {
-      "quote": "I just wanted to find chill people to play co-op games with on weekends. Jynx's player discovery let me swipe through profiles and connect with gamers who share my vibe. Now I have a regular group for Valorant unrated matches and it's so much fun!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Casual Valorant Player"
+      "quote": "Tired of randoms who rage quit, don't speak my language, or are online when I'm asleep. I just want teammates who match my schedule and vibe.",
+      "name": "The Weekend Warrior",
+      "role": "Casual Gamer"
     },
     "review3": {
-      "quote": "I run a 500-member community for indie game enthusiasts. Jynx's community features help me organize events, moderate discussions, and keep everyone engaged with real-time chat. The AI matchmaking helps members find teammates within our community instantly.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Gaming Community Leader"
+      "quote": "Organizing gaming sessions across timezones is chaos without the right tools. Need a system that actually helps coordinate my community.",
+      "name": "The Community Builder",
+      "role": "Guild Leader"
     },
     "review4": {
-      "quote": "Gaming alone wasn't fun anymore. Jynx helped me discover communities around my favorite games and now I have a regular group to play with every night. The AI perfectly matched me with people who have the same gaming goals - casual but competitive when it matters.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Former Solo Queue Player"
+      "quote": "Solo queue is killing my love for gaming. Every match is a coin flip of toxicity. There has to be a better way to find people who actually want to improve together.",
+      "name": "The Solo Queue Escapee",
+      "role": "Team-Seeking Player"
     }
   },
   "search": {
@@ -1419,7 +1419,7 @@
     },
     "cta": {
       "title": "Ready to Experience the Difference?",
-      "description": "Join 10,000+ gamers who found their perfect squads with Jynx AI matchmaking",
+      "description": "Join gamers worldwide finding their perfect squads with Jynx AI matchmaking",
       "button": "Start Matching with AI - Free Forever"
     }
   },
@@ -1452,7 +1452,7 @@
     },
     "newsletter": {
       "title": "Get Gaming Insights Delivered",
-      "subtitle": "Join 10,000+ gamers receiving tips on matchmaking, community building, and finding perfect teammates.",
+      "subtitle": "Get tips on matchmaking, community building, and finding perfect teammates delivered to your inbox.",
       "placeholder": "Enter your email",
       "submit": "Subscribe",
       "privacy": "We respect your privacy. Unsubscribe anytime.",
@@ -1472,7 +1472,7 @@
       "min_read": "min read",
       "newsletter": {
         "title": "Get Gaming Insights Delivered",
-        "subtitle": "Join 10,000+ gamers receiving tips on matchmaking, community building, and finding perfect teammates.",
+        "subtitle": "Get tips on matchmaking, community building, and finding perfect teammates delivered to your inbox.",
         "placeholder": "Enter your email",
         "button": "Subscribe",
         "privacy": "We respect your privacy. Unsubscribe anytime."
@@ -1499,7 +1499,7 @@
       },
       "cta": {
         "title": "Ready to Find Your Perfect Squad?",
-        "subtitle": "Join thousands of gamers using Jynx's smart matchmaking",
+        "subtitle": "Be among the first to experience Jynx's smart matchmaking",
         "button": "Download Jynx",
         "heading_early": "Ready to Find Your Perfect Squad?",
         "heading_mid": "Join Thousands of Gamers",

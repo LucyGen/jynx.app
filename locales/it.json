@@ -4,10 +4,10 @@
     "description": "Jynx è la migliore alternativa alle piattaforme LFG tradizionali. Trova i tuoi compagni di gaming perfetti attraverso matchmaking intelligente basato su abilità, stile di gioco e orario. Unisciti a gamer di qualità oggi.",
     "keywords": "app di matchmaking gaming, matchmaking intelligente, trovare compagni gaming, piattaforma social gaming, alternativa LFG, finder squadra gaming, gaming competitivo, community gaming, matchmaking esports, compagni League of Legends, matchmaking Valorant",
     "og_title": "Jynx - App di Matchmaking Gaming Intelligente | Dove il Gaming Diventa Sociale",
-    "og_description": "Trova la tua squadra gaming perfetta con matchmaking intelligente. Unisciti a più di 10.000 gamer. Gratis per sempre.",
+    "og_description": "Trova la tua squadra gaming perfetta con matchmaking intelligente. Entra nella lista d'attesa. Gratis per sempre.",
     "og_image_alt": "Piattaforma di Matchmaking Gaming Jynx - Trova la Tua Squadra Perfetta",
     "twitter_title": "Jynx - App di Matchmaking Gaming Intelligente | Dove il Gaming Diventa Sociale",
-    "twitter_description": "Trova la tua squadra gaming perfetta con matchmaking intelligente. Unisciti a più di 10.000 gamer. Gratis per sempre.",
+    "twitter_description": "Trova la tua squadra gaming perfetta con matchmaking intelligente. Entra nella lista d'attesa. Gratis per sempre.",
     "twitter_image_alt": "Piattaforma di Matchmaking Gaming Jynx"
   },
   "about": {
@@ -612,7 +612,7 @@
         },
         "marketing_title": "Uso Marketing e Promozionale (Limitato):",
         "marketing": {
-          "li1": "Utilizzare statistiche aggregate e anonimizzate in materiali di marketing (es: \"10.000 abbinamenti fatti questo mese\")",
+          "li1": "Utilizzare statistiche aggregate e anonimizzate in materiali di marketing (es: \"abbinamenti fatti questo mese\")",
           "li2": "Presentare Contenuti Utente condivisi pubblicamente (post di community, profili pubblici) in materiali promozionali, con il tuo consenso esplicito opt-in",
           "li3": "Richiedere il tuo permesso per utilizzare testimonianze, screenshot o contenuti specifici per case study o pubblicità"
         },
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Gioca Meglio, Insieme con Matchmaking Intelligente",
-    "description_seo": "Jynx è una piattaforma di matchmaking gaming intelligente che trasforma il gaming in solitaria in un'esperienza sociale. I nostri algoritmi intelligenti connettono i giocatori basati su livello di abilità, stile di gioco e preferenze gaming. Che tu stia cercando compagni di League of Legends, squadra Valorant o amici gaming casual, Jynx è la tua alternativa LFG che funziona davvero. Unisciti a più di 10.000 gamer e non giocare mai più da solo."
+    "description_seo": "Jynx è una piattaforma di matchmaking gaming intelligente che trasforma il gaming in solitaria in un'esperienza sociale. I nostri algoritmi intelligenti connettono i giocatori basati su livello di abilità, stile di gioco e preferenze gaming. Che tu stia cercando compagni di League of Legends, squadra Valorant o amici gaming casual, Jynx è la tua alternativa LFG che funziona davvero. Entra nella lista d'attesa e non giocare mai più da solo."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1182,7 +1182,7 @@
     },
     "q4": {
       "question": "Quali sono le migliori alternative a Discord per trovare compagni gaming?",
-      "answer": "Discord è ottimo per chattare con compagni che GIÀ hai, ma terribile per trovarne di nuovi. Ecco perché:<br><br>Postare \"LFG\" in un server con 10.000 membri significa che il tuo messaggio viene seppellito in minuti. Non hai modo di filtrare per livello di abilità, disponibilità o stile di gioco prima di contattare. E soprattutto, stai facendo tutto il lavoro, spammando canali, inviando DM a estranei, sperando che qualcuno risponda.<br><br>Ciò di cui hai davvero bisogno è una piattaforma progettata per la scoperta, non solo la comunicazione:<br><strong>• Profili giocatori:</strong> Vedi rank, orario e ruoli preferiti di qualcuno PRIMA di inviare un messaggio<br><strong>• Filtraggio intelligente:</strong> Cerca per criteri che contano (lingua, fuso orario, livello di abilità)<br><strong>• Abbinamento attivo:</strong> Ricevi raccomandazioni invece di urlare nel vuoto<br><br>L'obiettivo non è sostituire Discord, è usare lo strumento giusto per la scoperta, poi passare a Discord per chat vocale una volta trovati compagni compatibili. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Scopri l'evoluzione delle piattaforme LFG</a> e perché il matchmaking moderno è più efficace."
+      "answer": "Discord è ottimo per chattare con compagni che GIÀ hai, ma terribile per trovarne di nuovi. Ecco perché:<br><br>Postare \"LFG\" in un server con migliaia di membri significa che il tuo messaggio viene seppellito in minuti. Non hai modo di filtrare per livello di abilità, disponibilità o stile di gioco prima di contattare. E soprattutto, stai facendo tutto il lavoro, spammando canali, inviando DM a estranei, sperando che qualcuno risponda.<br><br>Ciò di cui hai davvero bisogno è una piattaforma progettata per la scoperta, non solo la comunicazione:<br><strong>• Profili giocatori:</strong> Vedi rank, orario e ruoli preferiti di qualcuno PRIMA di inviare un messaggio<br><strong>• Filtraggio intelligente:</strong> Cerca per criteri che contano (lingua, fuso orario, livello di abilità)<br><strong>• Abbinamento attivo:</strong> Ricevi raccomandazioni invece di urlare nel vuoto<br><br>L'obiettivo non è sostituire Discord, è usare lo strumento giusto per la scoperta, poi passare a Discord per chat vocale una volta trovati compagni compatibili. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Scopri l'evoluzione delle piattaforme LFG</a> e perché il matchmaking moderno è più efficace."
     },
     "q5": {
       "question": "Ci sono app e piattaforme di matchmaking gaming gratuite?",
@@ -1312,30 +1312,30 @@
     }
   },
   "reviews": {
-    "main_title": "RECENSIONI",
-    "subtitle_prefix": "COSA DICONO I NOSTRI",
-    "subtitle_highlight": "UTENTI",
+    "main_title": "PERCHÉ I GAMER HANNO BISOGNO DI",
+    "subtitle_prefix": "MIGLIORE",
+    "subtitle_highlight": "MATCHMAKING",
+    "nojs_note": "Attiva JavaScript per sfogliare tutti gli scenari",
     "review1": {
-      "quote": "Sono un giocatore Diamante di League of Legends alla ricerca di una squadra ranked consistente. Il matchmaking intelligente di Jynx mi ha connesso con giocatori al mio livello di abilità che giocano gli stessi ruoli e hanno orari simili. Siamo saliti da Diamante IV a Diamante I in soli 2 mesi!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Giocatore Diamante League of Legends"
+      "quote": "Trovare compagni consistenti al mio ELO non dovrebbe significare spammare Discord per ore. Ho bisogno di giocatori che comunicano, si presentano in orario e giocano effettivamente il loro ruolo principale.",
+      "name": "Il Grinder Ranked",
+      "role": "Giocatore Competitivo"
     },
     "review2": {
-      "quote": "Volevo solo trovare persone rilassate per giocare a giochi co-op nei weekend. La scoperta giocatori di Jynx mi ha permesso di scorrere profili e connettermi con gamer che condividono la mia vibe. Ora ho un gruppo regolare per partite non ranked di Valorant ed è molto divertente!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Giocatrice Casual Valorant"
+      "quote": "Stanco di random che abbandonano per rabbia, non parlano la mia lingua o sono online quando dormo. Voglio solo compagni che corrispondano al mio orario e alla mia vibe.",
+      "name": "Il Guerriero del Weekend",
+      "role": "Gamer Casual"
     },
     "review3": {
-      "quote": "Guido una community di 500 membri per appassionati di giochi indie. Le funzionalità community di Jynx mi aiutano a organizzare eventi, moderare discussioni e mantenere tutti coinvolti con chat in tempo reale. Il matchmaking IA aiuta i membri a trovare compagni all'interno della nostra community istantaneamente.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Leader Community Gaming"
+      "quote": "Organizzare sessioni gaming attraverso fusi orari è il caos senza gli strumenti giusti. Ho bisogno di un sistema che aiuti davvero a coordinare la mia community.",
+      "name": "Il Builder di Community",
+      "role": "Leader di Gilda"
     },
     "review4": {
-      "quote": "Giocare da solo non era più divertente. Jynx mi ha aiutato a scoprire community attorno ai miei giochi preferiti e ora ho un gruppo regolare con cui giocare ogni sera. L'IA mi ha abbinato perfettamente con persone che hanno gli stessi obiettivi gaming - casual ma competitivo quando conta.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Ex Giocatore Solo Queue"
-    },
-    "nojs_note": "Attiva JavaScript per sfogliare tutte le recensioni"
+      "quote": "La solo queue sta uccidendo il mio amore per il gaming. Ogni partita è un lancio di moneta di tossicità. Deve esserci un modo migliore per trovare persone che vogliono davvero migliorare insieme.",
+      "name": "L'Evaso dalla Solo Queue",
+      "role": "Giocatore in Cerca di Team"
+    }
   },
   "comparison": {
     "title": "Fatto per gamer, da gamer",
@@ -1373,7 +1373,7 @@
     },
     "cta": {
       "title": "Pronto a Sperimentare la Differenza?",
-      "description": "Unisciti a più di 10.000 gamer che hanno trovato le loro squadre perfette con il matchmaking IA di Jynx",
+      "description": "Unisciti ai gamer di tutto il mondo per trovare le squadre perfette con il matchmaking IA di Jynx",
       "button": "Inizia ad Abbinarti con IA - Gratis Per Sempre"
     }
   },
@@ -1447,7 +1447,7 @@
     },
     "newsletter": {
       "title": "Ricevi Approfondimenti Gaming",
-      "subtitle": "Unisciti a oltre 10.000 gamer che ricevono consigli su matchmaking, costruzione di comunità e trovare compagni perfetti.",
+      "subtitle": "Ricevi consigli su matchmaking, costruzione di comunità e trovare compagni perfetti direttamente nella tua casella di posta.",
       "placeholder": "Inserisci la tua email",
       "submit": "Iscriviti",
       "privacy": "Rispettiamo la tua privacy. Annulla l'iscrizione in qualsiasi momento.",
@@ -1521,7 +1521,7 @@
       "min_read": "min di lettura",
       "newsletter": {
         "title": "Ricevi Approfondimenti Gaming",
-        "subtitle": "Unisciti a oltre 10.000 gamer che ricevono consigli su matchmaking, costruzione di comunità e trovare compagni perfetti.",
+        "subtitle": "Ricevi consigli su matchmaking, costruzione di comunità e trovare compagni perfetti direttamente nella tua casella di posta.",
         "placeholder": "Inserisci la tua email",
         "button": "Iscriviti",
         "privacy": "Rispettiamo la tua privacy. Annulla l'iscrizione in qualsiasi momento."

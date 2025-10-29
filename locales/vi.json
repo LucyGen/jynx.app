@@ -4,10 +4,10 @@
     "description": "Jynx biến trải nghiệm chơi game đơn lẻ thành trải nghiệm xã hội bằng cách kết nối game thủ dựa trên sở thích game, phong cách chơi và sở thích cộng đồng.",
     "keywords": "nền tảng xã hội game, ghép đôi game thủ, cộng đồng game, tìm bạn League of Legends, đồng đội Valorant, mạng game, ứng dụng game xã hội, nền tảng LFG, kết nối game thủ, ghép đôi đa người chơi",
     "og_title": "Jynx - Ứng Dụng Ghép Đôi Game | Nơi Game Trở Nên Xã Hội",
-    "og_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia cùng 10.000+ game thủ. Miễn phí mãi mãi.",
+    "og_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia danh sách chờ. Miễn phí mãi mãi.",
     "og_image_alt": "Nền Tảng Ghép Đôi Game Jynx - Tìm Đội Hoàn Hảo Của Bạn",
     "twitter_title": "Jynx - Ứng Dụng Ghép Đôi Game | Nơi Game Trở Nên Xã Hội",
-    "twitter_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia cùng 10.000+ game thủ. Miễn phí mãi mãi.",
+    "twitter_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia danh sách chờ. Miễn phí mãi mãi.",
     "twitter_image_alt": "Nền Tảng Ghép Đôi Game Jynx"
   },
   "about": {
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Chơi Game Tốt Hơn Cùng Nhau với Ghép Đôi Thông Minh",
-    "description_seo": "Jynx là nền tảng ghép đôi game thông minh biến game đơn thành trải nghiệm xã hội. Thuật toán thông minh của chúng tôi kết nối người chơi dựa trên trình độ, phong cách chơi và sở thích game. Cho dù bạn đang tìm đồng đội League of Legends, đội Valorant hay bạn game giải trí, Jynx là giải pháp thay thế LFG thực sự hiệu quả. Tham gia 10.000+ game thủ và không bao giờ chơi một mình nữa."
+    "description_seo": "Jynx là nền tảng ghép đôi game thông minh biến game đơn thành trải nghiệm xã hội. Thuật toán thông minh của chúng tôi kết nối người chơi dựa trên trình độ, phong cách chơi và sở thích game. Cho dù bạn đang tìm đồng đội League of Legends, đội Valorant hay bạn game giải trí, Jynx là giải pháp thay thế LFG thực sự hiệu quả. Tham gia danh sách chờ và không bao giờ chơi một mình nữa."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1287,35 +1287,35 @@
     },
     "cta": {
       "title": "Sẵn Sàng Trải Nghiệm Sự Khác Biệt?",
-      "description": "Tham gia 10.000+ game thủ đã tìm thấy đội hoàn hảo với ghép đôi AI của Jynx",
+      "description": "Tham gia game thủ trên toàn thế giới đang tìm đội hoàn hảo với ghép đôi AI của Jynx",
       "button": "Bắt Đầu Ghép Đôi Với AI - Miễn Phí Mãi Mãi"
     }
   },
   "reviews": {
-    "main_title": "ĐÁNH GIÁ",
-    "subtitle_prefix": "NGƯỜI DÙNG CỦA CHÚNG TÔI",
-    "subtitle_highlight": "NÓI GÌ",
+    "main_title": "TẠI SAO GAME THỦ CẦN",
+    "subtitle_prefix": "GHÉP ĐÔI",
+    "subtitle_highlight": "TỐT HƠN",
+    "nojs_note": "Bật JavaScript để duyệt tất cả các tình huống",
     "review1": {
-      "quote": "Tôi là một người chơi Diamond trong League of Legends, đang tìm kiếm một đội xếp hạng ổn định. Hệ thống ghép đôi thông minh của Jynx đã kết nối tôi với những người chơi cùng trình độ kỹ năng, chơi các vị trí giống nhau và có lịch trình tương tự. Chúng tôi đã thăng từ Diamond IV lên Diamond I chỉ trong 2 tháng!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Người Chơi Diamond trong League of Legends"
+      "quote": "Việc tìm đồng đội ổn định ở ELO của tôi không nên có nghĩa là phải spam Discord hàng giờ. Tôi cần những người chơi biết giao tiếp, xuất hiện đúng giờ và thực sự chơi vai trò chính của họ.",
+      "name": "Game Thủ Chuyên Xếp Hạng",
+      "role": "Người Chơi Cạnh Tranh"
     },
     "review2": {
-      "quote": "Tôi chỉ muốn tìm những người thoải mái để chơi các trò chơi hợp tác vào cuối tuần. Tính năng tìm kiếm người chơi của Jynx cho phép tôi xem hồ sơ và kết nối với các game thủ có cùng tâm trạng. Giờ tôi có một nhóm ổn định để chơi các trận không xếp hạng trong Valorant, và thật vui!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Người Chơi Valorant Thông Thường"
+      "quote": "Mệt mỏi với những người chơi ngẫu nhiên rage quit, không nói ngôn ngữ của tôi, hoặc online khi tôi đang ngủ. Tôi chỉ muốn đồng đội phù hợp với lịch trình và phong cách của tôi.",
+      "name": "Chiến Binh Cuối Tuần",
+      "role": "Game Thủ Giải Trí"
     },
     "review3": {
-      "quote": "Tôi quản lý một cộng đồng 500 thành viên cho những người đam mê trò chơi indie. Các tính năng cộng đồng của Jynx giúp tôi tổ chức sự kiện, kiểm duyệt thảo luận và giữ cho mọi người tham gia với trò chuyện thời gian thực. Hệ thống ghép đôi AI giúp các thành viên tìm đồng đội ngay lập tức trong cộng đồng của chúng tôi.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Trưởng Nhóm Cộng Đồng Game"
+      "quote": "Tổ chức các phiên chơi game qua các múi giờ thật hỗn loạn nếu không có công cụ phù hợp. Cần một hệ thống thực sự giúp điều phối cộng đồng của tôi.",
+      "name": "Người Xây Dựng Cộng Đồng",
+      "role": "Trưởng Guild"
     },
     "review4": {
-      "quote": "Chơi solo không còn vui nữa. Jynx đã giúp tôi khám phá các cộng đồng xung quanh các trò chơi yêu thích của mình, và giờ tôi có một nhóm ổn định để chơi mỗi tối. AI đã ghép đôi hoàn hảo cho tôi với những người có cùng mục tiêu chơi game - thông thường nhưng cạnh tranh khi quan trọng.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Cựu Người Chơi Solo Queue"
-    },
-    "nojs_note": "Bật JavaScript để duyệt tất cả đánh giá"
+      "quote": "Solo queue đang giết chết niềm đam mê game của tôi. Mỗi trận là một cú tung đồng xu của độc hại. Phải có cách tốt hơn để tìm người thực sự muốn cùng nhau tiến bộ.",
+      "name": "Người Thoát Solo Queue",
+      "role": "Người Chơi Tìm Đội"
+    }
   },
   "faq": {
     "title": "Câu Hỏi Thường Gặp Về Ghép Đôi Game",
@@ -1404,7 +1404,7 @@
     },
     "newsletter": {
       "title": "Nhận Thông Tin Gaming",
-      "subtitle": "Tham gia cùng hơn 10.000 game thủ nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo.",
+      "subtitle": "Nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo gửi đến hộp thư của bạn.",
       "placeholder": "Nhập email của bạn",
       "submit": "Đăng Ký",
       "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất kỳ lúc nào.",
@@ -1478,7 +1478,7 @@
       "min_read": "phút đọc",
       "newsletter": {
         "title": "Nhận Thông Tin Gaming",
-        "subtitle": "Tham gia cùng hơn 10.000 game thủ nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo.",
+        "subtitle": "Nhận mẹo về ghép đội, xây dựng cộng đồng và tìm đồng đội hoàn hảo gửi đến hộp thư của bạn.",
         "placeholder": "Nhập email của bạn",
         "button": "Đăng Ký",
         "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất kỳ lúc nào."

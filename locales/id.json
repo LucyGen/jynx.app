@@ -4,10 +4,10 @@
     "description": "Jynx adalah alternatif terbaik untuk platform LFG tradisional. Temukan rekan tim gaming sempurna melalui matchmaking cerdas berdasarkan skill, gaya bermain, dan jadwal. Bergabunglah dengan gamer berkualitas hari ini.",
     "keywords": "aplikasi matchmaking gaming, smart matchmaking, temukan rekan tim gaming, platform sosial gaming, alternatif LFG, pencari squad gaming, gaming kompetitif, komunitas gaming, matchmaking esports, rekan tim League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
-    "og_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabung dengan 10.000+ gamer. Gratis selamanya.",
+    "og_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabunglah dengan daftar tunggu. Gratis selamanya.",
     "og_image_alt": "Platform Matchmaking Gaming Jynx - Temukan Squad Sempurna Anda",
     "twitter_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
-    "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabung dengan 10.000+ gamer. Gratis selamanya.",
+    "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabunglah dengan daftar tunggu. Gratis selamanya.",
     "twitter_image_alt": "Platform Matchmaking Gaming Jynx"
   },
   "about": {
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Bermain Lebih Baik, Bersama dengan Smart Matchmaking",
-    "description_seo": "Jynx adalah platform matchmaking gaming cerdas yang mengubah gaming solo menjadi pengalaman sosial. Algoritma cerdas kami menghubungkan pemain berdasarkan level skill, gaya bermain, dan preferensi gaming. Baik Anda mencari rekan tim League of Legends, squad Valorant, atau teman gaming kasual, Jynx adalah alternatif LFG yang benar-benar berfungsi. Bergabung dengan 10.000+ gamer dan jangan pernah bermain sendirian lagi."
+    "description_seo": "Jynx adalah platform matchmaking gaming cerdas yang mengubah gaming solo menjadi pengalaman sosial. Algoritma cerdas kami menghubungkan pemain berdasarkan level skill, gaya bermain, dan preferensi gaming. Baik Anda mencari rekan tim League of Legends, squad Valorant, atau teman gaming kasual, Jynx adalah alternatif LFG yang benar-benar berfungsi. Bergabunglah dengan gamer di seluruh dunia dan jangan pernah bermain sendirian lagi."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1182,7 +1182,7 @@
     },
     "q4": {
       "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
-      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server dengan 10.000 anggota berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Pelajari tentang evolusi platform LFG dan mengapa matchmaking modern lebih efektif</a>."
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server besar berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Pelajari tentang evolusi platform LFG dan mengapa matchmaking modern lebih efektif</a>."
     },
     "q5": {
       "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
@@ -1312,30 +1312,30 @@
     }
   },
   "reviews": {
-    "main_title": "ULASAN",
-    "subtitle_prefix": "APA KATA",
-    "subtitle_highlight": "PENGGUNA KAMI",
+    "main_title": "MENGAPA GAMER MEMBUTUHKAN",
+    "subtitle_prefix": "MATCHMAKING",
+    "subtitle_highlight": "YANG LEBIH BAIK",
     "review1": {
-      "quote": "Saya pemain League of Legends Diamond yang mencari squad ranked konsisten. Matchmaking cerdas Jynx menghubungkan saya dengan pemain di level skill saya yang bermain role yang sama dan memiliki jadwal serupa. Kami naik dari Diamond IV ke Diamond I hanya dalam 2 bulan!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Pemain League of Legends Diamond"
+      "quote": "Menemukan rekan tim konsisten di ELO saya seharusnya tidak berarti spamming Discord selama berjam-jam. Saya butuh pemain yang berkomunikasi, datang tepat waktu, dan benar-benar main role utama mereka.",
+      "name": "The Ranked Grinder",
+      "role": "Pemain Kompetitif"
     },
     "review2": {
-      "quote": "Saya hanya ingin menemukan orang santai untuk bermain game co-op di akhir pekan. Penemuan pemain Jynx memungkinkan saya swipe melalui profil dan terhubung dengan gamer yang berbagi vibe saya. Sekarang saya punya grup reguler untuk pertandingan unrated Valorant dan sangat menyenangkan!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Pemain Valorant Kasual"
+      "quote": "Lelah dengan random yang rage quit, tidak berbicara bahasa saya, atau online saat saya tidur. Saya hanya ingin rekan tim yang cocok dengan jadwal dan vibe saya.",
+      "name": "The Weekend Warrior",
+      "role": "Gamer Kasual"
     },
     "review3": {
-      "quote": "Saya menjalankan komunitas 500 anggota untuk penggemar indie game. Fitur komunitas Jynx membantu saya mengorganisir acara, moderasi diskusi, dan menjaga semua orang terlibat dengan chat real-time. Matchmaking AI membantu anggota menemukan rekan tim dalam komunitas kami secara instan.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Pemimpin Komunitas Gaming"
+      "quote": "Mengorganisir sesi gaming lintas zona waktu adalah kekacauan tanpa alat yang tepat. Butuh sistem yang benar-benar membantu koordinasi komunitas saya.",
+      "name": "The Community Builder",
+      "role": "Pemimpin Guild"
     },
     "review4": {
-      "quote": "Gaming sendirian tidak menyenangkan lagi. Jynx membantu saya menemukan komunitas di sekitar game favorit saya dan sekarang saya punya grup reguler untuk bermain setiap malam. AI sempurna mencocokkan saya dengan orang yang memiliki tujuan gaming yang sama - kasual tetapi kompetitif saat penting.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Mantan Pemain Solo Queue"
+      "quote": "Solo queue membunuh kecintaan saya pada gaming. Setiap match adalah coin flip toxicity. Harus ada cara yang lebih baik untuk menemukan orang yang benar-benar ingin berkembang bersama.",
+      "name": "The Solo Queue Escapee",
+      "role": "Pemain Mencari Tim"
     },
-    "nojs_note": "Aktifkan JavaScript untuk menjelajahi semua ulasan"
+    "nojs_note": "Aktifkan JavaScript untuk menjelajahi semua skenario"
   },
   "comparison": {
     "title": "Dibuat untuk gamer, oleh gamer",
@@ -1373,7 +1373,7 @@
     },
     "cta": {
       "title": "Siap Merasakan Perbedaannya?",
-      "description": "Bergabung dengan 10.000+ gamer yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
+      "description": "Bergabunglah dengan gamer di seluruh dunia yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
       "button": "Mulai Matching dengan AI - Gratis Selamanya"
     }
   },
@@ -1404,7 +1404,7 @@
     },
     "newsletter": {
       "title": "Dapatkan Wawasan Gaming",
-      "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+      "subtitle": "Dapatkan tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna langsung ke inbox Anda.",
       "placeholder": "Masukkan email Anda",
       "submit": "Berlangganan",
       "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja.",
@@ -1478,7 +1478,7 @@
       "min_read": "menit baca",
       "newsletter": {
         "title": "Dapatkan Wawasan Gaming",
-        "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+        "subtitle": "Dapatkan tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna langsung ke inbox Anda.",
         "placeholder": "Masukkan email Anda",
         "button": "Berlangganan",
         "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."

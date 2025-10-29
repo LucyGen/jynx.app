@@ -4,10 +4,10 @@
     "description": "Jynx es la mejor alternativa a las plataformas LFG tradicionales. Encuentra tus compañeros de gaming perfectos a través de matchmaking inteligente basado en habilidad, estilo de juego y horario. Únete a gamers de calidad hoy.",
     "keywords": "app de matchmaking gaming, matchmaking inteligente, encontrar compañeros gaming, plataforma social gaming, alternativa LFG, buscador escuadrón gaming, gaming competitivo, comunidad gaming, matchmaking esports, compañeros League of Legends, matchmaking Valorant",
     "og_title": "Jynx - App de Matchmaking Gaming Inteligente | Donde el Gaming se Vuelve Social",
-    "og_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a más de 10,000 gamers. Gratis para siempre.",
+    "og_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a la lista de espera. Gratis para siempre.",
     "og_image_alt": "Plataforma de Matchmaking Gaming Jynx - Encuentra Tu Escuadrón Perfecto",
     "twitter_title": "Jynx - App de Matchmaking Gaming Inteligente | Donde el Gaming se Vuelve Social",
-    "twitter_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a más de 10,000 gamers. Gratis para siempre.",
+    "twitter_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a la lista de espera. Gratis para siempre.",
     "twitter_image_alt": "Plataforma de Matchmaking Gaming Jynx"
   },
   "about": {
@@ -1018,7 +1018,7 @@
       }
     },
     "title_seo": "Juega Mejor, Juntos con Matchmaking Inteligente",
-    "description_seo": "Jynx es una plataforma de matchmaking gaming inteligente que transforma el gaming solitario en una experiencia social. Nuestros algoritmos inteligentes conectan jugadores basándose en nivel de habilidad, estilo de juego y preferencias de gaming. Ya sea que estés buscando compañeros de League of Legends, escuadrón de Valorant o amigos de gaming casuales, Jynx es tu alternativa LFG que realmente funciona. Únete a más de 10,000 gamers y nunca juegues solo de nuevo."
+    "description_seo": "Jynx es una plataforma de matchmaking gaming inteligente que transforma el gaming solitario en una experiencia social. Nuestros algoritmos inteligentes conectan jugadores basándose en nivel de habilidad, estilo de juego y preferencias de gaming. Ya sea que estés buscando compañeros de League of Legends, escuadrón de Valorant o amigos de gaming casuales, Jynx es tu alternativa LFG que realmente funciona. Únete a la lista de espera y nunca juegues solo de nuevo."
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1312,30 +1312,30 @@
     }
   },
   "reviews": {
-    "main_title": "RESEÑAS",
-    "subtitle_prefix": "LO QUE NUESTROS",
-    "subtitle_highlight": "USUARIOS DICEN",
+    "main_title": "POR QUÉ LOS GAMERS NECESITAN",
+    "subtitle_prefix": "MEJOR",
+    "subtitle_highlight": "MATCHMAKING",
+    "nojs_note": "Activa JavaScript para explorar todos los escenarios",
     "review1": {
-      "quote": "Soy un jugador Diamante de League of Legends buscando un escuadrón clasificado consistente. El matchmaking inteligente de Jynx me conectó con jugadores en mi nivel de habilidad que juegan los mismos roles y tienen horarios similares. ¡Escalamos de Diamante IV a Diamante I en solo 2 meses!",
-      "name": "Alex 'Frostbyte' Ramirez",
-      "role": "Jugador Diamante de League of Legends"
+      "quote": "Encontrar compañeros consistentes en mi ELO no debería significar spammear Discord durante horas. Necesito jugadores que se comuniquen, lleguen a tiempo y realmente jueguen su rol principal.",
+      "name": "El Grinder Clasificado",
+      "role": "Jugador Competitivo"
     },
     "review2": {
-      "quote": "Solo quería encontrar personas relajadas para jugar juegos co-op los fines de semana. El descubrimiento de jugadores de Jynx me permitió deslizar por perfiles y conectar con gamers que comparten mi vibra. ¡Ahora tengo un grupo regular para partidas no clasificadas de Valorant y es muy divertido!",
-      "name": "Sarah 'PixelQueen' Chen",
-      "role": "Jugadora Casual de Valorant"
+      "quote": "Cansado de randoms que abandonan con rage quit, no hablan mi idioma o están online cuando yo estoy durmiendo. Solo quiero compañeros que coincidan con mi horario y vibra.",
+      "name": "El Guerrero de Fin de Semana",
+      "role": "Gamer Casual"
     },
     "review3": {
-      "quote": "Dirijo una comunidad de 500 miembros para entusiastas de juegos indie. Las características de comunidad de Jynx me ayudan a organizar eventos, moderar discusiones y mantener a todos comprometidos con chat en tiempo real. El matchmaking IA ayuda a los miembros a encontrar compañeros dentro de nuestra comunidad instantáneamente.",
-      "name": "Marcus 'IronWill' Thompson",
-      "role": "Líder de Comunidad Gaming"
+      "quote": "Organizar sesiones de gaming a través de zonas horarias es un caos sin las herramientas correctas. Necesito un sistema que realmente ayude a coordinar mi comunidad.",
+      "name": "El Constructor de Comunidad",
+      "role": "Líder de Gremio"
     },
     "review4": {
-      "quote": "Jugar solo ya no era divertido. Jynx me ayudó a descubrir comunidades alrededor de mis juegos favoritos y ahora tengo un grupo regular con el que jugar cada noche. La IA me empareció perfectamente con personas que tienen los mismos objetivos de gaming - casual pero competitivo cuando importa.",
-      "name": "James 'ShadowStrike' Wilson",
-      "role": "Ex Jugador Solo Queue"
-    },
-    "nojs_note": "Activa JavaScript para explorar todas las reseñas"
+      "quote": "La cola solo está matando mi amor por el gaming. Cada partida es una moneda al aire de toxicidad. Tiene que haber una mejor manera de encontrar personas que realmente quieran mejorar juntas.",
+      "name": "El Escapista de Solo Queue",
+      "role": "Jugador Buscando Equipo"
+    }
   },
   "comparison": {
     "title": "Hecho para gamers, por gamers",
@@ -1373,7 +1373,7 @@
     },
     "cta": {
       "title": "¿Listo para Experimentar la Diferencia?",
-      "description": "Únete a más de 10,000 gamers que encontraron sus escuadrones perfectos con el matchmaking IA de Jynx",
+      "description": "Únete a gamers en todo el mundo que encontraron sus escuadrones perfectos con el matchmaking IA de Jynx",
       "button": "Comienza a Emparejar con IA - Gratis Para Siempre"
     }
   },
@@ -1404,7 +1404,7 @@
     },
     "newsletter": {
       "title": "Recibe Insights Gaming",
-      "subtitle": "Únete a más de 10,000 gamers recibiendo consejos sobre matchmaking, construcción de comunidades y encontrar compañeros perfectos.",
+      "subtitle": "Recibe consejos sobre matchmaking, construcción de comunidades y encontrar compañeros perfectos.",
       "placeholder": "Ingresa tu email",
       "submit": "Suscribirse",
       "privacy": "Respetamos tu privacidad. Cancela en cualquier momento.",
@@ -1478,7 +1478,7 @@
       "min_read": "min de lectura",
       "newsletter": {
         "title": "Recibe Insights Gaming",
-        "subtitle": "Únete a más de 10,000 gamers recibiendo consejos sobre matchmaking, construcción de comunidades y encontrar compañeros perfectos.",
+        "subtitle": "Recibe consejos sobre matchmaking, construcción de comunidades y encontrar compañeros perfectos.",
         "placeholder": "Ingresa tu email",
         "button": "Suscribirse",
         "privacy": "Respetamos tu privacidad. Cancela en cualquier momento."
