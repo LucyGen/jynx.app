@@ -1,1 +1,144 @@
-{"locale":"pt","generated_at":"2025-10-29T19:36:33.691Z","post_count":5,"posts":[{"id":"guia-construcao-equipe-gta-6-online-vice-city-2026","title":"Como Montar Sua Crew Perfeita no GTA 6 Vice City 2026","excerpt":"GTA 6 chega em maio 2026 com lobbies de 96 jogadores. Descubra como montar a crew perfeita, dominar assaltos e conquistar Vice City desde o dia um.","tags":["GTA 6","team-building","multiplayer","heists","crew-finding"],"category":"gaming-communities","slug":"guia-construcao-equipe-gta-6-online-vice-city-2026","date_published":"2025-10-29T10:30:00Z","featured_image":"/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp","featured_image_alt":"Horizonte de Vice City em GTA VI com jogadores coordenando um assalto","reading_time":14,"locale":"pt","author":"jynx-team","keywords":["crew GTA 6","equipe GTA 6 online","assaltos Vice City 2026","encontrar companheiros GTA 6","recrutamento crew GTA"]},{"id":"ai-coaches-competitive-gaming","title":"A Ascensão dos Coaches de IA em Jogos Competitivos | Jynx","excerpt":"Ferramentas de análise de desempenho e sistemas de otimização de estratégia estão transformando a forma como jogadores competitivos treinam e melhoram suas habilidades.","tags":["competitive-gaming","gaming-performance","esports-training","gaming-analytics","skill-improvement"],"category":"matchmaking","slug":"ai-coaches-competitive-gaming","date_published":"2025-10-28T10:00:00Z","featured_image":"/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp","featured_image_alt":"Jogador profissional analisando estatísticas de desempenho e métricas de gameplay","reading_time":19,"locale":"pt","author":"jynx-team","keywords":["análise desempenho gaming","ferramentas treinamento esports","melhoria jogos competitivos","analytics gaming","otimização desempenho gaming"]},{"id":"guia-esquadrao-zumbis-black-ops-7","title":"Guia Esquadrão Black Ops 7 Zombies para High Rounds","excerpt":"Ashes of the Damned é o maior mapa de zumbis do COD de todos os tempos. Aprenda a montar o esquadrão de 4 jogadores perfeito para sobreviver em high rounds, evitar companheiros tóxicos e dominar o Dark Aether de Black Ops 7.","tags":["call-of-duty","black-ops-7","zombies","team-building","multiplayer"],"category":"gaming-communities","slug":"guia-esquadrao-zumbis-black-ops-7","date_published":"2025-10-28T10:00:00Z","featured_image":"/blog-og-default.png","featured_image_alt":"Jynx gaming matchmaking platform","reading_time":12,"locale":"pt","author":"jynx-team","keywords":["black ops 7 zombies","companheiros zombies","high rounds zombies","ashes of the damned","equipe cod zombies"]},{"id":"guia-matchmaking-ia-jogos","title":"O Guia Completo para Matchmaking em Jogos com IA | Jynx","excerpt":"Descubra como o matchmaking com IA ajuda gamers a encontrar companheiros de equipe perfeitos baseado em habilidade, estilo de jogo e personalidade. Guia completo com dicas, ferramentas e estratégias.","tags":["AI","matchmaking","gaming","LFG","teammates"],"category":"matchmaking","slug":"guia-matchmaking-ia-jogos","date_published":"2025-10-28T10:00:00Z","featured_image":"/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp","featured_image_alt":"Interface de matchmaking de jogos com IA mostrando pontuações de compatibilidade de jogadores","reading_time":16,"locale":"pt","author":"jynx-team","keywords":["matchmaking jogos","encontrar companheiros jogos","alternativa LFG","companheiros IA","matchmaking baseado em habilidade"]},{"id":"halo-campanha-evoluida-guia-coop-2026","title":"Halo Campaign Evolved Co-op: Seu Esquadrão Perfeito 2026","excerpt":"Halo chega ao PlayStation pela primeira vez com co-op de 4 jogadores. Aqui está tudo que você precisa saber para encontrar o esquadrão perfeito para partidas lendárias.","tags":["halo","co-op","xbox","playstation","pc-gaming","fps","matchmaking"],"category":"social-gaming","slug":"halo-campanha-evoluida-guia-coop-2026","date_published":"2025-10-28T10:00:00Z","featured_image":"/blog-og-default.png","featured_image_alt":"Jynx gaming matchmaking platform","reading_time":12,"locale":"pt","author":"jynx-team","keywords":["halo campaign evolved","halo co-op","halo 2026","encontrar companheiros halo","dificuldade lendária"]}]}
+{
+  "locale": "pt",
+  "generated_at": "2025-10-29T20:09:02.001Z",
+  "post_count": 5,
+  "posts": [
+    {
+      "id": "guia-construcao-equipe-gta-6-online-vice-city-2026",
+      "title": "Como Montar Sua Crew Perfeita no GTA 6 Vice City 2026",
+      "excerpt": "GTA 6 chega em maio 2026 com lobbies de 96 jogadores. Descubra como montar a crew perfeita, dominar assaltos e conquistar Vice City desde o dia um.",
+      "tags": [
+        "GTA 6",
+        "team-building",
+        "multiplayer",
+        "heists",
+        "crew-finding"
+      ],
+      "category": "gaming-communities",
+      "slug": "guia-construcao-equipe-gta-6-online-vice-city-2026",
+      "date_published": "2025-10-29T10:30:00Z",
+      "featured_image": "/assets/hero-i6j2afiW.webp",
+      "featured_image_alt": "Horizonte de Vice City em GTA VI com jogadores coordenando um assalto",
+      "reading_time": 14,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "crew GTA 6",
+        "equipe GTA 6 online",
+        "assaltos Vice City 2026",
+        "encontrar companheiros GTA 6",
+        "recrutamento crew GTA"
+      ]
+    },
+    {
+      "id": "ai-coaches-competitive-gaming",
+      "title": "A Ascensão dos Coaches de IA em Jogos Competitivos | Jynx",
+      "excerpt": "Ferramentas de análise de desempenho e sistemas de otimização de estratégia estão transformando a forma como jogadores competitivos treinam e melhoram suas habilidades.",
+      "tags": [
+        "competitive-gaming",
+        "gaming-performance",
+        "esports-training",
+        "gaming-analytics",
+        "skill-improvement"
+      ],
+      "category": "matchmaking",
+      "slug": "ai-coaches-competitive-gaming",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/hero-i6j2afiW.webp",
+      "featured_image_alt": "Jogador profissional analisando estatísticas de desempenho e métricas de gameplay",
+      "reading_time": 19,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "análise desempenho gaming",
+        "ferramentas treinamento esports",
+        "melhoria jogos competitivos",
+        "analytics gaming",
+        "otimização desempenho gaming"
+      ]
+    },
+    {
+      "id": "guia-esquadrao-zumbis-black-ops-7",
+      "title": "Guia Esquadrão Black Ops 7 Zombies para High Rounds",
+      "excerpt": "Ashes of the Damned é o maior mapa de zumbis do COD de todos os tempos. Aprenda a montar o esquadrão de 4 jogadores perfeito para sobreviver em high rounds, evitar companheiros tóxicos e dominar o Dark Aether de Black Ops 7.",
+      "tags": [
+        "call-of-duty",
+        "black-ops-7",
+        "zombies",
+        "team-building",
+        "multiplayer"
+      ],
+      "category": "gaming-communities",
+      "slug": "guia-esquadrao-zumbis-black-ops-7",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/blog-og-default.png",
+      "featured_image_alt": "Jynx gaming matchmaking platform",
+      "reading_time": 12,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "black ops 7 zombies",
+        "companheiros zombies",
+        "high rounds zombies",
+        "ashes of the damned",
+        "equipe cod zombies"
+      ]
+    },
+    {
+      "id": "guia-matchmaking-ia-jogos",
+      "title": "O Guia Completo para Matchmaking em Jogos com IA | Jynx",
+      "excerpt": "Descubra como o matchmaking com IA ajuda gamers a encontrar companheiros de equipe perfeitos baseado em habilidade, estilo de jogo e personalidade. Guia completo com dicas, ferramentas e estratégias.",
+      "tags": [
+        "AI",
+        "matchmaking",
+        "gaming",
+        "LFG",
+        "teammates"
+      ],
+      "category": "matchmaking",
+      "slug": "guia-matchmaking-ia-jogos",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/hero-i6j2afiW.webp",
+      "featured_image_alt": "Interface de matchmaking de jogos com IA mostrando pontuações de compatibilidade de jogadores",
+      "reading_time": 16,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "matchmaking jogos",
+        "encontrar companheiros jogos",
+        "alternativa LFG",
+        "companheiros IA",
+        "matchmaking baseado em habilidade"
+      ]
+    },
+    {
+      "id": "halo-campanha-evoluida-guia-coop-2026",
+      "title": "Halo Campaign Evolved Co-op: Seu Esquadrão Perfeito 2026",
+      "excerpt": "Halo chega ao PlayStation pela primeira vez com co-op de 4 jogadores. Aqui está tudo que você precisa saber para encontrar o esquadrão perfeito para partidas lendárias.",
+      "tags": [
+        "halo",
+        "co-op",
+        "xbox",
+        "playstation",
+        "pc-gaming",
+        "fps",
+        "matchmaking"
+      ],
+      "category": "social-gaming",
+      "slug": "halo-campanha-evoluida-guia-coop-2026",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/blog-og-default.png",
+      "featured_image_alt": "Jynx gaming matchmaking platform",
+      "reading_time": 12,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "halo campaign evolved",
+        "halo co-op",
+        "halo 2026",
+        "encontrar companheiros halo",
+        "dificuldade lendária"
+      ]
+    }
+  ]
+}

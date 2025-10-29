@@ -1,1 +1,117 @@
-{"locale":"fr","generated_at":"2025-10-29T19:36:33.690Z","post_count":4,"posts":[{"id":"guide-equipe-gta-6-online-vice-city-2026","title":"Guide Ultime Équipe GTA 6 Online Vice City 2026","excerpt":"GTA 6 sort le 26 mai 2026. Découvrez comment constituer l'équipe parfaite pour dominer Vice City : sessions à 96 joueurs, braquages, rôles stratégiques et recrutement.","tags":["GTA 6","team-building","multiplayer","heists","crew-finding"],"category":"gaming-communities","slug":"guide-equipe-gta-6-online-vice-city-2026","date_published":"2025-10-29T10:30:00Z","featured_image":"/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp","featured_image_alt":"Skyline de Vice City dans GTA VI avec des joueurs coordonnant un braquage","reading_time":15,"locale":"fr","author":"jynx-team","keywords":["équipe GTA 6 online","crew GTA VI Vice City","braquages GTA 6 2026","trouver coéquipiers GTA 6","constituer équipe GTA VI"]},{"id":"guide-escouade-zombies-black-ops-7","title":"Guide Escouade Black Ops 7 Zombies pour High Rounds","excerpt":"Ashes of the Damned est la plus grande carte zombies de COD jamais créée. Apprenez à constituer l'escouade parfaite de 4 joueurs pour survivre aux high rounds, éviter les coéquipiers toxiques et dominer le Dark Aether de Black Ops 7.","tags":["call-of-duty","black-ops-7","zombies","team-building","multiplayer"],"category":"gaming-communities","slug":"guide-escouade-zombies-black-ops-7","date_published":"2025-10-28T10:00:00Z","featured_image":"/blog-og-default.png","featured_image_alt":"Jynx gaming matchmaking platform","reading_time":13,"locale":"fr","author":"jynx-team","keywords":["black ops 7 zombies","coéquipiers zombies","high rounds zombies","ashes of the damned","équipe cod zombies"]},{"id":"guide-matchmaking-ia-jeux","title":"Le Guide Complet du Matchmaking Gaming Alimenté par l'IA | Jynx","excerpt":"Découvrez comment le matchmaking alimenté par l'IA aide les joueurs à trouver des coéquipiers parfaits en fonction de leurs compétences, leur style de jeu et leur personnalité. Guide complet avec conseils, outils et stratégies.","tags":["IA","matchmaking","gaming","LFG","coéquipiers"],"category":"matchmaking","slug":"guide-matchmaking-ia-jeux","date_published":"2025-10-28T10:00:00Z","featured_image":"/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp","featured_image_alt":"Interface de matchmaking gaming alimentée par IA affichant des scores de compatibilité des joueurs","reading_time":17,"locale":"fr","author":"jynx-team","keywords":["matchmaking gaming","trouver coéquipiers gaming","alternative LFG","coéquipiers IA","matchmaking basé compétences"]},{"id":"halo-campagne-evolved-guide-coop-2026","title":"Halo Campaign Evolved Co-op: Ton Équipe Parfaite 2026","excerpt":"Halo débarque sur PlayStation pour la première fois avec un mode coopératif à 4 joueurs. Voici tout ce que tu dois savoir pour trouver l'équipe parfaite pour les runs en difficulté Légendaire.","tags":["halo","co-op","xbox","playstation","pc-gaming","fps","matchmaking"],"category":"social-gaming","slug":"halo-campagne-evolved-guide-coop-2026","date_published":"2025-10-28T10:00:00Z","featured_image":"/blog-og-default.png","featured_image_alt":"Jynx gaming matchmaking platform","reading_time":13,"locale":"fr","author":"jynx-team","keywords":["halo campaign evolved","halo co-op","halo 2026","trouver coéquipiers halo","difficulté légendaire"]}]}
+{
+  "locale": "fr",
+  "generated_at": "2025-10-29T20:09:02.000Z",
+  "post_count": 4,
+  "posts": [
+    {
+      "id": "guide-equipe-gta-6-online-vice-city-2026",
+      "title": "Guide Ultime Équipe GTA 6 Online Vice City 2026",
+      "excerpt": "GTA 6 sort le 26 mai 2026. Découvrez comment constituer l'équipe parfaite pour dominer Vice City : sessions à 96 joueurs, braquages, rôles stratégiques et recrutement.",
+      "tags": [
+        "GTA 6",
+        "team-building",
+        "multiplayer",
+        "heists",
+        "crew-finding"
+      ],
+      "category": "gaming-communities",
+      "slug": "guide-equipe-gta-6-online-vice-city-2026",
+      "date_published": "2025-10-29T10:30:00Z",
+      "featured_image": "/assets/hero-i6j2afiW.webp",
+      "featured_image_alt": "Skyline de Vice City dans GTA VI avec des joueurs coordonnant un braquage",
+      "reading_time": 15,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "équipe GTA 6 online",
+        "crew GTA VI Vice City",
+        "braquages GTA 6 2026",
+        "trouver coéquipiers GTA 6",
+        "constituer équipe GTA VI"
+      ]
+    },
+    {
+      "id": "guide-escouade-zombies-black-ops-7",
+      "title": "Guide Escouade Black Ops 7 Zombies pour High Rounds",
+      "excerpt": "Ashes of the Damned est la plus grande carte zombies de COD jamais créée. Apprenez à constituer l'escouade parfaite de 4 joueurs pour survivre aux high rounds, éviter les coéquipiers toxiques et dominer le Dark Aether de Black Ops 7.",
+      "tags": [
+        "call-of-duty",
+        "black-ops-7",
+        "zombies",
+        "team-building",
+        "multiplayer"
+      ],
+      "category": "gaming-communities",
+      "slug": "guide-escouade-zombies-black-ops-7",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/blog-og-default.png",
+      "featured_image_alt": "Jynx gaming matchmaking platform",
+      "reading_time": 13,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "black ops 7 zombies",
+        "coéquipiers zombies",
+        "high rounds zombies",
+        "ashes of the damned",
+        "équipe cod zombies"
+      ]
+    },
+    {
+      "id": "guide-matchmaking-ia-jeux",
+      "title": "Le Guide Complet du Matchmaking Gaming Alimenté par l'IA | Jynx",
+      "excerpt": "Découvrez comment le matchmaking alimenté par l'IA aide les joueurs à trouver des coéquipiers parfaits en fonction de leurs compétences, leur style de jeu et leur personnalité. Guide complet avec conseils, outils et stratégies.",
+      "tags": [
+        "IA",
+        "matchmaking",
+        "gaming",
+        "LFG",
+        "coéquipiers"
+      ],
+      "category": "matchmaking",
+      "slug": "guide-matchmaking-ia-jeux",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/hero-i6j2afiW.webp",
+      "featured_image_alt": "Interface de matchmaking gaming alimentée par IA affichant des scores de compatibilité des joueurs",
+      "reading_time": 17,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "matchmaking gaming",
+        "trouver coéquipiers gaming",
+        "alternative LFG",
+        "coéquipiers IA",
+        "matchmaking basé compétences"
+      ]
+    },
+    {
+      "id": "halo-campagne-evolved-guide-coop-2026",
+      "title": "Halo Campaign Evolved Co-op: Ton Équipe Parfaite 2026",
+      "excerpt": "Halo débarque sur PlayStation pour la première fois avec un mode coopératif à 4 joueurs. Voici tout ce que tu dois savoir pour trouver l'équipe parfaite pour les runs en difficulté Légendaire.",
+      "tags": [
+        "halo",
+        "co-op",
+        "xbox",
+        "playstation",
+        "pc-gaming",
+        "fps",
+        "matchmaking"
+      ],
+      "category": "social-gaming",
+      "slug": "halo-campagne-evolved-guide-coop-2026",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/blog-og-default.png",
+      "featured_image_alt": "Jynx gaming matchmaking platform",
+      "reading_time": 13,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "halo campaign evolved",
+        "halo co-op",
+        "halo 2026",
+        "trouver coéquipiers halo",
+        "difficulté légendaire"
+      ]
+    }
+  ]
+}
