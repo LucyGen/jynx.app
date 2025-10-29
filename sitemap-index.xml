@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Pages Sitemap (80+ pages across 16 languages) -->
+  <sitemap>
+    <loc>https://jynx.app/sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+
+  <!-- Blog Posts Sitemap (95+ blog posts across 16 languages) -->
+  <sitemap>
+    <loc>https://jynx.app/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+</sitemapindex>

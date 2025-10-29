@@ -1,29 +1,707 @@
-# Jynx Gaming Platform - Robots.txt
+# ============================================================================
+# JYNX GAMING PLATFORM - ROBOTS.TXT
+# ============================================================================
+# Last Updated: 2025-10-29
+# Site: https://jynx.app
+# Languages: 16 (en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi)
+# Total Pages: 180+ (main pages + 71+ blog posts across all languages)
+# Policy: Open platform - Allow search engines and AI crawlers
+# Strategy: Gaming platforms benefit from AI recommendations and maximum discoverability
+# Contact: contact@jynx.app
+# ============================================================================
+
+
+# ============================================================================
+# DEFAULT RULES - ALL BOTS
+# ============================================================================
+# Open by default - gaming social platforms benefit from discoverability
 User-agent: *
 Allow: /
+
+# --- Protected Directories ---
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
 
-# Sitemap
+# --- Duplicate Content Prevention ---
+# Block search result pages
+Disallow: /search?q=
+Disallow: /*/search?q=
+
+# --- Assets (Critical for Google Rendering) ---
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.webp$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.svg$
+Allow: /assets/
+
+# --- Translation Files (Protect from Indexing) ---
+Disallow: /*.json$
+
+
+# ============================================================================
+# SITEMAPS
+# ============================================================================
+# Master sitemap index (primary entry point for modern crawlers)
+Sitemap: https://jynx.app/sitemap-index.xml
+
+# Individual sitemaps (direct access for maximum compatibility)
 Sitemap: https://jynx.app/sitemap.xml
+Sitemap: https://jynx.app/blog-sitemap.xml
 
-# Crawl-delay for non-Google bots
+
+# ============================================================================
+# MAJOR SEARCH ENGINES
+# ============================================================================
+
+# --- Google (Googlebot) ---
+# No crawl-delay for Google - they have sophisticated rate limiting
+# Note: Protected directories still apply
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# --- Microsoft Bing (Bingbot) ---
 User-agent: Bingbot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
 Crawl-delay: 1
 
+# --- Yahoo (Slurp) ---
 User-agent: Slurp
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
 Crawl-delay: 1
 
-# Block bad bots
+# --- DuckDuckGo (DuckDuckBot) ---
+User-agent: DuckDuckBot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+
+# --- Brave Search ---
+User-agent: Brave-Indexer
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+
+
+# ============================================================================
+# INTERNATIONAL SEARCH ENGINES
+# ============================================================================
+# Critical for multilingual SEO (16 languages)
+
+# --- Yandex (Russia) - For Russian language content ---
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+User-agent: YandexBot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+User-agent: YandexMobileBot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+# --- Baidu (China) - Future expansion ---
+User-agent: Baiduspider
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+User-agent: Baiduspider-mobile
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+# --- Naver (South Korea) - For Korean language content ---
+User-agent: NaverBot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+User-agent: Yeti
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+# --- Seznam (Czech Republic) ---
+User-agent: SeznamBot
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /*.json$
+Allow: /
+Crawl-delay: 5
+
+
+# ============================================================================
+# AI CRAWLERS - ALLOWED WITH RATE LIMITING
+# ============================================================================
+# Strategy: Gaming platforms benefit from AI recommendations and discovery
+# Rate limiting protects server resources while allowing full access
+
+# --- OpenAI (ChatGPT) ---
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: ChatGPT-User
+Allow: /
+Crawl-delay: 10
+
+# --- Anthropic (Claude) ---
+User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 10
+
+User-agent: anthropic-ai
+Allow: /
+Crawl-delay: 10
+
+# --- Google AI (Gemini) ---
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 5
+
+# --- Meta AI (Facebook/Instagram) ---
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+# --- Apple Intelligence ---
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Perplexity AI ---
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 10
+
+# --- Amazon Alexa ---
+User-agent: Amazonbot
+Allow: /
+
+# --- Cohere AI ---
+User-agent: cohere-ai
+Allow: /
+Crawl-delay: 10
+
+# --- You.com ---
+User-agent: YouBot
+Allow: /
+
+# --- Common Crawl (CAUTIOUS) ---
+# Used by many AI companies - Allow with restrictions
+User-agent: CCBot
+Allow: /
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /*/privacy.html
+Disallow: /*/terms.html
+Crawl-delay: 20
+
+
+# ============================================================================
+# AI CRAWLERS - BLOCKED (No Strategic Value)
+# ============================================================================
+
+# --- ByteDance/TikTok (Undisclosed AI usage) ---
+User-agent: Bytespider
+Disallow: /
+
+# --- Huawei (Undisclosed AI usage) ---
+User-agent: PetalBot
+Disallow: /
+
+# --- Commercial Scraping (No value to platform) ---
+User-agent: DataForSeoBot
+Disallow: /
+
+
+# ============================================================================
+# SEO TOOL CRAWLERS - ALLOWED
+# ============================================================================
+# Strategy: Full competitive intelligence access for market positioning
+
+# --- Ahrefs ---
 User-agent: AhrefsBot
-Disallow: /
+Allow: /
 
+# --- Semrush ---
 User-agent: SemrushBot
-Disallow: /
+Allow: /
 
+# --- Majestic ---
 User-agent: MJ12bot
+Allow: /
+
+# --- Moz ---
+User-agent: DotBot
+Allow: /
+
+# --- BLEXBot ---
+User-agent: BLEXBot
+Allow: /
+
+# --- MegaIndex ---
+User-agent: MegaIndex
+Allow: /
+
+# --- Linkpad ---
+User-agent: LinkpadBot
+Allow: /
+
+# --- AspiegelBot ---
+User-agent: AspiegelBot
+Allow: /
+
+
+# ============================================================================
+# SOCIAL MEDIA CRAWLERS - ALLOWED
+# ============================================================================
+# Essential for link previews and social sharing
+
+# --- Facebook ---
+User-agent: facebookexternalhit
+Allow: /
+
+# --- Twitter/X ---
+User-agent: Twitterbot
+Allow: /
+
+# --- LinkedIn ---
+User-agent: LinkedInBot
+Allow: /
+
+# --- Discord ---
+User-agent: Discordbot
+Allow: /
+
+# --- Telegram ---
+User-agent: TelegramBot
+Allow: /
+
+# --- WhatsApp ---
+User-agent: WhatsApp
+Allow: /
+
+
+# ============================================================================
+# BAD BOTS - AGGRESSIVE BLOCKING
+# ============================================================================
+
+# --- Site Copiers / Offline Browsers ---
+User-agent: HTTrack
 Disallow: /
 
-User-agent: DotBot
+User-agent: WebCopier
 Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+# --- Command-line Tools (Recursive) ---
+User-agent: wget
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+# --- Site Downloaders ---
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: PageGrabber
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+# --- Link Checkers (Excessive) ---
+User-agent: Xenu
+Disallow: /
+
+User-agent: LinkChecker
+Crawl-delay: 60
+
+# --- Email Harvesters ---
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+# --- Spam Bots ---
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+# --- Ad Crawlers ---
+User-agent: Mediapartners-Google
+Disallow: /
+
+# --- Additional Malicious Bots ---
+User-agent: Sosospider
+Disallow: /
+
+User-agent: WebLeacher
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: Website Quester
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebWhacker
+Disallow: /
+
+User-agent: Express WebPictures
+Disallow: /
+
+User-agent: BackDoorBot
+Disallow: /
+
+User-agent: Bandit
+Disallow: /
+
+User-agent: BatchFTP
+Disallow: /
+
+User-agent: BlackWidow
+Disallow: /
+
+User-agent: Bot mailto:craftbot@yahoo.com
+Disallow: /
+
+User-agent: BullsEye
+Disallow: /
+
+User-agent: CheeseBot
+Disallow: /
+
+User-agent: CherryPicker
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: cosmos
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: Custo
+Disallow: /
+
+User-agent: DISCo
+Disallow: /
+
+User-agent: DIIbot
+Disallow: /
+
+User-agent: DittoSpyder
+Disallow: /
+
+User-agent: EirGrabber
+Disallow: /
+
+User-agent: EroCrawler
+Disallow: /
+
+User-agent: FlashGet
+Disallow: /
+
+User-agent: GetRight
+Disallow: /
+
+User-agent: GetWeb!
+Disallow: /
+
+User-agent: Go!Zilla
+Disallow: /
+
+User-agent: Go-Ahead-Got-It
+Disallow: /
+
+User-agent: GrabNet
+Disallow: /
+
+User-agent: Grafula
+Disallow: /
+
+User-agent: HMView
+Disallow: /
+
+User-agent: Image Stripper
+Disallow: /
+
+User-agent: Image Sucker
+Disallow: /
+
+User-agent: Indy Library
+Disallow: /
+
+User-agent: InterGET
+Disallow: /
+
+User-agent: Internet Ninja
+Disallow: /
+
+User-agent: JetCar
+Disallow: /
+
+User-agent: JOC Web Spider
+Disallow: /
+
+User-agent: Mass Downloader
+Disallow: /
+
+User-agent: Memo
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: MIDown tool
+Disallow: /
+
+User-agent: Mister PiX
+Disallow: /
+
+User-agent: Navroad
+Disallow: /
+
+User-agent: NearSite
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: NetSpider
+Disallow: /
+
+User-agent: Net Vampire
+Disallow: /
+
+User-agent: NetZIP
+Disallow: /
+
+User-agent: Octopus
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Offline Navigator
+Disallow: /
+
+User-agent: PageGrabber
+Disallow: /
+
+User-agent: Papa Foto
+Disallow: /
+
+User-agent: pavuk
+Disallow: /
+
+User-agent: pcBrowser
+Disallow: /
+
+User-agent: RealDownload
+Disallow: /
+
+User-agent: ReGet
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: SmartDownload
+Disallow: /
+
+User-agent: SuperBot
+Disallow: /
+
+User-agent: SuperHTTP
+Disallow: /
+
+User-agent: Surfbot
+Disallow: /
+
+User-agent: tAkeOut
+Disallow: /
+
+User-agent: Teleport Pro
+Disallow: /
+
+User-agent: VoidEYE
+Disallow: /
+
+User-agent: Web Image Collector
+Disallow: /
+
+User-agent: Web Sucker
+Disallow: /
+
+User-agent: WebAuto
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebFetch
+Disallow: /
+
+User-agent: WebGo IS
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: Website eXtractor
+Disallow: /
+
+User-agent: Webster Pro
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebWhacker
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: Widow
+Disallow: /
+
+User-agent: WWWOFFLE
+Disallow: /
+
+User-agent: Xaldon WebSpider
+Disallow: /
+
+User-agent: Zeus
+Disallow: /
+
+
+# ============================================================================
+# END OF ROBOTS.TXT
+# ============================================================================
+# Testing: https://search.google.com/search-console (robots.txt Tester)
+# Validation: https://www.google.com/ping?sitemap=https://jynx.app/sitemap-index.xml
+# Contact: contact@jynx.app
+# Documentation: See /docs/guides/robots-txt-strategy.md
+# ============================================================================
