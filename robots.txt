@@ -700,8 +700,7 @@ Disallow: /
 # ============================================================================
 # END OF ROBOTS.TXT
 # ============================================================================
-# Testing: https://search.google.com/search-console (robots.txt Tester)
-# Validation: https://www.google.com/ping?sitemap=https://jynx.app/sitemap-index.xml
+# 
 # Contact: contact@jynx.app
-# Documentation: See /docs/guides/robots-txt-strategy.md
+#
 # ============================================================================
