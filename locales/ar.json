@@ -1181,9 +1181,9 @@
       "twitter_image_alt": "تطبيق Jynx للهاتف المحمول"
     },
     "hero": {
-      "title": "Jynx - منصة الألعاب الاجتماعية",
       "subtitle": "تواصل مع اللاعبين، ابحث عن زملاء الفريق، انضم إلى المجتمعات",
-      "status": "قريبًا: متاح على iOS و Android"
+      "title_line1": "Jynx",
+      "title_line2": "منصة الألعاب الاجتماعية"
     },
     "store": {
       "app_store": {

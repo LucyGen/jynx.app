@@ -1181,9 +1181,9 @@
       "twitter_image_alt": "Jynx Mobil Uygulaması"
     },
     "hero": {
-      "title": "Platformunuzda <span class=\"highlight\">Jynx İndirin</span>",
       "subtitle": "Tüm cihazlarda mevcut. Takım arkadaşlarınızla her zaman her yerde bağlantıda kalın.",
-      "status": "Yakında: iOS ve Android'de Mevcut"
+      "title_line1": "Jynx",
+      "title_line2": "Oyun Sosyal Platformu"
     },
     "store": {
       "app_store": {

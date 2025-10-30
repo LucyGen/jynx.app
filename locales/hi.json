@@ -1181,9 +1181,9 @@
       "twitter_image_alt": "Jynx मोबाइल ऐप"
     },
     "hero": {
-      "title": "Jynx - Gaming Social Platform",
       "subtitle": "Gamers के साथ connect करें, teammates खोजें, communities में शामिल हों",
-      "status": "Coming Soon: iOS और Android पर उपलब्ध"
+      "title_line1": "Jynx",
+      "title_line2": "गेमिंग सोशल प्लेटफॉर्म"
     },
     "store": {
       "app_store": {

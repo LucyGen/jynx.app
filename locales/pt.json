@@ -1241,9 +1241,9 @@
       "twitter_image_alt": "App Móvel Jynx"
     },
     "hero": {
-      "title": "Jynx - Plataforma Social Gaming",
       "subtitle": "Conecte-se com gamers, encontre companheiros, junte-se a comunidades",
-      "status": "Em Breve: Disponível no iOS e Android"
+      "title_line1": "Jynx",
+      "title_line2": "Plataforma Social de Gaming"
     },
     "store": {
       "app_store": {

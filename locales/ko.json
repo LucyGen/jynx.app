@@ -1174,9 +1174,9 @@
       "twitter_image_alt": "Jynx 모바일 앱"
     },
     "hero": {
-      "title": "귀하의 플랫폼에서 <span class=\"highlight\">Jynx 다운로드</span>",
       "subtitle": "모든 장치에서 사용 가능. 언제 어디서나 팀원과 연결 상태를 유지하세요.",
-      "status": "출시 예정: iOS 및 Android에서 사용 가능"
+      "title_line1": "Jynx",
+      "title_line2": "게임 소셜 플랫폼"
     },
     "features": {
       "title": "모든 플랫폼에서 동일한 훌륭한 경험",

@@ -1181,9 +1181,9 @@
       "twitter_image_alt": "Jynx ডাউনলোড"
     },
     "hero": {
-      "title": "আপনার প্ল্যাটফর্মের জন্য Jynx পান",
       "subtitle": "Windows, macOS, iOS, এবং Android এ উপলব্ধ। সব ডিভাইস জুড়ে আপনার গেমিং কমিউনিটির সাথে সংযুক্ত থাকুন।",
-      "status": "শীঘ্রই আসছে: iOS এবং Android-এ উপলব্ধ"
+      "title_line1": "Jynx",
+      "title_line2": "গেমিং সোশ্যাল প্ল্যাটফর্ম"
     },
     "features": {
       "title": "মোবাইলে কী আসছে",

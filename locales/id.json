@@ -1241,9 +1241,9 @@
       "twitter_image_alt": "Aplikasi Mobile Jynx"
     },
     "hero": {
-      "title": "Jynx - Platform Sosial Gaming",
       "subtitle": "Terhubung dengan gamer, temukan rekan tim, bergabung dengan komunitas",
-      "status": "Segera Hadir: Tersedia di iOS dan Android"
+      "title_line1": "Jynx",
+      "title_line2": "Platform Sosial Gaming"
     },
     "store": {
       "app_store": {
