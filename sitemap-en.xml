@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://jynx.app/about.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/about.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/about.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/about.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/about.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/about.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/about.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/about.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/about.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/about.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/about.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/about.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/about.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/about.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/about.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/about.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/about.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/about.html" />
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/jynx_character.png</image:loc>
+      <image:caption>Meet the Jynx team</image:caption>
+      <image:title>About Jynx Gaming Platform</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://jynx.app/download.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/download.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/download.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/download.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/download.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/download.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/download.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/download.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/download.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/download.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/download.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/download.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/download.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/download.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/download.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/download.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/download.html" />
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/landing-page.webp</image:loc>
+      <image:caption>Download Jynx gaming app</image:caption>
+      <image:title>Jynx App Download</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://jynx.app/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/" />
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/jynx_character.png</image:loc>
+      <image:caption>Jynx Gaming Platform Character</image:caption>
+      <image:title>Jynx Community Mascot</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/match-queue-mockup.png</image:loc>
+      <image:caption>Intelligent matchmaking queue interface</image:caption>
+      <image:title>Jynx Smart Matchmaking System</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/community-mockup.png</image:loc>
+      <image:caption>Community building features</image:caption>
+      <image:title>Jynx Community Platform</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/gobal-chat-mockup.png</image:loc>
+      <image:caption>Global chat for gamers</image:caption>
+      <image:title>Jynx Global Gaming Chat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jynx.app/assets/images/splash/game-session-mockup.png</image:loc>
+      <image:caption>Gaming session coordination</image:caption>
+      <image:title>Jynx Gaming Sessions</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://jynx.app/privacy.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/privacy.html" />
+  </url>
+
+  <url>
+    <loc>https://jynx.app/search.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/search.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/search.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/search.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/search.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/search.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/search.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/search.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/search.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/search.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/search.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/search.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/search.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/search.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/search.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/search.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/search.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/search.html" />
+  </url>
+
+  <url>
+    <loc>https://jynx.app/terms.html</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/terms.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/terms.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/terms.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/terms.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/terms.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/terms.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/terms.html" />
+  </url>
+
+</urlset>

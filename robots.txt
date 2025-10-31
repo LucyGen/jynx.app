@@ -1,10 +1,11 @@
 # ============================================================================
 # JYNX GAMING PLATFORM - ROBOTS.TXT
 # ============================================================================
-# Last Updated: 2025-10-29
+# Last Updated: 2025-10-31
 # Site: https://jynx.app
 # Languages: 16 (en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi)
-# Total Pages: 180+ (main pages + 71+ blog posts across all languages)
+# Total Pages: 230+ (6 main pages + 119 blog posts × 16 languages)
+# Sitemaps: 32 language-separated sitemaps (16 main + 16 blog) via sitemap-index.xml
 # Policy: Open platform - Allow search engines and AI crawlers
 # Strategy: Gaming platforms benefit from AI recommendations and maximum discoverability
 # Contact: contact@jynx.app
@@ -44,12 +45,11 @@ Disallow: /*.json$
 # ============================================================================
 # SITEMAPS
 # ============================================================================
-# Master sitemap index (primary entry point for modern crawlers)
+# Master sitemap index (references all 32 language-separated sitemaps)
+# This is the primary entry point - it includes:
+#   - 16 main page sitemaps (sitemap-en.xml, sitemap-fr.xml, etc.)
+#   - 16 blog sitemaps (blog-sitemap-en.xml, blog-sitemap-fr.xml, etc.)
 Sitemap: https://jynx.app/sitemap-index.xml
-
-# Individual sitemaps (direct access for maximum compatibility)
-Sitemap: https://jynx.app/sitemap.xml
-Sitemap: https://jynx.app/blog-sitemap.xml
 
 
 # ============================================================================
