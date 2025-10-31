@@ -47,8 +47,9 @@ Disallow: /*.json$
 # ============================================================================
 # Master sitemap index (references all 32 language-separated sitemaps)
 # This is the primary entry point - it includes:
-#   - 16 main page sitemaps (sitemap-en.xml, sitemap-fr.xml, etc.)
-#   - 16 blog sitemaps (blog-sitemap-en.xml, blog-sitemap-fr.xml, etc.)
+#   - English sitemaps: sitemap.xml, blog-sitemap.xml (at root)
+#   - Localized sitemaps: {lang}/sitemap.xml, {lang}/blog-sitemap.xml (in subdirectories)
+#   - 16 languages total: en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi
 Sitemap: https://jynx.app/sitemap-index.xml
 
 
