@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://jynx.app/blog-sitemap-ar.xml</loc>
+    <loc>https://jynx.app/blog-sitemap.xml</loc>
     <lastmod>2025-10-29</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/blog-sitemap-bn.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-de.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-en.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-es.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-fr.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-hi.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-id.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-it.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-ko.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-pl.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-pt.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-ru.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-tr.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-uk.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/blog-sitemap-vi.xml</loc>
-    <lastmod>2025-10-29</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://jynx.app/sitemap-ar.xml</loc>
+    <loc>https://jynx.app/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-bn.xml</loc>
+    <loc>https://jynx.app/ar/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/ar/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-de.xml</loc>
+    <loc>https://jynx.app/bn/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/bn/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-en.xml</loc>
+    <loc>https://jynx.app/de/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/de/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-es.xml</loc>
+    <loc>https://jynx.app/es/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/es/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-fr.xml</loc>
+    <loc>https://jynx.app/fr/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/fr/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-hi.xml</loc>
+    <loc>https://jynx.app/hi/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/hi/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-id.xml</loc>
+    <loc>https://jynx.app/id/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/id/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-it.xml</loc>
+    <loc>https://jynx.app/it/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/it/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-ko.xml</loc>
+    <loc>https://jynx.app/ko/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/ko/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-pl.xml</loc>
+    <loc>https://jynx.app/pl/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/pl/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-pt.xml</loc>
+    <loc>https://jynx.app/pt/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/pt/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-ru.xml</loc>
+    <loc>https://jynx.app/ru/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/ru/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-tr.xml</loc>
+    <loc>https://jynx.app/tr/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/tr/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-uk.xml</loc>
+    <loc>https://jynx.app/uk/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/uk/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://jynx.app/sitemap-vi.xml</loc>
+    <loc>https://jynx.app/vi/blog-sitemap.xml</loc>
+    <lastmod>2025-10-29</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/vi/sitemap.xml</loc>
     <lastmod>2025-10-31</lastmod>
   </sitemap>
 </sitemapindex>
