@@ -1,7 +1,7 @@
 {
   "locale": "it",
-  "generated_at": "2025-10-31T21:44:13.893Z",
-  "post_count": 9,
+  "generated_at": "2025-10-31T23:18:49.658Z",
+  "post_count": 8,
   "posts": [
     {
       "id": "guida-team-building-gta-6-online-vice-city-2026",
@@ -35,7 +35,7 @@
     },
     {
       "id": "ai-coaches-competitive-gaming",
-      "title": "L'Ascesa degli AI Coach nel Gaming Competitivo | Jynx",
+      "title": "L'Ascesa degli AI Coach nel Gaming Competitivo",
       "excerpt": "Gli strumenti di analisi delle performance e i sistemi di ottimizzazione strategica stanno trasformando il modo in cui i gamer competitivi si allenano e migliorano le proprie abilità.",
       "tags": [
         "competitive-gaming",
@@ -61,35 +61,8 @@
       ]
     },
     {
-      "id": "ai-gaming-matchmaking-guide",
-      "title": "La Guida Completa al Matchmaking Gaming Potenziato | Jynx",
-      "excerpt": "Scopri come il matchmaking potenziato dall'IA aiuta i gamer a trovare compagni perfetti basati su abilità, stile di gioco e personalità. Guida completa con consigli, strumenti e strategie.",
-      "tags": [
-        "AI",
-        "matchmaking",
-        "gaming",
-        "LFG",
-        "teammates"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-gaming-matchmaking-guide",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-UebGjjju.webp",
-      "featured_image_alt": "Interfaccia di matchmaking gaming potenziato dall'IA che mostra punteggi di compatibilità dei giocatori",
-      "reading_time": 15,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "matchmaking gaming",
-        "trovare compagni gaming",
-        "alternativa LFG",
-        "compagni IA",
-        "matchmaking basato abilità"
-      ]
-    },
-    {
       "id": "cs2-non-toxic-teammates",
-      "title": "Trovare Compagni CS2 Non Tossici: Guida 2025 | Jynx",
+      "title": "Trovare Compagni CS2 Non Tossici: Guida 2025",
       "excerpt": "Impara a identificare red flag e green flag quando cerchi compagni di Counter-Strike 2. Strategie di vetting provate e raccomandazioni della community per costruire squad senza tossicità.",
       "tags": [
         "counter-strike-2",
@@ -116,7 +89,7 @@
     },
     {
       "id": "guida-matchmaking-ia-gaming",
-      "title": "La Guida Completa al Matchmaking Gaming Basato su IA | Jynx",
+      "title": "La Guida Completa al Matchmaking Gaming Basato su IA",
       "excerpt": "Scopri come il matchmaking basato su IA aiuta i giocatori a trovare compagni di squadra perfetti in base a skill, stile di gioco e personalità. Guida completa con consigli, strumenti e strategie.",
       "tags": [
         "AI",
@@ -199,7 +172,7 @@
     },
     {
       "id": "small-gaming-groups-vs-clans",
-      "title": "Perché i Piccoli Gruppi Gaming Superano i Grandi Clan | Jynx",
+      "title": "Perché i Piccoli Gruppi Gaming Superano i Grandi Clan",
       "excerpt": "Scopri perché i gruppi gaming intimi di 8-15 giocatori superano costantemente i clan di 100+ membri in coordinazione, lealtà e successo a lungo termine. La scienza dietro la dimensione ottimale del team.",
       "tags": [
         "gaming-groups",
@@ -227,7 +200,7 @@
     },
     {
       "id": "wrong-gaming-squad-signs",
-      "title": "5 Segni Che Stai Giocando con lo Squad Gaming | Jynx",
+      "title": "5 Segni Che Stai Giocando con lo Squad Gaming",
       "excerpt": "Riconosci le red flag che indicano che il tuo squad gaming ti sta trattenendo, dai breakdown di comunicazione agli obiettivi disallineati e comportamenti tossici.",
       "tags": [
         "gaming-squad",

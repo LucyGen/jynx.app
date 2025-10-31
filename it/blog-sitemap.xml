@@ -54,19 +54,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp</image:loc>
       <image:caption>Gamer professionista che analizza statistiche di performance e metriche di gameplay</image:caption>
-      <image:title>L&apos;Ascesa degli AI Coach nel Gaming Competitivo | Jynx</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/it/blog/ai-gaming-matchmaking-guide.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
-      <image:caption>Interfaccia di matchmaking gaming potenziato dall&apos;IA che mostra punteggi di compatibilità dei giocatori</image:caption>
-      <image:title>La Guida Completa al Matchmaking Gaming Potenziato | Jynx</image:title>
+      <image:title>L&apos;Ascesa degli AI Coach nel Gaming Competitivo</image:title>
     </image:image>
   </url>
   <url>
@@ -80,7 +68,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/cs2-non-toxic-teammates/hero.webp</image:loc>
       <image:caption>Team CS2 che comunica positivamente durante partita competitiva</image:caption>
-      <image:title>Trovare Compagni CS2 Non Tossici: Guida 2025 | Jynx</image:title>
+      <image:title>Trovare Compagni CS2 Non Tossici: Guida 2025</image:title>
     </image:image>
   </url>
   <url>
@@ -107,7 +95,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
       <image:caption>Interfaccia di matchmaking gaming basato su IA che mostra punteggi di compatibilità tra giocatori</image:caption>
-      <image:title>La Guida Completa al Matchmaking Gaming Basato su IA | Jynx</image:title>
+      <image:title>La Guida Completa al Matchmaking Gaming Basato su IA</image:title>
     </image:image>
   </url>
   <url>
@@ -174,7 +162,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/small-gaming-groups-vs-clans/hero.webp</image:loc>
       <image:caption>Piccolo gruppo gaming affiatato che gioca insieme</image:caption>
-      <image:title>Perché i Piccoli Gruppi Gaming Superano i Grandi Clan | Jynx</image:title>
+      <image:title>Perché i Piccoli Gruppi Gaming Superano i Grandi Clan</image:title>
     </image:image>
   </url>
   <url>
@@ -187,7 +175,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/wrong-gaming-squad-signs/hero.webp</image:loc>
       <image:caption>Gamer frustrato che sperimenta problemi di comunicazione nel team</image:caption>
-      <image:title>5 Segni Che Stai Giocando con lo Squad Gaming | Jynx</image:title>
+      <image:title>5 Segni Che Stai Giocando con lo Squad Gaming</image:title>
     </image:image>
   </url>
 </urlset>

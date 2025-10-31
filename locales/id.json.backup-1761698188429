@@ -1,0 +1,1552 @@
+{
+  "meta": {
+    "title": "Aplikasi Matchmaking Gaming | Temukan Rekan LFG | Jynx",
+    "description": "Jynx adalah alternatif terbaik untuk platform LFG tradisional. Temukan rekan tim gaming sempurna melalui matchmaking cerdas berdasarkan skill, gaya bermain, dan jadwal. Bergabunglah dengan gamer berkualitas hari ini.",
+    "keywords": "aplikasi matchmaking gaming, smart matchmaking, temukan rekan tim gaming, platform sosial gaming, alternatif LFG, pencari squad gaming, gaming kompetitif, komunitas gaming, matchmaking esports, rekan tim League of Legends, matchmaking Valorant",
+    "og_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
+    "og_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabung dengan 10.000+ gamer. Gratis selamanya.",
+    "og_image_alt": "Platform Matchmaking Gaming Jynx - Temukan Squad Sempurna Anda",
+    "twitter_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
+    "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabung dengan 10.000+ gamer. Gratis selamanya.",
+    "twitter_image_alt": "Platform Matchmaking Gaming Jynx"
+  },
+  "about": {
+    "meta": {
+      "title": "Jynx | Tentang Kami",
+      "description": "Pelajari lebih lanjut tentang Jynx, platform komunitas gaming yang mengubah gaming solo menjadi pengalaman sosial.",
+      "og_title": "Tentang Jynx - Kenali Tim di Balik Smart Gaming Matchmaking",
+      "og_description": "Didirikan oleh gamer untuk gamer. Pelajari misi Jynx untuk mengubah gaming solo menjadi pengalaman sosial.",
+      "og_image_alt": "Tim Jynx dan Tinjauan Platform",
+      "twitter_title": "Tentang Jynx - Platform Matchmaking Gaming Cerdas",
+      "twitter_description": "Didirikan oleh gamer untuk gamer. Pelajari misi Jynx.",
+      "twitter_image_alt": "Tentang Platform Jynx"
+    },
+    "title": "Tentang Jynx",
+    "subtitle": "Mengubah gaming dari solo menjadi sosial",
+    "story": {
+      "title": "Kisah Kami",
+      "p1": "Didirikan pada tahun 2024, Jynx lahir dari visi yang sederhana namun kuat: mengubah cara gamer terhubung dan bermain bersama. Kami memahami frustrasi membuang waktu gaming berharga untuk mencari rekan tim yang kompatibel atau kesulitan menemukan pemain yang sesuai dengan level skill dan gaya gaming Anda.",
+      "p2": "Platform kami berfungsi sebagai jembatan antara pengalaman gaming solo dan team play yang memuaskan, memungkinkan Anda dengan cepat menemukan teman gaming sempurna berdasarkan level skill, gaya bermain, dan kepribadian."
+    },
+    "problem": {
+      "title": "Masalah yang Kami Selesaikan",
+      "intro": "Sebagai gamer sendiri, kami mengalami tantangan ini secara langsung:",
+      "points": {
+        "time": "Menghabiskan lebih banyak waktu mencari rekan tim daripada benar-benar bermain",
+        "mismatch": "Dipasangkan dengan pemain yang skill atau tujuannya tidak sejalan dengan Anda",
+        "disconnected": "Merasa terputus dari komunitas gaming yang lebih luas",
+        "relationships": "Kesulitan membangun hubungan gaming yang langgeng"
+      },
+      "conclusion": "Jynx mengatasi masalah-masalah ini dengan sistem matchmaking inovatif yang dirancang khusus untuk gamer, oleh gamer."
+    },
+    "founders": {
+      "title": "Pendiri Kami",
+      "arthur": {
+        "name": "Arthur Bonvallet",
+        "role": "Co-Founder & Product Owner",
+        "bio": "Seorang gamer yang bersemangat dan spesialis produk berpengalaman dari Paris, Arthur membawa pemahaman mendalam tentang pengalaman pengguna dan pengembangan produk ke Jynx. Visinya mendorong desain intuitif dan fitur-fitur platform kami."
+      },
+      "antoine": {
+        "name": "Antoine Haie",
+        "role": "Co-Founder & Lead Developer",
+        "bio": "Keahlian teknis Antoine sebagai fullstack developer menggerakkan platform Jynx. Berbasis di Paris, latar belakang gaming-nya dikombinasikan dengan keterampilan teknisnya memastikan platform kami memberikan pengalaman mulus untuk gamer dari semua level."
+      }
+    },
+    "features": {
+      "title": "Yang Membuat Jynx Berbeda",
+      "elo": {
+        "title": "Antrean Match Berbasis ELO",
+        "description": "Algoritma matching canggih kami mempertimbangkan level skill (ELO) Anda untuk menghubungkan Anda dengan rekan tim dan lawan yang memberikan tingkat tantangan dan kompatibilitas yang tepat."
+      },
+      "chat": {
+        "title": "Sistem Chat Global",
+        "description": "Tetap terhubung dengan komunitas gaming yang lebih luas melalui sistem chat global kami yang hidup, di mana Anda dapat membahas strategi, berbagi pengalaman, atau sekadar bergaul dengan sesama gamer."
+      },
+      "guilds": {
+        "title": "Komunitas Berbasis Guild",
+        "description": "Temukan rumah gaming Anda dengan sistem \"guild\" unik kami. Bergabung dengan komunitas yang ada berdasarkan game favorit atau gaya bermain Anda, atau buat guild Anda sendiri dan menjadi pemimpin komunitas. Bangun reputasi Anda, bentuk budaya tim, dan kembangkan jaringan sekutu gaming Anda."
+      }
+    },
+    "for_everyone": {
+      "title": "Untuk Setiap Gamer",
+      "p1": "Baik Anda pemain kasual yang mencari teman bermain yang menyenangkan atau gamer kompetitif yang mencari rekan tim serius untuk turnamen, Jynx menyambut semua. Platform kami mendukung komunitas di semua jenis game, genre, dan platform.",
+      "p2": "Tidak melihat komunitas untuk game favorit Anda? Buat satu dan menjadi pemimpin pendirinya! Di Jynx, kami percaya dalam memberdayakan gamer untuk membangun dan memelihara ruang mereka sendiri."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "p1": "Jynx lebih dari sekadar platform—ini adalah komunitas gamer yang berkembang yang percaya bahwa gaming lebih baik bersama. Kami baru saja memulai, dan kami mengundang Anda untuk menjadi bagian dari perjalanan kami saat kami merevolusi cara gamer terhubung, bersaing, dan berkolaborasi.",
+      "p2": "Game on!"
+    },
+    "cta": {
+      "title": "Bergabung dengan Komunitas Jynx",
+      "description": "Jadilah yang pertama mengalami cara baru menemukan squad gaming sempurna Anda",
+      "button": "Bergabung dengan Waitlist"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Jynx | Kebijakan Privasi",
+      "description": "Pelajari bagaimana Jynx melindungi privasi Anda dan menangani data Anda. Kebijakan privasi transparan kami menguraikan praktik kami dan hak Anda.",
+      "og_title": "Kebijakan Privasi Jynx - Perlindungan Data Anda",
+      "og_description": "Kebijakan privasi transparan menguraikan bagaimana Jynx menangani data gaming Anda.",
+      "og_image_alt": "Kebijakan Privasi Jynx",
+      "twitter_title": "Kebijakan Privasi Jynx",
+      "twitter_description": "Pelajari bagaimana kami melindungi data Anda dan menghormati privasi Anda.",
+      "twitter_image_alt": "Kebijakan Privasi"
+    },
+    "title": "Kebijakan Privasi",
+    "last_updated": "Terakhir diperbarui: Oktober 2025",
+    "version": "Versi: 1.0",
+    "intro": {
+      "title": "1. Pendahuluan",
+      "p1": "Jynx (\"kami\", \"kami\", \"aplikasi\") adalah platform gaming sosial yang memungkinkan pemain untuk terhubung, membentuk tim, dan bermain bersama.",
+      "legal_info": "Informasi Hukum:",
+      "entity_label": "Entitas Hukum:",
+      "entity": "Jynx Group",
+      "dpo_label": "Kontak Petugas Privasi:",
+      "dpo": "dpo@jynx.app",
+      "jurisdiction_label": "Yurisdiksi:",
+      "jurisdiction": "Prancis, Uni Eropa (Kepatuhan GDPR)",
+      "p2": "Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, berbagi, dan melindungi data pribadi Anda saat Anda menggunakan aplikasi kami."
+    },
+    "age_verification": {
+      "title": "2. Usia Minimum dan Verifikasi",
+      "p1": "Aplikasi kami diperuntukkan bagi pengguna berusia 18 tahun ke atas.",
+      "p2": "Saat membuat akun Anda, kami meminta Anda untuk memberikan tanggal lahir. Jika Anda berusia di bawah 18 tahun, Anda tidak akan dapat membuat akun atau menggunakan layanan kami."
+    },
+    "data_collected": {
+      "title": "3. Data yang Dikumpulkan",
+      "registration": {
+        "title": "3.1. Data Registrasi dan Profil",
+        "intro": "Kami mengumpulkan informasi berikut saat membuat dan mengelola akun Anda:"
+      },
+      "auth": {
+        "title": "Informasi Autentikasi:",
+        "email": "Email (untuk akun email/password)",
+        "username": "Username/nickname",
+        "photo": "Foto profil (opsional)",
+        "social": "Identifier login sosial (Google, Apple) jika Anda menggunakan metode ini"
+      },
+      "profile": {
+        "title": "Informasi Profil:",
+        "birthdate": "Tanggal lahir (untuk verifikasi usia)",
+        "location": "Negara dan zona waktu",
+        "languages": "Bahasa yang digunakan",
+        "bio": "Biografi (opsional)",
+        "preferences": "Preferensi gaming dan ketersediaan",
+        "handle": "Handle unik (dibuat otomatis untuk penemuan teman pribadi)"
+      },
+      "gaming": {
+        "title": "3.2. Data Gaming",
+        "intro": "Untuk membantu Anda menemukan rekan tim yang kompatibel, kami mengumpulkan:"
+      },
+      "game_profiles": {
+        "title": "Profil Game:",
+        "games": "Game yang Anda mainkan",
+        "ranks": "Level, rank, dan statistik game",
+        "champions": "Champion/karakter favorit",
+        "playstyle": "Gaya bermain"
+      },
+      "riot": {
+        "title": "Integrasi Riot Games API:",
+        "intro": "Kami mengambil dari Riot Games API (dengan persetujuan Anda):",
+        "summoner": "Nama summoner dan Riot ID",
+        "rank": "Rank dan riwayat pertandingan (League of Legends, Valorant, dll.)",
+        "stats": "Statistik champion",
+        "matches": "Riwayat pertandingan terkini",
+        "reason_label": "Alasan Pengumpulan:",
+        "reason": "Menampilkan profil pemain Anda dan meningkatkan matching dengan pemain lain."
+      },
+      "technical": {
+        "title": "3.3. Data Penggunaan dan Teknis",
+        "intro": "Kami secara otomatis mengumpulkan data teknis tertentu:"
+      },
+      "analytics": {
+        "title": "Analitik dan Performa:",
+        "firebase_label": "Firebase Performance Monitoring:",
+        "firebase": "Waktu startup aplikasi, kelancaran antarmuka",
+        "sentry_label": "Sentry:",
+        "sentry": "Laporan error dan performa (dengan anonimisasi data pribadi)",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Laporan crash",
+        "disable": "Anda dapat menonaktifkan pengumpulan data analitik di Pengaturan > Privasi > \"Aktifkan Analitik\"."
+      },
+      "device": {
+        "title": "Informasi Perangkat:",
+        "type": "Jenis dan model perangkat",
+        "os": "Versi sistem operasi",
+        "app_version": "Versi aplikasi"
+      },
+      "behavior": {
+        "title": "Perilaku Pengguna:",
+        "screens": "Layar yang dikunjungi dan fitur yang digunakan",
+        "time": "Waktu yang dihabiskan di aplikasi",
+        "interactions": "Interaksi antarmuka"
+      },
+      "communication": {
+        "title": "3.4. Data Komunikasi",
+        "messages_label": "Pesan:",
+        "messages": "Pesan dalam chat komunitas, pesan pribadi antar pengguna, riwayat percakapan",
+        "notifications_label": "Notifikasi:",
+        "notifications": "Token FCM (Firebase Cloud Messaging) untuk notifikasi push"
+      },
+      "user_content": {
+        "title": "3.5. Konten yang Dibuat Pengguna",
+        "photos": "Foto yang diunggah (gambar profil, foto tambahan)",
+        "reports": "Laporan keamanan dan moderasi",
+        "cosmetics": "Preferensi kosmetik (avatar, badge)"
+      }
+    },
+    "third_party": {
+      "title": "4. Layanan Pihak Ketiga dan Berbagi Data",
+      "firebase": {
+        "title": "4.1. Layanan Firebase (Google)",
+        "intro": "Kami menggunakan layanan Firebase berikut, semua mematuhi GDPR:",
+        "auth_label": "Firebase Authentication:",
+        "auth": "Manajemen akun pengguna yang aman",
+        "firestore_label": "Cloud Firestore:",
+        "firestore": "Penyimpanan profil dan data game Anda",
+        "storage_label": "Firebase Storage:",
+        "storage": "Hosting gambar profil Anda",
+        "functions_label": "Cloud Functions:",
+        "functions": "Eksekusi logika backend yang aman",
+        "messaging_label": "Firebase Cloud Messaging:",
+        "messaging": "Notifikasi push",
+        "appcheck_label": "Firebase App Check:",
+        "appcheck": "Perlindungan terhadap penyalahgunaan dan bot",
+        "performance_label": "Firebase Performance Monitoring:",
+        "performance": "Pemantauan performa aplikasi",
+        "crashlytics_label": "Firebase Crashlytics:",
+        "crashlytics": "Laporan crash",
+        "policy_label": "Kebijakan Privasi Firebase:",
+        "policy": "https://firebase.google.com/support/privacy"
+      },
+      "sentry": {
+        "title": "4.2. Sentry (Pemantauan Error)",
+        "intro": "Kami menggunakan Sentry untuk pelacakan error dan performa. Data yang dikumpulkan termasuk:",
+        "traces": "Jejak error",
+        "context": "Konteks teknis (OS, versi aplikasi)",
+        "policy_label": "Kebijakan Privasi Sentry:",
+        "policy": "https://sentry.io/privacy/"
+      },
+      "riot": {
+        "title": "4.3. Riot Games API",
+        "p1": "Saat Anda menghubungkan akun Riot Games, kami mengambil statistik game Anda melalui API resmi Riot Games. Data ini hanya digunakan untuk menampilkan profil Anda dan meningkatkan matching.",
+        "policy_label": "Kebijakan Privasi Riot Games:",
+        "policy": "https://www.riotgames.com/en/privacy-notice"
+      }
+    },
+    "data_usage": {
+      "title": "5. Penggunaan Data",
+      "intro": "Kami menggunakan data Anda untuk:",
+      "services": {
+        "title": "1. Menyediakan Layanan Kami:",
+        "account": "Membuat dan mengelola akun Anda",
+        "connect": "Memungkinkan Anda terhubung dengan pemain lain",
+        "teams": "Memfasilitasi pembuatan tim dan organisasi sesi gaming"
+      },
+      "personalization": {
+        "title": "2. Personalisasi:",
+        "matching": "Merekomendasikan rekan tim yang kompatibel (matching berbasis game, rank, gaya)",
+        "content": "Menampilkan konten yang relevan"
+      },
+      "communication": {
+        "title": "3. Komunikasi:",
+        "notifications": "Mengirim notifikasi penting (match ditemukan, pesan diterima)"
+      },
+      "improvement": {
+        "title": "4. Peningkatan Layanan:",
+        "analyze": "Menganalisis penggunaan untuk meningkatkan fitur",
+        "bugs": "Mengidentifikasi dan memperbaiki bug",
+        "performance": "Mengoptimalkan performa"
+      },
+      "security": {
+        "title": "5. Keamanan dan Kepatuhan:",
+        "fraud": "Mencegah penipuan dan penyalahgunaan",
+        "terms": "Menegakkan ketentuan penggunaan kami",
+        "legal": "Mematuhi kewajiban hukum"
+      }
+    },
+    "retention": {
+      "title": "6. Penyimpanan Data",
+      "periods": {
+        "title": "6.1. Periode Penyimpanan",
+        "profile_label": "Data Profil:",
+        "profile": "Disimpan selama akun Anda aktif",
+        "analytics_label": "Log dan Analitik:",
+        "analytics": "Firebase Analytics: 14 bulan (kebijakan Firebase)"
+      },
+      "deletion": {
+        "title": "6.2. Penghapusan Data",
+        "p1": "Anda dapat meminta penghapusan akun Anda kapan saja (lihat Bagian 7).",
+        "legal_label": "Penyimpanan Hukum:",
+        "legal": "Beberapa data mungkin disimpan lebih lama untuk mematuhi kewajiban hukum kami (misalnya, laporan keamanan, transaksi keuangan)."
+      }
+    },
+    "rights": {
+      "title": "7. Hak Anda (GDPR)",
+      "intro": "Berdasarkan GDPR, Anda memiliki hak-hak berikut:",
+      "access": {
+        "title": "7.1. Hak Akses",
+        "p1": "Anda dapat meminta salinan semua data yang kami simpan tentang Anda.",
+        "how_label": "Cara menggunakan hak ini:",
+        "how": "Pengaturan > Privasi > \"Ekspor Data Saya\"",
+        "process": "Proses ini menghasilkan file JSON yang berisi semua data Anda (profil, pesan, statistik, dll.). Link download berlaku selama 7 hari."
+      },
+      "rectification": {
+        "title": "7.2. Hak Pembetulan",
+        "p1": "Anda dapat mengubah informasi profil Anda kapan saja dari aplikasi (username, bio, preferensi, dll.)."
+      },
+      "erasure": {
+        "title": "7.3. Hak Penghapusan (\"Hak untuk Dilupakan\")",
+        "p1": "Anda dapat meminta penghapusan akun Anda.",
+        "how_label": "Cara menggunakan hak ini:",
+        "how": "Pengaturan > Zona Bahaya > \"Hapus Akun Saya\"",
+        "process": {
+          "title": "Proses Penghapusan Otomatis:",
+          "step1": "Konfirmasi dua langkah untuk mencegah penghapusan tidak sengaja",
+          "step2": "Anonimisasi langsung data pribadi Anda (Firestore)",
+          "step3": "Penghapusan akun Firebase Authentication Anda (secara otomatis mencabut semua token OAuth)",
+          "step4": "ID anonim disediakan sebagai referensi",
+          "step5": "Opsi untuk menghapus pesan dan konten yang dibuat"
+        },
+        "important_label": "Penting:",
+        "important": "Penghapusan tidak dapat dibatalkan. Beberapa data anonim mungkin disimpan untuk tujuan statistik (mematuhi GDPR).",
+        "manual_label": "Permintaan Penghapusan Manual:",
+        "manual": "Untuk permintaan penghapusan data khusus (misalnya, hapus hanya pesan dari komunitas tertentu, hapus gambar Storage, atau kasus lainnya), silakan hubungi Petugas Perlindungan Data kami di dpo@jynx.app. Kami akan memproses permintaan manual dalam 30 hari sesuai dengan GDPR."
+      },
+      "portability": {
+        "title": "7.4. Hak Portabilitas Data",
+        "p1": "Ekspor data (Bagian 7.1) memungkinkan Anda mengambil data dalam format terstruktur yang dapat dibaca mesin (JSON)."
+      },
+      "objection": {
+        "title": "7.5. Hak untuk Menolak",
+        "p1": "Anda dapat menolak pemrosesan data Anda untuk tujuan pemasaran langsung."
+      },
+      "withdraw": {
+        "title": "7.6. Hak untuk Menarik Persetujuan",
+        "p1": "Anda dapat menarik persetujuan untuk:",
+        "analytics_label": "Analitik:",
+        "analytics": "Pengaturan > Privasi > Nonaktifkan \"Aktifkan Analitik\"",
+        "notifications_label": "Notifikasi Push:",
+        "notifications": "Pengaturan perangkat",
+        "oauth_label": "Catatan:",
+        "oauth": "Token OAuth (Google, Apple) secara otomatis dicabut saat Anda menghapus akun (Bagian 7.3)."
+      }
+    },
+    "security": {
+      "title": "8. Keamanan Data",
+      "intro": "Kami menerapkan langkah-langkah keamanan teknis dan organisasi untuk melindungi data Anda:",
+      "encryption_label": "Enkripsi:",
+      "encryption": "Komunikasi aman melalui HTTPS",
+      "rules_label": "Firebase Security Rules:",
+      "rules": "Kontrol akses ketat ke data Firestore",
+      "auth_label": "Autentikasi:",
+      "auth": "Manajemen sesi aman melalui Firebase Auth",
+      "validation_label": "Validasi Input:",
+      "validation": "Pencegahan injeksi XSS melalui SecureTextInput",
+      "rate_limiting_label": "Rate Limiting:",
+      "rate_limiting": "Perlindungan terhadap penyalahgunaan (spam pesan, tindakan otomatis)",
+      "moderation_label": "Moderasi:",
+      "moderation": "Sistem pelaporan dan moderasi konten",
+      "breach": "Tidak ada sistem yang 100% aman. Jika terjadi pelanggaran data, kami akan memberi tahu Anda sesuai dengan GDPR (dalam 72 jam)."
+    },
+    "international": {
+      "title": "9. Transfer Data Internasional",
+      "p1": "Data Anda mungkin ditransfer dan disimpan di server yang berlokasi di luar Uni Eropa, termasuk:",
+      "google_label": "Google Cloud / Firebase:",
+      "google": "Menggunakan infrastruktur global dengan kepatuhan GDPR",
+      "sentry_label": "Sentry:",
+      "sentry": "Server berbasis AS dengan kepatuhan Privacy Shield",
+      "guarantees_label": "Jaminan:",
+      "guarantees": "Semua mitra kami menawarkan jaminan perlindungan setara dengan GDPR (klausul kontrak standar, sertifikasi Privacy Shield)."
+    },
+    "cookies": {
+      "title": "10. Cookie dan Teknologi Serupa",
+      "p1": "Aplikasi mobile kami tidak menggunakan cookie dalam arti tradisional, tetapi menggunakan:",
+      "tokens_label": "Token Autentikasi:",
+      "tokens": "Disimpan secara lokal dengan cara yang aman",
+      "cache_label": "Cache Lokal:",
+      "cache": "Untuk meningkatkan performa (data profil, pesan terkini)"
+    },
+    "changes": {
+      "title": "11. Perubahan pada Kebijakan Ini",
+      "p1": "Kami dapat memperbarui kebijakan privasi ini. Jika ada perubahan besar, kami akan memberi tahu Anda:",
+      "notification": "Melalui notifikasi dalam aplikasi",
+      "email": "Melalui email ke alamat yang terkait dengan akun Anda"
+    },
+    "contact": {
+      "title": "12. Hubungi Kami",
+      "p1": "Untuk pertanyaan mengenai kebijakan privasi ini atau untuk menggunakan hak Anda:",
+      "email_label": "Email:",
+      "email": "dpo@jynx.app",
+      "authority_label": "Otoritas Pengawas:",
+      "authority": "Jika Anda percaya hak Anda tidak dihormati, Anda dapat mengajukan keluhan ke CNIL (Commission Nationale de l'Informatique et des Libertés) di Prancis."
+    },
+    "consent": {
+      "title": "13. Persetujuan",
+      "p1": "Dengan menggunakan Jynx, Anda menyetujui pengumpulan dan penggunaan data Anda sebagaimana dijelaskan dalam kebijakan privasi ini.",
+      "p2": "Anda dapat menarik persetujuan kapan saja dengan menghapus akun Anda."
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Jynx | Ketentuan Layanan",
+      "description": "Baca Ketentuan Layanan untuk Jynx. Ketentuan ini menguraikan hak dan tanggung jawab Anda saat menggunakan platform komunitas gaming kami.",
+      "og_title": "Ketentuan Layanan Jynx",
+      "og_description": "Ketentuan yang menguraikan hak dan tanggung jawab Anda di platform Jynx.",
+      "og_image_alt": "Ketentuan Layanan Jynx",
+      "twitter_title": "Ketentuan Layanan Jynx",
+      "twitter_description": "Ketentuan yang menguraikan hak dan tanggung jawab Anda.",
+      "twitter_image_alt": "Ketentuan Layanan"
+    },
+    "title": "Ketentuan Layanan - Jynx",
+    "last_updated_label": "Terakhir Diperbarui:",
+    "last_updated": "12 Oktober 2025",
+    "version_label": "Versi:",
+    "version": "1.0",
+    "section1": {
+      "title": "1. Pendahuluan & Penerimaan",
+      "intro": "Selamat datang di Jynx, platform gaming sosial yang menghubungkan pemain, membantu mereka membentuk tim, dan bermain bersama.",
+      "legal_entity_label": "Entitas Hukum:",
+      "legal_entity": "Jynx Group",
+      "contact_label": "Kontak:",
+      "contact": "dpo@jynx.app",
+      "address_label": "Alamat Fisik:",
+      "address": "BEACH BAT B1ETG APT2 1, 6 QUAI MAGELLAN, 44000 NANTES",
+      "jurisdiction_label": "Yurisdiksi:",
+      "jurisdiction": "Prancis, Uni Eropa",
+      "acceptance": "Dengan mengakses atau menggunakan aplikasi Jynx (\"Layanan\", \"Platform\", \"Aplikasi\"), Anda setuju untuk terikat oleh Ketentuan Layanan ini (\"Ketentuan\", \"ToS\"). Jika Anda tidak setuju dengan Ketentuan ini, Anda tidak boleh menggunakan Layanan.",
+      "important_label": "PENTING:",
+      "important": "Ketentuan ini merupakan perjanjian yang mengikat secara hukum antara Anda dan Jynx Group."
+    },
+    "section2": {
+      "title": "2. Definisi",
+      "intro": "Untuk tujuan Ketentuan ini:",
+      "service_label": "\"Layanan\" / \"Platform\" / \"Aplikasi\":",
+      "service": "Aplikasi mobile Jynx dan semua layanan terkait",
+      "user_label": "\"Pengguna\" / \"Anda\":",
+      "user": "Setiap orang yang mengakses atau menggunakan Layanan",
+      "content_label": "\"Konten\":",
+      "content": "Semua teks, gambar, data, informasi, atau materi lain yang diposting, diunggah, atau ditransmisikan melalui Layanan",
+      "account_label": "\"Akun\":",
+      "account": "Akun Jynx pribadi Anda yang dibuat melalui registrasi",
+      "community_label": "\"Komunitas\":",
+      "community": "Grup yang dibuat dalam Jynx untuk gaming dan interaksi sosial",
+      "handle_label": "\"Handle\":",
+      "handle": "Identifier unik Anda dalam format @username#discriminator untuk penemuan teman pribadi",
+      "we_label": "\"Kami\" / \"Kami\" / \"Jynx\":",
+      "we": "Jynx Group dan afiliasinya"
+    },
+    "section3": {
+      "title": "3. Kelayakan & Registrasi Akun",
+      "age": {
+        "title": "3.1. Persyaratan Usia",
+        "requirement": "Anda harus berusia minimal 18 tahun untuk membuat akun dan menggunakan Jynx.",
+        "p1": "Selama registrasi, Anda akan diminta untuk memberikan tanggal lahir. Jika Anda berusia di bawah 18 tahun, Anda tidak akan dapat membuat akun atau mengakses Layanan.",
+        "enforcement_label": "Penegakan:",
+        "enforcement": "Gerbang usia kami secara otomatis memblokir pembuatan akun untuk pengguna di bawah 18 tahun. Jika kami menemukan bahwa Anda telah memberikan informasi palsu tentang usia Anda, akun Anda akan segera dihentikan."
+      },
+      "creation": {
+        "title": "3.2. Pembuatan Akun",
+        "intro": "Untuk menggunakan Jynx, Anda harus membuat akun dengan memberikan:",
+        "li1": "Alamat email yang valid ATAU autentikasi melalui Google/Apple",
+        "li2": "Username unik",
+        "li3": "Tanggal lahir Anda (untuk verifikasi usia)",
+        "li4": "Informasi profil (negara, zona waktu, bahasa, preferensi gaming)",
+        "handle": "Anda akan diberi Handle unik (misalnya, @username#1234) yang memungkinkan teman menemukan Anda secara pribadi tanpa paparan pencarian publik."
+      },
+      "security": {
+        "title": "3.3. Keamanan Akun",
+        "intro": "Anda bertanggung jawab untuk:",
+        "li1": "Menjaga kerahasiaan kredensial akun Anda",
+        "li2": "Semua aktivitas yang terjadi di bawah akun Anda",
+        "li3": "Memberi tahu kami segera tentang penggunaan yang tidak sah",
+        "liability": "Kami tidak bertanggung jawab atas kerugian atau kerusakan yang timbul dari kegagalan Anda melindungi informasi akun."
+      },
+      "accuracy": {
+        "title": "3.4. Akurasi Akun",
+        "intro": "Anda setuju untuk:",
+        "li1": "Memberikan informasi yang akurat, terkini, dan lengkap selama registrasi",
+        "li2": "Memperbarui informasi Anda untuk menjaga akurasi dan kekinian",
+        "li3": "Tidak menyamar sebagai orang atau entitas lain",
+        "li4": "Tidak membuat beberapa akun untuk tujuan penyalahgunaan"
+      }
+    },
+    "section4": {
+      "title": "4. Perilaku Pengguna & Aktivitas Terlarang",
+      "acceptable": {
+        "title": "4.1. Penggunaan yang Dapat Diterima",
+        "p1": "Jynx adalah platform yang digerakkan komunitas. Anda setuju untuk menggunakan Layanan dengan cara yang hormat, sah, dan sesuai."
+      },
+      "prohibited": {
+        "title": "4.2. Perilaku Terlarang",
+        "intro": "Saat menggunakan Jynx, Anda setuju untuk TIDAK:",
+        "harassment": {
+          "title": "Pelecehan & Penyalahgunaan:",
+          "li1": "Melecehkan, mengancam, mem-bully, menguntit, atau mengintimidasi pengguna lain",
+          "li2": "Terlibat dalam ujaran kebencian atau diskriminasi berdasarkan ras, etnis, asal kebangsaan, agama, jenis kelamin, orientasi seksual, disabilitas, atau karakteristik yang dilindungi lainnya",
+          "li3": "Mengirim konten seksual yang tidak diinginkan atau terlibat dalam pelecehan seksual",
+          "li4": "Mengkoordinasikan atau mendorong pelecehan terhadap orang lain"
+        },
+        "spam": {
+          "title": "Spam & Penyalahgunaan:",
+          "li1": "Mengirim spam, iklan yang tidak diminta, atau konten promosi",
+          "li2": "Menggunakan Layanan untuk tujuan komersial tanpa persetujuan tertulis kami sebelumnya",
+          "li3": "Membuat beberapa akun untuk menghindari larangan atau memanipulasi platform",
+          "li4": "Menggunakan sistem otomatis (bot, skrip) untuk mengakses atau berinteraksi dengan Layanan",
+          "li5": "Mencoba memanipulasi matchmaking, ranking, atau sistem komunitas"
+        },
+        "impersonation": {
+          "title": "Penyamaran & Penipuan:",
+          "li1": "Menyamar sebagai orang, pengguna, atau entitas lain",
+          "li2": "Salah menyajikan identitas, usia, atau afiliasi Anda",
+          "li3": "Membuat akun palsu atau profil yang menyesatkan",
+          "li4": "Berbagi atau menjual kredensial akun Anda"
+        },
+        "illegal": {
+          "title": "Aktivitas Ilegal:",
+          "li1": "Menggunakan Layanan untuk tujuan ilegal atau melanggar hukum apa pun",
+          "li2": "Berbagi, mempromosikan, atau memfasilitasi aktivitas ilegal",
+          "li3": "Melanggar hak kekayaan intelektual orang lain",
+          "li4": "Terlibat dalam penipuan, scam, atau upaya phishing"
+        },
+        "security": {
+          "title": "Keamanan Platform:",
+          "li1": "Mencoba mendapatkan akses tidak sah ke sistem, server, atau database kami",
+          "li2": "Mendistribusikan malware, virus, atau kode berbahaya",
+          "li3": "Melakukan rekayasa balik, dekompilasi, atau membongkar bagian mana pun dari Layanan",
+          "li4": "Mengeksploitasi bug, glitch, atau kerentanan untuk keuntungan yang tidak adil (harus dilaporkan ke security@jynx.app)"
+        },
+        "privacy": {
+          "title": "Pelanggaran Privasi:",
+          "li1": "Berbagi informasi pribadi pengguna lain tanpa persetujuan (doxxing)",
+          "li2": "Tangkapan layar atau berbagi percakapan pribadi tanpa izin",
+          "li3": "Mengumpulkan atau memanen data pengguna tanpa otorisasi"
+        },
+        "content_violations": {
+          "title": "Pelanggaran Konten:",
+          "li1": "Memposting konten yang melanggar Pedoman Komunitas kami",
+          "li2": "Berbagi konten kekerasan, grafis, atau mengganggu",
+          "li3": "Memposting konten yang melibatkan anak di bawah umur dalam kapasitas apa pun",
+          "li4": "Mendistribusikan materi berhak cipta tanpa izin"
+        },
+        "manipulation": {
+          "title": "Manipulasi Platform:",
+          "li1": "Secara artifisial meningkatkan metrik engagement atau reputasi",
+          "li2": "Mengkoordinasikan pelaporan massal untuk menyalahgunakan sistem pelaporan kami",
+          "li3": "Mengganggu operasi normal Layanan",
+          "li4": "Membypass atau menghindari batasan rate, pembatasan, atau fitur keamanan"
+        },
+        "enforcement_label": "Penegakan:",
+        "enforcement": "Pelanggaran terhadap larangan ini dapat mengakibatkan penghapusan konten, penangguhan akun, larangan permanen, dan/atau tindakan hukum. Untuk melaporkan pelanggaran, hubungi support@jynx.app. Untuk kerentanan keamanan, hubungi security@jynx.app"
+      },
+      "rate_limiting": {
+        "title": "4.3. Rate Limiting & Anti-Spam",
+        "intro": "Untuk melindungi platform dan pengalaman pengguna, kami menegakkan batasan rate:",
+        "client_label": "Sisi klien:",
+        "client": "10 pesan per menit (sliding window)",
+        "burst_label": "Perlindungan burst sisi server:",
+        "burst": "1 pesan per detik",
+        "daily_label": "Batas harian sisi server:",
+        "daily": "500 pesan per hari (reset pada tengah malam UTC)",
+        "warning": "Mencoba membypass batasan ini dapat mengakibatkan penangguhan akun."
+      },
+      "moderation": {
+        "title": "4.4. Moderasi & Pelaporan",
+        "structure_title": "Struktur Moderasi:",
+        "structure_intro": "Jynx menggunakan tim moderasi terpusat untuk memastikan penegakan Ketentuan dan Pedoman Komunitas yang konsisten di seluruh platform. Sistem moderasi kami meliputi:",
+        "structure": {
+          "li1": "Tim Moderasi Jynx: Tim khusus yang bertanggung jawab meninjau semua pelanggaran yang dilaporkan dan mengambil tindakan yang sesuai",
+          "li2": "Deteksi Otomatis: Sistem berbasis algoritma yang secara otomatis menandai dan menghapus spam, konten ilegal, dan pelanggaran berat",
+          "li3": "Kekuatan Pemilik Komunitas: Pemilik komunitas memiliki kemampuan moderasi terbatas dalam komunitas mereka, termasuk kemampuan untuk mengeluarkan anggota atau menerapkan mute sementara (hingga 24 jam). Pelanggaran berat harus dieskalasi ke tim moderasi Jynx"
+        },
+        "reporting_title": "Proses Pelaporan:",
+        "reporting_intro": "Anda dapat melaporkan pelanggaran melalui:",
+        "reporting": {
+          "li1": "Pelaporan Dalam Aplikasi: Gunakan tombol \"Laporkan\" yang tersedia pada pesan, profil, dan konten komunitas. Pilih kategori yang sesuai (Pelecehan, Spam, Konten Tidak Pantas, Penipuan, atau Lainnya) dan berikan konteks",
+          "li2": "Email: Hubungi support@jynx.app dengan informasi terperinci, termasuk tangkapan layar dan bukti bila memungkinkan"
+        },
+        "reporting_note": "Semua laporan ditinjau oleh tim moderasi kami. Mengirim laporan palsu atau berbahaya dapat mengakibatkan tindakan terhadap akun Anda.",
+        "response_title": "Waktu Respons:",
+        "response_intro": "Kami memprioritaskan laporan berdasarkan tingkat keparahan:",
+        "response": {
+          "urgent": "Mendesak (ancaman, konten ilegal, bahaya segera): Tinjauan dan tindakan dalam 2 jam",
+          "high": "Prioritas Tinggi (pelecehan, ujaran kebencian, konten seksual): Tinjauan dan tindakan dalam 24 jam",
+          "medium": "Prioritas Menengah (spam, manipulasi platform, pelanggaran aturan): Tinjauan dan tindakan dalam 72 jam",
+          "low": "Prioritas Rendah (perselisihan komunitas, pelanggaran ringan): Tinjauan dan tindakan dalam 7 hari"
+        }
+      }
+    },
+    "section5": {
+      "title": "5. Kepemilikan Konten & Lisensi",
+      "your_content": {
+        "title": "5.1. Konten Anda",
+        "intro": "Anda mempertahankan kepemilikan atas semua konten yang Anda posting, unggah, atau transmisikan melalui Layanan (\"Konten Pengguna\"), termasuk:",
+        "li1": "Pesan dalam chat komunitas dan percakapan pribadi",
+        "li2": "Informasi profil, biografi, dan gambar",
+        "li3": "Statistik dan preferensi gaming"
+      },
+      "license": {
+        "title": "5.2. Lisensi ke Jynx",
+        "intro": "Dengan memposting Konten Pengguna, Anda memberikan Jynx lisensi non-eksklusif, di seluruh dunia, bebas royalti, yang dapat disub-lisensikan untuk:",
+        "core_title": "Operasi Layanan Inti:",
+        "core": {
+          "li1": "Meng-host, menyimpan, dan menampilkan Konten Pengguna Anda sebagaimana diperlukan untuk menyediakan Layanan",
+          "li2": "Berbagi Konten Pengguna Anda dengan pengguna lain sesuai dengan pengaturan privasi Anda (misalnya, tampilkan di komunitas, tunjukkan di profil match)",
+          "li3": "Membuat salinan cadangan dan memastikan redundansi data untuk keandalan",
+          "li4": "Moderasi dan meninjau konten untuk kepatuhan dengan Ketentuan ini dan hukum yang berlaku"
+        },
+        "improvement_title": "Peningkatan Layanan & Analitik:",
+        "improvement": {
+          "li1": "Menggunakan Konten Pengguna Anda untuk meningkatkan dan mengembangkan Layanan (misalnya, analitik, pengembangan fitur)",
+          "li2": "Melatih model machine learning untuk sistem auto-match kami dan algoritma rekomendasi",
+          "li3": "Menghasilkan statistik agregat dan anonim tentang penggunaan platform dan perilaku pengguna",
+          "li4": "Melakukan penelitian untuk meningkatkan pengalaman pengguna dan keamanan platform"
+        },
+        "security_title": "Keamanan & Kepatuhan:",
+        "security": {
+          "li1": "Mendeteksi dan mencegah spam, penyalahgunaan, penipuan, dan pelanggaran Ketentuan ini",
+          "li2": "Menanggapi permintaan hukum dan menegakkan hak kami",
+          "li3": "Memelihara catatan moderasi untuk keamanan platform"
+        },
+        "marketing_title": "Penggunaan Pemasaran & Promosi (Terbatas):",
+        "marketing": {
+          "li1": "Menggunakan statistik agregat dan anonim dalam materi pemasaran (misalnya, \"10.000 match dibuat bulan ini\")",
+          "li2": "Menampilkan Konten Pengguna yang dibagikan secara publik (posting komunitas, profil publik) dalam materi promosi, dengan persetujuan opt-in eksplisit Anda",
+          "li3": "Meminta izin Anda untuk menggunakan testimonial, tangkapan layar, atau konten spesifik untuk studi kasus atau iklan"
+        },
+        "limitations_title": "Batasan Penting:",
+        "limitations": {
+          "li1": "Pesan dan percakapan pribadi TIDAK AKAN PERNAH digunakan untuk tujuan pemasaran",
+          "li2": "Kami akan selalu mendapatkan persetujuan tertulis eksplisit Anda sebelum menggunakan Konten Pengguna yang dapat diidentifikasi (misalnya, profil Anda, username, gambar) dalam materi pemasaran",
+          "li3": "Anda dapat menarik persetujuan untuk penggunaan pemasaran kapan saja dengan menghubungi dpo@jynx.app",
+          "li4": "Data anonim atau agregat tidak memerlukan persetujuan tambahan"
+        },
+        "no_sell": "Kami TIDAK AKAN menjual data pribadi Anda kepada pihak ketiga. Lihat Kebijakan Privasi kami untuk detail penanganan data."
+      },
+      "third_party": {
+        "title": "5.3. Konten Pihak Ketiga",
+        "intro": "Jynx terintegrasi dengan layanan pihak ketiga, termasuk:",
+        "riot": "Riot Games API: Nama champion, gambar, statistik, dan data pertandingan adalah milik Riot Games. Jynx beroperasi di bawah Ketentuan Layanan Riot Games API.",
+        "firebase": "Layanan Firebase: Disediakan oleh Google di bawah Ketentuan Layanan mereka.",
+        "oauth": "Penyedia OAuth: Layanan autentikasi Google dan Apple."
+      },
+      "removal": {
+        "title": "5.4. Penghapusan Konten",
+        "intro": "Kami berhak menghapus Konten Pengguna apa pun yang:",
+        "li1": "Melanggar Ketentuan ini",
+        "li2": "Melanggar hukum yang berlaku",
+        "li3": "Melanggar hak kekayaan intelektual pihak ketiga",
+        "li4": "Dilaporkan dan dikonfirmasi melanggar pedoman komunitas kami",
+        "notification": "Anda akan diberi tahu tentang penghapusan konten bila memungkinkan."
+      }
+    },
+    "section6": {
+      "title": "6. Komunitas & Fitur Gaming",
+      "community": {
+        "title": "6.1. Pembuatan & Manajemen Komunitas",
+        "intro": "Pengguna dapat membuat dan bergabung dengan komunitas untuk gaming dan interaksi sosial.",
+        "freemium_title": "Batasan Freemium:",
+        "free_label": "Pengguna Gratis:",
+        "free": {
+          "li1": "Buat: Maksimal 1 komunitas",
+          "li2": "Bergabung: Maksimal hingga 5 komunitas",
+          "li3": "Batas Anggota Komunitas: Komunitas tunduk pada batas anggota berdasarkan level boost mereka"
+        },
+        "premium_label": "Pengguna Premium (Jynx+):",
+        "premium": {
+          "li1": "Buat: Komunitas tak terbatas",
+          "li2": "Bergabung: Komunitas tak terbatas",
+          "li3": "Manfaat Eksklusif: 2 boost komunitas gratis per bulan untuk mendukung komunitas favorit Anda"
+        },
+        "boost_title": "Sistem Boost Komunitas:",
+        "boost_intro": "Komunitas dapat meningkatkan kapasitas anggota mereka dan membuka fitur tambahan melalui boost komunitas:",
+        "boost": {
+          "level0": "Level 0 (Dasar): Hingga 30 anggota",
+          "level1": "Level 1 (5 boost): Hingga 100 anggota + Wallpaper komunitas custom",
+          "level2": "Level 2 (15 boost): Hingga 250 anggota + Pembuatan role custom",
+          "level3": "Level 3 (30 boost): Hingga 500 anggota + Fitur komunitas lanjutan"
+        }
+      },
+      "automatch": {
+        "title": "6.2. Sistem Auto-Match",
+        "intro": "Jynx menggunakan sistem auto-match cerdas untuk menghubungkan pemain berdasarkan:",
+        "li1": "Preferensi game",
+        "li2": "Level skill (misalnya, rank Riot Games)",
+        "li3": "Gaya bermain dan ketersediaan",
+        "li4": "Bahasa dan zona waktu",
+        "consent": "Dengan menggunakan fitur auto-match, Anda menyetujui profil gaming Anda dibagikan dengan calon match."
+      },
+      "riot": {
+        "title": "6.3. Integrasi Riot Games",
+        "intro": "Saat Anda menghubungkan akun Riot Games, kami mengambil:",
+        "li1": "Nama summoner dan Riot ID",
+        "li2": "Statistik ranked (League of Legends, Valorant, dll.)",
+        "li3": "Penguasaan champion dan riwayat pertandingan",
+        "unlink": "Anda dapat memutuskan tautan akun Riot kapan saja dari Pengaturan."
+      }
+    },
+    "section7": {
+      "title": "7. Penangguhan & Penghentian Akun",
+      "suspension": {
+        "title": "7.1. Penangguhan oleh Jynx",
+        "intro": "Kami berhak menangguhkan atau menghentikan akun Anda jika Anda:",
+        "li1": "Melanggar Ketentuan Layanan ini",
+        "li2": "Terlibat dalam perilaku terlarang (Bagian 4.2)",
+        "li3": "Terlibat dalam aktivitas penipuan atau ilegal",
+        "li4": "Berulang kali menerima laporan valid dari pengguna lain",
+        "actions_title": "Tindakan Moderasi:",
+        "actions_intro": "Tim moderasi kami dapat mengambil tindakan berikut:",
+        "warning_label": "1. Peringatan (Tingkat Keparahan Rendah)",
+        "warning": {
+          "li1": "Diberikan untuk pelanggaran ringan atau pelanggaran pertama kali",
+          "li2": "Tidak ada pembatasan akun, tetapi pelanggaran didokumentasikan",
+          "li3": "Peringatan tetap tercatat selama 30 hari"
+        },
+        "temp_label": "2. Penangguhan Sementara (Tingkat Keparahan Menengah hingga Tinggi)",
+        "temp": {
+          "li1": "Penangguhan 7 hari: Durasi standar untuk pelanggaran signifikan (pelecehan, spam, manipulasi platform)",
+          "li2": "Penangguhan 14 hari: Pelanggaran berulang atau pelanggaran yang lebih serius",
+          "li3": "Penangguhan 30 hari: Pelanggaran berat yang tidak menjamin penghapusan permanen",
+          "li4": "Selama penangguhan, Anda kehilangan semua akses ke Layanan"
+        },
+        "permanent_label": "3. Larangan Permanen (Tingkat Keparahan Kritis)",
+        "permanent": {
+          "intro": "Diberikan untuk pelanggaran paling berat, termasuk:",
+          "li1": "Aktivitas ilegal (penipuan, distribusi konten ilegal)",
+          "li2": "Pelecehan berat, ancaman, atau ujaran kebencian",
+          "li3": "Pelanggaran berulang setelah beberapa penangguhan",
+          "li4": "Membuat beberapa akun untuk menghindari larangan",
+          "li5": "Eksploitasi kerentanan keamanan untuk tujuan berbahaya"
+        }
+      },
+      "effect": {
+        "title": "7.2. Efek Penghentian",
+        "intro": "Setelah penghentian akun:",
+        "li1": "Anda kehilangan akses ke akun dan semua data terkait",
+        "li2": "Data pengguna Anda dinonaktifkan sesuai dengan GDPR",
+        "li3": "Akun Firebase Authentication Anda dihapus",
+        "li4": "Token OAuth (Google, Apple) secara otomatis dicabut",
+        "refund": "Kebijakan Pengembalian Dana: Tidak ada pengembalian dana yang diberikan untuk langganan premium atau item virtual (kosmetik) ketika akun Anda dihentikan karena pelanggaran Ketentuan ini."
+      },
+      "user_deletion": {
+        "title": "7.3. Penghapusan yang Diprakarsai Pengguna",
+        "p1": "Anda dapat menghapus akun Anda kapan saja melalui Pengaturan > Zona Bahaya > Hapus Akun Saya.",
+        "p2": "Tindakan ini tidak dapat dibatalkan. Lihat Kebijakan Privasi kami untuk proses penghapusan."
+      },
+      "appeal": {
+        "title": "7.4. Proses Banding",
+        "intro": "Jika Anda percaya akun Anda ditangguhkan atau dihentikan karena kesalahan, Anda berhak mengajukan banding terhadap keputusan tersebut.",
+        "how_title": "Cara Mengajukan Banding:",
+        "how": {
+          "li1": "Kirim Banding Anda: Hubungi kami di dpo@jynx.app dengan informasi akun Anda (username, email, handle), alasan banding, bukti pendukung, dan perspektif Anda tentang insiden tersebut",
+          "li2": "Timeline Peninjauan: Kami akan meninjau semua banding dalam 7 hari kerja setelah pengiriman",
+          "li3": "Investigasi: Tim moderasi kami akan memeriksa kembali laporan pelanggaran asli dan bukti, meninjau riwayat dan konteks akun Anda, dan mempertimbangkan informasi baru yang Anda berikan",
+          "li4": "Keputusan: Setelah peninjauan, kami akan mempertahankan keputusan, mengurangi hukuman, atau membatalkan keputusan dan memulihkan akun Anda",
+          "li5": "Notifikasi: Anda akan menerima keputusan akhir kami melalui email, termasuk hasil dan penjelasan alasan kami"
+        },
+        "deadlines_title": "Tenggat Waktu Banding:",
+        "deadlines_intro": "Anda harus mengirim banding dalam:",
+        "deadlines": {
+          "li1": "24 jam untuk mute atau penangguhan pendek (1-7 hari)",
+          "li2": "7 hari untuk penangguhan (14-30 hari)",
+          "li3": "30 hari untuk larangan permanen"
+        }
+      }
+    },
+    "section8": {
+      "title": "8. Layanan Premium & Pembayaran",
+      "status": "Status Fitur Premium: Jynx saat ini beroperasi sebagai platform gratis. Fitur langganan premium (Jynx+) dan kosmetik berbayar akan segera hadir dan belum tersedia untuk dibeli.",
+      "freemium": {
+        "title": "8.1. Model Freemium",
+        "intro": "Jynx beroperasi pada model freemium di mana semua fitur inti dapat diakses secara gratis, dengan peningkatan premium opsional.",
+        "free_title": "Batasan Tier Gratis:",
+        "free": {
+          "li1": "Match Queue: 20 like per hari, 200 tampilan profil per hari",
+          "li2": "Chat Request: 3 permintaan per hari dari match queue, 5 permintaan per hari secara global",
+          "li3": "Komunitas: Buat 1 komunitas, bergabung hingga 5 komunitas",
+          "li4": "Kosmetik: Akses ke item kosmetik tier gratis (badge, border avatar)"
+        },
+        "premium_title": "Manfaat Jynx+ Premium (Segera Hadir):",
+        "premium": {
+          "li1": "Komunitas Tak Terbatas: Buat dan bergabung dengan komunitas tak terbatas",
+          "li2": "Boost Komunitas: 2 boost komunitas gratis per bulan untuk mendukung komunitas favorit Anda",
+          "li3": "Matching Tak Terbatas: Tidak ada batasan harian untuk like, tampilan profil, atau permintaan chat",
+          "li4": "Dukungan Prioritas: Waktu respons lebih cepat untuk pertanyaan dukungan",
+          "li5": "Badge Premium: Tampilkan badge premium khusus di profil Anda",
+          "li6": "Kosmetik Eksklusif: Akses ke item kosmetik tier premium",
+          "li7": "Fitur Lanjutan: Akses awal ke fitur baru dan algoritma matching yang ditingkatkan"
+        }
+      },
+      "cosmetics": {
+        "title": "8.2. Kosmetik & Item Virtual",
+        "intro": "Jynx akan menawarkan item kosmetik opsional untuk mempersonalisasi profil Anda, termasuk badge, border avatar, dan border hero.",
+        "important": "Penting: Kosmetik adalah item digital murni dekoratif tanpa nilai dunia nyata. Anda tidak memiliki kosmetik; Anda diberi lisensi terbatas dan dapat dicabut untuk menampilkannya di profil Jynx Anda."
+      },
+      "refunds": {
+        "title": "8.3. Pengembalian Dana & Pembatalan",
+        "eu_title": "Hak Konsumen UE (Periode Cooling-Off 14 Hari):",
+        "eu": {
+          "p1": "Jika Anda adalah konsumen di Uni Eropa, Anda berhak menarik diri dari pembelian konten digital dalam 14 hari setelah pembelian, tunduk pada kondisi."
+        },
+        "policy_title": "Kebijakan Pengembalian Dana:",
+        "policy": {
+          "li1": "Kesalahan Teknis: Jika Anda mengalami masalah teknis yang mencegah Anda mengakses fitur yang dibeli, hubungi support@jynx.app dalam 14 hari untuk pengembalian dana penuh",
+          "li2": "Pembelian Tidak Sengaja: Pengembalian dana untuk pembelian tidak sengaja dapat diberikan atas kebijakan kami dalam 48 jam setelah pembelian",
+          "li3": "Transaksi Tidak Sah: Laporkan transaksi tidak sah segera ke dpo@jynx.app dan penyedia pembayaran Anda",
+          "li4": "Tidak Ada Pengembalian Dana untuk: Penghentian akun karena pelanggaran Ketentuan, perubahan pikiran setelah menggunakan fitur premium lebih dari 14 hari"
+        }
+      }
+    },
+    "section9": {
+      "title": "9. Layanan Pihak Ketiga",
+      "intro": "Jynx terintegrasi dengan layanan pihak ketiga berikut, masing-masing diatur oleh ketentuan mereka sendiri:",
+      "firebase": {
+        "title": "9.1. Layanan Firebase (Google)",
+        "intro": "Kami menggunakan Firebase untuk:",
+        "li1": "Autentikasi",
+        "li2": "Cloud Firestore (database)",
+        "li3": "Cloud Storage (gambar)",
+        "li4": "Cloud Functions (logika backend)",
+        "li5": "Cloud Messaging (notifikasi push)",
+        "li6": "App Check (keamanan)",
+        "li7": "Performance Monitoring",
+        "li8": "Crashlytics (pelaporan crash)"
+      },
+      "sentry": {
+        "title": "9.2. Sentry (Pemantauan Error)",
+        "p1": "Kami menggunakan Sentry untuk pelacakan error dan pemantauan performa. Data dinonaktifkan sebelum dikirim ke Sentry."
+      },
+      "riot": {
+        "title": "9.3. Riot Games API",
+        "p1": "Kami menggunakan Riot Games API untuk mengambil statistik gaming (League of Legends, Valorant, dll.)."
+      },
+      "oauth": {
+        "title": "9.4. Penyedia OAuth",
+        "intro": "Kami menawarkan autentikasi melalui:",
+        "li1": "Google Sign-In",
+        "li2": "Apple Sign-In"
+      },
+      "responsibility": "Anda bertanggung jawab untuk mematuhi ketentuan layanan pihak ketiga ini."
+    },
+    "section10": {
+      "title": "10. Penolakan & Pembatasan Tanggung Jawab",
+      "as_is": {
+        "title": "10.1. Layanan Disediakan \"SEBAGAIMANA ADANYA\"",
+        "p1": "LAYANAN DISEDIAKAN DENGAN DASAR \"SEBAGAIMANA ADANYA\" DAN \"SEBAGAIMANA TERSEDIA\", TANPA JAMINAN APA PUN, TERSURAT ATAU TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA: Jaminan dapat diperjualbelikan, kesesuaian untuk tujuan tertentu, atau tidak ada pelanggaran; Jaminan layanan tanpa gangguan, aman, atau bebas error; Akurasi atau keandalan hasil auto-match."
+      },
+      "third_party": {
+        "title": "10.2. Tidak Ada Jaminan pada Layanan Pihak Ketiga",
+        "intro": "Kami tidak bertanggung jawab untuk:",
+        "li1": "Downtime atau masalah dengan Firebase, Riot Games API, atau layanan pihak ketiga lainnya",
+        "li2": "Akurasi statistik Riot Games (misalnya, rank, riwayat pertandingan)",
+        "li3": "Kehilangan data karena kegagalan layanan pihak ketiga"
+      },
+      "limitation": {
+        "title": "10.3. Pembatasan Tanggung Jawab",
+        "p1": "SEJAUH MAKSIMAL YANG DIIZINKAN HUKUM, JYNX TIDAK BERTANGGUNG JAWAB UNTUK: Kerusakan tidak langsung, insidental, khusus, konsekuensial, atau hukuman; Kehilangan keuntungan, data, atau goodwill; Gangguan atau ketidaktersediaan layanan; Konten yang dibuat pengguna atau perilaku pengguna lain.",
+        "max": "Tanggung Jawab Maksimal: Tanggung jawab total kami tidak akan melebihi jumlah yang Anda bayarkan ke Jynx dalam 12 bulan sebelum klaim, atau €100, mana yang lebih besar."
+      }
+    },
+    "section11": {
+      "title": "11. Modifikasi Ketentuan",
+      "right": {
+        "title": "11.1. Hak untuk Memodifikasi",
+        "intro": "Kami berhak memodifikasi Ketentuan ini kapan saja. Ketika kami membuat perubahan, kami akan:",
+        "li1": "Memperbarui tanggal \"Terakhir Diperbarui\" di bagian atas dokumen ini",
+        "li2": "Memberikan pemberitahuan 30 hari sebelumnya untuk semua perubahan",
+        "li3": "Memberi tahu Anda melalui notifikasi dalam aplikasi",
+        "li4": "Memberi tahu Anda melalui email di alamat yang terkait dengan akun Anda"
+      },
+      "acceptance": {
+        "title": "11.2. Penerimaan Perubahan",
+        "p1": "Penggunaan Layanan yang berkelanjutan setelah perubahan berlaku merupakan penerimaan Anda terhadap Ketentuan yang direvisi.",
+        "p2": "Jika Anda tidak setuju dengan Ketentuan yang direvisi, Anda harus berhenti menggunakan Layanan dan menghapus akun Anda sebelum perubahan berlaku."
+      },
+      "material": {
+        "title": "11.3. Perubahan Material",
+        "intro": "Untuk perubahan material yang secara signifikan mempengaruhi hak atau kewajiban Anda (misalnya, perubahan pada ketentuan pembayaran, pembatasan tanggung jawab, pemrosesan data, penyelesaian sengketa), kami akan:",
+        "li1": "Memberikan pemberitahuan 60 hari sebelumnya (dua kali periode pemberitahuan standar)",
+        "li2": "Memerlukan pengakuan eksplisit terhadap perubahan sebelum Anda dapat terus menggunakan Layanan",
+        "li3": "Menawarkan Anda kesempatan untuk mengekspor data jika Anda memilih untuk berhenti menggunakan Layanan"
+      }
+    },
+    "section12": {
+      "title": "12. Hukum yang Mengatur & Penyelesaian Sengketa",
+      "law": {
+        "title": "12.1. Hukum yang Mengatur",
+        "p1": "Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Prancis dan peraturan Uni Eropa yang berlaku, tanpa memperhatikan prinsip konflik hukum.",
+        "regulations": "Peraturan yang Berlaku: Kode Sipil Prancis (Code civil), Kode Konsumen Prancis (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive."
+      },
+      "jurisdiction": {
+        "title": "12.2. Yurisdiksi",
+        "p1": "Setiap sengketa yang timbul dari Ketentuan ini atau Layanan akan tunduk pada yurisdiksi eksklusif pengadilan yang berwenang di Nantes, Prancis."
+      },
+      "resolution": {
+        "title": "12.3. Penyelesaian Sengketa & Arbitrase",
+        "no_mandatory": "Tidak Ada Arbitrase Wajib: Jynx tidak memerlukan arbitrase wajib. Anda mempertahankan hak untuk membawa sengketa ke pengadilan Nantes, Prancis.",
+        "adr_title": "Penyelesaian Sengketa Alternatif (Opsional):",
+        "adr_intro": "Sebelum memulai proses hukum, kami mendorong Anda untuk:",
+        "adr": {
+          "li1": "Hubungi Kami Langsung: Coba selesaikan masalah dengan menghubungi support@jynx.app atau dpo@jynx.app",
+          "li2": "Negosiasi Informal: Kami akan bekerja dengan Anda dengan itikad baik untuk mencapai resolusi damai dalam 30 hari",
+          "li3": "Mediasi (Opsional): Jika resolusi informal gagal, Anda dapat mengusulkan mediasi melalui mediator pihak ketiga yang netral"
+        }
+      },
+      "eu_rights": {
+        "title": "12.4. Hak Konsumen UE",
+        "intro": "Jika Anda adalah konsumen di Uni Eropa, Anda mempertahankan semua hak konsumen wajib di bawah hukum UE, termasuk:",
+        "li1": "Periode cooling-off 14 hari untuk pembelian konten digital",
+        "li2": "Hak untuk remedi untuk produk atau layanan yang cacat",
+        "li3": "Perlindungan terhadap ketentuan kontrak yang tidak adil",
+        "li4": "Hak untuk mengajukan keluhan kepada otoritas perlindungan konsumen lokal Anda",
+        "li5": "Akses ke platform ODR UE"
+      },
+      "gdpr": {
+        "title": "12.5. Kepatuhan GDPR",
+        "p1": "Praktik data kami mematuhi General Data Protection Regulation (GDPR). Lihat Kebijakan Privasi kami untuk detail tentang pengumpulan data, pemrosesan, penyimpanan, hak Anda, dan cara menghubungi Petugas Perlindungan Data kami."
+      }
+    },
+    "section13": {
+      "title": "13. Kontak & Informasi Hukum",
+      "contact": {
+        "title": "13.1. Hubungi Kami",
+        "intro": "Untuk pertanyaan tentang Ketentuan Layanan ini:",
+        "general_label": "Pertanyaan Umum:",
+        "general": "dpo@jynx.app",
+        "support_label": "Dukungan Pelanggan:",
+        "support": "support@jynx.app",
+        "security_label": "Masalah Keamanan:",
+        "security": "security@jynx.app"
+      },
+      "legal": {
+        "title": "13.2. Entitas Hukum",
+        "company_label": "Nama Perusahaan:",
+        "company": "Jynx Group",
+        "address_label": "Alamat Fisik:",
+        "address_line1": "BEACH BAT B1ETG APT2 1",
+        "address_line2": "6 QUAI MAGELLAN",
+        "address_line3": "44000 NANTES",
+        "address_line4": "FRANCE",
+        "registration_label": "Informasi Registrasi:",
+        "siren_label": "SIREN:",
+        "siren": "991443896",
+        "siret_label": "SIRET:",
+        "siret": "99144389600014",
+        "rcs_label": "Terdaftar dengan:",
+        "rcs": "Registre du Commerce et des Sociétés (RCS) de Nantes",
+        "date_label": "Tanggal Registrasi:",
+        "date": "17 September 2025",
+        "form_label": "Bentuk Hukum:",
+        "form": "Société par Actions Simplifiée (SAS)",
+        "vat_label": "Nomor PPN:",
+        "vat": "FR39991443896",
+        "dpo_label": "Petugas Perlindungan Data (DPO):",
+        "dpo": "dpo@jynx.app"
+      }
+    },
+    "section14": {
+      "title": "14. Lain-lain",
+      "entire": {
+        "title": "14.1. Keseluruhan Perjanjian",
+        "p1": "Ketentuan ini, bersama dengan Kebijakan Privasi kami, merupakan keseluruhan perjanjian antara Anda dan Jynx mengenai Layanan."
+      },
+      "severability": {
+        "title": "14.2. Keterpisahan",
+        "p1": "Jika ada ketentuan dari Ketentuan ini yang ditemukan tidak valid atau tidak dapat ditegakkan, ketentuan yang tersisa akan tetap berlaku penuh."
+      },
+      "waiver": {
+        "title": "14.3. Pengesampingan",
+        "p1": "Kegagalan kami untuk menegakkan hak atau ketentuan apa pun dari Ketentuan ini tidak akan merupakan pengesampingan terhadap hak atau ketentuan tersebut."
+      },
+      "assignment": {
+        "title": "14.4. Pengalihan",
+        "p1": "Anda tidak dapat mengalihkan atau mentransfer Ketentuan ini tanpa persetujuan tertulis kami sebelumnya. Kami dapat mengalihkan Ketentuan ini tanpa pembatasan."
+      },
+      "language": {
+        "title": "14.5. Bahasa",
+        "p1": "Ketentuan ini disediakan dalam bahasa Inggris. Jika terjadi konflik antara versi bahasa Inggris dan terjemahan apa pun, versi bahasa Inggris yang akan berlaku."
+      }
+    },
+    "final_acknowledgment": "Dengan menggunakan Jynx, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Ketentuan Layanan ini."
+  },
+  "nav": {
+    "home": "Beranda",
+    "solution": "Solusi",
+    "feedback": "Umpan Balik",
+    "download": "Unduh",
+    "blog": "Blog",
+    "features": "Fitur",
+    "search": "Cari",
+    "search_aria": "Cari artikel"
+  },
+  "header": {
+    "cta": "Dapatkan Jynx"
+  },
+  "hero": {
+    "title": "Tempat Gaming Menjadi Sosial",
+    "subtitle": "Temukan rekan tim yang sesuai dengan gaya, level skill, dan jadwal Anda",
+    "description": "",
+    "pre_launch_text": "BERGABUNG DENGAN KOMUNITAS ANDA SEKARANG",
+    "app_store_small": "Download di",
+    "app_store_large": "App Store",
+    "play_store_small": "DAPATKAN DI",
+    "play_store_large": "Google Play",
+    "cta_primary": "BERGABUNG DENGAN KOMUNITAS ANDA",
+    "title_primary": "Platform Matchmaking Gaming Cerdas",
+    "tagline": "Tempat Gaming Menjadi Sosial"
+  },
+  "features": {
+    "title": "Bermain Lebih Baik, Bersama",
+    "subtitle": "Alat komunitas gaming cerdas yang dirancang untuk pemain modern",
+    "description": "Jynx adalah alternatif yang baik untuk platform LFG tradisional - mengubah gaming solo menjadi pengalaman sosial dengan secara cerdas menghubungkan rekan tim berdasarkan preferensi gaming, gaya bermain, dan kompatibilitas jadwal",
+    "cards": {
+      "scheduling": {
+        "title": "Matchmaking Cerdas",
+        "description": "Temukan squad gaming sempurna dalam hitungan detik - pemain yang sesuai dengan level skill, gaya bermain, dan jadwal Anda"
+      },
+      "finder": {
+        "title": "Penemuan Komunitas",
+        "description": "Temukan komunitas gaming yang sempurna sesuai dengan minat dan gaya bermain Anda"
+      },
+      "communication": {
+        "title": "Komunikasi Real-time",
+        "description": "Jangan pernah lewatkan pesan - chat bekerja dengan mulus bahkan saat koneksi Anda tidak"
+      },
+      "sessions": {
+        "title": "Sesi Gaming",
+        "description": "Rencanakan malam gaming Anda sebelumnya dan jangan pernah bingung mencari rekan tim lagi"
+      }
+    },
+    "title_seo": "Bermain Lebih Baik, Bersama dengan Smart Matchmaking",
+    "description_seo": "Jynx adalah platform matchmaking gaming cerdas yang mengubah gaming solo menjadi pengalaman sosial. Algoritma cerdas kami menghubungkan pemain berdasarkan level skill, gaya bermain, dan preferensi gaming. Baik Anda mencari rekan tim League of Legends, squad Valorant, atau teman gaming kasual, Jynx adalah alternatif LFG yang benar-benar berfungsi. Bergabung dengan 10.000+ gamer dan jangan pernah bermain sendirian lagi."
+  },
+  "gaming_sections": {
+    "intelligent_matchmaking": {
+      "title": "Matchmaking Cerdas",
+      "subtitle": "Temukan rekan tim gaming sempurna dalam hitungan detik - tidak ada spam LFG lagi. Cocokkan dengan pemain berdasarkan level skill, gaya bermain, dan kompatibilitas jadwal",
+      "title_seo": "Smart Gaming Matchmaking",
+      "subtitle_header": "Temukan Rekan Tim yang Sesuai dengan Level Skill & Gaya Bermain Anda",
+      "subtitle_seo": "Algoritma matchmaking cerdas kami menganalisis profil gaming Anda, level skill (ELO), gaya bermain yang disukai, dan ketersediaan untuk menemukan squad gaming sempurna dalam hitungan detik. Tidak perlu lagi menjelajahi posting LFG tanpa akhir atau menunggu di lobi kosong. Biarkan sistem kami melakukan pekerjaan dan menghubungkan Anda dengan rekan tim yang kompatibel secara otomatis."
+    },
+    "community_building": {
+      "title": "Membangun Komunitas",
+      "subtitle": "Buat komunitas Anda sendiri dan menjadi pemimpin. Rekrut rekan tim Anda sendiri yang sesuai dengan kriteria Anda, tetapkan tujuan Anda, dan dorong batas Anda. Komunitas Anda, aturan Anda, kesuksesan Anda",
+      "title_seo": "Bangun Komunitas Gaming Anda",
+      "subtitle_header": "Buat & Pimpin Squad Gaming Anda Sendiri",
+      "subtitle_seo": "Buat komunitas gaming Anda sendiri dan menjadi pemimpin. Rekrut rekan tim yang sesuai dengan kriteria Anda, tetapkan tujuan, dan dorong batas Anda. Baik Anda membangun tim esports, grup gaming kasual, atau komunitas content creator, Jynx memberi Anda alat untuk tumbuh dan mengelola squad Anda. Komunitas Anda, aturan Anda, kesuksesan Anda."
+    },
+    "global_chat": {
+      "title": "Chat Global",
+      "subtitle": "Terlibat dalam percakapan real-time dengan ratusan orang melalui chat global, menonjol dengan ELO Anda, dan temukan rekan tim yang sesuai dengan kepribadian dan energi Anda",
+      "title_seo": "Chat & Komunikasi Gaming Real-Time",
+      "subtitle_header": "Terhubung dengan Ribuan Gamer di Seluruh Dunia"
+    },
+    "gaming_sessions": {
+      "title": "Sesi Gaming",
+      "subtitle": "Rencanakan malam gaming Anda sebelumnya dan jangan pernah bingung mencari rekan tim lagi",
+      "title_seo": "Jadwalkan Sesi Gaming",
+      "subtitle_header": "Rencanakan Malam Gaming Anda dengan Squad Anda"
+    }
+  },
+  "problem": {
+    "title": "Tantangan",
+    "description": "Menemukan rekan tim yang kompatibel dalam gaming kompetitif seringkali membuat frustrasi dan memakan waktu. Matchmaking acak jarang menghubungkan Anda dengan pemain yang sesuai dengan gaya komunikasi, level skill, dan jadwal Anda."
+  },
+  "solution": {
+    "title": "Kenalkan Jynx",
+    "description": "Platform cerdas kami menghubungkan Anda dengan teman gaming sempurna berdasarkan preferensi gameplay aktual Anda, memastikan setiap match mengarah pada pengalaman gaming yang lebih baik.",
+    "benefits": {
+      "scheduling": "Jadwalkan sesi gaming yang sesuai dengan ketersediaan semua orang",
+      "time": "Hemat jam mencari rekan tim yang kompatibel",
+      "playstyle": "Terhubung dengan pemain yang berbagi gaya komunikasi dan pendekatan game Anda"
+    }
+  },
+  "collaborative": {
+    "title": "Bentuk Masa Depan Jynx Bersama",
+    "description": "<a href=\"/about\">Dibuat oleh gamer, untuk gamer</a>. Misi kami sederhana: membangun platform gaming sosial yang didorong oleh passion, bukan profit. Kami ada karena kami mencintai gaming, dan masukan Anda secara langsung membentuk masa depan Jynx",
+    "discord": "Bergabung dengan Discord kami",
+    "ideas": "Bagikan Ide Anda"
+  },
+  "form": {
+    "email": {
+      "label": "Alamat Email",
+      "placeholder": "",
+      "error": "Masukkan alamat email yang valid"
+    },
+    "optional": "Opsional",
+    "submit": "Bergabung dengan Waitlist",
+    "submitting": "Mengirim...",
+    "success": "Anda masuk! Kami akan memberi tahu Anda saat Jynx diluncurkan.",
+    "error": "Ups! Terjadi kesalahan. Silakan coba lagi.",
+    "errors": {
+      "permission_denied": "Anda tidak memiliki izin untuk mengirim formulir ini.",
+      "invalid_argument": "Informasi yang Anda berikan tidak valid.",
+      "not_found": "Sumber daya tidak ditemukan. Silakan coba lagi nanti.",
+      "server_unavailable": "Server kami saat ini tidak tersedia. Silakan coba lagi nanti.",
+      "too_many_requests": "Terlalu banyak permintaan. Silakan coba lagi nanti.",
+      "server_error": "Terjadi kesalahan di pihak kami. Silakan coba lagi nanti.",
+      "network_error": "Kesalahan koneksi jaringan. Periksa koneksi internet Anda.",
+      "timeout": "Permintaan waktu habis. Silakan coba lagi.",
+      "invalid_email": "Masukkan alamat email yang valid.",
+      "empty_field": "Bidang ini tidak boleh kosong.",
+      "default": "Terjadi kesalahan tak terduga. Silakan coba lagi."
+    },
+    "nojs_note": "Ini akan membuka klien email Anda. Untuk pengalaman terbaik, harap aktifkan JavaScript."
+  },
+  "feedback": {
+    "coming_soon": "Segera hadir",
+    "title": "Saran Anda, prioritas kami",
+    "feedback": "Pesan Anda (opsional)",
+    "feedback_label": "Pesan Anda",
+    "subtitle": "Tanpa spam. Kami hanya akan menghubungi Anda saat Jynx diluncurkan.",
+    "countdown_label": "Diluncurkan dalam",
+    "countdown_days": "HARI",
+    "countdown_hours": "JAM",
+    "countdown_minutes": "MENIT",
+    "countdown_seconds": "DETIK",
+    "launch_date": "1 Desember di store",
+    "discord": "Bergabung dengan Discord kami",
+    "yes": "Ya",
+    "no": "Tidak",
+    "textarea": "",
+    "submit": "Kirim",
+    "note": "Gratis selamanya",
+    "submitting": "Mengirim...",
+    "thanks": "Terima kasih atas umpan balik Anda!",
+    "error": "Tidak dapat mengirim umpan balik. Silakan coba lagi.",
+    "error_empty": "Harap berikan email atau umpan balik Anda."
+  },
+  "footer": {
+    "company": {
+      "title": "Perusahaan",
+      "about": "Tentang Kami",
+      "about_seo": "Tentang Platform Gaming Jynx",
+      "blog": "Blog",
+      "search": "Cari"
+    },
+    "legal": {
+      "title": "Hukum",
+      "privacy": "Kebijakan Privasi",
+      "terms": "Ketentuan Layanan",
+      "cookies": "Kebijakan Cookie",
+      "privacy_seo": "Kebijakan Privasi",
+      "terms_seo": "Ketentuan Layanan"
+    },
+    "download": {
+      "title": "Unduh",
+      "app_store": "App Store",
+      "google_play": "Google Play"
+    },
+    "copyright": "© 2024 Jynx. Hak cipta dilindungi undang-undang.",
+    "language": "Bahasa"
+  },
+  "errors": {
+    "generic": "Terjadi kesalahan. Silakan coba lagi.",
+    "network": "Kesalahan jaringan. Periksa koneksi Anda.",
+    "validation": "Periksa input Anda dan coba lagi.",
+    "not_found": "Halaman tidak ditemukan.",
+    "server": "Kesalahan server. Silakan coba lagi nanti."
+  },
+  "accessibility": {
+    "skip_to_content": "Lewati ke konten utama",
+    "menu_toggle": "Toggle menu navigasi",
+    "theme_toggle": "Toggle mode gelap",
+    "language_selector": "Pilih bahasa",
+    "close_modal": "Tutup modal"
+  },
+  "breadcrumb": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "download": "Unduh",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "blog": "Blog"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan Tentang Gaming Matchmaking",
+    "cta_heading": "ADA PERTANYAAN?",
+    "cta_subtitle": "Punya lebih banyak pertanyaan?",
+    "cta_write_to_us": "Tulis kepada kami",
+    "cta_button": "Hubungi Kami!",
+    "q1": {
+      "question": "Apakah ada aplikasi seperti Tinder untuk gamer mencari rekan tim?",
+      "answer": "Jika Anda bosan dengan random yang rage quit, tidak bisa berkomunikasi dalam bahasa Anda, atau online saat Anda tidur, Jynx memungkinkan Anda memfilter apa yang benar-benar penting: jadwal yang kompatibel, level skill yang serupa, dan preferensi gaming yang sama. Anda swipe melalui calon rekan tim yang memenuhi kriteria Anda, lewati pesan dingin yang canggung, dan hanya terhubung dengan pemain yang benar-benar tersedia saat Anda ingin bermain.<br><br>Perbedaan dari forum LFG biasa atau server Discord? Anda tidak berteriak ke kekosongan berharap seseorang merespons, Anda hanya melihat orang yang sudah sesuai dengan ketersediaan Anda, berbicara bahasa Anda, dan bermain game Anda. Lebih sedikit waktu spamming \"LFG\" di chat, lebih banyak waktu dalam game dengan orang yang benar-benar ingin Anda ajak bermain lagi."
+    },
+    "q2": {
+      "question": "Bagaimana cara bertemu gamer online dan membangun grup teman gaming?",
+      "answer": "Tantangan terbesar dalam bertemu gamer bukan menemukan orang, tapi menemukan orang yang TEPAT. Anda membutuhkan rekan tim yang tersedia saat Anda bermain, berkomunikasi dalam bahasa Anda, dan sesuai dengan level skill Anda.<br><br><strong>Inilah yang benar-benar berhasil:</strong><br><strong>• Filter sebelum Anda berkomitmen:</strong> Cari platform di mana Anda dapat menjelajahi profil pemain dengan statistik terverifikasi, ketersediaan, dan gaya bermain sebelum terhubung<br><strong>• Prioritaskan kompatibilitas:</strong> Zona waktu, rank, dan gaya komunikasi lebih penting daripada sekadar bermain game yang sama<br><strong>• Bangun secara bertahap:</strong> Fokus untuk menemukan 2-3 rekan tim solid daripada bergabung dengan komunitas besar di mana koneksi bermakna lebih sulit terbentuk<br><br>Hindari platform yang memaksa Anda untuk spam pesan \"LFG\" dan berharap ada respons, waktu Anda berharga."
+    },
+    "q3": {
+      "question": "Bagaimana cara menemukan rekan tim untuk game ranked di League of Legends dan Valorant?",
+      "answer": "Menemukan rekan tim ranked yang baik bukan tentang kuantitas, tapi tentang kompatibilitas. Bermain dengan random yang tidak berkomunikasi, rage quit setelah first blood, atau bermain role yang tidak nyaman bagi mereka merugikan LP dan kewarasan Anda.<br><br>Apa yang harus dicari dalam rekan tim ranked:<br><strong>• Rank terverifikasi:</strong> Pastikan mereka benar-benar di ELO Anda (bukan smurf atau boosted)<br><strong>• Kompatibilitas role:</strong> Periksa champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten:</strong> Ranked grinding memerlukan permainan reguler, temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi:</strong> Beberapa pemain lebih suka shotcalling, yang lain ingin chat minimal. Cocokkan ini di awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan memungkinkan Anda memfilter berdasarkan role, jadwal, dan preferensi komunikasi. Anda akan menghabiskan lebih sedikit waktu di champ select dodging dan lebih banyak waktu untuk climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Baca panduan lengkap rekan League of Legends kami</a> atau <a href=\"/blog/ai-gaming-matchmaking-guide\">pelajari lebih lanjut tentang cara kerja matchmaking berbasis AI</a>."
+    },
+    "q4": {
+      "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server dengan 10.000 anggota berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Pelajari tentang evolusi platform LFG dan mengapa matchmaking modern lebih efektif</a>."
+    },
+    "q5": {
+      "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
+      "answer": "Ya, dan Anda tidak perlu membayar hanya untuk menemukan rekan tim. Banyak platform menawarkan tier gratis yang kuat yang mencakup hal-hal penting: penemuan pemain, penjelajahan profil, chat, dan perencanaan sesi.<br><br><strong>Apa yang diharapkan dari tier gratis:</strong><br>• Fitur matchmaking inti (cari, filter, terhubung)<br>• Profil pemain dengan statistik<br>• Pesan dan penjadwalan sesi dasar<br><br><strong>Apa yang biasanya ditambahkan tier premium:</strong><br>• Match/swipe harian tak terbatas<br>• Filter lanjutan (kriteria sangat spesifik)<br>• Upgrade kosmetik (badge, kustomisasi profil)<br><br><strong>Red flag yang harus dihindari:</strong><br>• Paywall fitur dasar seperti pesan atau melihat siapa yang match dengan Anda<br>• Memaksa Anda membayar untuk memverifikasi rank atau menghubungkan akun<br>• Tidak ada tier gratis sama sekali (jika mereka percaya diri dengan produknya, mereka harus membiarkan Anda mencoba)<br><br>Waktu Anda lebih berharga daripada biaya langganan, fokus pada platform dengan tier gratis yang murah hati sehingga Anda dapat mencoba sebelum berkomitmen."
+    }
+  },
+  "how_it_works": {
+    "title": "Cara Kerja Smart Gaming Matchmaking",
+    "subtitle": "Temukan squad gaming sempurna dalam 4 langkah sederhana",
+    "step1": {
+      "title": "Buat Profil Gaming Anda",
+      "description": "Beri tahu kami tentang preferensi gaming Anda: game favorit, level skill (ELO), gaya bermain (agresif, defensif, support), role yang disukai, dan kapan Anda bermain. Hubungkan akun Riot Games Anda untuk verifikasi rank otomatis.",
+      "feature1": "Hubungkan akun League of Legends & Valorant",
+      "feature2": "Atur jadwal gaming Anda",
+      "feature3": "Pilih gaya komunikasi yang disukai"
+    },
+    "step2": {
+      "title": "Sistem Kami Menganalisis Profil Anda",
+      "description": "Algoritma matchmaking cerdas kami memproses data gaming Anda, pola bermain, dan preferensi untuk membuat profil gamer unik Anda. Sistem belajar dari interaksi Anda untuk meningkatkan kualitas match seiring waktu.",
+      "feature1": "Matching berbasis algoritma lanjutan",
+      "feature2": "Sistem skor kompatibilitas",
+      "feature3": "Analisis perilaku dan komunikasi"
+    },
+    "step3": {
+      "title": "Dapatkan Match dengan Squad Anda",
+      "description": "Terima rekomendasi rekan tim instan berdasarkan profil Anda. Jelajahi pemain yang kompatibel, periksa statistik mereka, dan kirim permintaan koneksi. Sistem cerdas kami memastikan Anda dipasangkan dengan gamer yang melengkapi gaya bermain Anda.",
+      "feature1": "Saran rekan tim cerdas",
+      "feature2": "Profil pemain terperinci dengan statistik",
+      "feature3": "Permintaan koneksi satu klik"
+    },
+    "step4": {
+      "title": "Bermain Bersama & Menang Lebih Banyak",
+      "description": "Gunakan chat bawaan untuk berkoordinasi, jadwalkan sesi gaming, dan bangun persahabatan yang langgeng. Bergabung atau buat komunitas di sekitar game favorit Anda. Lacak performa squad Anda dan naik rank bersama.",
+      "feature1": "Chat dan notifikasi real-time",
+      "feature2": "Penjadwalan sesi gaming",
+      "feature3": "Pelacakan performa squad"
+    },
+    "cta": "Mulai Temukan Rekan Tim Sekarang - Gratis"
+  },
+  "theme-feedback": {
+    "submit": "Kirim Umpan Balik",
+    "title": "Warna apa yang Anda suka?",
+    "description": "Klik tile tema untuk menerapkannya. Centang kotak \"Suka\" dari tema favorit Anda untuk mengirim preferensi Anda.",
+    "thanks": "Terima kasih atas umpan balik tema Anda!",
+    "current_theme": "Tema saat ini:"
+  },
+  "download": {
+    "meta": {
+      "title": "Unduh Jynx - Platform Sosial Gaming",
+      "description": "Unduh Jynx - Terhubung dengan gamer, temukan rekan tim, bergabung dengan komunitas. Tersedia di iOS dan Android.",
+      "og_title": "Unduh Aplikasi Jynx - Temukan Squad Gaming Anda",
+      "og_description": "Dapatkan aplikasi Jynx di iOS atau Android. Mulai temukan rekan tim yang kompatibel dengan matchmaking AI.",
+      "og_image_alt": "Unduh Aplikasi Gaming Jynx",
+      "twitter_title": "Unduh Jynx - Platform Sosial Gaming",
+      "twitter_description": "Dapatkan aplikasi Jynx di iOS atau Android. Mulai temukan rekan tim hari ini.",
+      "twitter_image_alt": "Aplikasi Mobile Jynx"
+    },
+    "hero": {
+      "title": "Jynx - Platform Sosial Gaming",
+      "subtitle": "Terhubung dengan gamer, temukan rekan tim, bergabung dengan komunitas",
+      "status": "Segera Hadir: Tersedia di iOS dan Android"
+    },
+    "store": {
+      "app_store": {
+        "text_small": "Download di",
+        "text_large": "App Store"
+      },
+      "google_play": {
+        "text_small": "Dapatkan di",
+        "text_large": "Google Play"
+      },
+      "coming_soon": "Segera Hadir"
+    },
+    "signup": {
+      "title": "Dapatkan Notifikasi Saat Kami Meluncurkan",
+      "description": "Jadilah yang pertama tahu saat Jynx tersedia di platform Anda",
+      "email_placeholder": "Masukkan email Anda",
+      "submit": "Beri Tahu Saya"
+    },
+    "social": {
+      "title": "Bagikan dengan squad gaming Anda",
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "copy_link": "Salin Link"
+    },
+    "info": {
+      "title": "Transformasikan Pengalaman Gaming Anda",
+      "description": "Jynx mengubah gaming solo menjadi pengalaman sosial dengan secara cerdas menghubungkan pemain berdasarkan preferensi gaming, gaya bermain, dan minat komunitas. Temukan squad gaming sempurna Anda dan jangan pernah bermain sendirian lagi."
+    },
+    "js_messages": {
+      "share_twitter": "Lihat Jynx - platform sosial gaming yang mengubah gaming solo menjadi pengalaman sosial! 🎮",
+      "share_discord_alert": "Link disalin! Anda sekarang dapat menempelkannya di Discord untuk berbagi dengan teman gaming Anda.",
+      "copy_success": "✓ Disalin!",
+      "copy_fallback": "Link disalin ke clipboard!",
+      "form_submitting": "Mengirim...",
+      "form_success": "✓ Terima kasih! Kami akan memberi tahu Anda saat Jynx diluncurkan di mobile.",
+      "form_error": "Terjadi kesalahan. Silakan coba lagi."
+    },
+    "features": {
+      "title": "Apa yang Datang ke Mobile",
+      "subtitle": "Semua kekuatan Jynx, dioptimalkan untuk ponsel Anda",
+      "cards": {
+        "instant_connect": {
+          "title": "Koneksi Instan",
+          "description": "Bergabung dengan voice chat dan sesi gaming dengan satu tap, langsung dari notifikasi Anda"
+        },
+        "notifications": {
+          "title": "Notifikasi Cerdas",
+          "description": "Dapatkan notifikasi saat rekan tim favorit Anda online atau saat match sempurna ditemukan"
+        },
+        "cross_platform": {
+          "title": "Sinkronisasi Cross-Platform",
+          "description": "Percakapan, match, dan komunitas Anda tetap sinkron di mobile dan desktop"
+        },
+        "offline_mode": {
+          "title": "Mode Offline",
+          "description": "Lihat match Anda dan rencanakan sesi bahkan tanpa koneksi internet"
+        }
+      }
+    },
+    "theme_feedback": {
+      "title": "Bantu Kami Mendesain Aplikasi",
+      "description": "Skema warna mana yang Anda sukai untuk aplikasi mobile? Umpan balik Anda membantu kami menciptakan pengalaman sempurna.",
+      "current_theme": "Tema saat ini:",
+      "submit": "Kirim Preferensi Tema Aplikasi",
+      "thanks": "Terima kasih telah membantu kami mendesain antarmuka aplikasi!"
+    }
+  },
+  "reviews": {
+    "main_title": "ULASAN",
+    "subtitle_prefix": "APA KATA",
+    "subtitle_highlight": "PENGGUNA KAMI",
+    "review1": {
+      "quote": "Saya pemain League of Legends Diamond yang mencari squad ranked konsisten. Matchmaking cerdas Jynx menghubungkan saya dengan pemain di level skill saya yang bermain role yang sama dan memiliki jadwal serupa. Kami naik dari Diamond IV ke Diamond I hanya dalam 2 bulan!",
+      "name": "Alex 'Frostbyte' Ramirez",
+      "role": "Pemain League of Legends Diamond"
+    },
+    "review2": {
+      "quote": "Saya hanya ingin menemukan orang santai untuk bermain game co-op di akhir pekan. Penemuan pemain Jynx memungkinkan saya swipe melalui profil dan terhubung dengan gamer yang berbagi vibe saya. Sekarang saya punya grup reguler untuk pertandingan unrated Valorant dan sangat menyenangkan!",
+      "name": "Sarah 'PixelQueen' Chen",
+      "role": "Pemain Valorant Kasual"
+    },
+    "review3": {
+      "quote": "Saya menjalankan komunitas 500 anggota untuk penggemar indie game. Fitur komunitas Jynx membantu saya mengorganisir acara, moderasi diskusi, dan menjaga semua orang terlibat dengan chat real-time. Matchmaking AI membantu anggota menemukan rekan tim dalam komunitas kami secara instan.",
+      "name": "Marcus 'IronWill' Thompson",
+      "role": "Pemimpin Komunitas Gaming"
+    },
+    "review4": {
+      "quote": "Gaming sendirian tidak menyenangkan lagi. Jynx membantu saya menemukan komunitas di sekitar game favorit saya dan sekarang saya punya grup reguler untuk bermain setiap malam. AI sempurna mencocokkan saya dengan orang yang memiliki tujuan gaming yang sama - kasual tetapi kompetitif saat penting.",
+      "name": "James 'ShadowStrike' Wilson",
+      "role": "Mantan Pemain Solo Queue"
+    },
+    "nojs_note": "Aktifkan JavaScript untuk menjelajahi semua ulasan"
+  },
+  "comparison": {
+    "title": "Dibuat untuk gamer, oleh gamer",
+    "table": {
+      "feature": "Fitur",
+      "lfg": "LFG Tradisional",
+      "game_session_matchmaking": "Matchmaking Sesi Game",
+      "auto_finder": "Pencari Rekan Tim Otomatis",
+      "elo_matching": "Matching Berbasis Skill (ELO)",
+      "community_search": "Pencarian & Penemuan Komunitas",
+      "chat": "Chat Real-Time",
+      "tournaments": "Organisasi Turnamen",
+      "integration": "Integrasi Profil Pemain",
+      "discovery": "Penemuan Pemain Gaya Tinder",
+      "gaming_focused": "Dibuat oleh Gamer & untuk Gaming",
+      "price": "Harga",
+      "yes": "Ya",
+      "no": "Tidak",
+      "manual": "Pencarian manual",
+      "limited": "Terbatas",
+      "manual_posts": "Posting manual",
+      "basic": "Dasar",
+      "by_game_skill": "Berdasarkan Game, rank & Bahasa",
+      "on_computer_only": "Hanya di komputer",
+      "servers": "Server",
+      "teams": "Tim",
+      "advanced": "Lanjutan",
+      "coming_soon": "Segera Hadir",
+      "exclusive_features": "(Fitur Eksklusif)",
+      "game_apis": "Game APIs",
+      "general": "Umum",
+      "varies": "Bervariasi",
+      "free_jynx_plus": "Gratis / Jynx+",
+      "free_varies": "Gratis/Bervariasi"
+    },
+    "cta": {
+      "title": "Siap Merasakan Perbedaannya?",
+      "description": "Bergabung dengan 10.000+ gamer yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
+      "button": "Mulai Matching dengan AI - Gratis Selamanya"
+    }
+  },
+  "global": {
+    "nojs_banner": "JavaScript dinonaktifkan. Beberapa fitur interaktif mungkin tidak berfungsi secara optimal."
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog Jynx | Tips & Panduan Matchmaking Gaming",
+      "description": "Temukan tips ahli tentang matchmaking gaming, membangun komunitas, dan menemukan rekan tim yang sempurna. Panduan, strategi, dan wawasan.",
+      "index_title": "Blog Jynx | Tips & Panduan Matchmaking Gaming",
+      "index_description": "Temukan tips ahli tentang matchmaking gaming, membangun komunitas, dan menemukan rekan tim yang sempurna. Panduan, strategi, dan wawasan.",
+      "og_title": "Blog Jynx - Tips Matchmaking Gaming & Panduan Komunitas",
+      "og_description": "Panduan ahli tentang matchmaking AI, komunitas gaming, dan menemukan rekan tim yang sempurna. Tips dan strategi untuk gamer kompetitif.",
+      "twitter_title": "Blog Jynx - Tips & Panduan Gaming",
+      "twitter_description": "Panduan ahli tentang matchmaking gaming dan membangun komunitas."
+    },
+    "hero": {
+      "title": "Panduan & Tips Matchmaking Gaming",
+      "subtitle": "Wawasan ahli untuk menemukan rekan tim, membangun komunitas, dan menguasai gaming kompetitif"
+    },
+    "filters": {
+      "all": "Semua Postingan",
+      "matchmaking": "Matchmaking & AI",
+      "communities": "Komunitas Gaming",
+      "guides": "Panduan & Tips",
+      "aria_label": "Filter postingan blog berdasarkan kategori"
+    },
+    "newsletter": {
+      "title": "Dapatkan Wawasan Gaming",
+      "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+      "placeholder": "Masukkan email Anda",
+      "submit": "Berlangganan",
+      "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja.",
+      "thanks": "Terima kasih telah berlangganan! Periksa inbox Anda untuk konfirmasi.",
+      "aria_label": "Alamat email"
+    },
+    "common": {
+      "back_to_blog": "Kembali ke Blog",
+      "load_more": "Muat Lebih Banyak",
+      "no_results": "Tidak ada artikel ditemukan",
+      "search_placeholder": "Cari...",
+      "recent_posts": "Artikel Terbaru",
+      "popular_posts": "Artikel Populer",
+      "all_categories": "Semua Kategori",
+      "featured": "Unggulan",
+      "min_read": "mnt baca",
+      "no_posts": "Belum ada posting blog yang tersedia. Periksa kembali segera!"
+    },
+    "post": {
+      "aria": {
+        "share_twitter": "Bagikan di Twitter",
+        "share_facebook": "Bagikan di Facebook",
+        "share_linkedin": "Bagikan di LinkedIn",
+        "share_copy": "Salin tautan",
+        "author_twitter": "Twitter penulis",
+        "author_linkedin": "LinkedIn penulis"
+      },
+      "written_by": "Ditulis oleh",
+      "updated_on": "Diperbarui pada",
+      "published_on": "Dipublikasikan pada",
+      "reading_time": "{{time}} menit baca",
+      "share": "Bagikan artikel ini :",
+      "tags": "Tag :",
+      "author": {
+        "title": "Tentang Penulis",
+        "follow": "Ikuti di"
+      },
+      "related": {
+        "title": "Artikel Terkait",
+        "subtitle": "Lanjutkan belajar dengan postingan terkait ini"
+      },
+      "breadcrumb": {
+        "home": "Beranda",
+        "blog": "Blog"
+      },
+      "cta": {
+        "title": "Siap Menemukan Squad Sempurna Anda?",
+        "subtitle": "Bergabunglah dengan ribuan gamer yang menggunakan matchmaking cerdas Jynx",
+        "button": "Unduh Jynx",
+        "heading_early": "Siap Menemukan Squad Sempurna Anda?",
+        "heading_mid": "Bergabunglah dengan Ribuan Gamer",
+        "heading_final": "Mulai Perjalanan Gaming Anda dengan Jynx",
+        "tagline": "Siap meningkatkan pengalaman gaming Anda?",
+        "description": "Unduh Jynx dan terhubung dengan rekan tim yang kompatibel dalam hitungan menit"
+      },
+      "related_posts": "Artikel Terkait"
+    },
+    "reading_progress": {
+      "aria_label": "Progres membaca"
+    },
+    "cta": {
+      "aria": {
+        "app_store": "Unduh di App Store - Segera Hadir",
+        "play_store": "Tersedia di Google Play - Segera Hadir"
+      }
+    },
+    "index": {
+      "title": "Blog Jynx",
+      "subtitle": "Panduan ahli tentang matchmaking gaming, membangun komunitas, dan menemukan squad sempurna Anda",
+      "filter_all": "Semua Postingan",
+      "filter_matchmaking": "Matchmaking & AI",
+      "filter_communities": "Komunitas Gaming",
+      "filter_guides": "Panduan & Tips",
+      "filter_updates": "Update Produk",
+      "no_posts": "Tidak ada postingan yang ditemukan dalam kategori ini.",
+      "read_more": "Baca Selengkapnya",
+      "min_read": "menit baca",
+      "newsletter": {
+        "title": "Dapatkan Wawasan Gaming",
+        "subtitle": "Bergabunglah dengan 10.000+ gamer yang menerima tips tentang matchmaking, membangun komunitas, dan menemukan rekan tim yang sempurna.",
+        "placeholder": "Masukkan email Anda",
+        "button": "Berlangganan",
+        "privacy": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."
+      }
+    },
+    "categories": {
+      "matchmaking": "Matchmaking & AI",
+      "gaming_communities": "Komunitas Gaming",
+      "social_gaming": "Gaming Sosial",
+      "technical": "Teknis",
+      "product_updates": "Update Produk",
+      "guides": "Panduan & Tips"
+    },
+    "search_bar": {
+      "placeholder": "Cari artikel...",
+      "button": "Cari",
+      "aria_label": "Kolom pencarian"
+    }
+  },
+  "search": {
+    "meta": {
+      "title": "Hasil Pencarian | Jynx",
+      "description": "Cari panduan matchmaking gaming, tips, dan sumber daya kami untuk menemukan rekan tim yang sempurna.",
+      "og_title": "Cari Blog Gaming Jynx",
+      "og_description": "Temukan panduan tentang matchmaking, pembangunan tim, dan gaming kompetitif.",
+      "og_image_alt": "Pencarian Jynx",
+      "twitter_title": "Cari Blog Gaming Jynx",
+      "twitter_description": "Temukan panduan tentang matchmaking, pembangunan tim, dan gaming kompetitif.",
+      "twitter_image_alt": "Pencarian Jynx"
+    },
+    "hero": {
+      "title": "Cari Panduan Gaming",
+      "subtitle": "Temukan artikel tentang matchmaking, pembangunan tim, dan gaming kompetitif"
+    },
+    "input": {
+      "placeholder": "Cari artikel...",
+      "aria_label": "Bidang input pencarian"
+    },
+    "button": {
+      "text": "Cari",
+      "aria_label": "Kirim kueri pencarian"
+    },
+    "results": {
+      "heading": "Hasil Pencarian",
+      "count_singular": "Ditemukan 1 hasil untuk",
+      "count_plural": "Ditemukan {count} hasil untuk"
+    },
+    "loading": "Mencari...",
+    "empty": {
+      "title": "Tidak ada hasil yang ditemukan",
+      "description": "Kami tidak dapat menemukan artikel yang cocok dengan pencarian Anda. Coba kata kunci yang berbeda atau telusuri semua artikel.",
+      "browse_button": "Telusuri Semua Artikel"
+    },
+    "nojs": {
+      "message": "Pencarian memerlukan JavaScript untuk diaktifkan. Silakan aktifkan JavaScript atau telusuri semua artikel."
+    },
+    "breadcrumb": {
+      "home": "Beranda",
+      "search": "Pencarian"
+    },
+    "back_to_blog": "Kembali ke Blog"
+  }
+}

@@ -54,7 +54,7 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp</image:loc>
       <image:caption>Performans istatistiklerini ve oyun metriklerini analiz eden profesyonel oyuncu</image:caption>
-      <image:title>Rekabetçi Oyunculukta Yapay Zeka Koçların Yükselişi | Jynx</image:title>
+      <image:title>Rekabetçi Oyunculukta Yapay Zeka Koçların Yükselişi</image:title>
     </image:image>
   </url>
   <url>
@@ -112,15 +112,30 @@
     </image:image>
   </url>
   <url>
-    <loc>https://jynx.app/tr/blog/ai-gaming-matchmaking-guide.html</loc>
+    <loc>https://jynx.app/tr/blog/yapay-zeka-oyun-eslestirme-rehberi.html</loc>
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-
+      <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-mujama-al-alab-ai.html" />
+      <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/blog/ai-gaming-matchmaking-guide.html" />
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-gaming-matchmaking-leitfaden.html" />
+      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-gaming-matchmaking-guide.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-emparejamiento-juegos-ia.html" />
+      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guide-matchmaking-ia-jeux.html" />
+      <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/blog/ai-gaming-matchmaking-guide.html" />
+      <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/blog/panduan-matchmaking-ai-game.html" />
+      <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/blog/guida-matchmaking-ia-gaming.html" />
+      <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/blog/ai-gaming-matchmaking-guide.html" />
+      <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/blog/przewodnik-matchmaking-ai-gry.html" />
+      <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/blog/guia-matchmaking-ia-jogos.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/rukovodstvo-matchmaking-ai-igry.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/yapay-zeka-oyun-eslestirme-rehberi.html" />
+      <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/blog/posibnik-matchmaking-ai-igri.html" />
+      <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/blog/huong-dan-ghep-cap-game-ai.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
       <image:caption>Oyuncu uyumluluk puanlarını gösteren yapay zeka destekli oyun eşleştirme arayüzü</image:caption>
-      <image:title>Yapay Zeka Destekli Oyun Eşleştirme için Eksiksiz | Jynx</image:title>
+      <image:title>Yapay Zeka Destekli Oyun Eşleştirme için Eksiksiz</image:title>
     </image:image>
   </url>
 </urlset>

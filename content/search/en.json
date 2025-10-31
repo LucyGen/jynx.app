@@ -1,6 +1,6 @@
 {
   "locale": "en",
-  "generated_at": "2025-10-31T21:44:13.889Z",
+  "generated_at": "2025-10-31T23:18:49.655Z",
   "post_count": 40,
   "posts": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "id": "ai-coaches-competitive-gaming",
-      "title": "The Rise of AI Coaches in Competitive Gaming | Jynx",
+      "title": "The Rise of AI Coaches in Competitive Gaming",
       "excerpt": "Performance analysis tools and strategy optimization systems are transforming how competitive gamers train and improve their skills.",
       "tags": [
         "competitive-gaming",
@@ -59,7 +59,7 @@
     },
     {
       "id": "ai-gaming-matchmaking-guide",
-      "title": "The Complete Guide to AI-Powered Gaming Matchmaking | Jynx",
+      "title": "The Complete Guide to AI-Powered Gaming Matchmaking",
       "excerpt": "Discover how AI-powered matchmaking helps gamers find perfect teammates based on skill, playstyle, and personality. Complete guide with tips, tools, and strategies.",
       "tags": [
         "AI",
@@ -86,7 +86,7 @@
     },
     {
       "id": "ai-gaming-matchmaking-revolution-2025",
-      "title": "How AI is Revolutionizing Gaming Matchmaking in 2025 | Jynx",
+      "title": "How AI is Revolutionizing Gaming Matchmaking in 2025",
       "excerpt": "Discover how artificial intelligence is transforming gaming matchmaking from simple skill-based systems to sophisticated personality matching that creates better teams and lasting friendships.",
       "tags": [
         "ai-matchmaking",
@@ -115,7 +115,7 @@
     },
     {
       "id": "apex-legends-playstyle-matching",
-      "title": "Finding Apex Legends Teammates Who Match Your | Jynx",
+      "title": "Finding Apex Legends Teammates Who Match Your Playstyle",
       "excerpt": "Discover how to find Apex Legends teammates who complement your playstyle, legend preferences, and rotation strategies for consistent ranked success.",
       "tags": [
         "apex-legends",
@@ -144,7 +144,7 @@
     },
     {
       "id": "apex-ranked-team-chemistry",
-      "title": "Apex Legends Ranked: Why Chemistry Beats Individual | Jynx",
+      "title": "Apex Legends Ranked: Why Chemistry Beats Individual Skill",
       "excerpt": "Learn why team chemistry and synergy outperform individual mechanical skill in Apex Legends ranked, with real examples and strategies to build better squad dynamics.",
       "tags": [
         "apex-legends",
@@ -200,7 +200,7 @@
     },
     {
       "id": "brawl-stars-club-management",
-      "title": "Brawl Stars Club Management: Keeping Players Engaged | Jynx",
+      "title": "Brawl Stars Club Management: Keeping Players Engaged",
       "excerpt": "Master Brawl Stars club management with proven strategies for setting activity requirements, coordinating club events, and retaining engaged members long-term.",
       "tags": [
         "brawl-stars",
@@ -227,7 +227,7 @@
     },
     {
       "id": "building-lasting-gaming-communities",
-      "title": "Building Gaming Communities That Actually Last | Jynx",
+      "title": "Building Gaming Communities That Actually Last",
       "excerpt": "Most gaming communities collapse within months. Learn the proven frameworks and strategies that help community leaders build thriving, sustainable gaming communities that keep members engaged for years.",
       "tags": [
         "gaming communities",
@@ -256,7 +256,7 @@
     },
     {
       "id": "cross-platform-gaming-barriers",
-      "title": "Cross-Platform Gaming: Breaking Down Platform | Jynx",
+      "title": "Cross-Platform Gaming: Breaking Down Platform Barriers",
       "excerpt": "Explore how cross-platform play is solving technical challenges and creating massive social benefits for gaming communities worldwide.",
       "tags": [
         "cross-platform",
@@ -283,7 +283,7 @@
     },
     {
       "id": "cs2-non-toxic-teammates",
-      "title": "Finding Non-Toxic CS2 Teammates: Complete Guide | Jynx",
+      "title": "Finding Non-Toxic CS2 Teammates: Complete Guide",
       "excerpt": "Learn to identify red flags and green flags when finding Counter-Strike 2 teammates. Proven vetting strategies and community recommendations for building toxic-free squads.",
       "tags": [
         "counter-strike-2",
@@ -310,7 +310,7 @@
     },
     {
       "id": "cs2-team-roles-guide",
-      "title": "CS2 Team Roles Explained: Building a Balanced Squad | Jynx",
+      "title": "CS2 Team Roles Explained: Building a Balanced Squad",
       "excerpt": "Master Counter-Strike 2 team composition with this complete guide to entry fragger, support, AWPer, IGL, and lurker roles. Learn how to build complementary squads that dominate competitive matches.",
       "tags": [
         "counter-strike-2",
@@ -337,7 +337,7 @@
     },
     {
       "id": "future-social-gaming-2025-2030",
-      "title": "The Future of Social Gaming: Predictions for | Jynx",
+      "title": "The Future of Social Gaming: Predictions for 2025-2030",
       "excerpt": "Explore how VR social spaces, cross-platform play, and the metaverse will revolutionize how gamers connect and play together over the next five years.",
       "tags": [
         "social-gaming",
@@ -366,7 +366,7 @@
     },
     {
       "id": "gaming-community-drama-management",
-      "title": "Managing Gaming Community Drama: A Leader's Guide | Jynx",
+      "title": "Managing Gaming Community Drama: A Leader's Guide",
       "excerpt": "Master conflict resolution, prevention strategies, and moderation techniques to keep your gaming community drama-free and thriving. Proven leadership methods from successful community managers.",
       "tags": [
         "community-management",
@@ -394,7 +394,7 @@
     },
     {
       "id": "gaming-friendships-stronger-than-irl",
-      "title": "Gaming Friendships: Why They're Stronger Than IRL | Jynx",
+      "title": "Gaming Friendships: Why They're Stronger Than IRL",
       "excerpt": "Discover the science behind why gaming friendships often create deeper bonds than traditional friendships through shared experiences and unique communication.",
       "tags": [
         "gaming-friendships",
@@ -421,7 +421,7 @@
     },
     {
       "id": "gaming-matchmaking-algorithms-explained",
-      "title": "How Gaming Matchmaking Algorithms Actually Work | Jynx",
+      "title": "How Gaming Matchmaking Algorithms Actually Work",
       "excerpt": "Discover the sophisticated algorithms behind modern gaming matchmaking systems, from ELO ratings to MMR calculations, and learn how platforms balance fair competition with quick queue times.",
       "tags": [
         "matchmaking",
@@ -450,7 +450,7 @@
     },
     {
       "id": "gaming-matchmaking-privacy",
-      "title": "Privacy in Gaming: How Matchmaking Platforms Protect | Jynx",
+      "title": "Privacy in Gaming: How Matchmaking Platforms Protect You",
       "excerpt": "Explore how modern gaming matchmaking platforms protect your personal data, maintain anonymity, and implement safety features while connecting you with teammates.",
       "tags": [
         "privacy",
@@ -478,7 +478,7 @@
     },
     {
       "id": "gaming-team-chemistry-psychology",
-      "title": "The Psychology Behind Perfect Gaming Team Chemistry | Jynx",
+      "title": "The Psychology Behind Perfect Gaming Team Chemistry",
       "excerpt": "Discover the psychological principles that transform random players into unstoppable gaming teams, from personality types to trust-building dynamics.",
       "tags": [
         "team-chemistry",
@@ -535,7 +535,7 @@
     },
     {
       "id": "inclusive-gaming-spaces-2025",
-      "title": "Creating Inclusive Gaming Spaces: 2025 Guide | Jynx",
+      "title": "Creating Inclusive Gaming Spaces: 2025 Guide",
       "excerpt": "Build welcoming gaming communities that embrace diversity and accessibility. Learn practical strategies for creating inclusive spaces where all gamers feel valued and respected.",
       "tags": [
         "inclusive-gaming",
@@ -563,7 +563,7 @@
     },
     {
       "id": "league-duo-queue-champions",
-      "title": "Best Champions for Duo Queue Synergy in League | Jynx",
+      "title": "Best Champions for Duo Queue Synergy in League",
       "excerpt": "Master duo queue with the best champion synergies. Learn top bot lane combos, jungle-mid pairings, and power spike coordination to dominate ranked.",
       "tags": [
         "league-of-legends",
@@ -590,7 +590,7 @@
     },
     {
       "id": "league-of-legends-teammate-guide",
-      "title": "The Complete Guide to Finding League of Legends | Jynx",
+      "title": "The Complete Guide to Finding League of Legends Teammates",
       "excerpt": "Master the art of finding compatible League of Legends teammates who match your playstyle, rank, and communication preferences for consistent climbing success.",
       "tags": [
         "league-of-legends",
@@ -619,7 +619,7 @@
     },
     {
       "id": "league-ranked-team-problems",
-      "title": "Why Your League Ranked Team Keeps Falling Apart | Jynx",
+      "title": "Why Your League Ranked Team Keeps Falling Apart",
       "excerpt": "Discover the hidden reasons why talented League teams fail in ranked and learn proven strategies to fix team dynamics, tilt management, and communication breakdowns.",
       "tags": [
         "league-of-legends",
@@ -646,7 +646,7 @@
     },
     {
       "id": "lfg-evolution-forums-to-smart-matchmaking",
-      "title": "LFG Evolution: From Forums to Smart Matchmaking | Jynx",
+      "title": "LFG Evolution: From Forums to Smart Matchmaking",
       "excerpt": "Trace the evolution of looking-for-group systems from early gaming forums to modern smart matchmaking platforms that connect compatible teammates instantly.",
       "tags": [
         "lfg",
@@ -674,7 +674,7 @@
     },
     {
       "id": "mobile-moba-matchmaking-comparison",
-      "title": "Mobile MOBA Matchmaking: Wild Rift vs Mobile Legends | Jynx",
+      "title": "Mobile MOBA Matchmaking: Wild Rift vs Mobile Legends",
       "excerpt": "Comparing Wild Rift and Mobile Legends matchmaking systems, player bases, and team finding experiences to help you choose the best mobile MOBA for competitive play.",
       "tags": [
         "wild-rift",
@@ -702,7 +702,7 @@
     },
     {
       "id": "overwatch-2-team-synergies",
-      "title": "Overwatch 2 Team Synergies: Tank-Support Combinations | Jynx",
+      "title": "Overwatch 2 Team Synergies: Tank-Support Combinations",
       "excerpt": "Master the meta with proven tank-support combinations that dominate Overwatch 2's 5v5 format. Learn coordination techniques, counter-picks, and ultimate combos.",
       "tags": [
         "overwatch-2",
@@ -731,7 +731,7 @@
     },
     {
       "id": "overwatch-group-losing-streak",
-      "title": "Why Your Overwatch Group Keeps Losing (And How to Fix | Jynx",
+      "title": "Why Your Overwatch Group Keeps Losing (And How to Fix It)",
       "excerpt": "Stuck in a losing streak with your Overwatch 2 group? Learn the real reasons talented teams fail and discover proven strategies to turn it around fast.",
       "tags": [
         "overwatch-2",
@@ -759,7 +759,7 @@
     },
     {
       "id": "pokemon-unite-masters-team",
-      "title": "Pokemon Unite: Building a Masters-Ready Team | Jynx",
+      "title": "Pokemon Unite: Building a Masters-Ready Team",
       "excerpt": "Master team composition in Pokemon Unite with proven strategies for role balance, synergy between attackers, defenders, supporters, speedsters, and all-rounders.",
       "tags": [
         "pokemon-unite",
@@ -786,7 +786,7 @@
     },
     {
       "id": "r6-siege-communication-guide",
-      "title": "Rainbow Six Siege Communication Protocols for Ranked | Jynx",
+      "title": "Rainbow Six Siege Communication Protocols for Ranked",
       "excerpt": "Master essential Rainbow Six Siege communication protocols including callout standards, drone economy management, site setup coordination, and information flow for competitive ranked play.",
       "tags": [
         "rainbow-six-siege",
@@ -815,7 +815,7 @@
     },
     {
       "id": "rainbow-six-siege-team-building",
-      "title": "R6 Siege Stack Building: From Duo to Full Team | Jynx",
+      "title": "R6 Siege Stack Building: From Duo to Full Team",
       "excerpt": "Master the art of building a competitive Rainbow Six Siege stack from duo queue to a full five-player team with role assignments, operator synergies, and tactical strategies.",
       "tags": [
         "rainbow-six-siege",
@@ -844,7 +844,7 @@
     },
     {
       "id": "rocket-league-chemistry-vs-skill",
-      "title": "Rocket League Team Chemistry vs Mechanical Skill | Jynx",
+      "title": "Rocket League Team Chemistry vs Mechanical Skill",
       "excerpt": "Why coordinated Platinum teams consistently beat mechanically superior solo queue players in Rocket League, and what it means for your competitive success.",
       "tags": [
         "rocket-league",
@@ -871,7 +871,7 @@
     },
     {
       "id": "rocket-league-doubles-partner",
-      "title": "Rocket League Doubles: Finding Your Perfect 2s | Jynx",
+      "title": "Rocket League Doubles: Finding Your Perfect 2s Partner",
       "excerpt": "Discover the key factors that make or break Rocket League doubles partnerships, from rotation synergy to boost management compatibility.",
       "tags": [
         "rocket-league",
@@ -900,7 +900,7 @@
     },
     {
       "id": "skill-vs-personality-matchmaking",
-      "title": "Skill-Based vs Personality-Based Matchmaking | Jynx",
+      "title": "Skill-Based vs Personality-Based Matchmaking",
       "excerpt": "Data reveals the surprising truth about gaming matchmaking: skill matching alone creates 40% satisfaction rates while personality-based systems achieve 78%. Here's why.",
       "tags": [
         "matchmaking",
@@ -928,7 +928,7 @@
     },
     {
       "id": "small-gaming-groups-vs-clans",
-      "title": "Why Small Gaming Groups Outperform Large Clans | Jynx",
+      "title": "Why Small Gaming Groups Outperform Large Clans",
       "excerpt": "Discover why intimate gaming groups of 8-15 players consistently outperform 100+ member clans in coordination, loyalty, and long-term success. The science behind optimal team size.",
       "tags": [
         "gaming-groups",
@@ -956,7 +956,7 @@
     },
     {
       "id": "toxic-teammates-hidden-cost",
-      "title": "The Hidden Cost of Toxic Gaming Teammates: Guide | Jynx",
+      "title": "The Hidden Cost of Toxic Gaming Teammates: Guide",
       "excerpt": "Toxic teammates cost more than just rank points. Discover the mental health, performance, and opportunity costs of playing with negative players.",
       "tags": [
         "toxic-teammates",
@@ -983,7 +983,7 @@
     },
     {
       "id": "valorant-communication-guide",
-      "title": "Valorant Communication Guide for Better Team | Jynx",
+      "title": "Valorant Communication Guide for Better Team Coordination",
       "excerpt": "Master tactical communication in Valorant with this comprehensive guide covering callouts, IGL basics, avoiding toxicity, and clear comms protocols for competitive success.",
       "tags": [
         "valorant",
@@ -1012,7 +1012,7 @@
     },
     {
       "id": "valorant-solo-to-team",
-      "title": "From Solo Queue to 5-Stack: Valorant Team Progression | Jynx",
+      "title": "From Solo Queue to 5-Stack: Valorant Team Progression",
       "excerpt": "Master the journey from solo queue chaos to coordinated 5-stack success. Learn proven strategies for finding consistent teammates, building chemistry, and developing winning team dynamics in Valorant.",
       "tags": [
         "valorant",
@@ -1041,7 +1041,7 @@
     },
     {
       "id": "valorant-team-composition-guide",
-      "title": "Building the Perfect Valorant Squad: Team Composition | Jynx",
+      "title": "Building the Perfect Valorant Squad: Team Composition",
       "excerpt": "Master Valorant team composition with our comprehensive guide covering agent roles, map-specific strategies, communication tactics, and chemistry-building techniques for competitive success.",
       "tags": [
         "valorant",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "where-to-find-gaming-teams",
-      "title": "Discord vs Reddit vs Forums: Where to Find Gaming | Jynx",
+      "title": "Discord vs Reddit vs Forums: Where to Find Gaming Teams",
       "excerpt": "Discover which platform delivers the best results for finding compatible gaming teammates. Compare Discord, Reddit, and forums with real success rates and actionable strategies.",
       "tags": [
         "discord",
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "wrong-gaming-squad-signs",
-      "title": "5 Signs You're Playing with the Wrong Gaming Squad | Jynx",
+      "title": "5 Signs You're Playing with the Wrong Gaming Squad",
       "excerpt": "Recognize the red flags that indicate your gaming squad is holding you back, from communication breakdowns to misaligned goals and toxic behaviors.",
       "tags": [
         "gaming-squad",
