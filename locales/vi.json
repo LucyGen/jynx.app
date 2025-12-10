@@ -1130,7 +1130,8 @@
       "terms": "Điều Khoản Dịch Vụ",
       "cookies": "Chính Sách Cookie",
       "privacy_seo": "Chính Sách Bảo Mật",
-      "terms_seo": "Điều Khoản Dịch Vụ"
+      "terms_seo": "Điều Khoản Dịch Vụ",
+      "delete_account": "Xóa Tài Khoản"
     },
     "download": {
       "title": "Tải xuống",
@@ -1160,7 +1161,9 @@
     "download": "Tải xuống",
     "privacy": "Chính sách bảo mật",
     "terms": "Điều khoản dịch vụ",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Xóa tài khoản",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "Gửi Phản Hồi",
@@ -1540,5 +1543,68 @@
       "search": "Tìm Kiếm"
     },
     "back_to_blog": "Quay Lại Blog"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Xóa Tài Khoản | Jynx",
+      "description": "Yêu cầu xóa tài khoản Jynx và dữ liệu liên quan của bạn.",
+      "og_title": "Xóa Tài Khoản Jynx Của Bạn",
+      "og_description": "Xóa tài khoản Jynx của bạn một cách bảo mật ngay trong ứng dụng.",
+      "og_image_alt": "Xóa Tài Khoản Jynx",
+      "twitter_title": "Xóa Tài Khoản Jynx Của Bạn",
+      "twitter_description": "Xóa tài khoản Jynx của bạn một cách bảo mật ngay trong ứng dụng.",
+      "twitter_image_alt": "Xóa Tài Khoản Jynx"
+    },
+    "heading": "Xóa Tài Khoản Jynx Của Bạn",
+    "explanation": "Để đảm bảo an toàn tài khoản, bạn chỉ có thể xóa tài khoản của mình từ trong ứng dụng Jynx khi đã đăng nhập. Điều này ngăn chặn các yêu cầu xóa tài khoản trái phép.",
+    "open_app_btn": "Mở Ứng Dụng Jynx",
+    "what_deleted": {
+      "title": "Dữ Liệu Sẽ Bị Xóa",
+      "profile": "Dữ liệu hồ sơ (tên người dùng, tiểu sử, ảnh đại diện, ảnh)",
+      "game_profiles": "Hồ sơ game và tài khoản liên kết",
+      "friends": "Quan hệ bạn bè và lịch sử trò chuyện",
+      "communities": "Thành viên cộng đồng",
+      "all_data": "Tất cả dữ liệu liên quan"
+    },
+    "important": {
+      "title": "Lưu Ý Quan Trọng",
+      "permanent": "Việc xóa là vĩnh viễn và không thể hoàn tác",
+      "processing": "Quá trình xử lý có thể mất tới 30 ngày",
+      "legal": "Một số dữ liệu ẩn danh có thể được giữ lại để tuân thủ pháp luật"
+    },
+    "fallback": {
+      "title": "Chưa có ứng dụng?",
+      "app_store": "Tải xuống trên",
+      "play_store": "Tải về tại"
+    },
+    "manual": {
+      "title": "Hướng Dẫn Thủ Công",
+      "steps": "Trong ứng dụng Jynx, vào: Cài Đặt → Xóa Tài Khoản"
+    },
+    "contact": {
+      "intro": "Không thể truy cập ứng dụng?",
+      "email_text": "Liên hệ với chúng tôi tại"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

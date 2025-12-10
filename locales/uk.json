@@ -1130,7 +1130,8 @@
       "terms": "Умови Надання Послуг",
       "cookies": "Політика Cookie",
       "privacy_seo": "Політика Конфіденційності",
-      "terms_seo": "Умови Надання Послуг"
+      "terms_seo": "Умови Надання Послуг",
+      "delete_account": "Видалити Акаунт"
     },
     "download": {
       "title": "Завантажити",
@@ -1160,7 +1161,9 @@
     "download": "Завантажити",
     "privacy": "Політика конфіденційності",
     "terms": "Умови використання",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Видалити Акаунт",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "Відправити Відгук",
@@ -1539,6 +1542,69 @@
       "placeholder": "Пошук статей...",
       "button": "Пошук",
       "aria_label": "Поле пошуку"
+    }
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Видалити Акаунт | Jynx",
+      "description": "Запит на видалення вашого акаунта Jynx та пов'язаних даних.",
+      "og_title": "Видалити Ваш Акаунт Jynx",
+      "og_description": "Безпечно видаліть ваш акаунт Jynx через додаток.",
+      "og_image_alt": "Видалення Акаунта Jynx",
+      "twitter_title": "Видалити Ваш Акаунт Jynx",
+      "twitter_description": "Безпечно видаліть ваш акаунт Jynx через додаток.",
+      "twitter_image_alt": "Видалення Акаунта Jynx"
+    },
+    "heading": "Видалити Ваш Акаунт Jynx",
+    "explanation": "Для безпеки акаунта ви можете видалити свій акаунт лише через додаток Jynx, будучи авторизованим. Це запобігає несанкціонованим запитам на видалення.",
+    "open_app_btn": "Відкрити Додаток Jynx",
+    "what_deleted": {
+      "title": "Що Буде Видалено",
+      "profile": "Дані профілю (ім'я користувача, біо, аватар, фото)",
+      "game_profiles": "Ігрові профілі та прив'язані акаунти",
+      "friends": "Дружні зв'язки та історія чату",
+      "communities": "Членство в спільнотах",
+      "all_data": "Всі пов'язані дані"
+    },
+    "important": {
+      "title": "Важливо",
+      "permanent": "Видалення є остаточним та незворотним",
+      "processing": "Обробка може зайняти до 30 днів",
+      "legal": "Деякі знеособлені дані можуть зберігатися для дотримання законодавства"
+    },
+    "fallback": {
+      "title": "Немає додатку?",
+      "app_store": "Завантажити в",
+      "play_store": "Завантажити в"
+    },
+    "manual": {
+      "title": "Інструкція",
+      "steps": "У додатку Jynx перейдіть до: Налаштування → Видалити Акаунт"
+    },
+    "contact": {
+      "intro": "Не можете отримати доступ до додатку?",
+      "email_text": "Зв'яжіться з нами"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
     }
   }
 }

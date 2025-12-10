@@ -1130,7 +1130,8 @@
       "terms": "Termos de Serviço",
       "cookies": "Política de Cookies",
       "privacy_seo": "Política de Privacidade",
-      "terms_seo": "Termos de Serviço"
+      "terms_seo": "Termos de Serviço",
+      "delete_account": "Excluir Conta"
     },
     "download": {
       "title": "Baixar",
@@ -1160,7 +1161,9 @@
     "download": "Baixar",
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Excluir Conta",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Perguntas Frequentes Sobre Matchmaking Gaming",
@@ -1540,5 +1543,68 @@
       "search": "Busca"
     },
     "back_to_blog": "Voltar ao Blog"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Excluir Conta | Jynx",
+      "description": "Solicite a exclusão de sua conta Jynx e dados associados.",
+      "og_title": "Exclua Sua Conta Jynx",
+      "og_description": "Exclua sua conta Jynx de forma segura dentro do aplicativo.",
+      "og_image_alt": "Exclusão de Conta Jynx",
+      "twitter_title": "Exclua Sua Conta Jynx",
+      "twitter_description": "Exclua sua conta Jynx de forma segura dentro do aplicativo.",
+      "twitter_image_alt": "Exclusão de Conta Jynx"
+    },
+    "heading": "Exclua Sua Conta Jynx",
+    "explanation": "Para garantir a segurança da conta, você só pode excluir sua conta dentro do aplicativo Jynx enquanto estiver conectado. Isso previne solicitações de exclusão não autorizadas.",
+    "open_app_btn": "Abrir Aplicativo Jynx",
+    "what_deleted": {
+      "title": "O Que É Excluído",
+      "profile": "Dados do perfil (nome de usuário, bio, avatar, fotos)",
+      "game_profiles": "Perfis de jogos e contas vinculadas",
+      "friends": "Relacionamentos de amizade e histórico de chat",
+      "communities": "Participação em comunidades",
+      "all_data": "Todos os dados associados"
+    },
+    "important": {
+      "title": "Importante",
+      "permanent": "A exclusão é permanente e irreversível",
+      "processing": "O processamento pode levar até 30 dias",
+      "legal": "Alguns dados anonimizados podem ser retidos para conformidade legal"
+    },
+    "fallback": {
+      "title": "Não tem o aplicativo?",
+      "app_store": "Baixar na",
+      "play_store": "Disponível no"
+    },
+    "manual": {
+      "title": "Instruções Manuais",
+      "steps": "No aplicativo Jynx, vá para: Configurações → Excluir Conta"
+    },
+    "contact": {
+      "intro": "Não consegue acessar o aplicativo?",
+      "email_text": "Entre em contato conosco em"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

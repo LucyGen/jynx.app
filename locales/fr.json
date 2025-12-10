@@ -1130,7 +1130,8 @@
       "terms": "Conditions d'Utilisation",
       "cookies": "Politique de Cookies",
       "privacy_seo": "Politique de Confidentialité",
-      "terms_seo": "Conditions d'Utilisation"
+      "terms_seo": "Conditions d'Utilisation",
+      "delete_account": "Supprimer le Compte"
     },
     "download": {
       "title": "Télécharger",
@@ -1160,7 +1161,9 @@
     "download": "Télécharger",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Supprimer le Compte",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Questions Fréquentes sur le Matchmaking Gaming",
@@ -1538,7 +1541,70 @@
     },
     "back_to_blog": "Retour au Blog"
   },
+  "delete_account": {
+    "meta": {
+      "title": "Supprimer le Compte | Jynx",
+      "description": "Demander la suppression de votre compte Jynx et des données associées.",
+      "og_title": "Supprimez Votre Compte Jynx",
+      "og_description": "Supprimez votre compte Jynx en toute sécurité depuis l'application.",
+      "og_image_alt": "Suppression de Compte Jynx",
+      "twitter_title": "Supprimez Votre Compte Jynx",
+      "twitter_description": "Supprimez votre compte Jynx en toute sécurité depuis l'application.",
+      "twitter_image_alt": "Suppression de Compte Jynx"
+    },
+    "heading": "Supprimez Votre Compte Jynx",
+    "explanation": "Pour garantir la sécurité de votre compte, vous ne pouvez supprimer votre compte que depuis l'application Jynx lorsque vous êtes connecté. Cela empêche les demandes de suppression non autorisées.",
+    "open_app_btn": "Ouvrir l'Application Jynx",
+    "what_deleted": {
+      "title": "Données Supprimées",
+      "profile": "Données de profil (pseudo, biographie, avatar, photos)",
+      "game_profiles": "Profils de jeu et comptes liés",
+      "friends": "Relations d'amitié et historique des discussions",
+      "communities": "Adhésions aux communautés",
+      "all_data": "Toutes les données associées"
+    },
+    "important": {
+      "title": "Important",
+      "permanent": "La suppression est définitive et irréversible",
+      "processing": "Le traitement peut prendre jusqu'à 30 jours",
+      "legal": "Certaines données anonymisées peuvent être conservées pour conformité légale"
+    },
+    "fallback": {
+      "title": "Vous n'avez pas l'application ?",
+      "app_store": "Télécharger sur",
+      "play_store": "Disponible sur"
+    },
+    "manual": {
+      "title": "Instructions Manuelles",
+      "steps": "Dans l'application Jynx, accédez à : Paramètres → Supprimer le Compte"
+    },
+    "contact": {
+      "intro": "Impossible d'accéder à l'application ?",
+      "email_text": "Contactez-nous à"
+    }
+  },
   "global": {
     "nojs_banner": "JavaScript est désactivé. Certaines fonctionnalités interactives pourraient ne pas fonctionner de manière optimale."
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

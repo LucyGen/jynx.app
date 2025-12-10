@@ -1130,7 +1130,8 @@
       "terms": "이용약관",
       "cookies": "쿠키 정책",
       "privacy_seo": "개인정보 처리방침",
-      "terms_seo": "이용약관"
+      "terms_seo": "이용약관",
+      "delete_account": "계정 삭제"
     },
     "download": {
       "title": "다운로드",
@@ -1160,7 +1161,9 @@
     "download": "다운로드",
     "privacy": "개인정보 처리방침",
     "terms": "이용약관",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "계정 삭제",
+    "invite": "Invite"
   },
   "download": {
     "meta": {
@@ -1540,5 +1543,68 @@
       "search": "검색"
     },
     "back_to_blog": "블로그로 돌아가기"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "계정 삭제 | Jynx",
+      "description": "Jynx 계정 및 관련 데이터 삭제를 요청하세요.",
+      "og_title": "Jynx 계정 삭제",
+      "og_description": "앱 내에서 안전하게 Jynx 계정을 삭제하세요.",
+      "og_image_alt": "Jynx 계정 삭제",
+      "twitter_title": "Jynx 계정 삭제",
+      "twitter_description": "앱 내에서 안전하게 Jynx 계정을 삭제하세요.",
+      "twitter_image_alt": "Jynx 계정 삭제"
+    },
+    "heading": "Jynx 계정 삭제",
+    "explanation": "계정 보안을 위해 로그인된 상태에서 Jynx 앱 내에서만 계정을 삭제할 수 있습니다. 이는 무단 삭제 요청을 방지합니다.",
+    "open_app_btn": "Jynx 앱 열기",
+    "what_deleted": {
+      "title": "삭제되는 항목",
+      "profile": "프로필 데이터 (사용자명, 소개, 프로필 사진, 사진)",
+      "game_profiles": "게임 프로필 및 연결된 계정",
+      "friends": "친구 관계 및 채팅 기록",
+      "communities": "커뮤니티 멤버십",
+      "all_data": "모든 관련 데이터"
+    },
+    "important": {
+      "title": "중요사항",
+      "permanent": "삭제는 영구적이며 되돌릴 수 없습니다",
+      "processing": "처리에 최대 30일이 소요될 수 있습니다",
+      "legal": "법률 준수를 위해 일부 익명화된 데이터가 보관될 수 있습니다"
+    },
+    "fallback": {
+      "title": "앱이 없으신가요?",
+      "app_store": "다운로드",
+      "play_store": "받기"
+    },
+    "manual": {
+      "title": "수동 안내",
+      "steps": "Jynx 앱에서: 설정 → 계정 삭제로 이동하세요"
+    },
+    "contact": {
+      "intro": "앱에 접근할 수 없으신가요?",
+      "email_text": "문의하기"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

@@ -1130,7 +1130,8 @@
       "terms": "Termini di Servizio",
       "cookies": "Politica Cookie",
       "privacy_seo": "Informativa sulla Privacy",
-      "terms_seo": "Termini di Servizio"
+      "terms_seo": "Termini di Servizio",
+      "delete_account": "Elimina Account"
     },
     "download": {
       "title": "Scarica",
@@ -1160,7 +1161,9 @@
     "download": "Scarica",
     "privacy": "Informativa sulla Privacy",
     "terms": "Termini di Servizio",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Elimina Account",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Domande Frequenti sul Matchmaking Gaming",
@@ -1539,6 +1542,69 @@
       "placeholder": "Cerca articoli...",
       "button": "Cerca",
       "aria_label": "Campo di ricerca"
+    }
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Elimina Account | Jynx",
+      "description": "Richiedi l'eliminazione del tuo account Jynx e dei dati associati.",
+      "og_title": "Elimina il Tuo Account Jynx",
+      "og_description": "Elimina in modo sicuro il tuo account Jynx dall'app.",
+      "og_image_alt": "Eliminazione Account Jynx",
+      "twitter_title": "Elimina il Tuo Account Jynx",
+      "twitter_description": "Elimina in modo sicuro il tuo account Jynx dall'app.",
+      "twitter_image_alt": "Eliminazione Account Jynx"
+    },
+    "heading": "Elimina il Tuo Account Jynx",
+    "explanation": "Per garantire la sicurezza dell'account, puoi eliminare il tuo account solo dall'app Jynx mentre sei connesso. Questo impedisce richieste di eliminazione non autorizzate.",
+    "open_app_btn": "Apri App Jynx",
+    "what_deleted": {
+      "title": "Cosa Viene Eliminato",
+      "profile": "Dati del profilo (nome utente, bio, avatar, foto)",
+      "game_profiles": "Profili di gioco e account collegati",
+      "friends": "Relazioni di amicizia e cronologia chat",
+      "communities": "Iscrizioni alle community",
+      "all_data": "Tutti i dati associati"
+    },
+    "important": {
+      "title": "Importante",
+      "permanent": "L'eliminazione è permanente e irreversibile",
+      "processing": "L'elaborazione può richiedere fino a 30 giorni",
+      "legal": "Alcuni dati anonimizzati potrebbero essere conservati per conformità legale"
+    },
+    "fallback": {
+      "title": "Non hai l'app?",
+      "app_store": "Scarica su",
+      "play_store": "Ottieni su"
+    },
+    "manual": {
+      "title": "Istruzioni Manuali",
+      "steps": "Nell'app Jynx, vai su: Impostazioni → Elimina Account"
+    },
+    "contact": {
+      "intro": "Non riesci ad accedere all'app?",
+      "email_text": "Contattaci a"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
     }
   }
 }

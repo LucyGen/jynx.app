@@ -1130,7 +1130,8 @@
       "terms": "সেবার শর্তাবলী",
       "cookies": "কুকি নীতি",
       "privacy_seo": "গোপনীয়তা নীতি",
-      "terms_seo": "সেবার শর্তাবলী"
+      "terms_seo": "সেবার শর্তাবলী",
+      "delete_account": "অ্যাকাউন্ট মুছুন"
     },
     "download": {
       "title": "ডাউনলোড",
@@ -1160,7 +1161,9 @@
     "download": "ডাউনলোড",
     "privacy": "গোপনীয়তা নীতি",
     "terms": "সেবার শর্তাবলী",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "অ্যাকাউন্ট মুছুন",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "ফিডব্যাক জমা দিন",
@@ -1498,6 +1501,48 @@
       "aria_label": "অনুসন্ধান ক্ষেত্র"
     }
   },
+  "delete_account": {
+    "meta": {
+      "title": "অ্যাকাউন্ট মুছুন | Jynx",
+      "description": "আপনার Jynx অ্যাকাউন্ট এবং সংশ্লিষ্ট ডেটা মুছে ফেলার অনুরোধ করুন।",
+      "og_title": "আপনার Jynx অ্যাকাউন্ট মুছুন",
+      "og_description": "অ্যাপের মধ্যে থেকে নিরাপদে আপনার Jynx অ্যাকাউন্ট মুছুন।",
+      "og_image_alt": "Jynx অ্যাকাউন্ট মুছে ফেলা",
+      "twitter_title": "আপনার Jynx অ্যাকাউন্ট মুছুন",
+      "twitter_description": "অ্যাপের মধ্যে থেকে নিরাপদে আপনার Jynx অ্যাকাউন্ট মুছুন।",
+      "twitter_image_alt": "Jynx অ্যাকাউন্ট মুছে ফেলা"
+    },
+    "heading": "আপনার Jynx অ্যাকাউন্ট মুছুন",
+    "explanation": "অ্যাকাউন্টের সুরক্ষা নিশ্চিত করতে, আপনি শুধুমাত্র সাইন ইন থাকা অবস্থায় Jynx অ্যাপের মধ্যে থেকে আপনার অ্যাকাউন্ট মুছতে পারবেন। এটি অননুমোদিত মুছে ফেলার অনুরোধ প্রতিরোধ করে।",
+    "open_app_btn": "Jynx অ্যাপ খুলুন",
+    "what_deleted": {
+      "title": "যা মুছে ফেলা হবে",
+      "profile": "প্রোফাইল ডেটা (ইউজারনেম, বায়ো, অবতার, ফটো)",
+      "game_profiles": "গেম প্রোফাইল এবং লিঙ্ক করা অ্যাকাউন্ট",
+      "friends": "বন্ধু সম্পর্ক এবং চ্যাট ইতিহাস",
+      "communities": "কমিউনিটি সদস্যপদ",
+      "all_data": "সমস্ত সংশ্লিষ্ট ডেটা"
+    },
+    "important": {
+      "title": "গুরুত্বপূর্ণ",
+      "permanent": "মুছে ফেলা স্থায়ী এবং অপরিবর্তনীয়",
+      "processing": "প্রক্রিয়াকরণে ৩০ দিন পর্যন্ত সময় লাগতে পারে",
+      "legal": "কিছু বেনামী ডেটা আইনি সম্মতির জন্য রাখা হতে পারে"
+    },
+    "fallback": {
+      "title": "অ্যাপ নেই?",
+      "app_store": "ডাউনলোড করুন",
+      "play_store": "পান"
+    },
+    "manual": {
+      "title": "ম্যানুয়াল নির্দেশনা",
+      "steps": "Jynx অ্যাপে যান: সেটিংস → অ্যাকাউন্ট মুছুন"
+    },
+    "contact": {
+      "intro": "অ্যাপ অ্যাক্সেস করতে পারছেন না?",
+      "email_text": "আমাদের সাথে যোগাযোগ করুন"
+    }
+  },
   "search": {
     "meta": {
       "title": "অনুসন্ধান ফলাফল | Jynx",
@@ -1540,5 +1585,26 @@
       "search": "অনুসন্ধান"
     },
     "back_to_blog": "ব্লগে ফিরে যান"
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

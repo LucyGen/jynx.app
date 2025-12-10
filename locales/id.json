@@ -1130,7 +1130,8 @@
       "terms": "Ketentuan Layanan",
       "cookies": "Kebijakan Cookie",
       "privacy_seo": "Kebijakan Privasi",
-      "terms_seo": "Ketentuan Layanan"
+      "terms_seo": "Ketentuan Layanan",
+      "delete_account": "Hapus Akun"
     },
     "download": {
       "title": "Unduh",
@@ -1160,7 +1161,9 @@
     "download": "Unduh",
     "privacy": "Kebijakan Privasi",
     "terms": "Ketentuan Layanan",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Hapus Akun",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Pertanyaan yang Sering Diajukan Tentang Gaming Matchmaking",
@@ -1540,5 +1543,68 @@
       "search": "Pencarian"
     },
     "back_to_blog": "Kembali ke Blog"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Hapus Akun | Jynx",
+      "description": "Minta penghapusan akun Jynx dan data terkait Anda.",
+      "og_title": "Hapus Akun Jynx Anda",
+      "og_description": "Hapus akun Jynx Anda dengan aman dari dalam aplikasi.",
+      "og_image_alt": "Penghapusan Akun Jynx",
+      "twitter_title": "Hapus Akun Jynx Anda",
+      "twitter_description": "Hapus akun Jynx Anda dengan aman dari dalam aplikasi.",
+      "twitter_image_alt": "Penghapusan Akun Jynx"
+    },
+    "heading": "Hapus Akun Jynx Anda",
+    "explanation": "Untuk memastikan keamanan akun, Anda hanya dapat menghapus akun dari dalam aplikasi Jynx saat Anda masuk. Ini mencegah permintaan penghapusan yang tidak sah.",
+    "open_app_btn": "Buka Aplikasi Jynx",
+    "what_deleted": {
+      "title": "Yang Akan Dihapus",
+      "profile": "Data profil (nama pengguna, bio, avatar, foto)",
+      "game_profiles": "Profil game dan akun yang terhubung",
+      "friends": "Hubungan pertemanan dan riwayat chat",
+      "communities": "Keanggotaan komunitas",
+      "all_data": "Semua data terkait"
+    },
+    "important": {
+      "title": "Penting",
+      "permanent": "Penghapusan bersifat permanen dan tidak dapat dibatalkan",
+      "processing": "Pemrosesan dapat memakan waktu hingga 30 hari",
+      "legal": "Beberapa data anonim mungkin disimpan untuk kepatuhan hukum"
+    },
+    "fallback": {
+      "title": "Belum punya aplikasinya?",
+      "app_store": "Unduh di",
+      "play_store": "Dapatkan di"
+    },
+    "manual": {
+      "title": "Petunjuk Manual",
+      "steps": "Di aplikasi Jynx, buka: Pengaturan → Hapus Akun"
+    },
+    "contact": {
+      "intro": "Tidak dapat mengakses aplikasi?",
+      "email_text": "Hubungi kami di"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

@@ -1130,7 +1130,8 @@
       "terms": "Условия использования",
       "cookies": "Политика cookies",
       "privacy_seo": "Политика конфиденциальности",
-      "terms_seo": "Условия обслуживания"
+      "terms_seo": "Условия обслуживания",
+      "delete_account": "Удалить Аккаунт"
     },
     "download": {
       "title": "Скачать",
@@ -1160,7 +1161,9 @@
     "download": "Скачать",
     "privacy": "Политика конфиденциальности",
     "terms": "Условия использования",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Удалить Аккаунт",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "Отправить отзыв",
@@ -1168,6 +1171,48 @@
     "description": "Нажми на плитку темы, чтобы применить ее. Отметь флажками \"Нравится\" свои любимые темы, чтобы отправить свои предпочтения.",
     "thanks": "Спасибо за твой отзыв о теме!",
     "current_theme": "Текущая тема:"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Удалить Аккаунт | Jynx",
+      "description": "Запросите удаление вашего аккаунта Jynx и связанных данных.",
+      "og_title": "Удалить Ваш Аккаунт Jynx",
+      "og_description": "Безопасно удалите ваш аккаунт Jynx из приложения.",
+      "og_image_alt": "Удаление Аккаунта Jynx",
+      "twitter_title": "Удалить Ваш Аккаунт Jynx",
+      "twitter_description": "Безопасно удалите ваш аккаунт Jynx из приложения.",
+      "twitter_image_alt": "Удаление Аккаунта Jynx"
+    },
+    "heading": "Удалить Ваш Аккаунт Jynx",
+    "explanation": "Для обеспечения безопасности аккаунта вы можете удалить свой аккаунт только из приложения Jynx, будучи авторизованным. Это предотвращает несанкционированные запросы на удаление.",
+    "open_app_btn": "Открыть Приложение Jynx",
+    "what_deleted": {
+      "title": "Что Будет Удалено",
+      "profile": "Данные профиля (имя пользователя, биография, аватар, фотографии)",
+      "game_profiles": "Игровые профили и привязанные аккаунты",
+      "friends": "Дружеские связи и история чатов",
+      "communities": "Членство в сообществах",
+      "all_data": "Все связанные данные"
+    },
+    "important": {
+      "title": "Важно",
+      "permanent": "Удаление является окончательным и необратимым",
+      "processing": "Обработка может занять до 30 дней",
+      "legal": "Некоторые анонимизированные данные могут быть сохранены для соблюдения законодательства"
+    },
+    "fallback": {
+      "title": "Нет приложения?",
+      "app_store": "Загрузить в",
+      "play_store": "Доступно в"
+    },
+    "manual": {
+      "title": "Ручная Инструкция",
+      "steps": "В приложении Jynx перейдите в: Настройки → Удалить Аккаунт"
+    },
+    "contact": {
+      "intro": "Нет доступа к приложению?",
+      "email_text": "Свяжитесь с нами по адресу"
+    }
   },
   "download": {
     "meta": {
@@ -1540,5 +1585,26 @@
       "search": "Поиск"
     },
     "back_to_blog": "Вернуться к Блогу"
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

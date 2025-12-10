@@ -1130,7 +1130,8 @@
       "terms": "Nutzungsbedingungen",
       "cookies": "Cookie-Richtlinie",
       "privacy_seo": "Datenschutzerklärung",
-      "terms_seo": "Nutzungsbedingungen"
+      "terms_seo": "Nutzungsbedingungen",
+      "delete_account": "Konto Löschen"
     },
     "download": {
       "title": "Herunterladen",
@@ -1160,7 +1161,9 @@
     "download": "Herunterladen",
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Konto Löschen",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Häufig gestellte Fragen zum Gaming-Matchmaking",
@@ -1540,5 +1543,68 @@
       "search": "Suche"
     },
     "back_to_blog": "Zurück zum Blog"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Konto Löschen | Jynx",
+      "description": "Beantragen Sie die Löschung Ihres Jynx-Kontos und der zugehörigen Daten.",
+      "og_title": "Löschen Sie Ihr Jynx-Konto",
+      "og_description": "Löschen Sie Ihr Jynx-Konto sicher in der App.",
+      "og_image_alt": "Jynx Kontolöschung",
+      "twitter_title": "Löschen Sie Ihr Jynx-Konto",
+      "twitter_description": "Löschen Sie Ihr Jynx-Konto sicher in der App.",
+      "twitter_image_alt": "Jynx Kontolöschung"
+    },
+    "heading": "Löschen Sie Ihr Jynx-Konto",
+    "explanation": "Aus Sicherheitsgründen können Sie Ihr Konto nur in der Jynx-App löschen, während Sie angemeldet sind. Dies verhindert unbefugte Löschungsanfragen.",
+    "open_app_btn": "Jynx-App Öffnen",
+    "what_deleted": {
+      "title": "Was Wird Gelöscht",
+      "profile": "Profildaten (Benutzername, Bio, Avatar, Fotos)",
+      "game_profiles": "Spielprofile und verknüpfte Konten",
+      "friends": "Freundschaften und Chat-Verlauf",
+      "communities": "Community-Mitgliedschaften",
+      "all_data": "Alle zugehörigen Daten"
+    },
+    "important": {
+      "title": "Wichtig",
+      "permanent": "Die Löschung ist dauerhaft und nicht rückgängig zu machen",
+      "processing": "Die Verarbeitung kann bis zu 30 Tage dauern",
+      "legal": "Einige anonymisierte Daten können aus rechtlichen Gründen aufbewahrt werden"
+    },
+    "fallback": {
+      "title": "Haben Sie die App nicht?",
+      "app_store": "Laden im",
+      "play_store": "Jetzt bei"
+    },
+    "manual": {
+      "title": "Manuelle Anleitung",
+      "steps": "Gehen Sie in der Jynx-App zu: Einstellungen → Konto Löschen"
+    },
+    "contact": {
+      "intro": "Können Sie nicht auf die App zugreifen?",
+      "email_text": "Kontaktieren Sie uns unter"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

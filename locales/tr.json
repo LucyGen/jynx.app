@@ -1130,7 +1130,8 @@
       "terms": "Hizmet Şartları",
       "cookies": "Çerez Politikası",
       "privacy_seo": "Gizlilik Politikası",
-      "terms_seo": "Hizmet Şartları"
+      "terms_seo": "Hizmet Şartları",
+      "delete_account": "Hesabı Sil"
     },
     "download": {
       "title": "İndir",
@@ -1160,7 +1161,9 @@
     "download": "İndir",
     "privacy": "Gizlilik Politikası",
     "terms": "Kullanım Koşulları",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Hesabı Sil",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "Geri Bildirim Gönder",
@@ -1540,5 +1543,68 @@
       "search": "Arama"
     },
     "back_to_blog": "Bloğa Dön"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Hesabı Sil | Jynx",
+      "description": "Jynx hesabınızın ve ilişkili verilerinizin silinmesini talep edin.",
+      "og_title": "Jynx Hesabınızı Silin",
+      "og_description": "Jynx hesabınızı uygulama içinden güvenle silin.",
+      "og_image_alt": "Jynx Hesap Silme",
+      "twitter_title": "Jynx Hesabınızı Silin",
+      "twitter_description": "Jynx hesabınızı uygulama içinden güvenle silin.",
+      "twitter_image_alt": "Jynx Hesap Silme"
+    },
+    "heading": "Jynx Hesabınızı Silin",
+    "explanation": "Hesap güvenliğini sağlamak için hesabınızı yalnızca Jynx uygulamasında oturum açmışken silebilirsiniz. Bu, yetkisiz silme isteklerini önler.",
+    "open_app_btn": "Jynx Uygulamasını Aç",
+    "what_deleted": {
+      "title": "Neler Silinir",
+      "profile": "Profil verileri (kullanıcı adı, biyografi, avatar, fotoğraflar)",
+      "game_profiles": "Oyun profilleri ve bağlı hesaplar",
+      "friends": "Arkadaş ilişkileri ve sohbet geçmişi",
+      "communities": "Topluluk üyelikleri",
+      "all_data": "Tüm ilişkili veriler"
+    },
+    "important": {
+      "title": "Önemli",
+      "permanent": "Silme işlemi kalıcıdır ve geri alınamaz",
+      "processing": "İşlem 30 güne kadar sürebilir",
+      "legal": "Bazı anonimleştirilmiş veriler yasal uyumluluk için saklanabilir"
+    },
+    "fallback": {
+      "title": "Uygulamaya sahip değil misiniz?",
+      "app_store": "İndir",
+      "play_store": "İndir"
+    },
+    "manual": {
+      "title": "Manuel Talimatlar",
+      "steps": "Jynx uygulamasında: Ayarlar → Hesabı Sil bölümüne gidin"
+    },
+    "contact": {
+      "intro": "Uygulamaya erişemiyor musunuz?",
+      "email_text": "Bizimle iletişime geçin:"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }

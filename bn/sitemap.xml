@@ -5,7 +5,7 @@
 
   <url>
     <loc>https://jynx.app/bn/about.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/about.html" />
@@ -33,8 +33,32 @@
   </url>
 
   <url>
+    <loc>https://jynx.app/bn/delete-account.html</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/delete-account.html" />
+  </url>
+
+  <url>
     <loc>https://jynx.app/bn/download.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/download.html" />
@@ -63,7 +87,7 @@
 
   <url>
     <loc>https://jynx.app/bn/</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/" />
@@ -111,8 +135,32 @@
   </url>
 
   <url>
+    <loc>https://jynx.app/bn/invite.html</loc>
+    <lastmod>2025-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/invite.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/invite.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/invite.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/invite.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/invite.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/invite.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/invite.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/invite.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/invite.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/invite.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/invite.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/invite.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/invite.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/invite.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/invite.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/invite.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/invite.html" />
+  </url>
+
+  <url>
     <loc>https://jynx.app/bn/privacy.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/privacy.html" />
@@ -136,7 +184,7 @@
 
   <url>
     <loc>https://jynx.app/bn/search.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/search.html" />
@@ -160,7 +208,7 @@
 
   <url>
     <loc>https://jynx.app/bn/terms.html</loc>
-    <lastmod>2025-11-12</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/terms.html" />

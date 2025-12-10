@@ -1130,7 +1130,8 @@
       "terms": "Terms of Service",
       "cookies": "Cookie Policy",
       "privacy_seo": "Privacy Policy",
-      "terms_seo": "Terms of Service"
+      "terms_seo": "Terms of Service",
+      "delete_account": "Delete Account"
     },
     "download": {
       "title": "Download",
@@ -1160,7 +1161,9 @@
     "download": "Download",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "Delete Account",
+    "invite": "Invite"
   },
   "faq": {
     "title": "Frequently Asked Questions About Gaming Matchmaking",
@@ -1539,6 +1542,69 @@
       "recent_posts": "Recent Posts",
       "popular_posts": "Popular Posts",
       "all_categories": "All Categories"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
+  },
+  "delete_account": {
+    "meta": {
+      "title": "Delete Account | Jynx",
+      "description": "Request deletion of your Jynx account and associated data.",
+      "og_title": "Delete Your Jynx Account",
+      "og_description": "Securely delete your Jynx account from within the app.",
+      "og_image_alt": "Jynx Account Deletion",
+      "twitter_title": "Delete Your Jynx Account",
+      "twitter_description": "Securely delete your Jynx account from within the app.",
+      "twitter_image_alt": "Jynx Account Deletion"
+    },
+    "heading": "Delete Your Jynx Account",
+    "explanation": "To ensure account security, you can only delete your account from within the Jynx app while signed in. This prevents unauthorized deletion requests.",
+    "open_app_btn": "Open Jynx App",
+    "what_deleted": {
+      "title": "What Gets Deleted",
+      "profile": "Profile data (username, bio, avatar, photos)",
+      "game_profiles": "Game profiles and linked accounts",
+      "friends": "Friend relationships and chat history",
+      "communities": "Community memberships",
+      "all_data": "All associated data"
+    },
+    "important": {
+      "title": "Important",
+      "permanent": "Deletion is permanent and irreversible",
+      "processing": "Processing may take up to 30 days",
+      "legal": "Some anonymized data may be retained for legal compliance"
+    },
+    "fallback": {
+      "title": "Don't have the app?",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    },
+    "manual": {
+      "title": "Manual Instructions",
+      "steps": "In the Jynx app, go to: Settings → Delete Account"
+    },
+    "contact": {
+      "intro": "Can't access the app?",
+      "email_text": "Contact us at"
     }
   }
 }

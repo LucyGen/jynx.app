@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["<TEAM_ID>.com.jynx.Jynx"],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Profile invite deep links"
+          }
+        ]
+      }
+    ]
+  }
+}

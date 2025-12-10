@@ -1130,7 +1130,8 @@
       "title": "القانونية",
       "privacy": "سياسة الخصوصية",
       "terms": "شروط الخدمة",
-      "cookies": "سياسة ملفات تعريف الارتباط"
+      "cookies": "سياسة ملفات تعريف الارتباط",
+      "delete_account": "حذف الحساب"
     },
     "download": {
       "title": "تنزيل",
@@ -1160,7 +1161,9 @@
     "download": "تنزيل",
     "privacy": "سياسة الخصوصية",
     "terms": "شروط الخدمة",
-    "blog": "Blog"
+    "blog": "Blog",
+    "delete_account": "حذف الحساب",
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "إرسال الملاحظات",
@@ -1540,5 +1543,68 @@
       "search": "البحث"
     },
     "back_to_blog": "العودة إلى المدونة"
+  },
+  "delete_account": {
+    "meta": {
+      "title": "حذف الحساب | Jynx",
+      "description": "طلب حذف حسابك في Jynx والبيانات المرتبطة به.",
+      "og_title": "حذف حسابك في Jynx",
+      "og_description": "احذف حسابك في Jynx بشكل آمن من داخل التطبيق.",
+      "og_image_alt": "حذف حساب Jynx",
+      "twitter_title": "حذف حسابك في Jynx",
+      "twitter_description": "احذف حسابك في Jynx بشكل آمن من داخل التطبيق.",
+      "twitter_image_alt": "حذف حساب Jynx"
+    },
+    "heading": "حذف حسابك في Jynx",
+    "explanation": "لضمان أمان الحساب، يمكنك حذف حسابك فقط من داخل تطبيق Jynx أثناء تسجيل الدخول. هذا يمنع طلبات الحذف غير المصرح بها.",
+    "open_app_btn": "افتح تطبيق Jynx",
+    "what_deleted": {
+      "title": "ما الذي سيتم حذفه",
+      "profile": "بيانات الملف الشخصي (اسم المستخدم، السيرة الذاتية، الصورة الرمزية، الصور)",
+      "game_profiles": "ملفات الألعاب والحسابات المرتبطة",
+      "friends": "علاقات الأصدقاء وسجل المحادثات",
+      "communities": "عضويات المجتمعات",
+      "all_data": "جميع البيانات المرتبطة"
+    },
+    "important": {
+      "title": "مهم",
+      "permanent": "الحذف نهائي ولا يمكن التراجع عنه",
+      "processing": "قد تستغرق المعالجة ما يصل إلى 30 يومًا",
+      "legal": "قد يتم الاحتفاظ ببعض البيانات المجهولة للامتثال القانوني"
+    },
+    "fallback": {
+      "title": "ليس لديك التطبيق؟",
+      "app_store": "التنزيل من",
+      "play_store": "احصل عليه من"
+    },
+    "manual": {
+      "title": "التعليمات اليدوية",
+      "steps": "في تطبيق Jynx، انتقل إلى: الإعدادات ← حذف الحساب"
+    },
+    "contact": {
+      "intro": "لا يمكنك الوصول إلى التطبيق؟",
+      "email_text": "تواصل معنا على"
+    }
+  },
+  "invite": {
+    "meta": {
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
+    },
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
+    "fallback": {
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on"
+    }
   }
 }
