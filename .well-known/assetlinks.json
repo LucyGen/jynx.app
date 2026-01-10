@@ -1,12 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "app.jynx",
       "sha256_cert_fingerprints": [
-        "<RELEASE_KEY_SHA256>",
-        "<DEBUG_KEY_SHA256>"
+        "FE:4D:A5:0E:76:0C:CE:16:5A:B9:70:32:9E:6A:B3:78:F8:9F:95:81:33:24:E1:45:FC:85:1C:13:27:C7:7D:75"
       ]
     }
   }
