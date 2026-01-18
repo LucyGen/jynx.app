@@ -1,4 +1,7 @@
 {
+  "assets/images/splash/community-mockup.webp": "assets/community-mockup-096rQ9R6.webp",
+  "assets/images/splash/game-session-mockup.webp": "assets/game-session-mockup-DIb7yfea.webp",
+  "assets/images/splash/global-chat-mockup.webp": "assets/global-chat-mockup-BeuOuYY6.webp",
   "assets/images/blog/featured/lfg-evolution-forums-to-smart-matchmaking/hero.webp": "assets/hero-3PBc35R-.webp",
   "assets/images/blog/featured/cs2-non-toxic-teammates/hero.webp": "assets/hero-B5AKovzr.webp",
   "assets/images/blog/featured/cs2-team-roles-guide/hero.webp": "assets/hero-B5AKovzr.webp",
@@ -39,18 +42,15 @@
   "assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp": "assets/hero-UebGjjju.webp",
   "assets/images/blog/featured/apex-legends-playstyle-matching/hero.webp": "assets/hero-i6j2afiW.webp",
   "assets/images/blog/featured/apex-ranked-team-chemistry/hero.webp": "assets/hero-i6j2afiW.webp",
-  "assets/images/splash/community-mockup.png": "assets/images/community-mockup-Cf0GiqGx.png",
-  "assets/images/splash/game-session-mockup.png": "assets/images/game-session-mockup-DmI7MWrY.png",
-  "assets/images/splash/gobal-chat-mockup.png": "assets/images/gobal-chat-mockup-3JVlFzIb.png",
   "assets/images/splash/jynx_character.png": "assets/images/jynx_character-CsIGXl8u.png",
   "assets/images/splash/landing-page.png": "assets/images/landing-page-ekGS33sq.png",
   "assets/images/hero/landing_page_1200_1600.png": "assets/images/landing_page_1200_1600-CIe_5sXD.png",
   "assets/images/hero/landing_page_1920_1080.png": "assets/images/landing_page_1920_1080-ncp_HJy1.png",
   "assets/images/hero/landing_page_828_1792.png": "assets/images/landing_page_828_1792-D0O3XjD1.png",
-  "assets/images/splash/match-queue-mockup.png": "assets/images/match-queue-mockup-Bi-d13kr.png",
   "assets/images/splash/jynx_character.webp": "assets/jynx_character-BRNpsmjV.webp",
   "assets/images/splash/landing-page.webp": "assets/landing-page-CwWtLlNf.webp",
   "assets/images/hero/landing_page_1200_1600.webp": "assets/landing_page_1200_1600-DSI5krGE.webp",
   "assets/images/hero/landing_page_1920_1080.webp": "assets/landing_page_1920_1080-DN_dEyTH.webp",
-  "assets/images/hero/landing_page_828_1792.webp": "assets/landing_page_828_1792-5Nbxv9vb.webp"
+  "assets/images/hero/landing_page_828_1792.webp": "assets/landing_page_828_1792-5Nbxv9vb.webp",
+  "assets/images/splash/match-queue-mockup.webp": "assets/match-queue-mockup-sKXCpjEL.webp"
 }
