@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Oyun Eşleştirme Uygulaması | LFG Takım Arkadaşları Bul | Jynx",
-    "description": "Jynx'in akıllı eşleştirmesi ile mükemmel oyun takım arkadaşlarınızı bulun. Yetenek, oyun tarzı ve programa göre eşleşin. Bekleme listesine katılın. Sonsuza kadar ücretsiz.",
+    "description": "Jynx'in akıllı eşleştirmesiyle mükemmel oyun takım arkadaşlarınızı bulun. Yetenek, oyun tarzı ve programa göre eşleşin. Artık yalnız oynamayı bırakın.",
     "keywords": "oyun eşleştirme uygulaması, akıllı eşleştirme, oyun takım arkadaşları bul, oyun sosyal platformu, LFG alternatifi, oyun takımı bulucu, rekabetçi oyun, oyun topluluğu, espor eşleştirme, League of Legends takım arkadaşları, Valorant eşleştirme",
     "og_title": "Jynx - Akıllı Oyun Eşleştirme Uygulaması | Oyun Sosyalleşiyor",
-    "og_description": "Akıllı eşleştirme ile mükemmel oyun takımınızı bulun. Bekleme listesine katılın. Sonsuza kadar ücretsiz.",
+    "og_description": "Akıllı eşleştirmeyle mükemmel oyun takımınızı bulun. Artık yalnız oynamayı bırakın.",
     "og_image_alt": "Jynx Oyun Eşleştirme Platformu - Mükemmel Takımınızı Bulun",
     "twitter_title": "Jynx - Akıllı Oyun Eşleştirme Uygulaması | Oyun Sosyalleşiyor",
-    "twitter_description": "Akıllı eşleştirme ile mükemmel oyun takımınızı bulun. Bekleme listesine katılın. Sonsuza kadar ücretsiz.",
+    "twitter_description": "Akıllı eşleştirmeyle mükemmel oyun takımınızı bulun. Artık yalnız oynamayı bırakın.",
     "twitter_image_alt": "Jynx Oyun Eşleştirme Platformu"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Birlikte Daha İyi Oyun",
     "subtitle": "Modern oyuncular için tasarlanmış akıllı oyun topluluğu araçları",
-    "description": "Jynx, geleneksel LFG platformlarına iyi bir alternatiftir - oyun tercihlerine, oyun tarzlarına ve program uyumluluğuna göre takım arkadaşlarını akıllıca bağlayarak solo oyunu sosyal bir deneyime dönüştürür",
+    "description": "Boşluğa bağırmayı bırakın. Jynx, oyun tercihleri, oyun tarzları ve program uyumluluğuna göre takım arkadaşlarını akıllıca eşleştirerek solo oyunu sosyal bir deneyime dönüştürür",
     "cards": {
       "scheduling": {
         "title": "Akıllı Eşleştirme",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Akıllı Eşleştirme",
-      "subtitle": "Saniyeler içinde mükemmel oyun takım arkadaşlarınızı bulun - artık LFG spamı yok. Yetenek seviyesine, oyun tarzına ve program uyumluluğuna göre oyuncularla eşleşin",
+      "subtitle": "Saniyeler içinde mükemmel oyun takım arkadaşlarınızı bulun. Yetenek seviyesi, oyun tarzı ve program uyumluluğuna göre eşleşin. Artık LFG spamı yok.",
       "title_seo": "Akıllı Oyun Eşleştirme",
       "subtitle_header": "Yetenek Seviyenize ve Oyun Tarzınıza Uyan Takım Arkadaşları Bulun",
       "subtitle_seo": "Akıllı eşleştirme algoritmalarımız, oyun profilinizi, yetenek seviyenizi (ELO), tercih ettiğiniz oyun tarzınızı ve müsaitliğinizi analiz ederek saniyeler içinde mükemmel oyun takımınızı bulur. Artık sonsuz LFG gönderilerine göz atmak veya boş lobiler de beklemek yok. Sistemimizin çalışmasına izin verin ve otomatik olarak uyumlu takım arkadaşlarıyla bağlantı kurun."
     },
     "community_building": {
       "title": "Topluluk Oluşturma",
-      "subtitle": "Kendi topluluğunuzu oluşturun ve lider olun. Kriterlerinize uyan kendi takım arkadaşlarınızı işe alın, hedeflerinizi belirleyin ve sınırlarınızı zorlayın. Topluluğunuz, kurallarınız, başarınız",
+      "subtitle": "Kendi topluluğunuzu oluşturun ve lider olun. Kriterlerinize uyan takım arkadaşları toplayın, hedeflerinizi belirleyin ve sınırlarınızı zorlayın. Topluluğunuz, kurallarınız, başarınız.",
       "title_seo": "Oyun Topluluğunuzu Oluşturun",
       "subtitle_header": "Kendi Oyun Takımınızı Oluşturun ve Yönetin",
       "subtitle_seo": "Kendi oyun topluluğunuzu oluşturun ve lider olun. Kriterlerinize uyan takım arkadaşları işe alın, hedeflerinizi belirleyin ve sınırlarınızı zorlayın. Bir espor takımı, rahat oyun grubu veya içerik oluşturucu topluluğu oluşturuyor olun, Jynx size takımınızı büyütmek ve yönetmek için araçlar sunar. Topluluğunuz, kurallarınız, başarınız."
     },
     "global_chat": {
       "title": "Küresel Sohbet",
-      "subtitle": "Küresel sohbet aracılığıyla yüzlerce insanla gerçek zamanlı konuşmalara katılın, ELO'nuzla öne çıkın ve kişiliğinize ve enerjinize uyan takım arkadaşları bulun",
+      "subtitle": "Küresel sohbet aracılığıyla dünya genelindeki oyuncularla gerçek zamanlı konuşmalara katılın. ELO'nuzla öne çıkın, kişiliğinize ve enerjinize uyan takım arkadaşları bulun.",
       "title_seo": "Gerçek Zamanlı Oyun Sohbeti ve İletişim",
       "subtitle_header": "Dünya Çapında Binlerce Oyuncuyla Bağlantı Kurun"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Jynx'in Geleceğini Birlikte Şekillendirin",
-    "description": "<a href=\"/about\">Oyuncular tarafından, oyuncular için oluşturuldu</a>. Misyonumuz basit: kâr değil, tutku tarafından yönlendirilen sosyal bir oyun platformu oluşturmak. Buradayız çünkü oyunu seviyoruz ve sizin girdileriniz Jynx'in geleceğini doğrudan şekillendiriyor",
+    "title": "Başka birinin yapmasını beklemeye bıkıp kendileri yapan oyuncular tarafından inşa edildi.",
+    "description": "Jynx var çünkü geleneksel LFG bozuk — ve biz bunu düzeltmeye karar verdik. Kâr değil, gece 2'de Discord sunucularında 'LFG' spamlamanın verdiği hayal kırıklığı bizi harekete geçirdi. Sizin girdileriniz bir sonraki adımda ne inşa edeceğimizi doğrudan şekillendiriyor.",
     "discord": "Discord'umuza Katılın",
     "ideas": "Fikirlerinizi Paylaşın"
   },
@@ -1255,7 +1255,7 @@
     }
   },
   "comparison": {
-    "title": "Jynx Neden Diğer Platformlardan Daha İyi",
+    "title": "Oyuncular İçin, Oyuncular Tarafından",
     "table": {
       "feature": "Özellik",
       "lfg": "LFG Forumlari",
@@ -1328,23 +1328,23 @@
     "cta_button": "Bizimle iletişime geçin!",
     "q1": {
       "question": "Oyuncuların takım arkadaşı bulması için Tinder benzeri bir uygulama var mı?",
-      "answer": "Öfkelenerek oyundan çıkan, dilinizde iletişim kuramayan veya siz uyurken çevrimiçi olan rastgele oyunculardan bıktıysanız, Jynx gerçekten önemli olana göre filtreleme yapmanızı sağlar: uyumlu programlar, benzer yetenek seviyeleri ve ortak oyun tercihleri. Kriterlerinizi karşılayan potansiyel takım arkadaşlarını gözden geçirir, garip soğuk mesajlaşmayı atlarsınız ve yalnızca oynamak istediğinizde gerçekten müsait olan oyuncularla bağlantı kurarsınız.<br><br>Normal LFG forumları veya Discord sunucularından fark nedir? Birinin yanıt vermesini umarak boşluğa bağırmıyorsunuz, yalnızca müsaitliğinize, dilinize ve oyunlarınıza zaten uyan kişileri görüyorsunuz. Sohbette 'LFG' spam yapmak için daha az zaman, gerçekten tekrar takım kurmak isteyeceğiniz kişilerle oyun içinde daha fazla zaman."
+      "answer": "Evet, artık zamanı geldi. Geleneksel LFG bozuk — Discord kanallarında spam yapıyorsunuz, 3 gün önceki subreddit'lerde paylaşım yapıyorsunuz ve dilinizi konuşan, sizin rankınızda oynayan birinin tam siz çevrimiçi olduğunuzda gerçekten aktif olmasını umuyorsunuz. Bu bir sistem değil, zamanınızla kumar oynamak.<br><br>Jynx gerçekten önemli olana göre filtreleme yapmanızı sağlar: uyumlu programlar, benzer yetenek seviyeleri ve ortak oyun tercihleri. Kriterlerinize uyan potansiyel takım arkadaşlarını inceler, garip soğuk mesajlaşmayı atlarsınız ve yalnızca oynamak istediğinizde gerçekten müsait olan oyuncularla bağlantı kurarsınız.<br><br>Fark ne mi? Birinin yanıt vermesini umarak boşluğa bağırmıyorsunuz. Yalnızca müsaitliğinize uyan, dilinizi konuşan ve oyunlarınızı oynayan kişileri görüyorsunuz. Sohbette 'LFG' spam yapmak için daha az zaman, gerçekten tekrar takım kurmak isteyeceğiniz insanlarla oyun içinde daha fazla zaman."
     },
     "q2": {
       "question": "Çevrimiçi oyuncularla nasıl tanışılır ve oyun arkadaş grubu nasıl oluşturulur?",
-      "answer": "Oyuncularla tanışmadaki en büyük zorluk insan bulmak değil, DOĞRU insanları bulmaktır. Oynadığınızda müsait olan, dilinizde iletişim kuran ve yetenek seviyenize uyan takım arkadaşlarına ihtiyacınız var.<br><br><strong>İşe yarayan şey:</strong><br><strong>• Taahhütte bulunmadan önce filtreleyin:</strong> Bağlanmadan önce doğrulanmış istatistikler, müsaitlik ve oyun tarzı ile oyuncu profillerine göz atabileceğiniz platformlar arayın<br><strong>• Uyumluluğu önceliklendirin:</strong> Saat dilimi, sıralama ve iletişim tarzı sadece aynı oyunu oynamaktan daha önemlidir<br><strong>• Kademeli olarak oluşturun:</strong> Anlamlı bağlantıların kurulmasının daha zor olduğu büyük topluluklara katılmak yerine 2-3 sağlam takım arkadaşı bulmaya odaklanın<br><br>'LFG' mesajları spam yapmaya ve yanıt beklemeye zorlayan platformlardan kaçının, zamanınız değerlidir."
+      "answer": "Oyuncu bulmak kolay. DOĞRU oyuncuları bulmak herkesin başarısız olduğu nokta.<br><br>Oynadığınızda müsait olan, dilinizde iletişim kuran ve yetenek seviyenize uyan takım arkadaşlarına ihtiyacınız var. Bu fazla istemek değil — bu asgari gereklilik.<br><br><strong>Gerçekten işe yarayan şey:</strong><br><strong>• Taahhüt etmeden önce filtreleyin</strong> — Bağlanmadan önce doğrulanmış istatistikler, müsaitlik ve oyun tarzı ile oyuncu profillerine göz atın<br><strong>• Uyumluluğu önceliklendirin</strong> — Saat dilimi, sıralama ve iletişim tarzı sadece aynı oyunu oynamaktan daha önemlidir<br><strong>• Kademeli olarak oluşturun</strong> — Anlamlı bağlantıların kurulmasının daha zor olduğu dev topluluklara katılmak yerine 2-3 sağlam takım arkadaşı bulmaya odaklanın<br><br>'LFG' spam yapmaya ve yanıt beklemeye zorlayan platformlardan kaçının. Zamanınız bundan daha değerli."
     },
     "q3": {
       "question": "League of Legends ve Valorant'ta sıralı oyunlar için takım arkadaşları nasıl bulunur?",
-      "answer": "İyi sıralı takım arkadaşları bulmak miktar değil, uyumlulukla ilgilidir. İletişim kurmayan, ilk kanından sonra öfkelenerek çıkan veya rahat olmadıkları rolleri oynayan rastgele oyuncularla oynamak LP ve akıl sağlığınıza mal olur.<br><br>Sıralı takım arkadaşlarında aranacaklar:<br><strong>• Doğrulanmış sıralama:</strong> Gerçekten ELO'nuzda olduklarından emin olun (smurf veya boost değil)<br><strong>• Rol uyumluluğu:</strong> Kuyruğa girmeden önce şampiyon havuzlarını ve tercih ettikleri rolleri kontrol edin<br><strong>• Tutarlı müsaitlik:</strong> Sıralı tırmanma düzenli oyun gerektirir, benzer programlara sahip kişiler bulun<br><strong>• İletişim tarzı:</strong> Bazı oyuncular komuta vermeyi tercih eder, diğerleri minimum sohbet ister. Bunu önceden eşleştirin.<br><br>En iyi yaklaşım? Riot API'si aracılığıyla oyuncu sıralamalarını doğrulayan ve rol, program ve iletişim tercihlerine göre filtrelemenize izin veren platformları kullanın. Şampiyon seçiminde kaçınmak için daha az zaman, tırmanmak için daha fazla zaman harcarsınız. <a href=\"/blog/league-of-legends-teammate-guide\">Kapsamlı League of Legends takım arkadaşı rehberimizi okuyun</a> veya <a href=\"/blog/ai-gaming-matchmaking-guide\">yapay zeka destekli eşleştirmenin nasıl çalıştığı hakkında daha fazla bilgi edinin</a>."
+      "answer": "İyi sıralı takım arkadaşları bulmak miktar değil, uyumlulukla ilgilidir. İletişim kurmayan, ilk kanından sonra öfkelenerek çıkan veya rahat olmadıkları rolleri oynayan rastgele oyuncularla oynamak LP'nize ve akıl sağlığınıza mal olur.<br><br>Sıralı takım arkadaşlarında aranacaklar:<br><strong>• Doğrulanmış sıralama</strong> — Gerçekten ELO'nuzda olduklarından emin olun (smurf veya boost değil)<br><strong>• Rol uyumluluğu</strong> — Kuyruğa girmeden önce şampiyon havuzlarını ve tercih ettikleri rolleri kontrol edin<br><strong>• Tutarlı müsaitlik</strong> — Sıralı tırmanma düzenli oyun gerektirir — benzer programlara sahip kişiler bulun<br><strong>• İletişim tarzı</strong> — Bazı oyuncular komuta vermeyi tercih eder, diğerleri minimum sohbet ister. Bunu önceden eşleştirin.<br><br>En iyi yaklaşım? Riot API aracılığıyla oyuncu sıralamalarını doğrulayan ve rol, program ve iletişim tercihlerine göre filtrelemenize izin veren platformları kullanın. Şampiyon seçiminde dodge için daha az, tırmanmak için daha fazla zaman harcarsınız. <a href=\"/blog/league-of-legends-teammate-guide\">League takım arkadaşı bulma rehberini biz yazdık</a> — ve işte <a href=\"/blog/ai-gaming-matchmaking-guide\">yapay zeka eşleştirmenin perde arkasında nasıl çalıştığı</a>."
     },
     "q4": {
       "question": "Oyun takım arkadaşları bulmak için Discord'a en iyi alternatifler nelerdir?",
-      "answer": "Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır, ancak yenilerini bulmak için korkunçtur. İşte nedeni:<br><br>10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın bir yolu yoktur. Ve en önemlisi, tüm işi siz yapıyorsunuz, kanalları spam yapıyor, yabancılara DM atıyor, birinin yanıt vermesini umuyorsunuz.<br><br>Gerçekten ihtiyacınız olan şey, iletişim için değil, keşif için tasarlanmış bir platformdur:<br><strong>• Oyuncu profilleri:</strong> Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün<br><strong>• Akıllı filtreleme:</strong> Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi)<br><strong>• Aktif eşleştirme:</strong> Boşluğa bağırmak yerine öneriler alın<br><br>Amaç Discord'u değiştirmek değil, keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG platformlarının evrimi ve modern eşleştirmenin neden daha etkili olduğu hakkında bilgi edinin</a>."
+      "answer": "Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır. Yenilerini bulmak için mi? Yanlış araç.<br><br>İşte gerçek: 10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın hiçbir yolu yoktur. Ve en önemlisi — tüm işi siz yapıyorsunuz. Kanalları spam yapıyorsunuz, yabancılara DM atıyorsunuz, birinin yanıt vermesini umuyorsunuz.<br><br><strong>Gerçekten ihtiyacınız olan keşif için tasarlanmış bir platformdur:</strong><br><strong>• Oyuncu profilleri</strong> — Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün<br><strong>• Akıllı filtreleme</strong> — Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi)<br><strong>• Aktif eşleştirme</strong> — Boşluğa bağırmak yerine öneriler alın<br><br>Amaç Discord'u değiştirmek değil — keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG'nin forumlardan akıllı eşleştirmeye nasıl evrildiğini görün</a>."
     },
     "q5": {
       "question": "Ücretsiz oyun eşleştirme uygulamaları ve platformları var mı?",
-      "answer": "Evet ve sadece takım arkadaşı bulmak için ödeme yapmanız gerekmemeli. Birçok platform temelleri içeren sağlam ücretsiz katmanlar sunar: oyuncu keşfi, profil tarama, sohbet ve seans planlaması.<br><br><strong>Ücretsiz katmanlardan beklenecekler:</strong><br>• Temel eşleştirme özellikleri (arama, filtreleme, bağlanma)<br>• İstatistiklerle oyuncu profilleri<br>• Temel mesajlaşma ve seans planlaması<br><br><strong>Premium katmanlar genellikle şunları ekler:</strong><br>• Sınırsız günlük eşleşme/kaydırma<br>• Gelişmiş filtreler (çok spesifik kriterler)<br>• Kozmetik yükseltmeler (rozetler, profil özelleştirme)<br><br><strong>Kaçınılması gereken kırmızı bayraklar:</strong><br>• Mesajlaşma veya kiminle eşleştiğinizi görme gibi temel özellikleri ücretli hale getirmek<br>• Sıralamanızı doğrulamak veya hesapları bağlamak için ödeme yapmaya zorlamak<br>• Hiç ücretsiz katman yok (ürüne güveniyorlarsa, denemenize izin vermeliler)<br><br>Zamanınız abonelik ücretlerinden daha değerlidir, taahhütte bulunmadan önce test edebilmeniz için cömert ücretsiz katmanlara sahip platformlara odaklanın."
+      "answer": "Evet, ve sadece takım arkadaşı bulmak için ödeme yapmanız gerekmemeli. Birçok platform temel özellikleri içeren sağlam ücretsiz katmanlar sunar: oyuncu keşfi, profil tarama, sohbet ve seans planlaması.<br><br><strong>Ücretsiz katmanlardan beklenecekler:</strong><br>• Temel eşleştirme özellikleri (arama, filtreleme, bağlanma)<br>• İstatistiklerle oyuncu profilleri<br>• Temel mesajlaşma ve seans planlaması<br><br><strong>Premium katmanlar genellikle şunları ekler:</strong><br>• Sınırsız günlük eşleşme/kaydırma<br>• Gelişmiş filtreler (çok spesifik kriterler)<br>• Kozmetik yükseltmeler (rozetler, profil özelleştirme)<br><br><strong>Kaçınılması gereken kırmızı bayraklar:</strong><br>• Mesajlaşma veya kiminle eşleştiğinizi görme gibi temel özellikleri ücretli yapma<br>• Sıralamanızı doğrulamak veya hesapları bağlamak için ödeme yapmaya zorlama<br>• Hiç ücretsiz katman yok (ürüne güveniyorlarsa, denemenize izin vermeliler)<br><br>Zamanınız abonelik ücretlerinden daha değerlidir. Taahhütte bulunmadan önce test edebilmeniz için cömert ücretsiz katmanlara sahip platformlara odaklanın."
     }
   },
   "how_it_works": {

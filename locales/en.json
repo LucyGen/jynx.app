@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Gaming Matchmaking App | Find LFG Teammates | Jynx",
-    "description": "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Join the waitlist. Free forever.",
+    "description": "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Stop playing alone.",
     "keywords": "gaming matchmaking app, smart matchmaking, find gaming teammates, gaming social platform, LFG alternative, gaming squad finder, competitive gaming, gaming community, esports matchmaking, League of Legends teammates, Valorant matchmaking",
     "og_title": "Jynx - Smart Gaming Matchmaking App | Where Gaming Gets Social",
-    "og_description": "Find your perfect gaming squad with intelligent matchmaking. Join the waitlist. Free forever.",
+    "og_description": "Find your perfect gaming squad with intelligent matchmaking. Stop playing alone.",
     "og_image_alt": "Jynx Gaming Matchmaking Platform - Find Your Perfect Squad",
     "twitter_title": "Jynx - Smart Gaming Matchmaking App | Where Gaming Gets Social",
-    "twitter_description": "Find your perfect gaming squad with intelligent matchmaking. Join the waitlist. Free forever.",
+    "twitter_description": "Find your perfect gaming squad with intelligent matchmaking. Stop playing alone.",
     "twitter_image_alt": "Jynx Gaming Matchmaking Platform"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Game Better, Together",
     "subtitle": "Intelligent gaming community tools designed for modern players",
-    "description": "Jynx is a good alternative to traditional LFG platforms - transforming solo gaming into a social experience by intelligently connecting teammates based on gaming preferences, play styles, and schedule compatibility",
+    "description": "Stop shouting into the void. Jynx transforms solo gaming into a social experience by intelligently connecting teammates based on gaming preferences, play styles, and schedule compatibility",
     "cards": {
       "scheduling": {
         "title": "Intelligent Matchmaking",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Intelligent Matchmaking",
-      "subtitle": "Find your perfect gaming teammates in seconds - no more LFG spam. Match with players based on skill level, play style, and schedule compatibility",
+      "subtitle": "Find your perfect gaming teammates in seconds. Match based on skill level, play style, and schedule compatibility. No more LFG spam.",
       "title_seo": "Smart Gaming Matchmaking",
       "subtitle_header": "Find Teammates Who Match Your Skill Level & Play Style",
       "subtitle_seo": "Our smart matchmaking algorithms analyze your gaming profile, skill level (ELO), preferred play style, and availability to find your perfect gaming squad in seconds. No more browsing endless LFG posts or waiting in empty lobbies. Let our system do the work and connect you with compatible teammates automatically."
     },
     "community_building": {
       "title": "Community Building",
-      "subtitle": "Create your own community and become a leader. Recruit your own teammates that match your criterias, set your goals, and push your limits. Your community, your rules, your success",
+      "subtitle": "Create your own community and become a leader. Recruit teammates who match your criteria, set your goals, and push your limits. Your community, your rules, your success.",
       "title_seo": "Build Your Gaming Community",
       "subtitle_header": "Create & Lead Your Own Gaming Squad",
       "subtitle_seo": "Create your own gaming community and become a leader. Recruit teammates that match your criteria, set your goals, and push your limits. Whether you're building an esports team, casual gaming group, or content creator community, Jynx gives you the tools to grow and manage your squad. Your community, your rules, your success."
     },
     "global_chat": {
       "title": "Global Chat",
-      "subtitle": "Engage in real-time conversations with hundreds of people through the global chat, stand out with your ELO, and find teammates who match your personality and energy",
+      "subtitle": "Engage in real-time conversations with gamers worldwide through global chat. Stand out with your ELO, find teammates who match your personality and energy.",
       "title_seo": "Real-Time Gaming Chat & Communication",
       "subtitle_header": "Connect with Thousands of Gamers Worldwide"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Shape the Future of Jynx Together",
-    "description": "<a href=\"/about\">Created by gamers, for gamers</a>. Our mission is simple: build a social gaming platform driven by passion, not profit. We're here because we love gaming, and your input directly shapes Jynx's future",
+    "title": "Built by gamers who got tired of waiting for someone else to build it.",
+    "description": "Jynx exists because traditional LFG is broken — and we decided to fix it. Not driven by profit, but by the frustration of spamming 'LFG' in Discord servers at 2 AM. Your input directly shapes what we build next.",
     "discord": "Join our Discord",
     "ideas": "Share Your Ideas"
   },
@@ -1173,23 +1173,23 @@
     "cta_button": "Contact Us!",
     "q1": {
       "question": "Is there a Tinder-like app for gamers to find teammates?",
-      "answer": "If you're tired of randoms who rage quit, can't communicate in your language, or are online when you're asleep, Jynx let you filter for what actually matters: compatible schedules, similar skill levels, and shared gaming preferences. You swipe through potential teammates who meet your criteria, skip the awkward cold messaging, and only connect with players who are genuinely available when you want to play.<br><br>The difference from regular LFG forums or Discord servers? You're not shouting into the void hoping someone responds, you're seeing only people who already match your availability, speak your language, and play your games. Less time spamming \"LFG\" in chat, more time in-game with people you'll actually want to team up with again."
+      "answer": "Yeah, and it's about time. Traditional LFG is broken — you're spamming Discord channels, posting in subreddits from 3 days ago, and hoping someone who speaks your language and plays your rank is actually online when you are. That's not a system, that's gambling with your time.<br><br>Jynx lets you filter for what actually matters: compatible schedules, similar skill levels, and shared gaming preferences. You swipe through potential teammates who meet YOUR criteria, skip awkward cold messaging, and only connect with players who are genuinely available when you want to play.<br><br>The difference? You're not shouting into a void hoping someone responds. You're seeing only people who already match your availability, speak your language, and play your games. Less time spamming 'LFG' in chat, more time in-game with people you'll actually want to team up with again."
     },
     "q2": {
       "question": "How to meet gamers online and build a gaming friend group?",
-      "answer": "The biggest challenge in meeting gamers isn't finding people, it's finding the RIGHT people. You need teammates who are available when you play, communicate in your language, and match your skill level.<br><br><strong>Here's what actually works:</strong><br><strong>• Filter before you commit:</strong> Look for platforms where you can browse player profiles with verified stats, availability, and playstyle before connecting<br><strong>• Prioritize compatibility:</strong> Timezone, rank, and communication style matter more than just playing the same game<br><strong>• Build gradually:</strong> Focus on finding 2-3 solid teammates rather than joining huge communities where meaningful connections are harder to form<br><br>Avoid platforms that force you to spam \"LFG\" messages and hope for responses, your time is valuable."
+      "answer": "Finding gamers is easy. Finding RIGHT gamers is where everyone fails.<br><br>You need teammates who are available when you play, communicate in your language, and match your skill level. That's not too much to ask — it's bare minimum.<br><br><strong>What actually works:</strong><br><strong>• Filter before you commit</strong> — Browse player profiles with verified stats, availability, and playstyle before connecting<br><strong>• Prioritize compatibility</strong> — Timezone, rank, and communication style matter more than just playing same game<br><strong>• Build gradually</strong> — Focus on finding 2-3 solid teammates rather than joining mega-communities where meaningful connections are harder to form<br><br>Avoid platforms that force you to spam 'LFG' and hope for responses. Your time is worth more than that."
     },
     "q3": {
       "question": "How to find teammates for ranked games in League of Legends and Valorant?",
-      "answer": "Finding good ranked teammates isn't about quantity, it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Verified rank:</strong> Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility:</strong> Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability:</strong> Ranked grinding requires regular play, find people with similar schedules<br><strong>• Communication style:</strong> Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Read our complete League of Legends teammate guide</a> or learn more about <a href=\"/blog/ai-gaming-matchmaking-guide\">how AI-powered matchmaking works</a>."
+      "answer": "Finding good ranked teammates isn't about quantity — it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Verified rank</strong> — Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility</strong> — Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability</strong> — Ranked grinding requires regular play — find people with similar schedules<br><strong>• Communication style</strong> — Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing. <a href=\"/blog/league-of-legends-teammate-guide\">We wrote the guide on finding League teammates</a> — and here's <a href=\"/blog/ai-gaming-matchmaking-guide\">how AI matchmaking actually works under the hood</a>."
     },
     "q4": {
       "question": "What are the best alternatives to Discord for finding gaming teammates?",
-      "answer": "Discord is great for chatting with teammates you ALREADY have, but terrible for finding new ones. Here's why:<br><br>Posting \"LFG\" in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly, you're doing all the work, spamming channels, DMing strangers, hoping someone responds.<br><br>What you actually need is a platform designed for discovery, not just communication:<br><strong>• Player profiles:</strong> See someone's rank, schedule, and preferred roles BEFORE messaging<br><strong>• Smart filtering:</strong> Search by criteria that matter (language, timezone, skill level)<br><strong>• Active matching:</strong> Get recommendations instead of shouting into the void<br><br>The goal isn't to replace Discord, it's to use the right tool for discovery, then move to Discord for voice chat once you've found compatible teammates. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Learn about the evolution of LFG platforms</a> and why modern matchmaking is more effective."
+      "answer": "Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool.<br><br>Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds.<br><br><strong>What you actually need is a platform designed for discovery:</strong><br><strong>• Player profiles</strong> — See someone's rank, schedule, and preferred roles BEFORE messaging<br><strong>• Smart filtering</strong> — Search by criteria that matter (language, timezone, skill level)<br><strong>• Active matching</strong> — Get recommendations instead of shouting into the void<br><br>The goal isn't to replace Discord — it's to use the right tool for discovery, then move to Discord for voice chat once you've found compatible teammates. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">See how LFG evolved from forums to smart matchmaking</a>."
     },
     "q5": {
       "question": "Are there free gaming matchmaking apps and platforms?",
-      "answer": "Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning.<br><br><strong>What to expect from free tiers:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Player profiles with stats<br>• Basic messaging and session scheduling<br><br><strong>What premium tiers usually add:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags to avoid:</strong><br>• Paywalling basic features like messaging or seeing who matched with you<br>• Forcing you to pay to verify your rank or link accounts<br>• No free tier at all (if they're confident in the product, they should let you try it)<br><br>Your time is more valuable than subscription fees, focus on platforms with generous free tiers so you can test before committing."
+      "answer": "Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning.<br><br><strong>What to expect from free tiers:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Player profiles with stats<br>• Basic messaging and session scheduling<br><br><strong>What premium tiers usually add:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags to avoid:</strong><br>• Paywalling basic features like messaging or seeing who matched with you<br>• Forcing you to pay to verify your rank or link accounts<br>• No free tier at all (if they're confident in their product, they should let you try it)<br><br>Your time is more valuable than subscription fees. Focus on platforms with generous free tiers so you can test before committing."
     }
   },
   "how_it_works": {
@@ -1387,7 +1387,7 @@
     "nojs_banner": "JavaScript is disabled. Some interactive features may not work optimally."
   },
   "comparison": {
-    "title": "Made for gamers, by gamers",
+    "title": "Built for Gamers, by Gamers",
     "table": {
       "feature": "Feature",
       "lfg": "Traditional LFG",

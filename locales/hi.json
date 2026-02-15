@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "गेमिंग मैचमेकिंग ऐप | LFG टीममेट्स खोजें | Jynx",
-    "description": "Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग प्राथमिकताओं, खेलने की शैली और कम्युनिटी रुचियों के आधार पर खिलाड़ियों को बुद्धिमानी से जोड़कर",
+    "description": "Jynx की स्मार्ट मैचमेकिंग से अपने परफेक्ट गेमिंग टीममेट्स खोजें। स्किल, प्लेस्टाइल और शेड्यूल के आधार पर मैच करें। अकेले खेलना बंद करो।",
     "keywords": "गेमिंग मैचमेकिंग ऐप, एआई मैचमेकिंग, गेमिंग टीममेट्स खोजें, गेमिंग सोशल प्लेटफॉर्म, LFG विकल्प, गेमिंग स्क्वाड खोजक, प्रतिस्पर्धी गेमिंग, गेमिंग समुदाय, ईस्पोर्ट्स मैचमेकिंग, League of Legends टीममेट्स, Valorant मैचमेकिंग",
     "og_title": "Jynx - एआई गेमिंग मैचमेकिंग ऐप | जहां गेमिंग सामाजिक हो जाती है",
-    "og_description": "एआई-संचालित मैचमेकिंग के साथ अपना परफेक्ट गेमिंग स्क्वाड खोजें। प्रतीक्षा सूची में शामिल हों। हमेशा के लिए मुफ्त।",
+    "og_description": "इंटेलिजेंट मैचमेकिंग से अपना परफेक्ट गेमिंग स्क्वाड खोजें। अकेले खेलना बंद करो।",
     "og_image_alt": "Jynx गेमिंग मैचमेकिंग प्लेटफॉर्म - अपना परफेक्ट स्क्वाड खोजें",
     "twitter_title": "Jynx - एआई गेमिंग मैचमेकिंग ऐप | जहां गेमिंग सामाजिक हो जाती है",
-    "twitter_description": "एआई-संचालित मैचमेकिंग के साथ अपना परफेक्ट गेमिंग स्क्वाड खोजें। प्रतीक्षा सूची में शामिल हों। हमेशा के लिए मुफ्त।",
+    "twitter_description": "इंटेलिजेंट मैचमेकिंग से अपना परफेक्ट गेमिंग स्क्वाड खोजें। अकेले खेलना बंद करो।",
     "twitter_image_alt": "Jynx गेमिंग मैचमेकिंग प्लेटफॉर्म"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "बेहतर खेलें, साथ में",
     "subtitle": "आधुनिक खिलाड़ियों के लिए डिज़ाइन किए गए intelligent gaming community tools",
-    "description": "Jynx पारंपरिक LFG प्लेटफॉर्म का एक अच्छा विकल्प है - गेमिंग प्राथमिकताओं, खेल शैलियों और शेड्यूल संगतता के आधार पर साथियों को बुद्धिमानी से जोड़कर एकल गेमिंग को एक सामाजिक अनुभव में बदल देता है",
+    "description": "खालीपन में चिल्लाना बंद करो। Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग प्राथमिकताओं, प्ले स्टाइल और शेड्यूल कम्पैटिबिलिटी के आधार पर टीममेट्स को बुद्धिमानी से जोड़कर",
     "cards": {
       "scheduling": {
         "title": "Intelligent Matchmaking",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Intelligent Matchmaking",
-      "subtitle": "सेकंडों में अपने perfect gaming teammates को खोजें - अब LFG spam नहीं। skill level, play style, और schedule compatibility के आधार पर players से match करें",
+      "subtitle": "सेकंडों में अपने परफेक्ट गेमिंग टीममेट्स खोजें। स्किल लेवल, प्ले स्टाइल और शेड्यूल कम्पैटिबिलिटी के आधार पर मैच करें। अब LFG स्पैम नहीं।",
       "title_seo": "Smart Gaming Matchmaking",
       "subtitle_header": "ऐसे Teammates खोजें जो आपके Skill Level और Play Style से Match करें",
       "subtitle_seo": "हमारे smart matchmaking algorithms आपकी gaming profile, skill level (ELO), preferred play style, और availability का analyze करके seconds में आपका perfect gaming squad ढूंढते हैं। अब endless LFG posts browse करने या empty lobbies में wait करने की जरूरत नहीं। हमारे system को काम करने दें और automatically compatible teammates से connect हों।"
     },
     "community_building": {
       "title": "Community Building",
-      "subtitle": "अपनी community बनाएं और leader बनें। अपने criteria से match करने वाले teammates recruit करें, अपने goals set करें, और अपनी limits push करें। आपकी community, आपके rules, आपकी success",
+      "subtitle": "अपनी खुद की कम्युनिटी बनाओ और लीडर बनो। अपने क्राइटेरिया से मैच करने वाले टीममेट्स रिक्रूट करो, अपने गोल्स सेट करो, और अपनी लिमिट्स पुश करो। तुम्हारी कम्युनिटी, तुम्हारे रूल्स, तुम्हारी सक्सेस।",
       "title_seo": "अपनी Gaming Community बनाएं",
       "subtitle_header": "अपना Gaming Squad बनाएं और Lead करें",
       "subtitle_seo": "अपनी gaming community बनाएं और leader बनें। अपने criteria से match करने वाले teammates recruit करें, अपने goals set करें, और अपनी limits push करें। चाहे आप esports team, casual gaming group, या content creator community बना रहे हों, Jynx आपको अपने squad को grow और manage करने के tools देता है। आपकी community, आपके rules, आपकी success।"
     },
     "global_chat": {
       "title": "Global Chat",
-      "subtitle": "Global chat के through सैकड़ों लोगों के साथ real-time conversations में engage हों, अपने ELO से stand out करें, और ऐसे teammates खोजें जो आपकी personality और energy से match करें",
+      "subtitle": "ग्लोबल चैट के ज़रिए दुनिया भर के गेमर्स के साथ रियल-टाइम बातचीत करो। अपने ELO से अलग दिखो, ऐसे टीममेट्स खोजो जो तुम्हारी पर्सनैलिटी और एनर्जी से मैच करें।",
       "title_seo": "Real-Time Gaming Chat और Communication",
       "subtitle_header": "दुनिया भर में हजारों Gamers से Connect करें"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Jynx के भविष्य को साथ में shape करें",
-    "description": "<a href=\"/about\">गेमर्स द्वारा, गेमर्स के लिए बनाया गया</a>। हमारा mission सरल है: profit नहीं बल्कि passion से driven एक social gaming platform बनाना। हम यहाँ हैं क्योंकि हम gaming से प्यार करते हैं, और आपका input सीधे Jynx के भविष्य को shape करता है",
+    "title": "उन गेमर्स ने बनाया जो किसी और के बनाने का इंतज़ार करते-करते थक गए।",
+    "description": "Jynx इसलिए है क्योंकि पारंपरिक LFG टूटा हुआ है — और हमने इसे ठीक करने का फैसला किया। प्रॉफिट से नहीं, बल्कि रात 2 बजे Discord सर्वर्स में 'LFG' स्पैम करने की फ्रस्ट्रेशन से। तुम्हारा इनपुट सीधे तय करता है कि हम आगे क्या बनाएंगे।",
     "discord": "हमारे Discord में शामिल हों",
     "ideas": "अपने Ideas शेयर करें"
   },
@@ -1255,7 +1255,7 @@
     }
   },
   "comparison": {
-    "title": "Jynx क्यों है सबसे अच्छा Gaming Matchmaking Platform",
+    "title": "गेमर्स के लिए बनाया, गेमर्स द्वारा",
     "table": {
       "feature": "Feature",
       "lfg": "Traditional LFG",
@@ -1328,23 +1328,23 @@
     "cta_button": "हमसे संपर्क करें!",
     "q1": {
       "question": "क्या गेमर्स के लिए teammates खोजने के लिए Tinder जैसा app है?",
-      "answer": "अगर आप random players से थक गए हैं जो quit कर देते हैं, आपकी भाषा में communicate नहीं कर सकते, या जब आप सो रहे होते हैं तब online होते हैं, तो Jynx आपको वही filter करने देता है जो वास्तव में मायने रखता है: compatible schedules, similar skill levels, और shared gaming preferences। आप potential teammates को swipe करते हैं जो आपके criteria को पूरा करते हैं, awkward cold messages को skip करते हैं, और केवल उन players के साथ connect होते हैं जो वास्तव में उपलब्ध हैं जब आप खेलना चाहते हैं।<br><br>Regular LFG forums या Discord servers से अंतर? आप void में चिल्ला नहीं रहे हैं यह उम्मीद करते हुए कि कोई respond करेगा - आप केवल उन लोगों को देखते हैं जो पहले से ही आपकी availability से match होते हैं, आपकी भाषा बोलते हैं, और आपके games खेलते हैं। Chat में \"LFG\" spam करने में कम समय, उन लोगों के साथ खेलने में ज्यादा समय जिनके साथ आप फिर से squad करना चाहेंगे।"
+      "answer": "हां, और अब वक्त आ गया है। पारंपरिक LFG टूटा हुआ है — तुम Discord चैनल्स में स्पैम कर रहे हो, 3 दिन पुरानी subreddit पोस्ट्स में लिख रहे हो, और उम्मीद कर रहे हो कि कोई तुम्हारी भाषा बोलने वाला, तुम्हारी रैंक का, और तुम्हारे ऑनलाइन होने पर actually ऑनलाइन हो। ये सिस्टम नहीं है, ये तुम्हारे टाइम के साथ जुआ है।<br><br>Jynx तुम्हें वो फिल्टर करने देता है जो सच में मायने रखता है: कम्पैटिबल शेड्यूल, मिलता-जुलता स्किल लेवल, और शेयर्ड गेमिंग प्रेफरेंसेज़। तुम पोटेंशियल टीममेट्स को स्वाइप करते हो जो तुम्हारे क्राइटेरिया पूरे करते हैं, awkward कोल्ड मैसेजिंग स्किप करते हो, और सिर्फ उन players से कनेक्ट होते हो जो genuinely अवेलेबल हैं जब तुम खेलना चाहते हो।<br><br>फर्क? तुम void में चिल्ला नहीं रहे कि कोई respond करे। तुम सिर्फ उन लोगों को देख रहे हो जो पहले से तुम्हारी availability से मैच करते हैं, तुम्हारी भाषा बोलते हैं, और तुम्हारे गेम्स खेलते हैं। चैट में 'LFG' स्पैम करने में कम टाइम, इन-गेम में उन लोगों के साथ ज़्यादा टाइम जिनके साथ तुम दोबारा टीम करना चाहोगे।"
     },
     "q2": {
       "question": "Gamers से online कैसे मिलें और gaming friend group कैसे बनाएं?",
-      "answer": "Gamers से मिलने में सबसे बड़ी चुनौती लोगों को ढूंढना नहीं है - यह सही लोगों को ढूंढना है। आपको ऐसे teammates की जरूरत है जो available हों जब आप खेलते हैं, आपकी भाषा में communicate करते हैं, और आपके skill level से match करते हैं।<br><br><strong>वास्तव में क्या काम करता है:</strong><br><strong>• Commit करने से पहले filter करें:</strong> ऐसे platforms की तलाश करें जहां आप connect करने से पहले verified stats, availability, और play style के साथ player profiles browse कर सकें<br><strong>• Compatibility को prioritize करें:</strong> Time zone, rank, और communication style एक ही game खेलने से ज्यादा महत्वपूर्ण हैं<br><strong>• Gradually build करें:</strong> 2-3 reliable teammates खोजने पर focus करें बजाय huge communities join करने के जहां meaningful connections बनाना कठिन है<br><br>ऐसे platforms से बचें जो आपको \"LFG\" messages spam करने के लिए मजबूर करते हैं और replies की उम्मीद करते हैं - आपका समय कीमती है।"
+      "answer": "गेमर्स ढूंढना आसान है। सही गेमर्स ढूंढना — यहीं सब फेल हो जाते हैं।<br><br>तुम्हें ऐसे टीममेट्स चाहिए जो तब अवेलेबल हों जब तुम खेलते हो, तुम्हारी भाषा में कम्युनिकेट करें, और तुम्हारे स्किल लेवल से मैच करें। ये ज़्यादा मांगना नहीं है — ये बेसिक ज़रूरत है।<br><br><strong>जो सच में काम करता है:</strong><br><strong>• कमिट करने से पहले फिल्टर करो</strong> — कनेक्ट करने से पहले वेरिफाइड स्टैट्स, अवेलेबिलिटी और प्लेस्टाइल वाली प्लेयर प्रोफाइल्स ब्राउज़ करो<br><strong>• कम्पैटिबिलिटी को प्रायोरिटी दो</strong> — टाइमज़ोन, रैंक और कम्युनिकेशन स्टाइल सिर्फ एक ही गेम खेलने से ज़्यादा मायने रखते हैं<br><strong>• धीरे-धीरे बनाओ</strong> — मेगा-कम्युनिटीज़ जॉइन करने की बजाय 2-3 सॉलिड टीममेट्स खोजने पर फोकस करो जहां मीनिंगफुल कनेक्शन बनाना मुश्किल होता है<br><br>ऐसे प्लेटफॉर्म्स से बचो जो तुम्हें 'LFG' स्पैम करने और रिस्पॉन्स की उम्मीद करने पर मजबूर करते हैं। तुम्हारा टाइम इससे ज़्यादा कीमती है।"
     },
     "q3": {
       "question": "League of Legends और Valorant में ranked games के लिए teammates कैसे खोजें?",
-      "answer": "Ranked games के लिए अच्छे teammates खोजना quantity का नहीं, बल्कि compatibility का सवाल है। Random players के साथ खेलना जो communicate नहीं करते, first death के बाद quit कर जाते हैं, या ऐसी roles खेलते हैं जिनमें वे comfortable नहीं हैं, आपको LP और mental health cost करता है।<br><br>Ranked teammates में क्या देखें:<br><strong>• Verified rank:</strong> सुनिश्चित करें कि वे वास्तव में आपके ELO पर हैं (smurfing या boosted नहीं)<br><strong>• Role compatibility:</strong> Queue करने से पहले उनके champion pool और preferred roles check करें<br><strong>• Consistent availability:</strong> Ranked grinding regular play की मांग करती है, similar schedules वाले लोग खोजें<br><strong>• Communication style:</strong> कुछ players shotcalling prefer करते हैं, अन्य minimal chat चाहते हैं। इस पर पहले से agree करें।<br><br>सबसे अच्छा approach? ऐसे platforms use करें जो Riot API के through players' ranks verify करते हैं और आपको role, schedule, और communication preferences से filter करने देते हैं। आप champ select dodges में कम समय बिताएंगे और climbing में ज्यादा। <a href=\"/blog/league-of-legends-teammate-guide\">हमारी पूर्ण League of Legends teammate guide पढ़ें</a> या <a href=\"/blog/ai-gaming-matchmaking-guide\">AI-powered matchmaking कैसे काम करती है, इसके बारे में और जानें</a>।"
+      "answer": "रैंक्ड के लिए अच्छे टीममेट्स खोजना क्वांटिटी का नहीं — कम्पैटिबिलिटी का सवाल है। ऐसे रैंडम्स के साथ खेलना जो कम्युनिकेट नहीं करते, फर्स्ट ब्लड के बाद रेज क्विट करते हैं, या ऐसी रोल्स खेलते हैं जिनमें वो कम्फर्टेबल नहीं हैं — ये तुम्हें LP और सैनिटी दोनों कॉस्ट करता है।<br><br>रैंक्ड टीममेट्स में क्या देखें:<br><strong>• वेरिफाइड रैंक</strong> — पक्का करो कि वो सच में तुम्हारे ELO पर हैं (स्मर्फिंग या बूस्टेड नहीं)<br><strong>• रोल कम्पैटिबिलिटी</strong> — क्यू करने से पहले उनका चैंपियन पूल और प्रेफर्ड रोल्स चेक करो<br><strong>• कंसिस्टेंट अवेलेबिलिटी</strong> — रैंक्ड ग्राइंडिंग रेगुलर प्ले मांगती है — मिलते-जुलते शेड्यूल वाले लोग ढूंढो<br><strong>• कम्युनिकेशन स्टाइल</strong> — कुछ प्लेयर्स शॉटकॉलिंग प्रेफर करते हैं, दूसरे मिनिमल चैट चाहते हैं। ये पहले से तय कर लो।<br><br>सबसे अच्छा तरीका? ऐसे प्लेटफॉर्म्स यूज़ करो जो Riot API से प्लेयर रैंक्स वेरिफाई करते हैं और तुम्हें रोल, शेड्यूल और कम्युनिकेशन प्रेफरेंसेज़ से फिल्टर करने देते हैं। चैंप सेलेक्ट में डॉज करने में कम टाइम बिताओगे और क्लाइम्बिंग में ज़्यादा। <a href=\"/blog/league-of-legends-teammate-guide\">हमने League टीममेट्स ढूंढने की गाइड लिखी है</a> — और यहां देखो <a href=\"/blog/ai-gaming-matchmaking-guide\">AI मैचमेकिंग actually कैसे काम करती है</a>।"
     },
     "q4": {
       "question": "Gaming teammates खोजने के लिए Discord के सर्वोत्तम alternatives क्या हैं?",
-      "answer": "Discord उन teammates के साथ chat करने के लिए बढ़िया है जो आपके पास पहले से हैं, लेकिन नए खोजने के लिए भयानक है। क्यों:<br><br>10,000 members वाले server में \"LFG\" post करने का मतलब है कि आपका message minutes में buried हो जाएगा। आपके पास skill level, availability, या play style से filter करने का कोई तरीका नहीं है इससे पहले कि आप reach out करें। और सबसे महत्वपूर्ण, आप सारा काम कर रहे हैं - channels में spam कर रहे हैं, strangers को DM कर रहे हैं, यह उम्मीद करते हुए कि कोई respond करेगा।<br><br>आपको वास्तव में क्या चाहिए एक platform जो discovery के लिए designed है, सिर्फ communication के लिए नहीं:<br><strong>• Player profiles:</strong> Message भेजने से पहले किसी की rank, schedule, और preferred roles देखें<br><strong>• Smart filtering:</strong> उन criteria से search करें जो matter करते हैं (language, time zone, skill level)<br><strong>• Active matching:</strong> Void में चिल्लाने के बजाय recommendations पाएं<br><br>Goal Discord को replace करना नहीं है - यह discovery के लिए सही tool use करना है, फिर compatible teammates खोजने के बाद voice chat के लिए Discord पर move करना है। <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG platforms के evolution और modern matchmaking अधिक effective क्यों है, इसके बारे में जानें</a>।"
+      "answer": "Discord उन टीममेट्स के साथ चैट करने के लिए बढ़िया है जो तुम्हारे पास पहले से हैं। नए ढूंढने के लिए? ये गलत टूल है।<br><br>रियलिटी ये है: 10,000 मेंबर्स वाले सर्वर में 'LFG' पोस्ट करने का मतलब है कि तुम्हारा मैसेज मिनटों में दब जाएगा। रीच आउट करने से पहले स्किल लेवल, अवेलेबिलिटी या प्लेस्टाइल से फिल्टर करने का कोई तरीका नहीं है। और सबसे ज़रूरी बात — तुम सारा काम कर रहे हो। चैनल्स स्पैम करना, स्ट्रेंजर्स को DM करना, उम्मीद करना कि कोई रिस्पॉन्ड करे।<br><br><strong>तुम्हें actually एक ऐसा प्लेटफॉर्म चाहिए जो डिस्कवरी के लिए डिज़ाइन किया गया हो:</strong><br><strong>• प्लेयर प्रोफाइल्स</strong> — मैसेज भेजने से पहले किसी की रैंक, शेड्यूल और प्रेफर्ड रोल्स देखो<br><strong>• स्मार्ट फिल्टरिंग</strong> — उन क्राइटेरिया से सर्च करो जो मायने रखते हैं (भाषा, टाइमज़ोन, स्किल लेवल)<br><strong>• एक्टिव मैचिंग</strong> — void में चिल्लाने की बजाय रेकमेंडेशन्स पाओ<br><br>गोल Discord को रिप्लेस करना नहीं है — डिस्कवरी के लिए सही टूल यूज़ करना है, फिर कम्पैटिबल टीममेट्स मिलने के बाद वॉइस चैट के लिए Discord पर मूव करना है। <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">देखो कैसे LFG फोरम्स से स्मार्ट मैचमेकिंग तक इवॉल्व हुआ</a>।"
     },
     "q5": {
       "question": "क्या free gaming matchmaking apps और platforms हैं?",
-      "answer": "हां, और teammates खोजने के लिए आपको pay नहीं करना चाहिए। कई platforms robust free tiers offer करते हैं जिनमें basics शामिल हैं: player discovery, profile browsing, chat, और session planning।<br><br><strong>Free tiers से क्या expect करें:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Stats के साथ player profiles<br>• Basic messaging और session scheduling<br><br><strong>Premium tiers आमतौर पर क्या add करते हैं:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags जिनसे avoid करें:</strong><br>• Core features के लिए paying जैसे messaging या देखना कि आपसे कौन matched<br>• Rank verification या account linking के लिए pay करने के लिए forcing<br>• कोई free tier नहीं (अगर वे product में confident हैं, तो उन्हें आपको try करने देना चाहिए)<br><br>आपका time subscription fees से ज्यादा valuable है - generous free tiers वाले platforms पर focus करें ताकि आप commit करने से पहले test कर सकें।"
+      "answer": "हां, और टीममेट्स ढूंढने के लिए तुम्हें पे नहीं करना चाहिए। कई प्लेटफॉर्म्स रोबस्ट फ्री टियर्स ऑफर करते हैं जिनमें ज़रूरी चीज़ें शामिल हैं: प्लेयर डिस्कवरी, प्रोफाइल ब्राउज़िंग, चैट और सेशन प्लानिंग।<br><br><strong>फ्री टियर्स से क्या एक्सपेक्ट करें:</strong><br>• कोर मैचमेकिंग फीचर्स (सर्च, फिल्टर, कनेक्ट)<br>• स्टैट्स वाली प्लेयर प्रोफाइल्स<br>• बेसिक मैसेजिंग और सेशन शेड्यूलिंग<br><br><strong>प्रीमियम टियर्स आमतौर पर क्या ऐड करते हैं:</strong><br>• अनलिमिटेड डेली मैचेज/स्वाइप्स<br>• एडवांस्ड फिल्टर्स (बहुत स्पेसिफिक क्राइटेरिया)<br>• कॉस्मेटिक अपग्रेड्स (बैजेज, प्रोफाइल कस्टमाइज़ेशन)<br><br><strong>रेड फ्लैग्स जिनसे बचो:</strong><br>• बेसिक फीचर्स जैसे मैसेजिंग या देखना कि किसने मैच किया को पेवॉल करना<br>• रैंक वेरिफिकेशन या अकाउंट लिंकिंग के लिए पे करने पर मजबूर करना<br>• कोई फ्री टियर ही नहीं (अगर वो अपने प्रोडक्ट में कॉन्फिडेंट हैं, तो तुम्हें ट्राई करने देना चाहिए)<br><br>तुम्हारा टाइम सब्सक्रिप्शन फीस से ज़्यादा वैल्यूएबल है। जनरस फ्री टियर्स वाले प्लेटफॉर्म्स पर फोकस करो ताकि कमिट करने से पहले टेस्ट कर सको।"
     }
   },
   "how_it_works": {

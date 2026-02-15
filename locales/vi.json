@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Ứng Dụng Ghép Đôi Gaming | Tìm Đồng Đội LFG | Jynx",
-    "description": "Jynx biến trải nghiệm chơi game đơn lẻ thành trải nghiệm xã hội bằng cách kết nối game thủ dựa trên sở thích game, phong cách chơi và sở thích cộng đồng.",
+    "description": "Tìm đồng đội game hoàn hảo với hệ thống ghép đôi thông minh của Jynx. Kết nối theo kỹ năng, phong cách chơi và lịch trình. Đừng chơi một mình nữa.",
     "keywords": "nền tảng xã hội game, ghép đôi game thủ, cộng đồng game, tìm bạn League of Legends, đồng đội Valorant, mạng game, ứng dụng game xã hội, nền tảng LFG, kết nối game thủ, ghép đôi đa người chơi",
     "og_title": "Jynx - Ứng Dụng Ghép Đôi Game | Nơi Game Trở Nên Xã Hội",
-    "og_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia danh sách chờ. Miễn phí mãi mãi.",
+    "og_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Đừng chơi một mình nữa.",
     "og_image_alt": "Nền Tảng Ghép Đôi Game Jynx - Tìm Đội Hoàn Hảo Của Bạn",
     "twitter_title": "Jynx - Ứng Dụng Ghép Đôi Game | Nơi Game Trở Nên Xã Hội",
-    "twitter_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Tham gia danh sách chờ. Miễn phí mãi mãi.",
+    "twitter_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Đừng chơi một mình nữa.",
     "twitter_image_alt": "Nền Tảng Ghép Đôi Game Jynx"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Chơi Game Tốt Hơn, Cùng Nhau",
     "subtitle": "Công cụ cộng đồng game thông minh được thiết kế cho game thủ hiện đại",
-    "description": "Jynx là một giải pháp thay thế tốt cho các nền tảng LFG truyền thống - biến game đơn thành trải nghiệm xã hội bằng cách kết nối đồng đội một cách thông minh dựa trên sở thích game, phong cách chơi và sự tương thích lịch trình",
+    "description": "Đừng hét vào hư không nữa. Jynx biến game đơn thành trải nghiệm xã hội bằng cách kết nối đồng đội một cách thông minh dựa trên sở thích game, phong cách chơi và sự tương thích lịch trình",
     "cards": {
       "scheduling": {
         "title": "Ghép Đôi Thông Minh",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Ghép Đôi Thông Minh",
-      "subtitle": "Tìm đồng đội game hoàn hảo của bạn trong vài giây - không còn spam LFG nữa. Kết nối với người chơi dựa trên trình độ, phong cách chơi và sự tương thích lịch trình",
+      "subtitle": "Tìm đồng đội game hoàn hảo trong vài giây. Ghép đôi theo trình độ, phong cách chơi và sự tương thích lịch trình. Không còn spam LFG nữa.",
       "title_seo": "Ghép Đôi Game Thông Minh",
       "subtitle_header": "Tìm Đồng Đội Phù Hợp Với Trình Độ và Phong Cách Chơi Của Bạn",
       "subtitle_seo": "Thuật toán ghép đôi thông minh của chúng tôi phân tích hồ sơ game, trình độ (ELO), phong cách chơi ưa thích và khả năng của bạn để tìm đội game hoàn hảo trong vài giây. Không còn duyệt qua vô số bài đăng LFG hoặc chờ đợi trong sảnh trống. Hãy để hệ thống của chúng tôi làm việc và tự động kết nối bạn với đồng đội tương thích."
     },
     "community_building": {
       "title": "Xây Dựng Cộng Đồng",
-      "subtitle": "Tạo cộng đồng riêng của bạn và trở thành người lãnh đạo. Tuyển dụng đồng đội phù hợp với tiêu chí của bạn, đặt mục tiêu và vượt qua giới hạn. Cộng đồng của bạn, quy tắc của bạn, thành công của bạn",
+      "subtitle": "Tạo cộng đồng riêng và trở thành người lãnh đạo. Tuyển dụng đồng đội phù hợp với tiêu chí của bạn, đặt mục tiêu và vượt qua giới hạn. Cộng đồng của bạn, quy tắc của bạn, thành công của bạn.",
       "title_seo": "Xây Dựng Cộng Đồng Game Của Bạn",
       "subtitle_header": "Tạo và Lãnh Đạo Đội Game Riêng Của Bạn",
       "subtitle_seo": "Tạo cộng đồng game riêng của bạn và trở thành người lãnh đạo. Tuyển dụng đồng đội phù hợp với tiêu chí của bạn, đặt mục tiêu và vượt qua giới hạn. Cho dù bạn đang xây dựng đội esports, nhóm game giải trí hay cộng đồng người sáng tạo nội dung, Jynx cung cấp cho bạn các công cụ để phát triển và quản lý đội của mình. Cộng đồng của bạn, quy tắc của bạn, thành công của bạn."
     },
     "global_chat": {
       "title": "Trò Chuyện Toàn Cầu",
-      "subtitle": "Tham gia các cuộc trò chuyện thời gian thực với hàng trăm người thông qua trò chuyện toàn cầu, nổi bật với ELO của bạn và tìm đồng đội phù hợp với tính cách và năng lượng của bạn",
+      "subtitle": "Tham gia trò chuyện thời gian thực với game thủ toàn thế giới qua global chat. Nổi bật với ELO của bạn, tìm đồng đội phù hợp với tính cách và năng lượng của bạn.",
       "title_seo": "Trò Chuyện và Giao Tiếp Game Thời Gian Thực",
       "subtitle_header": "Kết Nối Với Hàng Nghìn Game Thủ Trên Toàn Thế Giới"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Cùng Nhau Định Hình Tương Lai Của Jynx",
-    "description": "<a href=\"/about\">Được tạo bởi game thủ, dành cho game thủ</a>. Sứ mệnh của chúng tôi đơn giản: xây dựng nền tảng game xã hội được thúc đẩy bởi đam mê, không phải lợi nhuận. Chúng tôi ở đây vì chúng tôi yêu game, và ý kiến của bạn trực tiếp định hình tương lai của Jynx",
+    "title": "Được xây dựng bởi những game thủ chán chờ người khác làm nên tự mình làm.",
+    "description": "Jynx tồn tại vì LFG truyền thống đã hỏng — và chúng tôi quyết định sửa nó. Không phải vì lợi nhuận, mà vì sự bực bội khi spam 'LFG' trong các server Discord lúc 2 giờ sáng. Ý kiến của bạn trực tiếp định hình những gì chúng tôi xây dựng tiếp theo.",
     "discord": "Tham Gia Discord Của Chúng Tôi",
     "ideas": "Chia Sẻ Ý Tưởng Của Bạn"
   },
@@ -1255,7 +1255,7 @@
     }
   },
   "comparison": {
-    "title": "Được tạo bởi game thủ, dành cho game thủ",
+    "title": "Được Xây Dựng Cho Game Thủ, Bởi Game Thủ",
     "table": {
       "feature": "Tính năng",
       "lfg": "LFG Truyền thống",
@@ -1328,23 +1328,23 @@
     "cta_button": "Liên hệ với chúng tôi!",
     "q1": {
       "question": "Có ứng dụng kiểu Tinder cho game thủ để tìm đồng đội không?",
-      "answer": "Nếu bạn mệt mỏi với những người chơi ngẫu nhiên bỏ cuộc, không thể giao tiếp bằng ngôn ngữ của bạn, hoặc trực tuyến khi bạn đang ngủ, Jynx cho phép bạn lọc những gì thực sự quan trọng: lịch trình tương thích, trình độ kỹ năng tương tự và sở thích chơi game chung. Bạn vuốt qua các đồng đội tiềm năng phù hợp với tiêu chí của bạn, bỏ qua các tin nhắn lạnh lùng khó xử và chỉ kết nối với những người chơi thực sự có mặt khi bạn muốn chơi.<br><br>Sự khác biệt so với diễn đàn LFG hoặc máy chủ Discord thông thường? Bạn không hét vào khoảng trống hy vọng ai đó trả lời—bạn chỉ thấy những người đã phù hợp với khả năng sẵn có, nói ngôn ngữ của bạn và chơi game của bạn. Ít thời gian spam \"LFG\" trong trò chuyện, nhiều thời gian chơi với những người bạn thực sự muốn kết hợp lại."
+      "answer": "Đúng vậy, và đã đến lúc rồi. LFG truyền thống đã hỏng — bạn spam các kênh Discord, đăng trên subreddit từ 3 ngày trước, và hy vọng ai đó nói ngôn ngữ của bạn, chơi cùng rank thực sự online khi bạn online. Đó không phải hệ thống, đó là đánh bạc với thời gian của bạn.<br><br>Jynx cho phép bạn lọc theo những gì thực sự quan trọng: lịch trình tương thích, trình độ kỹ năng tương tự và sở thích game chung. Bạn vuốt qua các đồng đội tiềm năng đáp ứng tiêu chí CỦA BẠN, bỏ qua tin nhắn lạnh lùng khó xử và chỉ kết nối với người chơi thực sự có mặt khi bạn muốn chơi.<br><br>Sự khác biệt? Bạn không hét vào hư không hy vọng ai đó trả lời. Bạn chỉ thấy những người đã phù hợp với lịch trình, nói ngôn ngữ của bạn và chơi game của bạn. Ít thời gian spam 'LFG' trong chat, nhiều thời gian in-game với những người bạn thực sự muốn chơi cùng lần nữa."
     },
     "q2": {
       "question": "Làm thế nào để gặp game thủ trực tuyến và xây dựng nhóm bạn chơi game?",
-      "answer": "Vấn đề lớn nhất trong việc gặp game thủ không phải là tìm người—mà là tìm đúng người. Bạn cần đồng đội có mặt khi bạn chơi, giao tiếp bằng ngôn ngữ của bạn và phù hợp với trình độ kỹ năng của bạn.<br><br><strong>Đây là những gì thực sự hiệu quả:</strong><br><strong>• Lọc trước khi cam kết:</strong> Tìm nền tảng cho phép bạn duyệt hồ sơ người chơi với thống kê đã xác minh, khả năng sẵn có và phong cách chơi trước khi kết nối<br><strong>• Ưu tiên tương thích:</strong> Múi giờ, rank và phong cách giao tiếp quan trọng hơn việc chỉ chơi cùng game<br><strong>• Xây dựng dần dần:</strong> Tập trung tìm 2-3 đồng đội đáng tin cậy thay vì tham gia các cộng đồng lớn nơi kết nối có ý nghĩa khó khăn hơn<br><br>Tránh các nền tảng buộc bạn spam tin nhắn \"LFG\" và hy vọng phản hồi—thời gian của bạn quý giá."
+      "answer": "Tìm game thủ thì dễ. Tìm ĐÚNG game thủ mới là chỗ ai cũng thất bại.<br><br>Bạn cần đồng đội có mặt khi bạn chơi, giao tiếp bằng ngôn ngữ của bạn và phù hợp với trình độ kỹ năng. Đó không phải đòi hỏi quá đáng — đó là yêu cầu tối thiểu.<br><br><strong>Những gì thực sự hiệu quả:</strong><br><strong>• Lọc trước khi cam kết</strong> — Duyệt hồ sơ người chơi với thống kê đã xác minh, khả năng sẵn có và phong cách chơi trước khi kết nối<br><strong>• Ưu tiên tương thích</strong> — Múi giờ, rank và phong cách giao tiếp quan trọng hơn việc chỉ chơi cùng game<br><strong>• Xây dựng dần dần</strong> — Tập trung tìm 2-3 đồng đội đáng tin cậy thay vì tham gia mega-community nơi kết nối ý nghĩa khó hơn<br><br>Tránh nền tảng buộc bạn spam 'LFG' rồi hy vọng phản hồi. Thời gian của bạn đáng giá hơn thế."
     },
     "q3": {
       "question": "Làm thế nào để tìm đồng đội cho trận xếp hạng trong League of Legends và Valorant?",
-      "answer": "Tìm đồng đội tốt cho trận xếp hạng không phải về số lượng—mà về tương thích. Chơi với những người ngẫu nhiên không giao tiếp, bỏ cuộc sau lần chết đầu tiên, hoặc chơi vai trò họ không thoải mái sẽ khiến bạn mất LP và sự tỉnh táo.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank đã xác minh:</strong> Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò:</strong> Kiểm tra kho tướng và vai trò ưa thích trước khi xếp hàng<br><strong>• Khả năng sẵn có nhất quán:</strong> Grind rank yêu cầu chơi thường xuyên—tìm người có lịch trình tương tự<br><strong>• Phong cách giao tiếp:</strong> Một số người chơi thích shotcalling, một số muốn trò chuyện tối thiểu. Căn chỉnh điều này trước.<br><br>Cách tiếp cận tốt nhất? Sử dụng nền tảng xác minh rank người chơi qua Riot API và cho phép lọc theo vai trò, lịch trình và sở thích giao tiếp. Bạn sẽ dành ít thời gian dodge chọn tướng và nhiều thời gian leo rank hơn. <a href=\"/blog/league-of-legends-teammate-guide\">Đọc hướng dẫn đồng đội League of Legends đầy đủ của chúng tôi</a> hoặc <a href=\"/blog/ai-gaming-matchmaking-guide\">tìm hiểu thêm về cách ghép đôi được hỗ trợ bởi AI hoạt động</a>."
+      "answer": "Tìm đồng đội rank tốt không phải về số lượng — mà về tương thích. Chơi với người ngẫu nhiên không giao tiếp, rage quit sau first blood, hoặc chơi role họ không thoải mái sẽ tốn LP và tốn cả thần kinh.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank đã xác minh</strong> — Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò</strong> — Kiểm tra kho tướng và role ưa thích trước khi xếp hàng<br><strong>• Lịch trình ổn định</strong> — Grind rank cần chơi đều đặn — tìm người có lịch tương tự<br><strong>• Phong cách giao tiếp</strong> — Có người thích shotcalling, có người muốn chat tối thiểu. Khớp điều này từ đầu.<br><br>Cách tốt nhất? Dùng nền tảng xác minh rank qua Riot API và cho phép lọc theo role, lịch trình và sở thích giao tiếp. Ít thời gian dodge chọn tướng, nhiều thời gian leo rank hơn. <a href=\"/blog/league-of-legends-teammate-guide\">Hướng dẫn tìm đồng đội League do chính chúng tôi viết</a> — và đây là <a href=\"/blog/ai-gaming-matchmaking-guide\">cách AI matchmaking thực sự hoạt động đằng sau hậu trường</a>."
     },
     "q4": {
       "question": "Các lựa chọn thay thế Discord tốt nhất để tìm đồng đội game là gì?",
-      "answer": "Discord tuyệt vời để trò chuyện với đồng đội bạn ĐÃ CÓ, nhưng tệ để tìm người mới. Đây là lý do:<br><br>Đăng \"LFG\" trên máy chủ có 10.000 thành viên có nghĩa là tin nhắn của bạn bị chôn vùi trong vài phút. Bạn không có cách lọc theo trình độ kỹ năng, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất—bạn làm tất cả công việc—spam kênh, nhắn tin riêng người lạ, hy vọng ai đó trả lời.<br><br>Những gì bạn thực sự cần là một nền tảng được xây dựng cho khám phá, không chỉ trò chuyện:<br><strong>• Hồ sơ người chơi:</strong> Xem rank, lịch trình và vai trò ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh:</strong> Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ kỹ năng)<br><strong>• Ghép đôi chủ động:</strong> Nhận đề xuất thay vì hét vào khoảng trống<br><br>Mục tiêu không phải là thay thế Discord—mà là sử dụng công cụ đúng cho khám phá, sau đó chuyển sang Discord để trò chuyện thoại khi bạn đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Tìm hiểu về sự phát triển của các nền tảng LFG và tại sao ghép đôi hiện đại hiệu quả hơn</a>."
+      "answer": "Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi.<br><br>Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời.<br><br><strong>Bạn thực sự cần một nền tảng được thiết kế cho khám phá:</strong><br><strong>• Hồ sơ người chơi</strong> — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh</strong> — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ)<br><strong>• Ghép đôi chủ động</strong> — Nhận đề xuất thay vì hét vào hư không<br><br>Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào</a>."
     },
     "q5": {
       "question": "Có ứng dụng và nền tảng ghép đôi game miễn phí không?",
-      "answer": "Có, và bạn không nên phải trả tiền chỉ để tìm đồng đội. Nhiều nền tảng cung cấp các cấp miễn phí mạnh mẽ bao gồm khả năng cốt lõi: tìm kiếm người chơi, duyệt hồ sơ, trò chuyện và lên lịch phiên.<br><br><strong>Những gì mong đợi từ các cấp miễn phí:</strong><br>• Tính năng ghép đôi cốt lõi (tìm kiếm, lọc, kết nối)<br>• Hồ sơ người chơi với thống kê<br>• Tin nhắn cơ bản và lên lịch phiên<br><br><strong>Những gì các cấp cao cấp thường thêm:</strong><br>• Ghép đôi/vuốt hàng ngày không giới hạn<br>• Bộ lọc nâng cao (tiêu chí rất cụ thể)<br>• Cải tiến thẩm mỹ (huy hiệu, tùy chỉnh hồ sơ)<br><br><strong>Cờ đỏ cần tránh:</strong><br>• Tính năng cơ bản bị trả phí như tin nhắn hoặc xem ai đã ghép với bạn<br>• Buộc bạn trả tiền để xác minh rank hoặc liên kết tài khoản<br>• Không có cấp miễn phí (nếu họ tự tin vào sản phẩm, họ nên để bạn thử)<br><br>Thời gian của bạn có giá trị hơn phí đăng ký—tập trung vào nền tảng có cấp miễn phí hào phóng để bạn có thể kiểm tra trước khi cam kết."
+      "answer": "Có, và bạn không nên phải trả tiền chỉ để tìm đồng đội. Nhiều nền tảng cung cấp gói miễn phí mạnh mẽ bao gồm những thứ cốt lõi: tìm kiếm người chơi, duyệt hồ sơ, chat và lên lịch phiên.<br><br><strong>Những gì mong đợi từ gói miễn phí:</strong><br>• Tính năng ghép đôi cốt lõi (tìm kiếm, lọc, kết nối)<br>• Hồ sơ người chơi với thống kê<br>• Tin nhắn cơ bản và lên lịch phiên<br><br><strong>Gói premium thường thêm:</strong><br>• Ghép đôi/vuốt hàng ngày không giới hạn<br>• Bộ lọc nâng cao (tiêu chí rất cụ thể)<br>• Nâng cấp cosmetic (huy hiệu, tùy chỉnh hồ sơ)<br><br><strong>Cờ đỏ cần tránh:</strong><br>• Paywall tính năng cơ bản như nhắn tin hoặc xem ai đã match với bạn<br>• Buộc trả tiền để xác minh rank hoặc liên kết tài khoản<br>• Không có gói miễn phí (nếu họ tự tin vào sản phẩm, họ nên để bạn thử)<br><br>Thời gian của bạn quý hơn phí đăng ký. Tập trung vào nền tảng có gói miễn phí hào phóng để bạn test trước khi cam kết."
     }
   },
   "how_it_works": {

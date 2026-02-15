@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "App de Matchmaking Gaming | Encuentra Compañeros LFG | Jynx",
-    "description": "Jynx es la mejor alternativa a las plataformas LFG tradicionales. Encuentra tus compañeros de gaming perfectos a través de matchmaking inteligente basado en habilidad, estilo de juego y horario. Únete a gamers de calidad hoy.",
+    "description": "Encuentra a tus compañeros gaming perfectos con el matchmaking inteligente de Jynx. Empareja por habilidad, estilo de juego y horario. Deja de jugar solo.",
     "keywords": "app de matchmaking gaming, matchmaking inteligente, encontrar compañeros gaming, plataforma social gaming, alternativa LFG, buscador escuadrón gaming, gaming competitivo, comunidad gaming, matchmaking esports, compañeros League of Legends, matchmaking Valorant",
     "og_title": "Jynx - App de Matchmaking Gaming Inteligente | Donde el Gaming se Vuelve Social",
-    "og_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a la lista de espera. Gratis para siempre.",
+    "og_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Deja de jugar solo.",
     "og_image_alt": "Plataforma de Matchmaking Gaming Jynx - Encuentra Tu Escuadrón Perfecto",
     "twitter_title": "Jynx - App de Matchmaking Gaming Inteligente | Donde el Gaming se Vuelve Social",
-    "twitter_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Únete a la lista de espera. Gratis para siempre.",
+    "twitter_description": "Encuentra tu escuadrón gaming perfecto con matchmaking inteligente. Deja de jugar solo.",
     "twitter_image_alt": "Plataforma de Matchmaking Gaming Jynx"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Juega Mejor, Juntos",
     "subtitle": "Herramientas de comunidad gaming inteligentes diseñadas para jugadores modernos",
-    "description": "Jynx es una buena alternativa a las plataformas LFG tradicionales - transformando el gaming solitario en una experiencia social conectando inteligentemente compañeros basándose en preferencias de gaming, estilos de juego y compatibilidad de horarios",
+    "description": "Deja de gritar al vacío. Jynx transforma el gaming en solitario en una experiencia social conectando inteligentemente compañeros según preferencias gaming, estilos de juego y compatibilidad de horarios",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Inteligente",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Matchmaking Inteligente",
-      "subtitle": "Encuentra tus compañeros de gaming perfectos en segundos - no más spam de LFG. Empareja con jugadores basándose en nivel de habilidad, estilo de juego y compatibilidad de horario",
+      "subtitle": "Encuentra a tus compañeros gaming perfectos en segundos. Empareja según nivel de habilidad, estilo de juego y compatibilidad de horario. Se acabó el spam de LFG.",
       "title_seo": "Matchmaking Gaming Inteligente",
       "subtitle_header": "Encuentra Compañeros que Coincidan con tu Nivel de Habilidad y Estilo de Juego",
       "subtitle_seo": "Nuestros algoritmos de matchmaking inteligentes analizan tu perfil de gaming, nivel de habilidad (ELO), estilo de juego preferido y disponibilidad para encontrar tu escuadrón gaming perfecto en segundos. No más navegar publicaciones infinitas de LFG o esperar en lobbies vacíos. Deja que nuestro sistema haga el trabajo y te conecte con compañeros compatibles automáticamente."
     },
     "community_building": {
       "title": "Construcción de Comunidad",
-      "subtitle": "Crea tu propia comunidad y conviértete en líder. Recluta tus propios compañeros que coincidan con tus criterios, establece tus objetivos y empuja tus límites. Tu comunidad, tus reglas, tu éxito",
+      "subtitle": "Crea tu propia comunidad y conviértete en líder. Recluta compañeros que cumplan tus criterios, establece tus objetivos y empuja tus límites. Tu comunidad, tus reglas, tu éxito.",
       "title_seo": "Construye Tu Comunidad Gaming",
       "subtitle_header": "Crea y Lidera Tu Propio Escuadrón Gaming",
       "subtitle_seo": "Crea tu propia comunidad gaming y conviértete en líder. Recluta compañeros que coincidan con tus criterios, establece tus objetivos y empuja tus límites. Ya sea que estés construyendo un equipo de esports, grupo de gaming casual o comunidad de creadores de contenido, Jynx te da las herramientas para crecer y gestionar tu escuadrón. Tu comunidad, tus reglas, tu éxito."
     },
     "global_chat": {
       "title": "Chat Global",
-      "subtitle": "Participa en conversaciones en tiempo real con cientos de personas a través del chat global, destácate con tu ELO y encuentra compañeros que coincidan con tu personalidad y energía",
+      "subtitle": "Participa en conversaciones en tiempo real con gamers de todo el mundo a través del chat global. Destácate con tu ELO, encuentra compañeros que coincidan con tu personalidad y energía.",
       "title_seo": "Chat y Comunicación Gaming en Tiempo Real",
       "subtitle_header": "Conéctate con Miles de Gamers en Todo el Mundo"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Da Forma al Futuro de Jynx Juntos",
-    "description": "<a href=\"/about\">Creado por gamers, para gamers</a>. Nuestra misión es simple: construir una plataforma de gaming social impulsada por pasión, no ganancia. Estamos aquí porque amamos el gaming, y tu aporte da forma directamente al futuro de Jynx",
+    "title": "Creado por gamers que se cansaron de esperar a que alguien más lo hiciera.",
+    "description": "Jynx existe porque el LFG tradicional está roto — y decidimos arreglarlo. No nos mueve el lucro, sino la frustración de hacer spam con 'LFG' en servidores de Discord a las 2 de la mañana. Tu opinión define directamente lo que construimos después.",
     "discord": "Únete a nuestro Discord",
     "ideas": "Comparte Tus Ideas"
   },
@@ -1173,23 +1173,23 @@
     "cta_button": "¡Contáctanos!",
     "q1": {
       "question": "¿Hay una app tipo Tinder para gamers para encontrar compañeros?",
-      "answer": "Si estás cansado de randoms que abandonan, no pueden comunicarse en tu idioma, o están en línea cuando estás durmiendo, Jynx te permite filtrar por lo que realmente importa: horarios compatibles, niveles de habilidad similares y preferencias de gaming compartidas. Deslizas por compañeros potenciales que cumplen tus criterios, omites los mensajes fríos incómodos y solo conectas con jugadores que están genuinamente disponibles cuando quieres jugar.<br><br>¿La diferencia de los foros LFG regulares o servidores de Discord? No estás gritando en el vacío esperando que alguien responda, estás viendo solo personas que ya coinciden con tu disponibilidad, hablan tu idioma y juegan tus juegos. Menos tiempo spammeando \"LFG\" en el chat, más tiempo en el juego con personas con las que realmente querrás formar equipo de nuevo."
+      "answer": "Sí, y ya era hora. El LFG tradicional está roto — estás haciendo spam en canales de Discord, posteando en subreddits de hace 3 días, y rezando para que alguien que hable tu idioma y juegue en tu rango esté conectado cuando tú lo estés. Eso no es un sistema, es apostar con tu tiempo.<br><br>Jynx te permite filtrar por lo que realmente importa: horarios compatibles, niveles de habilidad similares y preferencias gaming compartidas. Deslizas por compañeros potenciales que cumplen TUS criterios, evitas los mensajes fríos incómodos y solo conectas con jugadores genuinamente disponibles cuando quieres jugar.<br><br>¿La diferencia? No estás gritando al vacío esperando que alguien responda. Solo ves personas que ya coinciden con tu disponibilidad, hablan tu idioma y juegan tus juegos. Menos tiempo haciendo spam con 'LFG' en el chat, más tiempo en partida con gente con la que realmente querrás jugar de nuevo."
     },
     "q2": {
       "question": "¿Cómo conocer gamers en línea y construir un grupo de amigos gaming?",
-      "answer": "El mayor desafío en conocer gamers no es encontrar personas, es encontrar las personas CORRECTAS. Necesitas compañeros que estén disponibles cuando juegas, se comuniquen en tu idioma y coincidan con tu nivel de habilidad.<br><br><strong>Esto es lo que realmente funciona:</strong><br><strong>• Filtra antes de comprometerte:</strong> Busca plataformas donde puedas navegar perfiles de jugadores con estadísticas verificadas, disponibilidad y estilo de juego antes de conectar<br><strong>• Prioriza la compatibilidad:</strong> Zona horaria, rango y estilo de comunicación importan más que solo jugar el mismo juego<br><strong>• Construye gradualmente:</strong> Enfócate en encontrar 2-3 compañeros sólidos en lugar de unirte a grandes comunidades donde las conexiones significativas son más difíciles de formar<br><br>Evita plataformas que te fuercen a spammear mensajes \"LFG\" y esperar respuestas, tu tiempo es valioso."
+      "answer": "Encontrar gamers es fácil. Encontrar los gamers CORRECTOS es donde todos fallan.<br><br>Necesitas compañeros que estén disponibles cuando juegas, se comuniquen en tu idioma y coincidan con tu nivel de habilidad. Eso no es pedir demasiado — es el mínimo.<br><br><strong>Lo que realmente funciona:</strong><br><strong>• Filtra antes de comprometerte</strong> — Navega perfiles de jugadores con stats verificadas, disponibilidad y estilo de juego antes de conectar<br><strong>• Prioriza la compatibilidad</strong> — Zona horaria, rango y estilo de comunicación importan más que solo jugar el mismo juego<br><strong>• Construye gradualmente</strong> — Enfócate en encontrar 2-3 compañeros sólidos en lugar de unirte a mega-comunidades donde las conexiones significativas son más difíciles de formar<br><br>Evita plataformas que te fuercen a hacer spam con 'LFG' y esperar respuestas. Tu tiempo vale más que eso."
     },
     "q3": {
       "question": "¿Cómo encontrar compañeros para juegos clasificados en League of Legends y Valorant?",
-      "answer": "Encontrar buenos compañeros clasificados no se trata de cantidad, se trata de compatibilidad. Jugar con randoms que no se comunican, abandonan después de la primera sangre, o juegan roles con los que no están cómodos te cuesta LP y cordura.<br><br>Qué buscar en compañeros clasificados:<br><strong>• Rango verificado:</strong> Asegúrate de que realmente están en tu ELO (sin smurfing o boosted)<br><strong>• Compatibilidad de roles:</strong> Verifica su pool de campeones y roles preferidos antes de hacer cola<br><strong>• Disponibilidad consistente:</strong> El grinding clasificado requiere juego regular, encuentra personas con horarios similares<br><strong>• Estilo de comunicación:</strong> Algunos jugadores prefieren shotcalling, otros quieren chat mínimo. Empareja esto de antemano.<br><br>¿El mejor enfoque? Usa plataformas que verifiquen rangos de jugadores a través de la API de Riot y te permitan filtrar por rol, horario y preferencias de comunicación. Pasarás menos tiempo en selección de campeones esquivando y más tiempo escalando. <a href=\"/blog/league-of-legends-teammate-guide\">Lee nuestra guía completa sobre compañeros de League of Legends</a> o aprende más sobre <a href=\"/blog/ai-gaming-matchmaking-guide\">cómo funciona el matchmaking con IA</a>."
+      "answer": "Encontrar buenos compañeros para ranked no es cuestión de cantidad — es cuestión de compatibilidad. Jugar con randoms que no se comunican, rage quit después del first blood, o juegan roles que no dominan te cuesta LP y cordura.<br><br>Qué buscar en compañeros de ranked:<br><strong>• Rango verificado</strong> — Asegúrate de que realmente están en tu ELO (nada de smurfing o boosted)<br><strong>• Compatibilidad de roles</strong> — Revisa su pool de campeones y roles preferidos antes de hacer cola<br><strong>• Disponibilidad consistente</strong> — El grind en ranked requiere juego regular — encuentra gente con horarios similares<br><strong>• Estilo de comunicación</strong> — Algunos jugadores prefieren shotcalling, otros quieren chat mínimo. Aclara esto desde el principio.<br><br>¿El mejor enfoque? Usa plataformas que verifiquen rangos de jugadores a través de la API de Riot y te permitan filtrar por rol, horario y preferencias de comunicación. Pasarás menos tiempo esquivando en selección de campeones y más tiempo subiendo de rango. <a href=\"/blog/league-of-legends-teammate-guide\">Escribimos la guía para encontrar compañeros de League</a> — y aquí tienes <a href=\"/blog/ai-gaming-matchmaking-guide\">cómo funciona realmente el matchmaking con IA bajo el capó</a>."
     },
     "q4": {
       "question": "¿Cuáles son las mejores alternativas a Discord para encontrar compañeros de gaming?",
-      "answer": "Discord es genial para chatear con compañeros que YA tienes, pero terrible para encontrar nuevos. Aquí está el por qué:<br><br>Publicar \"LFG\" en un servidor con 10,000 miembros significa que tu mensaje se entierra en minutos. No tienes forma de filtrar por nivel de habilidad, disponibilidad o estilo de juego antes de acercarte. Y lo más importante, estás haciendo todo el trabajo, spammeando canales, enviando DMs a extraños, esperando que alguien responda.<br><br>Lo que realmente necesitas es una plataforma diseñada para descubrimiento, no solo comunicación:<br><strong>• Perfiles de jugadores:</strong> Ver el rango, horario y roles preferidos de alguien ANTES de enviar un mensaje<br><strong>• Filtrado inteligente:</strong> Buscar por criterios que importan (idioma, zona horaria, nivel de habilidad)<br><strong>• Emparejamiento activo:</strong> Recibe recomendaciones en lugar de gritar en el vacío<br><br>El objetivo no es reemplazar Discord, es usar la herramienta correcta para descubrimiento, luego moverse a Discord para chat de voz una vez que hayas encontrado compañeros compatibles. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Aprende sobre la evolución de las plataformas LFG</a> y por qué el matchmaking moderno es más efectivo."
+      "answer": "Discord es genial para chatear con compañeros que YA tienes. ¿Para encontrar nuevos? Es la herramienta equivocada.<br><br>Esta es la realidad: publicar 'LFG' en un servidor con 10,000 miembros significa que tu mensaje se entierra en minutos. No tienes forma de filtrar por nivel de habilidad, disponibilidad o estilo de juego antes de contactar. Y lo más importante — estás haciendo todo el trabajo. Haciendo spam en canales, enviando DMs a desconocidos, esperando que alguien responda.<br><br><strong>Lo que realmente necesitas es una plataforma diseñada para el descubrimiento:</strong><br><strong>• Perfiles de jugadores</strong> — Ve el rango, horario y roles preferidos de alguien ANTES de escribirle<br><strong>• Filtrado inteligente</strong> — Busca por criterios que importan (idioma, zona horaria, nivel de habilidad)<br><strong>• Emparejamiento activo</strong> — Recibe recomendaciones en lugar de gritar al vacío<br><br>El objetivo no es reemplazar Discord — es usar la herramienta correcta para descubrimiento, y luego pasar a Discord para chat de voz una vez que hayas encontrado compañeros compatibles. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Mira cómo el LFG evolucionó de los foros al matchmaking inteligente</a>."
     },
     "q5": {
       "question": "¿Hay apps y plataformas de matchmaking gaming gratuitas?",
-      "answer": "Sí, y no deberías tener que pagar solo para encontrar compañeros. Muchas plataformas ofrecen niveles gratuitos robustos que incluyen lo esencial: descubrimiento de jugadores, navegación de perfiles, chat y planificación de sesiones.<br><br><strong>Qué esperar de los niveles gratuitos:</strong><br>• Características de matchmaking principales (buscar, filtrar, conectar)<br>• Perfiles de jugadores con estadísticas<br>• Mensajería básica y programación de sesiones<br><br><strong>Lo que los niveles premium usualmente añaden:</strong><br>• Emparejamientos/deslizamientos diarios ilimitados<br>• Filtros avanzados (criterios muy específicos)<br>• Mejoras cosméticas (insignias, personalización de perfil)<br><br><strong>Señales de alarma a evitar:</strong><br>• Poner características básicas como mensajería o ver quién coincidió contigo detrás de un muro de pago<br>• Forzarte a pagar para verificar tu rango o vincular cuentas<br>• Sin nivel gratuito en absoluto (si están seguros del producto, deberían dejarte probarlo)<br><br>Tu tiempo es más valioso que las tarifas de suscripción, enfócate en plataformas con niveles gratuitos generosos para que puedas probar antes de comprometerte."
+      "answer": "Sí, y no deberías tener que pagar solo para encontrar compañeros. Muchas plataformas ofrecen niveles gratuitos sólidos que incluyen lo esencial: descubrimiento de jugadores, navegación de perfiles, chat y planificación de sesiones.<br><br><strong>Qué esperar de los niveles gratuitos:</strong><br>• Funciones principales de matchmaking (buscar, filtrar, conectar)<br>• Perfiles de jugadores con estadísticas<br>• Mensajería básica y programación de sesiones<br><br><strong>Lo que los niveles premium suelen añadir:</strong><br>• Emparejamientos/deslizamientos diarios ilimitados<br>• Filtros avanzados (criterios muy específicos)<br>• Mejoras cosméticas (insignias, personalización de perfil)<br><br><strong>Señales de alarma a evitar:</strong><br>• Poner funciones básicas como mensajería o ver quién coincidió contigo detrás de un muro de pago<br>• Forzarte a pagar para verificar tu rango o vincular cuentas<br>• Sin nivel gratuito en absoluto (si confían en su producto, deberían dejarte probarlo)<br><br>Tu tiempo vale más que las tarifas de suscripción. Enfócate en plataformas con niveles gratuitos generosos para que puedas probar antes de comprometerte."
     }
   },
   "how_it_works": {
@@ -1341,7 +1341,7 @@
     }
   },
   "comparison": {
-    "title": "Hecho para gamers, por gamers",
+    "title": "Hecho para Gamers, por Gamers",
     "table": {
       "feature": "Característica",
       "lfg": "LFG Tradicional",

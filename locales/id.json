@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Aplikasi Matchmaking Gaming | Temukan Rekan LFG | Jynx",
-    "description": "Jynx adalah alternatif terbaik untuk platform LFG tradisional. Temukan rekan tim gaming sempurna melalui matchmaking cerdas berdasarkan skill, gaya bermain, dan jadwal. Bergabunglah dengan gamer berkualitas hari ini.",
+    "description": "Temukan rekan tim gaming sempurna dengan matchmaking cerdas Jynx. Cocokkan berdasarkan skill, gaya bermain & jadwal. Berhenti bermain sendirian.",
     "keywords": "aplikasi matchmaking gaming, smart matchmaking, temukan rekan tim gaming, platform sosial gaming, alternatif LFG, pencari squad gaming, gaming kompetitif, komunitas gaming, matchmaking esports, rekan tim League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
-    "og_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabunglah dengan daftar tunggu. Gratis selamanya.",
+    "og_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Berhenti bermain sendirian.",
     "og_image_alt": "Platform Matchmaking Gaming Jynx - Temukan Squad Sempurna Anda",
     "twitter_title": "Jynx - Aplikasi Matchmaking Gaming Cerdas | Tempat Gaming Menjadi Sosial",
-    "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Bergabunglah dengan daftar tunggu. Gratis selamanya.",
+    "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Berhenti bermain sendirian.",
     "twitter_image_alt": "Platform Matchmaking Gaming Jynx"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Bermain Lebih Baik, Bersama",
     "subtitle": "Alat komunitas gaming cerdas yang dirancang untuk pemain modern",
-    "description": "Jynx adalah alternatif yang baik untuk platform LFG tradisional - mengubah gaming solo menjadi pengalaman sosial dengan secara cerdas menghubungkan rekan tim berdasarkan preferensi gaming, gaya bermain, dan kompatibilitas jadwal",
+    "description": "Berhenti berteriak ke kekosongan. Jynx mengubah gaming solo menjadi pengalaman sosial dengan secara cerdas menghubungkan rekan tim berdasarkan preferensi gaming, gaya bermain, dan kompatibilitas jadwal",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Cerdas",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Matchmaking Cerdas",
-      "subtitle": "Temukan rekan tim gaming sempurna dalam hitungan detik - tidak ada spam LFG lagi. Cocokkan dengan pemain berdasarkan level skill, gaya bermain, dan kompatibilitas jadwal",
+      "subtitle": "Temukan rekan tim gaming sempurna dalam hitungan detik. Cocokkan berdasarkan level skill, gaya bermain, dan kompatibilitas jadwal. Tidak ada lagi spam LFG.",
       "title_seo": "Smart Gaming Matchmaking",
       "subtitle_header": "Temukan Rekan Tim yang Sesuai dengan Level Skill & Gaya Bermain Anda",
       "subtitle_seo": "Algoritma matchmaking cerdas kami menganalisis profil gaming Anda, level skill (ELO), gaya bermain yang disukai, dan ketersediaan untuk menemukan squad gaming sempurna dalam hitungan detik. Tidak perlu lagi menjelajahi posting LFG tanpa akhir atau menunggu di lobi kosong. Biarkan sistem kami melakukan pekerjaan dan menghubungkan Anda dengan rekan tim yang kompatibel secara otomatis."
     },
     "community_building": {
       "title": "Membangun Komunitas",
-      "subtitle": "Buat komunitas Anda sendiri dan menjadi pemimpin. Rekrut rekan tim Anda sendiri yang sesuai dengan kriteria Anda, tetapkan tujuan Anda, dan dorong batas Anda. Komunitas Anda, aturan Anda, kesuksesan Anda",
+      "subtitle": "Buat komunitasmu sendiri dan jadilah pemimpin. Rekrut rekan tim yang sesuai kriteriamu, tetapkan tujuanmu, dan dorong batasmu. Komunitasmu, aturanmu, kesuksesanmu.",
       "title_seo": "Bangun Komunitas Gaming Anda",
       "subtitle_header": "Buat & Pimpin Squad Gaming Anda Sendiri",
       "subtitle_seo": "Buat komunitas gaming Anda sendiri dan menjadi pemimpin. Rekrut rekan tim yang sesuai dengan kriteria Anda, tetapkan tujuan, dan dorong batas Anda. Baik Anda membangun tim esports, grup gaming kasual, atau komunitas content creator, Jynx memberi Anda alat untuk tumbuh dan mengelola squad Anda. Komunitas Anda, aturan Anda, kesuksesan Anda."
     },
     "global_chat": {
       "title": "Chat Global",
-      "subtitle": "Terlibat dalam percakapan real-time dengan ratusan orang melalui chat global, menonjol dengan ELO Anda, dan temukan rekan tim yang sesuai dengan kepribadian dan energi Anda",
+      "subtitle": "Terlibat dalam percakapan real-time dengan gamer di seluruh dunia melalui chat global. Menonjol dengan ELO-mu, temukan rekan tim yang sesuai dengan kepribadian dan energimu.",
       "title_seo": "Chat & Komunikasi Gaming Real-Time",
       "subtitle_header": "Terhubung dengan Ribuan Gamer di Seluruh Dunia"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Bentuk Masa Depan Jynx Bersama",
-    "description": "<a href=\"/about\">Dibuat oleh gamer, untuk gamer</a>. Misi kami sederhana: membangun platform gaming sosial yang didorong oleh passion, bukan profit. Kami ada karena kami mencintai gaming, dan masukan Anda secara langsung membentuk masa depan Jynx",
+    "title": "Dibangun oleh gamer yang lelah menunggu orang lain membuatnya.",
+    "description": "Jynx ada karena LFG tradisional rusak — dan kami memutuskan untuk memperbaikinya. Bukan didorong profit, tapi oleh frustrasi spam 'LFG' di server Discord jam 2 pagi. Masukanmu langsung membentuk apa yang kami bangun selanjutnya.",
     "discord": "Bergabung dengan Discord kami",
     "ideas": "Bagikan Ide Anda"
   },
@@ -1173,23 +1173,23 @@
     "cta_button": "Hubungi Kami!",
     "q1": {
       "question": "Apakah ada aplikasi seperti Tinder untuk gamer mencari rekan tim?",
-      "answer": "Jika Anda bosan dengan random yang rage quit, tidak bisa berkomunikasi dalam bahasa Anda, atau online saat Anda tidur, Jynx memungkinkan Anda memfilter apa yang benar-benar penting: jadwal yang kompatibel, level skill yang serupa, dan preferensi gaming yang sama. Anda swipe melalui calon rekan tim yang memenuhi kriteria Anda, lewati pesan dingin yang canggung, dan hanya terhubung dengan pemain yang benar-benar tersedia saat Anda ingin bermain.<br><br>Perbedaan dari forum LFG biasa atau server Discord? Anda tidak berteriak ke kekosongan berharap seseorang merespons, Anda hanya melihat orang yang sudah sesuai dengan ketersediaan Anda, berbicara bahasa Anda, dan bermain game Anda. Lebih sedikit waktu spamming \"LFG\" di chat, lebih banyak waktu dalam game dengan orang yang benar-benar ingin Anda ajak bermain lagi."
+      "answer": "Ya, dan sudah saatnya. LFG tradisional itu rusak — kamu spam di channel Discord, posting di subreddit dari 3 hari lalu, dan berharap seseorang yang berbicara bahasamu dan bermain di rankmu benar-benar online saat kamu online. Itu bukan sistem, itu judi dengan waktumu.<br><br>Jynx memungkinkanmu memfilter yang benar-benar penting: jadwal yang kompatibel, level skill yang serupa, dan preferensi gaming yang sama. Kamu swipe calon rekan tim yang memenuhi kriteria KAMU, skip cold messaging yang canggung, dan hanya terhubung dengan pemain yang genuinely tersedia saat kamu ingin bermain.<br><br>Bedanya? Kamu tidak berteriak ke kekosongan berharap seseorang merespons. Kamu hanya melihat orang yang sudah sesuai dengan ketersediaanmu, berbicara bahasamu, dan bermain game-mu. Lebih sedikit waktu spam 'LFG' di chat, lebih banyak waktu in-game dengan orang yang benar-benar ingin kamu ajak bermain lagi."
     },
     "q2": {
       "question": "Bagaimana cara bertemu gamer online dan membangun grup teman gaming?",
-      "answer": "Tantangan terbesar dalam bertemu gamer bukan menemukan orang, tapi menemukan orang yang TEPAT. Anda membutuhkan rekan tim yang tersedia saat Anda bermain, berkomunikasi dalam bahasa Anda, dan sesuai dengan level skill Anda.<br><br><strong>Inilah yang benar-benar berhasil:</strong><br><strong>• Filter sebelum Anda berkomitmen:</strong> Cari platform di mana Anda dapat menjelajahi profil pemain dengan statistik terverifikasi, ketersediaan, dan gaya bermain sebelum terhubung<br><strong>• Prioritaskan kompatibilitas:</strong> Zona waktu, rank, dan gaya komunikasi lebih penting daripada sekadar bermain game yang sama<br><strong>• Bangun secara bertahap:</strong> Fokus untuk menemukan 2-3 rekan tim solid daripada bergabung dengan komunitas besar di mana koneksi bermakna lebih sulit terbentuk<br><br>Hindari platform yang memaksa Anda untuk spam pesan \"LFG\" dan berharap ada respons, waktu Anda berharga."
+      "answer": "Menemukan gamer itu mudah. Menemukan gamer yang TEPAT — di situlah semua orang gagal.<br><br>Kamu butuh rekan tim yang tersedia saat kamu bermain, berkomunikasi dalam bahasamu, dan sesuai level skill-mu. Itu bukan minta terlalu banyak — itu standar minimum.<br><br><strong>Yang benar-benar berhasil:</strong><br><strong>• Filter sebelum berkomitmen</strong> — Jelajahi profil pemain dengan statistik terverifikasi, ketersediaan, dan gaya bermain sebelum terhubung<br><strong>• Prioritaskan kompatibilitas</strong> — Zona waktu, rank, dan gaya komunikasi lebih penting daripada sekadar bermain game yang sama<br><strong>• Bangun bertahap</strong> — Fokus menemukan 2-3 rekan tim solid daripada bergabung mega-komunitas di mana koneksi bermakna lebih sulit terbentuk<br><br>Hindari platform yang memaksamu spam 'LFG' dan berharap respons. Waktumu lebih berharga dari itu."
     },
     "q3": {
       "question": "Bagaimana cara menemukan rekan tim untuk game ranked di League of Legends dan Valorant?",
-      "answer": "Menemukan rekan tim ranked yang baik bukan tentang kuantitas, tapi tentang kompatibilitas. Bermain dengan random yang tidak berkomunikasi, rage quit setelah first blood, atau bermain role yang tidak nyaman bagi mereka merugikan LP dan kewarasan Anda.<br><br>Apa yang harus dicari dalam rekan tim ranked:<br><strong>• Rank terverifikasi:</strong> Pastikan mereka benar-benar di ELO Anda (bukan smurf atau boosted)<br><strong>• Kompatibilitas role:</strong> Periksa champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten:</strong> Ranked grinding memerlukan permainan reguler, temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi:</strong> Beberapa pemain lebih suka shotcalling, yang lain ingin chat minimal. Cocokkan ini di awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan memungkinkan Anda memfilter berdasarkan role, jadwal, dan preferensi komunikasi. Anda akan menghabiskan lebih sedikit waktu di champ select dodging dan lebih banyak waktu untuk climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Baca panduan lengkap rekan League of Legends kami</a> atau <a href=\"/blog/ai-gaming-matchmaking-guide\">pelajari lebih lanjut tentang cara kerja matchmaking berbasis AI</a>."
+      "answer": "Menemukan rekan tim ranked yang baik bukan soal kuantitas — tapi kompatibilitas. Bermain dengan random yang tidak komunikasi, rage quit setelah first blood, atau main role yang tidak nyaman buat mereka itu merugikan LP dan kewarasanmu.<br><br>Yang harus dicari di rekan tim ranked:<br><strong>• Rank terverifikasi</strong> — Pastikan mereka benar-benar di ELO-mu (bukan smurf atau boosted)<br><strong>• Kompatibilitas role</strong> — Cek champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten</strong> — Ranked grinding butuh main reguler — temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi</strong> — Beberapa pemain prefer shotcalling, lainnya mau chat minimal. Tentukan ini dari awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan biarkan kamu filter berdasarkan role, jadwal, dan preferensi komunikasi. Kamu akan menghabiskan lebih sedikit waktu dodging di champ select dan lebih banyak waktu climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Kami menulis panduan lengkap mencari rekan tim League</a> — dan ini <a href=\"/blog/ai-gaming-matchmaking-guide\">cara kerja AI matchmaking sebenarnya di balik layar</a>."
     },
     "q4": {
       "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
-      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH Anda miliki, tetapi buruk untuk menemukan yang baru. Inilah alasannya:<br><br>Memposting \"LFG\" di server besar berarti pesan Anda tertimbun dalam hitungan menit. Anda tidak memiliki cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting, Anda melakukan semua pekerjaan, spamming channel, DM orang asing, berharap seseorang merespons.<br><br>Yang sebenarnya Anda butuhkan adalah platform yang dirancang untuk penemuan, bukan hanya komunikasi:<br><strong>• Profil pemain:</strong> Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas:</strong> Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching:</strong> Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord, tapi menggunakan alat yang tepat untuk penemuan, lalu pindah ke Discord untuk voice chat setelah Anda menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Pelajari tentang evolusi platform LFG dan mengapa matchmaking modern lebih efektif</a>."
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah.<br><br>Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons.<br><br><strong>Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:</strong><br><strong>• Profil pemain</strong> — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas</strong> — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching</strong> — Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking</a>."
     },
     "q5": {
       "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
-      "answer": "Ya, dan Anda tidak perlu membayar hanya untuk menemukan rekan tim. Banyak platform menawarkan tier gratis yang kuat yang mencakup hal-hal penting: penemuan pemain, penjelajahan profil, chat, dan perencanaan sesi.<br><br><strong>Apa yang diharapkan dari tier gratis:</strong><br>• Fitur matchmaking inti (cari, filter, terhubung)<br>• Profil pemain dengan statistik<br>• Pesan dan penjadwalan sesi dasar<br><br><strong>Apa yang biasanya ditambahkan tier premium:</strong><br>• Match/swipe harian tak terbatas<br>• Filter lanjutan (kriteria sangat spesifik)<br>• Upgrade kosmetik (badge, kustomisasi profil)<br><br><strong>Red flag yang harus dihindari:</strong><br>• Paywall fitur dasar seperti pesan atau melihat siapa yang match dengan Anda<br>• Memaksa Anda membayar untuk memverifikasi rank atau menghubungkan akun<br>• Tidak ada tier gratis sama sekali (jika mereka percaya diri dengan produknya, mereka harus membiarkan Anda mencoba)<br><br>Waktu Anda lebih berharga daripada biaya langganan, fokus pada platform dengan tier gratis yang murah hati sehingga Anda dapat mencoba sebelum berkomitmen."
+      "answer": "Ya, dan kamu tidak seharusnya harus bayar hanya untuk menemukan rekan tim. Banyak platform menawarkan tier gratis yang kuat yang mencakup hal-hal penting: penemuan pemain, penjelajahan profil, chat, dan perencanaan sesi.<br><br><strong>Yang diharapkan dari tier gratis:</strong><br>• Fitur matchmaking inti (cari, filter, terhubung)<br>• Profil pemain dengan statistik<br>• Pesan dasar dan penjadwalan sesi<br><br><strong>Yang biasanya ditambahkan tier premium:</strong><br>• Match/swipe harian tak terbatas<br>• Filter lanjutan (kriteria sangat spesifik)<br>• Upgrade kosmetik (badge, kustomisasi profil)<br><br><strong>Red flag yang harus dihindari:</strong><br>• Memblokir fitur dasar seperti pesan atau melihat siapa yang match denganmu di balik paywall<br>• Memaksa kamu bayar untuk verifikasi rank atau menghubungkan akun<br>• Tidak ada tier gratis sama sekali (jika mereka percaya diri dengan produknya, mereka harus membiarkan kamu mencoba)<br><br>Waktumu lebih berharga daripada biaya langganan. Fokus pada platform dengan tier gratis yang dermawan sehingga kamu bisa tes sebelum berkomitmen."
     }
   },
   "how_it_works": {
@@ -1341,7 +1341,7 @@
     "nojs_note": "Aktifkan JavaScript untuk menjelajahi semua skenario"
   },
   "comparison": {
-    "title": "Dibuat untuk gamer, oleh gamer",
+    "title": "Dibuat untuk Gamer, oleh Gamer",
     "table": {
       "feature": "Fitur",
       "lfg": "LFG Tradisional",

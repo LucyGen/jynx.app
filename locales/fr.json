@@ -1,13 +1,13 @@
 {
   "meta": {
     "title": "Application Matchmaking Gaming | Trouver des Coéquipiers LFG | Jynx",
-    "description": "Jynx est la meilleure alternative aux plateformes LFG traditionnelles. Trouvez vos coéquipiers gaming parfaits grâce à un matchmaking intelligent basé sur le niveau de compétence, le style de jeu et les disponibilités. Rejoignez des joueurs de qualité dès aujourd'hui.",
+    "description": "Trouvez vos coéquipiers gaming parfaits avec le matchmaking intelligent de Jynx. Matchez par compétence, style de jeu et disponibilités. Arrêtez de jouer seul.",
     "keywords": "application matchmaking gaming, matchmaking intelligent, trouver coéquipiers gaming, plateforme sociale gaming, alternative LFG, trouveur d'équipe gaming, gaming compétitif, communauté gaming, matchmaking esports, coéquipiers League of Legends, matchmaking Valorant",
     "og_title": "Jynx - Application Matchmaking Gaming Intelligent | Quand le Gaming Devient Social",
-    "og_description": "Trouvez votre équipe gaming parfaite avec le matchmaking intelligent. Rejoignez la liste d'attente. Gratuit pour toujours.",
+    "og_description": "Trouvez votre équipe gaming parfaite avec le matchmaking intelligent. Arrêtez de jouer seul.",
     "og_image_alt": "Plateforme de Matchmaking Gaming Jynx - Trouvez Votre Équipe Parfaite",
     "twitter_title": "Jynx - Application Matchmaking Gaming Intelligent | Quand le Gaming Devient Social",
-    "twitter_description": "Trouvez votre équipe gaming parfaite avec le matchmaking intelligent. Rejoignez la liste d'attente. Gratuit pour toujours.",
+    "twitter_description": "Trouvez votre équipe gaming parfaite avec le matchmaking intelligent. Arrêtez de jouer seul.",
     "twitter_image_alt": "Plateforme de Matchmaking Gaming Jynx"
   },
   "about": {
@@ -998,7 +998,7 @@
   "features": {
     "title": "Jouez Mieux, Ensemble",
     "subtitle": "Outils de communauté gaming intelligents conçus pour les joueurs modernes",
-    "description": "Jynx est une bonne alternative aux plateformes LFG traditionnelles - transformant le jeu solo en expérience sociale en connectant intelligemment des coéquipiers basés sur les préférences de jeu, les styles de jeu et la compatibilité des disponibilités",
+    "description": "Arrêtez de crier dans le vide. Jynx transforme le jeu solo en expérience sociale en connectant intelligemment des coéquipiers selon leurs préférences gaming, styles de jeu et compatibilité des disponibilités",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Intelligent",
@@ -1023,21 +1023,21 @@
   "gaming_sections": {
     "intelligent_matchmaking": {
       "title": "Matchmaking Intelligent",
-      "subtitle": "Trouvez vos coéquipiers gaming parfaits en quelques secondes - fini le spam LFG. Matchez avec des joueurs basé sur le niveau de compétence, le style de jeu et la compatibilité des disponibilités",
+      "subtitle": "Trouvez vos coéquipiers gaming parfaits en quelques secondes. Matchez selon le niveau de compétence, le style de jeu et la compatibilité des disponibilités. Fini le spam LFG.",
       "title_seo": "Matchmaking Gaming Intelligent",
       "subtitle_header": "Trouvez des Coéquipiers Qui Correspondent à Votre Niveau et Style",
       "subtitle_seo": "Nos algorithmes de matchmaking intelligents analysent votre profil gaming, niveau de compétence (ELO), style de jeu préféré et disponibilités pour trouver votre équipe gaming parfaite en quelques secondes. Fini de parcourir d'interminables publications LFG ou d'attendre dans des lobbies vides. Laissez notre système faire le travail et vous connecter automatiquement avec des coéquipiers compatibles."
     },
     "community_building": {
       "title": "Construction de Communauté",
-      "subtitle": "Créez votre propre communauté et devenez un leader. Recrutez vos propres coéquipiers qui correspondent à vos critères, fixez vos objectifs et repoussez vos limites. Votre communauté, vos règles, votre succès",
+      "subtitle": "Créez votre propre communauté et devenez un leader. Recrutez des coéquipiers qui correspondent à vos critères, fixez vos objectifs et repoussez vos limites. Votre communauté, vos règles, votre succès.",
       "title_seo": "Construisez Votre Communauté Gaming",
       "subtitle_header": "Créez & Dirigez Votre Propre Équipe Gaming",
       "subtitle_seo": "Créez votre propre communauté gaming et devenez un leader. Recrutez des coéquipiers qui correspondent à vos critères, fixez vos objectifs et repoussez vos limites. Que vous construisiez une équipe esports, un groupe gaming casual ou une communauté de créateurs de contenu, Jynx vous donne les outils pour développer et gérer votre équipe. Votre communauté, vos règles, votre succès."
     },
     "global_chat": {
       "title": "Chat Global",
-      "subtitle": "Engagez des conversations en temps réel avec des centaines de personnes via le chat global, démarquez-vous avec votre ELO et trouvez des coéquipiers qui correspondent à votre personnalité et énergie",
+      "subtitle": "Engagez des conversations en temps réel avec des gamers du monde entier via le chat global. Démarquez-vous avec votre ELO, trouvez des coéquipiers qui correspondent à votre personnalité et votre énergie.",
       "title_seo": "Chat & Communication Gaming Temps Réel",
       "subtitle_header": "Connectez-vous avec des Milliers de Joueurs du Monde Entier"
     },
@@ -1062,8 +1062,8 @@
     }
   },
   "collaborative": {
-    "title": "Façonnez l'Avenir de Jynx Ensemble",
-    "description": "<a href=\"/about\">Créé par des gamers, pour des gamers</a>. Notre mission est simple : construire une plateforme sociale de gaming guidée par la passion, pas le profit. Nous sommes ici parce que nous aimons le gaming, et votre contribution façonne directement l'avenir de Jynx",
+    "title": "Créé par des gamers qui en avaient marre d'attendre que quelqu'un d'autre le fasse.",
+    "description": "Jynx existe parce que le LFG traditionnel est cassé — et on a décidé de le réparer. Pas motivés par le profit, mais par la frustration de spammer 'LFG' dans des serveurs Discord à 2h du matin. Vos retours façonnent directement ce qu'on construit ensuite.",
     "discord": "Rejoignez notre Discord",
     "ideas": "Partagez Vos Idées"
   },
@@ -1173,23 +1173,23 @@
     "cta_button": "Contactez-Nous !",
     "q1": {
       "question": "Existe-t-il une application type Tinder pour gamers cherchant des coéquipiers ?",
-      "answer": "Si vous en avez marre des randoms qui quittent, ne peuvent pas communiquer dans votre langue ou sont en ligne quand vous dormez, Jynx vous permet de filtrer ce qui compte vraiment : disponibilités compatibles, niveaux de compétence similaires et préférences gaming partagées. Vous swipez à travers des coéquipiers potentiels qui répondent à vos critères, évitez les messages maladroits et ne vous connectez qu'avec des joueurs réellement disponibles quand vous voulez jouer.<br><br>La différence avec les forums LFG classiques ou serveurs Discord ? Vous ne criez pas dans le vide en espérant une réponse, vous ne voyez que des personnes qui correspondent déjà à vos disponibilités, parlent votre langue et jouent à vos jeux. Moins de temps à spammer \"LFG\" dans le chat, plus de temps en jeu avec des personnes avec qui vous voudrez rejouer."
+      "answer": "Ouais, et il était temps. Le LFG traditionnel est cassé — vous spammez des channels Discord, postez dans des subreddits vieux de 3 jours, et priez pour que quelqu'un qui parle votre langue et joue à votre rang soit en ligne quand vous l'êtes. Ça, c'est pas un système, c'est un pari avec votre temps.<br><br>Jynx vous permet de filtrer ce qui compte vraiment : disponibilités compatibles, niveaux de compétence similaires et préférences gaming partagées. Vous swipez à travers des coéquipiers potentiels qui répondent à VOS critères, évitez les messages maladroits et ne vous connectez qu'avec des joueurs réellement disponibles quand vous voulez jouer.<br><br>La différence ? Vous ne criez pas dans le vide en espérant une réponse. Vous ne voyez que des personnes qui correspondent déjà à vos disponibilités, parlent votre langue et jouent à vos jeux. Moins de temps à spammer 'LFG' dans le chat, plus de temps en jeu avec des personnes avec qui vous voudrez rejouer."
     },
     "q2": {
       "question": "Comment rencontrer des gamers en ligne et construire un groupe d'amis gaming ?",
-      "answer": "Le plus grand défi pour rencontrer des gamers n'est pas de trouver des gens, c'est de trouver les BONNES personnes. Vous avez besoin de coéquipiers disponibles quand vous jouez, qui communiquent dans votre langue et correspondent à votre niveau de compétence.<br><br><strong>Voici ce qui fonctionne vraiment :</strong><br><strong>• Filtrez avant de vous engager :</strong> Cherchez des plateformes où vous pouvez parcourir des profils de joueurs avec stats vérifiées, disponibilités et style de jeu avant de vous connecter<br><strong>• Priorisez la compatibilité :</strong> Fuseau horaire, rang et style de communication comptent plus que juste jouer au même jeu<br><strong>• Construisez graduellement :</strong> Concentrez-vous sur trouver 2-3 coéquipiers solides plutôt que rejoindre d'énormes communautés où les connexions significatives sont plus difficiles à former<br><br>Évitez les plateformes qui vous forcent à spammer des messages \"LFG\" en espérant des réponses, votre temps est précieux."
+      "answer": "Trouver des gamers, c'est facile. Trouver les BONS gamers, c'est là que tout le monde échoue.<br><br>Vous avez besoin de coéquipiers disponibles quand vous jouez, qui communiquent dans votre langue et correspondent à votre niveau de compétence. C'est pas trop demander — c'est le minimum.<br><br><strong>Ce qui fonctionne vraiment :</strong><br><strong>• Filtrez avant de vous engager</strong> — Parcourez des profils de joueurs avec stats vérifiées, disponibilités et style de jeu avant de vous connecter<br><strong>• Priorisez la compatibilité</strong> — Fuseau horaire, rang et style de communication comptent plus que juste jouer au même jeu<br><strong>• Construisez graduellement</strong> — Concentrez-vous sur trouver 2-3 coéquipiers solides plutôt que rejoindre des méga-communautés où les connexions significatives sont plus difficiles à former<br><br>Évitez les plateformes qui vous forcent à spammer 'LFG' en espérant des réponses. Votre temps vaut mieux que ça."
     },
     "q3": {
       "question": "Comment trouver des coéquipiers pour matchs classés dans League of Legends et Valorant ?",
-      "answer": "Trouver de bons coéquipiers classés ne concerne pas la quantité, mais la compatibilité. Jouer avec des randoms qui ne communiquent pas, quittent après le premier sang ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang vérifié :</strong> Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle :</strong> Vérifiez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière :</strong> Le grind classé nécessite du jeu régulier, trouvez des personnes avec des horaires similaires<br><strong>• Style de communication :</strong> Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes qui vérifient les rangs des joueurs via l'API Riot et vous permettent de filtrer par rôle, horaire et préférences de communication. Vous passerez moins de temps à dodge en champ select et plus de temps à climb. <a href=\"/blog/league-of-legends-teammate-guide\">Consultez notre guide complet pour trouver des coéquipiers League of Legends</a> ou découvrez <a href=\"/blog/ai-gaming-matchmaking-guide\">comment fonctionne le matchmaking par IA</a>."
+      "answer": "Trouver de bons coéquipiers classés, c'est pas une question de quantité — c'est une question de compatibilité. Jouer avec des randoms qui ne communiquent pas, rage quit après le first blood ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang vérifié</strong> — Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle</strong> — Vérifiez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière</strong> — Le grind classé nécessite du jeu régulier — trouvez des personnes avec des horaires similaires<br><strong>• Style de communication</strong> — Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes qui vérifient les rangs des joueurs via l'API Riot et vous permettent de filtrer par rôle, horaire et préférences de communication. Vous passerez moins de temps à dodge en champ select et plus de temps à climb. <a href=\"/blog/league-of-legends-teammate-guide\">On a écrit le guide pour trouver des coéquipiers League</a> — et voici <a href=\"/blog/ai-gaming-matchmaking-guide\">comment le matchmaking IA fonctionne sous le capot</a>."
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
-      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ, mais terrible pour en trouver de nouveaux. Voici pourquoi :<br><br>Poster \"LFG\" dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important, vous faites tout le travail, spammant les channels, DM-ant des inconnus, espérant une réponse.<br><br>Ce dont vous avez réellement besoin est une plateforme conçue pour la découverte, pas seulement la communication :<br><strong>• Profils de joueurs :</strong> Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent :</strong> Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif :</strong> Recevez des recommandations au lieu de crier dans le vide<br><br>L'objectif n'est pas de remplacer Discord, c'est d'utiliser le bon outil pour la découverte, puis passer à Discord pour le chat vocal une fois que vous avez trouvé des coéquipiers compatibles. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Découvrez l'évolution des plateformes LFG</a> et pourquoi le matchmaking moderne est plus efficace."
+      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>L'objectif n'est pas de remplacer Discord — c'est d'utiliser le bon outil pour la découverte, puis passer à Discord pour le chat vocal une fois que vous avez trouvé des coéquipiers compatibles. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Découvrez comment le LFG a évolué des forums au matchmaking intelligent</a>."
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
-      "answer": "Oui, et vous ne devriez pas avoir à payer juste pour trouver des coéquipiers. Beaucoup de plateformes offrent des niveaux gratuits robustes incluant l'essentiel : découverte de joueurs, parcours de profils, chat et planification de sessions.<br><br><strong>Ce à quoi s'attendre des niveaux gratuits :</strong><br>• Fonctionnalités de matchmaking principales (recherche, filtrage, connexion)<br>• Profils de joueurs avec stats<br>• Messagerie basique et planification de sessions<br><br><strong>Ce que les niveaux premium ajoutent généralement :</strong><br>• Matchs/swipes quotidiens illimités<br>• Filtres avancés (critères très spécifiques)<br>• Améliorations cosmétiques (badges, personnalisation de profil)<br><br><strong>Signaux d'alarme à éviter :</strong><br>• Mettre derrière un paywall des fonctionnalités basiques comme la messagerie ou voir qui vous a matché<br>• Vous forcer à payer pour vérifier votre rang ou lier des comptes<br>• Aucun niveau gratuit du tout (s'ils ont confiance en leur produit, ils devraient vous laisser essayer)<br><br>Votre temps vaut plus que des frais d'abonnement, concentrez-vous sur des plateformes avec des niveaux gratuits généreux pour pouvoir tester avant de vous engager."
+      "answer": "Oui, et vous ne devriez pas avoir à payer juste pour trouver des coéquipiers. Beaucoup de plateformes offrent des niveaux gratuits solides incluant l'essentiel : découverte de joueurs, parcours de profils, chat et planification de sessions.<br><br><strong>Ce à quoi s'attendre des niveaux gratuits :</strong><br>• Fonctionnalités de matchmaking principales (recherche, filtrage, connexion)<br>• Profils de joueurs avec stats<br>• Messagerie basique et planification de sessions<br><br><strong>Ce que les niveaux premium ajoutent généralement :</strong><br>• Matchs/swipes quotidiens illimités<br>• Filtres avancés (critères très spécifiques)<br>• Améliorations cosmétiques (badges, personnalisation de profil)<br><br><strong>Signaux d'alarme à éviter :</strong><br>• Mettre derrière un paywall des fonctionnalités basiques comme la messagerie ou voir qui vous a matché<br>• Vous forcer à payer pour vérifier votre rang ou lier des comptes<br>• Aucun niveau gratuit du tout (s'ils ont confiance en leur produit, ils devraient vous laisser essayer)<br><br>Votre temps vaut plus que des frais d'abonnement. Concentrez-vous sur des plateformes avec des niveaux gratuits généreux pour pouvoir tester avant de vous engager."
     }
   },
   "how_it_works": {
@@ -1341,7 +1341,7 @@
     }
   },
   "comparison": {
-    "title": "Fait pour les gamers, par les gamers",
+    "title": "Fait pour les Gamers, par les Gamers",
     "table": {
       "feature": "Fonctionnalité",
       "lfg": "LFG Traditionnel",
