@@ -10,6 +10,9 @@
     "twitter_description": "اعثر على فريق الألعاب المثالي مع المطابقة الذكية. توقف عن اللعب وحدك.",
     "twitter_image_alt": "منصة مطابقة الألعاب Jynx"
   },
+  "store": {
+    "coming_soon_badge": "قريباً"
+  },
   "about": {
     "meta": {
       "title": "Jynx | من نحن",

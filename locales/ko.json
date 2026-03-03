@@ -10,6 +10,9 @@
     "twitter_description": "지능형 매칭으로 완벽한 게임 스쿼드를 찾으세요. 혼자 플레이하지 마세요.",
     "twitter_image_alt": "Jynx 게임 매칭 플랫폼"
   },
+  "store": {
+    "coming_soon_badge": "곧 출시"
+  },
   "about": {
     "meta": {
       "title": "Jynx 소개 | 우리의 미션과 비전",

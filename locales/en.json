@@ -10,6 +10,9 @@
     "twitter_description": "Find your perfect gaming squad with intelligent matchmaking. Stop playing alone.",
     "twitter_image_alt": "Jynx Gaming Matchmaking Platform"
   },
+  "store": {
+    "coming_soon_badge": "Coming Soon"
+  },
   "about": {
     "meta": {
       "title": "Jynx | About Us",

@@ -10,6 +10,9 @@
     "twitter_description": "Znajdź idealną drużynę gaming dzięki inteligentnemu matchmakingowi. Przestań grać solo.",
     "twitter_image_alt": "Platforma Matchmaking Gaming Jynx"
   },
+  "store": {
+    "coming_soon_badge": "Wkrótce"
+  },
   "about": {
     "meta": {
       "title": "Jynx | O Nas",

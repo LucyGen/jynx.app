@@ -10,6 +10,9 @@
     "twitter_description": "Encontre seu esquadrão gaming perfeito com matchmaking inteligente. Pare de jogar sozinho.",
     "twitter_image_alt": "Plataforma de Matchmaking Gaming Jynx"
   },
+  "store": {
+    "coming_soon_badge": "Em breve"
+  },
   "about": {
     "meta": {
       "title": "Jynx | Sobre Nós",

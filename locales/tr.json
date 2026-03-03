@@ -10,6 +10,9 @@
     "twitter_description": "Akıllı eşleştirmeyle mükemmel oyun takımınızı bulun. Artık yalnız oynamayı bırakın.",
     "twitter_image_alt": "Jynx Oyun Eşleştirme Platformu"
   },
+  "store": {
+    "coming_soon_badge": "Yakında"
+  },
   "about": {
     "meta": {
       "title": "Jynx Hakkında | Misyonumuz ve Vizyonumuz",
