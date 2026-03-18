@@ -1503,7 +1503,10 @@
         "tagline": "Готовы улучшить свой гейминг?",
         "description": "Загрузите Jynx и подключитесь к совместимым тиммейтам за минуты"
       },
-      "related_posts": "Похожие Статьи"
+      "related_posts": "Похожие Статьи",
+      "contextual_links": {
+        "heading": "Похожие руководства"
+      }
     },
     "reading_progress": {
       "aria_label": "Прогресс чтения"

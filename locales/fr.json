@@ -1465,7 +1465,10 @@
         "author_twitter": "Twitter de l'auteur",
         "author_linkedin": "LinkedIn de l'auteur"
       },
-      "related_posts": "Articles Connexes"
+      "related_posts": "Articles Connexes",
+      "contextual_links": {
+        "heading": "Guides connexes"
+      }
     },
     "reading_progress": {
       "aria_label": "Progression de lecture"

@@ -4,13 +4,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jynx.app/fr/blog.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://jynx.app/fr/blog/guide-equipe-gta-6-online-vice-city-2026.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-bina-firaq-gta-6-vice-city-2026.html" />
@@ -32,12 +32,12 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp</image:loc>
       <image:caption>Skyline de Vice City dans GTA VI avec des joueurs coordonnant un braquage</image:caption>
-      <image:title>Guide Ultime Équipe GTA 6 Online Vice City 2026</image:title>
+      <image:title>Guide Ultime Équipe GTA 6 Online Vice City Novembre 2026</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://jynx.app/fr/blog/guide-escouade-zombies-black-ops-7.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-firqa-zombi-black-ops-7.html" />
@@ -64,7 +64,7 @@
   </url>
   <url>
     <loc>https://jynx.app/fr/blog/guide-matchmaking-ia-jeux.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-mujama-al-alab-ai.html" />
@@ -91,7 +91,7 @@
   </url>
   <url>
     <loc>https://jynx.app/fr/blog/halo-campagne-evolved-guide-coop-2026.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/halo-campaign-evolved-coop-guide-2026.html" />

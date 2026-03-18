@@ -1461,7 +1461,10 @@
         "tagline": "Siap meningkatkan pengalaman gaming Anda?",
         "description": "Unduh Jynx dan terhubung dengan rekan tim yang kompatibel dalam hitungan menit"
       },
-      "related_posts": "Artikel Terkait"
+      "related_posts": "Artikel Terkait",
+      "contextual_links": {
+        "heading": "Panduan terkait"
+      }
     },
     "reading_progress": {
       "aria_label": "Progres membaca"

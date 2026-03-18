@@ -1504,7 +1504,10 @@
         "tagline": "Готові покращити свій гейм?",
         "description": "Завантажте Jynx та підключіться до сумісних тіммейтів за хвилини"
       },
-      "related_posts": "Схожі Статті"
+      "related_posts": "Схожі Статті",
+      "contextual_links": {
+        "heading": "Пов'язані посібники"
+      }
     },
     "reading_progress": {
       "aria_label": "Прогрес читання"

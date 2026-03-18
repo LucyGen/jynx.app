@@ -1461,7 +1461,10 @@
         "tagline": "게이밍 경험을 업그레이드할 준비가 되셨나요?",
         "description": "Jynx를 다운로드하고 몇 분 안에 호환되는 팀원과 연결하세요"
       },
-      "related_posts": "관련 기사"
+      "related_posts": "관련 기사",
+      "contextual_links": {
+        "heading": "관련 가이드"
+      }
     },
     "reading_progress": {
       "aria_label": "읽기 진행률"

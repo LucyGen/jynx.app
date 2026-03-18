@@ -1461,7 +1461,10 @@
         "tagline": "Oyun deneyiminizi yükseltmeye hazır mısınız?",
         "description": "Jynx'i indirin ve dakikalar içinde uyumlu takım arkadaşlarıyla bağlantı kurun"
       },
-      "related_posts": "İlgili Makaleler"
+      "related_posts": "İlgili Makaleler",
+      "contextual_links": {
+        "heading": "Ilgili rehberler"
+      }
     },
     "reading_progress": {
       "aria_label": "Okuma ilerlemesi"

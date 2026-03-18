@@ -1461,7 +1461,10 @@
         "tagline": "Gotowy podnieść swoje gaming doświadczenie?",
         "description": "Pobierz Jynx i połącz się z kompatybilnymi teammates w kilka minut"
       },
-      "related_posts": "Powiązane Artykuły"
+      "related_posts": "Powiązane Artykuły",
+      "contextual_links": {
+        "heading": "Powiazane poradniki"
+      }
     },
     "reading_progress": {
       "aria_label": "Postęp czytania"

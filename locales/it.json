@@ -1504,7 +1504,10 @@
         "tagline": "Pronto a migliorare la tua esperienza gaming?",
         "description": "Scarica Jynx e connettiti con compagni compatibili in pochi minuti"
       },
-      "related_posts": "Articoli Correlati"
+      "related_posts": "Articoli Correlati",
+      "contextual_links": {
+        "heading": "Guide correlate"
+      }
     },
     "reading_progress": {
       "aria_label": "Avanzamento lettura"

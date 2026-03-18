@@ -1461,7 +1461,10 @@
         "tagline": "Bereit, Ihr Gaming-Erlebnis zu verbessern?",
         "description": "Laden Sie Jynx herunter und verbinden Sie sich in Minuten mit kompatiblen Teamkollegen"
       },
-      "related_posts": "Ähnliche Artikel"
+      "related_posts": "Ähnliche Artikel",
+      "contextual_links": {
+        "heading": "Verwandte Anleitungen"
+      }
     },
     "reading_progress": {
       "aria_label": "Lesefortschritt"

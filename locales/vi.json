@@ -1461,7 +1461,10 @@
         "tagline": "Sẵn sàng nâng cấp trải nghiệm gaming?",
         "description": "Tải Jynx và kết nối với đồng đội tương thích trong vài phút"
       },
-      "related_posts": "Bài Viết Liên Quan"
+      "related_posts": "Bài Viết Liên Quan",
+      "contextual_links": {
+        "heading": "Hướng dẫn liên quan"
+      }
     },
     "reading_progress": {
       "aria_label": "Tiến độ đọc"

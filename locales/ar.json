@@ -1461,7 +1461,10 @@
         "tagline": "مستعد لتحسين تجربتك في الألعاب؟",
         "description": "قم بتنزيل Jynx واتصل مع زملاء فريق متوافقين في دقائق"
       },
-      "related_posts": "مقالات ذات صلة"
+      "related_posts": "مقالات ذات صلة",
+      "contextual_links": {
+        "heading": "أدلة ذات صلة"
+      }
     },
     "reading_progress": {
       "aria_label": "تقدم القراءة"

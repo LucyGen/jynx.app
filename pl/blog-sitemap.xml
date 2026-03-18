@@ -4,13 +4,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jynx.app/pl/blog.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://jynx.app/pl/blog/gta-6-online-przewodnik-budowania-ekipy-vice-city-2026.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-bina-firaq-gta-6-vice-city-2026.html" />
@@ -37,7 +37,7 @@
   </url>
   <url>
     <loc>https://jynx.app/pl/blog/halo-campaign-evolved-wspolpraca-przewodnik-2026.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/halo-campaign-evolved-coop-guide-2026.html" />
@@ -64,7 +64,7 @@
   </url>
   <url>
     <loc>https://jynx.app/pl/blog/przewodnik-druzyna-zombie-black-ops-7.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-firqa-zombi-black-ops-7.html" />
@@ -91,7 +91,7 @@
   </url>
   <url>
     <loc>https://jynx.app/pl/blog/przewodnik-matchmaking-ai-gry.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-mujama-al-alab-ai.html" />

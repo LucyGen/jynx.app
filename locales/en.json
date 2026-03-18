@@ -1494,6 +1494,9 @@
         "title": "Related Articles",
         "subtitle": "Continue learning with these related posts"
       },
+      "contextual_links": {
+        "heading": "Related guides"
+      },
       "breadcrumb": {
         "home": "Home",
         "blog": "Blog"

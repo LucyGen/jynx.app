@@ -4,13 +4,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jynx.app/vi/blog.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/huong-dan-xay-dung-doi-nhom-gta-6-online-vice-city-2026.html</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-bina-firaq-gta-6-vice-city-2026.html" />
@@ -32,12 +32,12 @@
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp</image:loc>
       <image:caption>Đường chân trời Vice City trong GTA VI với người chơi phối hợp heist</image:caption>
-      <image:title>Xây Dựng Crew GTA VI Hoàn Hảo - Vice City 2026</image:title>
+      <image:title>Xây Dựng Crew GTA VI Hoàn Hảo - Vice City Tháng 11 năm 2026</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/ai-coaches-competitive-gaming.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/ai-coaches-competitive-gaming.html" />
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/ai-gaming-matchmaking-revolution-2025.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
       <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-gaming-matchmaking-revolution-2025.html" />
@@ -73,7 +73,7 @@
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/huong-dan-choi-coop-halo-campaign-evolved-2026.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/halo-campaign-evolved-coop-guide-2026.html" />
@@ -100,7 +100,7 @@
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/huong-dan-doi-zombie-black-ops-7.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-firqa-zombi-black-ops-7.html" />
@@ -127,7 +127,7 @@
   </url>
   <url>
     <loc>https://jynx.app/vi/blog/huong-dan-ghep-cap-game-ai.html</loc>
-    <lastmod>2025-10-28</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
       <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog/dalil-mujama-al-alab-ai.html" />
