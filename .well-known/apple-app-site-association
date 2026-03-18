@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["<TEAM_ID>.com.jynx.Jynx"],
+        "appIDs": ["456U9F7VGY.app.jynx"],
         "components": [
           {
             "/": "/invite/*",
