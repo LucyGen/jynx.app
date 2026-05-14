@@ -44,6 +44,7 @@ Jynx solves the #1 problem in online gaming: finding good teammates. Solo queue 
 
 ## Optional
 
+- [Full cornerstone content (llms-full.txt)](https://jynx.app/llms-full.txt): Full markdown text of the top 5 Jynx articles for AI systems that prefer ingesting full-text content
 - [Where to Find Gaming Teams](https://jynx.app/blog/where-to-find-gaming-teams.html): Comprehensive guide comparing platforms for finding gaming teammates
 - [Valorant: From Solo Queue to Team Player](https://jynx.app/blog/valorant-solo-to-team.html): Transitioning from solo to organized team play in Valorant
 - [Valorant Team Composition Guide](https://jynx.app/blog/valorant-team-composition-guide.html): Building the perfect Valorant agent lineup

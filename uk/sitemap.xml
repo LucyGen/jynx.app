@@ -5,7 +5,7 @@
 
   <url>
     <loc>https://jynx.app/uk/about.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/about.html" />
@@ -33,32 +33,56 @@
   </url>
 
   <url>
-    <loc>https://jynx.app/uk/delete-account.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <loc>https://jynx.app/uk/blog-category.html</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/delete-account.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/delete-account.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/blog-category.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/blog-category.html" />
+  </url>
+
+  <url>
+    <loc>https://jynx.app/uk/comparison.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/comparison.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/comparison.html" />
   </url>
 
   <url>
     <loc>https://jynx.app/uk/download.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/download.html" />
@@ -87,7 +111,7 @@
 
   <url>
     <loc>https://jynx.app/uk/</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/" />
@@ -135,32 +159,56 @@
   </url>
 
   <url>
-    <loc>https://jynx.app/uk/invite.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <loc>https://jynx.app/uk/per-game-duo-finder.html</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/invite.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/invite.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/invite.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/invite.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/invite.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/invite.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/invite.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/invite.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/invite.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/invite.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/invite.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/invite.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/invite.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/invite.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/invite.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/invite.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/invite.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/per-game-duo-finder.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/per-game-duo-finder.html" />
+  </url>
+
+  <url>
+    <loc>https://jynx.app/uk/per-game-lfg-guide.html</loc>
+    <lastmod>2026-05-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/per-game-lfg-guide.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/per-game-lfg-guide.html" />
   </url>
 
   <url>
     <loc>https://jynx.app/uk/privacy.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/privacy.html" />
@@ -183,32 +231,8 @@
   </url>
 
   <url>
-    <loc>https://jynx.app/uk/search.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/search.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/search.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/search.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/search.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/search.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/search.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/search.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/search.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/search.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/search.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/search.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/search.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/search.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/search.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/search.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/search.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/search.html" />
-  </url>
-
-  <url>
     <loc>https://jynx.app/uk/terms.html</loc>
-    <lastmod>2026-04-13</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/terms.html" />

@@ -981,7 +981,8 @@
     "blog": "Blog",
     "feedback": "Contact",
     "search": "Search",
-    "search_aria": "Search articles"
+    "search_aria": "Search articles",
+    "glossary": "Glossary"
   },
   "header": {
     "cta": "Get Jynx"
@@ -1543,6 +1544,24 @@
       "recent_posts": "Recent Posts",
       "popular_posts": "Popular Posts",
       "all_categories": "All Categories"
+    },
+    "category_page": {
+      "breadcrumb": "Category",
+      "title_template": "{{name}} — Articles | Jynx Blog",
+      "meta_description_template": "Browse Jynx Blog articles in the {{name}} category. {{description}}",
+      "heading_prefix": "Category:",
+      "post_count_one": "{{count}} article",
+      "post_count_other": "{{count}} articles",
+      "browse_other": "Browse other categories",
+      "all_posts": "All articles",
+      "empty_state_title": "No articles yet",
+      "empty_state_body": "We're working on new {{name}} content. Check back soon, or browse our other categories.",
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next",
+        "page_of": "Page {{current}} of {{total}}",
+        "aria_label": "Pagination"
+      }
     }
   },
   "invite": {
@@ -1606,6 +1625,67 @@
     "contact": {
       "intro": "Can't access the app?",
       "email_text": "Contact us at"
+    }
+  },
+  "games": {
+    "breadcrumb_label": "Breadcrumb",
+    "breadcrumb_home": "Home",
+    "breadcrumb_games": "Games",
+    "label_last_updated": "Last updated",
+    "label_author": "Author:",
+    "label_game": "Game:",
+    "label_download_ios": "Download Jynx on the App Store",
+    "label_download_android": "Get Jynx on Google Play",
+    "label_download_on": "Download on",
+    "label_get_it_on": "Get it on",
+    "label": {
+      "rank_rule": "Rank-gap rule:"
+    },
+    "section": {
+      "why": "Why this duo finder",
+      "ranks": "Ranks",
+      "roles": "Roles",
+      "queues": "Queue types",
+      "tips": "Tips",
+      "competitors": "Comparable tools",
+      "tools": "LFG tools landscape",
+      "pain": "Pain points",
+      "faq": "FAQ",
+      "crosslinks": "Related",
+      "quick_answer": "Quick answer",
+      "what_looks_like": "What LFG looks like"
+    },
+    "heading": {
+      "why": "Why a purpose-built duo finder",
+      "ranks": "Ranks",
+      "roles": "Roles",
+      "queues": "Queue types",
+      "competitors": "Other LFG tools",
+      "tools": "LFG tools landscape (2026)",
+      "pain": "Game-specific LFG pain points",
+      "faq": "Frequently asked questions",
+      "crosslinks": "Related Jynx resources",
+      "quick_answer": "LFG in 60 seconds",
+      "what_looks_like": "What LFG looks like in 2026"
+    },
+    "intro": {
+      "ranks": "Match within the platform-enforced gap window. Ranks below.",
+      "roles": "Match by complementary roles, not duplicate ones.",
+      "competitors": "Where LFG happens today, and what each tool optimizes for:",
+      "tools": "What players use today and where each tool stops:"
+    },
+    "cta": {
+      "label": "Get Jynx",
+      "heading": "Find your duo on Jynx",
+      "sub": "Free. Verified ranks. Voice + schedule matching."
+    },
+    "cta_final": {
+      "label": "Get Jynx",
+      "heading": "Stop solo-queueing",
+      "sub": "Get Jynx and find a verified duo today."
+    },
+    "footer": {
+      "rights": "All rights reserved."
     }
   }
 }

@@ -29,6 +29,15 @@ Disallow: /private/
 Disallow: /search?q=
 Disallow: /*/search?q=
 
+# --- Crawl-Trap Query Parameters (Phase 1 / Block P1.3) ---
+# Temporary defensive block while query-param category/search URLs exist.
+# Once Block P2.4 ships static /blog/category/{slug}/ pages, these stay
+# as belt-and-suspenders. Mirrored under each major-engine UA block below.
+Disallow: /*?category=
+Disallow: /*?q=
+Disallow: /*?ref=
+Disallow: /*?utm_*
+
 # --- Assets (Critical for Google Rendering) ---
 Allow: /*.css$
 Allow: /*.js$
@@ -40,6 +49,11 @@ Allow: /assets/
 
 # --- Translation Files (Protect from Indexing) ---
 Disallow: /*.json$
+
+# --- AI Standard Files (llmstxt.org) ---
+# Explicitly allow llms.txt and llms-full.txt for AI ingestion (Phase 2 / Block P2.1)
+Allow: /llms.txt
+Allow: /llms-full.txt
 
 
 # ============================================================================
@@ -65,6 +79,11 @@ Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
 Disallow: /*.json$
+# Crawl-trap query parameters (P1.3 — see comment in default block)
+Disallow: /*?category=
+Disallow: /*?q=
+Disallow: /*?ref=
+Disallow: /*?utm_*
 Allow: /
 
 User-agent: Googlebot-Image
@@ -79,6 +98,11 @@ Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
 Disallow: /*.json$
+# Crawl-trap query parameters (P1.3)
+Disallow: /*?category=
+Disallow: /*?q=
+Disallow: /*?ref=
+Disallow: /*?utm_*
 Allow: /
 Crawl-delay: 1
 
@@ -88,6 +112,11 @@ Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
 Disallow: /*.json$
+# Crawl-trap query parameters (P1.3)
+Disallow: /*?category=
+Disallow: /*?q=
+Disallow: /*?ref=
+Disallow: /*?utm_*
 Allow: /
 Crawl-delay: 1
 
@@ -97,6 +126,11 @@ Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
 Disallow: /*.json$
+# Crawl-trap query parameters (P1.3)
+Disallow: /*?category=
+Disallow: /*?q=
+Disallow: /*?ref=
+Disallow: /*?utm_*
 Allow: /
 
 # --- Brave Search ---
