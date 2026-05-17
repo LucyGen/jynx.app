@@ -5,10 +5,22 @@
       {
         "appIDs": ["456U9F7VGY.app.jynx"],
         "components": [
-          {
-            "/": "/invite/*",
-            "comment": "Profile invite deep links"
-          }
+          { "/": "/invite/*" },
+          { "/": "/community/*" },
+          { "/": "/profile/*" },
+          { "/": "/chat/*" },
+          { "/": "/game-sessions/*" },
+          { "/": "/settings/*" },
+          { "/": "/growth/*" }
+        ],
+        "paths": [
+          "/invite/*",
+          "/community/*",
+          "/profile/*",
+          "/chat/*",
+          "/game-sessions/*",
+          "/settings/*",
+          "/growth/*"
         ]
       }
     ]
