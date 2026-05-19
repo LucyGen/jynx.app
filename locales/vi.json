@@ -1113,7 +1113,10 @@
     "submitting": "Đang gửi...",
     "thanks": "Cảm ơn phản hồi của bạn!",
     "error": "Không thể gửi phản hồi. Vui lòng thử lại.",
-    "error_empty": "Vui lòng cung cấp email hoặc phản hồi của bạn."
+    "error_empty": "Vui lòng cung cấp email hoặc phản hồi của bạn.",
+    "badge_free": "Miễn phí mãi mãi",
+    "badge_notoxic": "Không độc hại",
+    "badge_community": "Thúc đẩy bởi cộng đồng"
   },
   "footer": {
     "company": {

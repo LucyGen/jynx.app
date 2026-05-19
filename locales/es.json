@@ -1113,7 +1113,10 @@
     "submitting": "Enviando...",
     "thanks": "¡Gracias por tus comentarios!",
     "error": "No se pudo enviar los comentarios. Por favor intenta de nuevo.",
-    "error_empty": "Por favor proporciona tu email o comentarios."
+    "error_empty": "Por favor proporciona tu email o comentarios.",
+    "badge_free": "Gratis para siempre",
+    "badge_notoxic": "Sin toxicidad",
+    "badge_community": "Impulsado por la comunidad"
   },
   "footer": {
     "company": {

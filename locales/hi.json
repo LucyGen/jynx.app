@@ -1113,7 +1113,10 @@
     "submitting": "Submit हो रहा है...",
     "thanks": "आपके feedback के लिए धन्यवाद!",
     "error": "Feedback submit नहीं हो सका। कृपया फिर से कोशिश करें।",
-    "error_empty": "कृपया अपना email या feedback प्रदान करें।"
+    "error_empty": "कृपया अपना email या feedback प्रदान करें।",
+    "badge_free": "हमेशा मुफ्त",
+    "badge_notoxic": "बिना विषाक्तता",
+    "badge_community": "समुदाय-संचालित"
   },
   "footer": {
     "company": {

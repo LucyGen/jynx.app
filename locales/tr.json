@@ -1113,7 +1113,10 @@
     "error_empty": "Lütfen e-postanızı veya geri bildiriminizi sağlayın.",
     "submit": "Geri Bildirim Gönder",
     "submitting": "Gönderiliyor...",
-    "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+    "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "badge_free": "Sonsuza kadar ücretsiz",
+    "badge_notoxic": "Toksisite yok",
+    "badge_community": "Topluluk odaklı"
   },
   "footer": {
     "company": {

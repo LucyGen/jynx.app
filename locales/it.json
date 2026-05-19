@@ -1113,7 +1113,10 @@
     "submitting": "Invio...",
     "thanks": "Grazie per il tuo feedback!",
     "error": "Impossibile inviare il feedback. Per favore riprova.",
-    "error_empty": "Per favore fornisci il tuo email o feedback."
+    "error_empty": "Per favore fornisci il tuo email o feedback.",
+    "badge_free": "Gratis per sempre",
+    "badge_notoxic": "Zero tossicità",
+    "badge_community": "Guidato dalla community"
   },
   "footer": {
     "company": {

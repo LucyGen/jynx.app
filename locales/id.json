@@ -1113,7 +1113,10 @@
     "submitting": "Mengirim...",
     "thanks": "Terima kasih atas umpan balik Anda!",
     "error": "Tidak dapat mengirim umpan balik. Silakan coba lagi.",
-    "error_empty": "Harap berikan email atau umpan balik Anda."
+    "error_empty": "Harap berikan email atau umpan balik Anda.",
+    "badge_free": "Gratis selamanya",
+    "badge_notoxic": "Tanpa toksisitas",
+    "badge_community": "Didorong oleh komunitas"
   },
   "footer": {
     "company": {

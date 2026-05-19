@@ -5,7 +5,7 @@
 
   <url>
     <loc>https://jynx.app/hi/about.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/about.html" />
@@ -33,8 +33,32 @@
   </url>
 
   <url>
+    <loc>https://jynx.app/hi/child-safety.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/child-safety.html" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/child-safety.html" />
+  </url>
+
+  <url>
     <loc>https://jynx.app/hi/download.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/download.html" />
@@ -63,7 +87,7 @@
 
   <url>
     <loc>https://jynx.app/hi/</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/" />
@@ -112,7 +136,7 @@
 
   <url>
     <loc>https://jynx.app/hi/privacy.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/privacy.html" />
@@ -136,7 +160,7 @@
 
   <url>
     <loc>https://jynx.app/hi/terms.html</loc>
-    <lastmod>2026-05-17</lastmod>
+    <lastmod>2026-05-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/terms.html" />

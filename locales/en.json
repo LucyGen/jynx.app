@@ -1113,7 +1113,10 @@
     "submitting": "Submitting...",
     "thanks": "Thanks for your feedback!",
     "error": "Could not submit feedback. Please try again.",
-    "error_empty": "Please provide either your email or feedback."
+    "error_empty": "Please provide either your email or feedback.",
+    "badge_free": "Free Forever",
+    "badge_notoxic": "No Toxicity",
+    "badge_community": "Community Driven"
   },
   "footer": {
     "company": {

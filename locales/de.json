@@ -1113,7 +1113,10 @@
     "submitting": "Wird übermittelt...",
     "thanks": "Danke für dein Feedback!",
     "error": "Feedback konnte nicht übermittelt werden. Bitte versuche es erneut.",
-    "error_empty": "Bitte gib entweder deine E-Mail oder Feedback an."
+    "error_empty": "Bitte gib entweder deine E-Mail oder Feedback an.",
+    "badge_free": "Für immer kostenlos",
+    "badge_notoxic": "Keine Toxizität",
+    "badge_community": "Community-getrieben"
   },
   "footer": {
     "company": {

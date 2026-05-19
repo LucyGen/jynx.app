@@ -1113,7 +1113,10 @@
     "submitting": "Envoi en cours...",
     "thanks": "Merci pour votre retour !",
     "error": "Impossible de soumettre le retour. Veuillez réessayer.",
-    "error_empty": "Veuillez fournir soit votre email soit un retour."
+    "error_empty": "Veuillez fournir soit votre email soit un retour.",
+    "badge_free": "Gratuit pour toujours",
+    "badge_notoxic": "Sans toxicité",
+    "badge_community": "Propulsé par la communauté"
   },
   "footer": {
     "company": {

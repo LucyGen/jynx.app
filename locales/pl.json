@@ -1113,7 +1113,10 @@
     "submitting": "Wysyłanie...",
     "thanks": "Dzięki za twoją opinię!",
     "error": "Nie udało się wysłać opinii. Spróbuj ponownie.",
-    "error_empty": "Proszę podać e-mail lub opinię."
+    "error_empty": "Proszę podać e-mail lub opinię.",
+    "badge_free": "Zawsze za darmo",
+    "badge_notoxic": "Bez toksyczności",
+    "badge_community": "Tworzone przez społeczność"
   },
   "footer": {
     "company": {
