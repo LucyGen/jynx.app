@@ -108,14 +108,18 @@
       "entity": "Jynx Group",
       "dpo_label": "Kontakt Datenschutzbeauftragter:",
       "dpo": "dpo@jynx.app",
-      "jurisdiction_label": "Gerichtsbarkeit:",
-      "jurisdiction": "Frankreich, Europäische Union (DSGVO-Konformität)",
-      "p2": "Diese Datenschutzerklärung beschreibt, wie wir deine personenbezogenen Daten erheben, verwenden, teilen und schützen, wenn du unsere Anwendung nutzt."
+      "p2": "Diese Datenschutzerklärung beschreibt, wie wir deine personenbezogenen Daten erheben, verwenden, teilen und schützen, wenn du unsere Anwendung nutzt.",
+      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
+      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
+      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
+      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
+      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel."
     },
     "age_verification": {
       "title": "2. Mindestalter und Verifizierung",
       "p1": "Unsere Anwendung ist Nutzern ab 18 Jahren vorbehalten.",
-      "p2": "Bei der Erstellung deines Kontos bitten wir dich, dein Geburtsdatum anzugeben. Wenn du unter 18 bist, kannst du kein Konto erstellen oder unsere Dienste nutzen."
+      "p2": "Bei der Erstellung deines Kontos bitten wir dich, dein Geburtsdatum anzugeben. Wenn du unter 18 bist, kannst du kein Konto erstellen oder unsere Dienste nutzen.",
+      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
     },
     "data_collected": {
       "title": "3. Erhobene Daten",
@@ -237,6 +241,17 @@
         "p1": "Wenn du dein Riot Games-Konto verknüpfst, rufen wir deine Spielstatistiken über die offizielle Riot Games API ab. Diese Daten werden nur verwendet, um dein Profil anzuzeigen und das Matching zu verbessern.",
         "policy_label": "Riot Games Datenschutzerklärung:",
         "policy": "https://www.riotgames.com/en/privacy-notice"
+      },
+      "esp": {
+        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
+        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
+        "identity_label": "ESP identity, role, and location:",
+        "identity": "[To be inserted once an ESP is selected]",
+        "subprocessors_label": "Sub-processors:",
+        "subprocessors": "A current list of the ESP's sub-processors will be maintained here and linked once an ESP is selected.",
+        "transfer_label": "International transfer basis:",
+        "transfer": "See §9 (LGPD Art. 33 — ANPD SCCs for a U.S.-based ESP; EU-US Data Privacy Framework or SCCs under GDPR).",
+        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
       }
     },
     "data_usage": {
@@ -255,7 +270,8 @@
       },
       "communication": {
         "title": "3. Kommunikation:",
-        "notifications": "Dir wichtige Benachrichtigungen zu senden (gefundene Matches, erhaltene Nachrichten)"
+        "notifications": "Dir wichtige Benachrichtigungen zu senden (gefundene Matches, erhaltene Nachrichten)",
+        "note": "Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category."
       },
       "improvement": {
         "title": "4. Service-Verbesserung:",
@@ -268,6 +284,26 @@
         "fraud": "Betrug und Missbrauch zu verhindern",
         "terms": "Unsere Nutzungsbedingungen durchzusetzen",
         "legal": "Gesetzlichen Verpflichtungen nachzukommen"
+      },
+      "marketing": {
+        "title": "5.6. Marketing Communications",
+        "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
+        "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
+        "eu_body": "Because the Service is currently provided without remuneration (no paid tier is purchasable at the date of this Policy), marketing and re-engagement emails to EU/EEA users are sent only on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). We do not rely on the \"soft opt-in\" exception of ePrivacy Art. 13(2) at this time, because that exception requires a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025) and the Service is not yet remunerated. We will re-assess this analysis if and when a paid premium tier or any other monetization (in-app purchases, advertising, data licensing) goes live, and this Policy will be updated accordingly.",
+        "br_title": "Legal basis — Brazilian users (LGPD).",
+        "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
+        "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
+        "br_consent_body": "captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.",
+        "br_li_title": "Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)",
+        "br_li_body": "used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.",
+        "optout_title": "Right to object / opt-out.",
+        "optout_body": "Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.",
+        "surveys_title": "Uninstall / churn surveys.",
+        "surveys_body": "Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).",
+        "tracking_title": "Email tracking.",
+        "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
+        "frequency_title": "Frequency.",
+        "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
       }
     },
     "retention": {
@@ -277,13 +313,20 @@
         "profile_label": "Profildaten:",
         "profile": "Gespeichert, solange dein Konto aktiv ist",
         "analytics_label": "Logs und Analytics:",
-        "analytics": "Firebase Analytics: 14 Monate (Firebase-Richtlinie)"
+        "analytics": "Firebase Analytics: 14 Monate (Firebase-Richtlinie)",
+        "marketing_label": "Marketing email addresses (consent-based):",
+        "marketing": "Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you",
+        "survey_label": "Uninstall / churn survey email addresses:",
+        "survey": "Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user",
+        "reengagement_label": "Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):",
+        "reengagement": "Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized"
       },
       "deletion": {
         "title": "6.2. Datenlöschung",
         "p1": "Du kannst jederzeit die Löschung deines Kontos beantragen (siehe Abschnitt 7).",
         "legal_label": "Gesetzliche Aufbewahrung:",
-        "legal": "Einige Daten können länger aufbewahrt werden, um unseren gesetzlichen Verpflichtungen nachzukommen (z.B. Sicherheitsberichte, Finanztransaktionen)."
+        "legal": "Einige Daten können länger aufbewahrt werden, um unseren gesetzlichen Verpflichtungen nachzukommen (z.B. Sicherheitsberichte, Finanztransaktionen).",
+        "marketing": "When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2)."
       }
     },
     "rights": {
@@ -324,7 +367,13 @@
       },
       "objection": {
         "title": "7.5. Widerspruchsrecht",
-        "p1": "Du kannst der Verarbeitung deiner Daten für Direktmarketing-Zwecke widersprechen."
+        "p1": "Du kannst der Verarbeitung deiner Daten für Direktmarketing-Zwecke widersprechen.",
+        "onclick_label": "One-click unsubscribe:",
+        "onclick": "every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time",
+        "inapp_label": "In-app toggle:",
+        "inapp": "Settings > Privacy > Communications Preferences",
+        "email_label": "Email:",
+        "email": "dpo@jynx.app"
       },
       "withdraw": {
         "title": "7.6. Recht auf Widerruf der Einwilligung",
@@ -334,7 +383,15 @@
         "notifications_label": "Push-Benachrichtigungen:",
         "notifications": "Geräteeinstellungen",
         "oauth_label": "Hinweis:",
-        "oauth": "OAuth-Token (Google, Apple) werden automatisch widerrufen, wenn du dein Konto löschst (Abschnitt 7.3)."
+        "oauth": "OAuth-Token (Google, Apple) werden automatisch widerrufen, wenn du dein Konto löschst (Abschnitt 7.3).",
+        "marketing_label": "Marketing Communications:",
+        "marketing": "Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account",
+        "effect": "Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account."
+      },
+      "lgpd": {
+        "title": "7.7. Additional LGPD Rights (Brazilian Users)",
+        "intro": "In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.",
+        "how": "You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd."
       }
     },
     "security": {
@@ -361,8 +418,17 @@
       "google": "Verwendet globale Infrastruktur mit DSGVO-Konformität",
       "sentry_label": "Sentry:",
       "sentry": "US-basierte Server mit Privacy Shield-Konformität",
-      "guarantees_label": "Garantien:",
-      "guarantees": "Alle unsere Partner bieten Schutzgarantien gleichwertig zur DSGVO (Standardvertragsklauseln, Privacy Shield-Zertifizierungen)."
+      "esp_label": "Email Service Provider (ESP):",
+      "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
+      "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
+      "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
+      "guarantees_br_label": "Guarantees (LGPD, Brazil).",
+      "guarantees_br": "Transfers of Brazilian users' personal data are governed by LGPD Art. 33:",
+      "br_france_label": "To Jynx Group in France (controller):",
+      "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
+      "br_esp_label": "To a U.S.-based email ESP (processor):",
+      "br_esp": "Because the United States is not covered by any ANPD adequacy decision, Jynx executes the ANPD standard contractual clauses (SCCs) (Annex II, controller-to-processor version, per ANPD Resolution CD/ANPD nº 19/2024) with the ESP before any send, supported by a transfer-impact assessment",
+      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding."
     },
     "cookies": {
       "title": "10. Cookies und ähnliche Technologien",
@@ -384,12 +450,24 @@
       "email_label": "E-Mail:",
       "email": "dpo@jynx.app",
       "authority_label": "Aufsichtsbehörde:",
-      "authority": "Wenn du glaubst, dass deine Rechte nicht respektiert werden, kannst du eine Beschwerde bei der CNIL (Commission Nationale de l'Informatique et des Libertés) in Frankreich einreichen."
+      "authority_intro": "If you believe your rights have not been respected, you may lodge a complaint:",
+      "authority_eu_label": "EU/EEA users:",
+      "authority_eu": "with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr",
+      "authority_br_label": "Brazilian users:",
+      "authority_br": "with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd",
+      "authority_note": "Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90)."
     },
     "consent": {
       "title": "13. Einwilligung",
-      "p1": "Durch die Nutzung von Jynx stimmst du der Erhebung und Nutzung deiner Daten wie in dieser Datenschutzerklärung beschrieben zu.",
-      "p2": "Du kannst deine Einwilligung jederzeit widerrufen, indem du dein Konto löschst."
+      "intro": "We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:",
+      "contract": "Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)",
+      "legitimate": "Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment",
+      "legal": "Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)",
+      "consent_basis": "Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6",
+      "specific_label": "Consent must be specific and informed.",
+      "specific": "Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.",
+      "withdrawal_label": "Withdrawal.",
+      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent."
     }
   },
   "terms": {
@@ -421,7 +499,8 @@
       "jurisdiction": "Frankreich, Europäische Union",
       "acceptance": "Durch den Zugriff auf oder die Nutzung der Jynx-Anwendung (\"Dienst\", \"Plattform\", \"App\") erklärst du dich mit diesen Nutzungsbedingungen (\"Bedingungen\", \"ToS\") einverstanden. Wenn du mit diesen Bedingungen nicht einverstanden bist, darfst du den Dienst nicht nutzen.",
       "important_label": "WICHTIG:",
-      "important": "Diese Bedingungen stellen eine rechtsverbindliche Vereinbarung zwischen dir und der Jynx Group dar."
+      "important": "Diese Bedingungen stellen eine rechtsverbindliche Vereinbarung zwischen dir und der Jynx Group dar.",
+      "marketing_consent": "<strong>Separate and optional marketing consent.</strong> Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6."
     },
     "section2": {
       "title": "2. Definitionen",
@@ -448,7 +527,8 @@
         "requirement": "Du musst mindestens 18 Jahre alt sein, um ein Konto zu erstellen und Jynx zu nutzen.",
         "p1": "Während der Registrierung wirst du aufgefordert, dein Geburtsdatum anzugeben. Wenn du unter 18 Jahre alt bist, kannst du kein Konto erstellen oder auf den Dienst zugreifen.",
         "enforcement_label": "Durchsetzung:",
-        "enforcement": "Unser Alters-Gate blockiert automatisch die Kontoerstellung für Nutzer unter 18 Jahren. Wenn wir feststellen, dass du falsche Informationen über dein Alter angegeben hast, wird dein Konto sofort gekündigt."
+        "enforcement": "Unser Alters-Gate blockiert automatisch die Kontoerstellung für Nutzer unter 18 Jahren. Wenn wir feststellen, dass du falsche Informationen über dein Alter angegeben hast, wird dein Konto sofort gekündigt.",
+        "minors": "<strong>No marketing to minors.</strong> If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8)."
       },
       "creation": {
         "title": "3.2. Kontoerstellung",
@@ -643,6 +723,27 @@
         "li3": "Geistige Eigentumsrechte Dritter verletzen",
         "li4": "Gemeldet und als Verstoß gegen unsere Community-Richtlinien bestätigt wurden",
         "notification": "Du wirst über die Entfernung von Inhalten benachrichtigt, wenn möglich."
+      },
+      "marketing_program": {
+        "title": "5.5. Marketing & Re-engagement Email Program",
+        "note": "(Note: §5.2 \"Marketing & Promotional Use\" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)",
+        "intro": "Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:",
+        "basis_label": "Legal basis by cohort.",
+        "eu_label": "EU/EEA users:",
+        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). We do not rely on the Art. 13(2) soft-opt-in exception at this time because the Service is not yet remunerated (no paid tier is purchasable). We will re-assess this position when a premium tier or other monetization goes live.",
+        "br_label": "Brazilian users:",
+        "br": "we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.",
+        "surveys_label": "Uninstall / churn surveys.",
+        "surveys": "We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.",
+        "unsubscribe_label": "One-click unsubscribe.",
+        "unsubscribe": "Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.",
+        "erasure_label": "Erasure and suppression.",
+        "erasure": "If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.",
+        "children_label": "Children.",
+        "children": "We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).",
+        "esp_label": "Email service provider.",
+        "esp": "We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).",
+        "consumer_rights": "This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code."
       }
     },
     "section6": {
@@ -731,7 +832,11 @@
         "li2": "Werden deine Nutzerdaten gemäß DSGVO anonymisiert",
         "li3": "Wird dein Firebase Authentication-Konto gelöscht",
         "li4": "Werden OAuth-Token (Google, Apple) automatisch widerrufen",
-        "refund": "Rückerstattungsrichtlinie: Keine Rückerstattungen werden für Premium-Abonnements oder virtuelle Gegenstände (Kosmetika) gewährt, wenn dein Konto aufgrund von Verstößen gegen diese Bedingungen gekündigt wird."
+        "refund": "Rückerstattungsrichtlinie: Keine Rückerstattungen werden für Premium-Abonnements oder virtuelle Gegenstände (Kosmetika) gewährt, wenn dein Konto aufgrund von Verstößen gegen diese Bedingungen gekündigt wird.",
+        "li5": "Your email address is purged from our marketing CRM and email service provider",
+        "li6": "If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list",
+        "li7": "Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized",
+        "marketing": "The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2)."
       },
       "user_deletion": {
         "title": "7.3. Vom Nutzer initiierte Löschung",
@@ -831,7 +936,12 @@
         "li1": "Google Sign-In",
         "li2": "Apple Sign-In"
       },
-      "responsibility": "Du bist dafür verantwortlich, die Bedingungen dieser Drittanbieter-Dienste einzuhalten."
+      "responsibility": "Du bist dafür verantwortlich, die Bedingungen dieser Drittanbieter-Dienste einzuhalten.",
+      "esp": {
+        "title": "9.5. Email Service Provider",
+        "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
+        "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+      }
     },
     "section10": {
       "title": "10. Haftungsausschlüsse & Haftungsbeschränkung",
@@ -909,6 +1019,10 @@
       "gdpr": {
         "title": "12.5. DSGVO-Konformität",
         "p1": "Unsere Datenpraktiken entsprechen der Datenschutz-Grundverordnung (DSGVO). Siehe unsere Datenschutzerklärung für Details zur Datenerhebung, -verarbeitung, -aufbewahrung, deinen Rechten und wie du unseren Datenschutzbeauftragten kontaktierst."
+      },
+      "lgpd": {
+        "title": "12.6. LGPD Compliance (Brazilian Users)",
+        "p1": "For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law."
       }
     },
     "section13": {
@@ -1125,6 +1239,9 @@
       "about_seo": "Über Jynx Gaming Plattform",
       "blog": "Blog",
       "search": "Suchen"
+    },
+    "support": {
+      "title": "Support"
     },
     "legal": {
       "title": "Rechtliches",
