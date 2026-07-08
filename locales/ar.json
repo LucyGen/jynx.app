@@ -246,11 +246,11 @@
         "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
         "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
         "identity_label": "ESP identity, role, and location:",
-        "identity": "[To be inserted once an ESP is selected]",
+        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
         "subprocessors_label": "Sub-processors:",
-        "subprocessors": "A current list of the ESP's sub-processors will be maintained here and linked once an ESP is selected.",
+        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
         "transfer_label": "International transfer basis:",
-        "transfer": "See §9 (LGPD Art. 33 — ANPD SCCs for a U.S.-based ESP; EU-US Data Privacy Framework or SCCs under GDPR).",
+        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
       }
     },
@@ -426,8 +426,8 @@
       "guarantees_br": "Transfers of Brazilian users' personal data are governed by LGPD Art. 33:",
       "br_france_label": "To Jynx Group in France (controller):",
       "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
-      "br_esp_label": "To a U.S.-based email ESP (processor):",
-      "br_esp": "Because the United States is not covered by any ANPD adequacy decision, Jynx executes the ANPD standard contractual clauses (SCCs) (Annex II, controller-to-processor version, per ANPD Resolution CD/ANPD nº 19/2024) with the ESP before any send, supported by a transfer-impact assessment",
+      "br_esp_label": "To Brevo in France (email ESP, processor):",
+      "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
       "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding."
     },
     "cookies": {
