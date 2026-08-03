@@ -622,7 +622,9 @@
           "li4": "Hız sınırlarını, kısıtlamaları veya güvenlik özelliklerini atlatmak veya atlamak"
         },
         "enforcement_label": "Uygulama:",
-        "enforcement": "Bu yasakların ihlali içerik kaldırma, hesap askıya alma, kalıcı yasak ve/veya yasal işlemle sonuçlanabilir. İhlalleri bildirmek için support@jynx.app ile iletişime geçin. Güvenlik açıkları için security@jynx.app ile iletişime geçin"
+        "enforcement": "Bu yasakların ihlali içerik kaldırma, hesap askıya alma, kalıcı yasak ve/veya yasal işlemle sonuçlanabilir. İhlalleri bildirmek için support@jynx.app ile iletişime geçin. Güvenlik açıkları için security@jynx.app ile iletişime geçin",
+        "username_reset_label": "Kullanıcı Adı ve Profil Medyası Sıfırlama:",
+        "username_reset": "Kullanıcı adınız, görünen adınız, tanıtıcınız veya profil medyanız (avatar, fotoğraflar) bu Şartları ihlal ettiğinde — gerçek bir kişiyi, markayı veya kurumu taklit etmek, marka kötüye kullanımı veya yanıltıcı kimlik dâhil — hesabınızı genel bir tanımlayıcıyla yeniden adlandırma, ilgili medyayı sıfırlama veya kaldırma ve değişikliği size bildirme hakkımızı saklı tutarız. Bu, 7.4. Bölüm kapsamındaki itiraz hakkınızı etkilemez."
       },
       "rate_limiting": {
         "title": "4.3. Hız Sınırlaması ve Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Ara",
     "search_aria": "Makale ara",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Jynx'i Aç"
   },
   "header": {
     "cta": "Jynx'i Edinin"

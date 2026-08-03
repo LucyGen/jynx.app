@@ -622,7 +622,9 @@
           "li4": "Omijać lub obchodzić jakiekolwiek limity częstotliwości, ograniczenia lub funkcje bezpieczeństwa"
         },
         "enforcement_label": "Egzekwowanie:",
-        "enforcement": "Naruszenie tych zakazów może skutkować usunięciem treści, zawieszeniem konta, permanentnym banem i/lub działaniami prawnymi. Aby zgłosić naruszenia, skontaktuj się z support@jynx.app. W przypadku luk w zabezpieczeniach, skontaktuj się z security@jynx.app"
+        "enforcement": "Naruszenie tych zakazów może skutkować usunięciem treści, zawieszeniem konta, permanentnym banem i/lub działaniami prawnymi. Aby zgłosić naruszenia, skontaktuj się z support@jynx.app. W przypadku luk w zabezpieczeniach, skontaktuj się z security@jynx.app",
+        "username_reset_label": "Resetowanie nazwy użytkownika i mediów profilu:",
+        "username_reset": "Gdy Twoja nazwa użytkownika, nazwa wyświetlana, identyfikator lub media profilu (awatar, zdjęcia) naruszają niniejszy Regulamin — w tym podszywanie się pod rzeczywistą osobę, markę lub instytucję, nadużycie znaku towarowego lub wprowadzająca w błąd tożsamość — zastrzegamy sobie prawo do zmiany nazwy Twojego konta na identyfikator ogólny, zresetowania lub usunięcia naruszających mediów oraz powiadomienia Cię o zmianie. Nie wpływa to na Twoje prawo do odwołania zgodnie z Sekcją 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Ograniczenia Częstotliwości i Anty-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Szukaj",
     "search_aria": "Szukaj artykułów",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Otwórz Jynx"
   },
   "header": {
     "cta": "Pobierz Jynx"

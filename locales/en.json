@@ -622,7 +622,9 @@
           "li4": "Bypass or circumvent any rate limits, restrictions, or safety features"
         },
         "enforcement_label": "Enforcement:",
-        "enforcement": "Violation of these prohibitions may result in content removal, account suspension, permanent ban, and/or legal action. To report violations, contact support@jynx.app. For security vulnerabilities, contact security@jynx.app"
+        "enforcement": "Violation of these prohibitions may result in content removal, account suspension, permanent ban, and/or legal action. To report violations, contact support@jynx.app. For security vulnerabilities, contact security@jynx.app",
+        "username_reset_label": "Username & Profile Media Reset:",
+        "username_reset": "Where your username, display name, handle, or profile media (avatar, photos) violates these Terms — including impersonation of a real person, brand, or institution, trademark misuse, or misleading identity — we reserve the right to rename your account to a generic identifier, reset or remove the offending media, and notify you of the change. This does not affect your right to appeal under Section 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Rate Limiting & Anti-Spam",
@@ -1096,7 +1098,8 @@
     "feedback": "Contact",
     "search": "Search",
     "search_aria": "Search articles",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Open Jynx"
   },
   "header": {
     "cta": "Get Jynx"

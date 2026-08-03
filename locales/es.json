@@ -622,7 +622,9 @@
           "li4": "Eludir o evitar cualquier límite de tasa, restricciones o características de seguridad"
         },
         "enforcement_label": "Aplicación:",
-        "enforcement": "La violación de estas prohibiciones puede resultar en eliminación de contenido, suspensión de cuenta, prohibición permanente y/o acción legal. Para reportar violaciones, contacta support@jynx.app. Para vulnerabilidades de seguridad, contacta security@jynx.app"
+        "enforcement": "La violación de estas prohibiciones puede resultar en eliminación de contenido, suspensión de cuenta, prohibición permanente y/o acción legal. Para reportar violaciones, contacta support@jynx.app. Para vulnerabilidades de seguridad, contacta security@jynx.app",
+        "username_reset_label": "Restablecimiento de nombre de usuario y multimedia de perfil:",
+        "username_reset": "Cuando su nombre de usuario, nombre para mostrar, identificador o multimedia de perfil (avatar, fotos) infrinja estos Términos — incluida la suplantación de una persona, marca o institución real, el uso indebido de una marca o una identidad engañosa — nos reservamos el derecho de cambiar el nombre de su cuenta por un identificador genérico, restablecer o eliminar el multimedia infractor y notificarle el cambio. Esto no afecta su derecho de apelación conforme a la Sección 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Limitación de Tasa y Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Buscar",
     "search_aria": "Buscar artículos",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Abrir Jynx"
   },
   "header": {
     "cta": "Obtener Jynx"

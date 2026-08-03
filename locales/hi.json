@@ -622,7 +622,9 @@
           "li4": "किसी rate limits, restrictions, या safety features को bypass या circumvent करना"
         },
         "enforcement_label": "प्रवर्तन:",
-        "enforcement": "इन prohibitions का उल्लंघन करने पर content removal, account suspension, permanent ban, और/या legal action हो सकता है। उल्लंघनों की report करने के लिए, support@jynx.app से संपर्क करें। Security vulnerabilities के लिए, security@jynx.app से संपर्क करें"
+        "enforcement": "इन prohibitions का उल्लंघन करने पर content removal, account suspension, permanent ban, और/या legal action हो सकता है। उल्लंघनों की report करने के लिए, support@jynx.app से संपर्क करें। Security vulnerabilities के लिए, security@jynx.app से संपर्क करें",
+        "username_reset_label": "उपयोगकर्ता नाम और प्रोफ़ाइल मीडिया रीसेट:",
+        "username_reset": "जब आपका उपयोगकर्ता नाम, प्रदर्शन नाम, हैंडल या प्रोफ़ाइल मीडिया (अवतार, फ़ोटो) इन शर्तों का उल्लंघन करता है — जिसमें किसी वास्तविक व्यक्ति, ब्रांड या संस्था का प्रतिरूपण, ट्रेडमार्क का दुरुपयोग, या भ्रामक पहचान शामिल है — हम आपके खाते का नाम एक सामान्य पहचानकर्ता में बदलने, आपत्तिजनक मीडिया को रीसेट या हटाने और आपको परिवर्तन की सूचना देने का अधिकार सुरक्षित रखते हैं। यह अनुभाग 7.4 के तहत आपके अपील के अधिकार को प्रभावित नहीं करता है।"
       },
       "rate_limiting": {
         "title": "4.3. Rate Limiting और Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "ब्लॉग",
     "search": "खोजें",
     "search_aria": "लेख खोजें",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Jynx खोलें"
   },
   "header": {
     "cta": "Jynx पाएं"

@@ -622,7 +622,9 @@
           "li4": "Aggirare o eludere qualsiasi limite di frequenza, restrizione o funzionalità di sicurezza"
         },
         "enforcement_label": "Applicazione:",
-        "enforcement": "La violazione di queste proibizioni può risultare in rimozione di contenuti, sospensione dell'account, ban permanente e/o azione legale. Per segnalare violazioni, contatta support@jynx.app. Per vulnerabilità di sicurezza, contatta security@jynx.app"
+        "enforcement": "La violazione di queste proibizioni può risultare in rimozione di contenuti, sospensione dell'account, ban permanente e/o azione legale. Per segnalare violazioni, contatta support@jynx.app. Per vulnerabilità di sicurezza, contatta security@jynx.app",
+        "username_reset_label": "Ripristino di nome utente e contenuti del profilo:",
+        "username_reset": "Quando il tuo nome utente, nome visualizzato, handle o i contenuti del profilo (avatar, foto) violano questi Termini — inclusa l'imitazione di una persona, marchio o istituzione reale, l'uso improprio di un marchio o un'identità fuorviante — ci riserviamo il diritto di rinominare il tuo account con un identificatore generico, ripristinare o rimuovere i contenuti oggetto della violazione e notificarti la modifica. Ciò non influisce sul tuo diritto di ricorso ai sensi della Sezione 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Limitazione Frequenza e Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Cerca",
     "search_aria": "Cerca articoli",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Apri Jynx"
   },
   "header": {
     "cta": "Ottieni Jynx"

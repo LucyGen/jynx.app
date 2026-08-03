@@ -622,7 +622,9 @@
           "li4": "Rate-Limits, Einschränkungen oder Sicherheitsfunktionen zu umgehen oder zu umgehen"
         },
         "enforcement_label": "Durchsetzung:",
-        "enforcement": "Verstöße gegen diese Verbote können zur Entfernung von Inhalten, Kontosperrung, dauerhafter Sperrung und/oder rechtlichen Schritten führen. Um Verstöße zu melden, kontaktiere support@jynx.app. Für Sicherheitsschwachstellen kontaktiere security@jynx.app"
+        "enforcement": "Verstöße gegen diese Verbote können zur Entfernung von Inhalten, Kontosperrung, dauerhafter Sperrung und/oder rechtlichen Schritten führen. Um Verstöße zu melden, kontaktiere support@jynx.app. Für Sicherheitsschwachstellen kontaktiere security@jynx.app",
+        "username_reset_label": "Zurücksetzung von Benutzername und Profilmedien:",
+        "username_reset": "Wenn Ihr Benutzername, Anzeigename, Handle oder Ihre Profilmedien (Avatar, Fotos) gegen diese Bedingungen verstoßen — einschließlich der Nachahmung einer realen Person, Marke oder Institution, Markenmissbrauch oder irreführender Identität — behalten wir uns das Recht vor, Ihr Konto in einen generischen Bezeichner umzubenennen, die beanstandeten Medien zurückzusetzen oder zu entfernen und Sie über die Änderung zu informieren. Dies betrifft nicht Ihr Recht auf Einspruch gemäß Abschnitt 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Rate Limiting & Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Suchen",
     "search_aria": "Artikel suchen",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Jynx öffnen"
   },
   "header": {
     "cta": "Jynx holen"

@@ -622,7 +622,9 @@
           "li4": "Membypass atau menghindari batasan rate, pembatasan, atau fitur keamanan"
         },
         "enforcement_label": "Penegakan:",
-        "enforcement": "Pelanggaran terhadap larangan ini dapat mengakibatkan penghapusan konten, penangguhan akun, larangan permanen, dan/atau tindakan hukum. Untuk melaporkan pelanggaran, hubungi support@jynx.app. Untuk kerentanan keamanan, hubungi security@jynx.app"
+        "enforcement": "Pelanggaran terhadap larangan ini dapat mengakibatkan penghapusan konten, penangguhan akun, larangan permanen, dan/atau tindakan hukum. Untuk melaporkan pelanggaran, hubungi support@jynx.app. Untuk kerentanan keamanan, hubungi security@jynx.app",
+        "username_reset_label": "Atur Ulang Nama Pengguna & Media Profil:",
+        "username_reset": "Apabila nama pengguna, nama tampilan, handle, atau media profil (avatar, foto) Anda melanggar Ketentuan ini — termasuk menyamar sebagai orang, merek, atau lembaga nyata, penyalahgunaan merek dagang, atau identitas yang menyesatkan — kami berhak mengganti nama akun Anda menjadi penanda generik, mengatur ulang atau menghapus media yang melanggar, dan memberi tahu Anda tentang perubahan tersebut. Hal ini tidak memengaruhi hak Anda untuk mengajukan banding sesuai Bagian 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Rate Limiting & Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Cari",
     "search_aria": "Cari artikel",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Buka Jynx"
   },
   "header": {
     "cta": "Dapatkan Jynx"

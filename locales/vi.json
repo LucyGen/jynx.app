@@ -622,7 +622,9 @@
           "li4": "Vượt qua hoặc né tránh bất kỳ giới hạn tốc độ, hạn chế hoặc tính năng an toàn nào"
         },
         "enforcement_label": "Thực Thi:",
-        "enforcement": "Vi phạm các điều cấm này có thể dẫn đến xóa nội dung, tạm ngưng tài khoản, cấm vĩnh viễn và/hoặc hành động pháp lý. Để báo cáo vi phạm, liên hệ support@jynx.app. Đối với lỗ hổng bảo mật, liên hệ security@jynx.app"
+        "enforcement": "Vi phạm các điều cấm này có thể dẫn đến xóa nội dung, tạm ngưng tài khoản, cấm vĩnh viễn và/hoặc hành động pháp lý. Để báo cáo vi phạm, liên hệ support@jynx.app. Đối với lỗ hổng bảo mật, liên hệ security@jynx.app",
+        "username_reset_label": "Đặt lại tên người dùng và phương tiện hồ sơ:",
+        "username_reset": "Khi tên người dùng, tên hiển thị, định danh hoặc phương tiện hồ sơ (ảnh đại diện, ảnh) của bạn vi phạm các Điều khoản này — bao gồm mạo danh một người, thương hiệu hoặc tổ chức thực tế, lạm dụng nhãn hiệu hoặc danh tính gây hiểu lầm — chúng tôi có quyền đổi tên tài khoản của bạn thành một định danh chung, đặt lại hoặc gỡ bỏ phương tiện vi phạm và thông báo cho bạn về thay đổi. Điều này không ảnh hưởng đến quyền khiếu nại của bạn theo Mục 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Giới Hạn Tốc Độ & Chống Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Tìm kiếm",
     "search_aria": "Tìm kiếm bài viết",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Mở Jynx"
   },
   "header": {
     "cta": "Tải Jynx"

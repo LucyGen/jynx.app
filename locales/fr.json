@@ -622,7 +622,9 @@
           "li4": "Contourner ou éluder toute limitation de débit, restriction ou fonctionnalité de sécurité"
         },
         "enforcement_label": "Application :",
-        "enforcement": "La violation de ces interdictions peut entraîner la suppression de contenu, suspension de compte, bannissement permanent et/ou action légale. Pour signaler des violations, contactez support@jynx.app. Pour les vulnérabilités de sécurité, contactez security@jynx.app"
+        "enforcement": "La violation de ces interdictions peut entraîner la suppression de contenu, suspension de compte, bannissement permanent et/ou action légale. Pour signaler des violations, contactez support@jynx.app. Pour les vulnérabilités de sécurité, contactez security@jynx.app",
+        "username_reset_label": "Réinitialisation du pseudo et des médias de profil :",
+        "username_reset": "Lorsque votre nom d'utilisateur, nom d'affichage, identifiant (handle) ou média de profil (avatar, photos) enfreint les présentes Conditions — notamment l'usurpation d'une personne, d'une marque ou d'une institution réelle, l'usage abusif d'une marque ou une identité trompeuse — nous nous réservons le droit de renommer votre compte avec un identifiant générique, de réinitialiser ou de retirer le média concerné, et de vous notifier ce changement. Cela ne porte pas atteinte à votre droit de recours défini à la Section 7.4."
       },
       "rate_limiting": {
         "title": "4.3. Limitation de Débit & Anti-Spam",
@@ -1096,7 +1098,8 @@
     "blog": "Blog",
     "search": "Rechercher",
     "search_aria": "Rechercher des articles",
-    "glossary": "Glossary"
+    "glossary": "Glossary",
+    "open_jynx": "Ouvrir Jynx"
   },
   "header": {
     "cta": "Télécharger Jynx"
