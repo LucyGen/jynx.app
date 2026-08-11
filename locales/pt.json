@@ -252,6 +252,13 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "rekognition": {
+        "title": "4.7. AWS Rekognition (Moderação de Imagens)",
+        "intro": "Para manter a comunidade segura e aplicar nossas políticas de conteúdo, a Jynx analisa as imagens de perfil enviadas por você (seu avatar e quaisquer fotos da galeria) em busca de nudez e outros conteúdos que violem as políticas usando o Amazon Web Services (AWS) Rekognition. A análise ocorre tanto de forma síncrona no momento do envio quanto como uma verificação assíncrona de retaguarda. O AWS Rekognition atua como operador (GDPR Art. 28; LGPD Art. 39 — operador) sob um Acordo de Tratamento de Dados assinado e processa os bytes da imagem exclusivamente conforme as instruções documentadas da Jynx.",
+        "retention": "O AWS Rekognition processa os bytes da imagem de forma transitória para retornar os rótulos de moderação; ele não armazena suas imagens separadamente. A própria imagem permanece sujeita ao ciclo de vida das imagens de perfil descrito nas §3.5 e §6, e a AWS não retém uma cópia além do processamento transitório necessário para retornar um resultado.",
+        "policy_label": "Informações de privacidade do AWS Rekognition:",
+        "policy": "https://aws.amazon.com/privacy/"
       }
     },
     "data_usage": {
@@ -420,6 +427,8 @@
       "sentry": "Servidores baseados nos EUA com conformidade Privacy Shield",
       "esp_label": "Email Service Provider (ESP):",
       "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
+      "aws_label": "AWS Rekognition (moderação de imagens):",
+      "aws": "Usado para analisar imagens de perfil enviadas para aplicação das políticas, conforme descrito na §4.7. A AWS é estabelecida nos Estados Unidos; as transferências de bytes de imagem para a AWS baseiam-se no EU-US Data Privacy Framework (para entidades da AWS autocertificadas no DPF) ou em cláusulas contratuais padrão onde o DPF não se aplica. A AWS processa os bytes da imagem de forma transitória e não os armazena (ver §4.7). O mecanismo de transferência aplicável aos dados dos usuários brasileiros é confirmado em nosso Registro de Operações de Tratamento de Dados Pessoais.",
       "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
       "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
       "guarantees_br_label": "Guarantees (LGPD, Brazil).",
@@ -660,7 +669,10 @@
           "high": "Alta Prioridade (assédio, discurso de ódio, conteúdo sexual): Revisão e ação dentro de 24 horas",
           "medium": "Prioridade Média (spam, manipulação de plataforma, violações de regras): Revisão e ação dentro de 72 horas",
           "low": "Baixa Prioridade (disputas de comunidade, infrações menores): Revisão e ação dentro de 7 dias"
-        }
+        },
+        "automated_title": "Moderação Automática de Conteúdo:",
+        "automated_intro": "Para aplicar estes Termos e nossas políticas de conteúdo, a Jynx analisa as imagens enviadas por você usando modelos automatizados de aprendizado de máquina.",
+        "automated_body": "Ao enviar fotos ao Serviço (incluindo seu avatar de perfil e galeria), você reconhece e concorda que a Jynx e seus operadores podem analisar e classificar essas imagens usando aprendizado de máquina automatizado (fornecido pelo AWS Rekognition; consulte a Política de Privacidade §4.7) para detectar nudez e outros conteúdos que violem as políticas, e que imagens podem ser bloqueadas no envio, removidas ou sinalizadas para revisão humana com base no resultado. Essa análise ocorre tanto no momento do envio quanto de forma assíncrona de retaguarda, e é realizada para proteger a segurança da comunidade e cumprir a lei aplicável. Consulte também nossa política de Segurança Infantil."
       }
     },
     "section5": {
@@ -680,7 +692,8 @@
           "li1": "Hospedar, armazenar e exibir seu Conteúdo do Usuário conforme necessário para fornecer o Serviço",
           "li2": "Compartilhar seu Conteúdo do Usuário com outros usuários de acordo com suas configurações de privacidade (ex: exibir em comunidades, mostrar em perfis de correspondência)",
           "li3": "Criar cópias de backup e garantir redundância de dados para confiabilidade",
-          "li4": "Moderar e revisar conteúdo para conformidade com estes Termos e leis aplicáveis"
+          "li4": "Moderar e revisar conteúdo para conformidade com estes Termos e leis aplicáveis",
+          "li5": "Analisar suas imagens enviadas usando aprendizado de máquina automatizado (ex.: AWS Rekognition) para detectar e aplicar medidas contra conteúdos que violem as políticas, conforme descrito na §4.4 e na Política de Privacidade §4.7"
         },
         "improvement_title": "Melhoria do Serviço e Analytics:",
         "improvement": {
@@ -943,6 +956,10 @@
         "title": "9.5. Email Service Provider",
         "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
         "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+      },
+      "rekognition": {
+        "title": "9.7. AWS Rekognition (Moderação de Imagens)",
+        "p1": "A Jynx usa o Amazon Web Services (AWS) Rekognition para analisar as imagens de perfil enviadas pelos usuários em busca de nudez e outros conteúdos que violem as políticas. O AWS Rekognition atua como nosso operador sob um Acordo de Tratamento de Dados assinado e processa bytes de imagem apenas conforme as instruções documentadas da Jynx. Os dados processados, a postura de retenção (nenhum armazenamento separado de imagens pela AWS) e o mecanismo de transferência internacional aplicável estão descritos na Política de Privacidade §4.7 e §9."
       }
     },
     "section10": {

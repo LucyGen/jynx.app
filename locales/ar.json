@@ -252,6 +252,13 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "rekognition": {
+        "title": "4.7. AWS Rekognition (Image Moderation)",
+        "intro": "To keep the community safe and enforce our content policies, Jynx scans user-uploaded profile images (your avatar and any gallery photos) for nudity and other policy-violating content using Amazon Web Services (AWS) Rekognition. Scanning runs both synchronously at the moment of upload and as an asynchronous backstop check. AWS Rekognition acts as a processor (GDPR Art. 28; LGPD Art. 39 — operador) under a signed Data Processing Agreement and processes the image bytes solely on Jynx's documented instructions.",
+        "retention": "AWS Rekognition processes the image bytes transiently in order to return moderation labels; it does not separately store your images. The image itself remains subject to the profile-image lifecycle described in §3.5 and §6, and AWS does not retain a copy beyond the transient processing required to return a result.",
+        "policy_label": "AWS Rekognition privacy information:",
+        "policy": "https://aws.amazon.com/privacy/"
       }
     },
     "data_usage": {
@@ -428,7 +435,9 @@
       "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
       "br_esp_label": "To Brevo in France (email ESP, processor):",
       "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
-      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding."
+      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.",
+      "aws_label": "AWS Rekognition (image moderation):",
+      "aws": "Used to scan uploaded profile images for policy enforcement as described in §4.7. AWS is established in the United States; transfers of image bytes to AWS rely on the EU-US Data Privacy Framework (for AWS entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. AWS processes the image bytes transiently and does not store them (see §4.7). The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities."
     },
     "cookies": {
       "title": "10. ملفات تعريف الارتباط والتقنيات المشابهة",
@@ -648,7 +657,10 @@
           "high": "أولوية عالية (مضايقة، خطاب كراهية، محتوى جنسي): مراجعة وإجراء خلال 24 ساعة",
           "medium": "أولوية متوسطة (بريد مزعج، تلاعب بالمنصة، انتهاكات القواعد): مراجعة وإجراء خلال 72 ساعة",
           "low": "أولوية منخفضة (نزاعات المجتمع، مخالفات بسيطة): مراجعة وإجراء خلال 7 أيام"
-        }
+        },
+        "automated_title": "Automated Content Moderation:",
+        "automated_intro": "To enforce these Terms and our content policies, Jynx scans user-uploaded images using automated machine-learning models.",
+        "automated_body": "By uploading photos to the Service (including your profile avatar and gallery), you acknowledge and agree that Jynx and its processors may scan and classify those images using automated machine learning (provided by AWS Rekognition; see Privacy Policy §4.7) to detect nudity and other policy-violating content, and that images may be blocked at upload, removed, or flagged for human review based on the result. This scanning operates both at upload time and as an asynchronous backstop, and is undertaken to protect the safety of the community and to comply with applicable law. See also our Child Safety policy."
       }
     },
     "section5": {
@@ -668,7 +680,8 @@
           "li1": "استضافة وتخزين وعرض محتوى المستخدم الخاص بك حسب الضرورة لتقديم الخدمة",
           "li2": "مشاركة محتوى المستخدم الخاص بك مع مستخدمين آخرين وفقًا لإعدادات الخصوصية الخاصة بك (مثل العرض في المجتمعات، والإظهار في ملفات المطابقة)",
           "li3": "إنشاء نسخ احتياطية وضمان تكرار البيانات للموثوقية",
-          "li4": "الإشراف على المحتوى ومراجعته للامتثال لهذه الشروط والقوانين المعمول بها"
+          "li4": "الإشراف على المحتوى ومراجعته للامتثال لهذه الشروط والقوانين المعمول بها",
+          "li5": "Scan your uploaded images using automated machine learning (e.g., AWS Rekognition) to detect and enforce against policy-violating content, as described in §4.4 and Privacy Policy §4.7"
         },
         "improvement_title": "تحسين الخدمة والتحليلات:",
         "improvement": {
@@ -931,6 +944,10 @@
         "title": "9.5. Email Service Provider",
         "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
         "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+      },
+      "rekognition": {
+        "title": "9.7. AWS Rekognition (Image Moderation)",
+        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.7 and §9."
       }
     },
     "section10": {
