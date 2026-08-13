@@ -202,6 +202,13 @@
         "photos": "Загруженные фотографии (фото профиля, дополнительные фотографии)",
         "reports": "Отчеты о безопасности и модерации",
         "cosmetics": "Косметические предпочтения (аватары, значки)"
+      },
+      "voice_rooms": {
+        "title": "3.6. Voice Room Audio Data",
+        "p1": "Jynx offers real-time voice rooms that let you talk with the other participants while you play. Voice-room audio is captured from your microphone only after you grant the operating-system microphone permission and explicitly join a room; no audio is captured before both of those steps.",
+        "p2": "Jynx does not enable LiveKit's recording, transcription, Agent Insights, or Egress features. Voice-room audio is routed in real time by the LiveKit SFU (Selective Forwarding Unit) and is not recorded, stored, or persisted by Jynx or by LiveKit.",
+        "p3": "When you speak in a voice room, your audio is transmitted in real time to the other participants in that room, similar to how voice works in other voice-chat apps.",
+        "p4": "Voice-room audio is processed with your consent: you grant microphone permission and explicitly join a room before any audio is captured. You can withdraw consent at any time by leaving the room or by revoking microphone permission in your device settings."
       }
     },
     "third_party": {
@@ -259,6 +266,12 @@
         "retention": "AWS Rekognition processes the image bytes transiently in order to return moderation labels; it does not separately store your images. The image itself remains subject to the profile-image lifecycle described in §3.5 and §6, and AWS does not retain a copy beyond the transient processing required to return a result.",
         "policy_label": "AWS Rekognition privacy information:",
         "policy": "https://aws.amazon.com/privacy/"
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (Real-Time Voice)",
+        "p1": "Jynx uses LiveKit Cloud as a processor (GDPR Art. 28; LGPD Art. 39 — operador) under a signed Data Processing Agreement to operate the real-time media infrastructure that routes voice-room audio between participants. LiveKit runs the Selective Forwarding Unit (SFU) that forwards each participant's audio stream to the others in real time.",
+        "p2": "Jynx does not enable LiveKit's recording, transcription, Agent Insights, or Egress features. Voice-room audio is routed in real time by the LiveKit SFU (Selective Forwarding Unit) and is not recorded, stored, or persisted by Jynx or by LiveKit.",
+        "p3": "LiveKit does retain operational session metadata — such as participant identities, room identifiers, connection timings, and quality metrics — for billing, abuse-prevention, and operational purposes under its Data Processing Addendum. This metadata is not used to identify you off-platform or for advertising."
       }
     },
     "data_usage": {

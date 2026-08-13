@@ -202,6 +202,13 @@
         "photos": "Fotos enviadas (imagens de perfil, fotos adicionais)",
         "reports": "Relatórios de segurança e moderação",
         "cosmetics": "Preferências cosméticas (avatares, emblemas)"
+      },
+      "voice_rooms": {
+        "title": "3.6. Dados de Áudio das Salas de Voz",
+        "p1": "O Jynx oferece salas de voz em tempo real que permitem conversar com os outros participantes enquanto você joga. O áudio da sala de voz só é captado pelo seu microfone depois que você concede a permissão de microfone do sistema operacional e entra explicitamente em uma sala; nenhum áudio é captado antes dessas duas etapas.",
+        "p2": "O Jynx não habilita os recursos de gravação, transcrição, Agent Insights ou Egress do LiveKit. O áudio da sala de voz é roteado em tempo real pelo SFU (Selective Forwarding Unit) do LiveKit e não é gravado, armazenado ou persistido pelo Jynx nem pelo LiveKit.",
+        "p3": "Quando você fala em uma sala de voz, seu áudio é transmitido em tempo real para os outros participantes dessa sala, de forma semelhante a como a voz funciona em outros aplicativos de chat de voz.",
+        "p4": "O áudio da sala de voz é processado com o seu consentimento: você concede a permissão de microfone e entra explicitamente em uma sala antes que qualquer áudio seja captado. Você pode retirar o consentimento a qualquer momento saindo da sala ou revogando a permissão de microfone nas configurações do seu dispositivo."
       }
     },
     "third_party": {
@@ -259,6 +266,12 @@
         "retention": "O AWS Rekognition processa os bytes da imagem de forma transitória para retornar os rótulos de moderação; ele não armazena suas imagens separadamente. A própria imagem permanece sujeita ao ciclo de vida das imagens de perfil descrito nas §3.5 e §6, e a AWS não retém uma cópia além do processamento transitório necessário para retornar um resultado.",
         "policy_label": "Informações de privacidade do AWS Rekognition:",
         "policy": "https://aws.amazon.com/privacy/"
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (Voz em Tempo Real)",
+        "p1": "O Jynx usa o LiveKit Cloud como operador (GDPR Art. 28; LGPD Art. 39 — operador) sob um Acordo de Processamento de Dados assinado para operar a infraestrutura de mídia em tempo real que roteia o áudio das salas de voz entre os participantes. O LiveKit executa o SFU (Selective Forwarding Unit) que encaminha o fluxo de áudio de cada participante para os demais em tempo real.",
+        "p2": "O Jynx não habilita os recursos de gravação, transcrição, Agent Insights ou Egress do LiveKit. O áudio da sala de voz é roteado em tempo real pelo SFU (Selective Forwarding Unit) do LiveKit e não é gravado, armazenado ou persistido pelo Jynx nem pelo LiveKit.",
+        "p3": "O LiveKit mantém metadados operacionais da sessão — como identidades dos participantes, identificadores de sala, horários de conexão e métricas de qualidade — para fins de cobrança, prevenção de abuso e operacionais, conforme seu Acordo de Processamento de Dados. Esses metadados não são usados para identificá-lo fora da plataforma nem para fins publicitários."
       }
     },
     "data_usage": {

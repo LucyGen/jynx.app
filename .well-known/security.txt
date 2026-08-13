@@ -1,0 +1,12 @@
+# Jynx — security contact and vulnerability disclosure
+# Format: RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
+#
+# Please read the disclosure policy before reporting. It states what is in
+# scope, what is not, and what we can offer in return (recognition, not money).
+
+Contact: mailto:security@jynx.app
+Expires: 2027-08-01T00:00:00.000Z
+Preferred-Languages: en, fr
+Canonical: https://jynx.app/.well-known/security.txt
+Policy: https://jynx.app/security.html
+Acknowledgments: https://jynx.app/acknowledgements.html
