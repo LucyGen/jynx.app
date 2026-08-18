@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 # Jynx — security contact and vulnerability disclosure
 # Format: RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
 #
@@ -10,3 +13,10 @@ Preferred-Languages: en, fr
 Canonical: https://jynx.app/.well-known/security.txt
 Policy: https://jynx.app/security.html
 Acknowledgments: https://jynx.app/acknowledgements.html
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSVwAtqwioHzrvkxGXdQXIabYMVZwUCaoOh/wAKCRDdQXIabYMV
+Z20fAQDpOQZzen86DFr/aJ+8D25Cl8lzTBkytV1nUwhqZGjzkwD/XFKgQwajJC6T
+XfcLGdCuK2c0irQ36TVB1MvLFDSGfgY=
+=1B92
+-----END PGP SIGNATURE-----

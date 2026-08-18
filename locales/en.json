@@ -202,13 +202,6 @@
         "photos": "Uploaded photos (profile pictures, additional photos)",
         "reports": "Security and moderation reports",
         "cosmetics": "Cosmetic preferences (avatars, badges)"
-      },
-      "voice_rooms": {
-        "title": "3.6. Voice Room Audio Data",
-        "p1": "Jynx offers real-time voice rooms that let you talk with the other participants while you play. Voice-room audio is captured from your microphone only after you grant the operating-system microphone permission and explicitly join a room; no audio is captured before both of those steps.",
-        "p2": "Jynx does not enable LiveKit's recording, transcription, Agent Insights, or Egress features. Voice-room audio is routed in real time by the LiveKit SFU (Selective Forwarding Unit) and is not recorded, stored, or persisted by Jynx or by LiveKit.",
-        "p3": "When you speak in a voice room, your audio is transmitted in real time to the other participants in that room, similar to how voice works in other voice-chat apps.",
-        "p4": "Voice-room audio is processed with your consent: you grant microphone permission and explicitly join a room before any audio is captured. You can withdraw consent at any time by leaving the room or by revoking microphone permission in your device settings."
       }
     },
     "third_party": {
@@ -259,19 +252,6 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
-      },
-      "rekognition": {
-        "title": "4.7. AWS Rekognition (Image Moderation)",
-        "intro": "To keep the community safe and enforce our content policies, Jynx scans user-uploaded profile images (your avatar and any gallery photos) for nudity and other policy-violating content using Amazon Web Services (AWS) Rekognition. Scanning runs both synchronously at the moment of upload and as an asynchronous backstop check. AWS Rekognition acts as a processor (GDPR Art. 28; LGPD Art. 39 — operador) under a signed Data Processing Agreement and processes the image bytes solely on Jynx's documented instructions.",
-        "retention": "AWS Rekognition processes the image bytes transiently in order to return moderation labels; it does not separately store your images. The image itself remains subject to the profile-image lifecycle described in §3.5 and §6, and AWS does not retain a copy beyond the transient processing required to return a result.",
-        "policy_label": "AWS Rekognition privacy information:",
-        "policy": "https://aws.amazon.com/privacy/"
-      },
-      "livekit": {
-        "title": "4.5. LiveKit Cloud (Real-Time Voice)",
-        "p1": "Jynx uses LiveKit Cloud as a processor (GDPR Art. 28; LGPD Art. 39 — operador) under a signed Data Processing Agreement to operate the real-time media infrastructure that routes voice-room audio between participants. LiveKit runs the Selective Forwarding Unit (SFU) that forwards each participant's audio stream to the others in real time.",
-        "p2": "Jynx does not enable LiveKit's recording, transcription, Agent Insights, or Egress features. Voice-room audio is routed in real time by the LiveKit SFU (Selective Forwarding Unit) and is not recorded, stored, or persisted by Jynx or by LiveKit.",
-        "p3": "LiveKit does retain operational session metadata — such as participant identities, room identifiers, connection timings, and quality metrics — for billing, abuse-prevention, and operational purposes under its Data Processing Addendum. This metadata is not used to identify you off-platform or for advertising."
       }
     },
     "data_usage": {
@@ -440,8 +420,6 @@
       "sentry": "U.S.-based servers; transfers from the EU/EEA rely on the EU-US Data Privacy Framework (in force July 2023, replacing the invalidated Privacy Shield) for Sentry entities self-certified under the DPF, or on standard contractual clauses where the DPF does not apply",
       "esp_label": "Email Service Provider (ESP):",
       "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
-      "aws_label": "AWS Rekognition (image moderation):",
-      "aws": "Used to scan uploaded profile images for policy enforcement as described in §4.7. AWS is established in the United States; transfers of image bytes to AWS rely on the EU-US Data Privacy Framework (for AWS entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. AWS processes the image bytes transiently and does not store them (see §4.7). The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities.",
       "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
       "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
       "guarantees_br_label": "Guarantees (LGPD, Brazil).",
@@ -682,10 +660,7 @@
           "high": "High Priority (harassment, hate speech, sexual content): Review and action within 24 hours",
           "medium": "Medium Priority (spam, platform manipulation, rule violations): Review and action within 72 hours",
           "low": "Low Priority (community disputes, minor infractions): Review and action within 7 days"
-        },
-        "automated_title": "Automated Content Moderation:",
-        "automated_intro": "To enforce these Terms and our content policies, Jynx scans user-uploaded images using automated machine-learning models.",
-        "automated_body": "By uploading photos to the Service (including your profile avatar and gallery), you acknowledge and agree that Jynx and its processors may scan and classify those images using automated machine learning (provided by AWS Rekognition; see Privacy Policy §4.7) to detect nudity and other policy-violating content, and that images may be blocked at upload, removed, or flagged for human review based on the result. This scanning operates both at upload time and as an asynchronous backstop, and is undertaken to protect the safety of the community and to comply with applicable law. See also our Child Safety policy."
+        }
       }
     },
     "section5": {
@@ -705,8 +680,7 @@
           "li1": "Host, store, and display your User Content as necessary to provide the Service",
           "li2": "Share your User Content with other users according to your privacy settings (e.g., display in communities, show in match profiles)",
           "li3": "Create backup copies and ensure data redundancy for reliability",
-          "li4": "Moderate and review content for compliance with these Terms and applicable laws",
-          "li5": "Scan your uploaded images using automated machine learning (e.g., AWS Rekognition) to detect and enforce against policy-violating content, as described in §4.4 and Privacy Policy §4.7"
+          "li4": "Moderate and review content for compliance with these Terms and applicable laws"
         },
         "improvement_title": "Service Improvement & Analytics:",
         "improvement": {
@@ -969,10 +943,6 @@
         "title": "9.5. Email Service Provider",
         "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
         "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
-      },
-      "rekognition": {
-        "title": "9.7. AWS Rekognition (Image Moderation)",
-        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.7 and §9."
       }
     },
     "section10": {
