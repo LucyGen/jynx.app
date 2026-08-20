@@ -202,6 +202,13 @@
         "photos": "Upload की गई photos (profile pictures, अतिरिक्त photos)",
         "reports": "Security और moderation reports",
         "cosmetics": "Cosmetic preferences (avatars, badges)"
+      },
+      "voice": {
+        "title": "3.6. वॉइस रूम ऑडियो डेटा",
+        "p1": "Jynx रीयल-टाइम वॉइस रूम की सुविधा देता है, जिससे आप खेलते समय अन्य प्रतिभागियों से बात कर सकते हैं। वॉइस रूम का ऑडियो आपके माइक्रोफ़ोन से तभी कैप्चर होता है जब आप ऑपरेटिंग सिस्टम की माइक्रोफ़ोन अनुमति देते हैं और स्पष्ट रूप से किसी रूम में शामिल होते हैं; इन दोनों चरणों से पहले कोई ऑडियो कैप्चर नहीं किया जाता।",
+        "p2": "Jynx, LiveKit की रिकॉर्डिंग, ट्रांसक्रिप्शन, Agent Insights या Egress सुविधाएँ सक्रिय नहीं करता। वॉइस रूम का ऑडियो LiveKit की SFU (Selective Forwarding Unit) द्वारा रीयल-टाइम में रूट किया जाता है और न तो Jynx और न ही LiveKit द्वारा रिकॉर्ड, संग्रहीत या सुरक्षित किया जाता है।",
+        "p3": "जब आप किसी वॉइस रूम में बोलते हैं, तो आपका ऑडियो उस रूम के अन्य प्रतिभागियों को रीयल-टाइम में भेजा जाता है, ठीक वैसे ही जैसे अन्य वॉइस-चैट ऐप्स में वॉइस काम करती है।",
+        "p4": "वॉइस रूम का ऑडियो आपकी सहमति से संसाधित होता है: कोई भी ऑडियो कैप्चर होने से पहले आप माइक्रोफ़ोन की अनुमति देते हैं और स्पष्ट रूप से रूम में शामिल होते हैं। आप रूम छोड़कर या अपने डिवाइस की सेटिंग्स में माइक्रोफ़ोन की अनुमति रद्द करके किसी भी समय अपनी सहमति वापस ले सकते हैं।"
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (रीयल-टाइम वॉइस)",
+        "p1": "Jynx, हस्ताक्षरित डेटा प्रोसेसिंग एग्रीमेंट के तहत प्रोसेसर (GDPR अनुच्छेद 28; LGPD अनुच्छेद 39 — operador) के रूप में LiveKit Cloud का उपयोग करता है, ताकि प्रतिभागियों के बीच वॉइस रूम का ऑडियो रूट करने वाली रीयल-टाइम मीडिया इंफ़्रास्ट्रक्चर संचालित की जा सके। LiveKit, SFU (Selective Forwarding Unit) चलाता है, जो प्रत्येक प्रतिभागी के ऑडियो स्ट्रीम को रीयल-टाइम में अन्य प्रतिभागियों तक अग्रेषित करता है।",
+        "p2": "Jynx, LiveKit की रिकॉर्डिंग, ट्रांसक्रिप्शन, Agent Insights या Egress सुविधाएँ सक्रिय नहीं करता। वॉइस रूम का ऑडियो LiveKit की SFU (Selective Forwarding Unit) द्वारा रीयल-टाइम में रूट किया जाता है और न तो Jynx और न ही LiveKit द्वारा रिकॉर्ड, संग्रहीत या सुरक्षित किया जाता है।",
+        "p3": "LiveKit अपने डेटा प्रोसेसिंग एडेंडम के तहत बिलिंग, दुरुपयोग रोकने और परिचालन उद्देश्यों के लिए सत्र का परिचालन मेटाडेटा — जैसे प्रतिभागी पहचान, रूम पहचानकर्ता, कनेक्शन समय और गुणवत्ता मीट्रिक — अवश्य रखता है। इस मेटाडेटा का उपयोग प्लेटफ़ॉर्म के बाहर आपकी पहचान करने या विज्ञापन के लिए नहीं किया जाता।"
       }
     },
     "data_usage": {

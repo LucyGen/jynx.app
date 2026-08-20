@@ -202,6 +202,13 @@
         "photos": "Foto caricate (immagini profilo, foto aggiuntive)",
         "reports": "Report di sicurezza e moderazione",
         "cosmetics": "Preferenze cosmetiche (avatar, badge)"
+      },
+      "voice": {
+        "title": "3.6. Dati audio delle stanze vocali",
+        "p1": "Jynx offre stanze vocali in tempo reale che ti permettono di parlare con gli altri partecipanti mentre giochi. L'audio della stanza vocale viene acquisito dal tuo microfono solo dopo che hai concesso l'autorizzazione del microfono del sistema operativo e sei entrato esplicitamente in una stanza; nessun audio viene acquisito prima di entrambi questi passaggi.",
+        "p2": "Jynx non attiva le funzioni di registrazione, trascrizione, Agent Insights o Egress di LiveKit. L'audio delle stanze vocali viene instradato in tempo reale dalla SFU (Selective Forwarding Unit) di LiveKit e non viene registrato, memorizzato né conservato da Jynx né da LiveKit.",
+        "p3": "Quando parli in una stanza vocale, il tuo audio viene trasmesso in tempo reale agli altri partecipanti di quella stanza, in modo simile al funzionamento della voce nelle altre app di chat vocale.",
+        "p4": "L'audio delle stanze vocali è trattato con il tuo consenso: concedi l'autorizzazione del microfono ed entri esplicitamente in una stanza prima che venga acquisito qualsiasi audio. Puoi revocare il consenso in qualsiasi momento uscendo dalla stanza o revocando l'autorizzazione del microfono nelle impostazioni del tuo dispositivo."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (voce in tempo reale)",
+        "p1": "Jynx utilizza LiveKit Cloud come responsabile del trattamento (GDPR art. 28; LGPD art. 39 — operador) nell'ambito di un accordo di trattamento dei dati firmato, per gestire l'infrastruttura multimediale in tempo reale che instrada l'audio delle stanze vocali tra i partecipanti. LiveKit gestisce la SFU (Selective Forwarding Unit) che inoltra il flusso audio di ciascun partecipante agli altri in tempo reale.",
+        "p2": "Jynx non attiva le funzioni di registrazione, trascrizione, Agent Insights o Egress di LiveKit. L'audio delle stanze vocali viene instradato in tempo reale dalla SFU (Selective Forwarding Unit) di LiveKit e non viene registrato, memorizzato né conservato da Jynx né da LiveKit.",
+        "p3": "LiveKit conserva tuttavia metadati operativi di sessione — come identità dei partecipanti, identificatori delle stanze, orari di connessione e metriche di qualità — per finalità di fatturazione, prevenzione degli abusi e gestione operativa, ai sensi del suo Data Processing Addendum. Tali metadati non vengono utilizzati per identificarti al di fuori della piattaforma o per finalità pubblicitarie."
       }
     },
     "data_usage": {

@@ -202,6 +202,13 @@
         "photos": "업로드된 사진(프로필 사진, 추가 사진)",
         "reports": "보안 및 중재 보고서",
         "cosmetics": "화장품 선호도(아바타, 배지)"
+      },
+      "voice": {
+        "title": "3.6. 음성 채팅방 오디오 데이터",
+        "p1": "Jynx는 게임을 하면서 다른 참가자와 대화할 수 있는 실시간 음성 채팅방을 제공합니다. 음성 채팅방 오디오는 운영체제의 마이크 권한을 부여하고 채팅방에 명시적으로 입장한 후에만 마이크에서 캡처됩니다. 이 두 단계가 모두 완료되기 전에는 어떠한 오디오도 캡처되지 않습니다.",
+        "p2": "Jynx는 LiveKit의 녹음, 전사, Agent Insights 또는 Egress 기능을 활성화하지 않습니다. 음성 채팅방 오디오는 LiveKit의 SFU(Selective Forwarding Unit)를 통해 실시간으로 라우팅되며, Jynx나 LiveKit에 의해 녹음, 저장 또는 보존되지 않습니다.",
+        "p3": "음성 채팅방에서 말하면 오디오가 해당 채팅방의 다른 참가자에게 실시간으로 전송되며, 이는 다른 음성 채팅 앱에서 음성이 작동하는 방식과 유사합니다.",
+        "p4": "음성 채팅방 오디오는 사용자의 동의에 따라 처리됩니다. 마이크 권한을 부여하고 채팅방에 명시적으로 입장한 후에야 오디오가 캡처됩니다. 채팅방을 나가거나 기기 설정에서 마이크 권한을 철회하여 언제든지 동의를 철회할 수 있습니다."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (실시간 음성)",
+        "p1": "Jynx는 참가자 간 음성 채팅방 오디오를 라우팅하는 실시간 미디어 인프라를 운영하기 위해 서명된 데이터 처리 계약에 따라 처리자(GDPR 제28조; LGPD 제39조 — operador)로서 LiveKit Cloud를 사용합니다. LiveKit은 각 참가자의 오디오 스트림을 다른 참가자에게 실시간으로 전달하는 SFU(Selective Forwarding Unit)를 운영합니다.",
+        "p2": "Jynx는 LiveKit의 녹음, 전사, Agent Insights 또는 Egress 기능을 활성화하지 않습니다. 음성 채팅방 오디오는 LiveKit의 SFU(Selective Forwarding Unit)를 통해 실시간으로 라우팅되며, Jynx나 LiveKit에 의해 녹음, 저장 또는 보존되지 않습니다.",
+        "p3": "LiveKit은 청구, 남용 방지 및 운영 목적으로 자사의 데이터 처리 부속서(Data Processing Addendum)에 따라 참가자 신원, 채팅방 식별자, 연결 시간 및 품질 지표와 같은 운영 세션 메타데이터를 보존합니다. 이 메타데이터는 플랫폼 외부에서 사용자를 식별하거나 광고 목적으로 사용되지 않습니다."
       }
     },
     "data_usage": {

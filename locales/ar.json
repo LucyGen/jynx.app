@@ -202,6 +202,13 @@
         "photos": "الصور المحمّلة (صور الملف الشخصي، صور إضافية)",
         "reports": "تقارير الأمان والإشراف",
         "cosmetics": "تفضيلات التجميل (الصور الرمزية، الشارات)"
+      },
+      "voice": {
+        "title": "3.6. البيانات الصوتية لغرف المحادثة الصوتية",
+        "p1": "تقدّم Jynx غرف محادثة صوتية في الوقت الفعلي تتيح لك التحدث مع المشاركين الآخرين أثناء اللعب. لا يتم التقاط الصوت من الميكروفون إلا بعد منحك إذن الميكروفون في نظام التشغيل وانضمامك صراحةً إلى غرفة؛ ولا يتم التقاط أي صوت قبل استيفاء كلتا الخطوتين.",
+        "p2": "لا تُفعّل Jynx ميزات التسجيل أو النسخ أو Agent Insights أو Egress في LiveKit. يتم توجيه صوت غرف المحادثة في الوقت الفعلي عبر وحدة SFU (Selective Forwarding Unit) من LiveKit، ولا يتم تسجيله أو تخزينه أو الاحتفاظ به من قِبل Jynx أو LiveKit.",
+        "p3": "عندما تتحدث في غرفة صوتية، يُرسل صوتك في الوقت الفعلي إلى المشاركين الآخرين في تلك الغرفة، على غرار طريقة عمل الصوت في تطبيقات الدردشة الصوتية الأخرى.",
+        "p4": "تتم معالجة صوت غرف المحادثة بموافقتك: فأنت تمنح إذن الميكروفون وتنضم صراحةً إلى غرفة قبل التقاط أي صوت. يمكنك سحب موافقتك في أي وقت بمغادرة الغرفة أو إلغاء إذن الميكروفون في إعدادات جهازك."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (صوت في الوقت الفعلي)",
+        "p1": "تستخدم Jynx خدمة LiveKit Cloud بوصفها معالجًا للبيانات (GDPR المادة 28؛ LGPD المادة 39 — operador) بموجب اتفاقية معالجة بيانات موقّعة، لتشغيل البنية التحتية للوسائط في الوقت الفعلي التي توجّه صوت غرف المحادثة بين المشاركين. تدير LiveKit وحدة SFU (Selective Forwarding Unit) التي تعيد توجيه بث الصوت الخاص بكل مشارك إلى الآخرين في الوقت الفعلي.",
+        "p2": "لا تُفعّل Jynx ميزات التسجيل أو النسخ أو Agent Insights أو Egress في LiveKit. يتم توجيه صوت غرف المحادثة في الوقت الفعلي عبر وحدة SFU (Selective Forwarding Unit) من LiveKit، ولا يتم تسجيله أو تخزينه أو الاحتفاظ به من قِبل Jynx أو LiveKit.",
+        "p3": "تحتفظ LiveKit ببيانات وصفية تشغيلية للجلسة — مثل هويات المشاركين ومعرّفات الغرف وأوقات الاتصال ومقاييس الجودة — لأغراض الفوترة ومنع إساءة الاستخدام والتشغيل بموجب ملحق معالجة البيانات الخاص بها. لا تُستخدم هذه البيانات الوصفية للتعريف عليك خارج المنصة أو لأغراض إعلانية."
       }
     },
     "data_usage": {

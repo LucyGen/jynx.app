@@ -202,6 +202,13 @@
         "photos": "Foto yang diunggah (gambar profil, foto tambahan)",
         "reports": "Laporan keamanan dan moderasi",
         "cosmetics": "Preferensi kosmetik (avatar, badge)"
+      },
+      "voice": {
+        "title": "3.6. Data Audio Ruang Suara",
+        "p1": "Jynx menyediakan ruang suara real-time yang memungkinkan Anda berbicara dengan peserta lain saat bermain. Audio ruang suara baru ditangkap dari mikrofon Anda setelah Anda memberikan izin mikrofon sistem operasi dan secara eksplisit bergabung ke sebuah ruang; tidak ada audio yang ditangkap sebelum kedua langkah tersebut.",
+        "p2": "Jynx tidak mengaktifkan fitur perekaman, transkripsi, Agent Insights, atau Egress milik LiveKit. Audio ruang suara dirutekan secara real-time oleh SFU (Selective Forwarding Unit) LiveKit dan tidak direkam, disimpan, atau dipertahankan oleh Jynx maupun LiveKit.",
+        "p3": "Saat Anda berbicara di sebuah ruang suara, audio Anda ditransmisikan secara real-time kepada peserta lain di ruang tersebut, serupa dengan cara kerja suara di aplikasi obrolan suara lainnya.",
+        "p4": "Audio ruang suara diproses dengan persetujuan Anda: Anda memberikan izin mikrofon dan secara eksplisit bergabung ke ruang sebelum audio apa pun ditangkap. Anda dapat menarik persetujuan kapan saja dengan meninggalkan ruang atau mencabut izin mikrofon di pengaturan perangkat Anda."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (Suara Real-Time)",
+        "p1": "Jynx menggunakan LiveKit Cloud sebagai pemroses (GDPR Pasal 28; LGPD Pasal 39 — operador) berdasarkan Perjanjian Pemrosesan Data yang telah ditandatangani, untuk mengoperasikan infrastruktur media real-time yang merutekan audio ruang suara antar-peserta. LiveKit menjalankan SFU (Selective Forwarding Unit) yang meneruskan aliran audio setiap peserta kepada peserta lainnya secara real-time.",
+        "p2": "Jynx tidak mengaktifkan fitur perekaman, transkripsi, Agent Insights, atau Egress milik LiveKit. Audio ruang suara dirutekan secara real-time oleh SFU (Selective Forwarding Unit) LiveKit dan tidak direkam, disimpan, atau dipertahankan oleh Jynx maupun LiveKit.",
+        "p3": "LiveKit memang menyimpan metadata sesi operasional — seperti identitas peserta, pengidentifikasi ruang, waktu koneksi, dan metrik kualitas — untuk tujuan penagihan, pencegahan penyalahgunaan, dan operasional sesuai Addendum Pemrosesan Datanya. Metadata ini tidak digunakan untuk mengidentifikasi Anda di luar platform atau untuk periklanan."
       }
     },
     "data_usage": {

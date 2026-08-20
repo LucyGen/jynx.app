@@ -202,6 +202,13 @@
         "photos": "Ảnh đã tải lên (ảnh hồ sơ, ảnh bổ sung)",
         "reports": "Báo cáo bảo mật và kiểm duyệt",
         "cosmetics": "Sở thích thẩm mỹ (avatar, huy hiệu)"
+      },
+      "voice": {
+        "title": "3.6. Dữ liệu âm thanh của phòng thoại",
+        "p1": "Jynx cung cấp các phòng thoại theo thời gian thực cho phép bạn trò chuyện với những người tham gia khác trong khi chơi game. Âm thanh phòng thoại chỉ được thu từ micrô của bạn sau khi bạn cấp quyền micrô của hệ điều hành và tham gia rõ ràng vào một phòng; không có âm thanh nào được thu trước khi cả hai bước này hoàn tất.",
+        "p2": "Jynx không bật các tính năng ghi âm, chuyển ngữ, Agent Insights hay Egress của LiveKit. Âm thanh phòng thoại được định tuyến theo thời gian thực bởi SFU (Selective Forwarding Unit) của LiveKit và không được Jynx hay LiveKit ghi âm, lưu trữ hay duy trì.",
+        "p3": "Khi bạn nói trong một phòng thoại, âm thanh của bạn được truyền theo thời gian thực đến những người tham gia khác trong phòng đó, tương tự như cách giọng nói hoạt động trong các ứng dụng trò chuyện thoại khác.",
+        "p4": "Âm thanh phòng thoại được xử lý theo sự đồng ý của bạn: bạn cấp quyền micrô và tham gia rõ ràng vào một phòng trước khi bất kỳ âm thanh nào được thu. Bạn có thể rút lại sự đồng ý bất cứ lúc nào bằng cách rời phòng hoặc thu hồi quyền micrô trong cài đặt thiết bị của mình."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (thoại thời gian thực)",
+        "p1": "Jynx sử dụng LiveKit Cloud với tư cách đơn vị xử lý (GDPR Điều 28; LGPD Điều 39 — operador) theo một Thỏa thuận Xử lý Dữ liệu đã ký, để vận hành hạ tầng truyền thông thời gian thực định tuyến âm thanh phòng thoại giữa những người tham gia. LiveKit vận hành SFU (Selective Forwarding Unit) chuyển tiếp luồng âm thanh của mỗi người tham gia tới những người khác theo thời gian thực.",
+        "p2": "Jynx không bật các tính năng ghi âm, chuyển ngữ, Agent Insights hay Egress của LiveKit. Âm thanh phòng thoại được định tuyến theo thời gian thực bởi SFU (Selective Forwarding Unit) của LiveKit và không được Jynx hay LiveKit ghi âm, lưu trữ hay duy trì.",
+        "p3": "LiveKit có lưu giữ siêu dữ liệu phiên hoạt động — như danh tính người tham gia, mã nhận diện phòng, thời điểm kết nối và các chỉ số chất lượng — cho mục đích thanh toán, ngăn ngừa lạm dụng và vận hành theo Phụ lục Xử lý Dữ liệu của mình. Siêu dữ liệu này không được dùng để nhận dạng bạn ngoài nền tảng hay cho mục đích quảng cáo."
       }
     },
     "data_usage": {

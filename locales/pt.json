@@ -202,6 +202,13 @@
         "photos": "Fotos enviadas (imagens de perfil, fotos adicionais)",
         "reports": "Relatórios de segurança e moderação",
         "cosmetics": "Preferências cosméticas (avatares, emblemas)"
+      },
+      "voice": {
+        "title": "3.6. Dados de Áudio das Salas de Voz",
+        "p1": "O Jynx oferece salas de voz em tempo real que permitem conversar com os outros participantes enquanto você joga. O áudio da sala de voz é capturado do seu microfone somente após você conceder a permissão de microfone do sistema operacional e entrar explicitamente em uma sala; nenhum áudio é capturado antes de ambas essas etapas.",
+        "p2": "O Jynx não ativa os recursos de gravação, transcrição, Agent Insights ou Egress do LiveKit. O áudio das salas de voz é roteado em tempo real pelo SFU (Selective Forwarding Unit) do LiveKit e não é gravado, armazenado nem persistido pelo Jynx ou pelo LiveKit.",
+        "p3": "Quando você fala em uma sala de voz, o seu áudio é transmitido em tempo real aos outros participantes daquela sala, de forma semelhante ao funcionamento da voz em outros aplicativos de chat por voz.",
+        "p4": "O áudio das salas de voz é tratado com o seu consentimento: você concede a permissão de microfone e entra explicitamente em uma sala antes de qualquer captura de áudio. Você pode retirar o seu consentimento a qualquer momento saindo da sala ou revogando a permissão de microfone nas configurações do seu dispositivo."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (Voz em Tempo Real)",
+        "p1": "O Jynx utiliza o LiveKit Cloud como operador (GDPR Art. 28; LGPD Art. 39 — operador) por meio de um Acordo de Tratamento de Dados assinado, para operar a infraestrutura de mídia em tempo real que roteia o áudio das salas de voz entre os participantes. O LiveKit executa a SFU (Selective Forwarding Unit), que encaminha o fluxo de áudio de cada participante aos demais em tempo real.",
+        "p2": "O Jynx não ativa os recursos de gravação, transcrição, Agent Insights ou Egress do LiveKit. O áudio das salas de voz é roteado em tempo real pelo SFU (Selective Forwarding Unit) do LiveKit e não é gravado, armazenado nem persistido pelo Jynx ou pelo LiveKit.",
+        "p3": "O LiveKit retém metadados operacionais da sessão — como identidades dos participantes, identificadores de sala, horários de conexão e métricas de qualidade — para fins de faturamento, prevenção de abusos e operação, conforme o seu Aditivo de Tratamento de Dados. Esses metadados não são usados para identificá-lo fora da plataforma nem para publicidade."
       }
     },
     "data_usage": {

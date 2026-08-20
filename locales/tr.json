@@ -202,6 +202,13 @@
         "photos": "Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar)",
         "reports": "Güvenlik ve moderasyon raporları",
         "cosmetics": "Kozmetik tercihleri (avatarlar, rozetler)"
+      },
+      "voice": {
+        "title": "3.6. Sesli Oda Ses Verileri",
+        "p1": "Jynx, oyun oynarken diğer katılımcılarla konuşmanızı sağlayan gerçek zamanlı sesli odalar sunar. Sesli oda sesi, işletim sistemi mikrofon iznini vermeniz ve açıkça bir odaya katılmanızdan sonra mikrofonunuzdan yakalanır; bu iki adım tamamlanmadan önce hiçbir ses yakalanmaz.",
+        "p2": "Jynx, LiveKit'in kayıt, transkripsiyon, Agent Insights veya Egress özelliklerini etkinleştirmez. Sesli oda sesi, LiveKit'in SFU'su (Selective Forwarding Unit) üzerinden gerçek zamanlı olarak yönlendirilir ve Jynx veya LiveKit tarafından kaydedilmez, saklanmaz veya muhafaza edilmez.",
+        "p3": "Bir sesli odada konuştuğunuzda, sesiniz o odadaki diğer katılımcılara gerçek zamanlı olarak iletilir; bu, diğer sesli sohbet uygulamalarındaki sesin çalışma şekline benzer.",
+        "p4": "Sesli oda sesi onayınızla işlenir: herhangi bir ses yakalanmadan önce mikrofon izni verir ve açıkça bir odaya katılırsınız. Odayı terk ederek veya cihaz ayarlarından mikrofon iznini iptal ederek onayınızı her zaman geri alabilirsiniz."
       }
     },
     "third_party": {
@@ -252,6 +259,12 @@
         "transfer_label": "International transfer basis:",
         "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
         "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+      },
+      "livekit": {
+        "title": "4.5. LiveKit Cloud (Gerçek Zamanlı Ses)",
+        "p1": "Jynx, katılımcılar arasında sesli oda sesini yönlendiren gerçek zamanlı medya altyapısını işletmek için imzalı bir Veri İşleme Sözleşmesi kapsamında veri işleyici (GDPR Md. 28; LGPD Md. 39 — operador) olarak LiveKit Cloud'u kullanır. LiveKit, her katılımcının ses akışını diğerlerine gerçek zamanlı olarak ileten SFU'yu (Selective Forwarding Unit) işletir.",
+        "p2": "Jynx, LiveKit'in kayıt, transkripsiyon, Agent Insights veya Egress özelliklerini etkinleştirmez. Sesli oda sesi, LiveKit'in SFU'su (Selective Forwarding Unit) üzerinden gerçek zamanlı olarak yönlendirilir ve Jynx veya LiveKit tarafından kaydedilmez, saklanmaz veya muhafaza edilmez.",
+        "p3": "LiveKit, faturalandırma, kötüye kullanımın önlenmesi ve operasyonel amaçlarla, Veri İşleme Ek Sözleşmesi uyarınca katılımcı kimlikleri, oda tanımlayıcıları, bağlantı zamanları ve kalite metrikleri gibi operasyonel oturum meta verilerini saklar. Bu meta veriler, sizi platform dışında tanımlamak veya reklam amacıyla kullanılmaz."
       }
     },
     "data_usage": {
