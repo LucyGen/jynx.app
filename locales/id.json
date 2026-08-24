@@ -182,7 +182,8 @@
         "title": "Informasi Perangkat:",
         "type": "Jenis dan model perangkat",
         "os": "Versi sistem operasi",
-        "app_version": "Versi aplikasi"
+        "app_version": "Versi aplikasi",
+        "identifiers": "Pengidentifikasi perangkat dan sinyal integritas perangkat (lihat §5.7)"
       },
       "behavior": {
         "title": "Perilaku Pengguna:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Keamanan Komunitas dan Upaya Menghindari Larangan",
+        "p1": "Untuk membantu melindungi komunitas kami dari penyalahgunaan, kami menggunakan pengidentifikasi perangkat dan sinyal integritas perangkat untuk mendeteksi dan mencegah upaya menghindari penangguhan atau larangan. Jika kami mengaitkan suatu perangkat dengan akun yang dilarang, perangkat tersebut dapat dicegah membuat akun baru atau masuk. Jika Anda merasa hal ini terjadi karena kesalahan, Anda dapat mengajukan banding dengan menghubungi support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Eksploitasi kerentanan keamanan untuk tujuan berbahaya"
         }
       },
+      "device_enforcement": "Untuk melindungi komunitas dari penyalahgunaan, penegakan juga dapat berlaku di tingkat perangkat: perangkat yang dikaitkan dengan akun yang dilarang dapat dicegah membuat akun baru atau masuk. Jika Anda merasa hal ini diterapkan secara keliru, Anda dapat mengajukan banding melalui proses yang dijelaskan dalam Bagian 7 ini.",
       "effect": {
         "title": "7.2. Efek Penghentian",
         "intro": "Setelah penghentian akun:",

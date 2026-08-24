@@ -182,7 +182,8 @@
         "title": "Thông Tin Thiết Bị:",
         "type": "Loại và model thiết bị",
         "os": "Phiên bản hệ điều hành",
-        "app_version": "Phiên bản ứng dụng"
+        "app_version": "Phiên bản ứng dụng",
+        "identifiers": "Định danh thiết bị và tín hiệu toàn vẹn thiết bị (xem §5.7)"
       },
       "behavior": {
         "title": "Hành Vi Người Dùng:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. An toàn cộng đồng và trốn tránh lệnh cấm",
+        "p1": "Để giúp bảo vệ cộng đồng của chúng tôi khỏi hành vi lạm dụng, chúng tôi sử dụng định danh thiết bị và tín hiệu toàn vẹn thiết bị để phát hiện và ngăn chặn các cố gắng lách lệnh tạm ngừng hoặc cấm. Nếu chúng tôi liên kết một thiết bị với tài khoản bị cấm, thiết bị đó có thể bị ngăn tạo tài khoản mới hoặc đăng nhập. Nếu bạn cho rằng điều này xảy ra do nhầm lẫn, bạn có thể khiếu nại bằng cách liên hệ support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Khai thác lỗ hổng bảo mật cho mục đích ác ý"
         }
       },
+      "device_enforcement": "Để bảo vệ cộng đồng khỏi hành vi lạm dụng, các biện pháp thực thi cũng có thể được áp dụng ở cấp thiết bị: thiết bị được liên kết với tài khoản bị cấm có thể bị ngăn tạo tài khoản mới hoặc đăng nhập. Nếu bạn cho rằng điều này được áp dụng nhầm lẫn, bạn có thể khiếu nại theo quy trình nêu trong Mục 7 này.",
       "effect": {
         "title": "7.2. Hiệu Lực Của Chấm Dứt",
         "intro": "Khi chấm dứt tài khoản:",

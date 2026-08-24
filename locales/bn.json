@@ -182,7 +182,8 @@
         "title": "ডিভাইস তথ্য:",
         "type": "ডিভাইসের ধরন এবং মডেল",
         "os": "অপারেটিং সিস্টেম সংস্করণ",
-        "app_version": "অ্যাপ্লিকেশন সংস্করণ"
+        "app_version": "অ্যাপ্লিকেশন সংস্করণ",
+        "identifiers": "ডিভাইস শনাক্তকারী এবং ডিভাইস-অখণ্ডতা সংকেত (§5.7 দেখুন)"
       },
       "behavior": {
         "title": "ব্যবহারকারীর আচরণ:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. কমিউনিটি নিরাপত্তা ও নিষেধাজ্ঞা এড়ানো",
+        "p1": "আমাদের কমিউনিটিকে অপব্যবহার থেকে রক্ষায় সহায়তা করতে, সাসপেনশন বা নিষেধাজ্ঞা এড়ানোর চেষ্টা শনাক্ত ও প্রতিরোধ করতে আমরা ডিভাইস শনাক্তকারী এবং ডিভাইস-অখণ্ডতা সংকেত ব্যবহার করি। আমরা কোনো ডিভাইসকে নিষিদ্ধ অ্যাকাউন্টের সাথে যুক্ত করলে, সেই ডিভাইসটিকে নতুন অ্যাকাউন্ট তৈরি বা সাইন ইন করা থেকে বিরত রাখা হতে পারে। আপনি মনে করলে এটি ভুলবশত ঘটেছে, তাহলে support@jynx.app-এ যোগাযোগ করে আপিল করতে পারেন।"
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "দূষিত উদ্দেশ্যে নিরাপত্তা দুর্বলতার শোষণ"
         }
       },
+      "device_enforcement": "কমিউনিটিকে অপব্যবহার থেকে রক্ষা করতে, প্রয়োগের ব্যবস্থা ডিভাইসের স্তরেও প্রযোজ্য হতে পারে: নিষিদ্ধ অ্যাকাউন্টের সাথে যুক্ত ডিভাইসটিকে নতুন অ্যাকাউন্ট তৈরি বা সাইন ইন করা থেকে বিরত রাখা হতে পারে। আপনি মনে করলে এটি ভুলভাবে প্রয়োগ করা হয়েছে, তাহলে এই ধারা ৭-এ বর্ণিত প্রক্রিয়ার মাধ্যমে আপিল করতে পারেন।",
       "effect": {
         "title": "৭.২. সমাপ্তির প্রভাব",
         "intro": "অ্যাকাউন্ট সমাপ্তির পরে:",

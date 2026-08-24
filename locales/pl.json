@@ -182,7 +182,8 @@
         "title": "Informacje o Urządzeniu:",
         "type": "Typ i model urządzenia",
         "os": "Wersja systemu operacyjnego",
-        "app_version": "Wersja aplikacji"
+        "app_version": "Wersja aplikacji",
+        "identifiers": "Identyfikatory urządzenia i sygnały integralności urządzenia (patrz §5.7)"
       },
       "behavior": {
         "title": "Zachowanie Użytkownika:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Bezpieczeństwo społeczności i omijanie banów",
+        "p1": "Aby chronić naszą społeczność przed nadużyciami, używamy identyfikatorów urządzenia i sygnałów integralności urządzenia do wykrywania i zapobiegania próbom obejścia zawieszenia lub bana. Jeśli powiążemy urządzenie z zablokowanym kontem, urządzenie to może zostać pozbawione możliwości tworzenia nowych kont lub logowania się. Jeśli uważasz, że stało się to omyłkowo, możesz odwołać się, kontaktując się z support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Wykorzystywanie luk w zabezpieczeniach do złośliwych celów"
         }
       },
+      "device_enforcement": "Aby chronić społeczność przed nadużyciami, egzekwowanie zasad może mieć również miejsce na poziomie urządzenia: urządzenie powiązane z zablokowanym kontem może zostać pozbawione możliwości tworzenia nowych kont lub logowania się. Jeśli uważasz, że zastosowano to omyłkowo, możesz odwołać się w trybie opisanym w niniejszej Sekcji 7.",
       "effect": {
         "title": "7.2. Skutek Zakończenia",
         "intro": "Po zakończeniu konta:",

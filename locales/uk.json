@@ -182,7 +182,8 @@
         "title": "Інформація Про Пристрій:",
         "type": "Тип та модель пристрою",
         "os": "Версія операційної системи",
-        "app_version": "Версія додатка"
+        "app_version": "Версія додатка",
+        "identifiers": "Ідентифікатори пристрою та сигнали цілісності пристрою (див. §5.7)"
       },
       "behavior": {
         "title": "Поведінка Користувача:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Безпека спільноти та обхід блокування",
+        "p1": "Щоб захистити нашу спільноту від зловживань, ми використовуємо ідентифікатори пристрою та сигнали цілісності пристрою для виявлення та запобігання спробам обійти призупинення або блокування облікового запису. Якщо ми пов'язуємо пристрій із заблокованим обліковим записом, цей пристрій може бути обмежений у створенні нових облікових записів або вході в них. Якщо ви вважаєте, що це сталося помилково, ви можете подати апеляцію, звернувшись до support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Експлуатація вразливостей безпеки для зловмисних цілей"
         }
       },
+      "device_enforcement": "Для захисту спільноти від зловживань заходи забезпечення виконання можуть застосовуватися також на рівні пристрою: пристрій, пов'язаний із заблокованим обліковим записом, може бути обмежений у створенні нових облікових записів або вході в них. Якщо ви вважаєте, що це застосовано помилково, ви можете подати апеляцію в порядку, передбаченому цим Розділом 7.",
       "effect": {
         "title": "7.2. Наслідки Припинення",
         "intro": "При припиненні облікового запису:",

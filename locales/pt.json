@@ -182,7 +182,8 @@
         "title": "Informações do Dispositivo:",
         "type": "Tipo e modelo de dispositivo",
         "os": "Versão do sistema operacional",
-        "app_version": "Versão do aplicativo"
+        "app_version": "Versão do aplicativo",
+        "identifiers": "Identificadores do dispositivo e sinais de integridade do dispositivo (ver §5.7)"
       },
       "behavior": {
         "title": "Comportamento do Usuário:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Segurança da comunidade e evasão de banimento",
+        "p1": "Para ajudar a proteger nossa comunidade contra abusos, utilizamos identificadores do dispositivo e sinais de integridade do dispositivo para detectar e impedir tentativas de contornar uma suspensão ou banimento. Se associarmos um dispositivo a uma conta banida, esse dispositivo poderá ser impedido de criar novas contas ou fazer login. Se você acredita que isso ocorreu por engano, pode recorrer entrando em contato com support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Exploração de vulnerabilidades de segurança para propósitos maliciosos"
         }
       },
+      "device_enforcement": "Para proteger a comunidade contra abusos, as medidas de aplicação também podem ser aplicadas em nível de dispositivo: um dispositivo associado a uma conta banida poderá ser impedido de criar novas contas ou fazer login. Se você acredita que isso foi aplicado por engano, pode recorrer por meio do processo descrito nesta Seção 7.",
       "effect": {
         "title": "7.2. Efeito do Encerramento",
         "intro": "Ao encerrar a conta:",

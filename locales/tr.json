@@ -182,7 +182,8 @@
         "title": "Cihaz Bilgileri:",
         "type": "Cihaz türü ve modeli",
         "os": "İşletim sistemi sürümü",
-        "app_version": "Uygulama sürümü"
+        "app_version": "Uygulama sürümü",
+        "identifiers": "Cihaz tanımlayıcıları ve cihaz bütünlüğü sinyalleri (bkz. §5.7)"
       },
       "behavior": {
         "title": "Kullanıcı Davranışı:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Topluluk Güvenliği ve Yasak Aşma",
+        "p1": "Topluluğumuzu kötüye kullanımdan korumaya yardımcı olmak için, bir askıya alma veya yasağı atlatma girişimlerini tespit etmek ve önlemek amacıyla cihaz tanımlayıcılarını ve cihaz bütünlüğü sinyallerini kullanırız. Bir cihazı yasaklı bir hesapla ilişkilendirirsek, o cihazın yeni hesap oluşturması veya oturum açması engellenebilir. Bunun hatadan kaynaklandığını düşünüyorsanız support@jynx.app adresine başvurarak itiraz edebilirsiniz."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Kötü amaçlı maksatlar için güvenlik açıklarını istismar etme"
         }
       },
+      "device_enforcement": "Topluluğu kötüye kullanımdan korumak için yaptırımlar cihaz düzeyinde de uygulanabilir: yasaklı bir hesapla ilişkilendirilen bir cihazın yeni hesap oluşturması veya oturum açması engellenebilir. Bunun hatalı uygulandığını düşünüyorsanız, bu Madde 7'de açıklanan süreç üzerinden itiraz edebilirsiniz.",
       "effect": {
         "title": "7.2. Sonlandırmanın Etkisi",
         "intro": "Hesap sonlandırması üzerine:",

@@ -182,7 +182,8 @@
         "title": "معلومات الجهاز:",
         "type": "نوع الجهاز والطراز",
         "os": "إصدار نظام التشغيل",
-        "app_version": "إصدار التطبيق"
+        "app_version": "إصدار التطبيق",
+        "identifiers": "معرّفات الجهاز وإشارات سلامة الجهاز (انظر §5.7)"
       },
       "behavior": {
         "title": "سلوك المستخدم:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. سلامة المجتمع والتحايل على الحظر",
+        "p1": "للمساعدة في حماية مجتمعنا من الإساءة، نستخدم معرّفات الجهاز وإشارات سلامة الجهاز لاكتشاف محاولات التحايل على الإيقاف أو الحظر ومنعها. إذا ربطنا جهازًا بحساب محظور، فقد يُمنع هذا الجهاز من إنشاء حسابات جديدة أو تسجيل الدخول. إذا كنت تعتقد أن ذلك حدث بالخطأ، فيمكنك تقديم استئناف بالتواصل مع support@jynx.app."
       }
     },
     "retention": {
@@ -828,6 +833,7 @@
           "li5": "استغلال ثغرات الأمان لأغراض خبيثة"
         }
       },
+      "device_enforcement": "لحماية المجتمع من الإساءة، قد تُطبَّق إجراءات الإنفاذ أيضًا على مستوى الجهاز: فقد يُمنع الجهاز المرتبط بحساب محظور من إنشاء حسابات جديدة أو تسجيل الدخول. إذا كنت تعتقد أن ذلك طُبِّق بالخطأ، فيمكنك الاستئناف من خلال الإجراء الموضح في هذا القسم 7.",
       "effect": {
         "title": "7.2. أثر الإنهاء",
         "intro": "عند إنهاء الحساب:",

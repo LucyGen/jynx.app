@@ -182,7 +182,8 @@
         "title": "Informations de l'Appareil :",
         "type": "Type et modèle d'appareil",
         "os": "Version du système d'exploitation",
-        "app_version": "Version de l'application"
+        "app_version": "Version de l'application",
+        "identifiers": "Identifiants d'appareil et signaux d'intégrité de l'appareil (voir §5.7)"
       },
       "behavior": {
         "title": "Comportement Utilisateur :",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Sécurité de la communauté et contournement de bannissement",
+        "p1": "Afin de protéger notre communauté contre les abus, nous utilisons des identifiants d'appareil et des signaux d'intégrité de l'appareil pour détecter et empêcher les tentatives de contournement d'une suspension ou d'un bannissement. Si nous associons un appareil à un compte banni, cet appareil peut être empêché de créer de nouveaux comptes ou de se connecter. Si vous pensez qu'une erreur a été commise, vous pouvez faire appel en contactant support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Exploitation de vulnérabilités de sécurité à des fins malveillantes"
         }
       },
+      "device_enforcement": "Afin de protéger la communauté contre les abus, les mesures d'application peuvent également s'appliquer au niveau de l'appareil : un appareil associé à un compte banni peut être empêché de créer de nouveaux comptes ou de se connecter. Si vous pensez que cette mesure a été appliquée par erreur, vous pouvez faire appel via la procédure décrite dans la présente Section 7.",
       "effect": {
         "title": "7.2. Effet de la Résiliation",
         "intro": "Lors de la résiliation du compte :",

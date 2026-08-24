@@ -182,7 +182,8 @@
         "title": "Информация об устройстве:",
         "type": "Тип и модель устройства",
         "os": "Версия операционной системы",
-        "app_version": "Версия приложения"
+        "app_version": "Версия приложения",
+        "identifiers": "Идентификаторы устройства и сигналы целостности устройства (см. §5.7)"
       },
       "behavior": {
         "title": "Поведение пользователя:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Безопасность сообщества и обход блокировки",
+        "p1": "Чтобы защитить наше сообщество от злоупотреблений, мы используем идентификаторы устройства и сигналы целостности устройства для выявления и предотвращения попыток обойти приостановку или блокировку аккаунта. Если мы связываем устройство с заблокированным аккаунтом, это устройство может быть ограничено в создании новых аккаунтов или входе в них. Если вы считаете, что это произошло по ошибке, вы можете подать апелляцию, обратившись в support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Эксплуатация уязвимостей безопасности в злонамеренных целях"
         }
       },
+      "device_enforcement": "Для защиты сообщества от злоупотреблений меры принудительного применения могут действовать и на уровне устройства: устройство, связанное с заблокированным аккаунтом, может быть ограничено в создании новых аккаунтов или входе в них. Если вы считаете, что это применено по ошибке, вы можете подать апелляцию в порядке, предусмотренном настоящим Разделом 7.",
       "effect": {
         "title": "7.2. Последствия прекращения",
         "intro": "При прекращении учетной записи:",

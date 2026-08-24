@@ -182,7 +182,8 @@
         "title": "Información del Dispositivo:",
         "type": "Tipo y modelo de dispositivo",
         "os": "Versión del sistema operativo",
-        "app_version": "Versión de la aplicación"
+        "app_version": "Versión de la aplicación",
+        "identifiers": "Identificadores del dispositivo y señales de integridad del dispositivo (ver §5.7)"
       },
       "behavior": {
         "title": "Comportamiento del Usuario:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Seguridad de la comunidad y evasión de sanciones",
+        "p1": "Para ayudar a proteger a nuestra comunidad del abuso, utilizamos identificadores del dispositivo y señales de integridad del dispositivo para detectar y prevenir intentos de eludir una suspensión o un ban. Si asociamos un dispositivo con una cuenta baneada, ese dispositivo puede verse impedido de crear nuevas cuentas o iniciar sesión. Si cree que esto ha ocurrido por error, puede apelarlo contactando a support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Explotación de vulnerabilidades de seguridad con propósitos maliciosos"
         }
       },
+      "device_enforcement": "Para proteger a la comunidad del abuso, las medidas de aplicación también pueden aplicarse a nivel del dispositivo: un dispositivo asociado con una cuenta baneada puede verse impedido de crear nuevas cuentas o iniciar sesión. Si cree que esto se aplicó por error, puede apelar mediante el proceso descrito en esta Sección 7.",
       "effect": {
         "title": "7.2. Efecto de la Terminación",
         "intro": "Al terminar la cuenta:",

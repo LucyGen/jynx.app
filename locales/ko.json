@@ -182,7 +182,8 @@
         "title": "장치 정보:",
         "type": "장치 유형 및 모델",
         "os": "운영 체제 버전",
-        "app_version": "애플리케이션 버전"
+        "app_version": "애플리케이션 버전",
+        "identifiers": "기기 식별자 및 기기 무결성 신호(§5.7 참조)"
       },
       "behavior": {
         "title": "사용자 행동:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. 커뮤니티 안전 및 차단 회피",
+        "p1": "커뮤니티를 남용으로부터 보호하기 위해 당사는 기기 식별자와 기기 무결성 신호를 사용하여 정지 또는 차단을 우회하려는 시도를 탐지하고 차단합니다. 당사가 기기를 차단된 계정과 연관 지으면 해당 기기는 새 계정을 만들거나 로그인하지 못하도록 제한될 수 있습니다. 이것이 오류로 발생했다고 생각되시면 support@jynx.app으로 연락하여 이의를 제기할 수 있습니다."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "악의적인 목적으로 보안 취약점 악용"
         }
       },
+      "device_enforcement": "커뮤니티를 남용으로부터 보호하기 위해 제재는 기기 수준에서도 적용될 수 있습니다. 차단된 계정과 연관된 기기는 새 계정을 만들거나 로그인하지 못하도록 제한될 수 있습니다. 이것이 오류로 적용되었다고 생각되시면 이 섹션 7에 설명된 절차에 따라 이의를 제기할 수 있습니다.",
       "effect": {
         "title": "7.2. 종료의 효과",
         "intro": "계정 종료 시:",

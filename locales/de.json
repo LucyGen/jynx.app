@@ -182,7 +182,8 @@
         "title": "Geräteinformationen:",
         "type": "Gerätetyp und Modell",
         "os": "Betriebssystemversion",
-        "app_version": "Anwendungsversion"
+        "app_version": "Anwendungsversion",
+        "identifiers": "Gerätekennungen und Signale zur Geräteintegrität (siehe §5.7)"
       },
       "behavior": {
         "title": "Nutzerverhalten:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Community-Sicherheit und Umgehung von Sperren",
+        "p1": "Um unsere Community vor Missbrauch zu schützen, verwenden wir Gerätekennungen und Signale zur Geräteintegrität, um Versuche zu erkennen und zu verhindern, eine Suspendierung oder einen Ausschluss zu umgehen. Wenn wir ein Gerät einem ausgeschlossenen Konto zuordnen, kann dieses Gerät daran gehindert werden, neue Konten zu erstellen oder sich anzumelden. Wenn Sie der Meinung sind, dass dies zu Unrecht geschehen ist, können Sie Widerspruch einlegen, indem Sie sich an support@jynx.app wenden."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Ausnutzung von Sicherheitsschwachstellen für böswillige Zwecke"
         }
       },
+      "device_enforcement": "Zum Schutz der Community vor Missbrauch können Durchsetzungsmaßnahmen auch auf Geräteebene gelten: Ein Gerät, das einem ausgeschlossenen Konto zugeordnet ist, kann daran gehindert werden, neue Konten zu erstellen oder sich anzumelden. Wenn Sie der Meinung sind, dass dies zu Unrecht erfolgt ist, können Sie über das in diesem Abschnitt 7 beschriebene Verfahren Widerspruch einlegen.",
       "effect": {
         "title": "7.2. Auswirkung der Kündigung",
         "intro": "Bei Kontokündigung:",

@@ -182,7 +182,8 @@
         "title": "Device Information:",
         "type": "Device type and model",
         "os": "Operating system version",
-        "app_version": "Application version"
+        "app_version": "Application version",
+        "identifiers": "Device identifiers and device-integrity signals (see §5.7)"
       },
       "behavior": {
         "title": "User Behavior:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Community Safety and Ban Evasion",
+        "p1": "To help protect our community from abuse, we use device identifiers and device-integrity signals to detect and prevent attempts to circumvent a suspension or ban. If we associate a device with a banned account, that device may be prevented from creating new accounts or signing in. If you believe this has happened in error, you can appeal by contacting support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Exploitation of security vulnerabilities for malicious purposes"
         }
       },
+      "device_enforcement": "To protect the community from abuse, enforcement may also apply at the device level: a device associated with a banned account may be prevented from creating new accounts or signing in. If you believe this was applied in error, you may appeal through the process in this Section 7.",
       "effect": {
         "title": "7.2. Effect of Termination",
         "intro": "Upon account termination:",

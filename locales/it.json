@@ -182,7 +182,8 @@
         "title": "Informazioni del Dispositivo:",
         "type": "Tipo e modello di dispositivo",
         "os": "Versione del sistema operativo",
-        "app_version": "Versione dell'applicazione"
+        "app_version": "Versione dell'applicazione",
+        "identifiers": "Identificatori del dispositivo e segnali di integrità del dispositivo (vedi §5.7)"
       },
       "behavior": {
         "title": "Comportamento Utente:",
@@ -317,6 +318,10 @@
         "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
         "frequency_title": "Frequency.",
         "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+      },
+      "ban_evasion": {
+        "title": "5.7. Sicurezza della community ed evasione dei divieti",
+        "p1": "Per contribuire a proteggere la nostra community dagli abusi, utilizziamo identificatori del dispositivo e segnali di integrità del dispositivo per rilevare e prevenire i tentativi di eludere una sospensione o un ban. Se associamo un dispositivo a un account bannato, tale dispositivo può essere impedito di creare nuovi account o di accedere. Se ritieni che ciò sia avvenuto per errore, puoi presentare un ricorso contattando support@jynx.app."
       }
     },
     "retention": {
@@ -840,6 +845,7 @@
           "li5": "Sfruttamento di vulnerabilità di sicurezza per scopi malevoli"
         }
       },
+      "device_enforcement": "Per proteggere la community dagli abusi, le misure di applicazione possono essere estese anche a livello di dispositivo: un dispositivo associato a un account bannato può essere impedito di creare nuovi account o di accedere. Se ritieni che ciò sia stato applicato per errore, puoi presentare ricorso tramite il procedimento descritto nella presente Sezione 7.",
       "effect": {
         "title": "7.2. Effetto della Terminazione",
         "intro": "Alla terminazione dell'account:",
