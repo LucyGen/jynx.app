@@ -98,7 +98,7 @@
       "twitter_image_alt": "Política de Privacidade"
     },
     "title": "Política de Privacidade",
-    "last_updated": "Última atualização: Outubro 2025",
+    "last_updated": "Última atualização: Setembro 2026",
     "version": "Versão: 1.0",
     "intro": {
       "title": "1. Introdução",
@@ -200,7 +200,7 @@
       },
       "user_content": {
         "title": "3.5. Conteúdo Gerado pelo Usuário",
-        "photos": "Fotos enviadas (imagens de perfil, fotos adicionais)",
+        "photos": "Fotos enviadas (fotos de perfil, fotos adicionais) e imagens compartilhadas em mensagens diretas",
         "reports": "Relatórios de segurança e moderação",
         "cosmetics": "Preferências cosméticas (avatares, emblemas)"
       },
@@ -266,6 +266,14 @@
         "p1": "O Jynx utiliza o LiveKit Cloud como operador (GDPR Art. 28; LGPD Art. 39 — operador) por meio de um Acordo de Tratamento de Dados assinado, para operar a infraestrutura de mídia em tempo real que roteia o áudio das salas de voz entre os participantes. O LiveKit executa a SFU (Selective Forwarding Unit), que encaminha o fluxo de áudio de cada participante aos demais em tempo real.",
         "p2": "O Jynx não ativa os recursos de gravação, transcrição, Agent Insights ou Egress do LiveKit. O áudio das salas de voz é roteado em tempo real pelo SFU (Selective Forwarding Unit) do LiveKit e não é gravado, armazenado nem persistido pelo Jynx ou pelo LiveKit.",
         "p3": "O LiveKit retém metadados operacionais da sessão — como identidades dos participantes, identificadores de sala, horários de conexão e métricas de qualidade — para fins de faturamento, prevenção de abusos e operação, conforme o seu Aditivo de Tratamento de Dados. Esses metadados não são usados para identificá-lo fora da plataforma nem para publicidade."
+      },
+      "child_safety": {
+        "title": "4.7. Provedores Especializados de Tecnologia de Proteção Infantil",
+        "p1": "Para ajudar a detectar material conhecido de abuso sexual infantil (ver §5.8), a Jynx trabalha com provedores especializados em tecnologia de proteção infantil que atuam como operadores (GDPR Art. 28; LGPD Art. 39 — operador). Esses provedores recebem apenas hashes irreversíveis derivados das imagens — nunca as imagens em si — e realizam a correspondência de hashes na região da UE, exclusivamente para a detecção voltada à proteção infantil, conforme as instruções documentadas da Jynx. A derivação do hash a partir da imagem acontece dentro da própria infraestrutura da Jynx no Google Cloud (ver §9)."
+      },
+      "image_moderation": {
+        "title": "4.8. Provedor de Moderação de Imagens em Nuvem (AWS)",
+        "p1": "Para manter a plataforma segura, fotos de perfil e fotos da galeria são triadas por um serviço automatizado de classificação de imagens — o Amazon Rekognition, fornecido pela Amazon Web Services (AWS), atuando como operador (GDPR Art. 28; LGPD Art. 39 — operador). Para essa finalidade, a imagem é transmitida à AWS e analisada por aprendizado de máquina em busca de conteúdo inadequado (por exemplo, nudez ou material explícito); o resultado é um rótulo gerado por máquina com um grau de confiança, tratado pelo nosso processo de moderação (ver a Política de Proteção Infantil). Esse processamento é usado exclusivamente para moderação de conteúdo e segurança — nunca para criação de perfis, publicidade ou qualquer outra finalidade. A AWS processa esses dados na região da AWS configurada para o serviço (atualmente São Paulo, Brasil); as salvaguardas de transferência do §9 aplicam-se. Como no restante do Serviço, a imagem é tratada pela própria infraestrutura da Jynx no Google Cloud antes de ser encaminhada à AWS (ver §9)."
       }
     },
     "data_usage": {
@@ -322,6 +330,10 @@
       "ban_evasion": {
         "title": "5.7. Segurança da comunidade e evasão de banimento",
         "p1": "Para ajudar a proteger nossa comunidade contra abusos, utilizamos identificadores do dispositivo e sinais de integridade do dispositivo para detectar e impedir tentativas de contornar uma suspensão ou banimento. Se associarmos um dispositivo a uma conta banida, esse dispositivo poderá ser impedido de criar novas contas ou fazer login. Se você acredita que isso ocorreu por engano, pode recorrer entrando em contato com support@jynx.app."
+      },
+      "child_safety": {
+        "title": "5.8. Análise de Imagens para Proteção Infantil",
+        "p1": "Para ajudar a proteger crianças e cumprir nossos deveres legais de denúncia, a Jynx utiliza sistemas automatizados para analisar as imagens compartilhadas em mensagens diretas, comparando hashes derivados dessas imagens com bancos de dados de material conhecido de abuso sexual infantil. Para essa análise, as imagens em si não são transmitidas a terceiros — apenas hashes irreversíveis o são (ver §4.7). As fotos de perfil são triadas separadamente, pelo processamento de moderação de imagens descrito no §4.8. Essa análise existe exclusivamente para a detecção voltada à proteção infantil e para nossos deveres legais de denúncia; ela não é usada para criação de perfis, publicidade ou qualquer outra finalidade. As correspondências são tratadas conforme descrito em nossa <a href=\"/child-safety.html\">Política de Proteção Infantil</a>."
       }
     },
     "retention": {
@@ -433,7 +445,7 @@
       "title": "9. Transferências Internacionais de Dados",
       "p1": "Seus dados podem ser transferidos e armazenados em servidores localizados fora da União Europeia, incluindo:",
       "google_label": "Google Cloud / Firebase:",
-      "google": "Usa infraestrutura global com conformidade GDPR",
+      "google": "Infraestrutura global (incluindo o Google Analytics no site, ver §10), sob cláusulas contratuais padrão do GDPR e salvaguardas equivalentes",
       "sentry_label": "Sentry:",
       "sentry": "Servidores baseados nos EUA com conformidade Privacy Shield",
       "esp_label": "Email Service Provider (ESP):",
@@ -446,7 +458,13 @@
       "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
       "br_esp_label": "To Brevo in France (email ESP, processor):",
       "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
-      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding."
+      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.",
+      "aws_label": "Amazon Web Services (moderação de imagens):",
+      "aws": "O processamento de moderação de imagens descrito no §4.8 é executado na região de São Paulo da AWS (Brasil); as transferências da UE/EEE apoiam-se no contrato de processamento de dados da AWS, que incorpora as cláusulas contratuais padrão da Comissão Europeia, junto com as garantias gerais abaixo. A imagem é encaminhada à AWS por meio da infraestrutura da Jynx no Google Cloud (perna Google Cloud / Firebase acima)",
+      "br_csam_label": "Para provedores de tecnologia de proteção infantil na UE (correspondência de hashes, operadores):",
+      "br_csam": "Coberto pela mesma decisão de adequação da UE da Resolução CD/ANPD nº 32/2026 citada nas pernas acima — os provedores recebem apenas hashes irreversíveis e realizam a correspondência na região da UE (§4.7)",
+      "br_aws_label": "Para a AWS no Brasil (moderação de imagens, operador):",
+      "br_aws": "O trecho da AWS Rekognition permanece no país — é executado na região de São Paulo da AWS (§4.8). A imagem é primeiro transmitida pela infraestrutura da Jynx no Google Cloud, coberta pelos termos gerais de transferência do Google Cloud / Firebase acima"
     },
     "cookies": {
       "title": "10. Cookies e Tecnologias Similares",
@@ -454,7 +472,8 @@
       "tokens_label": "Tokens de Autenticação:",
       "tokens": "Armazenados localmente de forma segura",
       "cache_label": "Cache Local:",
-      "cache": "Para melhorar desempenho (dados de perfil, mensagens recentes)"
+      "cache": "Para melhorar desempenho (dados de perfil, mensagens recentes)",
+      "website": "<strong>Site.</strong> O site da Jynx (jynx.app) utiliza o Google Analytics 4 (fornecido pelo Google) com o Consent Mode v2 para entender como o site é usado. O armazenamento de analytics é negado por padrão: até você aceitar o banner de cookies, o Google Analytics funciona sem cookies ou armazenamento local, e o Google recebe apenas sinais sem cookies e sem identificadores; se você aceitar, a medição completa é ativada. Sua escolha — aceitar ou recusar — fica armazenada localmente no seu dispositivo (localStorage do navegador, chave \"jynx-analytics-consent\"). Limpar o armazenamento do navegador para o jynx.app faz o banner aparecer novamente, para que você possa alterar sua escolha. O Google atua como destinatário dos dados de analytics resultantes (ver §9); consulte o §4 para os demais operadores e o §7 para seus direitos."
     },
     "changes": {
       "title": "11. Mudanças nesta Política",
@@ -485,7 +504,8 @@
       "specific_label": "Consent must be specific and informed.",
       "specific": "Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.",
       "withdrawal_label": "Withdrawal.",
-      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent."
+      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.",
+      "safety": "Obrigação legal e interesses legítimos (GDPR Art. 6(1)(c) e 6(1)(f); LGPD Art. 7, II e IX) — detecção de conteúdo ilegal e violador de políticas, incluindo a análise de imagens para proteção infantil descrita no §5.8 e o processamento de moderação de imagens do §4.8, prevenção a abusos e evasão de banimento (§5.7) e cumprimento de deveres legais de denúncia. Para a análise de imagens compartilhadas em mensagens diretas, a Jynx também se apoia na detecção voluntária de abuso sexual infantil on-line permitida pelo Regulamento (UE) 2021/1232 (derrogação ao ePrivacy, vigente conforme aplicável)."
     }
   },
   "terms": {
