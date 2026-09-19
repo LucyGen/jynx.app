@@ -473,7 +473,8 @@
       "tokens": "Przechowywane lokalnie w bezpieczny sposób",
       "cache_label": "Lokalną Pamięć Podręczną:",
       "cache": "Aby poprawić wydajność (dane profilowe, ostatnie wiadomości)",
-      "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights."
+      "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
+      "invite_clipboard": "<strong>Invitation links.</strong> When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation."
     },
     "changes": {
       "title": "11. Zmiany w Tej Polityce",
@@ -1786,7 +1787,8 @@
       "title": "Don't have the app yet?",
       "subtitle": "Download Jynx to connect with your invite",
       "app_store": "Download on",
-      "play_store": "Get it on"
+      "play_store": "Get it on",
+      "web_app": "Or continue on the web app"
     }
   },
   "games": {

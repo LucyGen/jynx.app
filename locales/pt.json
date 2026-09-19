@@ -473,7 +473,8 @@
       "tokens": "Armazenados localmente de forma segura",
       "cache_label": "Cache Local:",
       "cache": "Para melhorar desempenho (dados de perfil, mensagens recentes)",
-      "website": "<strong>Site.</strong> O site da Jynx (jynx.app) utiliza o Google Analytics 4 (fornecido pelo Google) com o Consent Mode v2 para entender como o site é usado. O armazenamento de analytics é negado por padrão: até você aceitar o banner de cookies, o Google Analytics funciona sem cookies ou armazenamento local, e o Google recebe apenas sinais sem cookies e sem identificadores; se você aceitar, a medição completa é ativada. Sua escolha — aceitar ou recusar — fica armazenada localmente no seu dispositivo (localStorage do navegador, chave \"jynx-analytics-consent\"). Limpar o armazenamento do navegador para o jynx.app faz o banner aparecer novamente, para que você possa alterar sua escolha. O Google atua como destinatário dos dados de analytics resultantes (ver §9); consulte o §4 para os demais operadores e o §7 para seus direitos."
+      "website": "<strong>Site.</strong> O site da Jynx (jynx.app) utiliza o Google Analytics 4 (fornecido pelo Google) com o Consent Mode v2 para entender como o site é usado. O armazenamento de analytics é negado por padrão: até você aceitar o banner de cookies, o Google Analytics funciona sem cookies ou armazenamento local, e o Google recebe apenas sinais sem cookies e sem identificadores; se você aceitar, a medição completa é ativada. Sua escolha — aceitar ou recusar — fica armazenada localmente no seu dispositivo (localStorage do navegador, chave \"jynx-analytics-consent\"). Limpar o armazenamento do navegador para o jynx.app faz o banner aparecer novamente, para que você possa alterar sua escolha. O Google atua como destinatário dos dados de analytics resultantes (ver §9); consulte o §4 para os demais operadores e o §7 para seus direitos.",
+      "invite_clipboard": "<strong>Links de convite.</strong> Quando você abre um link de convite (jynx.app/invite/…) no seu navegador e toca no botão de download da App Store, o site grava esse link de convite na área de transferência do seu dispositivo, substituindo seu conteúdo anterior. Essa é uma técnica padrão para atribuir instalações de aplicativos no iOS (que não possui um mecanismo de referência de instalação): ela permite que o aplicativo Jynx, no primeiro acesso, proponha que você entre com o convite da pessoa que lhe enviou o link. O site nunca lê a sua área de transferência — ele apenas grava esse link — e o aplicativo a lê apenas uma vez, depois de pedir o seu consentimento explícito. Nenhum outro conteúdo da área de transferência é acessado ou coletado. Se você preferir não compartilhá-lo, basta recusar o pedido de permissão de colagem e entrar sem convite."
     },
     "changes": {
       "title": "11. Mudanças nesta Política",
@@ -1779,14 +1780,15 @@
       "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
       "twitter_image_alt": "Jynx Invite"
     },
-    "heading": "You've been invited to connect on Jynx",
-    "subtitle": "The gaming social platform",
-    "open_app_btn": "Open in Jynx App",
+    "heading": "Você foi convidado para se conectar no Jynx",
+    "subtitle": "A plataforma social dos gamers",
+    "open_app_btn": "Abrir no aplicativo Jynx",
     "fallback": {
-      "title": "Don't have the app yet?",
-      "subtitle": "Download Jynx to connect with your invite",
-      "app_store": "Download on",
-      "play_store": "Get it on"
+      "title": "Ainda não tem o aplicativo?",
+      "subtitle": "Baixe o Jynx para se conectar com o seu convite",
+      "app_store": "Baixar na",
+      "play_store": "Disponível no",
+      "web_app": "Ou continuar no aplicativo da web"
     }
   },
   "games": {
@@ -1798,8 +1800,8 @@
     "label_game": "Game:",
     "label_download_ios": "Download Jynx on the App Store",
     "label_download_android": "Get Jynx on Google Play",
-    "label_download_on": "Download on",
-    "label_get_it_on": "Get it on",
+    "label_download_on": "Baixar na",
+    "label_get_it_on": "Disponível no",
     "label": {
       "rank_rule": "Rank-gap rule:"
     },
