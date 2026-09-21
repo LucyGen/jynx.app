@@ -1788,7 +1788,8 @@
       "subtitle": "Téléchargez Jynx pour profiter de votre invitation",
       "app_store": "Télécharger sur",
       "play_store": "Disponible sur",
-      "web_app": "Ou continuer sur l’application web"
+      "web_app": "Ou continuer sur l’application web",
+      "web_app_desktop": "Continuer sur l’application web"
     }
   },
   "games": {

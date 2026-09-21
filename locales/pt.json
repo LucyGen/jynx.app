@@ -1788,7 +1788,8 @@
       "subtitle": "Baixe o Jynx para se conectar com o seu convite",
       "app_store": "Baixar na",
       "play_store": "Disponível no",
-      "web_app": "Ou continuar no aplicativo da web"
+      "web_app": "Ou continuar no aplicativo da web",
+      "web_app_desktop": "Continuar no aplicativo da web"
     }
   },
   "games": {

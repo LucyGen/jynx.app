@@ -1788,7 +1788,8 @@
       "subtitle": "Download Jynx to connect with your invite",
       "app_store": "Download on",
       "play_store": "Get it on",
-      "web_app": "Or continue on the web app"
+      "web_app": "Or continue on the web app",
+      "web_app_desktop": "Continue on the web app"
     }
   },
   "games": {
