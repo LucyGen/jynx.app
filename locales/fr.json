@@ -29,7 +29,7 @@
     "story": {
       "title": "Notre Histoire",
       "p1": "Fondée en 2024, Jynx est née d'une vision simple mais puissante : transformer la façon dont les gamers se connectent et jouent ensemble. Nous comprenons la frustration de perdre un temps précieux à chercher des coéquipiers compatibles ou à trouver des joueurs qui correspondent à votre niveau de compétence et votre style de jeu.",
-      "p2": "Notre plateforme sert de pont entre les expériences de jeu solo et le jeu d'équipe épanouissant, vous permettant de trouver rapidement vos compagnons de jeu parfaits en fonction du niveau de compétence, du style de jeu et de la personnalité."
+      "p2": "Notre plateforme sert de pont entre les expériences de jeu solo et le jeu d'équipe épanouissant, vous permettant de trouver rapidement vos coéquipiers parfaits en fonction du niveau de compétence, du style de jeu et de la personnalité."
     },
     "problem": {
       "title": "Le Problème Que Nous Résolvons",
@@ -311,7 +311,7 @@
         "title": "5.6. Marketing Communications",
         "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
         "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
-        "eu_body": "Because the Service is currently provided without remuneration (no paid tier is purchasable at the date of this Policy), marketing and re-engagement emails to EU/EEA users are sent only on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). We do not rely on the \"soft opt-in\" exception of ePrivacy Art. 13(2) at this time, because that exception requires a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025) and the Service is not yet remunerated. We will re-assess this analysis if and when a paid premium tier or any other monetization (in-app purchases, advertising, data licensing) goes live, and this Policy will be updated accordingly.",
+        "eu_body": "Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The \"soft opt-in\" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.",
         "br_title": "Legal basis — Brazilian users (LGPD).",
         "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
         "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
@@ -474,7 +474,8 @@
       "cache_label": "Cache Local :",
       "cache": "Pour améliorer les performances (données de profil, messages récents)",
       "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
-      "invite_clipboard": "<strong>Liens d’invitation.</strong> Lorsque vous ouvrez un lien d’invitation (jynx.app/invite/…) dans votre navigateur et appuyez sur le bouton de téléchargement de l’App Store, le site web écrit ce lien d’invitation dans le presse-papiers de votre appareil, en remplaçant son contenu précédent. Il s’agit d’une technique standard pour attribuer les installations d’application sur iOS (qui ne dispose d’aucun mécanisme de référent d’installation) : elle permet à l’application Jynx, au premier lancement, de vous proposer de rejoindre la plateforme avec l’invitation de la personne qui vous a envoyé le lien. Le site web ne lit jamais votre presse-papiers — il se contente d’y écrire ce lien — et l’application ne le lit qu’une seule fois, après vous avoir demandé votre consentement explicite. Aucun autre contenu du presse-papiers n’est consulté ni collecté. Si vous préférez ne pas le partager, refusez simplement la demande de collage et rejoignez la plateforme sans invitation."
+      "invite_clipboard": "<strong>Liens d’invitation.</strong> Lorsque vous ouvrez un lien d’invitation (jynx.app/invite/…) dans votre navigateur et appuyez sur le bouton de téléchargement de l’App Store, le site web écrit ce lien d’invitation dans le presse-papiers de votre appareil, en remplaçant son contenu précédent. Il s’agit d’une technique standard pour attribuer les installations d’application sur iOS (qui ne dispose d’aucun mécanisme de référent d’installation) : elle permet à l’application Jynx, au premier lancement, de vous proposer de rejoindre la plateforme avec l’invitation de la personne qui vous a envoyé le lien. Le site web ne lit jamais votre presse-papiers — il se contente d’y écrire ce lien — et l’application ne le lit qu’une seule fois, après vous avoir demandé votre consentement explicite. Aucun autre contenu du presse-papiers n’est consulté ni collecté. Si vous préférez ne pas le partager, refusez simplement la demande de collage et rejoignez la plateforme sans invitation.",
+      "referrals": "<strong>Parrainage et campagnes de créateurs.</strong> Lorsque vous rejoignez Jynx avec un code d’invitation — via un lien, un code QR ou saisi manuellement — nous enregistrons ce code avec votre compte afin d’attribuer l’invitation à la personne ou à la campagne qui l’a partagé, d’appliquer les avantages associés et de détecter les inscriptions frauduleuses. Ce traitement repose sur notre intérêt légitime (voir §13) et est soumis à nos contrôles anti-fraude ; rien ne change pour vous : les mêmes données sont collectées quel que soit le type de code d’invitation utilisé. Certains codes d’invitation appartiennent également à des campagnes d’attribution de créateurs : si le code que vous avez utilisé fait partie d’une telle campagne, il peut également créditer celle-ci. Les registres de rémunération des campagnes de créateurs sont conservés sous forme pseudonymisée."
     },
     "changes": {
       "title": "11. Modifications de Cette Politique",
@@ -771,7 +772,7 @@
         "intro": "Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:",
         "basis_label": "Legal basis by cohort.",
         "eu_label": "EU/EEA users:",
-        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). We do not rely on the Art. 13(2) soft-opt-in exception at this time because the Service is not yet remunerated (no paid tier is purchasable). We will re-assess this position when a premium tier or other monetization goes live.",
+        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.",
         "br_label": "Brazilian users:",
         "br": "we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.",
         "surveys_label": "Uninstall / churn surveys.",
@@ -1145,7 +1146,7 @@
     "cta": "Télécharger Jynx"
   },
   "hero": {
-    "title": "Where Gaming Gets Social",
+    "title": "L'application compagnon nouvelle génération pour gamers",
     "subtitle": "Trouvez des coéquipiers qui correspondent à votre style, niveau de compétence et disponibilités",
     "pre_launch_text": "REJOIGNEZ VOTRE COMMUNAUTÉ MAINTENANT",
     "app_store_small": "Télécharger sur",
@@ -1215,7 +1216,7 @@
   },
   "solution": {
     "title": "Rencontrez Jynx",
-    "description": "Notre plateforme intelligente vous connecte avec les compagnons de jeu parfaits basés sur vos préférences de jeu réelles, garantissant que chaque match mène à une meilleure expérience de jeu.",
+    "description": "Notre plateforme intelligente vous connecte avec les coéquipiers parfaits selon vos préférences de jeu réelles, garantissant que chaque match mène à une meilleure expérience de jeu.",
     "benefits": {
       "scheduling": "Planifiez des sessions de jeu qui fonctionnent avec les disponibilités de tout le monde",
       "time": "Économisez des heures de recherche de coéquipiers compatibles",
@@ -1408,7 +1409,10 @@
     "hero": {
       "subtitle": "Connectez-vous avec des gamers, trouvez des coéquipiers, rejoignez des communautés",
       "title_line1": "Jynx",
-      "title_line2": "Plateforme Sociale de Gaming"
+      "title_line2": "Plateforme Sociale de Gaming",
+      "h1_line1": "Téléchargez Jynx",
+      "h1_line2": "L'appli LFG gratuite pour trouver des coéquipiers de jeu",
+      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS et Android."
     },
     "store": {
       "app_store": {
@@ -1474,6 +1478,49 @@
       "current_theme": "Thème actuel :",
       "submit": "Soumettre Préférence de Thème",
       "thanks": "Merci de nous aider à designer l'interface de l'app !"
+    },
+    "intro": {
+      "title": "L'app compagnon pour gamers",
+      "description": "Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux Discord.",
+      "proof": "4,4 étoiles sur Google Play au Brésil (94 avis) et plus de 10 000 installations sur Google Play au Brésil en octobre 2026 — les notes App Store arriveront au fil de la croissance de la communauté."
+    },
+    "install": {
+      "title": "Téléchargez l'appli de recherche de coéquipiers sur iOS ou Android",
+      "subtitle": "Jynx est disponible sur les deux magasins d'applications — choisissez votre plateforme et commencez à matcher en quelques minutes.",
+      "ios": {
+        "title": "Trouvez des coéquipiers sur iOS",
+        "description": "Téléchargez l'appli pour trouver des coéquipiers de jeu sur l'App Store et jouez avec des joueurs proches de votre niveau. Nécessite iOS 13.0 ou ultérieur."
+      },
+      "android": {
+        "title": "Trouvez votre duo sur Android",
+        "description": "Installez l'appli de recherche de duo sur Google Play et rencontrez des amis gamers en quelques minutes. Nécessite Android 8.0 ou ultérieur."
+      }
+    },
+    "free": {
+      "title": "Une appli LFG gratuite — gratuite pour toujours, sans piège",
+      "description": "Jynx est une appli gratuite pour se faire des amis gamers : votre compte, le matchmaking, le chat et les communautés ne coûtent rien, et aucun paywall ne vous sépare de votre prochain duo."
+    },
+    "faq": {
+      "cta_heading": "FAQ TÉLÉCHARGEMENT",
+      "cta_subtitle": "Avant d'installer",
+      "cta_write_to_us": "Encore des questions ?",
+      "cta_button": "Écrivez-nous",
+      "devices": {
+        "q": "Sur quels appareils Jynx est-il disponible ?",
+        "a": "Jynx est disponible sur les appareils iOS et Android."
+      },
+      "how": {
+        "q": "Comment télécharger Jynx ?",
+        "a": "Vous pouvez télécharger Jynx depuis l’App Store d’Apple ou le Google Play Store."
+      },
+      "requirements": {
+        "q": "Quelle est la configuration requise ?",
+        "a": "Jynx nécessite iOS 13.0 ou ultérieur pour iPhone, et Android 8.0 ou ultérieur pour les appareils Android."
+      },
+      "apk": {
+        "q": "Peut-on télécharger un APK de Jynx ?",
+        "a": "Non. Jynx est disponible uniquement via les fiches officielles de l'App Store d'Apple et de Google Play. Nous ne publions pas d'APK, et les sites tiers d'APK ne sont pas des sources officielles — ils peuvent distribuer des versions obsolètes ou modifiées."
+      }
     }
   },
   "reviews": {
@@ -1804,7 +1851,10 @@
     "label_download_on": "Télécharger sur",
     "label_get_it_on": "Disponible sur",
     "label": {
-      "rank_rule": "Rank-gap rule:"
+      "rank_rule": "Rank-gap rule:",
+      "last_verified": "Dernière vérification",
+      "stat_source": "Source",
+      "stat_as_of": "en date du"
     },
     "section": {
       "why": "Why this duo finder",
@@ -1818,7 +1868,10 @@
       "faq": "FAQ",
       "crosslinks": "Related",
       "quick_answer": "Quick answer",
-      "what_looks_like": "What LFG looks like"
+      "what_looks_like": "What LFG looks like",
+      "key_stats": "Chiffres de joueurs",
+      "comparison": "Comparaison",
+      "archetypes": "Types de joueurs"
     },
     "heading": {
       "why": "Why a purpose-built duo finder",
@@ -1831,7 +1884,11 @@
       "faq": "Frequently asked questions",
       "crosslinks": "Related Jynx resources",
       "quick_answer": "LFG in 60 seconds",
-      "what_looks_like": "What LFG looks like in 2026"
+      "what_looks_like": "What LFG looks like in 2026",
+      "key_stats": "Chiffres de joueurs",
+      "archetypes": "Quel que soit votre profil de joueur",
+      "faq_duo": "FAQ duo finder",
+      "faq_guide": "FAQ LFG"
     },
     "intro": {
       "ranks": "Match within the platform-enforced gap window. Ranks below.",
@@ -1851,6 +1908,21 @@
     },
     "footer": {
       "rights": "All rights reserved."
+    },
+    "breadcrumb_duo": "Duo Finder",
+    "breadcrumb_guide": "Guide LFG"
+  },
+  "entity": {
+    "description": "Jynx est l'application compagnon nouvelle génération pour gamers : rangs vérifiés, matchs par rôle, vocal et disponibilités réelles remplacent la loterie du matchmaking — swipez, matchez et jouez avec des duos et squads qui vous correspondent. Gratuit sur Android et iOS.",
+    "canonical_phrase": "application compagnon nouvelle génération pour gamers"
+  },
+  "consent": {
+    "banner": {
+      "aria_label": "Consentement aux cookies",
+      "text": "Nous utilisons des statistiques pour comprendre comment les visiteurs découvrent Jynx et améliorer le site. Aucune donnée personnelle n'est vendue.",
+      "privacy_link": "Politique de Confidentialité",
+      "accept": "Accepter",
+      "decline": "Refuser"
     }
   }
 }

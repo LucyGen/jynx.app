@@ -1,6 +1,5 @@
 {
   "locale": "ko",
-  "generated_at": "2026-09-26T02:10:11.560Z",
   "post_count": 4,
   "posts": [
     {
@@ -17,7 +16,7 @@
       "category": "gaming-communities",
       "slug": "gta-6-online-baiseu-siti-tim-bilding-gaideu-2026",
       "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/hero-NYdbjNwc.webp",
+      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "강도 미션을 조율하는 플레이어들과 함께한 GTA VI 바이스 시티 스카이라인",
       "reading_time": 12,
       "locale": "ko",
@@ -44,7 +43,7 @@
       "category": "matchmaking",
       "slug": "ai-gaming-matchmaking-guide",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "플레이어 호환성 점수를 보여주는 AI 기반 게임 매칭 인터페이스",
       "reading_time": 11,
       "locale": "ko",
@@ -71,7 +70,7 @@
       "category": "gaming-communities",
       "slug": "black-ops-7-zombie-tim-gaideu",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Oa551s2A.webp",
+      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
       "featured_image_alt": "Ashes of the Damned 맵에서 싸우는 Black Ops 7 좀비 스쿼드",
       "reading_time": 9,
       "locale": "ko",
@@ -100,7 +99,7 @@
       "category": "social-gaming",
       "slug": "halo-campaign-evolved-coop-guide-2026",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Bm-6eNsm.webp",
+      "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "헤일로 캠페인 이볼브드 협동 플레이 중인 마스터 치프와 스쿼드",
       "reading_time": 9,
       "locale": "ko",
@@ -113,5 +112,6 @@
         "레전더리 난이도"
       ]
     }
-  ]
+  ],
+  "generated_at": "content-ee9d7b10d799"
 }
