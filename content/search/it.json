@@ -1,6 +1,5 @@
 {
   "locale": "it",
-  "generated_at": "2026-09-26T02:10:11.558Z",
   "post_count": 8,
   "posts": [
     {
@@ -20,7 +19,7 @@
       "category": "gaming-communities",
       "slug": "guida-team-building-gta-6-online-vice-city-2026",
       "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/hero-NYdbjNwc.webp",
+      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "Crew GTA 6 Online Vice City coordinando rapina strategica - Guida team building",
       "reading_time": 16,
       "locale": "it",
@@ -47,7 +46,7 @@
       "category": "matchmaking",
       "slug": "ai-coaches-competitive-gaming",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Gamer professionista che analizza statistiche di performance e metriche di gameplay",
       "reading_time": 20,
       "locale": "it",
@@ -74,7 +73,7 @@
       "category": "gaming-communities",
       "slug": "cs2-non-toxic-teammates",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-B5AKovzr.webp",
+      "featured_image": "/assets/images/blog/featured/cs2-team-roles-guide/hero.webp",
       "featured_image_alt": "Team CS2 che comunica positivamente durante partita competitiva",
       "reading_time": 9,
       "locale": "it",
@@ -101,7 +100,7 @@
       "category": "matchmaking",
       "slug": "guida-matchmaking-ia-gaming",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Interfaccia di matchmaking gaming basato su IA che mostra punteggi di compatibilità tra giocatori",
       "reading_time": 15,
       "locale": "it",
@@ -128,7 +127,7 @@
       "category": "gaming-communities",
       "slug": "guida-squadra-zombi-black-ops-7",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Oa551s2A.webp",
+      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
       "featured_image_alt": "Squadra di Black Ops 7 Zombies che combatte nella mappa Ashes of the Damned",
       "reading_time": 12,
       "locale": "it",
@@ -157,7 +156,7 @@
       "category": "social-gaming",
       "slug": "halo-campaign-evolved-coop-guida-2026",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Bm-6eNsm.webp",
+      "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Master Chief e squadra nel gameplay co-op di Halo Campaign Evolved",
       "reading_time": 12,
       "locale": "it",
@@ -185,7 +184,7 @@
       "category": "gaming-communities",
       "slug": "small-gaming-groups-vs-clans",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero--tF4-UCp.webp",
+      "featured_image": "/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp",
       "featured_image_alt": "Piccolo gruppo gaming affiatato che gioca insieme",
       "reading_time": 10,
       "locale": "it",
@@ -212,7 +211,7 @@
       "category": "social-gaming",
       "slug": "wrong-gaming-squad-signs",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Dzd2YDXM.webp",
+      "featured_image": "/assets/images/blog/featured/wrong-gaming-squad-signs/hero.webp",
       "featured_image_alt": "Gamer frustrato che sperimenta problemi di comunicazione nel team",
       "reading_time": 12,
       "locale": "it",
@@ -225,5 +224,6 @@
         "quando lasciare team gaming"
       ]
     }
-  ]
+  ],
+  "generated_at": "content-60c091474452"
 }

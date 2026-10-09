@@ -5,7 +5,7 @@
 
   <url>
     <loc>https://jynx.app/vi/about.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/about.html" />
@@ -26,63 +26,15 @@
     <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/about.html" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/about.html" />
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/jynx_character.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/jynx_character.webp</image:loc>
       <image:caption>Meet the Jynx team</image:caption>
       <image:title>About Jynx Gaming Platform</image:title>
     </image:image>
   </url>
 
   <url>
-    <loc>https://jynx.app/vi/acknowledgements.html</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/acknowledgements.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/acknowledgements.html" />
-  </url>
-
-  <url>
-    <loc>https://jynx.app/vi/child-safety.html</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/child-safety.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/child-safety.html" />
-  </url>
-
-  <url>
     <loc>https://jynx.app/vi/download.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/download.html" />
@@ -103,7 +55,7 @@
     <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/download.html" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/download.html" />
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/landing-page.webp</image:loc>
+      <image:loc>https://jynx.app/images/splash/landing-page.webp</image:loc>
       <image:caption>Download Jynx gaming app</image:caption>
       <image:title>Jynx App Download</image:title>
     </image:image>
@@ -111,7 +63,7 @@
 
   <url>
     <loc>https://jynx.app/vi/</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/" />
@@ -132,27 +84,27 @@
     <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/" />
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/jynx_character.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/jynx_character.webp</image:loc>
       <image:caption>Jynx Gaming Platform Character</image:caption>
       <image:title>Jynx Community Mascot</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/match-queue-mockup.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/match-queue-mockup.webp</image:loc>
       <image:caption>Intelligent matchmaking queue interface</image:caption>
       <image:title>Jynx Smart Matchmaking System</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/community-mockup.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/community-mockup.webp</image:loc>
       <image:caption>Community building features</image:caption>
       <image:title>Jynx Community Platform</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/gobal-chat-mockup.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/global-chat-mockup.webp</image:loc>
       <image:caption>Global chat for gamers</image:caption>
       <image:title>Jynx Global Gaming Chat</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jynx.app/assets/images/splash/game-session-mockup.png</image:loc>
+      <image:loc>https://jynx.app/images/splash/game-session-mockup.webp</image:loc>
       <image:caption>Gaming session coordination</image:caption>
       <image:title>Jynx Gaming Sessions</image:title>
     </image:image>
@@ -183,32 +135,8 @@
   </url>
 
   <url>
-    <loc>https://jynx.app/vi/security.html</loc>
-    <lastmod>2026-09-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/security.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/security.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/security.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/security.html" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://jynx.app/pt/security.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/security.html" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://jynx.app/it/security.html" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/security.html" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://jynx.app/ar/security.html" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jynx.app/hi/security.html" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://jynx.app/id/security.html" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://jynx.app/pl/security.html" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://jynx.app/uk/security.html" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://jynx.app/ko/security.html" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/security.html" />
-    <xhtml:link rel="alternate" hreflang="bn" href="https://jynx.app/bn/security.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://jynx.app/vi/security.html" />
-  </url>
-
-  <url>
     <loc>https://jynx.app/vi/terms.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/terms.html" />

@@ -1,12 +1,11 @@
 {
   "locale": "pt",
-  "generated_at": "2026-09-26T02:10:11.557Z",
   "post_count": 5,
   "posts": [
     {
       "id": "guia-construcao-equipe-gta-6-online-vice-city-2026",
       "title": "Como Montar Sua Crew Perfeita no GTA 6 Vice City 2026",
-      "excerpt": "GTA 6 chega em 19 de novembro de 2026 com lobbies de 96 jogadores. Descubra como montar a crew perfeita, dominar assaltos e conquistar Vice City desde o dia um.",
+      "excerpt": "GTA 6 chega em 19 de novembro de 2026 — faltam seis semanas. Monte sua crew: companheiros, funções de assalto e um checklist de preparação para o lançamento.",
       "tags": [
         "GTA 6",
         "team-building",
@@ -17,9 +16,9 @@
       "category": "gaming-communities",
       "slug": "guia-construcao-equipe-gta-6-online-vice-city-2026",
       "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/hero-NYdbjNwc.webp",
+      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "Horizonte de Vice City em GTA VI com jogadores coordenando um assalto",
-      "reading_time": 16,
+      "reading_time": 19,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
@@ -44,7 +43,7 @@
       "category": "matchmaking",
       "slug": "ai-coaches-competitive-gaming",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Jogador profissional analisando estatísticas de desempenho e métricas de gameplay",
       "reading_time": 19,
       "locale": "pt",
@@ -71,7 +70,7 @@
       "category": "gaming-communities",
       "slug": "guia-esquadrao-zumbis-black-ops-7",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Oa551s2A.webp",
+      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
       "featured_image_alt": "Esquadrão de Black Ops 7 Zombies lutando através do mapa Ashes of the Damned",
       "reading_time": 12,
       "locale": "pt",
@@ -98,7 +97,7 @@
       "category": "matchmaking",
       "slug": "guia-matchmaking-ia-jogos",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Interface de matchmaking de jogos com IA mostrando pontuações de compatibilidade de jogadores",
       "reading_time": 16,
       "locale": "pt",
@@ -127,7 +126,7 @@
       "category": "social-gaming",
       "slug": "halo-campanha-evoluida-guia-coop-2026",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Bm-6eNsm.webp",
+      "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Master Chief e esquadrão em gameplay co-op de Halo Campaign Evolved",
       "reading_time": 12,
       "locale": "pt",
@@ -140,5 +139,6 @@
         "dificuldade lendária"
       ]
     }
-  ]
+  ],
+  "generated_at": "content-9ae376ec7d22"
 }

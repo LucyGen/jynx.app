@@ -1,6 +1,5 @@
 {
   "locale": "ru",
-  "generated_at": "2026-09-26T02:10:11.558Z",
   "post_count": 5,
   "posts": [
     {
@@ -17,7 +16,7 @@
       "category": "gaming-communities",
       "slug": "gta-6-online-sozdanie-komandy-vice-city-2026",
       "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/hero-NYdbjNwc.webp",
+      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "Горизонт Vice City в GTA VI с игроками, координирующими ограбление",
       "reading_time": 12,
       "locale": "ru",
@@ -44,7 +43,7 @@
       "category": "matchmaking",
       "slug": "ai-trenary-kiberport",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Профессиональный геймер анализирует статистику производительности и игровые метрики",
       "reading_time": 17,
       "locale": "ru",
@@ -71,7 +70,7 @@
       "category": "gaming-communities",
       "slug": "gaid-po-sozdaniyu-komandy-zombi-black-ops-7",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Oa551s2A.webp",
+      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
       "featured_image_alt": "Команда в Black Ops 7 Zombies сражается на карте Ashes of the Damned",
       "reading_time": 10,
       "locale": "ru",
@@ -100,7 +99,7 @@
       "category": "social-gaming",
       "slug": "halo-campaign-evolved-kooperativ-gajd-2026",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Bm-6eNsm.webp",
+      "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Мастер Чиф и команда в кооперативном геймплее Halo Campaign Evolved",
       "reading_time": 11,
       "locale": "ru",
@@ -127,7 +126,7 @@
       "category": "matchmaking",
       "slug": "rukovodstvo-matchmaking-ai-igry",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Интерфейс игрового матчмейкинга на основе ИИ, показывающий оценки совместимости игроков",
       "reading_time": 14,
       "locale": "ru",
@@ -140,5 +139,6 @@
         "матчмейкинг на основе навыков"
       ]
     }
-  ]
+  ],
+  "generated_at": "content-d281d0d21a64"
 }

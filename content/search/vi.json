@@ -1,6 +1,5 @@
 {
   "locale": "vi",
-  "generated_at": "2026-09-26T02:10:11.560Z",
   "post_count": 6,
   "posts": [
     {
@@ -17,7 +16,7 @@
       "category": "gaming-communities",
       "slug": "huong-dan-xay-dung-doi-nhom-gta-6-online-vice-city-2026",
       "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/hero-NYdbjNwc.webp",
+      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "Đường chân trời Vice City trong GTA VI với người chơi phối hợp heist",
       "reading_time": 17,
       "locale": "vi",
@@ -44,7 +43,7 @@
       "category": "matchmaking",
       "slug": "ai-coaches-competitive-gaming",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Game thủ chuyên nghiệp phân tích thống kê hiệu suất và chỉ số gameplay",
       "reading_time": 27,
       "locale": "vi",
@@ -73,7 +72,7 @@
       "category": "matchmaking",
       "slug": "ai-gaming-matchmaking-revolution-2025",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Trực quan hóa ghép cặp gaming được hỗ trợ AI với hồ sơ người chơi",
       "reading_time": 28,
       "locale": "vi",
@@ -102,7 +101,7 @@
       "category": "social-gaming",
       "slug": "huong-dan-choi-coop-halo-campaign-evolved-2026",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Bm-6eNsm.webp",
+      "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Master Chief và đội hình trong gameplay co-op Halo Campaign Evolved",
       "reading_time": 14,
       "locale": "vi",
@@ -129,7 +128,7 @@
       "category": "gaming-communities",
       "slug": "huong-dan-doi-zombie-black-ops-7",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-Oa551s2A.webp",
+      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
       "featured_image_alt": "Đội Black Ops 7 Zombies chiến đấu trong bản đồ Ashes of the Damned",
       "reading_time": 14,
       "locale": "vi",
@@ -156,7 +155,7 @@
       "category": "matchmaking",
       "slug": "huong-dan-ghep-cap-game-ai",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/hero-ByonWWDW.webp",
+      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
       "featured_image_alt": "Giao diện ghép cặp game bằng AI hiển thị điểm tương thích của người chơi",
       "reading_time": 19,
       "locale": "vi",
@@ -169,5 +168,6 @@
         "ghép cặp theo kỹ năng"
       ]
     }
-  ]
+  ],
+  "generated_at": "content-775a86eb28d5"
 }

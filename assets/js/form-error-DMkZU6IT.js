@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-Dqv5PPZA.js";/* empty css                    */document.addEventListener("click",(t=>{const o=t.target.closest("a[data-history-back]");o&&(t.preventDefault(),window.history.length>1?window.history.back():window.location.assign(o.href))}));
