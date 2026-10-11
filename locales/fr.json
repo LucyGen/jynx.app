@@ -1302,7 +1302,8 @@
     "download": {
       "title": "Télécharger",
       "app_store": "App Store",
-      "google_play": "Google Play"
+      "google_play": "Google Play",
+      "web_app": "App web"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Tous droits réservés.",
     "language": "Langue"
@@ -1401,12 +1402,12 @@
   "download": {
     "meta": {
       "title": "Télécharger Jynx - Plateforme Sociale Gaming",
-      "description": "Téléchargez Jynx - Connectez-vous avec des gamers, trouvez des coéquipiers, rejoignez des communautés. Disponible sur iOS et Android.",
+      "description": "Téléchargez Jynx - Connectez-vous avec des gamers, trouvez des coéquipiers, rejoignez des communautés. Disponible sur iOS, Android et le web.",
       "og_title": "Télécharger l'App Jynx - Trouvez Votre Équipe Gaming",
-      "og_description": "Obtenez l'app Jynx sur iOS ou Android. Commencez à trouver des coéquipiers compatibles avec le matchmaking IA.",
+      "og_description": "Obtenez l'app Jynx sur iOS, Android ou le web. Commencez à trouver des coéquipiers compatibles avec le matchmaking IA.",
       "og_image_alt": "Télécharger l'Application Gaming Jynx",
       "twitter_title": "Télécharger l'App Jynx - Trouvez Votre Équipe Gaming",
-      "twitter_description": "Obtenez l'app Jynx sur iOS ou Android. Commencez à trouver des coéquipiers aujourd'hui.",
+      "twitter_description": "Obtenez l'app Jynx sur iOS, Android ou le web. Trouvez des coéquipiers dès aujourd'hui.",
       "twitter_image_alt": "Application Mobile Jynx"
     },
     "hero": {
@@ -1415,7 +1416,8 @@
       "title_line2": "Plateforme Sociale de Gaming",
       "h1_line1": "Téléchargez Jynx",
       "h1_line2": "L'appli LFG gratuite pour trouver des coéquipiers de jeu",
-      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS et Android."
+      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android et le web.",
+      "web_cta": "Ou jouez directement sur le web"
     },
     "store": {
       "app_store": {
@@ -1485,8 +1487,8 @@
       "description": "Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux Discord."
     },
     "install": {
-      "title": "Téléchargez l'appli de recherche de coéquipiers sur iOS ou Android",
-      "subtitle": "Jynx est disponible sur les deux magasins d'applications — choisissez votre plateforme et commencez à matcher en quelques minutes.",
+      "title": "Jynx sur iOS, Android ou le web",
+      "subtitle": "Jynx est disponible sur les deux stores d'apps et dans votre navigateur — choisissez votre plateforme et commencez à matcher en quelques minutes.",
       "ios": {
         "title": "Trouvez des coéquipiers sur iOS",
         "description": "Téléchargez l'appli pour trouver des coéquipiers de jeu sur l'App Store et jouez avec des joueurs proches de votre niveau. Nécessite iOS 13.0 ou ultérieur."
@@ -1494,6 +1496,11 @@
       "android": {
         "title": "Trouvez votre duo sur Android",
         "description": "Installez l'appli de recherche de duo sur Google Play et rencontrez des amis gamers en quelques minutes. Nécessite Android 8.0 ou ultérieur."
+      },
+      "web": {
+        "title": "Jouez sur le web",
+        "description": "Ouvrez l'app web Jynx dans votre navigateur et commencez à matcher immédiatement — sans téléchargement, sans installation. Fonctionne sur ordinateur et mobile.",
+        "cta": "Jouer sur le web"
       }
     },
     "free": {
@@ -1507,11 +1514,11 @@
       "cta_button": "Écrivez-nous",
       "devices": {
         "q": "Sur quels appareils Jynx est-il disponible ?",
-        "a": "Jynx est disponible sur les appareils iOS et Android."
+        "a": "Jynx est disponible sur iOS, Android et le web — la même app dans votre navigateur sur web.jynx.app."
       },
       "how": {
         "q": "Comment télécharger Jynx ?",
-        "a": "Vous pouvez télécharger Jynx depuis l’App Store d’Apple ou le Google Play Store."
+        "a": "Téléchargez Jynx sur l'App Store ou Google Play, ou jouez directement sur le web à l'adresse web.jynx.app — sans installation."
       },
       "requirements": {
         "q": "Quelle est la configuration requise ?",
@@ -1528,7 +1535,6 @@
     "subtitle_prefix": "LES TYPES DE JOUEURS",
     "subtitle_highlight": "QUE NOUS MATCHONS",
     "type_badge": "Type de joueur",
-    "nojs_note": "Activez JavaScript pour parcourir tous les types de joueurs",
     "persona1": {
       "quote": "Trouver des coéquipiers constants à mon ELO ne devrait pas signifier spammer Discord pendant des heures. J'ai besoin de joueurs qui communiquent, arrivent à l'heure et jouent vraiment leur rôle principal.",
       "name": "Le Grinder Classé",
@@ -1548,6 +1554,18 @@
       "quote": "La solo queue tue mon amour du gaming. Chaque match est un pile ou face de toxicité. Il doit y avoir une meilleure façon de trouver des gens qui veulent vraiment progresser ensemble.",
       "name": "L'Évadé de Solo Queue",
       "role": "Joueur Cherchant une Équipe"
+    }
+  },
+  "reviews": {
+    "title": "De vrais avis sur Google Play",
+    "summary": {
+      "ratings": "{play_count} avis sur Google Play au {market}",
+      "as_of": "au {as_of_month_year}",
+      "stars_aria": "{play_rating} sur 5 étoiles"
+    },
+    "read_all": "Lire tous les avis sur Google Play",
+    "card": {
+      "source": "sur Google Play"
     }
   },
   "comparison": {
@@ -1924,7 +1942,7 @@
     }
   },
   "entity": {
-    "description": "Jynx est l'application compagnon nouvelle génération pour gamers : rangs vérifiés, matchs par rôle, vocal et disponibilités réelles remplacent la loterie du matchmaking — swipez, matchez et jouez avec des duos et squads qui vous correspondent. Gratuit sur Android et iOS.",
+    "description": "Jynx est l'application compagnon nouvelle génération pour gamers : rangs vérifiés, matchs par rôle, vocal et disponibilités réelles remplacent la loterie du matchmaking — swipez, matchez et jouez avec des duos et squads qui vous correspondent. Gratuit sur le web, Android et iOS.",
     "canonical_phrase": "application compagnon nouvelle génération pour gamers"
   },
   "consent": {

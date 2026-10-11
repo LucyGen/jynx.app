@@ -1302,7 +1302,8 @@
     "download": {
       "title": "Baixar",
       "app_store": "App Store",
-      "google_play": "Google Play"
+      "google_play": "Google Play",
+      "web_app": "App web"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Todos os direitos reservados.",
     "language": "Idioma"
@@ -1401,12 +1402,12 @@
   "download": {
     "meta": {
       "title": "Baixar Jynx - Plataforma Social Gaming",
-      "description": "Baixar Jynx - Conecte-se com gamers, encontre companheiros, junte-se a comunidades. Disponível no iOS e Android.",
+      "description": "Baixar Jynx - Conecte-se com gamers, encontre companheiros, junte-se a comunidades. Disponível no iOS, Android e na web.",
       "og_title": "Baixar App Jynx - Encontre Seu Esquadrão Gaming",
-      "og_description": "Obtenha o app Jynx no iOS ou Android. Comece a encontrar companheiros compatíveis com matchmaking IA.",
+      "og_description": "Obtenha o app Jynx no iOS, Android ou na web. Comece a encontrar companheiros compatíveis com matchmaking de IA.",
       "og_image_alt": "Baixar App Gaming Jynx",
       "twitter_title": "Baixar App Jynx - Encontre Seu Esquadrão Gaming",
-      "twitter_description": "Obtenha o app Jynx no iOS ou Android. Comece a encontrar companheiros hoje.",
+      "twitter_description": "Obtenha o app Jynx no iOS, Android ou na web. Encontre companheiros hoje mesmo.",
       "twitter_image_alt": "App Móvel Jynx"
     },
     "hero": {
@@ -1415,7 +1416,8 @@
       "title_line2": "Plataforma Social de Gaming",
       "h1_line1": "Baixe o Jynx",
       "h1_line2": "O app de LFG grátis para achar teammates",
-      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS e no Android."
+      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS, Android e na web.",
+      "web_cta": "Ou jogue direto na web"
     },
     "store": {
       "app_store": {
@@ -1485,8 +1487,8 @@
       "description": "O Jynx é o app companheiro de nova geração para gamers — um app LFG gratuito que dá match com teammates compatíveis por jogo, rank e estilo de jogo, em vez de rolar canais do Discord sem fim."
     },
     "install": {
-      "title": "Baixe o app para achar teammates no iOS ou no Android",
-      "subtitle": "O Jynx está nas duas lojas de aplicativos — escolha a sua plataforma e comece a dar match em minutos.",
+      "title": "Jynx no iOS, Android ou na web",
+      "subtitle": "O Jynx está nas duas lojas de apps e no seu navegador — escolha sua plataforma e comece a dar match em minutos.",
       "ios": {
         "title": "Ache teammates no iOS",
         "description": "Baixe o app para achar teammates de jogos na App Store e jogue com pessoas perto do seu nível. Requer iOS 13.0 ou posterior."
@@ -1494,6 +1496,11 @@
       "android": {
         "title": "Ache o seu duo no Android",
         "description": "Baixe o app para achar duo no Google Play e faça amigos gamers em minutos. Requer Android 8.0 ou posterior."
+      },
+      "web": {
+        "title": "Jogue na web",
+        "description": "Abra o app web do Jynx no seu navegador e comece a dar match na hora — sem download, sem instalação. Funciona no computador e no celular.",
+        "cta": "Jogar na web"
       }
     },
     "free": {
@@ -1507,11 +1514,11 @@
       "cta_button": "Pergunte para a gente",
       "devices": {
         "q": "Em quais dispositivos o Jynx está disponível?",
-        "a": "O Jynx está disponível em dispositivos iOS e Android."
+        "a": "O Jynx está disponível no iOS, Android e na web — o mesmo app no seu navegador em web.jynx.app."
       },
       "how": {
         "q": "Como baixar o Jynx?",
-        "a": "Você pode baixar o Jynx na App Store da Apple ou na Google Play Store."
+        "a": "Baixe o Jynx na App Store ou no Google Play, ou jogue direto na web em web.jynx.app — sem instalar nada."
       },
       "requirements": {
         "q": "Quais são os requisitos de sistema?",
@@ -1528,7 +1535,6 @@
     "subtitle_prefix": "OS TIPOS DE JOGADOR",
     "subtitle_highlight": "QUE FAZEMOS MATCH",
     "type_badge": "Tipo de jogador",
-    "nojs_note": "Ative o JavaScript para navegar por todos os tipos de jogador",
     "persona1": {
       "quote": "Encontrar companheiros consistentes no meu ELO não deveria significar fazer spam no Discord por horas. Preciso de jogadores que se comuniquem, apareçam na hora e realmente joguem na sua função principal.",
       "name": "O Grinder Ranqueado",
@@ -1548,6 +1554,18 @@
       "quote": "Solo queue está matando meu amor por gaming. Cada partida é uma moeda jogada de toxicidade. Tem que haver uma forma melhor de encontrar pessoas que realmente querem melhorar juntas.",
       "name": "O Fugitivo da Solo Queue",
       "role": "Jogador Buscando Equipe"
+    }
+  },
+  "reviews": {
+    "title": "Avaliações reais no Google Play",
+    "summary": {
+      "ratings": "{play_count} avaliações no Google Play no {market}",
+      "as_of": "atualizado em {as_of_month_year}",
+      "stars_aria": "{play_rating} de 5 estrelas"
+    },
+    "read_all": "Ver todas as avaliações no Google Play",
+    "card": {
+      "source": "no Google Play"
     }
   },
   "comparison": {
@@ -1924,7 +1942,7 @@
     }
   },
   "entity": {
-    "description": "O Jynx é o app companheiro de nova geração para gamers: ranks verificados, match por função, voz e horário real substituem a roleta do matchmaking. Encontre duos e squads que encaixam no seu jogo. Grátis no Android e iOS.",
+    "description": "O Jynx é o app companheiro de nova geração para gamers: ranks verificados, match por função, voz e horário real substituem a roleta do matchmaking. Encontre duos e squads que encaixam no seu jogo. Grátis na web, no Android e no iOS.",
     "canonical_phrase": "app companheiro de nova geração para gamers"
   },
   "consent": {

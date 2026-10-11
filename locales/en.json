@@ -1302,7 +1302,8 @@
     "download": {
       "title": "Download",
       "app_store": "App Store",
-      "google_play": "Google Play"
+      "google_play": "Google Play",
+      "web_app": "Web App"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. All rights reserved.",
     "language": "Language"
@@ -1401,12 +1402,12 @@
   "download": {
     "meta": {
       "title": "Download Jynx - Gaming Social Platform",
-      "description": "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS and Android.",
+      "description": "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS, Android, and the web.",
       "og_title": "Download Jynx App - Find Your Gaming Squad",
-      "og_description": "Get the Jynx app on iOS or Android. Start finding compatible teammates with AI matchmaking.",
+      "og_description": "Get the Jynx app on iOS, Android, or the web. Start finding compatible teammates with AI matchmaking.",
       "og_image_alt": "Download Jynx Gaming App",
       "twitter_title": "Download Jynx App - Find Your Gaming Squad",
-      "twitter_description": "Get the Jynx app on iOS or Android. Start finding teammates today.",
+      "twitter_description": "Get the Jynx app on iOS, Android, or the web. Start finding teammates today.",
       "twitter_image_alt": "Jynx Mobile App"
     },
     "hero": {
@@ -1415,15 +1416,16 @@
       "subtitle": "Connect with gamers, find teammates, join communities",
       "h1_line1": "Download Jynx",
       "h1_line2": "The Free LFG App for Gaming Teammates",
-      "tagline": "Match with compatible teammates and duos for your games — free on iOS and Android."
+      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, and the web.",
+      "web_cta": "Or play instantly on the web"
     },
     "intro": {
       "title": "The companion app for gamers",
       "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
-      "title": "Download the teammate finder app on iOS or Android",
-      "subtitle": "Jynx is live on both app stores — pick your platform and start matching in minutes.",
+      "title": "Get Jynx on iOS, Android, or the web",
+      "subtitle": "Jynx is live on both app stores and in your browser — pick your platform and start matching in minutes.",
       "ios": {
         "title": "Find teammates on iOS",
         "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
@@ -1431,6 +1433,11 @@
       "android": {
         "title": "Find your duo on Android",
         "description": "Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later."
+      },
+      "web": {
+        "title": "Play on the web",
+        "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
+        "cta": "Play on the web"
       }
     },
     "free": {
@@ -1444,11 +1451,11 @@
       "cta_button": "Ask us",
       "devices": {
         "q": "What devices is Jynx available on?",
-        "a": "Jynx is available on iOS and Android devices."
+        "a": "Jynx is available on iOS, Android, and the web — the same app in your browser at web.jynx.app."
       },
       "how": {
         "q": "How do I download Jynx?",
-        "a": "You can download Jynx from the Apple App Store or Google Play Store."
+        "a": "Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed."
       },
       "requirements": {
         "q": "What are the system requirements?",
@@ -1528,7 +1535,6 @@
     "subtitle_prefix": "THE PLAYER",
     "subtitle_highlight": "TYPES WE MATCH",
     "type_badge": "Player type",
-    "nojs_note": "Enable JavaScript to browse all player types",
     "persona1": {
       "quote": "Finding consistent teammates at my ELO shouldn't mean spamming Discord for hours. I need players who communicate, show up on time, and actually play their main role.",
       "name": "The Ranked Grinder",
@@ -1548,6 +1554,18 @@
       "quote": "Solo queue is killing my love for gaming. Every match is a coin flip of toxicity. There has to be a better way to find people who actually want to improve together.",
       "name": "The Solo Queue Escapee",
       "role": "Team-Seeking Player"
+    }
+  },
+  "reviews": {
+    "title": "Real reviews from Google Play",
+    "summary": {
+      "ratings": "{play_count} ratings on Google Play in {market}",
+      "as_of": "as of {as_of_month_year}",
+      "stars_aria": "{play_rating} out of 5 stars"
+    },
+    "read_all": "Read all reviews on Google Play",
+    "card": {
+      "source": "via Google Play"
     }
   },
   "search": {
@@ -1924,7 +1942,7 @@
     }
   },
   "entity": {
-    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",
+    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on the web, Android, and iOS.",
     "canonical_phrase": "next-gen companion app for gamers"
   },
   "consent": {

@@ -1,6 +1,5 @@
 {
-  "schema_version": 1,
-  "doc": "docs/guides/store-proof-pipeline.md — the cache contract + the AggregateRating producer contract (G4.2.4; consumer G7.B.6)",
+  "schema_version": 2,
   "as_of": "2026-10-11",
   "fetch": {
     "status": "ok",
@@ -70,7 +69,76 @@
       }
     },
     "downloads_display": "10K+",
-    "downloads_as_of": "2026-10-11"
+    "downloads_as_of": "2026-10-11",
+    "reviews": [
+      {
+        "id": "5f7ec224-055b-4c41-8fd3-7f6a595fc9a9",
+        "market": "br",
+        "language": "pt",
+        "rating": 4,
+        "date": "2026-09-05",
+        "author_display": "Lin",
+        "thumbs_up": 9,
+        "text": "Bacana, ideia legal para conhecer jogadores e fazer amizades. Apesar de ser novo é fácil de mexer porém ainda é lento. Recomendo muito o app.",
+        "source": "play_scrape"
+      },
+      {
+        "id": "2e21531c-a466-4887-8947-432e94834f7d",
+        "market": "br",
+        "language": "pt",
+        "rating": 3,
+        "date": "2026-07-13",
+        "author_display": "Mauricio Neto",
+        "thumbs_up": 10,
+        "text": "quando coloco algum filtro pra procurar uma pessoa especificamente, o app diz que não tem nenhum jogador, isso é um bug? e seria bom se tivesse opção de filtro \"homem ou mulher\" pq só tá aparecendo homem no app, queria procurar mulher também. EU SEI que ainda está em Beta, mas estou só dando uma sugestão, não estou criticando, nem nada.",
+        "source": "play_scrape"
+      },
+      {
+        "id": "5b8871d4-0879-42d7-93cf-4f5097af4f57",
+        "market": "br",
+        "language": "pt",
+        "rating": 5,
+        "date": "2026-08-18",
+        "author_display": "Carolina Bartoli",
+        "thumbs_up": 9,
+        "text": "O aplicativo é bem prático e útil, é fácil conhecer pessoas pra jogar junto e criar novas conexões pra isso. Acabei conversando com um dos co-founder do aplicativo e ele foi muito simpático também, achei a ideia do app bem criativa.",
+        "source": "play_scrape"
+      },
+      {
+        "id": "c29aafbc-a19b-4a7e-8453-a4d2f6ce77e0",
+        "market": "br",
+        "language": "pt",
+        "rating": 4,
+        "date": "2026-07-11",
+        "author_display": "Catt Lives",
+        "thumbs_up": 7,
+        "text": "A premissa é boa mas acho que devia ter a opção de encontrar pessoas que jogam na mesma plataforma que você pra galera de PlayStation ou Xbox conseguir se encontrar",
+        "source": "play_scrape"
+      },
+      {
+        "id": "931a2f2a-ae02-4405-9d95-f173e67bf50c",
+        "market": "br",
+        "language": "pt",
+        "rating": 5,
+        "date": "2026-08-30",
+        "author_display": "Flávio Matheus",
+        "thumbs_up": 5,
+        "text": "foi boa logo que entrei no app aparece várias opções pra personalizar seu perfil é um bom app ainda não testei muito o bate papo mas já gostei de início",
+        "source": "play_scrape"
+      },
+      {
+        "id": "8582a91e-4564-4813-bf9e-4cc475caa85c",
+        "market": "br",
+        "language": "pt",
+        "rating": 5,
+        "date": "2026-08-06",
+        "author_display": "Ítalo Caminha",
+        "thumbs_up": 5,
+        "text": "Ótimo, para um app em estádio inicial, perfeito, ainda falta melhorar muita coisa, mas os devs são muito atenciosos.",
+        "source": "play_scrape"
+      }
+    ],
+    "reviews_as_of": "2026-10-11"
   },
   "display_rules": {
     "min_count": 10
