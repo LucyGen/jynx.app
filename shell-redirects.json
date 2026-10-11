@@ -1,0 +1,1152 @@
+{
+  "meta": {
+    "task": "G5.C.3 — 301 retirement kit (OWNER-GATED EXECUTION; authored, not executed)",
+    "plan": "docs/plans/2026-10-sota-refactor/G5-multilingual-intl-seo.md §G5.C.3",
+    "runbook": "docs/guides/shell-retirement-runbook.md",
+    "decayGate": "runbook §3 — no execution before (i) baseline filed, (ii) >=95% of the 185 under \"Excluded by noindex\", (iii) baseline-material URLs exempted or owner-accepted",
+    "inventorySource": "page-census.listPages()",
+    "sources": {
+      "shellLanguages": "scripts/market-config.js SHELL_LANGUAGES",
+      "blogSlugMap": "src/content/blog/translation-registry.json"
+    },
+    "counts": {
+      "locales": 13,
+      "pagesCovered": 185,
+      "roots": 13,
+      "topLevel": 104,
+      "blog": 68,
+      "shards": 26,
+      "primaryEntries": 211,
+      "supplementalIndexHtml": 13,
+      "totalEntries": 224
+    },
+    "conventions": {
+      "status": 301,
+      "query": "preserved — the worker lookup appends url.search (hash never reaches the worker)",
+      "unmatched": "paths under /{shell}/ NOT in this map fall through to origin (404 semantics preserved for never-real URLs)"
+    },
+    "exempt": []
+  },
+  "redirects": [
+    {
+      "from": "/ar/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/ar/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ar/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/blog/cs2-non-toxic-teammates.html",
+      "to": "/blog/cs2-non-toxic-teammates.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/blog/dalil-bina-firaq-gta-6-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/blog/dalil-firqa-zombi-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/blog/dalil-mujama-al-alab-ai.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ar/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/ar/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ar/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ar/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/bn/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/bn/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/bn/blog/ai-gaming-matchmaking-guide.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/bn/blog/black-ops-7-zombies-squad-guide.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/bn/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/bn/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/bn/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/bn/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/bn/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/bn/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/de/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/de/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/blog/black-ops-7-zombie-team-guide.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/blog/gta-6-online-team-aufbau-guide-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/blog/halo-campaign-evolved-koop-guide-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/blog/ki-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/blog/ki-gaming-matchmaking-leitfaden.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/blog/ki-gaming-matchmaking-revolution-2025.html",
+      "to": "/blog/ai-gaming-matchmaking-revolution-2025.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/de/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/de/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/de/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/de/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/es/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/es/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/blog/guia-construccion-equipos-gta-6-online-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/es/blog/guia-emparejamiento-juegos-ia.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/es/blog/guia-escuadron-zombies-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/es/blog/halo-campaign-evolved-cooperativo-guia-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/es/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/es/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/es/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/es/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/hi/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/hi/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/blog/ai-gaming-matchmaking-guide.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/hi/blog/black-ops-7-zombies-squad-guide-hindi.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/hi/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/hi/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/hi/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/hi/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/hi/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/hi/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/id/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/id/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/blog/apex-legends-playstyle-matching.html",
+      "to": "/blog/apex-legends-playstyle-matching.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/blog/panduan-coop-halo-campaign-evolved-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/blog/panduan-matchmaking-ai-game.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/blog/panduan-membangun-tim-gta-6-online-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/blog/panduan-tim-zombie-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/id/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/id/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/id/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/id/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/it/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/it/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/cs2-non-toxic-teammates.html",
+      "to": "/blog/cs2-non-toxic-teammates.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/guida-matchmaking-ia-gaming.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/guida-squadra-zombi-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/guida-team-building-gta-6-online-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/halo-campaign-evolved-coop-guida-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/small-gaming-groups-vs-clans.html",
+      "to": "/blog/small-gaming-groups-vs-clans.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/blog/wrong-gaming-squad-signs.html",
+      "to": "/blog/wrong-gaming-squad-signs.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/it/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/it/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/it/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/it/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/ko/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ko/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/blog/ai-gaming-matchmaking-guide.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ko/blog/black-ops-7-zombie-tim-gaideu.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ko/blog/gta-6-online-baiseu-siti-tim-bilding-gaideu-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ko/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ko/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/ko/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ko/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ko/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/pl/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/pl/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/blog/gta-6-online-przewodnik-budowania-ekipy-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/pl/blog/halo-campaign-evolved-wspolpraca-przewodnik-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/pl/blog/przewodnik-druzyna-zombie-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/pl/blog/przewodnik-matchmaking-ai-gry.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/pl/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/pl/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/pl/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/pl/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/ru/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ru/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/blog/ai-trenary-kiberport.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ru/blog/gaid-po-sozdaniyu-komandy-zombi-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ru/blog/gta-6-online-sozdanie-komandy-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ru/blog/halo-campaign-evolved-kooperativ-gajd-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ru/blog/rukovodstvo-matchmaking-ai-igry.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/ru/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/ru/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/ru/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/ru/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/tr/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/tr/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/tr/blog/black-ops-7-zombi-takimi-rehberi.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/tr/blog/gta-6-online-takim-kurma-rehberi-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/tr/blog/halo-campaign-evolved-koop-rehberi-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/tr/blog/yapay-zeka-oyun-eslestirme-rehberi.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/tr/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/tr/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/tr/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/tr/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/uk/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/uk/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/uk/blog/gajd-stvorennya-komandy-gta-6-onlajn-vays-siti-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/uk/blog/gid-komanda-zombi-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/uk/blog/halo-campaign-evolved-kooperatyvnyi-gid-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/uk/blog/posibnik-matchmaking-ai-igri.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/uk/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/uk/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/uk/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/uk/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/",
+      "to": "/",
+      "kind": "root"
+    },
+    {
+      "from": "/vi/about.html",
+      "to": "/about.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/blog-sitemap.xml",
+      "to": "/blog-sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/vi/blog.html",
+      "to": "/blog.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/blog/ai-coaches-competitive-gaming.html",
+      "to": "/blog/ai-coaches-competitive-gaming.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/blog/ai-gaming-matchmaking-revolution-2025.html",
+      "to": "/blog/ai-gaming-matchmaking-revolution-2025.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/blog/huong-dan-choi-coop-halo-campaign-evolved-2026.html",
+      "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/blog/huong-dan-doi-zombie-black-ops-7.html",
+      "to": "/blog/black-ops-7-zombies-squad-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/blog/huong-dan-ghep-cap-game-ai.html",
+      "to": "/blog/ai-gaming-matchmaking-guide.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/blog/huong-dan-xay-dung-doi-nhom-gta-6-online-vice-city-2026.html",
+      "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
+      "kind": "blog"
+    },
+    {
+      "from": "/vi/delete-account.html",
+      "to": "/delete-account.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/download.html",
+      "to": "/download.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/index.html",
+      "to": "/",
+      "kind": "root-index-html"
+    },
+    {
+      "from": "/vi/invite.html",
+      "to": "/invite.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/privacy.html",
+      "to": "/privacy.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/search.html",
+      "to": "/search.html",
+      "kind": "page"
+    },
+    {
+      "from": "/vi/sitemap.xml",
+      "to": "/sitemap.xml",
+      "kind": "shard"
+    },
+    {
+      "from": "/vi/terms.html",
+      "to": "/terms.html",
+      "kind": "page"
+    }
+  ]
+}

@@ -10,9 +10,6 @@
     "twitter_description": "Tìm đội game hoàn hảo của bạn với ghép đôi thông minh. Đừng chơi một mình nữa.",
     "twitter_image_alt": "Nền Tảng Ghép Đôi Game Jynx"
   },
-  "store": {
-    "coming_soon_badge": "Sắp ra mắt"
-  },
   "about": {
     "meta": {
       "title": "Về Chúng Tôi | Jynx - Game Trở Nên Xã Hội",
@@ -20,7 +17,7 @@
       "og_title": "Về Jynx - Đội Ngũ Đằng Sau Ghép Đôi Game",
       "og_description": "Được thành lập bởi game thủ cho game thủ. Tìm hiểu về sứ mệnh của Jynx chuyển đổi game đơn lẻ thành trải nghiệm xã hội.",
       "og_image_alt": "Đội Ngũ Jynx và Tổng Quan Nền Tảng",
-      "twitter_title": "Về Jynx - Nền Tảng Ghép Đôi Game",
+      "twitter_title": "Về Jynx - Đội Ngũ Đằng Sau Ghép Đôi Game",
       "twitter_description": "Được thành lập bởi game thủ cho game thủ. Tìm hiểu về sứ mệnh của Jynx.",
       "twitter_image_alt": "Về Nền Tảng Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "Chính Sách Bảo Mật Jynx - Bảo Vệ Dữ Liệu Của Bạn",
       "og_description": "Chính sách bảo mật minh bạch mô tả cách Jynx xử lý dữ liệu game của bạn.",
       "og_image_alt": "Chính Sách Bảo Mật Jynx",
-      "twitter_title": "Chính Sách Bảo Mật Jynx",
+      "twitter_title": "Chính Sách Bảo Mật Jynx - Bảo Vệ Dữ Liệu Của Bạn",
       "twitter_description": "Tìm hiểu cách chúng tôi bảo vệ dữ liệu của bạn và tôn trọng quyền riêng tư của bạn.",
       "twitter_image_alt": "Chính Sách Bảo Mật"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Phản hồi",
     "download": "Tải xuống",
     "blog": "Blog",
+    "games": "Games",
     "search": "Tìm kiếm",
     "search_aria": "Tìm kiếm bài viết",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "THAM GIA CỘNG ĐỒNG",
     "title_primary": "Nền Tảng Ghép Đôi Game Thông Minh",
     "tagline": "Where Gaming Gets Social"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Chơi Game Tốt Hơn, Cùng Nhau",
@@ -1236,9 +1238,8 @@
       "error": "Vui lòng nhập địa chỉ email hợp lệ"
     },
     "optional": "Tùy chọn",
-    "submit": "Tham Gia Danh Sách Chờ",
     "submitting": "Đang gửi...",
-    "success": "Thành công! Kiểm tra email của bạn.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Đã xảy ra lỗi. Vui lòng thử lại.",
     "errors": {
       "permission_denied": "Bạn không có quyền gửi biểu mẫu này.",
@@ -1256,10 +1257,8 @@
     "nojs_note": "Điều này sẽ mở ứng dụng email của bạn. Để có trải nghiệm tốt nhất, vui lòng bật JavaScript."
   },
   "feedback": {
-    "coming_soon": "Sắp ra mắt",
-    "stay_tuned": "Hãy chờ đón sự ra mắt của chúng tôi",
     "title": "Chia Sẻ Phản Hồi Của Bạn",
-    "subtitle": "Chúng tôi đánh giá cao ý kiến của bạn và sử dụng nó để cải thiện Jynx",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "feedback": "Tin nhắn của bạn (tùy chọn)",
     "feedback_label": "Tin nhắn của bạn",
     "discord": "Tham gia Discord của chúng tôi",
@@ -1269,7 +1268,9 @@
     "submit": "Gửi",
     "note": "Miễn phí mãi mãi",
     "submitting": "Đang gửi...",
-    "thanks": "Cảm ơn phản hồi của bạn!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Không thể gửi phản hồi. Vui lòng thử lại.",
     "error_empty": "Vui lòng cung cấp email hoặc phản hồi của bạn.",
     "badge_free": "Miễn phí mãi mãi",
@@ -1282,6 +1283,8 @@
       "about": "Về chúng tôi",
       "about_seo": "Về Nền Tảng Game Jynx",
       "blog": "Blog",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Tìm kiếm"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Bảo lưu mọi quyền.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Bảo lưu mọi quyền.",
     "language": "Ngôn ngữ"
   },
   "errors": {
@@ -1342,7 +1345,7 @@
       "og_title": "Tải Xuống Jynx - Có Sẵn Trên Tất Cả Nền Tảng",
       "og_description": "Tải xuống Jynx cho Windows, macOS, iOS và Android. Bắt đầu ngay hôm nay!",
       "og_image_alt": "Trang Tải Xuống Jynx",
-      "twitter_title": "Tải Xuống Jynx",
+      "twitter_title": "Tải Xuống Jynx - Có Sẵn Trên Tất Cả Nền Tảng",
       "twitter_description": "Nhận Jynx trên tất cả nền tảng. Tải xuống ngay hôm nay!",
       "twitter_image_alt": "Tải Xuống Jynx"
     },
@@ -1384,8 +1387,7 @@
       "google_play": {
         "text_small": "Tải về",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Sắp Ra Mắt"
+      }
     },
     "signup": {
       "title": "Nhận Thông Báo Khi Chúng Tôi Ra Mắt",
@@ -1409,7 +1411,6 @@
       "copy_success": "✓ Đã sao chép!",
       "copy_fallback": "Đã sao chép liên kết vào clipboard!",
       "form_submitting": "Đang gửi...",
-      "form_success": "✓ Cảm ơn! Chúng tôi sẽ thông báo cho bạn khi Jynx ra mắt trên di động.",
       "form_error": "Đã xảy ra lỗi. Vui lòng thử lại."
     },
     "theme_feedback": {
@@ -1421,8 +1422,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1489,41 +1489,43 @@
       "servers": "Máy chủ",
       "teams": "Đội",
       "advanced": "Nâng cao",
-      "coming_soon": "Sắp ra mắt",
-      "exclusive_features": "(Tính năng độc quyền)",
+      "planned": "Planned",
       "game_apis": "API Game",
       "general": "Chung",
       "varies": "Khác nhau",
       "free_jynx_plus": "Miễn phí / Jynx+",
       "free_varies": "Miễn phí/Khác nhau"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Sẵn Sàng Trải Nghiệm Sự Khác Biệt?",
       "description": "Tham gia game thủ trên toàn thế giới đang tìm đội hoàn hảo với ghép đôi AI của Jynx",
       "button": "Bắt Đầu Ghép Đôi Với AI - Miễn Phí Mãi Mãi"
     }
   },
-  "reviews": {
-    "main_title": "TẠI SAO GAME THỦ CẦN",
-    "subtitle_prefix": "GHÉP ĐÔI",
-    "subtitle_highlight": "TỐT HƠN",
-    "nojs_note": "Bật JavaScript để duyệt tất cả các tình huống",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "Việc tìm đồng đội ổn định ở ELO của tôi không nên có nghĩa là phải spam Discord hàng giờ. Tôi cần những người chơi biết giao tiếp, xuất hiện đúng giờ và thực sự chơi vai trò chính của họ.",
       "name": "Game Thủ Chuyên Xếp Hạng",
       "role": "Người Chơi Cạnh Tranh"
     },
-    "review2": {
+    "persona2": {
       "quote": "Mệt mỏi với những người chơi ngẫu nhiên rage quit, không nói ngôn ngữ của tôi, hoặc online khi tôi đang ngủ. Tôi chỉ muốn đồng đội phù hợp với lịch trình và phong cách của tôi.",
       "name": "Chiến Binh Cuối Tuần",
       "role": "Game Thủ Giải Trí"
     },
-    "review3": {
+    "persona3": {
       "quote": "Tổ chức các phiên chơi game qua các múi giờ thật hỗn loạn nếu không có công cụ phù hợp. Cần một hệ thống thực sự giúp điều phối cộng đồng của tôi.",
       "name": "Người Xây Dựng Cộng Đồng",
       "role": "Trưởng Guild"
     },
-    "review4": {
+    "persona4": {
       "quote": "Solo queue đang giết chết niềm đam mê game của tôi. Mỗi trận là một cú tung đồng xu của độc hại. Phải có cách tốt hơn để tìm người thực sự muốn cùng nhau tiến bộ.",
       "name": "Người Thoát Solo Queue",
       "role": "Người Chơi Tìm Đội"
@@ -1600,7 +1602,7 @@
       "index_description": "Khám phá lời khuyên chuyên gia về ghép đội gaming, xây dựng cộng đồng và tìm đồng đội hoàn hảo. Hướng dẫn, chiến lược và thông tin chi tiết.",
       "og_title": "Blog Jynx - Mẹo Ghép Đội Gaming và Hướng Dẫn Cộng Đồng",
       "og_description": "Hướng dẫn chuyên gia về ghép đội AI, cộng đồng gaming và tìm đồng đội hoàn hảo. Mẹo và chiến lược cho game thủ cạnh tranh.",
-      "twitter_title": "Blog Jynx - Mẹo và Hướng Dẫn Gaming",
+      "twitter_title": "Blog Jynx - Mẹo Ghép Đội Gaming và Hướng Dẫn Cộng Đồng",
       "twitter_description": "Hướng dẫn chuyên gia về ghép đội gaming và xây dựng cộng đồng."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

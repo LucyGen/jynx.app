@@ -1,7 +1,13 @@
 # ============================================================================
 # JYNX GAMING PLATFORM - ROBOTS.TXT
 # ============================================================================
-# Last Updated: 2025-10-31
+# Last Updated: 2026-10-11 (G4.4.6: Disallow: /ab/ experiment-variant family
+#   added to the wildcard group + every engine group that carries the
+#   protected-directories trio — pinned in scripts/validate-robots.js per the
+#   G7.F.1 matrix convention; family contract docs/reference/ab-family-contract.md)
+# 2026-10-10 (2026 census refresh, G7.F.1: search/referral
+#   agents added, Google AdsBot named groups pinned — see
+#   docs/guides/robots-txt-strategy.md §Strategic Decisions 5)
 # Site: https://jynx.app
 # Languages: 16 (en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi)
 # Total Pages: 230+ (6 main pages + 119 blog posts × 16 languages)
@@ -23,6 +29,15 @@ Allow: /
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+
+# --- Experiment Variant Family (G4.4.6) ---
+# /ab/{id}/{a|b}/ are A/B variant copies of canonical pages (worker serves
+# variant bytes AT the canonical URL; these direct URLs are the debug/crawl
+# surface). Direct-URL noindex = worker X-Robots-Tag + this Disallow —
+# canonical pages stay allowed. Mirrored in each engine UA group below
+# (named groups never inherit the wildcard block) and pinned by
+# `npm run seo:robots` (G7.F.1 matrix convention).
+Disallow: /ab/
 
 # --- Duplicate Content Prevention ---
 # Block search result pages
@@ -78,6 +93,8 @@ User-agent: Googlebot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+# Experiment variant family (G4.4.6 — see the default block's /ab/ note)
+Disallow: /ab/
 Disallow: /*.json$
 # Crawl-trap query parameters (P1.3 — see comment in default block)
 Disallow: /*?category=
@@ -92,11 +109,26 @@ Allow: /
 User-agent: Googlebot-Video
 Allow: /
 
+# --- Google Ads crawlers (F-09: NAMED groups, not wildcard inheritance) ---
+# Google's AdsBot crawlers are excluded from User-agent: * wildcard matching
+# (Google Search Central docs) — a * group never reaches them; they must be
+# named explicitly. Their crawl feeds Google Ads landing-page quality, and
+# this program runs a live paid denominator, so the stance is Allow.
+# Matrix-pinned in scripts/validate-robots.js (named-group existence, not
+# wildcard fallback). Mediapartners-Google (AdSense) keeps its block below —
+# no AdSense runs on this site.
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
 # --- Microsoft Bing (Bingbot) ---
 User-agent: Bingbot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 # Crawl-trap query parameters (P1.3)
 Disallow: /*?category=
@@ -111,6 +143,7 @@ User-agent: Slurp
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 # Crawl-trap query parameters (P1.3)
 Disallow: /*?category=
@@ -125,6 +158,7 @@ User-agent: DuckDuckBot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 # Crawl-trap query parameters (P1.3)
 Disallow: /*?category=
@@ -138,6 +172,7 @@ User-agent: Brave-Indexer
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 
@@ -152,6 +187,7 @@ User-agent: Yandex
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -160,6 +196,7 @@ User-agent: YandexBot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -168,6 +205,7 @@ User-agent: YandexMobileBot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -177,6 +215,7 @@ User-agent: Baiduspider
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -185,6 +224,7 @@ User-agent: Baiduspider-mobile
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -194,6 +234,7 @@ User-agent: NaverBot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -202,6 +243,7 @@ User-agent: Yeti
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -211,6 +253,7 @@ User-agent: SeznamBot
 Disallow: /admin/
 Disallow: /api/
 Disallow: /private/
+Disallow: /ab/
 Disallow: /*.json$
 Allow: /
 Crawl-delay: 5
@@ -231,8 +274,28 @@ User-agent: ChatGPT-User
 Allow: /
 Crawl-delay: 10
 
+# --- OpenAI search/referral (2026 census: sends traffic → allowed) ---
+# OAI-SearchBot surfaces the site in ChatGPT search answers
+# (developers.openai.com/api/docs/bots)
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 10
+
 # --- Anthropic (Claude) ---
+# 2026 census (support.claude.com/en/articles/8896518): ClaudeBot = training,
+# Claude-SearchBot = search indexing, Claude-User = user-initiated fetch.
+# Claude-Web and anthropic-ai are deprecated tokens (fleet consolidated into
+# ClaudeBot, July 2024) — groups kept as belt-and-suspenders; no legitimate
+# traffic is expected under those strings. Anthropic honors Crawl-delay.
 User-agent: ClaudeBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Claude-SearchBot
+Allow: /
+Crawl-delay: 10
+
+User-agent: Claude-User
 Allow: /
 Crawl-delay: 10
 
@@ -265,6 +328,14 @@ Allow: /
 
 # --- Perplexity AI ---
 User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 10
+
+# Perplexity-User: user-initiated fetch, referral traffic → allowed
+# (docs.perplexity.ai/docs/resources/perplexity-crawlers; note Perplexity
+# documents that user-initiated agents generally ignore robots.txt — the
+# Allow group is consent documentation, not an enforcement mechanism)
+User-agent: Perplexity-User
 Allow: /
 Crawl-delay: 10
 

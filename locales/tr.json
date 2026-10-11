@@ -10,9 +10,6 @@
     "twitter_description": "Akıllı eşleştirmeyle mükemmel oyun takımınızı bulun. Artık yalnız oynamayı bırakın.",
     "twitter_image_alt": "Jynx Oyun Eşleştirme Platformu"
   },
-  "store": {
-    "coming_soon_badge": "Yakında"
-  },
   "about": {
     "meta": {
       "title": "Jynx Hakkında | Misyonumuz ve Vizyonumuz",
@@ -20,7 +17,7 @@
       "og_title": "Jynx Hakkında - Oyunu Sosyalleştiren Ekip",
       "og_description": "Oyun topluluğunu yeniden tanımlama tutkusuyla birleşmiş ekiple tanışın. Misyonumuzu, vizyonumuzu ve oyunu herkes için daha bağlantılı ve keyifli hale getirme yolculuğumuzu keşfedin.",
       "og_image_alt": "Jynx Ekibi ve Platform Genel Bakış",
-      "twitter_title": "Jynx Hakkında - Akıllı Oyun Eşleştirme Platformu",
+      "twitter_title": "Jynx Hakkında - Oyunu Sosyalleştiren Ekip",
       "twitter_description": "Oyuncular tarafından oyuncular için kuruldu. Jynx'in misyonunu öğrenin.",
       "twitter_image_alt": "Jynx Platformu Hakkında"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Geri Bildirim",
     "download": "İndir",
     "blog": "Blog",
+    "games": "Games",
     "search": "Ara",
     "search_aria": "Makale ara",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "TOPLULUĞUNUZA KATILIN",
     "title_primary": "Akıllı Oyun Eşleştirme Platformu",
     "tagline": "Where Gaming Gets Social"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Birlikte Daha İyi Oyun",
@@ -1250,16 +1252,13 @@
       "empty_field": "Bu alan boş bırakılamaz.",
       "default": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."
     },
-    "submit": "Erken Erişim Alın",
     "submitting": "Gönderiliyor...",
-    "success": "Teşekkürler! Yakında sizinle iletişime geçeceğiz.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
   },
   "feedback": {
-    "coming_soon": "Yakında",
-    "stay_tuned": "Lansmanımızı takip edin",
     "title": "Geri Bildiriminizi Paylaşın",
-    "subtitle": "Görüşünüz daha iyi bir Jynx oluşturmamıza yardımcı olur",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "feedback": "Mesajınız (isteğe bağlı)",
     "feedback_label": "Mesajınız",
     "discord": "Discord'umuza katılın",
@@ -1267,7 +1266,9 @@
     "no": "Hayır",
     "textarea": "Bize ne düşündüğünüzü söyleyin...",
     "note": "Sonsuza kadar ücretsiz",
-    "thanks": "Geri bildiriminiz için teşekkürler!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error_empty": "Lütfen e-postanızı veya geri bildiriminizi sağlayın.",
     "submit": "Geri Bildirim Gönder",
     "submitting": "Gönderiliyor...",
@@ -1282,6 +1283,8 @@
       "about": "Hakkımızda",
       "about_seo": "Jynx Oyun Platformu Hakkında",
       "blog": "Blog",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Ara"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Tüm hakları saklıdır.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Tüm hakları saklıdır.",
     "language": "Dil"
   },
   "errors": {
@@ -1342,7 +1345,7 @@
       "og_title": "Jynx İndir - Tüm Platformlarda Mevcut",
       "og_description": "Tercih ettiğiniz cihazda Jynx'i edinin. Tüm büyük platformlarda mevcut.",
       "og_image_alt": "Jynx Oyun Uygulamasını İndirin",
-      "twitter_title": "Jynx İndir - Oyun Sosyal Platformu",
+      "twitter_title": "Jynx İndir - Tüm Platformlarda Mevcut",
       "twitter_description": "Jynx uygulamasını iOS veya Android'de edinin. Bugün takım arkadaşları bulmaya başlayın.",
       "twitter_image_alt": "Jynx Mobil Uygulaması"
     },
@@ -1362,8 +1365,7 @@
       "google_play": {
         "text_small": "İndir",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Yakında Geliyor"
+      }
     },
     "signup": {
       "title": "Lansman Yaptığımızda Haberdar Olun",
@@ -1387,7 +1389,6 @@
       "copy_success": "✓ Kopyalandı!",
       "copy_fallback": "Bağlantı panoya kopyalandı!",
       "form_submitting": "Gönderiliyor...",
-      "form_success": "✓ Teşekkürler! Jynx mobilde piyasaya çıktığında sizi bilgilendireceğiz.",
       "form_error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
     },
     "features": {
@@ -1421,8 +1422,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1489,41 +1489,43 @@
       "servers": "Sunucular",
       "teams": "Takımlar",
       "advanced": "Gelişmiş",
-      "coming_soon": "Yakında Geliyor",
-      "exclusive_features": "(Özel Özellikler)",
+      "planned": "Planned",
       "game_apis": "Oyun API'leri",
       "general": "Genel",
       "varies": "Değişir",
       "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
       "free_varies": "Ücretsiz + Değişir"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Farkı Deneyimlemeye Hazır mısınız?",
       "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan dünya çapındaki oyunculara katılın",
       "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
     }
   },
-  "reviews": {
-    "main_title": "OYUNCULARIN NEDEN",
-    "subtitle_prefix": "DAHA İYİ",
-    "subtitle_highlight": "EŞLEŞTİRMEYE İHTİYACI VAR",
-    "nojs_note": "Tüm senaryolara göz atmak için JavaScript'i etkinleştirin",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "ELO'mda tutarlı takım arkadaşları bulmak, saatlerce Discord'da spam yapmak anlamına gelmemeli. İletişim kuran, zamanında gelen ve gerçekten ana rollerini oynayan oyunculara ihtiyacım var.",
       "name": "Sıralı Tırmanışçı",
       "role": "Rekabetçi Oyuncu"
     },
-    "review2": {
+    "persona2": {
       "quote": "Öfkelenerek oyundan çıkan, dilimi konuşmayan veya ben uyurken çevrimiçi olan rastgele oyunculardan bıktım. Sadece programıma ve havama uyan takım arkadaşları istiyorum.",
       "name": "Hafta Sonu Savaşçısı",
       "role": "Sıradan Oyuncu"
     },
-    "review3": {
+    "persona3": {
       "quote": "Saat dilimleri arasında oyun seansları düzenlemek, doğru araçlar olmadan kaos. Topluluğumu gerçekten koordine etmeye yardımcı olacak bir sisteme ihtiyacım var.",
       "name": "Topluluk Oluşturucu",
       "role": "Lonca Lideri"
     },
-    "review4": {
+    "persona4": {
       "quote": "Solo kuyruk oyun sevgimi öldürüyor. Her maç toksikliğin yazı-tura atması. Birlikte gerçekten gelişmek isteyen insanları bulmanın daha iyi bir yolu olmalı.",
       "name": "Solo Kuyruktan Kaçan",
       "role": "Takım Arayan Oyuncu"
@@ -1600,7 +1602,7 @@
       "index_description": "Oyun eşleştirme, topluluk oluşturma ve mükemmel takım arkadaşları bulma konusunda uzman ipuçlarını keşfedin. Kılavuzlar, stratejiler ve içgörüler.",
       "og_title": "Jynx Blog - Oyun Eşleştirme İpuçları ve Topluluk Kılavuzları",
       "og_description": "Yapay zeka eşleştirme, oyun toplulukları ve mükemmel takım arkadaşları bulma konusunda uzman kılavuzları. Rekabetçi oyuncular için ipuçları ve stratejiler.",
-      "twitter_title": "Jynx Blog - Oyun İpuçları ve Kılavuzları",
+      "twitter_title": "Jynx Blog - Oyun Eşleştirme İpuçları ve Topluluk Kılavuzları",
       "twitter_description": "Oyun eşleştirme ve topluluk oluşturma konusunda uzman kılavuzları."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

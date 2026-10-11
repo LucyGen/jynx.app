@@ -1,6 +1,6 @@
 {
   "locale": "pt",
-  "post_count": 5,
+  "post_count": 9,
   "posts": [
     {
       "id": "guia-construcao-equipe-gta-6-online-vice-city-2026",
@@ -43,7 +43,7 @@
       "category": "matchmaking",
       "slug": "ai-coaches-competitive-gaming",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
+      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
       "featured_image_alt": "Jogador profissional analisando estatísticas de desempenho e métricas de gameplay",
       "reading_time": 19,
       "locale": "pt",
@@ -54,6 +54,64 @@
         "melhoria jogos competitivos",
         "analytics gaming",
         "otimização desempenho gaming"
+      ]
+    },
+    {
+      "id": "como-entrar-em-um-time-de-valorant",
+      "title": "De Solo Queue a 5-Stack: Como Entrar em um Time de Valorant",
+      "excerpt": "Domine a jornada do caos do solo queue ao sucesso no 5-stack. Estratégias comprovadas para achar duo no Valorant, montar time, criar química e evoluir na ranqueada — do primeiro duo ao roster competitivo.",
+      "tags": [
+        "valorant",
+        "team-building",
+        "5-stack",
+        "solo-queue",
+        "competitive",
+        "team-chemistry",
+        "ranked"
+      ],
+      "category": "gaming-communities",
+      "slug": "como-entrar-em-um-time-de-valorant",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/valorant-solo-to-team/hero.webp",
+      "featured_image_alt": "Time de Valorant comemorando vitória em partida ranqueada 5-stack",
+      "reading_time": 15,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "procurar duo valorant",
+        "achar duo valorant",
+        "achar time valorant",
+        "como entrar em um time de valorant",
+        "como entrar em um time profissional de valorant"
+      ]
+    },
+    {
+      "id": "construir-comunidades-de-jogos-duradouras",
+      "title": "Como Construir Comunidades de Jogos Que Duram de Verdade",
+      "excerpt": "A maioria das comunidades de gaming morre em poucos meses. Aprenda os frameworks e estratégias comprovados que ajudam líderes a construir comunidades de jogos prósperas, com Discord, grupo de zap e engajamento real.",
+      "tags": [
+        "gaming communities",
+        "community management",
+        "discord management",
+        "gaming leadership",
+        "community building",
+        "moderation",
+        "community engagement"
+      ],
+      "category": "gaming-communities",
+      "slug": "construir-comunidades-de-jogos-duradouras",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/building-lasting-gaming-communities/hero.webp",
+      "featured_image_alt": "Membros de uma comunidade de jogos próspera colaborando juntos",
+      "reading_time": 29,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "melhor jogo para jogar com amigos",
+        "jogos para fazer amigos",
+        "jogos para fazer amigos online",
+        "grupos para jogar online",
+        "discord para jogar"
       ]
     },
     {
@@ -97,7 +155,7 @@
       "category": "matchmaking",
       "slug": "guia-matchmaking-ia-jogos",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
+      "featured_image": "/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp",
       "featured_image_alt": "Interface de matchmaking de jogos com IA mostrando pontuações de compatibilidade de jogadores",
       "reading_time": 16,
       "locale": "pt",
@@ -108,6 +166,35 @@
         "alternativa LFG",
         "companheiros IA",
         "matchmaking baseado em habilidade"
+      ]
+    },
+    {
+      "id": "guia-procurar-duo-lol",
+      "title": "Guia Completo para Achar Duo e Time no League of Legends",
+      "excerpt": "Domine a arte de achar duo no LoL e companheiros de time compatíveis com seu estilo de jogo, elo e horário. Guia completo de duo queue, Clash e subida de elo no League of Legends.",
+      "tags": [
+        "league-of-legends",
+        "matchmaking",
+        "ranked",
+        "team-building",
+        "duo-queue",
+        "clash",
+        "competitive"
+      ],
+      "category": "matchmaking",
+      "slug": "guia-procurar-duo-lol",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/league-of-legends-teammate-guide/hero.webp",
+      "featured_image_alt": "Time de League of Legends coordenando estratégia em partida ranqueada",
+      "reading_time": 24,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "procurar duo lol",
+        "achar duo lol",
+        "achar time lol",
+        "achar time para clash lol",
+        "arrumar duo lol"
       ]
     },
     {
@@ -138,7 +225,36 @@
         "encontrar companheiros halo",
         "dificuldade lendária"
       ]
+    },
+    {
+      "id": "onde-achar-time-para-jogar",
+      "title": "Onde Achar Time para Jogar: Discord, Grupo de Zap ou App?",
+      "excerpt": "Descubra qual plataforma entrega o melhor resultado para achar time para jogar no Brasil. Compare Discord, grupos de WhatsApp, Gamers Club e apps com taxas de sucesso e estratégias práticas.",
+      "tags": [
+        "discord",
+        "reddit",
+        "gaming-forums",
+        "team-finding",
+        "lfg",
+        "community-building",
+        "matchmaking"
+      ],
+      "category": "gaming-communities",
+      "slug": "onde-achar-time-para-jogar",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp",
+      "featured_image_alt": "Gamers comparando plataformas diferentes em várias telas",
+      "reading_time": 13,
+      "locale": "pt",
+      "author": "jynx-team",
+      "keywords": [
+        "achar time para jogar",
+        "achar time para jogar online",
+        "achar time para jogar free fire",
+        "discord para jogar",
+        "discord para achar duo valorant"
+      ]
     }
   ],
-  "generated_at": "content-9ae376ec7d22"
+  "generated_at": "content-0d6b89df42ba"
 }

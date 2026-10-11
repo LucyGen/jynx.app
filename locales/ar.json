@@ -10,9 +10,6 @@
     "twitter_description": "اعثر على فريق الألعاب المثالي مع المطابقة الذكية. توقف عن اللعب وحدك.",
     "twitter_image_alt": "منصة مطابقة الألعاب Jynx"
   },
-  "store": {
-    "coming_soon_badge": "قريباً"
-  },
   "about": {
     "meta": {
       "title": "Jynx | من نحن",
@@ -20,7 +17,7 @@
       "og_title": "عن Jynx - الفريق وراء مطابقة الألعاب بالذكاء الاصطناعي",
       "og_description": "تأسست بواسطة اللاعبين للاعبين. تعرف على مهمة Jynx لتحويل الألعاب الفردية إلى تجارب اجتماعية.",
       "og_image_alt": "فريق Jynx ونظرة عامة على المنصة",
-      "twitter_title": "عن Jynx - منصة مطابقة الألعاب بالذكاء الاصطناعي",
+      "twitter_title": "عن Jynx - الفريق وراء مطابقة الألعاب بالذكاء الاصطناعي",
       "twitter_description": "تأسست بواسطة اللاعبين للاعبين. تعرف على مهمة Jynx.",
       "twitter_image_alt": "عن منصة Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "سياسة خصوصية Jynx - حماية بياناتك",
       "og_description": "سياسة خصوصية شفافة توضح كيفية تعامل Jynx مع بيانات الألعاب الخاصة بك.",
       "og_image_alt": "سياسة خصوصية Jynx",
-      "twitter_title": "سياسة خصوصية Jynx",
+      "twitter_title": "سياسة خصوصية Jynx - حماية بياناتك",
       "twitter_description": "تعرف على كيفية حماية بياناتك واحترام خصوصيتك.",
       "twitter_image_alt": "سياسة الخصوصية"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "التغذية الراجعة",
     "download": "تنزيل",
     "blog": "المدونة",
+    "games": "Games",
     "search": "بحث",
     "search_aria": "البحث عن المقالات",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "play_store_small": "احصل عليه من",
     "play_store_large": "Google Play",
     "cta_primary": "انضم إلى مجتمعك"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title_seo": "العب بشكل أفضل، معًا مع المطابقة الذكية",
@@ -1237,9 +1239,8 @@
       "error": "يرجى إدخال عنوان بريد إلكتروني صالح"
     },
     "optional": "اختياري",
-    "submit": "انضم إلى قائمة الانتظار",
     "submitting": "جارٍ الإرسال...",
-    "success": "أنت مسجل! سنخطرك عند إطلاق Jynx.",
+    "success": "You're in! Thanks for signing up.",
     "error": "عذرًا! حدث خطأ ما. يرجى المحاولة مرة أخرى.",
     "errors": {
       "permission_denied": "ليس لديك إذن لإرسال هذا النموذج.",
@@ -1256,12 +1257,10 @@
     }
   },
   "feedback": {
-    "coming_soon": "قريبًا",
-    "stay_tuned": "ترقبوا إطلاقنا",
     "title": "اقتراحاتك، أولويتنا",
     "feedback": "رسالتك (اختياري)",
     "feedback_label": "رسالتك",
-    "subtitle": "لا رسائل مزعجة. سنتواصل معك فقط عند إطلاق Jynx.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "انضم إلى Discord الخاص بنا",
     "yes": "نعم",
     "no": "لا",
@@ -1269,7 +1268,9 @@
     "submit": "إرسال",
     "note": "مجاني للأبد",
     "submitting": "جارٍ الإرسال...",
-    "thanks": "شكرًا على ملاحظاتك!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "تعذر إرسال الملاحظات. يرجى المحاولة مرة أخرى.",
     "error_empty": "يرجى تقديم بريدك الإلكتروني أو ملاحظاتك.",
     "badge_free": "مجاني للأبد",
@@ -1282,6 +1283,8 @@
       "title": "الشركة",
       "about": "من نحن",
       "blog": "المدونة",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "بحث"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. جميع الحقوق محفوظة.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. جميع الحقوق محفوظة.",
     "language": "اللغة"
   },
   "errors": {
@@ -1342,7 +1345,7 @@
       "og_title": "تنزيل تطبيق Jynx - اعثر على فريق الألعاب الخاص بك",
       "og_description": "احصل على تطبيق Jynx على iOS أو Android. ابدأ في العثور على زملاء متوافقين مع مطابقة الذكاء الاصطناعي.",
       "og_image_alt": "تنزيل تطبيق الألعاب Jynx",
-      "twitter_title": "تنزيل Jynx - منصة الألعاب الاجتماعية",
+      "twitter_title": "تنزيل تطبيق Jynx - اعثر على فريق الألعاب الخاص بك",
       "twitter_description": "احصل على تطبيق Jynx على iOS أو Android. ابدأ في العثور على زملاء اليوم.",
       "twitter_image_alt": "تطبيق Jynx للهاتف المحمول"
     },
@@ -1362,8 +1365,7 @@
       "google_play": {
         "text_small": "احصل عليه من",
         "text_large": "Google Play"
-      },
-      "coming_soon": "قريبًا"
+      }
     },
     "signup": {
       "title": "احصل على إشعار عند الإطلاق",
@@ -1387,7 +1389,6 @@
       "copy_success": "✓ تم النسخ!",
       "copy_fallback": "تم نسخ الرابط إلى الحافظة!",
       "form_submitting": "جارٍ الإرسال...",
-      "form_success": "✓ شكرًا لك! سنخطرك عند إطلاق Jynx على الهاتف المحمول.",
       "form_error": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
     },
     "features": {
@@ -1421,8 +1422,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1490,12 +1490,13 @@
       "servers": "خوادم",
       "teams": "فرق",
       "advanced": "متقدم",
-      "coming_soon": "قريبًا",
-      "exclusive_features": "(ميزات حصرية)",
+      "planned": "Planned",
       "general": "عام",
       "varies": "يختلف",
       "free_varies": "مجاني/يختلف"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "title": "صُنعت للاعبين، بواسطة لاعبين",
     "cta": {
       "title": "مستعد لتجربة الفرق؟",
@@ -1503,27 +1504,28 @@
       "button": "ابدأ المطابقة مع الذكاء الاصطناعي - مجاني إلى الأبد"
     }
   },
-  "reviews": {
-    "main_title": "لماذا يحتاج اللاعبون",
-    "subtitle_prefix": "مطابقة",
-    "subtitle_highlight": "أفضل",
-    "nojs_note": "قم بتمكين JavaScript لتصفح جميع السيناريوهات",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "العثور على زملاء فريق ثابتين في مستوى ELO الخاص بي لا يجب أن يعني إرسال رسائل في Discord لساعات. أحتاج إلى لاعبين يتواصلون، ويظهرون في الوقت المحدد، ويلعبون فعلاً دورهم الأساسي.",
       "name": "اللاعب المتحمس للمراتب",
       "role": "لاعب تنافسي"
     },
-    "review2": {
+    "persona2": {
       "quote": "تعبت من اللاعبين العشوائيين الذين يتركون اللعبة غاضبين، لا يتحدثون لغتي، أو متصلون عندما أكون نائماً. أريد فقط زملاء فريق يتناسبون مع جدولي وأسلوبي.",
       "name": "محارب نهاية الأسبوع",
       "role": "لاعب عادي"
     },
-    "review3": {
+    "persona3": {
       "quote": "تنظيم جلسات الألعاب عبر المناطق الزمنية فوضى بدون الأدوات المناسبة. أحتاج إلى نظام يساعد فعلاً في تنسيق مجتمعي.",
       "name": "بناء المجتمع",
       "role": "قائد النقابة"
     },
-    "review4": {
+    "persona4": {
       "quote": "اللعب الفردي يقتل حبي للألعاب. كل مباراة هي قرعة عشوائية من السلبية. يجب أن تكون هناك طريقة أفضل للعثور على أشخاص يريدون فعلاً التحسن معاً.",
       "name": "الهارب من اللعب الفردي",
       "role": "لاعب يبحث عن فريق"
@@ -1600,7 +1602,7 @@
       "index_description": "اكتشف نصائح الخبراء حول مطابقة الألعاب، بناء المجتمعات، والعثور على زملاء الفريق المثاليين. أدلة واستراتيجيات ورؤى.",
       "og_title": "مدونة Jynx - نصائح مطابقة الألعاب وأدلة المجتمعات",
       "og_description": "أدلة الخبراء حول مطابقة الذكاء الاصطناعي، مجتمعات الألعاب، والعثور على زملاء الفريق المثاليين. نصائح واستراتيجيات للاعبين التنافسيين.",
-      "twitter_title": "مدونة Jynx - نصائح وأدلة الألعاب",
+      "twitter_title": "مدونة Jynx - نصائح مطابقة الألعاب وأدلة المجتمعات",
       "twitter_description": "أدلة الخبراء حول مطابقة الألعاب وبناء المجتمعات."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

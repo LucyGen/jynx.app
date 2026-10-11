@@ -10,9 +10,6 @@
     "twitter_description": "इंटेलिजेंट मैचमेकिंग से अपना परफेक्ट गेमिंग स्क्वाड खोजें। अकेले खेलना बंद करो।",
     "twitter_image_alt": "Jynx गेमिंग मैचमेकिंग प्लेटफॉर्म"
   },
-  "store": {
-    "coming_soon_badge": "जल्द आ रहा है"
-  },
   "about": {
     "meta": {
       "title": "Jynx | हमारे बारे में",
@@ -20,7 +17,7 @@
       "og_title": "Jynx के बारे में - एआई गेमिंग मैचमेकिंग के पीछे की टीम",
       "og_description": "गेमर्स द्वारा गेमर्स के लिए स्थापित। Jynx के मिशन के बारे में जानें जो सोलो गेमिंग को सामाजिक अनुभवों में बदलता है।",
       "og_image_alt": "Jynx टीम और प्लेटफॉर्म अवलोकन",
-      "twitter_title": "Jynx के बारे में - एआई गेमिंग मैचमेकिंग प्लेटफॉर्म",
+      "twitter_title": "Jynx के बारे में - एआई गेमिंग मैचमेकिंग के पीछे की टीम",
       "twitter_description": "गेमर्स द्वारा गेमर्स के लिए स्थापित। Jynx के मिशन के बारे में जानें।",
       "twitter_image_alt": "Jynx प्लेटफॉर्म के बारे में"
     },
@@ -93,7 +90,7 @@
       "og_title": "Jynx गोपनीयता नीति - आपका डेटा सुरक्षा",
       "og_description": "पारदर्शी गोपनीयता नीति जो बताती है कि Jynx आपके गेमिंग डेटा को कैसे संभालता है।",
       "og_image_alt": "Jynx गोपनीयता नीति",
-      "twitter_title": "Jynx गोपनीयता नीति",
+      "twitter_title": "Jynx गोपनीयता नीति - आपका डेटा सुरक्षा",
       "twitter_description": "जानें कि हम आपके डेटा की सुरक्षा कैसे करते हैं और आपकी गोपनीयता का सम्मान करते हैं।",
       "twitter_image_alt": "गोपनीयता नीति"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "फीडबैक",
     "download": "डाउनलोड करें",
     "blog": "ब्लॉग",
+    "games": "Games",
     "search": "खोजें",
     "search_aria": "लेख खोजें",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "अपनी COMMUNITY में शामिल हों",
     "title_primary": "स्मार्ट गेमिंग मैचमेकिंग प्लेटफॉर्म",
     "tagline": "Where Gaming Gets Social"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "बेहतर खेलें, साथ में",
@@ -1236,9 +1238,8 @@
       "error": "कृपया एक valid email address दर्ज करें"
     },
     "optional": "वैकल्पिक",
-    "submit": "Waitlist में शामिल हों",
     "submitting": "Submit हो रहा है...",
-    "success": "आप अंदर हैं! जब Jynx launch होगा तो हम आपको notify करेंगे।",
+    "success": "You're in! Thanks for signing up.",
     "error": "Oops! कुछ गलत हुआ। कृपया फिर से कोशिश करें।",
     "errors": {
       "permission_denied": "आपके पास यह form submit करने की permission नहीं है।",
@@ -1256,12 +1257,10 @@
     "nojs_note": "यह आपके email client को खोलेगा। सर्वोत्तम अनुभव के लिए, कृपया JavaScript enable करें।"
   },
   "feedback": {
-    "coming_soon": "जल्द आ रहा है",
-    "stay_tuned": "हमारे लॉन्च के लिए बने रहें",
     "title": "आपके सुझाव, हमारी प्राथमिकता",
     "feedback": "आपका संदेश (वैकल्पिक)",
     "feedback_label": "आपका संदेश",
-    "subtitle": "कोई spam नहीं। हम आपसे केवल तभी संपर्क करेंगे जब Jynx launch होगा।",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "हमारे Discord में शामिल हों",
     "yes": "हां",
     "no": "नहीं",
@@ -1269,7 +1268,9 @@
     "submit": "भेजें",
     "note": "हमेशा के लिए free",
     "submitting": "Submit हो रहा है...",
-    "thanks": "आपके feedback के लिए धन्यवाद!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Feedback submit नहीं हो सका। कृपया फिर से कोशिश करें।",
     "error_empty": "कृपया अपना email या feedback प्रदान करें।",
     "badge_free": "हमेशा मुफ्त",
@@ -1282,6 +1283,8 @@
       "about": "हमारे बारे में",
       "about_seo": "Jynx Gaming Platform के बारे में",
       "blog": "ब्लॉग",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "खोजें"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. सर्वाधिकार सुरक्षित।",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. सर्वाधिकार सुरक्षित।",
     "language": "भाषा"
   },
   "errors": {
@@ -1342,7 +1345,7 @@
       "og_title": "Jynx ऐप डाउनलोड करें - अपना गेमिंग स्क्वाड खोजें",
       "og_description": "iOS या Android पर Jynx ऐप प्राप्त करें। एआई मैचमेकिंग के साथ संगत टीममेट्स खोजना शुरू करें।",
       "og_image_alt": "Jynx गेमिंग ऐप डाउनलोड करें",
-      "twitter_title": "Jynx डाउनलोड करें - गेमिंग सोशल प्लेटफॉर्म",
+      "twitter_title": "Jynx ऐप डाउनलोड करें - अपना गेमिंग स्क्वाड खोजें",
       "twitter_description": "iOS या Android पर Jynx ऐप प्राप्त करें। आज टीममेट्स खोजना शुरू करें।",
       "twitter_image_alt": "Jynx मोबाइल ऐप"
     },
@@ -1362,8 +1365,7 @@
       "google_play": {
         "text_small": "पाएं",
         "text_large": "Google Play पर"
-      },
-      "coming_soon": "Coming Soon"
+      }
     },
     "signup": {
       "title": "हमारे Launch होने पर Notified होएं",
@@ -1387,7 +1389,6 @@
       "copy_success": "✓ Copy हो गया!",
       "copy_fallback": "Link clipboard में copy हो गया!",
       "form_submitting": "Submit हो रहा है...",
-      "form_success": "✓ धन्यवाद! जब Jynx mobile पर launch होगा तो हम आपको notify करेंगे।",
       "form_error": "कुछ गलत हुआ। कृपया फिर से कोशिश करें।"
     },
     "features": {
@@ -1421,8 +1422,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1476,8 +1476,7 @@
       "discovery": "Tinder-Style Player Discovery",
       "gaming_focused": "Gaming के लिए बनाया गया",
       "game_session_matchmaking": "गेम सेशन मैचमेकिंग",
-      "coming_soon": "जल्द आ रहा है",
-      "exclusive_features": "(विशेष सुविधाएँ)",
+      "planned": "Planned",
       "game_apis": "गेम APIs",
       "community_search": "कम्युनिटी सर्च और डिस्कवरी",
       "by_game_skill": "गेम, रैंक और भाषा के अनुसार",
@@ -1497,33 +1496,36 @@
       "free_jynx_plus": "Free / Jynx+",
       "free_varies": "Free/अलग-अलग"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "अंतर का अनुभव करने के लिए तैयार हैं?",
       "description": "दुनिया भर के गेमर्स से जुड़ें जो Jynx AI matchmaking के साथ अपने perfect squads पा रहे हैं",
       "button": "AI के साथ Matching शुरू करें - हमेशा के लिए मुफ्त"
     }
   },
-  "reviews": {
-    "main_title": "क्यों गेमर्स को चाहिए",
-    "subtitle_prefix": "बेहतर",
-    "subtitle_highlight": "मैचमेकिंग",
-    "nojs_note": "सभी scenarios ब्राउज़ करने के लिए JavaScript enable करें",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "मेरे ELO पर लगातार टीममेट्स ढूंढने के लिए घंटों तक Discord में spam नहीं करना चाहिए। मुझे ऐसे players चाहिए जो communicate करें, समय पर आएं, और वास्तव में अपनी main role खेलें।",
       "name": "द रैंक्ड ग्राइंडर",
       "role": "प्रतिस्पर्धी खिलाड़ी"
     },
-    "review2": {
+    "persona2": {
       "quote": "उन randoms से थक गया जो rage quit करते हैं, मेरी भाषा नहीं बोलते, या जब मैं सो रहा होता हूं तब online होते हैं। मुझे बस ऐसे teammates चाहिए जो मेरे schedule और vibe से match करें।",
       "name": "द वीकेंड वॉरियर",
       "role": "कैजुअल गेमर"
     },
-    "review3": {
+    "persona3": {
       "quote": "Timezones के पार gaming sessions organize करना सही tools के बिना chaos है। मुझे एक ऐसा system चाहिए जो वास्तव में मेरी community को coordinate करने में मदद करे।",
       "name": "द कम्युनिटी बिल्डर",
       "role": "गिल्ड लीडर"
     },
-    "review4": {
+    "persona4": {
       "quote": "Solo queue मेरी gaming के प्रति प्यार को मार रहा है। हर match toxicity का coin flip है। ऐसे लोगों को खोजने का एक बेहतर तरीका होना चाहिए जो वास्तव में साथ improve करना चाहते हैं।",
       "name": "द सोलो क्यू एस्केपी",
       "role": "टीम-तलाश खिलाड़ी"
@@ -1600,7 +1602,7 @@
       "index_description": "गेमिंग मैचमेकिंग, कम्युनिटी बनाने और परफेक्ट टीममेट्स ढूंढने पर एक्सपर्ट टिप्स डिस्कवर करें। गाइड, स्ट्रैटेजीज और इनसाइट्स।",
       "og_title": "Jynx ब्लॉग - गेमिंग मैचमेकिंग टिप्स और कम्युनिटी गाइड",
       "og_description": "AI मैचमेकिंग, गेमिंग कम्युनिटीज़ और परफेक्ट टीममेट्स ढूंढने पर एक्सपर्ट गाइड। कॉम्पिटिटिव गेमर्स के लिए टिप्स और स्ट्रैटेजीज।",
-      "twitter_title": "Jynx ब्लॉग - गेमिंग टिप्स और गाइड",
+      "twitter_title": "Jynx ब्लॉग - गेमिंग मैचमेकिंग टिप्स और कम्युनिटी गाइड",
       "twitter_description": "गेमिंग मैचमेकिंग और कम्युनिटी बिल्डिंग पर एक्सपर्ट गाइड।"
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

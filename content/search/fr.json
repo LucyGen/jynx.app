@@ -1,11 +1,11 @@
 {
   "locale": "fr",
-  "post_count": 4,
+  "post_count": 8,
   "posts": [
     {
       "id": "guide-equipe-gta-6-online-vice-city-2026",
       "title": "Guide Ultime Équipe GTA 6 Online Vice City Novembre 2026",
-      "excerpt": "GTA 6 sort le 19 novembre 2026. Découvrez comment constituer l'équipe parfaite pour dominer Vice City : sessions à 96 joueurs, braquages, rôles stratégiques et recrutement.",
+      "excerpt": "GTA 6 sort le 19 novembre 2026 — plus que six semaines. Constituez votre équipe maintenant : dénicher des coéquipiers, rôles de braquage et checklist de préparation au lancement pour Vice City.",
       "tags": [
         "GTA 6",
         "team-building",
@@ -18,7 +18,7 @@
       "date_published": "2025-10-29T10:30:00Z",
       "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
       "featured_image_alt": "Skyline de Vice City dans GTA VI avec des joueurs coordonnant un braquage",
-      "reading_time": 17,
+      "reading_time": 21,
       "locale": "fr",
       "author": "jynx-team",
       "keywords": [
@@ -27,6 +27,35 @@
         "braquages GTA 6 2026",
         "trouver coéquipiers GTA 6",
         "constituer équipe GTA VI"
+      ]
+    },
+    {
+      "id": "construire-communautes-gaming-durables",
+      "title": "Construire des Communautés Gaming Qui Durent Vraiment",
+      "excerpt": "La plupart des communautés gaming s'effondrent en quelques mois. Découvrez les frameworks et stratégies éprouvés pour bâtir une communauté de jeux francophone durable, avec Discord, événements réguliers et vraie vie de groupe.",
+      "tags": [
+        "gaming communities",
+        "community management",
+        "discord management",
+        "gaming leadership",
+        "community building",
+        "moderation",
+        "community engagement"
+      ],
+      "category": "gaming-communities",
+      "slug": "construire-communautes-gaming-durables",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/building-lasting-gaming-communities/hero.webp",
+      "featured_image_alt": "Membres d'une communauté gaming épanouie collaborant ensemble",
+      "reading_time": 29,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "communauté gaming francophone",
+        "discord gaming france",
+        "discord gaming francophone",
+        "rencontrer des joueurs",
+        "amis pour jouer"
       ]
     },
     {
@@ -70,7 +99,7 @@
       "category": "matchmaking",
       "slug": "guide-matchmaking-ia-jeux",
       "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
+      "featured_image": "/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp",
       "featured_image_alt": "Interface de matchmaking gaming alimentée par IA affichant des scores de compatibilité des joueurs",
       "reading_time": 17,
       "locale": "fr",
@@ -81,6 +110,35 @@
         "alternative LFG",
         "coéquipiers IA",
         "matchmaking basé compétences"
+      ]
+    },
+    {
+      "id": "guide-trouver-duo-lol",
+      "title": "Trouver un Duo LoL : le Guide Complet des Coéquipiers",
+      "excerpt": "Maîtrisez l'art de trouver un duo LoL et des coéquipiers compatibles avec votre style de jeu, votre elo et vos horaires pour monter en ranked de façon constante, sans solo queue à l'aveugle.",
+      "tags": [
+        "league-of-legends",
+        "matchmaking",
+        "ranked",
+        "team-building",
+        "duo-queue",
+        "clash",
+        "competitive"
+      ],
+      "category": "matchmaking",
+      "slug": "guide-trouver-duo-lol",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/league-of-legends-teammate-guide/hero.webp",
+      "featured_image_alt": "Team League of Legends coordonnant sa stratégie en partie classée",
+      "reading_time": 28,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "trouver un duo lol",
+        "trouver un mate lol",
+        "chercher un mate lol",
+        "recherche duo lol",
+        "duo pour monter en elo lol"
       ]
     },
     {
@@ -111,7 +169,64 @@
         "trouver coéquipiers halo",
         "difficulté légendaire"
       ]
+    },
+    {
+      "id": "ou-trouver-des-joueurs",
+      "title": "Discord, Reddit ou Forums : Où Trouver des Joueurs",
+      "excerpt": "Découvrez quelle plateforme donne les meilleurs résultats pour trouver des joueurs compatibles. Comparatif Discord, Reddit et forums avec taux de réussite réels et stratégies actionnables pour la scène francophone.",
+      "tags": [
+        "discord",
+        "reddit",
+        "gaming-forums",
+        "team-finding",
+        "lfg",
+        "community-building",
+        "matchmaking"
+      ],
+      "category": "gaming-communities",
+      "slug": "ou-trouver-des-joueurs",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp",
+      "featured_image_alt": "Joueurs comparant différentes plateformes sur plusieurs écrans",
+      "reading_time": 15,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "chercher des joueurs",
+        "trouver des joueurs",
+        "site pour trouver un duo",
+        "application pour trouver des joueurs",
+        "trouver des coéquipiers"
+      ]
+    },
+    {
+      "id": "petits-groupes-vs-clans",
+      "title": "Pourquoi les Petits Groupes Battent les Gros Clans",
+      "excerpt": "Découvrez pourquoi les petits groupes gaming de 8 à 15 joueurs battent régulièrement les clans de 100+ membres en coordination, fidélité et succès durable. La science derrière la taille optimale d'équipe.",
+      "tags": [
+        "gaming-groups",
+        "team-size",
+        "clans",
+        "community-building",
+        "dunbar-number",
+        "team-coordination"
+      ],
+      "category": "gaming-communities",
+      "slug": "petits-groupes-vs-clans",
+      "date_published": "2025-10-28T10:00:00Z",
+      "featured_image": "/assets/images/blog/featured/small-gaming-groups-vs-clans/hero.webp",
+      "featured_image_alt": "Petit groupe de joueurs soudé jouant ensemble",
+      "reading_time": 12,
+      "locale": "fr",
+      "author": "jynx-team",
+      "keywords": [
+        "discord gaming france",
+        "discord gaming francophone",
+        "discord lol france",
+        "discord valorant france",
+        "discord valorant francophone"
+      ]
     }
   ],
-  "generated_at": "content-fb9585f1f024"
+  "generated_at": "content-803132de1658"
 }

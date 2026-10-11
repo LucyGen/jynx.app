@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "doc": "docs/guides/store-proof-pipeline.md — the cache contract + the AggregateRating producer contract (G4.2.4; consumer G7.B.6)",
+  "as_of": "2026-10-11",
+  "fetch": {
+    "status": "ok",
+    "per_source": {
+      "apple:us": {
+        "status": "ok"
+      },
+      "apple:br": {
+        "status": "ok"
+      },
+      "apple:fr": {
+        "status": "ok"
+      },
+      "play:us": {
+        "status": "ok",
+        "rating_parse": "none"
+      },
+      "play:br": {
+        "status": "ok",
+        "rating_parse": "jsonld"
+      },
+      "play:fr": {
+        "status": "ok",
+        "rating_parse": "none"
+      },
+      "play:downloads": {
+        "status": "ok",
+        "chip": "10K+"
+      }
+    }
+  },
+  "apple": {
+    "markets": {
+      "us": {
+        "rating": 0,
+        "count": 0,
+        "as_of": "2026-10-11"
+      },
+      "br": {
+        "rating": 0,
+        "count": 0,
+        "as_of": "2026-10-11"
+      },
+      "fr": {
+        "rating": 4.59999,
+        "count": 5,
+        "as_of": "2026-10-11"
+      }
+    }
+  },
+  "play": {
+    "markets": {
+      "us": {
+        "rating": null,
+        "count": null,
+        "as_of": "2026-10-11"
+      },
+      "br": {
+        "rating": 4.380434989929199,
+        "count": 96,
+        "as_of": "2026-10-11"
+      },
+      "fr": {
+        "rating": null,
+        "count": null,
+        "as_of": "2026-10-11"
+      }
+    },
+    "downloads_display": "10K+",
+    "downloads_as_of": "2026-10-11"
+  },
+  "display_rules": {
+    "min_count": 10
+  },
+  "display_market": "br"
+}

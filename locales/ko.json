@@ -10,9 +10,6 @@
     "twitter_description": "지능형 매칭으로 완벽한 게임 스쿼드를 찾으세요. 혼자 플레이하지 마세요.",
     "twitter_image_alt": "Jynx 게임 매칭 플랫폼"
   },
-  "store": {
-    "coming_soon_badge": "곧 출시"
-  },
   "about": {
     "meta": {
       "title": "Jynx 소개 | 우리의 미션과 비전",
@@ -20,7 +17,7 @@
       "og_title": "Jynx 소개 - 게임을 소셜하게 만드는 팀",
       "og_description": "게임 커뮤니티를 재정의하겠다는 열정으로 뭉친 팀을 만나보세요. 우리의 미션, 비전, 그리고 게임을 모두에게 더 연결되고 즐겁게 만드는 여정을 알아보세요.",
       "og_image_alt": "Jynx 팀 및 플랫폼 개요",
-      "twitter_title": "Jynx 소개 - 스마트 게임 매칭 플랫폼",
+      "twitter_title": "Jynx 소개 - 게임을 소셜하게 만드는 팀",
       "twitter_description": "게이머를 위해 게이머가 만들었습니다. Jynx의 미션을 알아보세요.",
       "twitter_image_alt": "Jynx 플랫폼 소개"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "피드백",
     "download": "다운로드",
     "blog": "블로그",
+    "games": "Games",
     "search": "검색",
     "search_aria": "기사 검색",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "커뮤니티 가입",
     "title_primary": "스마트 게임 매칭 플랫폼",
     "tagline": "게임이 소셜해지는 곳"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "함께, 더 나은 게임",
@@ -1236,9 +1238,8 @@
       "error": "유효한 이메일 주소를 입력하세요"
     },
     "optional": "선택 사항",
-    "submit": "대기자 명단 가입",
     "submitting": "제출 중...",
-    "success": "완료! Jynx 출시 시 알려드리겠습니다.",
+    "success": "You're in! Thanks for signing up.",
     "error": "문제가 발생했습니다. 다시 시도해 주세요.",
     "errors": {
       "permission_denied": "이 양식을 제출할 권한이 없습니다.",
@@ -1256,12 +1257,10 @@
     "nojs_note": "이메일 클라이언트가 열립니다. 최상의 경험을 위해 JavaScript를 활성화하십시오."
   },
   "feedback": {
-    "coming_soon": "출시 예정",
-    "stay_tuned": "출시 소식을 기대해주세요",
     "title": "귀하의 제안, 우리의 우선순위",
     "feedback": "귀하의 메시지 (선택 사항)",
     "feedback_label": "귀하의 메시지",
-    "subtitle": "스팸 없음. Jynx 출시 시에만 연락드리겠습니다.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "Discord 가입",
     "yes": "예",
     "no": "아니오",
@@ -1269,7 +1268,9 @@
     "submit": "보내기",
     "note": "영원히 무료",
     "submitting": "제출 중...",
-    "thanks": "피드백 감사합니다!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "피드백을 제출할 수 없습니다. 다시 시도해 주세요.",
     "error_empty": "이메일이나 피드백 중 하나를 제공해 주세요.",
     "badge_free": "영원 무료",
@@ -1282,6 +1283,8 @@
       "about": "소개",
       "about_seo": "Jynx 게임 플랫폼 소개",
       "blog": "블로그",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "검색"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. 모든 권리 보유.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. 모든 권리 보유.",
     "language": "언어"
   },
   "errors": {
@@ -1335,7 +1338,7 @@
       "og_title": "Jynx 다운로드 - 모든 플랫폼에서 사용 가능",
       "og_description": "귀하가 선호하는 장치에서 Jynx를 받으세요. 모든 주요 플랫폼에서 사용 가능.",
       "og_image_alt": "Jynx 게임 앱 다운로드",
-      "twitter_title": "Jynx 다운로드 - 게임 소셜 플랫폼",
+      "twitter_title": "Jynx 다운로드 - 모든 플랫폼에서 사용 가능",
       "twitter_description": "iOS 또는 Android에서 Jynx 앱을 받으세요. 오늘 팀원을 찾기 시작하세요.",
       "twitter_image_alt": "Jynx 모바일 앱"
     },
@@ -1375,7 +1378,6 @@
       "copy_success": "✓ 복사됨!",
       "copy_fallback": "링크가 클립보드에 복사되었습니다!",
       "form_submitting": "제출 중...",
-      "form_success": "✓ 감사합니다! Jynx가 모바일에서 출시되면 알려드리겠습니다.",
       "form_error": "문제가 발생했습니다. 다시 시도해 주세요."
     },
     "theme_feedback": {
@@ -1393,8 +1395,7 @@
       "google_play": {
         "text_small": "받기:",
         "text_large": "Google Play"
-      },
-      "coming_soon": "출시 예정"
+      }
     },
     "signup": {
       "title": "출시 시 알림 받기",
@@ -1414,8 +1415,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1482,41 +1482,43 @@
       "servers": "서버",
       "teams": "팀",
       "advanced": "고급",
-      "coming_soon": "출시 예정",
-      "exclusive_features": "(독점 기능)",
+      "planned": "Planned",
       "game_apis": "게임 API",
       "general": "일반",
       "varies": "다양함",
       "free_jynx_plus": "무료 / Jynx+",
       "free_varies": "무료/다양함"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "차이를 경험할 준비가 되셨나요?",
       "description": "전 세계 게이머들과 함께 Jynx AI 매칭으로 완벽한 스쿼드를 찾으세요",
       "button": "AI 매칭 시작 - 영원히 무료"
     }
   },
-  "reviews": {
-    "main_title": "게이머에게 필요한 이유",
-    "subtitle_prefix": "더 나은",
-    "subtitle_highlight": "매칭",
-    "nojs_note": "모든 시나리오를 탐색하려면 JavaScript를 활성화하세요",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "내 ELO에서 일관된 팀원을 찾는 것이 디스코드에서 몇 시간 동안 스팸을 보내는 것을 의미해서는 안 됩니다. 소통하고, 제시간에 나타나며, 실제로 자신의 메인 역할을 플레이하는 플레이어가 필요합니다.",
       "name": "랭크 그라인더",
       "role": "경쟁 플레이어"
     },
-    "review2": {
+    "persona2": {
       "quote": "분노하며 게임을 나가거나, 내 언어를 말하지 못하거나, 내가 잠들 때 온라인인 랜덤 플레이어들에 지쳤습니다. 단지 내 일정과 분위기에 맞는 팀원을 원할 뿐입니다.",
       "name": "주말 워리어",
       "role": "캐주얼 게이머"
     },
-    "review3": {
+    "persona3": {
       "quote": "적절한 도구 없이 시간대를 넘어 게임 세션을 조직하는 것은 혼란스럽습니다. 내 커뮤니티를 실제로 조율하는 데 도움이 되는 시스템이 필요합니다.",
       "name": "커뮤니티 빌더",
       "role": "길드 리더"
     },
-    "review4": {
+    "persona4": {
       "quote": "솔로 큐가 게임에 대한 내 사랑을 죽이고 있습니다. 모든 매치는 독성의 동전 던지기입니다. 함께 성장하고 싶어하는 사람들을 찾을 더 나은 방법이 있어야 합니다.",
       "name": "솔로 큐 탈출자",
       "role": "팀을 찾는 플레이어"
@@ -1600,7 +1602,7 @@
       "index_description": "게이밍 매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 전문가 팁을 확인하세요. 가이드, 전략 및 인사이트.",
       "og_title": "Jynx 블로그 - 게이밍 매치메이킹 팁 및 커뮤니티 가이드",
       "og_description": "AI 매치메이킹, 게이밍 커뮤니티 및 완벽한 팀원 찾기에 대한 전문가 가이드. 경쟁 게이머를 위한 팁과 전략.",
-      "twitter_title": "Jynx 블로그 - 게이밍 팁 및 가이드",
+      "twitter_title": "Jynx 블로그 - 게이밍 매치메이킹 팁 및 커뮤니티 가이드",
       "twitter_description": "게이밍 매치메이킹 및 커뮤니티 구축에 대한 전문가 가이드."
     },
     "hero": {
@@ -1616,7 +1618,7 @@
     },
     "newsletter": {
       "title": "게이밍 인사이트 받기",
-      "subtitle": "매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 팁을 받는 10,000명 이상의 게이머와 함께하세요.",
+      "subtitle": "Get tips on matchmaking, community building, and finding perfect teammates delivered to your inbox.",
       "placeholder": "이메일을 입력하세요",
       "submit": "구독하기",
       "privacy": "개인정보를 존중합니다. 언제든지 구독 취소하세요.",
@@ -1693,7 +1695,7 @@
       "min_read": "분 읽기",
       "newsletter": {
         "title": "게이밍 인사이트 받기",
-        "subtitle": "매치메이킹, 커뮤니티 구축 및 완벽한 팀원 찾기에 대한 팁을 받는 10,000명 이상의 게이머와 함께하세요.",
+        "subtitle": "Get tips on matchmaking, community building, and finding perfect teammates delivered to your inbox.",
         "placeholder": "이메일을 입력하세요",
         "button": "구독하기",
         "privacy": "개인정보를 존중합니다. 언제든지 구독 취소하세요."
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

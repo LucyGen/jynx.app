@@ -10,9 +10,6 @@
     "twitter_description": "Знайди свою ідеальну ігрову команду з інтелектуальним матчмейкінгом. Годі грати на самоті.",
     "twitter_image_alt": "Платформа Ігрового Матчмейкінгу Jynx"
   },
-  "store": {
-    "coming_soon_badge": "Скоро"
-  },
   "about": {
     "meta": {
       "title": "Jynx | Про Нас",
@@ -20,7 +17,7 @@
       "og_title": "Про Jynx - Команда За ШІ Ігровим Матчмейкінгом",
       "og_description": "Створено геймерами для геймерів. Дізнайтесь про місію Jynx перетворити одиночні ігри на соціальний досвід.",
       "og_image_alt": "Команда Jynx та Огляд Платформи",
-      "twitter_title": "Про Jynx - Платформа ШІ Ігрового Матчмейкінгу",
+      "twitter_title": "Про Jynx - Команда За ШІ Ігровим Матчмейкінгом",
       "twitter_description": "Створено геймерами для геймерів. Дізнайтесь про місію Jynx.",
       "twitter_image_alt": "Про Платформу Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "Політика Конфіденційності Jynx - Захист Ваших Даних",
       "og_description": "Прозора політика конфіденційності, що описує, як Jynx обробляє ваші ігрові дані.",
       "og_image_alt": "Політика Конфіденційності Jynx",
-      "twitter_title": "Політика Конфіденційності Jynx",
+      "twitter_title": "Політика Конфіденційності Jynx - Захист Ваших Даних",
       "twitter_description": "Дізнайтесь, як ми захищаємо ваші дані та поважаємо вашу конфіденційність.",
       "twitter_image_alt": "Політика Конфіденційності"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Відгук",
     "download": "Завантажити",
     "blog": "Блог",
+    "games": "Games",
     "search": "Пошук",
     "search_aria": "Пошук статей",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "ПРИЄДНАТИСЯ ДО СПІЛЬНОТИ",
     "title_primary": "Платформа Розумного Ігрового Матчмейкінгу",
     "tagline": "Де Гейминг Стає Соціальним"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Грай Краще, Разом",
@@ -1236,9 +1238,8 @@
       "error": "Будь ласка, введи дійсну email адресу"
     },
     "optional": "Необов'язково",
-    "submit": "Приєднатися До Списку Очікування",
     "submitting": "Відправлення...",
-    "success": "Ти в списку! Ми повідомимо тебе, коли Jynx запуститься.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Упс! Щось пішло не так. Будь ласка, спробуй знову.",
     "nojs_note": "Це відкриє твій поштовий клієнт. Для кращого досвіду, будь ласка, увімкни JavaScript.",
     "errors": {
@@ -1256,12 +1257,10 @@
     }
   },
   "feedback": {
-    "coming_soon": "Скоро",
-    "stay_tuned": "Слідкуйте за нашим запуском",
     "title": "Ваші пропозиції — наш пріоритет",
     "feedback": "Ваше повідомлення (необов'язково)",
     "feedback_label": "Ваше повідомлення",
-    "subtitle": "Ніякого спаму. Ми зв'яжемося з вами лише при запуску Jynx.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "Приєднуйтесь до нашого Discord",
     "yes": "Так",
     "no": "Ні",
@@ -1269,7 +1268,9 @@
     "submit": "Надіслати",
     "note": "Безкоштовно назавжди",
     "submitting": "Надсилання...",
-    "thanks": "Дякуємо за ваш відгук!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Не вдалося надіслати відгук. Спробуйте ще раз.",
     "error_empty": "Будь ласка, надайте свою електронну пошту або відгук.",
     "badge_free": "Безкоштовно назавжди",
@@ -1282,6 +1283,8 @@
       "about": "Про Нас",
       "about_seo": "Про Ігрову Платформу Jynx",
       "blog": "Блог",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Пошук"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Всі права захищені.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Всі права захищені.",
     "language": "Мова"
   },
   "errors": {
@@ -1342,7 +1345,7 @@
       "og_title": "Завантажити Додаток Jynx - Знайдіть Свою Ігрову Команду",
       "og_description": "Отримайте додаток Jynx на iOS або Android. Почніть знаходити сумісних товаришів з ШІ-матчмейкінгом.",
       "og_image_alt": "Завантажити Ігровий Додаток Jynx",
-      "twitter_title": "Завантажити Jynx - Ігрова Соціальна Платформа",
+      "twitter_title": "Завантажити Додаток Jynx - Знайдіть Свою Ігрову Команду",
       "twitter_description": "Отримайте додаток Jynx на iOS або Android. Почніть знаходити товаришів сьогодні.",
       "twitter_image_alt": "Мобільний Додаток Jynx"
     },
@@ -1362,8 +1365,7 @@
       "google_play": {
         "text_small": "Завантажити в",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Скоро"
+      }
     },
     "signup": {
       "title": "Отримай Сповіщення Про Запуск",
@@ -1387,7 +1389,6 @@
       "copy_success": "✓ Скопійовано!",
       "copy_fallback": "Посилання скопійовано в буфер обміну!",
       "form_submitting": "Відправлення...",
-      "form_success": "✓ Дякуємо! Ми повідомимо тебе, коли Jynx запуститься на мобільних пристроях.",
       "form_error": "Щось пішло не так. Будь ласка, спробуй знову."
     },
     "features": {
@@ -1421,8 +1422,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1488,8 +1488,7 @@
       "varies": "Різна",
       "free_varies": "Безкоштовно/Різна",
       "game_session_matchmaking": "Організація Ігрових Сесій",
-      "coming_soon": "Скоро",
-      "exclusive_features": "(Ексклюзивні Функції)",
+      "planned": "Planned",
       "community_search": "Пошук та Відкриття Спільнот",
       "by_game_skill": "За Грою, Рангом та Мовою",
       "on_computer_only": "Лише на комп'ютері",
@@ -1497,6 +1496,8 @@
       "game_apis": "Ігрові API",
       "free_jynx_plus": "Безкоштовно / Jynx+"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Готовий Відчути Різницю?",
       "description": "Приєднуйтесь до геймерів по всьому світу, які знаходять свої ідеальні команди з ШІ-матчмейкінгом Jynx",
@@ -1506,27 +1507,28 @@
   "global": {
     "nojs_banner": "JavaScript вимкнено. Деякі інтерактивні функції можуть працювати не оптимально."
   },
-  "reviews": {
-    "main_title": "ЧОМУ ГЕЙМЕРАМ ПОТРІБЕН",
-    "subtitle_prefix": "КРАЩИЙ",
-    "subtitle_highlight": "МАТЧМЕЙКІНГ",
-    "nojs_note": "Увімкніть JavaScript для перегляду всіх сценаріїв",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "Знаходження постійних товаришів по команді на моєму ELO не повинно означати годинний спам у Discord. Мені потрібні гравці, які спілкуються, з'являються вчасно та справді грають на своїй основній ролі.",
       "name": "Гравець Рейтингових Ігор",
       "role": "Конкурентний Гравець"
     },
-    "review2": {
+    "persona2": {
       "quote": "Втомився від випадкових гравців, які виходять з гри, не говорять моєю мовою або знаходяться онлайн, коли я сплю. Я просто хочу товаришів по команді, які відповідають моєму розкладу та настрою.",
       "name": "Воїн Вихідного Дня",
       "role": "Казуальний Геймер"
     },
-    "review3": {
+    "persona3": {
       "quote": "Організація ігрових сесій між часовими поясами — це хаос без правильних інструментів. Потрібна система, яка справді допомагає координувати мою спільноту.",
       "name": "Будівельник Спільноти",
       "role": "Лідер Гільдії"
     },
-    "review4": {
+    "persona4": {
       "quote": "Одиночна черга вбиває мою любов до гри. Кожен матч — це підкидання монети токсичності. Має бути кращий спосіб знайти людей, які справді хочуть покращуватися разом.",
       "name": "Втікач з Одиночної Черги",
       "role": "Гравець, Що Шукає Команду"
@@ -1643,7 +1645,7 @@
       "index_description": "Відкрийте для себе експертні поради щодо матчмейкінгу, створення спільнот та пошуку ідеальних тіммейтів. Посібники, стратегії та інсайти.",
       "og_title": "Блог Jynx - Поради з Матчмейкінгу та Посібники зі Спільнот",
       "og_description": "Експертні посібники щодо ШІ-матчмейкінгу, ігрових спільнот та пошуку ідеальних тіммейтів. Поради та стратегії для змагальних геймерів.",
-      "twitter_title": "Блог Jynx - Поради та Посібники з Гейму",
+      "twitter_title": "Блог Jynx - Поради з Матчмейкінгу та Посібники зі Спільнот",
       "twitter_description": "Експертні посібники щодо гейм-матчмейкінгу та створення спільнот."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

@@ -10,9 +10,6 @@
     "twitter_description": "Trova la tua squadra gaming perfetta con matchmaking intelligente. Smetti di giocare da solo.",
     "twitter_image_alt": "Piattaforma di Matchmaking Gaming Jynx"
   },
-  "store": {
-    "coming_soon_badge": "Prossimamente"
-  },
   "about": {
     "meta": {
       "title": "Jynx | Chi Siamo",
@@ -20,7 +17,7 @@
       "og_title": "Chi Siamo - Jynx - Conosci il Team Dietro il Matchmaking Gaming Intelligente",
       "og_description": "Fondato da gamer per gamer. Scopri la missione di Jynx di trasformare il gaming in solitaria in esperienze sociali.",
       "og_image_alt": "Team Jynx e Panoramica della Piattaforma",
-      "twitter_title": "Chi Siamo - Jynx - Piattaforma di Matchmaking Gaming Intelligente",
+      "twitter_title": "Chi Siamo - Jynx - Conosci il Team Dietro il Matchmaking Gaming Intelligente",
       "twitter_description": "Fondato da gamer per gamer. Scopri la missione di Jynx.",
       "twitter_image_alt": "Informazioni sulla Piattaforma Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "Informativa sulla Privacy Jynx - La Tua Protezione dei Dati",
       "og_description": "Informativa sulla privacy trasparente che descrive come Jynx gestisce i tuoi dati di gaming.",
       "og_image_alt": "Informativa sulla Privacy Jynx",
-      "twitter_title": "Informativa sulla Privacy Jynx",
+      "twitter_title": "Informativa sulla Privacy Jynx - La Tua Protezione dei Dati",
       "twitter_description": "Scopri come proteggiamo i tuoi dati e rispettiamo la tua privacy.",
       "twitter_image_alt": "Informativa sulla Privacy"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Feedback",
     "download": "Scarica",
     "blog": "Blog",
+    "games": "Games",
     "search": "Cerca",
     "search_aria": "Cerca articoli",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "UNISCITI ALLA TUA COMMUNITY",
     "title_primary": "Piattaforma di Matchmaking Gaming Intelligente",
     "tagline": "Where Gaming Gets Social"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Gioca Meglio, Insieme",
@@ -1236,9 +1238,8 @@
       "error": "Per favore inserisci un indirizzo email valido"
     },
     "optional": "Opzionale",
-    "submit": "Entra nella Lista d'Attesa",
     "submitting": "Invio...",
-    "success": "Sei dentro! Ti notificheremo quando Jynx verrà lanciato.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Ops! Qualcosa è andato storto. Per favore riprova.",
     "errors": {
       "permission_denied": "Non hai il permesso di inviare questo modulo.",
@@ -1256,12 +1257,10 @@
     "nojs_note": "Questo aprirà il tuo client email. Per un'esperienza migliore, ti preghiamo di attivare JavaScript."
   },
   "feedback": {
-    "coming_soon": "Presto disponibile",
-    "stay_tuned": "Resta sintonizzato per il nostro lancio",
     "title": "I tuoi suggerimenti, la nostra priorità",
     "feedback": "Il tuo messaggio (opzionale)",
     "feedback_label": "Il tuo messaggio",
-    "subtitle": "Niente spam. Ti contatteremo solo quando Jynx verrà lanciato.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "Unisciti al nostro Discord",
     "yes": "Sì",
     "no": "No",
@@ -1269,7 +1268,9 @@
     "submit": "Invia",
     "note": "Gratis per sempre",
     "submitting": "Invio...",
-    "thanks": "Grazie per il tuo feedback!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Impossibile inviare il feedback. Per favore riprova.",
     "error_empty": "Per favore fornisci il tuo email o feedback.",
     "badge_free": "Gratis per sempre",
@@ -1282,6 +1283,8 @@
       "about": "Chi Siamo",
       "about_seo": "Informazioni sulla Piattaforma Gaming Jynx",
       "blog": "Blog",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Cerca"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Tutti i diritti riservati.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Tutti i diritti riservati.",
     "language": "Lingua"
   },
   "errors": {
@@ -1402,7 +1405,7 @@
       "og_title": "Scarica App Jynx - Trova la Tua Squadra Gaming",
       "og_description": "Ottieni l'app Jynx su iOS o Android. Inizia a trovare compagni compatibili con matchmaking IA.",
       "og_image_alt": "Scarica App Gaming Jynx",
-      "twitter_title": "Scarica Jynx - Piattaforma Social Gaming",
+      "twitter_title": "Scarica App Jynx - Trova la Tua Squadra Gaming",
       "twitter_description": "Ottieni l'app Jynx su iOS o Android. Inizia a trovare compagni oggi.",
       "twitter_image_alt": "App Mobile Jynx"
     },
@@ -1422,8 +1425,7 @@
       "google_play": {
         "text_small": "Ottieni su",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Presto disponibile"
+      }
     },
     "signup": {
       "title": "Ricevi Notifica Quando Lanciamo",
@@ -1447,7 +1449,6 @@
       "copy_success": "✓ Copiato!",
       "copy_fallback": "Link copiato negli appunti!",
       "form_submitting": "Invio...",
-      "form_success": "✓ Grazie! Ti notificheremo quando Jynx sarà lanciato su mobile.",
       "form_error": "Qualcosa è andato storto. Per favore riprova."
     },
     "features": {
@@ -1481,8 +1482,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1523,27 +1523,28 @@
       }
     }
   },
-  "reviews": {
-    "main_title": "PERCHÉ I GAMER HANNO BISOGNO DI",
-    "subtitle_prefix": "MIGLIORE",
-    "subtitle_highlight": "MATCHMAKING",
-    "nojs_note": "Attiva JavaScript per sfogliare tutti gli scenari",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "Trovare compagni consistenti al mio ELO non dovrebbe significare spammare Discord per ore. Ho bisogno di giocatori che comunicano, si presentano in orario e giocano effettivamente il loro ruolo principale.",
       "name": "Il Grinder Ranked",
       "role": "Giocatore Competitivo"
     },
-    "review2": {
+    "persona2": {
       "quote": "Stanco di random che abbandonano per rabbia, non parlano la mia lingua o sono online quando dormo. Voglio solo compagni che corrispondano al mio orario e alla mia vibe.",
       "name": "Il Guerriero del Weekend",
       "role": "Gamer Casual"
     },
-    "review3": {
+    "persona3": {
       "quote": "Organizzare sessioni gaming attraverso fusi orari è il caos senza gli strumenti giusti. Ho bisogno di un sistema che aiuti davvero a coordinare la mia community.",
       "name": "Il Builder di Community",
       "role": "Leader di Gilda"
     },
-    "review4": {
+    "persona4": {
       "quote": "La solo queue sta uccidendo il mio amore per il gaming. Ogni partita è un lancio di moneta di tossicità. Deve esserci un modo migliore per trovare persone che vogliono davvero migliorare insieme.",
       "name": "L'Evaso dalla Solo Queue",
       "role": "Giocatore in Cerca di Team"
@@ -1575,14 +1576,15 @@
       "servers": "Server",
       "teams": "Team",
       "advanced": "Avanzato",
-      "coming_soon": "Presto",
-      "exclusive_features": "(Funzionalità Esclusive)",
+      "planned": "Planned",
       "game_apis": "API Giochi",
       "general": "Generale",
       "varies": "Varia",
       "free_jynx_plus": "Gratis / Jynx+",
       "free_varies": "Gratis/Varia"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Pronto a Sperimentare la Differenza?",
       "description": "Unisciti ai gamer di tutto il mondo per trovare le squadre perfette con il matchmaking IA di Jynx",
@@ -1643,7 +1645,7 @@
       "index_description": "Scopri consigli esperti sul matchmaking gaming, costruzione di comunità e ricerca di compagni perfetti. Guide, strategie e approfondimenti.",
       "og_title": "Blog Jynx - Consigli sul Matchmaking Gaming e Guide alle Comunità",
       "og_description": "Guide esperte su matchmaking IA, comunità gaming e trovare compagni perfetti. Consigli e strategie per gamer competitivi.",
-      "twitter_title": "Blog Jynx - Consigli e Guide Gaming",
+      "twitter_title": "Blog Jynx - Consigli sul Matchmaking Gaming e Guide alle Comunità",
       "twitter_description": "Guide esperte su matchmaking gaming e costruzione di comunità."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

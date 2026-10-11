@@ -10,9 +10,6 @@
     "twitter_description": "Найди свою идеальную игровую команду с интеллектуальным матчмейкингом. Хватит играть в одиночку.",
     "twitter_image_alt": "Платформа Игрового Матчмейкинга Jynx"
   },
-  "store": {
-    "coming_soon_badge": "Скоро"
-  },
   "about": {
     "meta": {
       "title": "Jynx | О нас",
@@ -20,7 +17,7 @@
       "og_title": "О Jynx - Команда За ИИ Игровым Матчмейкингом",
       "og_description": "Создано геймерами для геймеров. Узнайте о миссии Jynx превратить одиночные игры в социальный опыт.",
       "og_image_alt": "Команда Jynx и Обзор Платформы",
-      "twitter_title": "О Jynx - Платформа ИИ Игрового Матчмейкинга",
+      "twitter_title": "О Jynx - Команда За ИИ Игровым Матчмейкингом",
       "twitter_description": "Создано геймерами для геймеров. Узнайте о миссии Jynx.",
       "twitter_image_alt": "О Платформе Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "Политика Конфиденциальности Jynx - Защита Ваших Данных",
       "og_description": "Прозрачная политика конфиденциальности, описывающая, как Jynx обрабатывает ваши игровые данные.",
       "og_image_alt": "Политика Конфиденциальности Jynx",
-      "twitter_title": "Политика Конфиденциальности Jynx",
+      "twitter_title": "Политика Конфиденциальности Jynx - Защита Ваших Данных",
       "twitter_description": "Узнайте, как мы защищаем ваши данные и уважаем вашу конфиденциальность.",
       "twitter_image_alt": "Политика Конфиденциальности"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Отзывы",
     "download": "Скачать",
     "blog": "Блог",
+    "games": "Games",
     "search": "Поиск",
     "search_aria": "Поиск статей",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "ПРИСОЕДИНЯЙСЯ К СООБЩЕСТВУ",
     "title_primary": "Платформа умного игрового матчмейкинга",
     "tagline": "Где игры становятся социальными"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Играй лучше, играй вместе",
@@ -1236,9 +1238,8 @@
       "error": "Пожалуйста, введи действительный адрес электронной почты"
     },
     "optional": "Необязательно",
-    "submit": "Присоединиться к списку ожидания",
     "submitting": "Отправка...",
-    "success": "Готово! Мы уведомим тебя, когда Jynx запустится.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Упс! Что-то пошло не так. Пожалуйста, попробуй снова.",
     "nojs_note": "Это откроет ваш почтовый клиент. Для лучшего опыта, пожалуйста, включите JavaScript.",
     "errors": {
@@ -1256,12 +1257,10 @@
     }
   },
   "feedback": {
-    "coming_soon": "Скоро",
-    "stay_tuned": "Следите за нашим запуском",
     "title": "Твои предложения — наш приоритет",
     "feedback": "Твой отзыв",
     "feedback_label": "Твое сообщение",
-    "subtitle": "Никакого спама. Мы свяжемся с тобой только при запуске Jynx.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "Присоединяйся к нашему Discord",
     "yes": "Да",
     "no": "Нет",
@@ -1269,7 +1268,9 @@
     "submit": "Отправить",
     "note": "Бесплатно навсегда",
     "submitting": "Отправка...",
-    "thanks": "Спасибо за твой отзыв!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Не удалось отправить отзыв. Пожалуйста, попробуй снова.",
     "error_empty": "Пожалуйста, укажи свой email или отзыв.",
     "badge_free": "Бесплатно навсегда",
@@ -1282,6 +1283,8 @@
       "about": "О нас",
       "about_seo": "О платформе игрового сообщества Jynx",
       "blog": "Блог",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Поиск"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Все права защищены.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Все права защищены.",
     "language": "Язык"
   },
   "errors": {
@@ -1384,7 +1387,7 @@
       "og_title": "Скачать Приложение Jynx - Найдите Свою Игровую Команду",
       "og_description": "Получите приложение Jynx на iOS или Android. Начните находить совместимых товарищей с ИИ-матчмейкингом.",
       "og_image_alt": "Скачать Игровое Приложение Jynx",
-      "twitter_title": "Скачать Jynx - Игровая Социальная Платформа",
+      "twitter_title": "Скачать Приложение Jynx - Найдите Свою Игровую Команду",
       "twitter_description": "Получите приложение Jynx на iOS или Android. Начните находить товарищей сегодня.",
       "twitter_image_alt": "Мобильное Приложение Jynx"
     },
@@ -1404,8 +1407,7 @@
       "google_play": {
         "text_small": "Доступно в",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Скоро"
+      }
     },
     "signup": {
       "title": "Получи уведомление о запуске",
@@ -1429,7 +1431,6 @@
       "copy_success": "✓ Скопировано!",
       "copy_fallback": "Ссылка скопирована в буфер обмена!",
       "form_submitting": "Отправка...",
-      "form_success": "✓ Спасибо! Мы уведомим тебя, когда Jynx запустится на мобильных устройствах.",
       "form_error": "Что-то пошло не так. Пожалуйста, попробуй снова."
     },
     "features": {
@@ -1463,8 +1464,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1531,41 +1531,43 @@
       "servers": "Серверы",
       "teams": "Команды",
       "advanced": "Расширенный",
-      "coming_soon": "Скоро",
-      "exclusive_features": "(Эксклюзивные функции)",
+      "planned": "Planned",
       "game_apis": "API игр",
       "general": "Общий",
       "varies": "Варьируется",
       "free_jynx_plus": "Бесплатно / Jynx+",
       "free_varies": "Бесплатно/Варьируется"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Готов ощутить разницу?",
       "description": "Присоединяйтесь к геймерам по всему миру, находящим свои идеальные команды с ИИ-матчмейкингом Jynx",
       "button": "Начни подбор с ИИ - Бесплатно навсегда"
     }
   },
-  "reviews": {
-    "main_title": "ПОЧЕМУ ГЕЙМЕРАМ НУЖЕН",
-    "subtitle_prefix": "ЛУЧШИЙ",
-    "subtitle_highlight": "МАТЧМЕЙКИНГ",
-    "nojs_note": "Включите JavaScript для просмотра всех сценариев",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "Поиск постоянных тиммейтов на моем ELO не должен означать спам в Discord часами. Мне нужны игроки, которые общаются, приходят вовремя и действительно играют на своей основной роли.",
       "name": "Рейтинговый Гриндер",
       "role": "Соревновательный игрок"
     },
-    "review2": {
+    "persona2": {
       "quote": "Устал от случайных игроков, которые сливаются, не говорят на моем языке или играют, когда я сплю. Мне просто нужны тиммейты, которые подходят под мое расписание и настрой.",
       "name": "Воин Выходного Дня",
       "role": "Казуальный геймер"
     },
-    "review3": {
+    "persona3": {
       "quote": "Организация игровых сессий через часовые пояса — это хаос без правильных инструментов. Нужна система, которая действительно помогает координировать мое сообщество.",
       "name": "Строитель Сообщества",
       "role": "Лидер гильдии"
     },
-    "review4": {
+    "persona4": {
       "quote": "Соло-очередь убивает мою любовь к играм. Каждый матч — это рулетка токсичности. Должен быть лучший способ найти людей, которые действительно хотят расти вместе.",
       "name": "Беглец из Соло-Очереди",
       "role": "Игрок, ищущий команду"
@@ -1642,7 +1644,7 @@
       "index_description": "Откройте для себя экспертные советы по матчмейкингу, созданию сообществ и поиску идеальных тиммейтов. Руководства, стратегии и инсайты.",
       "og_title": "Блог Jynx - Советы по Матчмейкингу и Руководства по Сообществам",
       "og_description": "Экспертные руководства по ИИ-матчмейкингу, игровым сообществам и поиску идеальных тиммейтов. Советы и стратегии для соревновательных геймеров.",
-      "twitter_title": "Блог Jynx - Советы и Руководства по Гейму",
+      "twitter_title": "Блог Jynx - Советы по Матчмейкингу и Руководства по Сообществам",
       "twitter_description": "Экспертные руководства по гейминг-матчмейкингу и созданию сообществ."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

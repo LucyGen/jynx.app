@@ -10,9 +10,6 @@
     "twitter_description": "Temukan squad gaming sempurna dengan matchmaking cerdas. Berhenti bermain sendirian.",
     "twitter_image_alt": "Platform Matchmaking Gaming Jynx"
   },
-  "store": {
-    "coming_soon_badge": "Segera Hadir"
-  },
   "about": {
     "meta": {
       "title": "Jynx | Tentang Kami",
@@ -20,7 +17,7 @@
       "og_title": "Tentang Jynx - Kenali Tim di Balik Smart Gaming Matchmaking",
       "og_description": "Didirikan oleh gamer untuk gamer. Pelajari misi Jynx untuk mengubah gaming solo menjadi pengalaman sosial.",
       "og_image_alt": "Tim Jynx dan Tinjauan Platform",
-      "twitter_title": "Tentang Jynx - Platform Matchmaking Gaming Cerdas",
+      "twitter_title": "Tentang Jynx - Kenali Tim di Balik Smart Gaming Matchmaking",
       "twitter_description": "Didirikan oleh gamer untuk gamer. Pelajari misi Jynx.",
       "twitter_image_alt": "Tentang Platform Jynx"
     },
@@ -93,7 +90,7 @@
       "og_title": "Kebijakan Privasi Jynx - Perlindungan Data Anda",
       "og_description": "Kebijakan privasi transparan menguraikan bagaimana Jynx menangani data gaming Anda.",
       "og_image_alt": "Kebijakan Privasi Jynx",
-      "twitter_title": "Kebijakan Privasi Jynx",
+      "twitter_title": "Kebijakan Privasi Jynx - Perlindungan Data Anda",
       "twitter_description": "Pelajari bagaimana kami melindungi data Anda dan menghormati privasi Anda.",
       "twitter_image_alt": "Kebijakan Privasi"
     },
@@ -1137,6 +1134,7 @@
     "feedback": "Umpan Balik",
     "download": "Unduh",
     "blog": "Blog",
+    "games": "Games",
     "search": "Cari",
     "search_aria": "Cari artikel",
     "glossary": "Glossary",
@@ -1156,6 +1154,10 @@
     "cta_primary": "BERGABUNG DENGAN KOMUNITAS ANDA",
     "title_primary": "Platform Matchmaking Gaming Cerdas",
     "tagline": "Where Gaming Gets Social"
+  },
+  "proof": {
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Bermain Lebih Baik, Bersama",
@@ -1236,9 +1238,8 @@
       "error": "Masukkan alamat email yang valid"
     },
     "optional": "Opsional",
-    "submit": "Bergabung dengan Waitlist",
     "submitting": "Mengirim...",
-    "success": "Anda masuk! Kami akan memberi tahu Anda saat Jynx diluncurkan.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Ups! Terjadi kesalahan. Silakan coba lagi.",
     "errors": {
       "permission_denied": "Anda tidak memiliki izin untuk mengirim formulir ini.",
@@ -1256,12 +1257,10 @@
     "nojs_note": "Ini akan membuka klien email Anda. Untuk pengalaman terbaik, harap aktifkan JavaScript."
   },
   "feedback": {
-    "coming_soon": "Segera hadir",
-    "stay_tuned": "Nantikan peluncuran kami",
     "title": "Saran Anda, prioritas kami",
     "feedback": "Pesan Anda (opsional)",
     "feedback_label": "Pesan Anda",
-    "subtitle": "Tanpa spam. Kami hanya akan menghubungi Anda saat Jynx diluncurkan.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "discord": "Bergabung dengan Discord kami",
     "yes": "Ya",
     "no": "Tidak",
@@ -1269,7 +1268,9 @@
     "submit": "Kirim",
     "note": "Gratis selamanya",
     "submitting": "Mengirim...",
-    "thanks": "Terima kasih atas umpan balik Anda!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_waitlist": "You're on the list.",
+    "thanks_combined": "Thanks for your feedback — you're on the list!",
     "error": "Tidak dapat mengirim umpan balik. Silakan coba lagi.",
     "error_empty": "Harap berikan email atau umpan balik Anda.",
     "badge_free": "Gratis selamanya",
@@ -1282,6 +1283,8 @@
       "about": "Tentang Kami",
       "about_seo": "Tentang Platform Gaming Jynx",
       "blog": "Blog",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Cari"
     },
     "support": {
@@ -1301,7 +1304,7 @@
       "app_store": "App Store",
       "google_play": "Google Play"
     },
-    "copyright": "© 2024 Jynx. Hak cipta dilindungi undang-undang.",
+    "copyright": "© {{CURRENT_YEAR}} Jynx. Hak cipta dilindungi undang-undang.",
     "language": "Bahasa"
   },
   "errors": {
@@ -1402,7 +1405,7 @@
       "og_title": "Unduh Aplikasi Jynx - Temukan Squad Gaming Anda",
       "og_description": "Dapatkan aplikasi Jynx di iOS atau Android. Mulai temukan rekan tim yang kompatibel dengan matchmaking AI.",
       "og_image_alt": "Unduh Aplikasi Gaming Jynx",
-      "twitter_title": "Unduh Jynx - Platform Sosial Gaming",
+      "twitter_title": "Unduh Aplikasi Jynx - Temukan Squad Gaming Anda",
       "twitter_description": "Dapatkan aplikasi Jynx di iOS atau Android. Mulai temukan rekan tim hari ini.",
       "twitter_image_alt": "Aplikasi Mobile Jynx"
     },
@@ -1422,8 +1425,7 @@
       "google_play": {
         "text_small": "Dapatkan di",
         "text_large": "Google Play"
-      },
-      "coming_soon": "Segera Hadir"
+      }
     },
     "signup": {
       "title": "Dapatkan Notifikasi Saat Kami Meluncurkan",
@@ -1447,7 +1449,6 @@
       "copy_success": "✓ Disalin!",
       "copy_fallback": "Link disalin ke clipboard!",
       "form_submitting": "Mengirim...",
-      "form_success": "✓ Terima kasih! Kami akan memberi tahu Anda saat Jynx diluncurkan di mobile.",
       "form_error": "Terjadi kesalahan. Silakan coba lagi."
     },
     "features": {
@@ -1481,8 +1482,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.",
-      "proof": "4.4 stars on Google Play in Brazil (94 ratings) and 10,000+ installs on Google Play in Brazil as of October 2026 — App Store ratings coming as the community grows."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
     },
     "install": {
       "title": "Download the teammate finder app on iOS or Android",
@@ -1523,31 +1523,32 @@
       }
     }
   },
-  "reviews": {
-    "main_title": "MENGAPA GAMER MEMBUTUHKAN",
-    "subtitle_prefix": "MATCHMAKING",
-    "subtitle_highlight": "YANG LEBIH BAIK",
-    "review1": {
+  "personas": {
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
+    "nojs_note": "Enable JavaScript to browse all player types",
+    "persona1": {
       "quote": "Menemukan rekan tim konsisten di ELO saya seharusnya tidak berarti spamming Discord selama berjam-jam. Saya butuh pemain yang berkomunikasi, datang tepat waktu, dan benar-benar main role utama mereka.",
       "name": "The Ranked Grinder",
       "role": "Pemain Kompetitif"
     },
-    "review2": {
+    "persona2": {
       "quote": "Lelah dengan random yang rage quit, tidak berbicara bahasa saya, atau online saat saya tidur. Saya hanya ingin rekan tim yang cocok dengan jadwal dan vibe saya.",
       "name": "The Weekend Warrior",
       "role": "Gamer Kasual"
     },
-    "review3": {
+    "persona3": {
       "quote": "Mengorganisir sesi gaming lintas zona waktu adalah kekacauan tanpa alat yang tepat. Butuh sistem yang benar-benar membantu koordinasi komunitas saya.",
       "name": "The Community Builder",
       "role": "Pemimpin Guild"
     },
-    "review4": {
+    "persona4": {
       "quote": "Solo queue membunuh kecintaan saya pada gaming. Setiap match adalah coin flip toxicity. Harus ada cara yang lebih baik untuk menemukan orang yang benar-benar ingin berkembang bersama.",
       "name": "The Solo Queue Escapee",
       "role": "Pemain Mencari Tim"
-    },
-    "nojs_note": "Aktifkan JavaScript untuk menjelajahi semua skenario"
+    }
   },
   "comparison": {
     "title": "Dibuat untuk Gamer, oleh Gamer",
@@ -1575,14 +1576,15 @@
       "servers": "Server",
       "teams": "Tim",
       "advanced": "Lanjutan",
-      "coming_soon": "Segera Hadir",
-      "exclusive_features": "(Fitur Eksklusif)",
+      "planned": "Planned",
       "game_apis": "Game APIs",
       "general": "Umum",
       "varies": "Bervariasi",
       "free_jynx_plus": "Gratis / Jynx+",
       "free_varies": "Gratis/Bervariasi"
     },
+    "roadmap_note": "On the roadmap: automatic teammate finder",
+    "footnote": "Comparison based on publicly available features as of October 2026.",
     "cta": {
       "title": "Siap Merasakan Perbedaannya?",
       "description": "Bergabunglah dengan gamer di seluruh dunia yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
@@ -1600,7 +1602,7 @@
       "index_description": "Temukan tips ahli tentang matchmaking gaming, membangun komunitas, dan menemukan rekan tim yang sempurna. Panduan, strategi, dan wawasan.",
       "og_title": "Blog Jynx - Tips Matchmaking Gaming & Panduan Komunitas",
       "og_description": "Panduan ahli tentang matchmaking AI, komunitas gaming, dan menemukan rekan tim yang sempurna. Tips dan strategi untuk gamer kompetitif.",
-      "twitter_title": "Blog Jynx - Tips & Panduan Gaming",
+      "twitter_title": "Blog Jynx - Tips Matchmaking Gaming & Panduan Komunitas",
       "twitter_description": "Panduan ahli tentang matchmaking gaming dan membangun komunitas."
     },
     "hero": {
@@ -1911,6 +1913,15 @@
     },
     "breadcrumb_duo": "Duo Finder",
     "breadcrumb_guide": "LFG Guide"
+  },
+  "games_section": {
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
+    "glossary_teaser": {
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
+    }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on Android and iOS.",

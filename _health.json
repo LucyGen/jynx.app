@@ -1,21 +1,82 @@
 {
-  "status": "healthy",
-  "version": "1.0.0",
-  "timestamp": "2025-01-27T00:00:00Z",
-  "services": {
-    "search": {
-      "status": "operational",
-      "indices": 16,
-      "languages": ["en", "fr", "es", "pt", "de", "it", "ru", "ar", "hi", "id", "pl", "uk", "ko", "tr", "bn", "vi"]
+  "schemaVersion": 2,
+  "gitSha": "713252cc71b01806ebc99014b9104a51785e9a25",
+  "generatedFrom": [
+    {
+      "source": "games",
+      "date": "2026-10-11"
     },
-    "blog": {
-      "status": "operational",
-      "posts": 71
+    {
+      "source": "blog",
+      "date": "2026-10-11"
+    },
+    {
+      "source": "glossary",
+      "date": "2026-05-08"
+    }
+  ],
+  "counts": {
+    "blogPosts": {
+      "total": 125,
+      "perLocale": {
+        "ar": 6,
+        "bn": 5,
+        "de": 6,
+        "en": 40,
+        "es": 4,
+        "fr": 8,
+        "hi": 4,
+        "id": 6,
+        "it": 8,
+        "ko": 4,
+        "pl": 4,
+        "pt": 9,
+        "ru": 5,
+        "tr": 5,
+        "uk": 5,
+        "vi": 6
+      }
+    },
+    "htmlPages": {
+      "main": 100,
+      "blog": 125,
+      "games": 11,
+      "glossary": 149,
+      "localeDirs": {
+        "ar": 15,
+        "bn": 14,
+        "de": 15,
+        "es": 13,
+        "fr": 17,
+        "hi": 13,
+        "id": 15,
+        "it": 17,
+        "ko": 13,
+        "pl": 13,
+        "pt": 24,
+        "ru": 14,
+        "tr": 14,
+        "uk": 14,
+        "vi": 15
+      },
+      "total": 444
+    },
+    "sitemaps": {
+      "blog-sitemap.xml": 41,
+      "fr/blog-sitemap.xml": 9,
+      "fr/sitemap.xml": 5,
+      "games-sitemap.xml": 13,
+      "glossary-sitemap.xml": 149,
+      "pt/blog-sitemap.xml": 10,
+      "pt/sitemap.xml": 5,
+      "sitemap-index.xml": 8,
+      "sitemap.xml": 8
     }
   },
-  "endpoints": {
-    "search": "/search.html",
-    "blog": "/blog.html",
-    "search_indices": "/content/search/{locale}.json"
-  }
+  "assets": {
+    "images": 744,
+    "js": 15,
+    "css": 15
+  },
+  "distBytes": 71990997
 }

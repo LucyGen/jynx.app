@@ -57,6 +57,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - [/pt/games/rainbow-six-siege/duo-finder.html](https://jynx.app/pt/games/rainbow-six-siege/duo-finder.html): Duo finder — verified-rank matching and queue rules
 - [/pt/games/valorant/duo-finder.html](https://jynx.app/pt/games/valorant/duo-finder.html): Duo finder — verified-rank matching and queue rules
 - [/pt/procurar-duo.html](https://jynx.app/pt/procurar-duo.html): LFG guide — verified-rank matching and queue rules
+- [/games.html](https://jynx.app/games.html): LFG guide — verified-rank matching and queue rules
 
 ## Optional
 
