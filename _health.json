@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "gitSha": "1e8004076374e4417ace7a4cabad9b1d395c1319",
+  "gitSha": "4dc6f92a8afda8332f53632aefe6356bbea8c0e3",
   "generatedFrom": [
     {
       "source": "games",
-      "date": "2026-10-15"
+      "date": "2026-10-16"
     },
     {
       "source": "blog",
@@ -59,13 +59,13 @@
         "uk": 14,
         "vi": 15
       },
-      "total": 446
+      "total": 1158
     },
     "sitemaps": {
       "blog-sitemap.xml": 41,
       "fr/blog-sitemap.xml": 9,
       "fr/sitemap.xml": 5,
-      "games-sitemap.xml": 13,
+      "games-sitemap.xml": 725,
       "glossary-sitemap.xml": 149,
       "pt/blog-sitemap.xml": 10,
       "pt/sitemap.xml": 5,
@@ -75,9 +75,9 @@
     }
   },
   "assets": {
-    "images": 744,
-    "js": 15,
-    "css": 16
+    "images": 3560,
+    "js": 16,
+    "css": 18
   },
-  "distBytes": 72601489
+  "distBytes": 108381399
 }
