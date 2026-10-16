@@ -95,7 +95,7 @@
       "twitter_image_alt": "গোপনীয়তা নীতি"
     },
     "title": "গোপনীয়তা নীতি",
-    "last_updated": "সর্বশেষ আপডেট: সেপ্টেম্বর 2026",
+    "last_updated": "সর্বশেষ আপডেট: অক্টোবর 2026",
     "version": "সংস্করণ: 1.0",
     "intro": {
       "title": "১. ভূমিকা",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "৫. ডেটা ব্যবহার",
       "intro": "আমরা আপনার ডেটা ব্যবহার করি:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "১. আমাদের পরিষেবা প্রদান:",
         "account": "আপনার অ্যাকাউন্ট তৈরি এবং পরিচালনা",

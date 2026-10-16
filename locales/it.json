@@ -95,7 +95,7 @@
       "twitter_image_alt": "Informativa sulla Privacy"
     },
     "title": "Informativa sulla Privacy",
-    "last_updated": "Ultimo aggiornamento: Settembre 2026",
+    "last_updated": "Ultimo aggiornamento: Ottobre 2026",
     "version": "Versione: 1.0",
     "intro": {
       "title": "1. Introduzione",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Utilizzo dei Dati",
       "intro": "Utilizziamo i tuoi dati per:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Fornire i Nostri Servizi:",
         "account": "Creare e gestire il tuo account",

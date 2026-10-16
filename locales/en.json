@@ -95,7 +95,7 @@
       "twitter_image_alt": "Privacy Policy"
     },
     "title": "Privacy Policy",
-    "last_updated": "Last updated: September 2026",
+    "last_updated": "Last updated: October 2026",
     "version": "Version: 1.1",
     "intro": {
       "title": "1. Introduction",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Data Usage",
       "intro": "We use your data to:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Provide Our Services:",
         "account": "Create and manage your account",

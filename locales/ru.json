@@ -95,7 +95,7 @@
       "twitter_image_alt": "Политика Конфиденциальности"
     },
     "title": "Политика конфиденциальности",
-    "last_updated": "Последнее обновление: сентябрь 2026",
+    "last_updated": "Последнее обновление: октябрь 2026",
     "version": "Версия: 1.0",
     "intro": {
       "title": "1. Введение",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Использование данных",
       "intro": "Мы используем ваши данные для:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Предоставления наших услуг:",
         "account": "Создания и управления вашей учетной записью",

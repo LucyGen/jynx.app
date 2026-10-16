@@ -95,7 +95,7 @@
       "twitter_image_alt": "سياسة الخصوصية"
     },
     "title": "سياسة الخصوصية",
-    "last_updated": "آخر تحديث: سبتمبر 2026",
+    "last_updated": "آخر تحديث: أكتوبر 2026",
     "version": "الإصدار: 1.0",
     "intro": {
       "title": "1. المقدمة",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. استخدام البيانات",
       "intro": "نستخدم بياناتك من أجل:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. تقديم خدماتنا:",
         "account": "إنشاء حسابك وإدارته",

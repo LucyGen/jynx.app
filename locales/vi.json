@@ -95,7 +95,7 @@
       "twitter_image_alt": "Chính Sách Bảo Mật"
     },
     "title": "Chính Sách Bảo Mật",
-    "last_updated": "Cập nhật lần cuối: Tháng 9 năm 2026",
+    "last_updated": "Cập nhật lần cuối: Tháng 10 năm 2026",
     "version": "Phiên bản: 1.0",
     "intro": {
       "title": "1. Giới Thiệu",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Sử Dụng Dữ Liệu",
       "intro": "Chúng tôi sử dụng dữ liệu của bạn để:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Cung Cấp Dịch Vụ:",
         "account": "Tạo và quản lý tài khoản của bạn",

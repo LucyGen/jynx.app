@@ -95,7 +95,7 @@
       "twitter_image_alt": "गोपनीयता नीति"
     },
     "title": "Privacy Policy",
-    "last_updated": "आखिरी अपडेट: सितंबर 2026",
+    "last_updated": "आखिरी अपडेट: अक्टूबर 2026",
     "version": "संस्करण: 1.0",
     "intro": {
       "title": "1. परिचय",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Data का उपयोग",
       "intro": "हम आपके data का उपयोग इसके लिए करते हैं:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. हमारी Services प्रदान करना:",
         "account": "आपका account बनाना और manage करना",

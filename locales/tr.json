@@ -95,7 +95,7 @@
       "twitter_image_alt": "Gizlilik Politikası"
     },
     "title": "Gizlilik Politikası",
-    "last_updated": "Son güncelleme: Eylül 2026",
+    "last_updated": "Son güncelleme: Ekim 2026",
     "version": "Versiyon: 1.0",
     "intro": {
       "title": "1. Giriş",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Veri Kullanımı",
       "intro": "Verilerinizi şu amaçlarla kullanırız:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Hizmetlerimizi Sağlamak:",
         "account": "Hesabınızı oluşturmak ve yönetmek",

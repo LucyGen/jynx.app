@@ -95,7 +95,7 @@
       "twitter_image_alt": "Політика Конфіденційності"
     },
     "title": "Політика Конфіденційності",
-    "last_updated": "Останнє оновлення: Вересень 2026",
+    "last_updated": "Останнє оновлення: Жовтень 2026",
     "version": "Версія: 1.0",
     "intro": {
       "title": "1. Вступ",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Використання Даних",
       "intro": "Ми використовуємо ваші дані для:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Надання Наших Послуг:",
         "account": "Створення та керування вашим обліковим записом",

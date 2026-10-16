@@ -95,7 +95,7 @@
       "twitter_image_alt": "Kebijakan Privasi"
     },
     "title": "Kebijakan Privasi",
-    "last_updated": "Terakhir diperbarui: September 2026",
+    "last_updated": "Terakhir diperbarui: Oktober 2026",
     "version": "Versi: 1.0",
     "intro": {
       "title": "1. Pendahuluan",
@@ -276,6 +276,7 @@
     "data_usage": {
       "title": "5. Penggunaan Data",
       "intro": "Kami menggunakan data Anda untuk:",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Menyediakan Layanan Kami:",
         "account": "Membuat dan mengelola akun Anda",

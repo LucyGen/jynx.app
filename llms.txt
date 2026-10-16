@@ -42,6 +42,8 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - [/about.html](https://jynx.app/about.html): The team, the mission, and the story behind Jynx
 - [/blog.html](https://jynx.app/blog.html): Guides on finding teammates, game duos, and matchmaking
 - [/glossary.html](https://jynx.app/glossary.html): Gaming and LFG glossary — what terms like LFG, duo queue, and smurfing mean
+- [/stats/duo-index-br.html](https://jynx.app/stats/duo-index-br.html): Duo Index — proprietary aggregated statistics on how players form duos (when they search, how long duos talk)
+- [/pt/stats/duo-index-br.html](https://jynx.app/pt/stats/duo-index-br.html): Índice Duo BR (pt-BR) — estatísticas agregadas de como o Brasil procura duo
 
 ### Live game pages
 
