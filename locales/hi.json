@@ -79,8 +79,7 @@
     },
     "cta": {
       "title": "Jynx Community में शामिल हों",
-      "description": "अपने perfect gaming squad को खोजने के नए तरीके का अनुभव करने वाले पहले व्यक्ति बनें",
-      "button": "Waitlist में शामिल हों"
+      "description": "Find your perfect gaming squad — Jynx is live on iOS, Android and web."
     }
   },
   "privacy": {
@@ -906,7 +905,6 @@
     },
     "section8": {
       "title": "8. Premium Services और Payments",
-      "status": "Premium Features Status: Jynx currently एक free-to-use platform के रूप में operate करता है। Premium subscription features (Jynx+) और paid cosmetics जल्द ही आ रहे हैं और अभी तक purchase के लिए उपलब्ध नहीं हैं।",
       "freemium": {
         "title": "8.1. Freemium Model",
         "intro": "Jynx एक freemium model पर operate करता है जहाँ सभी core features मुफ्त में accessible हैं, optional premium enhancements के साथ।",
@@ -917,15 +915,13 @@
           "li3": "Communities: 1 community create करें, 5 communities तक join करें",
           "li4": "Cosmetics: Free tier cosmetic items तक access (badges, avatar borders)"
         },
-        "premium_title": "Jynx+ Premium Benefits (Coming Soon):",
         "premium": {
           "li1": "Unlimited Communities: Unlimited communities create और join करें",
           "li2": "Community Boosts: आपकी पसंदीदा communities को support करने के लिए प्रति माह 2 free community boosts",
           "li3": "Unlimited Matching: Likes, profile views, या chat requests पर कोई daily limits नहीं",
           "li4": "Priority Support: Support inquiries के लिए faster response times",
           "li5": "Premium Badge: अपनी profile पर एक special premium badge display करें",
-          "li6": "Exclusive Cosmetics: Premium-tier cosmetic items तक access",
-          "li7": "Advanced Features: New features और enhanced matching algorithms तक early access"
+          "li6": "Exclusive Cosmetics: Premium-tier cosmetic items तक access"
         }
       },
       "cosmetics": {
@@ -1182,8 +1178,7 @@
         "description": "अपनी gaming nights को advance में plan करें और teammates के लिए फिर कभी scramble न करें"
       }
     },
-    "title_seo": "स्मार्ट मैचमेकिंग के साथ बेहतर खेलें, साथ में",
-    "description_seo": "Jynx एक स्मार्ट गेमिंग मैचमेकिंग प्लेटफॉर्म है जो solo gaming को social experience में बदल देता है। हमारे intelligent algorithms skill level, play style, और gaming preferences के आधार पर players को connect करते हैं। चाहे आप League of Legends teammates, Valorant squad, या casual gaming friends ढूंढ रहे हों, Jynx वह LFG alternative है जो वाकई काम करता है। प्रतीक्षा सूची में शामिल हों और फिर कभी अकेले न खेलें।"
+    "title_seo": "स्मार्ट मैचमेकिंग के साथ बेहतर खेलें, साथ में"
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1270,13 +1265,13 @@
     "note": "हमेशा के लिए free",
     "submitting": "Submit हो रहा है...",
     "thanks_feedback": "Thanks for your feedback!",
-    "thanks_waitlist": "You're on the list.",
-    "thanks_combined": "Thanks for your feedback — you're on the list!",
+    "thanks_combined": "Thanks for your feedback — it means a lot!",
     "error": "Feedback submit नहीं हो सका। कृपया फिर से कोशिश करें।",
     "error_empty": "कृपया अपना email या feedback प्रदान करें।",
     "badge_free": "हमेशा मुफ्त",
     "badge_notoxic": "बिना विषाक्तता",
-    "badge_community": "समुदाय-संचालित"
+    "badge_community": "समुदाय-संचालित",
+    "thanks_email": "Thanks! We'll be in touch."
   },
   "footer": {
     "company": {
@@ -1370,12 +1365,7 @@
         "text_large": "Google Play पर"
       }
     },
-    "signup": {
-      "title": "हमारे Launch होने पर Notified होएं",
-      "description": "पहले जानें जब Jynx आपके platform पर उपलब्ध हो",
-      "email_placeholder": "अपना email दर्ज करें",
-      "submit": "मुझे Notify करें"
-    },
+    "signup": {},
     "social": {
       "title": "अपने gaming squad के साथ शेयर करें",
       "twitter": "Twitter",
@@ -1685,7 +1675,6 @@
       },
       "cta": {
         "title": "अपनी परफेक्ट स्क्वॉड ढूंढने के लिए तैयार हैं?",
-        "subtitle": "हजारों गेमर्स के साथ जुड़ें जो Jynx की स्मार्ट मैचमेकिंग का उपयोग कर रहे हैं",
         "button": "Jynx डाउनलोड करें",
         "heading_early": "अपनी परफेक्ट स्क्वॉड ढूंढने के लिए तैयार हैं?",
         "heading_mid": "हजारों गेमर्स के साथ जुड़ें",

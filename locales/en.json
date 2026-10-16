@@ -79,8 +79,7 @@
     },
     "cta": {
       "title": "Join the Jynx Community",
-      "description": "Be the first to experience a new way of finding your perfect gaming squad",
-      "button": "Join the Waitlist"
+      "description": "Find your perfect gaming squad — Jynx is live on iOS, Android and web."
     }
   },
   "privacy": {
@@ -906,7 +905,6 @@
     },
     "section8": {
       "title": "8. Premium Services & Payments",
-      "status": "Premium Features Status: Jynx currently operates as a free-to-use platform. Premium subscription features (Jynx+) and paid cosmetics are coming soon and not yet available for purchase.",
       "freemium": {
         "title": "8.1. Freemium Model",
         "intro": "Jynx operates on a freemium model where all core features are accessible for free, with optional premium enhancements.",
@@ -917,15 +915,13 @@
           "li3": "Communities: Create 1 community, join up to 5 communities",
           "li4": "Cosmetics: Access to free tier cosmetic items (badges, avatar borders)"
         },
-        "premium_title": "Jynx+ Premium Benefits (Coming Soon):",
         "premium": {
           "li1": "Unlimited Communities: Create and join unlimited communities",
           "li2": "Community Boosts: 2 free community boosts per month to support your favorite communities",
           "li3": "Unlimited Matching: No daily limits on likes, profile views, or chat requests",
           "li4": "Priority Support: Faster response times for support inquiries",
           "li5": "Premium Badge: Display a special premium badge on your profile",
-          "li6": "Exclusive Cosmetics: Access to premium-tier cosmetic items",
-          "li7": "Advanced Features: Early access to new features and enhanced matching algorithms"
+          "li6": "Exclusive Cosmetics: Access to premium-tier cosmetic items"
         }
       },
       "cosmetics": {
@@ -1182,8 +1178,7 @@
         "description": "Plan your gaming nights in advance and never scramble for teammates again"
       }
     },
-    "title_seo": "Game Better, Together with Smart Matchmaking",
-    "description_seo": "Jynx is a smart gaming matchmaking platform that transforms solo gaming into a social experience. Our intelligent algorithms connect players based on skill level, play style, and gaming preferences. Whether you're looking for League of Legends teammates, Valorant squad, or casual gaming friends, Jynx is your LFG alternative that actually works. Join the waitlist and never play alone again."
+    "title_seo": "Game Better, Together with Smart Matchmaking"
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1270,13 +1265,13 @@
     "note": "Free forever",
     "submitting": "Submitting...",
     "thanks_feedback": "Thanks for your feedback!",
-    "thanks_waitlist": "You're on the list.",
-    "thanks_combined": "Thanks for your feedback — you're on the list!",
+    "thanks_combined": "Thanks for your feedback — it means a lot!",
     "error": "Could not submit feedback. Please try again.",
     "error_empty": "Please provide either your email or feedback.",
     "badge_free": "Free Forever",
     "badge_notoxic": "No Toxicity",
-    "badge_community": "Community Driven"
+    "badge_community": "Community Driven",
+    "thanks_email": "Thanks! We'll be in touch."
   },
   "footer": {
     "company": {
@@ -1477,12 +1472,7 @@
         "text_large": "Android"
       }
     },
-    "signup": {
-      "title": "Get Notified When We Launch",
-      "description": "Be the first to know when Jynx is available on your platform",
-      "email_placeholder": "Enter your email",
-      "submit": "Notify Me"
-    },
+    "signup": {},
     "social": {
       "title": "Share with your gaming squad",
       "twitter": "Twitter",
@@ -1735,7 +1725,6 @@
       },
       "cta": {
         "title": "Ready to Find Your Perfect Squad?",
-        "subtitle": "Be among the first to experience Jynx's smart matchmaking",
         "button": "Download Jynx",
         "heading_early": "Ready to Find Your Perfect Squad?",
         "heading_mid": "Join Thousands of Gamers",

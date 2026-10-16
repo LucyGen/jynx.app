@@ -79,8 +79,7 @@
     },
     "cta": {
       "title": "Tritt der Jynx-Community bei",
-      "description": "Sei der Erste, der eine neue Art erlebt, dein perfektes Gaming-Squad zu finden",
-      "button": "Tritt der Warteliste bei"
+      "description": "Find your perfect gaming squad — Jynx is live on iOS, Android and web."
     }
   },
   "privacy": {
@@ -906,7 +905,6 @@
     },
     "section8": {
       "title": "8. Premium-Dienste & Zahlungen",
-      "status": "Status der Premium-Funktionen: Jynx arbeitet derzeit als kostenlose Plattform. Premium-Abonnement-Funktionen (Jynx+) und kostenpflichtige Kosmetika kommen bald und sind noch nicht zum Kauf verfügbar.",
       "freemium": {
         "title": "8.1. Freemium-Modell",
         "intro": "Jynx arbeitet mit einem Freemium-Modell, bei dem alle Kernfunktionen kostenlos zugänglich sind, mit optionalen Premium-Erweiterungen.",
@@ -917,15 +915,13 @@
           "li3": "Communities: 1 Community erstellen, bis zu 5 Communities beitreten",
           "li4": "Kosmetika: Zugriff auf kostenlose Kosmetik-Gegenstände (Abzeichen, Avatar-Rahmen)"
         },
-        "premium_title": "Jynx+ Premium-Vorteile (Bald verfügbar):",
         "premium": {
           "li1": "Unbegrenzte Communities: Unbegrenzt Communities erstellen und beitreten",
           "li2": "Community-Boosts: 2 kostenlose Community-Boosts pro Monat zur Unterstützung deiner Lieblings-Communities",
           "li3": "Unbegrenztes Matching: Keine täglichen Limits für Likes, Profilansichten oder Chat-Anfragen",
           "li4": "Prioritäts-Support: Schnellere Antwortzeiten für Support-Anfragen",
           "li5": "Premium-Abzeichen: Zeige ein spezielles Premium-Abzeichen auf deinem Profil an",
-          "li6": "Exklusive Kosmetika: Zugriff auf Premium-Kosmetik-Gegenstände",
-          "li7": "Erweiterte Funktionen: Früher Zugang zu neuen Funktionen und verbesserten Matching-Algorithmen"
+          "li6": "Exklusive Kosmetika: Zugriff auf Premium-Kosmetik-Gegenstände"
         }
       },
       "cosmetics": {
@@ -1182,8 +1178,7 @@
         "description": "Plane deine Gaming-Abende im Voraus und suche nie wieder in letzter Minute nach Teamkollegen"
       }
     },
-    "title_seo": "Besser spielen, zusammen mit Smart Matchmaking",
-    "description_seo": "Jynx ist eine intelligente Gaming-Matchmaking-Plattform, die Solo-Gaming in ein soziales Erlebnis verwandelt. Unsere intelligenten Algorithmen verbinden Spieler basierend auf Skill-Level, Spielstil und Gaming-Präferenzen. Ob du nach League of Legends-Teamkollegen, Valorant-Squad oder lockeren Gaming-Freunden suchst, Jynx ist deine LFG-Alternative, die wirklich funktioniert. Tritt der Warteliste bei und spiele nie wieder allein."
+    "title_seo": "Besser spielen, zusammen mit Smart Matchmaking"
   },
   "gaming_sections": {
     "intelligent_matchmaking": {
@@ -1270,13 +1265,13 @@
     "note": "Für immer kostenlos",
     "submitting": "Wird übermittelt...",
     "thanks_feedback": "Thanks for your feedback!",
-    "thanks_waitlist": "You're on the list.",
-    "thanks_combined": "Thanks for your feedback — you're on the list!",
+    "thanks_combined": "Thanks for your feedback — it means a lot!",
     "error": "Feedback konnte nicht übermittelt werden. Bitte versuche es erneut.",
     "error_empty": "Bitte gib entweder deine E-Mail oder Feedback an.",
     "badge_free": "Für immer kostenlos",
     "badge_notoxic": "Keine Toxizität",
-    "badge_community": "Community-getrieben"
+    "badge_community": "Community-getrieben",
+    "thanks_email": "Thanks! We'll be in touch."
   },
   "footer": {
     "company": {
@@ -1430,12 +1425,7 @@
         "text_large": "Google Play"
       }
     },
-    "signup": {
-      "title": "Werde benachrichtigt, wenn wir starten",
-      "description": "Sei der Erste, der erfährt, wann Jynx auf deiner Plattform verfügbar ist",
-      "email_placeholder": "Gib deine E-Mail ein",
-      "submit": "Benachrichtige mich"
-    },
+    "signup": {},
     "social": {
       "title": "Teile mit deinem Gaming-Squad",
       "twitter": "Twitter",
@@ -1685,7 +1675,6 @@
       },
       "cta": {
         "title": "Bereit, Ihr Perfektes Squad zu Finden?",
-        "subtitle": "Schließen Sie sich Tausenden von Gamern an, die Jynx' intelligentes Matchmaking nutzen",
         "button": "Jynx Herunterladen",
         "heading_early": "Bereit, Ihr Perfektes Squad zu Finden?",
         "heading_mid": "Schließen Sie sich Tausenden von Gamern an",
