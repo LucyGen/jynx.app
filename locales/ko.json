@@ -130,9 +130,9 @@
         "email": "이메일(이메일/비밀번호 계정용)",
         "username": "사용자 이름/닉네임",
         "photo": "프로필 사진(선택 사항)",
-        "social": "Social login identifiers (Google, Apple, Discord) if you use these methods",
-        "phone": "Phone number (for phone-number authentication: your number is used to send a one-time verification SMS via Firebase Authentication and is retained with your account unless you remove it; we do not send marketing SMS — where French rules apply, SMS prospecting would require your prior consent, CPCE Art. L. 34-5)",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account"
+        "social": "Social login identifiers (Google, Apple) if you use these methods",
+        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
+        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
       },
       "profile": {
         "title": "프로필 정보:",
@@ -604,7 +604,7 @@
       "creation": {
         "title": "3.2. 계정 생성",
         "intro": "Jynx를 사용하려면 다음을 제공하여 계정을 만들어야 합니다:",
-        "li1": "A valid email address, a phone number, OR authentication via Google/Apple/Discord",
+        "li1": "A valid email address OR authentication via Google/Apple",
         "li2": "고유한 사용자 이름",
         "li3": "생년월일(연령 확인용)",
         "li4": "프로필 정보(국가, 시간대, 언어, 게임 선호도)",
@@ -1004,12 +1004,10 @@
         "p1": "Riot Games API를 사용하여 게임 통계(League of Legends, Valorant 등)를 검색합니다."
       },
       "oauth": {
-        "title": "9.4. Authentication Providers",
+        "title": "9.4. OAuth Providers",
         "intro": "다음을 통한 인증을 제공합니다:",
         "li1": "Google 로그인",
-        "li2": "Apple 로그인",
-        "li3": "Discord (OAuth sign-in)",
-        "li4": "Phone number (verification SMS via Firebase Authentication)"
+        "li2": "Apple 로그인"
       },
       "responsibility": "이러한 제3자 서비스의 약관을 준수할 책임이 있습니다.",
       "esp": {

@@ -130,9 +130,9 @@
         "email": "Email (cho tài khoản email/mật khẩu)",
         "username": "Tên người dùng/biệt danh",
         "photo": "Ảnh hồ sơ (tùy chọn)",
-        "social": "Social login identifiers (Google, Apple, Discord) if you use these methods",
-        "phone": "Phone number (for phone-number authentication: your number is used to send a one-time verification SMS via Firebase Authentication and is retained with your account unless you remove it; we do not send marketing SMS — where French rules apply, SMS prospecting would require your prior consent, CPCE Art. L. 34-5)",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account"
+        "social": "Social login identifiers (Google, Apple) if you use these methods",
+        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
+        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
       },
       "profile": {
         "title": "Thông Tin Hồ Sơ:",
@@ -604,7 +604,7 @@
       "creation": {
         "title": "3.2. Tạo Tài Khoản",
         "intro": "Để sử dụng Jynx, bạn phải tạo tài khoản bằng cách cung cấp:",
-        "li1": "A valid email address, a phone number, OR authentication via Google/Apple/Discord",
+        "li1": "A valid email address OR authentication via Google/Apple",
         "li2": "Tên người dùng duy nhất",
         "li3": "Ngày sinh của bạn (để xác minh độ tuổi)",
         "li4": "Thông tin hồ sơ (quốc gia, múi giờ, ngôn ngữ, sở thích game)",
@@ -1004,12 +1004,10 @@
         "p1": "Chúng tôi sử dụng Riot Games API để lấy thống kê game (League of Legends, Valorant, v.v.)."
       },
       "oauth": {
-        "title": "9.4. Authentication Providers",
+        "title": "9.4. OAuth Providers",
         "intro": "Chúng tôi cung cấp xác thực qua:",
         "li1": "Google Sign-In",
-        "li2": "Apple Sign-In",
-        "li3": "Discord (OAuth sign-in)",
-        "li4": "Phone number (verification SMS via Firebase Authentication)"
+        "li2": "Apple Sign-In"
       },
       "responsibility": "Bạn chịu trách nhiệm tuân thủ các điều khoản của các dịch vụ bên thứ ba này.",
       "esp": {

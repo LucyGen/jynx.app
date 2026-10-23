@@ -130,9 +130,9 @@
         "email": "Email (para contas email/senha)",
         "username": "Nome de usuário/apelido",
         "photo": "Foto de perfil (opcional)",
-        "social": "Identificadores de login social (Google, Apple, Discord) se você usar esses métodos",
-        "phone": "Número de telefone (para autenticação por telefone: seu número é usado para enviar um SMS de verificação de uso único via Firebase Authentication e fica retido com a sua conta até que você o remova; não enviamos SMS de marketing — quando as regras francesas se aplicam, a prospecção por SMS exigiria o seu consentimento prévio, art. L. 34-5 do CPCE)",
-        "guest": "Navegação como visitante (quando disponível): você pode explorar as partes públicas do Jynx sem criar uma conta; no modo visitante, tratamos apenas um identificador de visitante armazenado localmente e os dados técnicos da seção §3.3 necessários para servir o aplicativo — nenhum perfil é criado e nenhum dado de conta é retido. Para combinar, conversar ou participar de comunidades, é necessário criar uma conta"
+        "social": "Identificadores de login social (Google, Apple) se você usar esses métodos",
+        "guest": "Navegação como visitante (quando disponível): você pode explorar as partes públicas do Jynx sem criar uma conta; no modo visitante, tratamos apenas um identificador de visitante armazenado localmente e os dados técnicos da seção §3.3 necessários para servir o aplicativo — nenhum perfil é criado e nenhum dado de conta é retido. Para combinar, conversar ou participar de comunidades, é necessário criar uma conta",
+        "discord": "Identificadores do Discord (seu ID de usuário do Discord) se você optar por conectar a sua conta do Discord para a integração com o Discord — a conexão usa o OAuth do Discord apenas para identificação e não é um método de login; você pode desconectá-la a qualquer momento"
       },
       "profile": {
         "title": "Informações do Perfil:",
@@ -604,7 +604,7 @@
       "creation": {
         "title": "3.2. Criação de Conta",
         "intro": "Para usar Jynx, você deve criar uma conta fornecendo:",
-        "li1": "Um endereço de e-mail válido, um número de telefone, OU autenticação via Google/Apple/Discord",
+        "li1": "Um endereço de e-mail válido OU autenticação via Google/Apple",
         "li2": "Um nome de usuário único",
         "li3": "Sua data de nascimento (para verificação de idade)",
         "li4": "Informações de perfil (país, fuso horário, idiomas, preferências de gaming)",
@@ -1004,12 +1004,10 @@
         "p1": "Usamos a Riot Games API para recuperar estatísticas de gaming (League of Legends, Valorant, etc.)."
       },
       "oauth": {
-        "title": "9.4. Provedores de autenticação",
+        "title": "9.4. Provedores OAuth",
         "intro": "Oferecemos autenticação via:",
         "li1": "Entrar com Google",
-        "li2": "Entrar com Apple",
-        "li3": "Discord (login OAuth)",
-        "li4": "Número de telefone (SMS de verificação via Firebase Authentication)"
+        "li2": "Entrar com Apple"
       },
       "responsibility": "Você é responsável por cumprir os termos destes serviços de terceiros.",
       "esp": {

@@ -130,9 +130,9 @@
         "email": "ইমেল (ইমেল/পাসওয়ার্ড অ্যাকাউন্টের জন্য)",
         "username": "ব্যবহারকারীর নাম/ডাকনাম",
         "photo": "প্রোফাইল ছবি (ঐচ্ছিক)",
-        "social": "Social login identifiers (Google, Apple, Discord) if you use these methods",
-        "phone": "Phone number (for phone-number authentication: your number is used to send a one-time verification SMS via Firebase Authentication and is retained with your account unless you remove it; we do not send marketing SMS — where French rules apply, SMS prospecting would require your prior consent, CPCE Art. L. 34-5)",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account"
+        "social": "Social login identifiers (Google, Apple) if you use these methods",
+        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
+        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
       },
       "profile": {
         "title": "প্রোফাইল তথ্য:",
@@ -604,7 +604,7 @@
       "creation": {
         "title": "৩.২. অ্যাকাউন্ট তৈরি",
         "intro": "Jynx ব্যবহার করতে, আপনাকে অবশ্যই নিম্নলিখিত প্রদান করে একটি অ্যাকাউন্ট তৈরি করতে হবে:",
-        "li1": "A valid email address, a phone number, OR authentication via Google/Apple/Discord",
+        "li1": "A valid email address OR authentication via Google/Apple",
         "li2": "একটি অনন্য ব্যবহারকারীর নাম",
         "li3": "আপনার জন্ম তারিখ (বয়স যাচাইকরণের জন্য)",
         "li4": "প্রোফাইল তথ্য (দেশ, টাইমজোন, ভাষা, গেমিং পছন্দ)",
@@ -1004,12 +1004,10 @@
         "p1": "আমরা গেমিং পরিসংখ্যান পুনরুদ্ধার করতে Riot Games API ব্যবহার করি (League of Legends, Valorant, ইত্যাদি)।"
       },
       "oauth": {
-        "title": "9.4. Authentication Providers",
+        "title": "9.4. OAuth Providers",
         "intro": "আমরা প্রমাণীকরণ অফার করি:",
         "li1": "Google Sign-In",
-        "li2": "Apple Sign-In",
-        "li3": "Discord (OAuth sign-in)",
-        "li4": "Phone number (verification SMS via Firebase Authentication)"
+        "li2": "Apple Sign-In"
       },
       "responsibility": "আপনি এই তৃতীয় পক্ষের সেবাগুলির শর্তাবলী মেনে চলার জন্য দায়ী।",
       "esp": {
