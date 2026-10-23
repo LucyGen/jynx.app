@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "gitSha": "1b0f38f7b092fb3bd14b43a0e687bad1e253d958",
+  "gitSha": "8b63d0021461ffde1d07f7979e435e4f798971d7",
   "generatedFrom": [
     {
       "source": "games",
-      "date": "2026-10-16"
+      "date": "2026-10-22"
     },
     {
       "source": "blog",
@@ -76,9 +76,9 @@
     }
   },
   "assets": {
-    "images": 3560,
+    "images": 3583,
     "js": 16,
-    "css": 19
+    "css": 20
   },
-  "distBytes": 108706582
+  "distBytes": 109903349
 }

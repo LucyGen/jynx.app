@@ -94,7 +94,7 @@
       "twitter_image_alt": "Privacy Policy"
     },
     "title": "Privacy Policy",
-    "last_updated": "Last updated: October 2026",
+    "last_updated": "Last updated: October 24, 2026",
     "version": "Version: 1.1",
     "intro": {
       "title": "1. Introduction",
@@ -109,7 +109,9 @@
       "jurisdiction_brazil_label": "Brazilian jurisdiction:",
       "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
       "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
-      "p2": "This privacy policy describes how we collect, use, share and protect your personal data when you use our application."
+      "p2": "This privacy policy describes how we collect, use, share and protect your personal data when you use our application.",
+      "publication_label": "Publication (LCEN):",
+      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
     },
     "age_verification": {
       "title": "2. Minimum Age and Verification",
@@ -128,7 +130,9 @@
         "email": "Email (for email/password accounts)",
         "username": "Username/nickname",
         "photo": "Profile photo (optional)",
-        "social": "Social login identifiers (Google, Apple) if you use these methods"
+        "social": "Social login identifiers (Google, Apple, Discord) if you use these methods",
+        "phone": "Phone number (for phone-number authentication: your number is used to send a one-time verification SMS via Firebase Authentication and is retained with your account unless you remove it; we do not send marketing SMS — where French rules apply, SMS prospecting would require your prior consent, CPCE Art. L. 34-5)",
+        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account"
       },
       "profile": {
         "title": "Profile Information:",
@@ -270,6 +274,29 @@
       "image_moderation": {
         "title": "4.8. Cloud Image-Moderation Provider (AWS)",
         "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
+      },
+      "stores": {
+        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
+        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
+        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
+        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
+        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
+        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
+      },
+      "meta": {
+        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
+        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx."
+      },
+      "partner": {
+        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
+        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
+        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
+      },
+      "ai": {
+        "title": "4.11. AI Features",
+        "p1": "<strong>Avatar generation.</strong> The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).",
+        "p2": "<strong>Companion messages (Quimera).</strong> Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1)."
       }
     },
     "data_usage": {
@@ -296,7 +323,8 @@
         "title": "4. Service Improvement:",
         "analyze": "Analyze usage to improve features",
         "bugs": "Identify and fix bugs",
-        "performance": "Optimize performance"
+        "performance": "Optimize performance",
+        "ai": "Generate avatar proposals and companion-message drafts using AI processors (§4.11)"
       },
       "security": {
         "title": "5. Security and Compliance:",
@@ -326,7 +354,8 @@
       },
       "ban_evasion": {
         "title": "5.7. Community Safety and Ban Evasion",
-        "p1": "To help protect our community from abuse, we use device identifiers and device-integrity signals to detect and prevent attempts to circumvent a suspension or ban. If we associate a device with a banned account, that device may be prevented from creating new accounts or signing in. If you believe this has happened in error, you can appeal by contacting support@jynx.app."
+        "p1": "To help protect our community from abuse, we use device identifiers and device-integrity signals to detect and prevent attempts to circumvent a suspension or ban. If we associate a device with a banned account, that device may be prevented from creating new accounts or signing in. If you believe this has happened in error, you can appeal by contacting support@jynx.app.",
+        "p2": "Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service."
       },
       "child_safety": {
         "title": "5.8. Child-Safety Image Analysis",
@@ -436,7 +465,9 @@
       "rate_limiting": "Protection against abuse (spam messages, automated actions)",
       "moderation_label": "Moderation:",
       "moderation": "Content reporting and moderation system",
-      "breach": "No system is 100% secure. In case of a data breach, we will notify you in compliance with GDPR (within 72 hours)."
+      "breach": "No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).",
+      "voice_label": "Real-time voice:",
+      "voice": "Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS."
     },
     "international": {
       "title": "9. International Data Transfers",
@@ -461,7 +492,9 @@
       "br_csam_label": "To child-safety technology providers in the EU (hash matching, processors):",
       "br_csam": "Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)",
       "br_aws_label": "To AWS in Brazil (image moderation, processor):",
-      "br_aws": "The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above"
+      "br_aws": "The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above",
+      "livekit_label": "LiveKit (real-time voice, and screen share when available):",
+      "livekit": "LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors."
     },
     "cookies": {
       "title": "10. Cookies and Similar Technologies",
@@ -472,7 +505,8 @@
       "cache": "To improve performance (profile data, recent messages)",
       "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
       "invite_clipboard": "<strong>Invitation links.</strong> When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.",
-      "referrals": "<strong>Referrals and creator campaigns.</strong> When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form."
+      "referrals": "<strong>Referrals and creator campaigns.</strong> When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.",
+      "screen_share": "<strong>Screen sharing (when available).</strong> When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share."
     },
     "changes": {
       "title": "11. Changes to This Policy",
@@ -570,7 +604,7 @@
       "creation": {
         "title": "3.2. Account Creation",
         "intro": "To use Jynx, you must create an account by providing:",
-        "li1": "A valid email address OR authentication via Google/Apple",
+        "li1": "A valid email address, a phone number, OR authentication via Google/Apple/Discord",
         "li2": "A unique username",
         "li3": "Your date of birth (for age verification)",
         "li4": "Profile information (country, timezone, languages, gaming preferences)",
@@ -931,9 +965,9 @@
       },
       "refunds": {
         "title": "8.3. Refunds & Cancellations",
-        "eu_title": "EU Consumer Rights (14-Day Cooling-Off Period):",
+        "eu_title": "EU Consumer Rights (Right of Withdrawal):",
         "eu": {
-          "p1": "If you are a consumer in the European Union, you have the right to withdraw from digital content purchases within 14 days of purchase, subject to conditions."
+          "p1": "If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state."
         },
         "policy_title": "Refund Policy:",
         "policy": {
@@ -941,7 +975,9 @@
           "li2": "Accidental Purchases: Refunds for accidental purchases may be issued at our discretion within 48 hours of purchase",
           "li3": "Unauthorized Transactions: Report unauthorized transactions immediately to dpo@jynx.app and your payment provider",
           "li4": "No Refunds for: Account termination due to Terms violations, change of mind after using premium features for more than 14 days"
-        }
+        },
+        "br_title": "Brazilian Consumers:",
+        "br": "If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC."
       }
     },
     "section9": {
@@ -968,16 +1004,30 @@
         "p1": "We use the Riot Games API to retrieve gaming statistics (League of Legends, Valorant, etc.)."
       },
       "oauth": {
-        "title": "9.4. OAuth Providers",
+        "title": "9.4. Authentication Providers",
         "intro": "We offer authentication via:",
         "li1": "Google Sign-In",
-        "li2": "Apple Sign-In"
+        "li2": "Apple Sign-In",
+        "li3": "Discord (OAuth sign-in)",
+        "li4": "Phone number (verification SMS via Firebase Authentication)"
       },
       "responsibility": "You are responsible for complying with the terms of these third-party services.",
       "esp": {
         "title": "9.5. Email Service Provider",
         "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
         "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+      },
+      "livekit": {
+        "title": "9.6. LiveKit (Real-Time Voice)",
+        "p1": "Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9."
+      },
+      "rekognition": {
+        "title": "9.7. AWS Rekognition (Image Moderation)",
+        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9."
+      },
+      "meta": {
+        "title": "9.8. Meta (Advertising Attribution)",
+        "p1": "We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9."
       }
     },
     "section10": {
@@ -1031,7 +1081,7 @@
       },
       "jurisdiction": {
         "title": "12.2. Jurisdiction",
-        "p1": "Any disputes arising from these Terms or the Service shall be subject to the exclusive jurisdiction of the competent courts of Nantes, France."
+        "p1": "Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC."
       },
       "resolution": {
         "title": "12.3. Dispute Resolution & Arbitration",
@@ -1042,16 +1092,16 @@
           "li1": "Contact Us Directly: Attempt to resolve the issue by contacting support@jynx.app or dpo@jynx.app",
           "li2": "Informal Negotiation: We will work with you in good faith to reach an amicable resolution within 30 days",
           "li3": "Mediation (Optional): If informal resolution fails, you may propose mediation through a neutral third-party mediator"
-        }
+        },
+        "adr_consumer": "<strong>Consumer ADR (EU/France):</strong> In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court."
       },
       "eu_rights": {
         "title": "12.4. EU Consumer Rights",
         "intro": "If you are a consumer in the European Union, you retain all mandatory consumer rights under EU law, including:",
-        "li1": "14-day cooling-off period for digital content purchases",
+        "li1": "14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)",
         "li2": "Right to remedies for defective products or services",
         "li3": "Protection against unfair contract terms",
-        "li4": "Right to file complaints with your local consumer protection authority",
-        "li5": "Access to the EU ODR platform"
+        "li4": "Right to file complaints with your local consumer protection authority"
       },
       "gdpr": {
         "title": "12.5. GDPR Compliance",
@@ -1123,7 +1173,12 @@
         "p1": "These Terms are provided in English. In the event of any conflict between the English version and any translation, the English version shall prevail."
       }
     },
-    "final_acknowledgment": "By using Jynx, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+    "final_acknowledgment": "By using Jynx, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.",
+    "section15": {
+      "title": "15. Creator (Partner) Program",
+      "p1": "If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.",
+      "p2": "The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10."
+    }
   },
   "nav": {
     "home": "Home",

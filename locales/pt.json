@@ -94,7 +94,7 @@
       "twitter_image_alt": "Política de Privacidade"
     },
     "title": "Política de Privacidade",
-    "last_updated": "Última atualização: Outubro 2026",
+    "last_updated": "Última atualização: 24 de outubro de 2026",
     "version": "Versão: 1.0",
     "intro": {
       "title": "1. Introdução",
@@ -109,7 +109,9 @@
       "jurisdiction_eu": "França, União Europeia — esta Política de Privacidade está em conformidade com o Regulamento (UE) 2016/679 (GDPR) e com a Diretiva 2002/58/EC (ePrivacy), conforme transpostos na França.",
       "jurisdiction_brazil_label": "Jurisdição brasileira:",
       "jurisdiction_brazil": "Esta Política de Privacidade também está em conformidade com a Lei brasileira nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), que se aplica ao tratamento, pelo Jynx, de dados pessoais de titulares localizados no Brasil, nos termos do Art. 3 da LGPD, independentemente de o Jynx não ter estabelecimento no Brasil.",
-      "controller": "Para os fins da LGPD, o Jynx Group é o controlador dos seus dados pessoais. Nosso Oficial de Proteção de Dados atua como encarregado (DPO) e pode ser contatado em dpo@jynx.app para qualquer solicitação relacionada à LGPD. Embora o Jynx se qualifique como pequeno agente de tratamento de dados pessoais nos termos da Resolução CD/ANPD nº 2/2022 — o que o dispensa da nomeação obrigatória de um encarregado —, o Jynx mantém voluntariamente este canal de comunicação publicado."
+      "controller": "Para os fins da LGPD, o Jynx Group é o controlador dos seus dados pessoais. Nosso Oficial de Proteção de Dados atua como encarregado (DPO) e pode ser contatado em dpo@jynx.app para qualquer solicitação relacionada à LGPD. Embora o Jynx se qualifique como pequeno agente de tratamento de dados pessoais nos termos da Resolução CD/ANPD nº 2/2022 — o que o dispensa da nomeação obrigatória de um encarregado —, o Jynx mantém voluntariamente este canal de comunicação publicado.",
+      "publication_label": "Publicação (LCEN):",
+      "publication": "Diretor de publicação: Antoine Haie. Este site (jynx.app) é hospedado pelo GitHub Pages e distribuído por meio da rede de distribuição de conteúdo (CDN) da Cloudflare."
     },
     "age_verification": {
       "title": "2. Idade Mínima e Verificação",
@@ -128,7 +130,9 @@
         "email": "Email (para contas email/senha)",
         "username": "Nome de usuário/apelido",
         "photo": "Foto de perfil (opcional)",
-        "social": "Identificadores de login social (Google, Apple) se você usar esses métodos"
+        "social": "Identificadores de login social (Google, Apple, Discord) se você usar esses métodos",
+        "phone": "Número de telefone (para autenticação por telefone: seu número é usado para enviar um SMS de verificação de uso único via Firebase Authentication e fica retido com a sua conta até que você o remova; não enviamos SMS de marketing — quando as regras francesas se aplicam, a prospecção por SMS exigiria o seu consentimento prévio, art. L. 34-5 do CPCE)",
+        "guest": "Navegação como visitante (quando disponível): você pode explorar as partes públicas do Jynx sem criar uma conta; no modo visitante, tratamos apenas um identificador de visitante armazenado localmente e os dados técnicos da seção §3.3 necessários para servir o aplicativo — nenhum perfil é criado e nenhum dado de conta é retido. Para combinar, conversar ou participar de comunidades, é necessário criar uma conta"
       },
       "profile": {
         "title": "Informações do Perfil:",
@@ -270,6 +274,29 @@
       "image_moderation": {
         "title": "4.8. Provedor de Moderação de Imagens em Nuvem (AWS)",
         "p1": "Para manter a plataforma segura, fotos de perfil e fotos da galeria são triadas por um serviço automatizado de classificação de imagens — o Amazon Rekognition, fornecido pela Amazon Web Services (AWS), atuando como operador (GDPR Art. 28; LGPD Art. 39 — operador). Para essa finalidade, a imagem é transmitida à AWS e analisada por aprendizado de máquina em busca de conteúdo inadequado (por exemplo, nudez ou material explícito); o resultado é um rótulo gerado por máquina com um grau de confiança, tratado pelo nosso processo de moderação (ver a Política de Proteção Infantil). Esse processamento é usado exclusivamente para moderação de conteúdo e segurança — nunca para criação de perfis, publicidade ou qualquer outra finalidade. A AWS processa esses dados na região da AWS configurada para o serviço (atualmente São Paulo, Brasil); as salvaguardas de transferência do §9 aplicam-se. Como no restante do Serviço, a imagem é tratada pela própria infraestrutura da Jynx no Google Cloud antes de ser encaminhada à AWS (ver §9)."
+      },
+      "stores": {
+        "title": "4.6. App Store / Google Play (compras no aplicativo e assinaturas)",
+        "p1": "As assinaturas Jynx+ e os Founder Packs são vendidos no aplicativo pela App Store da Apple e pelo Google Play, que atuam como registrantes da venda (merchant of record) dessas compras (ver os Termos de Serviço, seção 8). Os dados dos instrumentos de pagamento (por exemplo, dados do cartão) são coletados e processados exclusivamente pela Apple/pelo Google segundo as respectivas políticas de privacidade; o Jynx não coleta, recebe nem armazena quaisquer dados de instrumento de pagamento.",
+        "p2": "Por meio do nosso provedor de faturamento RevenueCat (operador/processador atuando sob um Acordo de Tratamento de Dados assinado; RGPD art. 28; LGPD art. 39 — operador), o Jynx recebe apenas as informações necessárias para entregar o que você comprou: o status da sua assinatura e dos seus direitos (por exemplo, se o Jynx+ está ativo e a data de renovação), o nível do Founder Pack adquirido e os identificadores de transação. Esses dados são retidos pelo tempo necessário para fornecer o Serviço e atender obrigações contábeis (§6) e são usados exclusivamente para conceder e manter os seus direitos e prevenir fraudes. A RevenueCat é estabelecida nos Estados Unidos; as transferências de dados pessoais para a RevenueCat baseiam-se no EU-US Data Privacy Framework (para entidades RevenueCat autodeclaradas no DPF) ou em cláusulas contratuais-padrão quando o DPF não se aplica. O mecanismo de transferência aplicável aos dados de usuários brasileiros está registrado no nosso Registro de Operações de Tratamento (ver §9).",
+        "apple_label": "Política de Privacidade da Apple: https://www.apple.com/legal/privacy/",
+        "google_label": "Política de Privacidade do Google: https://policies.google.com/privacy",
+        "revenuecat_label": "Política de Privacidade da RevenueCat: https://www.revenuecat.com/privacy"
+      },
+      "meta": {
+        "title": "4.9. Atribuição publicitária (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "Para medir se as instalações do nosso aplicativo resultam do nosso marketing, usamos tecnologias publicitárias e de atribuição, com o seu consentimento quando exigido: o SDK Meta (Facebook) App Events (Meta Platforms Ireland) e a API Google Play Install Referrer. Em dispositivos Apple, o SDK Meta só é inicializado depois que você concede a permissão de App Tracking Transparency (ATT); sem essa permissão, nenhum identificador publicitário (IDFA) é coletado e o SDK não é inicializado. No Android, a API Google Play Install Referrer informa se a sua instalação originou-se de uma listagem da loja ou de um link de campanha, e o identificador publicitário (GAID) é usado conforme as configurações de identificador publicitário do seu dispositivo. Os eventos enviados à Meta limitam-se à ativação do aplicativo e a metadados de eventos (incluindo, quando você está autenticado, o seu identificador de usuário do aplicativo, que é limpo do SDK quando você sai), processados conforme as instruções documentadas do Jynx para fins de atribuição e medição de campanhas.",
+        "p2": "A Meta Platforms Ireland processa esses dados como nossa operadora (processadora) para a finalidade de atribuição acima; a Meta Platforms, Inc. pode ainda atuar como controladora independente para seus próprios fins legítimos, nos termos próprios dela (condições de tratamento de dados da Meta e a política de privacidade dela: https://www.facebook.com/privacy/policy). As transferências para os Estados Unidos baseiam-se no EU-US Data Privacy Framework para entidades Meta autodeclaradas ou em cláusulas contratuais-padrão (§9). Você pode recusar ou revogar a permissão ATT, ou redefinir o seu identificador publicitário, a qualquer momento nas configurações do seu dispositivo; a recusa não afeta o seu uso do Jynx."
+      },
+      "partner": {
+        "title": "4.10. Programa de Criadores (parceiros) — KYC e pagamentos",
+        "p1": "Se você aderir ao programa Jynx Criadores (parceiros), tratamos as informações de identidade, tributárias e de pagamento exigidas pelo programa: o seu CPF ou CNPJ (validado no aplicativo), o meio de pagamento que você escolhe — PayPal (identificado por e-mail), transferência Wise (Brasil) ou chave Pix — e seus registros de desempenho de campanha (cadastros atribuídos; ver §10 indicações). Os registros de pagamento são mantidos de forma pseudonimizada (§10). O programa é regido pelos Termos de Indicação para Criadores e o Mandato de Autofaturamento versionados que você aceita ao aderir (ver Termos de Serviço §15).",
+        "p2": "Os pagamentos são executados pela instituição de pagamento que opera o meio escolhido: PayPal ou Wise recebem as instruções de transferência e os dados de que precisam para verificar a sua identidade, prevenir fraudes e cumprir obrigações regulatórias, atuando segundo os seus próprios termos como instituições de pagamento independentes (as políticas de privacidade deles estão publicadas nos respectivos sites); um pagamento Pix é uma transferência iniciada pela Jynx Group para a chave Pix que você forneceu. As salvaguardas de transferência internacional aplicáveis estão descritas na §9."
+      },
+      "ai": {
+        "title": "4.11. Recursos de IA",
+        "p1": "<strong>Geração de avatares.</strong> O quiz de avatar pode gerar propostas de avatares estilizados para o seu perfil. A geração atualmente é executada na Cloudflare Workers AI (Cloudflare, Inc., operadora/processadora) conforme as instruções documentadas do Jynx; se o mecanismo subjacente mudar, esta seção será atualizada antes ou junto com a mudança. As entradas são as suas respostas ao quiz e as suas preferências de estilo de jogo — nunca as suas fotos — junto com o seu identificador de usuário; as propostas são devolvidas ao aplicativo como imagens PNG ou WebP e retidas por até 30 dias para que você possa recuperá-las, sendo excluídas depois. As imagens geradas são sintéticas — não são fotografias suas — e estão sujeitas à mesma moderação das demais imagens (§4.8).",
+        "p2": "<strong>Mensagens do companheiro (Quimera).</strong> Algumas mensagens do aplicativo companheiro são compostas ou enriquecidas por um sistema de IA generativa (Google Gemini, operador/processador). Quando uma mensagem é gerada por IA, ela é rotulada como tal; você é sempre informado quando interage com um elemento gerado por IA, em conformidade com o art. 50, §1, do Regulamento Europeu de IA."
       }
     },
     "data_usage": {
@@ -296,7 +323,8 @@
         "title": "4. Melhoria do Serviço:",
         "analyze": "Analisar uso para melhorar recursos",
         "bugs": "Identificar e corrigir bugs",
-        "performance": "Otimizar desempenho"
+        "performance": "Otimizar desempenho",
+        "ai": "Gerar propostas de avatares e rascunhos de mensagens do companheiro usando operadores (processadores) de IA (§4.11)"
       },
       "security": {
         "title": "5. Segurança e Conformidade:",
@@ -326,7 +354,8 @@
       },
       "ban_evasion": {
         "title": "5.7. Segurança da comunidade e evasão de banimento",
-        "p1": "Para ajudar a proteger nossa comunidade contra abusos, utilizamos identificadores do dispositivo e sinais de integridade do dispositivo para detectar e impedir tentativas de contornar uma suspensão ou banimento. Se associarmos um dispositivo a uma conta banida, esse dispositivo poderá ser impedido de criar novas contas ou fazer login. Se você acredita que isso ocorreu por engano, pode recorrer entrando em contato com support@jynx.app."
+        "p1": "Para ajudar a proteger nossa comunidade contra abusos, utilizamos identificadores do dispositivo e sinais de integridade do dispositivo para detectar e impedir tentativas de contornar uma suspensão ou banimento. Se associarmos um dispositivo a uma conta banida, esse dispositivo poderá ser impedido de criar novas contas ou fazer login. Se você acredita que isso ocorreu por engano, pode recorrer entrando em contato com support@jynx.app.",
+        "p2": "Os sinais de integridade do dispositivo são coletados e avaliados com a assistência do Talsec freeRASP, uma biblioteca antiviolação e de integridade de dispositivo incorporada ao aplicativo. O freeRASP opera no seu dispositivo: ele detecta localmente ameaças como dispositivos com root, hooking em tempo de execução e bootloaders desbloqueados, e nos reporta suas descobertas por meio do nosso próprio provedor de monitoramento de erros (Sentry, §4.2) para prevenção de abusos; ele não envia os seus dados a nenhum serviço operado pela Talsec."
       },
       "child_safety": {
         "title": "5.8. Análise de Imagens para Proteção Infantil",
@@ -436,7 +465,9 @@
       "rate_limiting": "Proteção contra abuso (mensagens spam, ações automatizadas)",
       "moderation_label": "Moderação:",
       "moderation": "Sistema de relatório de conteúdo e moderação",
-      "breach": "Nenhum sistema é 100% seguro. Em caso de violação de dados, notificaremos você em conformidade com GDPR (dentro de 72 horas)."
+      "breach": "Nenhum sistema é 100% seguro. Em caso de incidente de segurança que possa acarretar risco relevante a dados pessoais, notificaremos a autoridade fiscalizadora competente sem demora injustificada e, quando exequível, em até 72 horas após tomarmos conhecimento de uma violação suscetível de resultar em risco aos seus direitos (RGPD art. 33), e comunicaremos a violação aos usuários afetados sem demora injustificada quando for suscetível de resultar em alto risco para você (RGPD art. 34). Para titulares no Brasil, também comunicaremos incidentes de segurança relevantes à ANPD e a você dentro do prazo fixado pela autoridade (LGPD art. 48; atualmente 3 dias úteis, conforme a Resolução ANPD CD/ANPD nº 15/2024).",
+      "voice_label": "Voz em tempo real:",
+      "voice": "A mídia das salas de voz é criptografada em trânsito usando WebRTC DTLS-SRTP, o mesmo padrão usado pelos principais aplicativos de voz; a sinalização entre o aplicativo e nossos servidores ocorre por HTTPS/TLS."
     },
     "international": {
       "title": "9. Transferências Internacionais de Dados",
@@ -461,7 +492,9 @@
       "br_csam_label": "Para provedores de tecnologia de proteção infantil na UE (correspondência de hashes, operadores):",
       "br_csam": "Coberto pela mesma decisão de adequação da UE da Resolução CD/ANPD nº 32/2026 citada nas pernas acima — os provedores recebem apenas hashes irreversíveis e realizam a correspondência na região da UE (§4.7)",
       "br_aws_label": "Para a AWS no Brasil (moderação de imagens, operador):",
-      "br_aws": "O trecho da AWS Rekognition permanece no país — é executado na região de São Paulo da AWS (§4.8). A imagem é primeiro transmitida pela infraestrutura da Jynx no Google Cloud, coberta pelos termos gerais de transferência do Google Cloud / Firebase acima"
+      "br_aws": "O trecho da AWS Rekognition permanece no país — é executado na região de São Paulo da AWS (§4.8). A imagem é primeiro transmitida pela infraestrutura da Jynx no Google Cloud, coberta pelos termos gerais de transferência do Google Cloud / Firebase acima",
+      "livekit_label": "LiveKit (voz em tempo real e compartilhamento de tela, quando disponível):",
+      "livekit": "O LiveKit Cloud é o nosso operador (processador) para mídia em tempo real (e, quando o recurso estiver disponível, compartilhamento de tela) mediante um Acordo de Tratamento de Dados assinado (§4.5). O LiveKit Cloud roteia a mídia globalmente: as sessões são atendidas pela infraestrutura global do LiveKit, sem fixação em uma região específica. O áudio das salas de voz (e o vídeo do compartilhamento de tela, quando disponível) é roteado em tempo real e não é gravado, armazenado nem mantido pelo Jynx ou pelo LiveKit; o LiveKit retém apenas os metadados operacionais de sessão descritos na §4.5. As transferências de dados pessoais para o LiveKit baseiam-se no adendo de tratamento de dados do LiveKit, que incorpora os termos do RGPD e as cláusulas contratuais-padrão da Comissão Europeia para transferências internacionais, em conjunto com as garantias gerais abaixo, que se aplicam ao LiveKit como aos nossos demais operadores."
     },
     "cookies": {
       "title": "10. Cookies e Tecnologias Similares",
@@ -472,7 +505,8 @@
       "cache": "Para melhorar desempenho (dados de perfil, mensagens recentes)",
       "website": "<strong>Site.</strong> O site da Jynx (jynx.app) utiliza o Google Analytics 4 (fornecido pelo Google) com o Consent Mode v2 para entender como o site é usado. O armazenamento de analytics é negado por padrão: até você aceitar o banner de cookies, o Google Analytics funciona sem cookies ou armazenamento local, e o Google recebe apenas sinais sem cookies e sem identificadores; se você aceitar, a medição completa é ativada. Sua escolha — aceitar ou recusar — fica armazenada localmente no seu dispositivo (localStorage do navegador, chave \"jynx-analytics-consent\"). Limpar o armazenamento do navegador para o jynx.app faz o banner aparecer novamente, para que você possa alterar sua escolha. O Google atua como destinatário dos dados de analytics resultantes (ver §9); consulte o §4 para os demais operadores e o §7 para seus direitos.",
       "invite_clipboard": "<strong>Links de convite.</strong> Quando você abre um link de convite (jynx.app/invite/…) no seu navegador e toca no botão de download da App Store, o site grava esse link de convite na área de transferência do seu dispositivo, substituindo seu conteúdo anterior. Essa é uma técnica padrão para atribuir instalações de aplicativos no iOS (que não possui um mecanismo de referência de instalação): ela permite que o aplicativo Jynx, no primeiro acesso, proponha que você entre com o convite da pessoa que lhe enviou o link. O site nunca lê a sua área de transferência — ele apenas grava esse link — e o aplicativo a lê apenas uma vez, depois de pedir o seu consentimento explícito. Nenhum outro conteúdo da área de transferência é acessado ou coletado. Se você preferir não compartilhá-lo, basta recusar o pedido de permissão de colagem e entrar sem convite.",
-      "referrals": "<strong>Indicações e campanhas de criadores.</strong> Quando você entra no Jynx com um código de convite — por meio de um link, de um código QR ou digitado manualmente — registramos esse código junto à sua conta para atribuir o convite à pessoa ou à campanha que o compartilhou, aplicar os benefícios associados e detectar cadastros fraudulentos. Esse tratamento se baseia em nossos interesses legítimos (ver §13) e está sujeito às nossas verificações antifraude; nada muda para você: os mesmos dados são coletados independentemente do tipo de código de convite utilizado. Alguns códigos de convite também pertencem a campanhas de atribuição de criadores: se o código que você utilizou fizer parte de uma dessas campanhas, ele também poderá ser creditado a ela. Os registros de pagamentos das campanhas de criadores são mantidos de forma pseudonimizada."
+      "referrals": "<strong>Indicações e campanhas de criadores.</strong> Quando você entra no Jynx com um código de convite — por meio de um link, de um código QR ou digitado manualmente — registramos esse código junto à sua conta para atribuir o convite à pessoa ou à campanha que o compartilhou, aplicar os benefícios associados e detectar cadastros fraudulentos. Esse tratamento se baseia em nossos interesses legítimos (ver §13) e está sujeito às nossas verificações antifraude; nada muda para você: os mesmos dados são coletados independentemente do tipo de código de convite utilizado. Alguns códigos de convite também pertencem a campanhas de atribuição de criadores: se o código que você utilizou fizer parte de uma dessas campanhas, ele também poderá ser creditado a ela. Os registros de pagamentos das campanhas de criadores são mantidos de forma pseudonimizada.",
+      "screen_share": "<strong>Compartilhamento de tela (quando disponível).</strong> Quando o recurso estiver disponível, você poderá compartilhar a tela do seu dispositivo em uma sala de voz. O compartilhamento começa somente após a concessão da permissão de captura de tela do sistema operacional e um reconhecimento explícito no aplicativo. Tudo o que estiver visível na sua tela — incluindo notificações — é transmitido ao vivo para os demais participantes da sala, e você é responsável pelo que compartilha. O vídeo compartilhado é uma faixa de mídia ao vivo roteada como o áudio de voz pelo SFU do LiveKit (§4.5, §9): não é gravado nem armazenado pelo Jynx ou pelo LiveKit e cessa quando você encerra o compartilhamento."
     },
     "changes": {
       "title": "11. Mudanças nesta Política",
@@ -570,7 +604,7 @@
       "creation": {
         "title": "3.2. Criação de Conta",
         "intro": "Para usar Jynx, você deve criar uma conta fornecendo:",
-        "li1": "Um endereço de email válido OU autenticação via Google/Apple",
+        "li1": "Um endereço de e-mail válido, um número de telefone, OU autenticação via Google/Apple/Discord",
         "li2": "Um nome de usuário único",
         "li3": "Sua data de nascimento (para verificação de idade)",
         "li4": "Informações de perfil (país, fuso horário, idiomas, preferências de gaming)",
@@ -931,9 +965,9 @@
       },
       "refunds": {
         "title": "8.3. Reembolsos e Cancelamentos",
-        "eu_title": "Direitos do Consumidor da UE (Período de Reflexão de 14 Dias):",
+        "eu_title": "Direitos dos consumidores europeus (direito de arrependimento):",
         "eu": {
-          "p1": "Se você é um consumidor na União Europeia, tem o direito de se retirar de compras de conteúdo digital dentro de 14 dias da compra, sujeito a condições."
+          "p1": "Se você é consumidor na União Europeia, você normalmente teria um direito de arrependimento de 14 dias para contratos à distância nos termos da Diretiva dos Direitos do Consumidor. No entanto, para conteúdo digital cuja entrega começou com o seu consentimento prévio expresso e o seu reconhecimento de que perde assim o direito de arrependimento — o que inclui benefícios Jynx+, itens cosméticos e Founder Packs, cuja entrega começa imediatamente após a compra — esse direito de arrependimento é perdido nos termos do artigo 16, alínea m), da Diretiva dos Direitos do Consumidor e do artigo L221-28 13° do Código de Consumo francês. Nada nestes Termos o priva de quaisquer direitos obrigatórios do consumidor que não possam ser renunciados segundo a lei do seu Estado-membro da UE."
         },
         "policy_title": "Política de Reembolso:",
         "policy": {
@@ -941,7 +975,9 @@
           "li2": "Compras Acidentais: Reembolsos para compras acidentais podem ser emitidos a nosso critério dentro de 48 horas da compra",
           "li3": "Transações Não Autorizadas: Relate transações não autorizadas imediatamente a dpo@jynx.app e seu provedor de pagamento",
           "li4": "Sem Reembolso para: Encerramento de conta devido a violações de Termos, mudança de opinião após usar recursos premium por mais de 14 dias"
-        }
+        },
+        "br_title": "Consumidores brasileiros:",
+        "br": "Se você é consumidor no Brasil, você tem o direito de se arrepender de um contrato celebrado à distância em até 7 dias a contar do recebimento, nos termos do artigo 49 do Código de Defesa do Consumidor brasileiro (CDC), exercível sem necessidade de justificativa, e esse direito é irrenunciável. Para itens digitais cuja entrega já tenha começado a seu pedido expresso, os valores a serem restituídos em caso de arrependimento consideram o que já foi fornecido, de acordo com o art. 49, §2°, do CDC. A mecânica de reembolso para compras realizadas na App Store ou no Google Play segue a política de reembolso da loja aplicável. Nada nestes Termos exclui ou limita as proteções obrigatórias do consumidor previstas no CDC."
       }
     },
     "section9": {
@@ -968,16 +1004,30 @@
         "p1": "Usamos a Riot Games API para recuperar estatísticas de gaming (League of Legends, Valorant, etc.)."
       },
       "oauth": {
-        "title": "9.4. Provedores OAuth",
+        "title": "9.4. Provedores de autenticação",
         "intro": "Oferecemos autenticação via:",
         "li1": "Entrar com Google",
-        "li2": "Entrar com Apple"
+        "li2": "Entrar com Apple",
+        "li3": "Discord (login OAuth)",
+        "li4": "Número de telefone (SMS de verificação via Firebase Authentication)"
       },
       "responsibility": "Você é responsável por cumprir os termos destes serviços de terceiros.",
       "esp": {
         "title": "9.5. Provedor de Serviços de Email",
         "intro": "Utilizamos um provedor de serviços de email terceiro para entregar comunicações de marketing, reengajamento e pesquisas de desinstalação/churn, conforme descrito no §5.5 e nas seções §5.6 e §4.4 da Política de Privacidade. O provedor atua como nosso operador sob um Acordo de Tratamento de Dados e trata seus dados somente conforme nossas instruções documentadas. A identidade, a localização e os subprocessadores do provedor, bem como o mecanismo de transferência internacional aplicável, são descritos na Política de Privacidade §4.4 e §9.",
         "responsibility": "Você permanece responsável por cumprir os termos de qualquer serviço de terceiros no qual você tenha sua própria conta; o provedor de serviços de email é fornecedor do Jynx, não seu."
+      },
+      "livekit": {
+        "title": "9.6. LiveKit (voz em tempo real)",
+        "p1": "O Jynx usa o LiveKit Cloud para oferecer salas de voz em tempo real. O LiveKit atua como nosso operador (processador) para o áudio das salas de voz mediante um Acordo de Tratamento de Dados assinado e processa dados apenas conforme as instruções documentadas do Jynx. Conforme descrito nas seções §4.5 e §3.6 da Política de Privacidade, o áudio das salas de voz é roteado em tempo real e não é gravado, armazenado nem mantido pelo Jynx ou pelo LiveKit. O mecanismo de transferência internacional aplicável (o adendo de tratamento de dados do LiveKit, que incorpora as cláusulas contratuais-padrão da UE) e a postura de roteamento global do LiveKit estão descritos na seção 9 da Política de Privacidade."
+      },
+      "rekognition": {
+        "title": "9.7. AWS Rekognition (moderação de imagens)",
+        "p1": "O Jynx usa a Amazon Web Services (AWS) Rekognition para examinar as imagens de perfil enviadas pelos usuários em busca de nudez e outros conteúdos que violem as políticas. A AWS Rekognition atua como nosso operador (processador) mediante um Acordo de Tratamento de Dados assinado e processa os bytes das imagens apenas conforme as instruções documentadas do Jynx. Os dados processados, a política de retenção (nenhum armazenamento separado de imagens pela AWS) e o mecanismo de transferência internacional aplicável estão descritos nas seções §4.8 e §9 da Política de Privacidade."
+      },
+      "meta": {
+        "title": "9.8. Meta (atribuição publicitária)",
+        "p1": "Usamos o SDK Meta (Facebook) App Events para medir se as instalações do nosso aplicativo resultam do nosso marketing; em dispositivos Apple, o SDK só é inicializado após a sua permissão de App Tracking Transparency. A Meta Platforms Ireland processa os metadados de eventos do aplicativo resultantes conforme as instruções documentadas do Jynx, como operadora (processadora) para fins de atribuição e medição de campanhas; a Meta Platforms, Inc. pode ainda atuar como controladora independente para seus próprios fins legítimos, nos termos próprios dela. Os dados processados, as condições de consentimento e os mecanismos de transferência aplicáveis estão descritos nas seções §4.9 e §9 da Política de Privacidade."
       }
     },
     "section10": {
@@ -1031,7 +1081,7 @@
       },
       "jurisdiction": {
         "title": "12.2. Jurisdição",
-        "p1": "Quaisquer disputas decorrentes destes Termos ou do Serviço estarão sujeitas à jurisdição exclusiva dos tribunais competentes de Nantes, França."
+        "p1": "Quaisquer disputas decorrentes destes Termos ou do Serviço podem ser levadas perante os tribunais competentes de Nantes, na França. Isso não prejudica qualquer direito obrigatório que você tenha, segundo a lei do seu país de residência, de propor ações nesse país — em particular, para consumidores na UE, os direitos decorrentes dos artigos 17 a 19 do Regulamento Bruxelas I bis e da legislação de proteção ao consumidor aplicável do seu Estado-membro e, para consumidores brasileiros, as disposições do CDC."
       },
       "resolution": {
         "title": "12.3. Resolução de Disputas e Arbitragem",
@@ -1042,16 +1092,16 @@
           "li1": "Entrar em Contato Conosco Diretamente: Tentar resolver o problema entrando em contato com support@jynx.app ou dpo@jynx.app",
           "li2": "Negociação Informal: Trabalharemos com você de boa fé para alcançar uma resolução amigável dentro de 30 dias",
           "li3": "Mediação (Opcional): Se a resolução informal falhar, você pode propor mediação através de um mediador neutro de terceiros"
-        }
+        },
+        "adr_consumer": "<strong>Mediação de consumo (UE/França):</strong> Em conformidade com os artigos L. 612-1 e L. 616-6 do Código de Consumo francês, a Jynx Group SAS designa o Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, França; tel. +33 1 89 47 00 14; https://www.cm2c.net — entidade de mediação de consumo referenciada pela Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), como entidade mediadora de consumo (médiateur de la consommation) para a resolução amigável de disputas de consumo. Antes de acionar o mediador, você deve primeiro apresentar sua reclamação a nós em dpo@jynx.app para que possamos tentar resolvê-la. A mediação é gratuita para você como consumidor, é conduzida em francês e segue o procedimento publicado no site do mediador (https://www.cm2c.net); o mediador conduz o processo em até 90 dias a partir do recebimento (saisine). Você mantém, a qualquer momento, o direito de levar a disputa ao tribunal."
       },
       "eu_rights": {
         "title": "12.4. Direitos do Consumidor da UE",
         "intro": "Se você é um consumidor na União Europeia, mantém todos os direitos de consumidor obrigatórios sob lei da UE, incluindo:",
-        "li1": "Período de reflexão de 14 dias para compras de conteúdo digital",
+        "li1": "Direito de arrependimento de 14 dias para contratos à distância, sujeito à perda legal desse direito para conteúdo digital após o início da entrega com o seu consentimento (ver seção 8.5)",
         "li2": "Direito a remédios para produtos ou serviços defeituosos",
         "li3": "Proteção contra termos contratuais injustos",
-        "li4": "Direito de registrar reclamações com sua autoridade local de proteção ao consumidor",
-        "li5": "Acesso à plataforma ODR da UE"
+        "li4": "Direito de registrar reclamações com sua autoridade local de proteção ao consumidor"
       },
       "gdpr": {
         "title": "12.5. Conformidade GDPR",
@@ -1123,7 +1173,12 @@
         "p1": "Estes Termos são fornecidos em inglês. Em caso de qualquer conflito entre a versão em inglês e qualquer tradução, a versão em inglês prevalecerá."
       }
     },
-    "final_acknowledgment": "Ao usar Jynx, você reconhece que leu, entendeu e concorda em estar vinculado a estes Termos de Serviço."
+    "final_acknowledgment": "Ao usar Jynx, você reconhece que leu, entendeu e concorda em estar vinculado a estes Termos de Serviço.",
+    "section15": {
+      "title": "15. Programa de Criadores (parceiros)",
+      "p1": "Se você participa do programa Jynx Criadores (parceiros), o seu uso do programa é adicionalmente regido pelos Termos de Indicação para Criadores e o Mandato de Autofaturamento versionados que você aceita ao aderir (cada versão aceita é imutável depois de aceita), apresentados no aplicativo com o seu identificador de versão. Em caso de conflito, para assuntos do programa, os Termos de Criadores prevalecem; caso contrário, estes Termos e a Política de Privacidade se aplicam.",
+      "p2": "As informações de identidade, pagamento e tributárias exigidas pelo programa — como a identificação CPF ou CNPJ e o meio de pagamento que você escolhe (PayPal, Wise ou Pix) — e os operadores (processadores) envolvidos estão descritos na seção §4.10 da Política de Privacidade."
+    }
   },
   "nav": {
     "home": "Início",
