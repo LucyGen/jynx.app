@@ -9,7 +9,7 @@ This document is part of the [llmstxt.org](https://llmstxt.org/) standard. It is
 **Founded:** 2024 by Arthur Bonvallet and Antoine Haie (Paris/Nantes, France).
 **Languages:** 16 supported on the website (en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi); 21 in the app.
 **Pricing:** Free.
-**Contact:** contact@jynx.app
+**Contact:** support@jynx.app
 **Site:** https://jynx.app
 **Short overview:** https://jynx.app/llms.txt
 

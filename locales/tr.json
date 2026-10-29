@@ -82,6 +82,61 @@
       "description": "Find your perfect gaming squad — Jynx is live on iOS, Android and web."
     }
   },
+  "contact": {
+    "meta": {
+      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
+      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
+      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
+      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
+      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
+      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
+      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
+      "twitter_image_alt": "Contact Jynx"
+    },
+    "title": "Contact Jynx",
+    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
+    "intro": {
+      "title": "How to Reach Us",
+      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
+      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
+    },
+    "channels": {
+      "title": "Email Channels",
+      "support": {
+        "title": "Customer Support",
+        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+      },
+      "security": {
+        "title": "Security Reports",
+        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
+      },
+      "dpo": {
+        "title": "Privacy and Data Protection",
+        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+      }
+    },
+    "community": {
+      "title": "Community and Social",
+      "desc": "For day-to-day conversation, the community is faster than email.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — the Jynx community server: meet players, ask questions, and talk to the team.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
+    },
+    "company": {
+      "title": "Company Information",
+      "legal_name_label": "Legal entity:",
+      "legal_name": "Jynx Group",
+      "siren_label": "Company registration (SIREN):",
+      "siren": "991443896",
+      "office_label": "Registered office:",
+      "office_city": "Nantes",
+      "office_country": "France",
+      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
+    }
+  },
   "privacy": {
     "meta": {
       "title": "Gizlilik Politikası | Jynx",
@@ -1337,7 +1392,8 @@
       "search": "Ara"
     },
     "support": {
-      "title": "Destek"
+      "title": "Destek",
+      "contact": "Contact Us"
     },
     "legal": {
       "title": "Yasal",

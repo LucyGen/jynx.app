@@ -82,6 +82,61 @@
       "description": "Encontre sua squad gamer ideal — o Jynx está no ar no iOS, Android e na web."
     }
   },
+  "contact": {
+    "meta": {
+      "title": "Contato Jynx: suporte, segurança e privacidade por email",
+      "description": "Fale com a equipe Jynx por email: suporte para a conta e o app, segurança para relatar vulnerabilidades e privacidade com o DPO. Discord e redes sociais incluídos.",
+      "og_title": "Contato Jynx - Suporte, Segurança e Proteção de Dados",
+      "og_description": "Canais de email da equipe Jynx: suporte, relatos de segurança e pedidos de privacidade — sem formulário de contato.",
+      "og_image_alt": "Página de Contato Jynx - Suporte, segurança e privacidade por email",
+      "twitter_title": "Contato Jynx - Suporte, Segurança e Proteção de Dados",
+      "twitter_description": "Fale com a equipe Jynx por email: suporte, segurança e privacidade.",
+      "twitter_image_alt": "Contato Jynx"
+    },
+    "title": "Fale com a equipe Jynx",
+    "subtitle": "Como falar com a equipe por trás do Jynx — canais de email, links da comunidade e dados da empresa.",
+    "intro": {
+      "title": "Como nos contatar",
+      "p1": "O suporte do Jynx funciona por canais de email — nós não usamos formulário de contato. Cada endereço desta página chega a uma caixa de entrada acompanhada por uma pessoa de verdade: sua mensagem vai direto para a equipe. Escolha o canal certo para o seu pedido e inclua o máximo de detalhes possível.",
+      "response_note": "Nós lemos todas as mensagens. As respostas do suporte costumam chegar em poucos dias úteis; português e inglês funcionam."
+    },
+    "channels": {
+      "title": "Canais de email",
+      "support": {
+        "title": "Suporte ao cliente",
+        "desc": "O canal principal. Acesso à conta, relatos de bugs, dúvidas de cobrança, pedidos de recursos e qualquer outra coisa sobre o app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+      },
+      "security": {
+        "title": "Relatos de segurança",
+        "desc": "Somente suspeitas de vulnerabilidades e problemas de segurança. Leia primeiro a política de divulgação — ela lista o que está no escopo e o que incluir no seu relato: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "A política completa está na página <a href=\"/security.html\">Política de Divulgação de Vulnerabilidades</a>."
+      },
+      "dpo": {
+        "title": "Privacidade e proteção de dados",
+        "desc": "Pedidos de dados pessoais, dúvidas de privacidade e solicitações de autoridades vão para o nosso encarregado de dados: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+      }
+    },
+    "community": {
+      "title": "Comunidade e redes",
+      "desc": "Para conversas do dia a dia, a comunidade é mais rápida que o email.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — o servidor da comunidade Jynx: conheça jogadores, tire dúvidas e fale com a equipe.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — novidades e vídeos da equipe Jynx.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — vídeos curtos, destaques da comunidade e recursos.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — anúncios e respostas rápidas.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — a página do Jynx: eventos e posts da comunidade."
+    },
+    "company": {
+      "title": "Informações da empresa",
+      "legal_name_label": "Razão social:",
+      "legal_name": "Jynx Group",
+      "siren_label": "Registro (SIREN):",
+      "siren": "991443896",
+      "office_label": "Sede registrada:",
+      "office_city": "Nantes",
+      "office_country": "França",
+      "legal_note": "As informações legais completas — endereço registrado, forma jurídica e detalhes do registro — estão na <a href=\"/terms.html\">seção 13 dos Termos de Serviço</a>."
+    }
+  },
   "privacy": {
     "meta": {
       "title": "Jynx | Política de Privacidade",
@@ -1337,7 +1392,8 @@
       "search": "Pesquisar"
     },
     "support": {
-      "title": "Suporte"
+      "title": "Suporte",
+      "contact": "Fale conosco"
     },
     "legal": {
       "title": "Legal",

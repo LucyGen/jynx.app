@@ -11,14 +11,14 @@
     },
     "counts": {
       "locales": 13,
-      "pagesCovered": 185,
+      "pagesCovered": 198,
       "roots": 13,
-      "topLevel": 104,
+      "topLevel": 117,
       "blog": 68,
       "shards": 26,
-      "primaryEntries": 211,
+      "primaryEntries": 224,
       "supplementalIndexHtml": 13,
-      "totalEntries": 224
+      "totalEntries": 237
     },
     "conventions": {
       "status": 301,
@@ -77,6 +77,11 @@
       "from": "/ar/blog/halo-campaign-evolved-coop-guide-2026.html",
       "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
       "kind": "blog"
+    },
+    {
+      "from": "/ar/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/ar/delete-account.html",
@@ -162,6 +167,11 @@
       "from": "/bn/blog/halo-campaign-evolved-coop-guide-2026.html",
       "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
       "kind": "blog"
+    },
+    {
+      "from": "/bn/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/bn/delete-account.html",
@@ -254,6 +264,11 @@
       "kind": "blog"
     },
     {
+      "from": "/de/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/de/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -334,6 +349,11 @@
       "kind": "blog"
     },
     {
+      "from": "/es/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/es/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -412,6 +432,11 @@
       "from": "/hi/blog/halo-campaign-evolved-coop-guide-2026.html",
       "to": "/blog/halo-campaign-evolved-coop-guide-2026.html",
       "kind": "blog"
+    },
+    {
+      "from": "/hi/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/hi/delete-account.html",
@@ -502,6 +527,11 @@
       "from": "/id/blog/panduan-tim-zombie-black-ops-7.html",
       "to": "/blog/black-ops-7-zombies-squad-guide.html",
       "kind": "blog"
+    },
+    {
+      "from": "/id/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/id/delete-account.html",
@@ -604,6 +634,11 @@
       "kind": "blog"
     },
     {
+      "from": "/it/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/it/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -684,6 +719,11 @@
       "kind": "blog"
     },
     {
+      "from": "/ko/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/ko/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -762,6 +802,11 @@
       "from": "/pl/blog/przewodnik-matchmaking-ai-gry.html",
       "to": "/blog/ai-gaming-matchmaking-guide.html",
       "kind": "blog"
+    },
+    {
+      "from": "/pl/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/pl/delete-account.html",
@@ -849,6 +894,11 @@
       "kind": "blog"
     },
     {
+      "from": "/ru/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/ru/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -934,6 +984,11 @@
       "kind": "blog"
     },
     {
+      "from": "/tr/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
+    },
+    {
       "from": "/tr/delete-account.html",
       "to": "/delete-account.html",
       "kind": "page"
@@ -1017,6 +1072,11 @@
       "from": "/uk/blog/posibnik-matchmaking-ai-igri.html",
       "to": "/blog/ai-gaming-matchmaking-guide.html",
       "kind": "blog"
+    },
+    {
+      "from": "/uk/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/uk/delete-account.html",
@@ -1107,6 +1167,11 @@
       "from": "/vi/blog/huong-dan-xay-dung-doi-nhom-gta-6-online-vice-city-2026.html",
       "to": "/blog/gta-6-online-team-building-guide-vice-city-2026.html",
       "kind": "blog"
+    },
+    {
+      "from": "/vi/contact.html",
+      "to": "/contact.html",
+      "kind": "page"
     },
     {
       "from": "/vi/delete-account.html",

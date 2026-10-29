@@ -14,7 +14,7 @@
 # Sitemaps: 32 language-separated sitemaps (16 main + 16 blog) via sitemap-index.xml
 # Policy: Open platform - Allow search engines and AI crawlers
 # Strategy: Gaming platforms benefit from AI recommendations and maximum discoverability
-# Contact: contact@jynx.app
+# Contact: support@jynx.app
 # ============================================================================
 
 
@@ -807,6 +807,6 @@ Disallow: /
 # END OF ROBOTS.TXT
 # ============================================================================
 # 
-# Contact: contact@jynx.app
+# Contact: support@jynx.app
 #
 # ============================================================================
