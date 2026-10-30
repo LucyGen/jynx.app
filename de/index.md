@@ -3,7 +3,7 @@ title: "Gaming Matchmaking App | LFG-Teamkollegen finden"
 description: "Finde deine perfekten Gaming-Teamkollegen mit Jynx' intelligentem Matchmaking. Matche nach Skill, Spielstil & Zeitplan. Hör auf, allein zu spielen."
 canonical: "https://jynx.app/de/"
 locale: "de"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

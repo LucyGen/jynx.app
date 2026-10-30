@@ -3,7 +3,7 @@ title: "게임 매칭 앱 | LFG 팀원 찾기"
 description: "Jynx의 스마트 매칭으로 완벽한 게임 팀원을 찾으세요. 실력, 플레이 스타일, 일정별로 매칭. 혼자 플레이하지 마세요."
 canonical: "https://jynx.app/ko/"
 locale: "ko"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

@@ -3,7 +3,7 @@ title: "Додаток Ігрового Матчмейкінгу | Знайти 
 description: "Знайди ідеальних тіммейтів за допомогою розумного матчмейкінгу Jynx. Підбір за скілом, стилем гри та розкладом. Годі грати на самоті."
 canonical: "https://jynx.app/uk/"
 locale: "uk"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

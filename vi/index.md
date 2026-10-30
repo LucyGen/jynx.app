@@ -3,7 +3,7 @@ title: "Ứng Dụng Ghép Đôi Gaming | Tìm Đồng Đội LFG"
 description: "Tìm đồng đội game hoàn hảo với hệ thống ghép đôi thông minh của Jynx. Kết nối theo kỹ năng, phong cách chơi và lịch trình. Đừng chơi một mình nữa."
 canonical: "https://jynx.app/vi/"
 locale: "vi"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

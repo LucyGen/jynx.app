@@ -3,7 +3,7 @@ title: "गेमिंग मैचमेकिंग ऐप | LFG टीमम
 description: "Jynx की स्मार्ट मैचमेकिंग से अपने परफेक्ट गेमिंग टीममेट्स खोजें। स्किल, प्लेस्टाइल और शेड्यूल के आधार पर मैच करें। अकेले खेलना बंद करो।"
 canonical: "https://jynx.app/hi/"
 locale: "hi"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

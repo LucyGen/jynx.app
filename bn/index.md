@@ -3,7 +3,7 @@ title: "গেমিং ম্যাচমেকিং অ্যাপ | LFG ট
 description: "Jynx-এর স্মার্ট ম্যাচমেকিং দিয়ে আপনার পারফেক্ট গেমিং সতীর্থদের খুঁজুন। দক্ষতা, খেলার স্টাইল ও সময়সূচী অনুযায়ী ম্যাচ করুন। একা খেলা বন্ধ করুন।"
 canonical: "https://jynx.app/bn/"
 locale: "bn"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

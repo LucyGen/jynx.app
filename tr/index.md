@@ -3,7 +3,7 @@ title: "Oyun Eşleştirme Uygulaması | LFG Takım Arkadaşları Bul"
 description: "Jynx'in akıllı eşleştirmesiyle mükemmel oyun takım arkadaşlarınızı bulun. Yetenek, oyun tarzı ve programa göre eşleşin. Artık yalnız oynamayı bırakın."
 canonical: "https://jynx.app/tr/"
 locale: "tr"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

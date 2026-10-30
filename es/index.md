@@ -3,7 +3,7 @@ title: "App de Matchmaking Gaming | Encuentra Compañeros LFG"
 description: "Encuentra a tus compañeros gaming perfectos con el matchmaking inteligente de Jynx. Empareja por habilidad, estilo de juego y horario. Deja de jugar solo."
 canonical: "https://jynx.app/es/"
 locale: "es"
-dateModified: "2026-10-28"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
