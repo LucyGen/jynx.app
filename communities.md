@@ -787,7 +787,7 @@ The directory's biggest constellation: 20 League of Legends communities and 5,33
 
 Download Jynx and join the communities that match your games — the global room, your main's biggest club, or the niche crew you didn't know existed.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762)[Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
+[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
 
 [browse every game](/games.html)
 

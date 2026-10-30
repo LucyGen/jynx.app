@@ -17,15 +17,15 @@ Search all 711 games by name or browse by category — every listing links to a 
 
 Hand-picked worlds where Jynx players squad up every night.
 
-[![Counter-Strike 2 key art banner](/assets/images/games/counter-strike-2/counter-strike-2-banner-640.webp)Counter-Strike 2Valve's tactical shooter and the home of Premier: Jynx verifies your CS rating and FACEIT level, then matches the rank window your queue accepts. Bring the callouts — your duo brings theirs.](/games/counter-strike-2/catalog.html)[Open the Counter-Strike 2 duo finder](/games/cs2/duo-finder.html)
+[![Counter-Strike 2 key art banner](/assets/images/games/counter-strike-2/counter-strike-2-banner-640.webp)Counter-Strike 2Valve's tactical shooter and the home of Premier: Jynx verifies your CS rating and FACEIT level, then matches the rank window your queue accepts. Bring the callouts — your duo brings theirs.](/games/counter-strike-2/catalog.html) [Open the Counter-Strike 2 duo finder](/games/cs2/duo-finder.html)
 
-[![Fortnite key art banner](/assets/images/games/fortnite/fortnite-banner-640.webp)FortniteEpic's battle royale splits on Build versus Zero Build, and so does the matching: Jynx pairs on ranked tier, input device, and mode before the drop. Duos and squads both start here.](/games/fortnite/catalog.html)[Open the Fortnite duo finder](/games/fortnite/duo-finder.html)
+[![Fortnite key art banner](/assets/images/games/fortnite/fortnite-banner-640.webp)FortniteEpic's battle royale splits on Build versus Zero Build, and so does the matching: Jynx pairs on ranked tier, input device, and mode before the drop. Duos and squads both start here.](/games/fortnite/catalog.html) [Open the Fortnite duo finder](/games/fortnite/duo-finder.html)
 
-[![GTA Online key art banner](/assets/images/games/gta-online/gta-online-banner-640.webp)GTA OnlineLos Santos runs on crews — heist seats, RP ranks, and the weekly grind. Jynx verifies your RP rank and the roles you run, so the next lobby is staffed before you host it.](/games/gta-online/catalog.html)[Open the GTA Online duo finder](/games/gta-online/duo-finder.html)
+[![GTA Online key art banner](/assets/images/games/gta-online/gta-online-banner-640.webp)GTA OnlineLos Santos runs on crews — heist seats, RP ranks, and the weekly grind. Jynx verifies your RP rank and the roles you run, so the next lobby is staffed before you host it.](/games/gta-online/catalog.html) [Open the GTA Online duo finder](/games/gta-online/duo-finder.html)
 
-[![Marvel Rivals key art banner](/assets/images/games/marvel-rivals/marvel-rivals-banner-640.webp)Marvel RivalsThe hero shooter moves fast and resets every season: Jynx tracks hero pools and current-season rank, then fills your stack around complementary picks. Full teams, duos, and everything between.](/games/marvel-rivals/catalog.html)[Open the Marvel Rivals duo finder](/games/marvel-rivals/duo-finder.html)
+[![Marvel Rivals key art banner](/assets/images/games/marvel-rivals/marvel-rivals-banner-640.webp)Marvel RivalsThe hero shooter moves fast and resets every season: Jynx tracks hero pools and current-season rank, then fills your stack around complementary picks. Full teams, duos, and everything between.](/games/marvel-rivals/catalog.html) [Open the Marvel Rivals duo finder](/games/marvel-rivals/duo-finder.html)
 
-[![Rainbow Six Siege key art banner](/assets/images/games/rainbow-six-siege/rainbow-six-siege-banner-640.webp)Rainbow Six SiegeSiege is a tactical puzzle with fixed seats: Jynx matches division, operator pools, and IGL tags so the site setup writes itself. Find the stack that takes ranked as seriously as you do.](/games/rainbow-six-siege/catalog.html)[Open the Rainbow Six Siege duo finder](/games/rainbow-six-siege/duo-finder.html)
+[![Rainbow Six Siege key art banner](/assets/images/games/rainbow-six-siege/rainbow-six-siege-banner-640.webp)Rainbow Six SiegeSiege is a tactical puzzle with fixed seats: Jynx matches division, operator pools, and IGL tags so the site setup writes itself. Find the stack that takes ranked as seriously as you do.](/games/rainbow-six-siege/catalog.html) [Open the Rainbow Six Siege duo finder](/games/rainbow-six-siege/duo-finder.html)
 
 [GTA 6 OnlineThe next crew game is almost here: the GTA 6 Online duo finder is live for crew screening ahead of launch — verified profiles, voice intent, and schedule overlap from the first session.](/games/gta-6-online/duo-finder.html)
 
@@ -814,7 +814,7 @@ MOBAs are Jynx's home turf: five-player games where a duo that communicates beat
 
 Download Jynx and get matched with compatible teammates across every game in this galaxy — voice-first lobbies, shared schedules, no random-team dread.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762)[Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
+[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
 
 [duo finders & guides](/games.html)
 

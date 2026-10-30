@@ -15,7 +15,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - Real-time messaging with typing indicators, reactions, and media sharing
 - Available in 16 languages
 
-**Game pages (11 live duo-finders across 9 games):** Cs2, Fortnite, Free Fire, Gta 6 Online, Gta Online, League Of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Deep per-game duo-finder pages with verified-rank matching, role fit, and queue rules. The full catalog of 711 games is at /galaxy.html.
+**Game pages (11 live duo-finders across 9 games):** Counter-Strike 2, Fortnite, Free Fire, GTA 6 Online, GTA Online, League of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Per-game duo-finder pages covering ranks, roles, and queue rules. The full catalog of 711 games is at /galaxy.html.
 
 **Who should use Jynx:**
 - Competitive players tired of solo queue and random teammates
@@ -55,20 +55,19 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 
 ### Live game pages
 
-- [/games/cs2/duo-finder.html](https://jynx.app/games/cs2/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/pt/games/cs2/duo-finder.html](https://jynx.app/pt/games/cs2/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/games/fortnite/duo-finder.html](https://jynx.app/games/fortnite/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/pt/games/free-fire/duo-finder.html](https://jynx.app/pt/games/free-fire/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/games/gta-6-online/duo-finder.html](https://jynx.app/games/gta-6-online/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/games/gta-online/duo-finder.html](https://jynx.app/games/gta-online/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/pt/games/league-of-legends/duo-finder.html](https://jynx.app/pt/games/league-of-legends/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/games/marvel-rivals/duo-finder.html](https://jynx.app/games/marvel-rivals/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/games/rainbow-six-siege/duo-finder.html](https://jynx.app/games/rainbow-six-siege/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/pt/games/rainbow-six-siege/duo-finder.html](https://jynx.app/pt/games/rainbow-six-siege/duo-finder.html): Duo finder — verified-rank matching and queue rules
-- [/pt/games/valorant/duo-finder.html](https://jynx.app/pt/games/valorant/duo-finder.html): Duo finder — verified-rank matching and queue rules
+- [/games/cs2/duo-finder.html](https://jynx.app/games/cs2/duo-finder.html): Duo finder — find teammates for Counter-Strike 2
+- [/pt/games/cs2/duo-finder.html](https://jynx.app/pt/games/cs2/duo-finder.html): Duo finder — find teammates for Counter-Strike 2
+- [/games/fortnite/duo-finder.html](https://jynx.app/games/fortnite/duo-finder.html): Duo finder — find teammates for Fortnite
+- [/pt/games/free-fire/duo-finder.html](https://jynx.app/pt/games/free-fire/duo-finder.html): Duo finder — find teammates for Free Fire
+- [/games/gta-6-online/duo-finder.html](https://jynx.app/games/gta-6-online/duo-finder.html): Duo finder — find teammates for GTA 6 Online
+- [/games/gta-online/duo-finder.html](https://jynx.app/games/gta-online/duo-finder.html): Duo finder — find teammates for GTA Online
+- [/pt/games/league-of-legends/duo-finder.html](https://jynx.app/pt/games/league-of-legends/duo-finder.html): Duo finder — find teammates for League of Legends
+- [/games/marvel-rivals/duo-finder.html](https://jynx.app/games/marvel-rivals/duo-finder.html): Duo finder — find teammates for Marvel Rivals
+- [/games/rainbow-six-siege/duo-finder.html](https://jynx.app/games/rainbow-six-siege/duo-finder.html): Duo finder — find teammates for Rainbow Six Siege
+- [/pt/games/rainbow-six-siege/duo-finder.html](https://jynx.app/pt/games/rainbow-six-siege/duo-finder.html): Duo finder — find teammates for Rainbow Six Siege
+- [/pt/games/valorant/duo-finder.html](https://jynx.app/pt/games/valorant/duo-finder.html): Duo finder — find teammates for Valorant
 - [/pt/procurar-duo.html](https://jynx.app/pt/procurar-duo.html): Portuguese (pt-BR) duo-finder hub
 - [/games.html](https://jynx.app/games.html): Games hub — all live game pages
-- [/galaxy.html](https://jynx.app/galaxy.html): Full active games catalog directory
 
 ### Game catalog
 
