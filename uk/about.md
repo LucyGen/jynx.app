@@ -3,7 +3,7 @@ title: "Про Нас"
 description: "Дізнайтеся більше про Jynx, платформу ігрової спільноти, яка перетворює одиночні ігри на соціальний досвід."
 canonical: "https://jynx.app/uk/about.html"
 locale: "uk"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

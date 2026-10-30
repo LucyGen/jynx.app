@@ -3,7 +3,7 @@ title: "О нас"
 description: "Узнайте больше о Jynx — игровой платформе сообщества, которая превращает одиночную игру в социальный опыт."
 canonical: "https://jynx.app/ru/about.html"
 locale: "ru"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

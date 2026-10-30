@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-지금 커뮤니티에 가입하세요
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated 4.4 on Google Play in 브라질 (113 ratings, 10K+ installs) · New on the
 ## 함께, 더 나은 게임
 
 허공에 소리치는 건 그만. Jynx는 게임 선호도, 플레이 스타일, 일정 호환성을 기반으로 팀원을 지능적으로 연결하여 솔로 게임을 소셜 경험으로 바꿉니다
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## 지능형 매칭
 
@@ -39,7 +41,7 @@ Rated 4.4 on Google Play in 브라질 (113 ratings, 10K+ installs) · New on the
 
 Jynx는 기존 LFG가 망가졌기 때문에 존재합니다 — 그래서 우리가 고치기로 했습니다. 이익이 아닌, 새벽 2시에 Discord 서버에서 'LFG' 스팸을 보내던 좌절감이 원동력입니다. 여러분의 의견이 다음에 만들어질 기능을 직접 결정합니다.
 
-[Discord 가입](https://discord.gg/8UQhtRUvD5) [아이디어 공유](#feedback)
+[아이디어 공유](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## 게이머를 위해, 게이머가 만들었습니다
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | 기능 |  | Discord | 전통적 LFG |
 | --- | --- | --- | --- |
-| **게임 세션 매칭** |  | ❌ | 기본 |
-| **자동 팀원 찾기** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | 수동 게시물 | 기본 |
+| **틴더 스타일 플레이어 발견** |  | ❌ | 다양함 |
 | **실력 기반 매칭 (ELO)** |  | ❌ | ❌ |
 | **커뮤니티 검색 및 발견** |  | 컴퓨터에서만 |  |
 | **플레이어 프로필 통합** |  | ❌ |  |
-| **틴더 스타일 플레이어 발견** |  | ❌ | 다양함 |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -134,8 +142,6 @@ Discord는 이미 있는 팀원들과 소통하기에는 훌륭합니다. 새로
 커뮤니티 중심
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[Discord 가입](https://discord.gg/8UQhtRUvD5)
 
 ### 귀하의 제안, 우리의 우선순위
 

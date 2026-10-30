@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-JOIN YOUR COMMUNITY NOW
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated 4.4 on Google Play in Brazil (113 ratings, 10K+ installs) · New on the Ap
 ## Game Better, Together
 
 Stop shouting into the void. Jynx transforms solo gaming into a social experience by intelligently connecting teammates based on gaming preferences, play styles, and schedule compatibility
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## Intelligent Matchmaking
 
@@ -39,7 +41,7 @@ Plan your gaming nights in advance and never scramble for teammates again
 
 Jynx exists because traditional LFG is broken — and we decided to fix it. Not driven by profit, but by the frustration of spamming 'LFG' in Discord servers at 2 AM. Your input directly shapes what we build next.
 
-[Join our Discord](https://discord.gg/8UQhtRUvD5) [Share Your Ideas](#feedback)
+[Share Your Ideas](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## Built for Gamers, by Gamers
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Feature |  | Discord | Traditional LFG |
 | --- | --- | --- | --- |
-| **Game Session Matchmaking** |  | ❌ | Basic |
-| **Automatic Teammate Finder** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | Manual posts | Basic |
+| **Tinder-Style Player Discovery** |  | ❌ | Varies |
 | **Skill-Based Matching (ELO)** |  | ❌ | ❌ |
 | **Community Search & Discovery** |  | On computer only |  |
 | **Player Profile Integration** |  | ❌ |  |
-| **Tinder-Style Player Discovery** |  | ❌ | Varies |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -109,7 +117,7 @@ Write to us
 
 ### Is there a Tinder-like app for gamers to find teammates?
 
-Yeah, and it's about time. Traditional LFG is broken — you're spamming Discord channels, posting in subreddits from 3 days ago, and hoping someone who speaks your language and plays your rank is actually online when you are. That's not a system, that's gambling with your time. Jynx lets you filter for what actually matters: compatible schedules, similar skill levels, and shared gaming preferences. You swipe through potential teammates who meet YOUR criteria, skip awkward cold messaging, and only connect with players who are genuinely available when you want to play. The difference? You're not shouting into a void hoping someone responds. You're seeing only people who already match your availability, speak your language, and play your games. Less time spamming 'LFG' in chat, more time in-game with people you'll actually want to team up with again.
+Yeah, and it's about time. Traditional LFG is broken — you're spamming LFG channels, posting in subreddits from 3 days ago, and hoping someone who speaks your language and plays your rank is actually online when you are. That's not a system, that's gambling with your time. Jynx lets you filter for what actually matters: compatible schedules, similar skill levels, and shared gaming preferences. You swipe through potential teammates who meet YOUR criteria, skip awkward cold messaging, and only connect with players who are genuinely available when you want to play. The difference? You're not shouting into a void hoping someone responds. You're seeing only people who already match your availability, speak your language, and play your games. Less time spamming 'LFG' in chat, more time in-game with people you'll actually want to team up with again. And when you both swipe right, the voice room is one tap away — inside the app.
 
 ### How to meet gamers online and build a gaming friend group?
 
@@ -121,7 +129,7 @@ Finding good ranked teammates isn't about quantity — it's about compatibility.
 
 ### What are the best alternatives to Discord for finding gaming teammates?
 
-Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void The goal isn't to replace Discord — it's to use the right tool for discovery, then move to Discord for voice chat once you've found compatible teammates. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html).
+Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void Jynx closes that loop in one app: match, open a voice room together — group, 1:1, or an always-on Chill Room — and share your screen without ever leaving the conversation that started with a swipe. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html).
 
 ### Are there free gaming matchmaking apps and platforms?
 
@@ -134,8 +142,6 @@ No Toxicity
 Community Driven
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[Join our Discord](https://discord.gg/8UQhtRUvD5)
 
 ### Your suggestions, our priority
 

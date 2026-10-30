@@ -3,7 +3,7 @@ title: "Về Chúng Tôi | Jynx - Game Trở Nên Xã Hội"
 description: "Tìm hiểu cách Jynx đang chuyển đổi game thông qua kết nối xã hội. Khám phá sứ mệnh, đội ngũ và hành trình tạo ra một cộng đồng sôi động cho game thủ."
 canonical: "https://jynx.app/vi/about.html"
 locale: "vi"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

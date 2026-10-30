@@ -3,7 +3,7 @@ title: "Contato Jynx: suporte, segurança e privacidade por email"
 description: "Fale com a equipe Jynx por email: suporte para a conta e o app, segurança para relatar vulnerabilidades e privacidade com o DPO. Discord e redes sociais incluídos."
 canonical: "https://jynx.app/pt/contact.html"
 locale: "pt"
-dateModified: "2026-10-29"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -37,7 +37,7 @@ Pedidos de dados pessoais, dúvidas de privacidade e solicitações de autoridad
 
 Para conversas do dia a dia, a comunidade é mais rápida que o email.
 
-- [Discord](https://discord.gg/8UQhtRUvD5) — o servidor da comunidade Jynx: conheça jogadores, tire dúvidas e fale com a equipe.
+- [Discord](https://discord.gg/8UQhtRUvD5) — servidor da equipe e suporte: tire dúvidas, fale com o time do Jynx ou pegue ajuda com o app.
 - [Instagram](https://www.instagram.com/jynx_app/) — novidades e vídeos da equipe Jynx.
 - [TikTok](https://www.tiktok.com/@jynx.app) — vídeos curtos, destaques da comunidade e recursos.
 - [X (Twitter)](https://twitter.com/Jynx_App) — anúncios e respostas rápidas.

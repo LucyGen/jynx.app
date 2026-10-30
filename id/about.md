@@ -3,7 +3,7 @@ title: "Tentang Kami"
 description: "Pelajari lebih lanjut tentang Jynx, platform komunitas gaming yang mengubah gaming solo menjadi pengalaman sosial."
 canonical: "https://jynx.app/id/about.html"
 locale: "id"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

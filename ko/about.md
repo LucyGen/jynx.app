@@ -3,7 +3,7 @@ title: "Jynx 소개 | 우리의 미션과 비전"
 description: "Jynx가 의미 있는 연결을 통해 게임 커뮤니티를 혁신하는 방법을 알아보세요. 우리 팀, 우리의 이야기, 그리고 게임을 모두에게 더 소셜하게 만들겠다는 우리의 약속을 만나보세요."
 canonical: "https://jynx.app/ko/about.html"
 locale: "ko"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

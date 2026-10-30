@@ -850,6 +850,6 @@ You can — Jynx runs on the web and ships native apps for Android and iOS, so y
 
 ### How is this different from Discord LFG channels?
 
-A Discord channel checks nothing: anyone can type any rank, screenshots go stale, and one crowded queue mixes serious and casual players. Jynx moves the filter before the conversation — verified rank, voice intent, and schedule in common — so the first message you exchange is already with someone who fits your queue.
+A Discord channel checks nothing: anyone can type any rank, screenshots go stale, and one crowded queue mixes serious and casual players. Jynx puts the filter first — verified rank, voice intent, schedule — then attaches the voice room to the match itself, so you talk in the same app you matched in.
 
 Game data provided by IGDB.com

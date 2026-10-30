@@ -1,9 +1,9 @@
 {
-  "gitSha": "0563a9cccdfe81ba661f13e0f1b91d6978b9243c",
+  "gitSha": "3ef74ff6fa6dc2bb3be5930fd477ef5909e4dee4",
   "generatedFrom": [
     {
       "source": "games",
-      "date": "2026-10-22"
+      "date": "2026-10-30"
     },
     {
       "source": "blog",
@@ -11,7 +11,7 @@
     },
     {
       "source": "glossary",
-      "date": "2026-10-12"
+      "date": "2026-10-30"
     }
   ],
   "env": true

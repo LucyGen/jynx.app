@@ -119,7 +119,7 @@
     "community": {
       "title": "Community and Social",
       "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — the Jynx community server: meet players, ask questions, and talk to the team.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
       "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
       "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
       "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
@@ -1250,15 +1250,11 @@
   },
   "hero": {
     "title": "The Next-Gen Companion App for Gamers",
-    "subtitle": "Tarzınıza, yetenek seviyenize ve programınıza uygun takım arkadaşları bulun",
-    "pre_launch_text": "ŞİMDİ TOPLULUĞUNUZA KATILIN",
+    "deck": "MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.",
     "app_store_small": "İndir",
     "app_store_large": "App Store",
     "play_store_small": "İNDİR",
-    "play_store_large": "Google Play",
-    "cta_primary": "TOPLULUĞUNUZA KATILIN",
-    "title_primary": "Akıllı Oyun Eşleştirme Platformu",
-    "tagline": "Where Gaming Gets Social"
+    "play_store_large": "Google Play"
   },
   "proof": {
     "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
@@ -1268,6 +1264,7 @@
     "title": "Birlikte Daha İyi Oyun",
     "subtitle": "Modern oyuncular için tasarlanmış akıllı oyun topluluğu araçları",
     "description": "Boşluğa bağırmayı bırakın. Jynx, oyun tercihleri, oyun tarzları ve program uyumluluğuna göre takım arkadaşlarını akıllıca eşleştirerek solo oyunu sosyal bir deneyime dönüştürür",
+    "destination": "Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.",
     "cards": {
       "scheduling": {
         "title": "Akıllı Eşleştirme",
@@ -1332,7 +1329,6 @@
   "collaborative": {
     "title": "Başka birinin yapmasını beklemeye bıkıp kendileri yapan oyuncular tarafından inşa edildi.",
     "description": "Jynx var çünkü geleneksel LFG bozuk — ve biz bunu düzeltmeye karar verdik. Kâr değil, gece 2'de Discord sunucularında 'LFG' spamlamanın verdiği hayal kırıklığı bizi harekete geçirdi. Sizin girdileriniz bir sonraki adımda ne inşa edeceğimizi doğrudan şekillendiriyor.",
-    "discord": "Discord'umuza Katılın",
     "ideas": "Fikirlerinizi Paylaşın"
   },
   "form": {
@@ -1365,7 +1361,6 @@
     "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "feedback": "Mesajınız (isteğe bağlı)",
     "feedback_label": "Mesajınız",
-    "discord": "Discord'umuza katılın",
     "yes": "Evet",
     "no": "Hayır",
     "textarea": "Bize ne düşündüğünüzü söyleyin...",
@@ -1524,7 +1519,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
     },
     "install": {
       "title": "Get Jynx on iOS, Android, or the web",
@@ -1571,12 +1566,17 @@
     }
   },
   "comparison": {
-    "title": "Oyuncular İçin, Oyuncular Tarafından",
+    "title": "The whole loop, in one app.",
+    "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
     "table": {
       "feature": "Özellik",
       "lfg": "LFG Forumlari",
-      "game_session_matchmaking": "Oyun Seansı Eşleştirme",
-      "auto_finder": "Otomatik Takım Arkadaşı Bulucu",
+      "match_to_voice": "Match → Voice Room in One Tap",
+      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
+      "screen_share": "Screen Sharing in Voice Rooms",
+      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "smart_team_builder": "Smart Team Builder",
+      "game_session_matchmaking": "Game Sessions — schedule and organize play",
       "elo_matching": "ELO Tabanlı Eşleştirme",
       "community_search": "Topluluk Arama ve Keşif",
       "chat": "Yerleşik Sohbet",
@@ -1593,7 +1593,7 @@
       "basic": "Temel",
       "by_game_skill": "Oyun, Rütbe ve Dile Göre",
       "on_computer_only": "Sadece Bilgisayarda",
-      "servers": "Sunucular",
+      "servers": "Find a server first",
       "teams": "Takımlar",
       "advanced": "Gelişmiş",
       "planned": "Planned",
@@ -1603,8 +1603,8 @@
       "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
       "free_varies": "Ücretsiz + Değişir"
     },
-    "roadmap_note": "On the roadmap: automatic teammate finder",
-    "footnote": "Comparison based on publicly available features as of October 2026.",
+    "roadmap_note": "On the roadmap: Smart Team Builder — auto-formed, balanced teams",
+    "footnote": "Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
     "cta": {
       "title": "Farkı Deneyimlemeye Hazır mısınız?",
       "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan dünya çapındaki oyunculara katılın",

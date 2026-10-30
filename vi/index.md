@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-THAM GIA CỘNG ĐỒNG NGAY
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated 4,4 on Google Play in Brazil (113 ratings, 10K+ installs) · New on the Ap
 ## Chơi Game Tốt Hơn, Cùng Nhau
 
 Đừng hét vào hư không nữa. Jynx biến game đơn thành trải nghiệm xã hội bằng cách kết nối đồng đội một cách thông minh dựa trên sở thích game, phong cách chơi và sự tương thích lịch trình
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## Ghép Đôi Thông Minh
 
@@ -39,7 +41,7 @@ Lên kế hoạch cho các buổi chơi game trước và không bao giờ phả
 
 Jynx tồn tại vì LFG truyền thống đã hỏng — và chúng tôi quyết định sửa nó. Không phải vì lợi nhuận, mà vì sự bực bội khi spam 'LFG' trong các server Discord lúc 2 giờ sáng. Ý kiến của bạn trực tiếp định hình những gì chúng tôi xây dựng tiếp theo.
 
-[Tham Gia Discord Của Chúng Tôi](https://discord.gg/8UQhtRUvD5) [Chia Sẻ Ý Tưởng Của Bạn](#feedback)
+[Chia Sẻ Ý Tưởng Của Bạn](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## Được Xây Dựng Cho Game Thủ, Bởi Game Thủ
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Tính năng |  | Discord | LFG Truyền thống |
 | --- | --- | --- | --- |
-| **Ghép Đôi Phiên Game** |  | ❌ | Cơ bản |
-| **Tìm Đồng Đội Tự Động** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | Đăng bài thủ công | Cơ bản |
+| **Khám Phá Người Chơi Kiểu Tinder** |  | ❌ | Khác nhau |
 | **Ghép Đôi Dựa Trên Kỹ Năng (ELO)** |  | ❌ | ❌ |
 | **Tìm Kiếm và Khám Phá Cộng Đồng** |  | Chỉ trên máy tính |  |
 | **Tích Hợp Hồ Sơ Người Chơi** |  | ❌ |  |
-| **Khám Phá Người Chơi Kiểu Tinder** |  | ❌ | Khác nhau |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -134,8 +142,6 @@ Không độc hại
 Thúc đẩy bởi cộng đồng
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[Tham gia Discord của chúng tôi](https://discord.gg/8UQhtRUvD5)
 
 ### Chia Sẻ Phản Hồi Của Bạn
 

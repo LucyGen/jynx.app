@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-ÚNETE A TU COMUNIDAD AHORA
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated 4,4 on Google Play in Brasil (113 ratings, 10K+ installs) · New on the Ap
 ## Juega Mejor, Juntos
 
 Deja de gritar al vacío. Jynx transforma el gaming en solitario en una experiencia social conectando inteligentemente compañeros según preferencias gaming, estilos de juego y compatibilidad de horarios
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## Matchmaking Inteligente
 
@@ -39,7 +41,7 @@ Planifica tus noches de gaming con anticipación y nunca te apresures por compa�
 
 Jynx existe porque el LFG tradicional está roto — y decidimos arreglarlo. No nos mueve el lucro, sino la frustración de hacer spam con 'LFG' en servidores de Discord a las 2 de la mañana. Tu opinión define directamente lo que construimos después.
 
-[Únete a nuestro Discord](https://discord.gg/8UQhtRUvD5) [Comparte Tus Ideas](#feedback)
+[Comparte Tus Ideas](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## Hecho para Gamers, por Gamers
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Característica |  | Discord | LFG Tradicional |
 | --- | --- | --- | --- |
-| **Matchmaking de Sesión de Juego** |  | ❌ | Básico |
-| **Buscador Automático de Compañeros** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | Publicaciones manuales | Básico |
+| **Descubrimiento de Jugador Estilo Tinder** |  | ❌ | Varía |
 | **Emparejamiento Basado en Habilidad (ELO)** |  | ❌ | ❌ |
 | **Búsqueda y Descubrimiento de Comunidad** |  | Solo en computadora |  |
 | **Integración de Perfil de Jugador** |  | ❌ |  |
-| **Descubrimiento de Jugador Estilo Tinder** |  | ❌ | Varía |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -134,8 +142,6 @@ Sin toxicidad
 Impulsado por la comunidad
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[Únete a nuestro Discord](https://discord.gg/8UQhtRUvD5)
 
 ### Tus sugerencias, nuestra prioridad
 

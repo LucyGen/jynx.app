@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-এখনই আপনার কমিউনিটিতে যোগ দিন
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ i
 ## একসাথে, আরও ভালো গেম
 
 শূন্যতায় চিৎকার করা বন্ধ করুন। Jynx গেমিং পছন্দ, খেলার স্টাইল এবং সময়সূচী সামঞ্জস্যের ভিত্তিতে বুদ্ধিমানভাবে সতীর্থদের সংযুক্ত করে একক গেমিংকে একটি সামাজিক অভিজ্ঞতায় রূপান্তরিত করে
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## ইন্টেলিজেন্ট ম্যাচমেকিং
 
@@ -39,7 +41,7 @@ Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ i
 
 Jynx আছে কারণ প্রচলিত LFG ভাঙা — এবং আমরা এটা ঠিক করার সিদ্ধান্ত নিয়েছি। লাভের তাগিদে নয়, রাত ২টায় Discord সার্ভারে 'LFG' স্প্যাম করার হতাশা থেকে। আপনার মতামত সরাসরি ঠিক করে আমরা পরবর্তীতে কী তৈরি করি।
 
-[আমাদের Discord এ যোগ দিন](https://discord.gg/8UQhtRUvD5) [আপনার ধারণা শেয়ার করুন](#feedback)
+[আপনার ধারণা শেয়ার করুন](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## গেমারদের জন্য, গেমারদের দ্বারা
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | বৈশিষ্ট্য |  | Discord | ঐতিহ্যবাহী LFG |
 | --- | --- | --- | --- |
-| **গেম সেশন ম্যাচমেকিং** |  | ❌ | বেসিক |
-| **স্বয়ংক্রিয় সতীর্থ খুঁজুন** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | ম্যানুয়াল পোস্ট | বেসিক |
+| **Tinder-স্টাইল খেলোয়াড় আবিষ্কার** |  | ❌ | ভিন্ন |
 | **দক্ষতা-ভিত্তিক ম্যাচিং (ELO)** |  | ❌ | ❌ |
 | **কমিউনিটি অনুসন্ধান ও আবিষ্কার** |  | শুধুমাত্র কম্পিউটারে |  |
 | **খেলোয়াড় প্রোফাইল ইন্টিগ্রেশন** |  | ❌ |  |
-| **Tinder-স্টাইল খেলোয়াড় আবিষ্কার** |  | ❌ | ভিন্ন |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -134,8 +142,6 @@ Discord আপনার ইতিমধ্যে থাকা সতীর্থ
 কমিউনিটি-চালিত
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[আমাদের ডিসকর্ডে যোগ দিন](https://discord.gg/8UQhtRUvD5)
 
 ### আপনার পরামর্শ, আমাদের অগ্রাধিকার
 

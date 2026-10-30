@@ -3,7 +3,7 @@ title: "हमारे बारे में"
 description: "Jynx के बारे में और जानें, गेमिंग कम्युनिटी प्लेटफॉर्म जो सोलो गेमिंग को एक सोशल अनुभव में बदल देता है।"
 canonical: "https://jynx.app/hi/about.html"
 locale: "hi"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

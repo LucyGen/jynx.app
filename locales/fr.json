@@ -119,7 +119,7 @@
     "community": {
       "title": "Communauté et réseaux",
       "desc": "Pour les échanges au quotidien, la communauté est plus rapide que l'email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — le serveur de la communauté Jynx : rencontres, questions et discussions avec l'équipe.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — serveur équipe et support : posez une question, échangez avec l'équipe Jynx ou obtenez de l'aide sur l'app.",
       "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — actualités et vidéos de l'équipe Jynx.",
       "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — vidéos courtes, moments de la communauté et fonctionnalités.",
       "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — annonces et réponses rapides.",
@@ -1250,15 +1250,11 @@
   },
   "hero": {
     "title": "L'application compagnon nouvelle génération pour gamers",
-    "subtitle": "Trouvez des coéquipiers qui correspondent à votre style, niveau de compétence et disponibilités",
-    "pre_launch_text": "REJOIGNEZ VOTRE COMMUNAUTÉ MAINTENANT",
+    "deck": "MATCH. TALK. PLAY. — salons vocaux et partage d'écran là où la squad s'est formée.",
     "app_store_small": "Télécharger sur",
     "app_store_large": "App Store",
     "play_store_small": "DISPONIBLE SUR",
-    "play_store_large": "Google Play",
-    "cta_primary": "REJOIGNEZ VOTRE COMMUNAUTÉ",
-    "title_primary": "Plateforme de Matchmaking Gaming Intelligent",
-    "tagline": "Quand le Gaming Devient Social"
+    "play_store_large": "Google Play"
   },
   "proof": {
     "summary": "Noté {play_rating} sur Google Play au {market} ({play_count} avis, {downloads} installations) · Nouveau sur l'App Store · à jour en {as_of_month_year}.",
@@ -1268,6 +1264,7 @@
     "title": "Jouez Mieux, Ensemble",
     "subtitle": "Outils de communauté gaming intelligents conçus pour les joueurs modernes",
     "description": "Arrêtez de crier dans le vide. Jynx transforme le jeu solo en expérience sociale en connectant intelligemment des coéquipiers selon leurs préférences gaming, styles de jeu et compatibilité des disponibilités",
+    "destination": "Trouver, matcher, parler et partager au même endroit : Jynx associe le matchmaking à des salons vocaux natifs et au partage d'écran — la squad se forme et joue dans la même app.",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Intelligent",
@@ -1332,7 +1329,6 @@
   "collaborative": {
     "title": "Créé par des gamers qui en avaient marre d'attendre que quelqu'un d'autre le fasse.",
     "description": "Jynx existe parce que le LFG traditionnel est cassé — et on a décidé de le réparer. Pas motivés par le profit, mais par la frustration de spammer 'LFG' dans des serveurs Discord à 2h du matin. Vos retours façonnent directement ce qu'on construit ensuite.",
-    "discord": "Rejoignez notre Discord",
     "ideas": "Partagez Vos Idées"
   },
   "form": {
@@ -1365,7 +1361,6 @@
     "feedback": "Votre message (optionnel)",
     "feedback_label": "Votre message",
     "subtitle": "Pas de spam. Nous vous contacterons uniquement pour des actualités Jynx importantes.",
-    "discord": "Rejoignez notre Discord",
     "yes": "Oui",
     "no": "Non",
     "textarea": "Dites-nous ce que vous pensez...",
@@ -1445,7 +1440,7 @@
     "cta_button": "Contactez-Nous !",
     "q1": {
       "question": "Existe-t-il une application type Tinder pour gamers cherchant des coéquipiers ?",
-      "answer": "Ouais, et il était temps. Le LFG traditionnel est cassé — vous spammez des channels Discord, postez dans des subreddits vieux de 3 jours, et priez pour que quelqu'un qui parle votre langue et joue à votre rang soit en ligne quand vous l'êtes. Ça, c'est pas un système, c'est un pari avec votre temps.<br><br>Jynx vous permet de filtrer ce qui compte vraiment : disponibilités compatibles, niveaux de compétence similaires et préférences gaming partagées. Vous swipez à travers des coéquipiers potentiels qui répondent à VOS critères, évitez les messages maladroits et ne vous connectez qu'avec des joueurs réellement disponibles quand vous voulez jouer.<br><br>La différence ? Vous ne criez pas dans le vide en espérant une réponse. Vous ne voyez que des personnes qui correspondent déjà à vos disponibilités, parlent votre langue et jouent à vos jeux. Moins de temps à spammer 'LFG' dans le chat, plus de temps en jeu avec des personnes avec qui vous voudrez rejouer."
+      "answer": "Ouais, et il était temps. Le LFG traditionnel est cassé — vous spammez des canaux LFG, postez dans des subreddits vieux de 3 jours, et priez pour que quelqu'un qui parle votre langue et joue à votre rang soit en ligne quand vous l'êtes. Ça, c'est pas un système, c'est un pari avec votre temps.<br><br>Jynx vous permet de filtrer ce qui compte vraiment : disponibilités compatibles, niveaux de compétence similaires et préférences gaming partagées. Vous swipez à travers des coéquipiers potentiels qui répondent à VOS critères, évitez les messages maladroits et ne vous connectez qu'avec des joueurs réellement disponibles quand vous voulez jouer.<br><br>La différence ? Vous ne criez pas dans le vide en espérant une réponse. Vous ne voyez que des personnes qui correspondent déjà à vos disponibilités, parlent votre langue et jouent à vos jeux. Moins de temps à spammer 'LFG' dans le chat, plus de temps en jeu avec des personnes avec qui vous voudrez rejouer. Et quand vous swipez tous les deux à droite, le salon vocal n'est qu'à un tap — dans l'app."
     },
     "q2": {
       "question": "Comment rencontrer des gamers en ligne et construire un groupe d'amis gaming ?",
@@ -1457,7 +1452,7 @@
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
-      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>L'objectif n'est pas de remplacer Discord — c'est d'utiliser le bon outil pour la découverte, puis passer à Discord pour le chat vocal une fois que vous avez trouvé des coéquipiers compatibles. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>."
+      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>Jynx ferme cette boucle dans une seule app : match, ouvrez un salon vocal ensemble — de groupe, en 1:1, ou une Chill Room toujours active — et partagez votre écran sans jamais quitter la conversation née d'un swipe. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>."
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
@@ -1584,7 +1579,7 @@
     },
     "intro": {
       "title": "L'app compagnon pour gamers",
-      "description": "Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux Discord."
+      "description": "Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux LFG."
     },
     "install": {
       "title": "Jynx sur iOS, Android ou le web",
@@ -1669,12 +1664,17 @@
     }
   },
   "comparison": {
-    "title": "Fait pour les Gamers, par les Gamers",
+    "title": "La boucle complète, dans une seule app.",
+    "intro": "Swipez, matchez, et lancez la discussion. Salons vocaux, chat et partage d'écran vivent dans la même app que celle où vous avez trouvé votre squad — pas de deuxième app, pas de saut de serveur, pas de lien à partager pour rejoindre un appel.",
     "table": {
       "feature": "Fonctionnalité",
       "lfg": "LFG Traditionnel",
-      "game_session_matchmaking": "Matchmaking de Sessions de Jeu",
-      "auto_finder": "Recherche Automatique de Coéquipiers",
+      "match_to_voice": "Du match au salon vocal en un tap",
+      "native_voice_chat": "Chat vocal natif — salons de groupe, appels 1:1, Chill Rooms toujours ouvertes",
+      "screen_share": "Partage d'écran dans les salons vocaux",
+      "play_now_matchmaking": "Play Now — matchmaking instantané",
+      "smart_team_builder": "Smart Team Builder",
+      "game_session_matchmaking": "Sessions de jeu — planifiez et organisez vos parties",
       "elo_matching": "Matching Basé sur les Compétences (ELO)",
       "community_search": "Recherche & Découverte de Communautés",
       "chat": "Chat Temps Réel",
@@ -1691,7 +1691,7 @@
       "basic": "Basique",
       "by_game_skill": "Par Jeu, rang & Langue",
       "on_computer_only": "Sur ordinateur uniquement",
-      "servers": "Serveurs",
+      "servers": "Trouvez d'abord un serveur",
       "teams": "Équipes",
       "advanced": "Avancé",
       "planned": "Planifié",
@@ -1701,8 +1701,8 @@
       "free_jynx_plus": "Gratuit / Jynx+",
       "free_varies": "Gratuit/Variable"
     },
-    "roadmap_note": "Sur la feuille de route : recherche automatique de coéquipiers",
-    "footnote": "Comparaison basée sur les fonctionnalités disponibles publiquement en octobre 2026.",
+    "roadmap_note": "Sur la feuille de route : Smart Team Builder — des équipes équilibrées formées automatiquement",
+    "footnote": "Comparaison en date d'octobre 2026. Discord et le LFG traditionnel reflètent leurs fonctionnalités disponibles publiquement ; la colonne Jynx reflète les capacités de l'app Jynx.",
     "cta": {
       "title": "Prêt à Expérimenter la Différence ?",
       "description": "Rejoignez des gamers du monde entier qui trouvent leurs équipes parfaites avec le matchmaking IA Jynx",

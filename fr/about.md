@@ -3,7 +3,7 @@ title: "À Propos"
 description: "Découvrez Jynx, la plateforme communautaire gaming qui transforme le jeu solo en expérience sociale."
 canonical: "https://jynx.app/fr/about.html"
 locale: "fr"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

@@ -119,7 +119,7 @@
     "community": {
       "title": "Community and Social",
       "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — the Jynx community server: meet players, ask questions, and talk to the team.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
       "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
       "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
       "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
@@ -1250,15 +1250,11 @@
   },
   "hero": {
     "title": "The Next-Gen Companion App for Gamers",
-    "subtitle": "আপনার স্টাইল, দক্ষতার স্তর এবং সময়সূচীর সাথে মিলে এমন সতীর্থদের খুঁজুন",
-    "pre_launch_text": "এখনই আপনার কমিউনিটিতে যোগ দিন",
+    "deck": "MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.",
     "app_store_small": "ডাউনলোড করুন",
     "app_store_large": "App Store",
     "play_store_small": "পান",
-    "play_store_large": "Google Play",
-    "cta_primary": "আপনার কমিউনিটিতে যোগ দিন",
-    "title_primary": "স্মার্ট গেমিং ম্যাচমেকিং প্ল্যাটফর্ম",
-    "tagline": "Where Gaming Gets Social"
+    "play_store_large": "Google Play"
   },
   "proof": {
     "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
@@ -1268,6 +1264,7 @@
     "title": "একসাথে, আরও ভালো গেম",
     "subtitle": "আধুনিক খেলোয়াড়দের জন্য ডিজাইন করা ইন্টেলিজেন্ট গেমিং কমিউনিটি টুল",
     "description": "শূন্যতায় চিৎকার করা বন্ধ করুন। Jynx গেমিং পছন্দ, খেলার স্টাইল এবং সময়সূচী সামঞ্জস্যের ভিত্তিতে বুদ্ধিমানভাবে সতীর্থদের সংযুক্ত করে একক গেমিংকে একটি সামাজিক অভিজ্ঞতায় রূপান্তরিত করে",
+    "destination": "Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.",
     "cards": {
       "scheduling": {
         "title": "ইন্টেলিজেন্ট ম্যাচমেকিং",
@@ -1332,7 +1329,6 @@
   "collaborative": {
     "title": "অন্য কেউ বানাবে অপেক্ষা করতে করতে ক্লান্ত হয়ে নিজেরাই বানিয়ে ফেলা গেমারদের তৈরি।",
     "description": "Jynx আছে কারণ প্রচলিত LFG ভাঙা — এবং আমরা এটা ঠিক করার সিদ্ধান্ত নিয়েছি। লাভের তাগিদে নয়, রাত ২টায় Discord সার্ভারে 'LFG' স্প্যাম করার হতাশা থেকে। আপনার মতামত সরাসরি ঠিক করে আমরা পরবর্তীতে কী তৈরি করি।",
-    "discord": "আমাদের Discord এ যোগ দিন",
     "ideas": "আপনার ধারণা শেয়ার করুন"
   },
   "form": {
@@ -1365,7 +1361,6 @@
     "feedback": "আপনার বার্তা (ঐচ্ছিক)",
     "feedback_label": "আপনার বার্তা",
     "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
-    "discord": "আমাদের ডিসকর্ডে যোগ দিন",
     "yes": "হ্যাঁ",
     "no": "না",
     "textarea": "আপনার মতামত জানান...",
@@ -1524,7 +1519,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
     },
     "install": {
       "title": "Get Jynx on iOS, Android, or the web",
@@ -1571,12 +1566,17 @@
     }
   },
   "comparison": {
-    "title": "গেমারদের জন্য, গেমারদের দ্বারা",
+    "title": "The whole loop, in one app.",
+    "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
     "table": {
       "feature": "বৈশিষ্ট্য",
       "lfg": "ঐতিহ্যবাহী LFG",
-      "game_session_matchmaking": "গেম সেশন ম্যাচমেকিং",
-      "auto_finder": "স্বয়ংক্রিয় সতীর্থ খুঁজুন",
+      "match_to_voice": "Match → Voice Room in One Tap",
+      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
+      "screen_share": "Screen Sharing in Voice Rooms",
+      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "smart_team_builder": "Smart Team Builder",
+      "game_session_matchmaking": "Game Sessions — schedule and organize play",
       "elo_matching": "দক্ষতা-ভিত্তিক ম্যাচিং (ELO)",
       "community_search": "কমিউনিটি অনুসন্ধান ও আবিষ্কার",
       "chat": "রিয়েল-টাইম চ্যাট",
@@ -1593,7 +1593,7 @@
       "basic": "বেসিক",
       "by_game_skill": "গেম, র‍্যাঙ্ক ও ভাষা অনুযায়ী",
       "on_computer_only": "শুধুমাত্র কম্পিউটারে",
-      "servers": "সার্ভার",
+      "servers": "Find a server first",
       "teams": "টিম",
       "advanced": "উন্নত",
       "planned": "Planned",
@@ -1603,8 +1603,8 @@
       "free_jynx_plus": "ফ্রি / Jynx+",
       "free_varies": "ফ্রি/ভিন্ন"
     },
-    "roadmap_note": "On the roadmap: automatic teammate finder",
-    "footnote": "Comparison based on publicly available features as of October 2026.",
+    "roadmap_note": "On the roadmap: Smart Team Builder — auto-formed, balanced teams",
+    "footnote": "Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
     "cta": {
       "title": "পার্থক্য অনুভব করতে প্রস্তুত?",
       "description": "বিশ্বব্যাপী গেমারদের সাথে যোগ দিন যারা Jynx AI ম্যাচমেকিং দিয়ে তাদের নিখুঁত স্কোয়াড খুঁজছে",

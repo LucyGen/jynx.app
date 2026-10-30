@@ -3,7 +3,7 @@ title: "Gaming Glossary — 148 Terms Defined"
 description: "Comprehensive glossary of LFG, matchmaking, and gaming terms. Citable definitions for AI engines."
 canonical: "https://jynx.app/glossary.html"
 locale: "en"
-dateModified: "2026-10-12"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ A definitive reference for LFG, matchmaking, and gaming terminology. Each entry 
 
 **8** categories
 
-Last updated 2026-10-12
+Last updated 2026-10-30
 
 [Download on App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=glossary&utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dglossary_cta%26utm_content%3Dglossary)
 

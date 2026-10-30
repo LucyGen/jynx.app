@@ -3,7 +3,7 @@ title: "Find Teammates by Game: Verified Rank, Voice & Schedule"
 description: "Find teammates by verified rank, voice, and schedule overlap: CS2, Marvel Rivals, Fortnite, GTA, and Rainbow Six Siege on Jynx. Free on the web, Android, and iOS."
 canonical: "https://jynx.app/games.html"
 locale: "en"
-dateModified: "2026-10-12"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -52,7 +52,7 @@ Today: CS2 (Premier rating and FACEIT level), Marvel Rivals (hero pools and curr
 
 Why does Discord LFG feel like a roulette?
 
-Because the channel checks nothing: whoever posts picks their own rank, screenshots age every season, and one queue mixes players who want serious ranked with players messing around. Finding teammates works better when the filter comes before the chat — verified rank, voice intent, and schedule — so the conversation starts already aligned.
+Because the channel checks nothing: whoever posts picks their own rank, screenshots age every season, and one queue mixes players who want serious ranked with players messing around. Finding teammates works better when the filter comes before the chat — verified rank, voice intent, and schedule. And when the match is right, the voice room is already there: Jynx opens it in the same app, one tap from the match.
 
 ## Stop playing solo
 

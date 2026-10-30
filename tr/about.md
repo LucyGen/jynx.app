@@ -3,7 +3,7 @@ title: "Jynx Hakkında | Misyonumuz ve Vizyonumuz"
 description: "Jynx'in anlamlı bağlantılar yoluyla oyun topluluğunu nasıl dönüştürdüğünü öğrenin. Ekibimizle tanışın, hikayemizi ve oyunu herkes için daha sosyal hale getirme taahhüdümüzü keşfedin."
 canonical: "https://jynx.app/tr/about.html"
 locale: "tr"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

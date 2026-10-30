@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # The Next-Gen Companion App for Gamers
 
-DOŁĄCZ DO SWOJEJ SPOŁECZNOŚCI TERAZ
+MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
@@ -18,6 +18,8 @@ Rated 4,4 on Google Play in Brazylia (113 ratings, 10K+ installs) · New on the 
 ## Graj Lepiej, Razem
 
 Przestań krzyczeć w próżnię. Jynx przekształca samotne granie w doświadczenie społeczne, inteligentnie łącząc współgraczy na podstawie preferencji gaming, stylów gry i kompatybilności harmonogramu
+
+Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
 
 ## Inteligentne Matchmaking
 
@@ -39,7 +41,7 @@ Planuj swoje gamingowe wieczory z wyprzedzeniem i nigdy więcej nie szukaj koleg
 
 Jynx istnieje, bo tradycyjne LFG jest zepsute — a my postanowiliśmy to naprawić. Nie napędzani zyskiem, ale frustracją spamowania 'LFG' na serwerach Discord o 2 w nocy. Twój wkład bezpośrednio kształtuje to, co budujemy dalej.
 
-[Dołącz do naszego Discord](https://discord.gg/8UQhtRUvD5) [Podziel się Swoimi Pomysłami](#feedback)
+[Podziel się Swoimi Pomysłami](#feedback)
 
 ## WHO JYNX IS FOR
 
@@ -60,20 +62,26 @@ THE PLAYER TYPES WE MATCH
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-## Stworzone dla Graczy, przez Graczy
+## The whole loop, in one app.
+
+Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Funkcja |  | Discord | Tradycyjne LFG |
 | --- | --- | --- | --- |
-| **Matchmaking Sesji Gry** |  | ❌ | Podstawowe |
-| **Automatyczne Znajdowanie Kolegów** | Planned | ❌ | ❌ |
+| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
+| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
+| **Game Sessions — schedule and organize play** |  | Ręczne posty | Podstawowe |
+| **Odkrywanie Graczy w Stylu Tinder** |  | ❌ | Różnie |
 | **Dopasowanie Oparte na Umiejętnościach (ELO)** |  | ❌ | ❌ |
 | **Wyszukiwanie i Odkrywanie Społeczności** |  | Tylko na komputerze |  |
 | **Integracja Profilu Gracza** |  | ❌ |  |
-| **Odkrywanie Graczy w Stylu Tinder** |  | ❌ | Różnie |
+| **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: automatic teammate finder
+On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
-Comparison based on publicly available features as of October 2026.
+Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 ## Find Your Game
 
@@ -134,8 +142,6 @@ Bez toksyczności
 Tworzone przez społeczność
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback)
-
-[Dołącz do naszego Discord](https://discord.gg/8UQhtRUvD5)
 
 ### Twoje sugestie, nasz priorytet
 

@@ -3,7 +3,7 @@ title: "Contact Jynx: Support, Security and Privacy Email Channels"
 description: "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too."
 canonical: "https://jynx.app/tr/contact.html"
 locale: "tr"
-dateModified: "2026-10-29"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -37,7 +37,7 @@ Personal-data requests, privacy questions, and law-enforcement inquiries go to o
 
 For day-to-day conversation, the community is faster than email.
 
-- [Discord](https://discord.gg/8UQhtRUvD5) — the Jynx community server: meet players, ask questions, and talk to the team.
+- [Discord](https://discord.gg/8UQhtRUvD5) — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.
 - [Instagram](https://www.instagram.com/jynx_app/) — news, updates, and clips from the Jynx team.
 - [TikTok](https://www.tiktok.com/@jynx.app) — short videos, community highlights, and features.
 - [X (Twitter)](https://twitter.com/Jynx_App) — announcements and quick answers.

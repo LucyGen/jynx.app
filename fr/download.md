@@ -3,7 +3,7 @@ title: "Télécharger Jynx - Plateforme Sociale Gaming"
 description: "Téléchargez Jynx - Connectez-vous avec des gamers, trouvez des coéquipiers, rejoignez des communautés. Disponible sur iOS, Android et le web."
 canonical: "https://jynx.app/fr/download.html"
 locale: "fr"
-dateModified: "2026-10-12"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -19,7 +19,7 @@ Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur i
 
 ## L'app compagnon pour gamers
 
-Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux Discord.
+Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux LFG.
 
 Noté 4,4 sur Google Play au Brésil (113 avis, 10K+ installations) · Nouveau sur l'App Store · à jour en octobre 2026.
 
@@ -80,8 +80,6 @@ Sans toxicité
 Propulsé par la communauté
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback)
-
-[Rejoignez notre Discord](https://discord.gg/8UQhtRUvD5)
 
 ### Vos suggestions, notre priorité
 

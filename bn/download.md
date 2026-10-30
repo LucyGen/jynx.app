@@ -3,7 +3,7 @@ title: "ডাউনলোড Jynx | আপনার ডিভাইসে গ�
 description: "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS, Android, and the web."
 canonical: "https://jynx.app/bn/download.html"
 locale: "bn"
-dateModified: "2026-10-12"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -19,7 +19,7 @@ Match with compatible teammates and duos for your games — free on iOS, Android
 
 ## The companion app for gamers
 
-Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling.
+Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling.
 
 Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ installs) · New on the App Store · as of অক্টোবর ২০২৬.
 
@@ -80,8 +80,6 @@ No. Jynx is available only through the official Apple App Store and Google Play 
 কমিউনিটি-চালিত
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback)
-
-[আমাদের ডিসকর্ডে যোগ দিন](https://discord.gg/8UQhtRUvD5)
 
 ### আপনার পরামর্শ, আমাদের অগ্রাধিকার
 

@@ -3,7 +3,7 @@ title: "আমাদের সম্পর্কে | Jynx - গেমিং স
 description: "জানুন কীভাবে Jynx সামাজিক সংযোগের মাধ্যমে গেমিংকে রূপান্তরিত করছে। আমাদের মিশন, দল এবং গেমারদের জন্য একটি প্রাণবন্ত কমিউনিটি তৈরির যাত্রা আবিষ্কার করুন।"
 canonical: "https://jynx.app/bn/about.html"
 locale: "bn"
-dateModified: "2026-10-16"
+dateModified: "2026-10-30"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

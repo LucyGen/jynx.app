@@ -119,7 +119,7 @@
     "community": {
       "title": "Community and Social",
       "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — the Jynx community server: meet players, ask questions, and talk to the team.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
       "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
       "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
       "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
@@ -1250,15 +1250,11 @@
   },
   "hero": {
     "title": "The Next-Gen Companion App for Gamers",
-    "subtitle": "ऐसे teammates खोजें जो आपकी style, skill level, और schedule से match करें",
-    "pre_launch_text": "अब अपनी कम्युनिटी में शामिल हों",
+    "deck": "MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.",
     "app_store_small": "Download करें",
     "app_store_large": "App Store",
     "play_store_small": "पाएं",
-    "play_store_large": "Google Play",
-    "cta_primary": "अपनी COMMUNITY में शामिल हों",
-    "title_primary": "स्मार्ट गेमिंग मैचमेकिंग प्लेटफॉर्म",
-    "tagline": "Where Gaming Gets Social"
+    "play_store_large": "Google Play"
   },
   "proof": {
     "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
@@ -1268,6 +1264,7 @@
     "title": "बेहतर खेलें, साथ में",
     "subtitle": "आधुनिक खिलाड़ियों के लिए डिज़ाइन किए गए intelligent gaming community tools",
     "description": "खालीपन में चिल्लाना बंद करो। Jynx सोलो गेमिंग को एक सोशल अनुभव में बदल देता है, गेमिंग प्राथमिकताओं, प्ले स्टाइल और शेड्यूल कम्पैटिबिलिटी के आधार पर टीममेट्स को बुद्धिमानी से जोड़कर",
+    "destination": "Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.",
     "cards": {
       "scheduling": {
         "title": "Intelligent Matchmaking",
@@ -1332,7 +1329,6 @@
   "collaborative": {
     "title": "उन गेमर्स ने बनाया जो किसी और के बनाने का इंतज़ार करते-करते थक गए।",
     "description": "Jynx इसलिए है क्योंकि पारंपरिक LFG टूटा हुआ है — और हमने इसे ठीक करने का फैसला किया। प्रॉफिट से नहीं, बल्कि रात 2 बजे Discord सर्वर्स में 'LFG' स्पैम करने की फ्रस्ट्रेशन से। तुम्हारा इनपुट सीधे तय करता है कि हम आगे क्या बनाएंगे।",
-    "discord": "हमारे Discord में शामिल हों",
     "ideas": "अपने Ideas शेयर करें"
   },
   "form": {
@@ -1365,7 +1361,6 @@
     "feedback": "आपका संदेश (वैकल्पिक)",
     "feedback_label": "आपका संदेश",
     "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
-    "discord": "हमारे Discord में शामिल हों",
     "yes": "हां",
     "no": "नहीं",
     "textarea": "हमें बताएं कि आप Jynx में क्या add या modify करना चाहते हैं",
@@ -1524,7 +1519,7 @@
     },
     "intro": {
       "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless Discord channel scrolling."
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
     },
     "install": {
       "title": "Get Jynx on iOS, Android, or the web",
@@ -1571,18 +1566,23 @@
     }
   },
   "comparison": {
-    "title": "गेमर्स के लिए बनाया, गेमर्स द्वारा",
+    "title": "The whole loop, in one app.",
+    "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
     "table": {
       "feature": "Feature",
       "lfg": "Traditional LFG",
-      "auto_finder": "Automatic Teammate Finder",
+      "match_to_voice": "Match → Voice Room in One Tap",
+      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
+      "screen_share": "Screen Sharing in Voice Rooms",
+      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "smart_team_builder": "Smart Team Builder",
       "elo_matching": "Skill-Based Matching (ELO)",
       "chat": "Real-Time Chat",
       "tournaments": "टूर्नामेंट आयोजन",
       "integration": "Player Profile Integration",
       "discovery": "Tinder-Style Player Discovery",
       "gaming_focused": "Gaming के लिए बनाया गया",
-      "game_session_matchmaking": "गेम सेशन मैचमेकिंग",
+      "game_session_matchmaking": "Game Sessions — schedule and organize play",
       "planned": "Planned",
       "game_apis": "गेम APIs",
       "community_search": "कम्युनिटी सर्च और डिस्कवरी",
@@ -1595,7 +1595,7 @@
       "limited": "सीमित",
       "manual_posts": "Manual posts",
       "basic": "Basic",
-      "servers": "Servers",
+      "servers": "Find a server first",
       "teams": "Teams",
       "advanced": "Advanced",
       "general": "General",
@@ -1603,8 +1603,8 @@
       "free_jynx_plus": "Free / Jynx+",
       "free_varies": "Free/अलग-अलग"
     },
-    "roadmap_note": "On the roadmap: automatic teammate finder",
-    "footnote": "Comparison based on publicly available features as of October 2026.",
+    "roadmap_note": "On the roadmap: Smart Team Builder — auto-formed, balanced teams",
+    "footnote": "Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
     "cta": {
       "title": "अंतर का अनुभव करने के लिए तैयार हैं?",
       "description": "दुनिया भर के गेमर्स से जुड़ें जो Jynx AI matchmaking के साथ अपने perfect squads पा रहे हैं",
