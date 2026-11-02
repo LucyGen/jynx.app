@@ -15,22 +15,22 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 **Version :** 1.6
 
-### Changes in Version 1.6 (October 24, 2026)
+### Modifications de la version 1.6 (24 octobre 2026)
 
-- Completes §12.3 with the designation of CM2C — Centre de la Médiation de la Consommation de Conciliateurs de Justice (Paris) — as Jynx's consumer mediation entity, and removes all references to the European Union ODR platform, which was discontinued on 20 July 2025.
-- Corrects §8.5: the loss of the EU 14-day withdrawal right for digital content now cites Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation; the Brazilian clause is rewritten so that the 7-day CDC Art. 49 right of repentance is preserved and can never be waived.
-- Clarifies the authentication methods (§3.2, §9.4): you create an account with an email address or via Google/Apple sign-in.
-- Adds §9.8 (Meta advertising attribution) and §15 (Creator/partner program bridging clause).
-- Ships French and Portuguese translations of the consumer-mediation, withdrawal, jurisdiction, and LiveKit clauses (previously English-only inside the translated pages).
+- Complète le §12.3 en désignant le CM2C (Centre de la Médiation de la Consommation de Conciliateurs de Justice, Paris) comme entité de médiation de la consommation de Jynx, et supprime toutes les références à la plateforme européenne de règlement en ligne des litiges (RLL), qui a été arrêtée le 20 juillet 2025.
+- Corrige le §8.5 : la perte du droit de rétractation de 14 jours de l'UE pour les contenus numériques cite désormais l'article 16, point m), de la directive relative aux droits des consommateurs et l'article L221-28, 13°, du Code de la consommation ; la clause brésilienne est réécrite pour que le droit de repentir de 7 jours de l'article 49 du CDC soit préservé et ne puisse jamais faire l'objet d'une renonciation.
+- Précise les modes d'authentification (§3.2, §9.4) : vous créez un compte avec une adresse e-mail ou via une connexion Google ou Apple.
+- Ajoute le §9.8 (attribution publicitaire Meta) et le §15 (clause de raccordement du programme créateurs et partenaires).
+- Livre les traductions française et portugaise des clauses de médiation de la consommation, de rétractation, de juridiction et LiveKit (auparavant uniquement en anglais dans les pages traduites).
 
-### Changes in Version 1.5 (September 16, 2026)
+### Modifications de la version 1.5 (16 septembre 2026)
 
-- Adds an "Automated Content Moderation" clause (§4.4) and a matching item in the §5.2 license making explicit that Jynx may scan user-uploaded images using automated machine learning (AWS Rekognition) for policy enforcement, cross-referenced to Privacy Policy §4.8.
-- Adds §9.7 AWS Rekognition to the Third-Party Services list.
+- Ajoute une clause de « modération automatisée des contenus » (§4.4) et un élément correspondant dans la licence du §5.2, précisant que Jynx peut analyser les images téléversées par les utilisateurs au moyen d'un apprentissage automatique (AWS Rekognition) pour faire respecter ses règles, avec renvoi au §4.8 de la Politique de confidentialité.
+- Ajoute le §9.7 AWS Rekognition à la liste des services tiers.
 
-### Changes in Version 1.4 (August 2026)
+### Modifications de la version 1.4 (août 2026)
 
-- Clarifies (§7) that enforcement for ban evasion may also apply at the device level, with the existing appeal process. Non-payment amendment: effective for all users on the Effective Date.
+- Précise (§7) que les sanctions pour contournement d'un bannissement peuvent aussi s'appliquer au niveau de l'appareil, avec la procédure de recours existante. Modification relative aux non-paiements : applicable à tous les utilisateurs à la date d'entrée en vigueur.
 
 ## 1. Introduction & Acceptation
 

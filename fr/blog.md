@@ -28,3 +28,14 @@ Conseils d'experts pour trouver des coéquipiers, construire des communautés et
 [![Petit groupe de joueurs soudé jouant ensemble](../assets/images/blog/featured/small-gaming-groups-vs-clans/hero-1200.webp)Communautés Gaming 28 octobre 2025Pourquoi les Petits Groupes Battent les Gros ClansDécouvrez pourquoi les petits groupes gaming de 8 à 15 joueurs battent régulièrement les clans de 100+ membres en coordination, fidélité et succès durable. La science derrière la taille optimale d'équipe. Jynx Team12 min de lecture](/fr/blog/petits-groupes-vs-clans.html)
 
 Page 1 of 1
+
+## Guides pratiques
+
+- [LFG : que veut dire LFG dans les jeux vidéo ?](/fr/blog/glossaire/) LFG signifie Looking For Group. Définition, origine, abréviations liées (LFM, LFT) et comment poster une annonce LFG efficace pour trouver des joueurs.
+- [Trouver des joueurs adultes (30 ans et plus) pour jouer sans prise de tête](/fr/blog/communaute/joueurs-adultes/) Comment trouver des joueurs adultes et sans prise de tête pour jouer le soir ? Critères, communautés et réflexes pour éviter les lobbies toxiques.
+- [Comment éviter les joueurs toxiques en ranked](/fr/blog/communaute/joueurs-toxiques/) Mute, signalement, choix du mode et du partenaire : 6 réflexes pour éviter les joueurs toxiques en ranked et protéger votre rang comme votre moral.
+- [MMR, Elo, SBMM et duo queue : le matchmaking compétitif expliqué](/fr/blog/guides-ranked/matchmaking-competitif/) MMR, Elo, LP, rang visible : quelle différence ? Guide clair du matchmaking compétitif avec exemples sur League of Legends, Valorant et Counter-Strike 2.
+- [Trouver des mates sérieux pour grimper en ranked](/fr/blog/guides-ranked/mates-serieux-ranked/) Comment trouver des mates sérieux pour grimper en ranked ? 5 critères pour choisir un partenaire de duo ou d'équipe qui fait vraiment progresser.
+- [Jouer avec des gens qui ont les mêmes horaires que vous](/fr/blog/communaute/memes-horaires/) Comment trouver des coéquipiers qui jouent aux mêmes heures que vous ? Méthode en 5 étapes et applis qui croisent les disponibilités avant de se contacter.
+- [Pourquoi votre rang ne monte pas en solo (et comment y remédier)](/fr/blog/guides-ranked/monter-en-ranked-solo/) Vous stagnez en ranked en solo ? 5 vraies raisons (SBMM, tilt, mauvaise pratique, taux de victoire) et une méthode pour reprendre la progression.
+- [Le SBMM, c'est quoi et pourquoi ça vous agace ?](/fr/blog/guides-ranked/sbmm/) SBMM : définition, jeux concernés et raisons de la polémique. Comprenez comment le matchmaking par niveau fonctionne et ce qui vous aide vraiment à jouer.

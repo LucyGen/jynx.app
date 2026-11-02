@@ -13,7 +13,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
-Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ installs) · New on the App Store · as of অক্টোবর ২০২৬.
+Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ installs) · New on the App Store · as of নভেম্বর ২০২৬.
 
 ## একসাথে, আরও ভালো গেম
 
@@ -56,7 +56,7 @@ THE PLAYER TYPES WE MATCH
 
 ৪.৪ out of 5 stars
 
-৪.৪ ১১৩ ratings on Google Play in ব্রাজিল as of অক্টোবর ২০২৬
+৪.৪ ১১৩ ratings on Google Play in ব্রাজিল as of নভেম্বর ২০২৬
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

@@ -13,7 +13,7 @@ MATCH. TALK. PLAY. — salas de voz e compartilhamento de tela onde a squad se f
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
-Nota 4,4 no Google Play no Brasil (113 avaliações, 10K+ instalações) · Novo na App Store · atualizado em outubro de 2026.
+Nota 4,4 no Google Play no Brasil (113 avaliações, 10K+ instalações) · Novo na App Store · atualizado em novembro de 2026.
 
 ## Jogue Melhor, Juntos
 
@@ -56,7 +56,7 @@ OS TIPOS DE JOGADOR QUE FAZEMOS MATCH
 
 4,4 de 5 estrelas
 
-4,4 113 avaliações no Google Play no Brasil atualizado em outubro de 2026
+4,4 113 avaliações no Google Play no Brasil atualizado em novembro de 2026
 
 [Ver todas as avaliações no Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

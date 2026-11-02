@@ -13,7 +13,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
-Rated ٤٫٤ on Google Play in البرازيل (١١٣ ratings, 10K+ installs) · New on the App Store · as of أكتوبر ٢٠٢٦.
+Rated ٤٫٤ on Google Play in البرازيل (١١٣ ratings, 10K+ installs) · New on the App Store · as of نوفمبر ٢٠٢٦.
 
 ## العب بشكل أفضل، معًا
 
@@ -56,7 +56,7 @@ THE PLAYER TYPES WE MATCH
 
 ٤٫٤ out of 5 stars
 
-٤٫٤ ١١٣ ratings on Google Play in البرازيل as of أكتوبر ٢٠٢٦
+٤٫٤ ١١٣ ratings on Google Play in البرازيل as of نوفمبر ٢٠٢٦
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

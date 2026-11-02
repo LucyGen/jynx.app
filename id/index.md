@@ -13,7 +13,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
-Rated 4,4 on Google Play in Brasil (113 ratings, 10K+ installs) · New on the App Store · as of Oktober 2026.
+Rated 4,4 on Google Play in Brasil (113 ratings, 10K+ installs) · New on the App Store · as of November 2026.
 
 ## Bermain Lebih Baik, Bersama
 
@@ -56,7 +56,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Brasil as of Oktober 2026
+4,4 113 ratings on Google Play in Brasil as of November 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

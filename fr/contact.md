@@ -27,7 +27,7 @@ Le canal principal. Accès au compte, rapports de bug, questions de facturation,
 
 Uniquement les vulnérabilités suspectées et les problèmes de sécurité. Lisez d'abord la politique de divulgation — elle précise ce qui est dans le périmètre et quoi inclure dans votre rapport : [security@jynx.app](mailto:security@jynx.app)
 
-La politique complète se trouve sur la page [Politique de divulgation des vulnérabilités](/security.html).
+La politique complète se trouve sur la page [Sécurité](/fr/securite/).
 
 ### Confidentialité et protection des données
 

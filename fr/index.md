@@ -13,7 +13,7 @@ MATCH. TALK. PLAY. — salons vocaux et partage d'écran là où la squad s'est 
 
 [Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero)
 
-Noté 4,4 sur Google Play au Brésil (113 avis, 10K+ installations) · Nouveau sur l'App Store · à jour en octobre 2026.
+Noté 4,4 sur Google Play au Brésil (113 avis, 10K+ installations) · Nouveau sur l'App Store · à jour en novembre 2026.
 
 ## Jouez Mieux, Ensemble
 
@@ -56,7 +56,7 @@ LES TYPES DE JOUEURS QUE NOUS MATCHONS
 
 4,4 sur 5 étoiles
 
-4,4 113 avis sur Google Play au Brésil au octobre 2026
+4,4 113 avis sur Google Play au Brésil au novembre 2026
 
 [Lire tous les avis sur Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -87,25 +87,28 @@ Comparaison en date d'octobre 2026. Discord et le LFG traditionnel reflètent le
 
 Duo finders et guides LFG pour vos jeux — trouvez votre équipe plus vite.
 
-- [GTA 6 OnlineThe launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.](/games/gta-6-online/duo-finder.html)
-- [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx matches crews on verified RP Rank, heist intent, voice, and session length before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
-- [Counter-Strike 2Match on the numbers that matter: Premier CS Rating and FACEIT level, plus AWPer, entry, or support role fit, voice intent, and map-pick overlap. Built for Wingman duos through 25,000-rated five-stacks.](/games/cs2/duo-finder.html)
-- [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.](/games/marvel-rivals/duo-finder.html)
-- [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.](/games/fortnite/duo-finder.html)
-- [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.](/games/rainbow-six-siege/duo-finder.html)
-
-[Tous les jeux](/games.html)
+- [Brawl StarsTrouvez des joueurs Brawl Stars pour former une équipe de trois ou rejoindre un club : mêmes modes, même niveau et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/brawl-stars/)
+- [Free FireTrouvez des joueurs Free Fire pour jouer en duo ou en escouade : même mode, même saison et mêmes horaires. Recrutez des coéquipiers compatibles avec Jynx.](/fr/trouver-des-joueurs/free-fire/)
+- [Honor of KingsTrouvez des joueurs Honor of Kings pour jouer en duo ou en équipe de cinq : rôles complémentaires, même niveau et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/honor-of-kings/)
+- [League of LegendsTrouvez des joueurs League of Legends pour la Solo/Duo ou la Flex : partenaire de votre rang, rôles complémentaires et rang vérifié via votre Riot ID sur Jynx.](/fr/trouver-des-joueurs/lol/)
+- [Marvel RivalsTrouvez des joueurs Marvel Rivals de votre rang pour jouer en duo ou en équipe. Compatibilité des rôles et des héros pour exploiter les Team-Up sur Jynx.](/fr/trouver-des-joueurs/marvel-rivals/)
+- [MinecraftTrouvez des joueurs Minecraft pour une survie entre amis, un serveur ou un Realm. Même édition, mêmes horaires, même style de jeu : rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/minecraft/)
+- [Mobile LegendsTrouvez des joueurs Mobile Legends pour monter en classé : escouade de cinq, duo, rôles complémentaires et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/mobile-legends/)
+- [Overwatch 2Trouvez des joueurs Overwatch 2 selon votre rôle : Tank, Dégâts ou Soutien. Rang par rôle vérifié, duo et équipe compatibles avec la file compétitive sur Jynx.](/fr/trouver-des-joueurs/overwatch-2/)
+- [RobloxTrouvez des joueurs Roblox pour explorer une expérience ensemble : mêmes jeux, même âge, mêmes horaires. Rencontrez des partenaires compatibles sur Jynx.](/fr/trouver-des-joueurs/roblox/)
+- [ValorantTrouvez des joueurs Valorant de votre rang : duo ranked, 5 stack ou team. Rang vérifié via votre Riot ID, matching par rôle et par intention de jeu sur Jynx.](/fr/trouver-des-joueurs/valorant/)
+- [Wild RiftTrouvez des joueurs Wild Rift pour grimper en duo ou en équipe : voie du Baron, du Dragon, mid, jungle et support. Rang lié à votre compte Riot sur Jynx.](/fr/trouver-des-joueurs/wild-rift/)
 
 ### Du Glossaire Gaming
 
-- [LFG](/glossary/lfg.html)
-- [duo queue](/glossary/duo-queue.html)
-- [smurf](/glossary/smurf.html)
-- [MMR](/glossary/mmr.html)
-- [Elo](/glossary/elo.html)
-- [rank](/glossary/rank.html)
+- [LFG](/fr/glossary.html#letter-L)
+- [duo queue](/fr/glossary.html#letter-D)
+- [smurf](/fr/glossary.html#letter-S)
+- [MMR](/fr/glossary.html#letter-M)
+- [Elo](/fr/glossary.html#letter-E)
+- [rank](/fr/glossary.html#letter-R)
 
-[Parcourir le glossaire](/glossary.html)
+[Parcourir le glossaire](/fr/glossary.html)
 
 ## DES QUESTIONS ?
 

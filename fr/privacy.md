@@ -13,29 +13,29 @@ Dernière mise à jour : 24 octobre 2026
 
 Version: 1.8
 
-### Changes in Version 1.8 (October 24, 2026)
+### Modifications de la version 1.8 (24 octobre 2026)
 
-- Adds §4.9 (advertising attribution: Meta App Events SDK, Apple App Tracking Transparency / IDFA, Google Play Install Referrer) with the matching identifiers in §3.
-- Adds §4.10 (creator/partner program: CPF/CNPJ identification; PayPal, Wise, and Pix payout rails) and §4.11 (AI features: avatar generation on Cloudflare Workers AI — inputs are quiz answers and play-style preferences only, never photos; companion messages enriched by Google Gemini with AI labeling).
-- Names Talsec (freeRASP) in §5.7 as the on-device library behind our device-integrity signals; findings reach us through our own monitoring, not a Talsec service.
-- Updates §3.1: adds a Discord-account-connection disclosure (integration, not a sign-in method) and describes guest browsing for when it becomes available; §10 adds a screen-sharing (when available) paragraph.
-- Rewrites the §9 LiveKit entry: LiveKit Cloud routes media globally under its Data Processing Addendum, which incorporates the EU standard contractual clauses; the general EU/EEA and Brazilian transfer guarantees now apply to LiveKit.
-- Rewrites the §8 breach-notification wording (GDPR Art. 33/34; LGPD Art. 48, including the 3-business-day deadline of ANPD Resolution CD/ANPD nº 15/2024).
-- Adds the LCEN publication details in §1 (directeur de la publication; hébergeur).
-- Ships French and Portuguese translations of every clause above and of previously untranslated paragraphs.
+- Ajoute le §4.9 (attribution publicitaire : SDK Meta App Events, Apple App Tracking Transparency / IDFA, Google Play Install Referrer) avec les identifiants correspondants au §3.
+- Ajoute le §4.10 (programme créateurs et partenaires : identification CPF/CNPJ ; moyens de versement PayPal, Wise et Pix) et le §4.11 (fonctions d'IA : génération d'avatars sur Cloudflare Workers AI, avec pour seules données d'entrée des réponses à un quiz et des préférences de style de jeu, jamais de photos ; messages d'accompagnement enrichis par Google Gemini avec mention d'étiquetage IA).
+- Nomme Talsec (freeRASP) au §5.7 comme bibliothèque embarquée à l'origine de nos signaux d'intégrité de l'appareil ; les constats nous parviennent par notre propre supervision et non par un service de Talsec.
+- Met à jour le §3.1 : ajoute une information sur la connexion d'un compte Discord (une intégration, pas un mode de connexion) et décrit la navigation en tant qu'invité lorsqu'elle sera disponible ; le §10 ajoute un paragraphe sur le partage d'écran (lorsqu'il sera disponible).
+- Réécrit l'entrée LiveKit du §9 : LiveKit Cloud achemine les flux médias dans le monde entier dans le cadre de son avenant de traitement des données (DPA), qui intègre les clauses contractuelles types de l'UE ; les garanties générales de transfert UE/EEE et Brésil s'appliquent désormais à LiveKit.
+- Réécrit la formulation de notification des violations de données du §8 (RGPD art. 33 et 34 ; LGPD art. 48, y compris le délai de 3 jours ouvrés de la résolution CD/ANPD n° 15/2024 de l'ANPD).
+- Ajoute au §1 les mentions de publication de la LCEN (directeur de la publication ; hébergeur).
+- Livre les traductions française et portugaise de chaque clause ci-dessus et de paragraphes jusqu'ici non traduits.
 
-### Changes in Version 1.5 (September 2026)
+### Modifications de la version 1.5 (septembre 2026)
 
-- Adds a child-safety disclosure (§5.8, §3.5, §4.7, §4.8): images shared in direct messages are analyzed by automated systems that compare irreversible hashes against databases of known child sexual abuse material; for this analysis the images themselves are never transmitted to third parties — only hashes are. Adds images shared in direct messages to §3.5, a category of specialized child-safety technology providers to §4.7, and the cloud image-moderation processing of profile pictures (machine-learning analysis by AWS) to §4.8.
-- Updates §10 (Cookies): the Jynx website now uses Google Analytics 4 with Consent Mode v2; analytics storage is denied by default and only enabled if you accept the cookie banner (your choice is stored locally on your device).
+- Ajoute une information sur la sécurité des mineurs (§5.8, §3.5, §4.7, §4.8) : les images partagées en messages privés sont analysées par des systèmes automatisés qui comparent des empreintes irréversibles à des bases de données de contenus pédocriminels connus ; pour cette analyse, les images elles-mêmes ne sont jamais transmises à des tiers, seules les empreintes le sont. Ajoute au §3.5 les images partagées en messages privés, au §4.7 une catégorie de prestataires spécialisés en sécurité de l'enfance, et au §4.8 le traitement de modération d'images dans le cloud pour les photos de profil (analyse par apprentissage automatique par AWS).
+- Met à jour le §10 (Cookies) : le site web de Jynx utilise désormais Google Analytics 4 avec Consent Mode v2 ; le stockage analytique est refusé par défaut et n'est activé que si vous acceptez la bannière de cookies (votre choix est enregistré localement sur votre appareil).
 
-### Changes in Version 1.6 (September 2026)
+### Modifications de la version 1.6 (septembre 2026)
 
-- Adds a website disclosure (§10): when you open an invitation link (jynx.app/invite/…) and tap the App Store download button, the site writes the invitation link into your clipboard so the app can attribute your install to the person who invited you. The website never reads your clipboard; the app reads it only once, after asking for your explicit consent at first launch.
+- Ajoute une information sur le site web (§10) : lorsque vous ouvrez un lien d'invitation (jynx.app/invite/…) et touchez le bouton de téléchargement App Store, le site écrit le lien d'invitation dans votre presse-papiers afin que l'application puisse attribuer votre installation à la personne qui vous a invité. Le site ne lit jamais votre presse-papiers ; l'application ne le lit qu'une seule fois, après avoir demandé votre consentement explicite au premier lancement.
 
-### Changes in Version 1.7 (September 2026)
+### Modifications de la version 1.7 (septembre 2026)
 
-- Extends the §10 referrals disclosure (new "Referrals and creator campaigns" paragraph): an invitation code may also credit a creator attribution campaign, and payout records for creator campaigns are kept in pseudonymous form. Nothing changes for invitees — the same data is collected as before, on the same legal basis.
+- Étend l'information sur le parrainage du §10 (nouveau paragraphe « Parrainage et campagnes de créateurs ») : un code d'invitation peut aussi créditer une campagne d'attribution d'un créateur, et les relevés de versement des campagnes de créateurs sont conservés sous forme pseudonymisée. Rien ne change pour les invités : les mêmes données sont collectées qu'auparavant, sur la même base légale.
 
 ## 1. Introduction
 
@@ -302,7 +302,7 @@ Les signaux d'intégrité de l'appareil sont collectés et évalués avec l'assi
 
 ### 5.8. Analyse d'images de protection de l'enfance
 
-Afin de contribuer à la protection des enfants et de respecter nos obligations légales de signalement, Jynx utilise des systèmes automatisés pour analyser les images partagées en messages privés en comparant les empreintes dérivées de ces images à des bases de matériel connu d'abus sexuels sur enfants. Pour cette analyse, les images elles-mêmes ne sont pas transmises à des tiers — seules les empreintes irréversibles le sont (voir §4.7). Les photos de profil sont filtrées séparément, par le traitement de modération d'images décrit au §4.8. Cette analyse existe uniquement pour la détection de protection de l'enfance et nos obligations légales de signalement ; elle n'est utilisée ni pour le profilage, ni pour la publicité, ni pour aucune autre finalité. Les correspondances sont traitées comme décrit dans notre [Politique de Protection de l'Enfance](/child-safety.html).
+Afin de contribuer à la protection des enfants et de respecter nos obligations légales de signalement, Jynx utilise des systèmes automatisés pour analyser les images partagées en messages privés en comparant les empreintes dérivées de ces images à des bases de matériel connu d'abus sexuels sur enfants. Pour cette analyse, les images elles-mêmes ne sont pas transmises à des tiers — seules les empreintes irréversibles le sont (voir §4.7). Les photos de profil sont filtrées séparément, par le traitement de modération d'images décrit au §4.8. Cette analyse existe uniquement pour la détection de protection de l'enfance et nos obligations légales de signalement ; elle n'est utilisée ni pour le profilage, ni pour la publicité, ni pour aucune autre finalité. Les correspondances sont traitées comme décrit dans notre [Sécurité des mineurs](/fr/securite-des-mineurs/).
 
 ## 6. Conservation des Données
 

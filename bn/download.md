@@ -21,7 +21,7 @@ Match with compatible teammates and duos for your games — free on iOS, Android
 
 Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling.
 
-Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ installs) · New on the App Store · as of অক্টোবর ২০২৬.
+Rated ৪.৪ on Google Play in ব্রাজিল (১১৩ ratings, 10K+ installs) · New on the App Store · as of নভেম্বর ২০২৬.
 
 ## Get Jynx on iOS, Android, or the web
 
