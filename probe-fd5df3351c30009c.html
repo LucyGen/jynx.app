@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The only network targets this page may reach are the two origins below (enforced by the browser, not just by the code):
+     the pilot box and the us-central1 baseline (see BASELINE_URL in the script). -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; connect-src https://pilot.jynx.app https://us-central1-jynx-games.cloudfunctions.net; style-src 'unsafe-inline'; script-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<title>Jynx - connection speed test</title>
+<style>
+  body { font: 16px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; margin: 0; padding: 1rem; max-width: 36rem; margin-inline: auto; color: #111; background: #fff; }
+  h1 { font-size: 1.3rem; margin: 0 0 .6rem; }
+  .langs { display: flex; gap: .5rem; margin-bottom: .8rem; }
+  .langs button { flex: 0 0 auto; padding: .35rem .8rem; font: inherit; border: 1px solid #888; background: #f4f4f4; border-radius: 6px; }
+  .langs button[aria-pressed="true"] { background: #111; color: #fff; border-color: #111; }
+  .privacy { background: #eef6ee; border: 1px solid #9c9; border-radius: 8px; padding: .7rem .8rem; font-size: .95rem; }
+  label { display: block; margin-top: 1rem; font-weight: 600; }
+  select { width: 100%; box-sizing: border-box; padding: .6rem; font: inherit; }
+  #go { display: block; width: 100%; margin-top: 1rem; padding: 1.1rem; font: inherit; font-size: 1.4rem; font-weight: 700; border: 0; border-radius: 10px; background: #1a56db; color: #fff; }
+  #go:disabled { background: #8aa; }
+  progress { width: 100%; height: 1.2rem; margin-top: .8rem; }
+  #status { margin: .5rem 0; font-weight: 600; }
+  #summary { white-space: pre-wrap; font-family: ui-monospace, Menlo, Consolas, monospace; font-size: .95rem; }
+  textarea { width: 100%; box-sizing: border-box; height: 11rem; font: .8rem/1.3 ui-monospace, Menlo, Consolas, monospace; }
+  #copy { display: block; width: 100%; margin-top: .6rem; padding: .9rem; font: inherit; font-size: 1.15rem; font-weight: 700; border: 2px solid #1a56db; border-radius: 10px; background: #fff; color: #1a56db; }
+  #copy:disabled { border-color: #aaa; color: #888; }
+  small { color: #444; display: block; margin-top: .6rem; }
+</style>
+</head>
+<body>
+<h1 id="t-title">Connection speed test</h1>
+<div class="langs">
+  <button id="lang-en" type="button" aria-pressed="true">English</button>
+  <button id="lang-pt" type="button" aria-pressed="false">Portugu&ecirc;s (BR)</button>
+</div>
+<p id="t-intro"></p>
+<div class="privacy"><strong id="t-privacy-h"></strong><br><span id="t-privacy"></span></div>
+
+<label for="link" id="t-link-label"></label>
+<select id="link">
+  <option value="unsure" id="o-unsure"></option>
+  <option value="mobile" id="o-mobile"></option>
+  <option value="wifi" id="o-wifi"></option>
+</select>
+
+<button id="go" type="button"></button>
+<progress id="bar" max="53" value="0"></progress>
+<div id="status" role="status" aria-live="polite"></div>
+<div id="summary"></div>
+
+<label for="result" id="t-result-label"></label>
+<textarea id="result" readonly spellcheck="false" autocomplete="off"></textarea>
+<button id="copy" type="button" disabled></button>
+<small id="t-contains"></small>
+
+<script>
+"use strict";
+
+// ===== BEGIN pure (percentile / summary / result block). No DOM, no network. probe.test.mjs slices this block out. =====
+// ---- BASELINE (single constant; S5 rubric M1 "same-device us-central1 baseline leg") --------------------------------------
+// The existing PUBLIC us-central1 Cloud Function `revenuecatWebhook` (onRequest, region us-central1, no IAM gate). A GET
+// is answered by the app's own code with `405 method not allowed` BEFORE any auth / Firestore / logging work
+// (functions/src/billing/revenuecat-webhook.ts handleWebhook step 1). It sends NO CORS headers, so it is fetched with
+// mode "no-cors": the response is opaque and its status can NOT be read from JS - not via fetch, and not via Resource
+// Timing either (its status field reads 0 for a cross-origin response that fails CORS, which this function does). So every
+// baseline sample is UNVERIFIED by construction; see oneRequest() for how the result stays honest about that.
+// To change the baseline, edit only this constant and the CSP connect-src in <head>.
+var BASELINE_URL = "https://us-central1-jynx-games.cloudfunctions.net/revenuecatWebhook";
+var BASE_LABEL = BASELINE_URL.replace(/^https:\/\//, "");
+// ---------------------------------------------------------------------------------------------------------------------
+// BEGIN percentile (same code as rtt-probe.html / rtt-probe.mjs so the numbers are comparable; probe.test.mjs checks it)
+function percentile(values, p) {
+  if (!Array.isArray(values) || values.length === 0) throw new RangeError("percentile of an empty sample");
+  if (!(p >= 0 && p <= 100)) throw new RangeError("p must be within 0..100");
+  var sorted = values.slice().sort(function (a, b) { return a - b; });
+  var rank = Math.max(1, Math.ceil((p / 100) * sorted.length));
+  return sorted[rank - 1];
+}
+// END percentile
+
+function round1(x) { return Math.round(x * 10) / 10; }
+function fmt1(x) { return round1(x).toFixed(1); }
+
+// {n, min, p50, p95, max} (ms, rounded to 0.1) or null for an empty sample.
+function summarize(samples) {
+  if (samples.length === 0) return null;
+  var min = samples[0], max = samples[0];
+  for (var i = 1; i < samples.length; i++) { if (samples[i] < min) min = samples[i]; if (samples[i] > max) max = samples[i]; }
+  return { n: samples.length, min: round1(min), p50: round1(percentile(samples, 50)), p95: round1(percentile(samples, 95)), max: round1(max) };
+}
+
+// FNV-1a 32-bit over the block body: catches truncation / hand edits / mangled pastes. NOT a security control (anyone can
+// recompute it): the kit trusts the tester for nothing, it only detects accidents.
+function checksum(text) {
+  var h = 0x811c9dc5;
+  for (var i = 0; i < text.length; i++) {
+    h ^= text.charCodeAt(i);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return ("00000000" + (h >>> 0).toString(16)).slice(-8);
+}
+
+// Browser family + OS only, never the full user-agent string.
+function detectFamily(ua) {
+  ua = String(ua || "");
+  var os = /Android/i.test(ua) ? "Android" : /iPhone|iPad|iPod/i.test(ua) ? "iOS" : /CrOS/.test(ua) ? "ChromeOS" :
+    /Windows/i.test(ua) ? "Windows" : /Mac OS X|Macintosh/i.test(ua) ? "macOS" : /Linux|X11/i.test(ua) ? "Linux" : "Other";
+  var br = /Edg(?:A|iOS)?\//.test(ua) ? "Edge" : /OPR\/|Opera/.test(ua) ? "Opera" : /SamsungBrowser\//.test(ua) ? "Samsung" :
+    /Firefox\/|FxiOS\//.test(ua) ? "Firefox" : /Chrome\/|CriOS\//.test(ua) ? "Chrome" : /Safari\//.test(ua) ? "Safari" : "Other";
+  return br + "/" + os;
+}
+
+// navigator.connection is Chromium-only: "<effectiveType>[/<type>]" or "unknown".
+function connectionLabel(nav) {
+  var c = nav && (nav.connection || nav.mozConnection || nav.webkitConnection);
+  if (!c) return "unknown";
+  var clean = function (v) { return typeof v === "string" && /^[a-z0-9-]{1,12}$/.test(v) ? v : ""; };
+  var eff = clean(c.effectiveType), type = clean(c.type);
+  if (eff && type) return eff + "/" + type;
+  return eff || type || "unknown";
+}
+
+// info: {at (ISO UTC, seconds), connection, family, link,
+//        box:  {samples (ms, sample order), failures},
+//        base: {samples, failures}}
+function statsLine(label, samples) {
+  var s = summarize(samples);
+  return label + (s ? " min=" + fmt1(s.min) + " p50=" + fmt1(s.p50) + " p95=" + fmt1(s.p95) + " max=" + fmt1(s.max) : " min=na p50=na p95=na max=na");
+}
+function buildBlock(info) {
+  var body = [
+    "JYNX-RTT v2",
+    "at=" + info.at,
+    "host=pilot.jynx.app base=" + BASE_LABEL,
+    "n=" + info.box.samples.length + " fail=" + info.box.failures + " bn=" + info.base.samples.length + " bfail=" + info.base.failures,
+    statsLine("box", info.box.samples),
+    statsLine("base", info.base.samples),
+    "net=" + info.connection + " link=" + info.link,
+    "ua=" + info.family,
+    "s=" + (info.box.samples.length ? info.box.samples.map(fmt1).join(",") : "-"),
+    "b=" + (info.base.samples.length ? info.base.samples.map(fmt1).join(",") : "-")
+  ].join("\n");
+  return body + "\nchk=" + checksum(body);
+}
+// ===== END pure =====
+
+var HOST_URL = "https://pilot.jynx.app/rtt";
+var N = 50;
+var WARMUP = 3;
+var TIMEOUT_MS = 5000;
+var GAP_MS = 100;
+var WAKE_ATTEMPTS = 3;
+var WAKE_TIMEOUT_MS = 20000;
+
+var STR = {
+  en: {
+    title: "Connection speed test",
+    intro: "This takes about one minute. Tap the blue button, keep this page open, and wait until it says Done. Then tap \"Copy result\" and paste it into your reply.",
+    privacyH: "Privacy",
+    privacy: "This page only measures how long requests to two of our servers take: a test server and, for comparison, one of our existing app servers on Google Cloud. No account, no login, no cookies, no storage. Like any website visit, the servers necessarily see your IP address. The test server is set up not to keep an access log and not to record these test requests; the app server, like our other app servers on Google Cloud, may keep its standard request log (which can include your IP address).",
+    linkLabel: "How are you connected right now?",
+    unsure: "Not sure", mobile: "Mobile data", wifi: "Wi-Fi",
+    go: "Start test", copy: "Copy result",
+    resultLabel: "Result (this is what gets copied):",
+    contains: "The result text contains only: date/time (UTC), the timings of both servers, your connection type, and your browser and system name (for example Chrome/Android). Nothing else.",
+    idle: "Ready.",
+    waking: "Warming up the comparison server (this can take up to a minute)...",
+    running: "Testing... round {i} of {total}",
+    done: "Done. Now tap \"Copy result\".",
+    nothing: "No request to the test server got through. Check your connection and try again; you can still copy the result below.",
+    copied: "Copied. Paste it into your reply.",
+    manual: "Select the text above and copy it manually.",
+    crash: "Unexpected error. Please reload the page and try again.",
+    sumBox: "Test server: ok {n}, failed {fail}\n  fastest {min} ms, median {p50} ms, 95% under {p95} ms, slowest {max} ms",
+    sumBase: "Comparison server: ok {n}, failed {fail}\n  fastest {min} ms, median {p50} ms, 95% under {p95} ms, slowest {max} ms",
+    sumNone: "{who}: ok 0, failed {fail}",
+    whoBox: "Test server", whoBase: "Comparison server"
+  },
+  pt: {
+    title: "Teste de velocidade da conex\u00e3o",
+    intro: "Leva cerca de um minuto. Toque no bot\u00e3o azul, mantenha esta p\u00e1gina aberta e espere aparecer Conclu\u00eddo. Depois toque em \"Copiar resultado\" e cole na sua resposta.",
+    privacyH: "Privacidade",
+    privacy: "Esta p\u00e1gina apenas mede quanto tempo levam requisi\u00e7\u00f5es a dois dos nossos servidores: um servidor de teste e, para compara\u00e7\u00e3o, um dos nossos servidores de aplicativo j\u00e1 existentes no Google Cloud. Sem conta, sem login, sem cookies, sem armazenamento. Como em qualquer visita a um site, os servidores necessariamente veem o seu endere\u00e7o IP. O servidor de teste est\u00e1 configurado para n\u00e3o guardar registro de acesso nem registrar essas requisi\u00e7\u00f5es de teste; o servidor de aplicativo, como os nossos outros servidores de aplicativo no Google Cloud, pode manter o seu registro padr\u00e3o de requisi\u00e7\u00f5es (que pode incluir o seu endere\u00e7o IP).",
+    linkLabel: "Como voc\u00ea est\u00e1 conectado agora?",
+    unsure: "N\u00e3o sei", mobile: "Dados m\u00f3veis", wifi: "Wi-Fi",
+    go: "Iniciar teste", copy: "Copiar resultado",
+    resultLabel: "Resultado (\u00e9 isto que ser\u00e1 copiado):",
+    contains: "O texto do resultado cont\u00e9m apenas: data/hora (UTC), os tempos medidos nos dois servidores, o tipo da sua conex\u00e3o e o nome do seu navegador e sistema (por exemplo Chrome/Android). Mais nada.",
+    idle: "Pronto.",
+    waking: "Aquecendo o servidor de compara\u00e7\u00e3o (pode levar at\u00e9 um minuto)...",
+    running: "Testando... rodada {i} de {total}",
+    done: "Conclu\u00eddo. Agora toque em \"Copiar resultado\".",
+    nothing: "Nenhuma requisi\u00e7\u00e3o ao servidor de teste passou. Verifique sua conex\u00e3o e tente de novo; voc\u00ea ainda pode copiar o resultado abaixo.",
+    copied: "Copiado. Cole na sua resposta.",
+    manual: "Selecione o texto acima e copie manualmente.",
+    crash: "Erro inesperado. Recarregue a p\u00e1gina e tente de novo.",
+    sumBox: "Servidor de teste: ok {n}, falhas {fail}\n  mais r\u00e1pida {min} ms, mediana {p50} ms, 95% abaixo de {p95} ms, mais lenta {max} ms",
+    sumBase: "Servidor de compara\u00e7\u00e3o: ok {n}, falhas {fail}\n  mais r\u00e1pida {min} ms, mediana {p50} ms, 95% abaixo de {p95} ms, mais lenta {max} ms",
+    sumNone: "{who}: ok 0, falhas {fail}",
+    whoBox: "Servidor de teste", whoBase: "Servidor de compara\u00e7\u00e3o"
+  }
+};
+
+var lang = (typeof navigator !== "undefined" && /^pt/i.test(navigator.language || "")) ? "pt" : "en";
+var statusKey = "idle";
+var statusParams = {};
+var summaryParts = []; // [{key, params}]
+
+function el(id) { return document.getElementById(id); }
+function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+function T(key, params) {
+  var s = STR[lang][key];
+  Object.keys(params || {}).forEach(function (k) { s = s.split("{" + k + "}").join(String(params[k])); });
+  return s;
+}
+function summaryText() { return summaryParts.map(function (p) { return T(p.key, p.params); }).join("\n"); }
+
+function render() {
+  document.documentElement.lang = lang === "pt" ? "pt-BR" : "en";
+  el("t-title").textContent = T("title");
+  el("t-intro").textContent = T("intro");
+  el("t-privacy-h").textContent = T("privacyH");
+  el("t-privacy").textContent = T("privacy");
+  el("t-link-label").textContent = T("linkLabel");
+  el("o-unsure").textContent = T("unsure");
+  el("o-mobile").textContent = T("mobile");
+  el("o-wifi").textContent = T("wifi");
+  el("go").textContent = T("go");
+  el("copy").textContent = T("copy");
+  el("t-result-label").textContent = T("resultLabel");
+  el("t-contains").textContent = T("contains");
+  el("status").textContent = T(statusKey, statusParams);
+  el("summary").textContent = summaryText();
+  el("lang-en").setAttribute("aria-pressed", lang === "en" ? "true" : "false");
+  el("lang-pt").setAttribute("aria-pressed", lang === "pt" ? "true" : "false");
+}
+
+function setStatus(key, params) { statusKey = key; statusParams = params || {}; el("status").textContent = T(statusKey, statusParams); }
+
+// One request. kind "box": mode "cors" (/rtt sends access-control-allow-origin: *, verified live 2026-10-29), ONLY a 204
+// counts. kind "base": mode "no-cors" (revenuecatWebhook sends no CORS headers) => OPAQUE response, `res.status` is 0 and
+// there is no way to read it, so the validity rule is weaker and DIFFERENT: a baseline sample counts if the fetch RESOLVED
+// (a network error, DNS/TLS failure or the 5 s timeout rejects => failure). A resolved opaque response could be an error
+// page from a failed Google edge (502/503/429) - a FAST wrong sample. Nothing in the browser can tell it apart, so the
+// page does not pretend to: it reports the raw samples, and the READER applies the plausibility floor (parse-result.mjs
+// `b_below_floor`: a true Brazil -> us-central1 round trip cannot be below ~50 ms, an edge-served error page can). The residual
+// bias is toward a LOWER baseline, i.e. an UNDERSTATED delta (INSTRUCTIONS.md section 4 has the rule).
+async function oneRequest(kind, i) {
+  var url = kind === "box" ? HOST_URL : BASELINE_URL;
+  var target = url + "?r=" + Date.now() + "-" + i + "-" + Math.random().toString(36).slice(2, 8);
+  var timer = null;
+  var started = performance.now();
+  try {
+    var ctl = new AbortController();
+    timer = setTimeout(function () { ctl.abort(); }, TIMEOUT_MS);
+    var res = await fetch(target, { cache: "no-store", mode: kind === "box" ? "cors" : "no-cors", credentials: "omit", signal: ctl.signal });
+    clearTimeout(timer);
+    var elapsed = performance.now() - started;
+    if (kind === "box") return { ok: res.status === 204, ms: elapsed };
+    return { ok: true, ms: elapsed };
+  } catch (e) {
+    clearTimeout(timer);
+    return { ok: false, ms: 0 };
+  }
+}
+
+// The baseline function scales to zero: the first request can take 15+ s (cold start, measured 17.7 s from the VPS
+// 2026-10-29). Before measuring, poke it up to WAKE_ATTEMPTS times with a long timeout until one answers. Not recorded.
+async function wakeBaseline() {
+  for (var a = 0; a < WAKE_ATTEMPTS; a++) {
+    var timer = null;
+    try {
+      var ctl = new AbortController();
+      timer = setTimeout(function () { ctl.abort(); }, WAKE_TIMEOUT_MS);
+      await fetch(BASELINE_URL + "?r=wake-" + Date.now() + "-" + a, { cache: "no-store", mode: "no-cors", credentials: "omit", signal: ctl.signal });
+      clearTimeout(timer);
+      return;
+    } catch (e) { clearTimeout(timer); }
+  }
+}
+
+// WARMUP + N INTERLEAVED rounds; each round = one box request and one baseline request, the leg that goes first alternates
+// every round, with GAP_MS between ALL requests - so drift (radio state, congestion) hits both legs alike. Warm-up rounds
+// are discarded. Same n / warm-up / spacing / timeout / percentile code as the single-leg probe.
+async function runProbe() {
+  var box = { samples: [], failures: 0 };
+  var base = { samples: [], failures: 0 };
+  var rounds = WARMUP + N;
+  for (var i = 0; i < rounds; i++) {
+    var order = i % 2 === 0 ? ["box", "base"] : ["base", "box"];
+    for (var k = 0; k < 2; k++) {
+      var kind = order[k];
+      var r = await oneRequest(kind, i);
+      if (i >= WARMUP) {
+        var leg = kind === "box" ? box : base;
+        if (r.ok) leg.samples.push(r.ms); else leg.failures++;
+      }
+      await sleep(GAP_MS);
+    }
+    el("bar").value = i + 1;
+    setStatus("running", { i: i + 1, total: rounds });
+  }
+  return { box: box, base: base };
+}
+
+function legSummary(who, leg) {
+  var s = summarize(leg.samples);
+  if (!s) return { key: "sumNone", params: { who: T(who), fail: leg.failures } };
+  return { key: who === "whoBox" ? "sumBox" : "sumBase", params: { n: s.n, fail: leg.failures, min: s.min.toFixed(1), p50: s.p50.toFixed(1), p95: s.p95.toFixed(1), max: s.max.toFixed(1) } };
+}
+
+async function onGo() {
+  var go = el("go");
+  go.disabled = true;
+  el("copy").disabled = true;
+  el("result").value = "";
+  summaryParts = [];
+  el("summary").textContent = "";
+  el("bar").value = 0;
+  try {
+    setStatus("waking");
+    await wakeBaseline();
+    var r = await runProbe();
+    var iso = new Date().toISOString().replace(/\.\d{3}Z$/, "Z");
+    var link = el("link").value;
+    if (link !== "wifi" && link !== "mobile") link = "unsure";
+    el("result").value = buildBlock({ at: iso, box: r.box, base: r.base, connection: connectionLabel(navigator), family: detectFamily(navigator.userAgent), link: link });
+    summaryParts = [legSummary("whoBox", r.box), legSummary("whoBase", r.base)];
+    el("summary").textContent = summaryText();
+    setStatus(r.box.samples.length ? "done" : "nothing");
+    el("copy").disabled = false;
+  } catch (e) {
+    setStatus("crash");
+  } finally {
+    go.disabled = false;
+  }
+}
+
+async function onCopy() {
+  var ta = el("result");
+  if (!ta.value) return;
+  try {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      await navigator.clipboard.writeText(ta.value);
+      setStatus("copied");
+      return;
+    }
+  } catch (e) { /* fall through to the select-all fallback */ }
+  try {
+    ta.focus();
+    ta.select();
+    if (ta.setSelectionRange) ta.setSelectionRange(0, ta.value.length);
+    var ok = document.execCommand && document.execCommand("copy");
+    setStatus(ok ? "copied" : "manual");
+  } catch (e) {
+    setStatus("manual");
+  }
+}
+
+el("lang-en").addEventListener("click", function () { lang = "en"; render(); });
+el("lang-pt").addEventListener("click", function () { lang = "pt"; render(); });
+el("go").addEventListener("click", onGo);
+el("copy").addEventListener("click", onCopy);
+el("result").addEventListener("focus", function () { var ta = el("result"); if (ta.select) ta.select(); });
+el("result").addEventListener("click", function () { var ta = el("result"); if (ta.select) ta.select(); });
+render();
+</script>
+</body>
+</html>
