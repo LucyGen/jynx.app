@@ -62,7 +62,7 @@ If in doubt about whether a specific test is acceptable, ask us at [security@jyn
 The following surfaces are in scope:
 
 - **The Jynx mobile apps** — Android and iOS, current released version.
-- **The Jynx web app** — [web.jynx.app](https://web.jynx.app).
+- **The Jynx web app** — [web.jynx.app](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=nav_cta).
 - **The Jynx backend** — our Cloud Functions API, database security rules, and file storage rules, insofar as they can be exercised from a normal client.
 - **This website** — [jynx.app](https://jynx.app).
 
