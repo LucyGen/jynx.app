@@ -719,14 +719,16 @@
           "title": "انتهاكات الخصوصية:",
           "li1": "مشاركة معلومات المستخدمين الخاصة دون موافقة (الكشف عن المعلومات)",
           "li2": "أخذ لقطات شاشة أو مشاركة محادثات خاصة دون إذن",
-          "li3": "جمع أو حصاد بيانات المستخدم دون تفويض"
+          "li3": "جمع أو حصاد بيانات المستخدم دون تفويض",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "انتهاكات المحتوى:",
           "li1": "نشر محتوى ينتهك إرشادات المجتمع",
           "li2": "مشاركة محتوى عنيف أو رسومي أو مزعج",
           "li3": "نشر محتوى يتعلق بالقصر بأي صفة",
-          "li4": "توزيع مواد محمية بحقوق النشر دون إذن"
+          "li4": "توزيع مواد محمية بحقوق النشر دون إذن",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "التلاعب بالمنصة:",

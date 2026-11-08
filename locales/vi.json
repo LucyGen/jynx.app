@@ -731,14 +731,16 @@
           "title": "Vi Phạm Quyền Riêng Tư:",
           "li1": "Chia sẻ thông tin riêng tư của người dùng khác mà không có sự đồng ý (doxxing)",
           "li2": "Chụp màn hình hoặc chia sẻ cuộc trò chuyện riêng tư mà không có sự cho phép",
-          "li3": "Thu thập hoặc thu hoạch dữ liệu người dùng mà không có ủy quyền"
+          "li3": "Thu thập hoặc thu hoạch dữ liệu người dùng mà không có ủy quyền",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Vi Phạm Nội Dung:",
           "li1": "Đăng nội dung vi phạm Hướng dẫn Cộng đồng của chúng tôi",
           "li2": "Chia sẻ nội dung bạo lực, đồ họa hoặc gây rối",
           "li3": "Đăng nội dung liên quan đến trẻ vị thành niên dưới bất kỳ dạng nào",
-          "li4": "Phân phối tài liệu có bản quyền mà không có sự cho phép"
+          "li4": "Phân phối tài liệu có bản quyền mà không có sự cho phép",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Thao Túng Nền Tảng:",

@@ -11,9 +11,14 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 **Cập Nhật Lần Cuối:** October 24, 2026
 
-**Effective Date:** October 24, 2026
+**Effective Date:** November 8, 2026
 
-**Phiên bản:** 1.6
+**Phiên bản:** 1.7
+
+### Changes in Version 1.7 (November 8, 2026)
+
+- Adds a screen-sharing clause (§4.2): all conduct prohibitions extend fully to what is visible on your shared screen, and recording, capturing, or redistributing another member's shared screen without their consent is prohibited. Pairs with the screen-sharing paragraph added to the Privacy Policy in version 1.8.
+- Ships French and Portuguese translations of the new clauses.
 
 ### Changes in Version 1.6 (October 24, 2026)
 
@@ -161,6 +166,7 @@ Khi sử dụng Jynx, bạn đồng ý KHÔNG:
 - Chia sẻ thông tin riêng tư của người dùng khác mà không có sự đồng ý (doxxing)
 - Chụp màn hình hoặc chia sẻ cuộc trò chuyện riêng tư mà không có sự cho phép
 - Thu thập hoặc thu hoạch dữ liệu người dùng mà không có ủy quyền
+- Record, capture, or redistribute another member's shared screen without their consent
 
 #### Vi Phạm Nội Dung:
 
@@ -168,6 +174,7 @@ Khi sử dụng Jynx, bạn đồng ý KHÔNG:
 - Chia sẻ nội dung bạo lực, đồ họa hoặc gây rối
 - Đăng nội dung liên quan đến trẻ vị thành niên dưới bất kỳ dạng nào
 - Phân phối tài liệu có bản quyền mà không có sự cho phép
+- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
 
 #### Thao Túng Nền Tảng:
 

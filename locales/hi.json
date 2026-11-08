@@ -731,14 +731,16 @@
           "title": "Privacy Violations:",
           "li1": "Consent के बिना अन्य users की private information share करना (doxxing)",
           "li2": "Permission के बिना private conversations को screenshot या share करना",
-          "li3": "Authorization के बिना user data collect या harvest करना"
+          "li3": "Authorization के बिना user data collect या harvest करना",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Content Violations:",
           "li1": "हमारी Community Guidelines का उल्लंघन करने वाली content post करना",
           "li2": "Violent, graphic, या disturbing content share करना",
           "li3": "किसी भी capacity में minors को involve करने वाली content post करना",
-          "li4": "Permission के बिना copyrighted material distribute करना"
+          "li4": "Permission के बिना copyrighted material distribute करना",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Platform Manipulation:",

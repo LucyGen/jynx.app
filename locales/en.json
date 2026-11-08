@@ -731,14 +731,16 @@
           "title": "Privacy Violations:",
           "li1": "Share other users' private information without consent (doxxing)",
           "li2": "Screenshot or share private conversations without permission",
-          "li3": "Collect or harvest user data without authorization"
+          "li3": "Collect or harvest user data without authorization",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Content Violations:",
           "li1": "Post content that violates our Community Guidelines",
           "li2": "Share violent, graphic, or disturbing content",
           "li3": "Post content involving minors in any capacity",
-          "li4": "Distribute copyrighted material without permission"
+          "li4": "Distribute copyrighted material without permission",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Platform Manipulation:",

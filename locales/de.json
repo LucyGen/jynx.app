@@ -731,14 +731,17 @@
           "title": "Datenschutzverletzungen:",
           "li1": "Private Informationen anderer Nutzer ohne Zustimmung zu teilen (Doxxing)",
           "li2": "Private Gespräche ohne Erlaubnis als Screenshot zu teilen",
-          "li3": "Nutzerdaten ohne Autorisierung zu sammeln oder zu ernten"
+          "li3": "Nutzerdaten ohne Autorisierung zu sammeln oder zu ernten",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Inhaltsverstöße:",
           "li1": "Inhalte zu posten, die gegen unsere Community-Richtlinien verstoßen",
           "li2": "Gewalttätige, grafische oder verstörende Inhalte zu teilen",
           "li3": "Inhalte zu posten, die in irgendeiner Weise Minderjährige betreffen",
-          "li4": "Urheberrechtlich geschütztes Material ohne Erlaubnis zu verbreiten"
+          "li4": "Urheberrechtlich geschütztes Material ohne Erlaubnis zu verbreiten",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Plattform-Manipulation:",

@@ -731,14 +731,16 @@
           "title": "Pelanggaran Privasi:",
           "li1": "Berbagi informasi pribadi pengguna lain tanpa persetujuan (doxxing)",
           "li2": "Tangkapan layar atau berbagi percakapan pribadi tanpa izin",
-          "li3": "Mengumpulkan atau memanen data pengguna tanpa otorisasi"
+          "li3": "Mengumpulkan atau memanen data pengguna tanpa otorisasi",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Pelanggaran Konten:",
           "li1": "Memposting konten yang melanggar Pedoman Komunitas kami",
           "li2": "Berbagi konten kekerasan, grafis, atau mengganggu",
           "li3": "Memposting konten yang melibatkan anak di bawah umur dalam kapasitas apa pun",
-          "li4": "Mendistribusikan materi berhak cipta tanpa izin"
+          "li4": "Mendistribusikan materi berhak cipta tanpa izin",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Manipulasi Platform:",

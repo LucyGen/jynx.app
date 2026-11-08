@@ -731,14 +731,16 @@
           "title": "개인정보 침해:",
           "li1": "동의 없이 다른 사용자의 개인 정보 공유(독싱)",
           "li2": "허가 없이 비공개 대화를 스크린샷하거나 공유",
-          "li3": "승인 없이 사용자 데이터를 수집하거나 수확"
+          "li3": "승인 없이 사용자 데이터를 수집하거나 수확",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "콘텐츠 위반:",
           "li1": "커뮤니티 가이드라인을 위반하는 콘텐츠 게시",
           "li2": "폭력적이거나 그래픽적이거나 불쾌한 콘텐츠 공유",
           "li3": "어떤 형태로든 미성년자와 관련된 콘텐츠 게시",
-          "li4": "허가 없이 저작권이 있는 자료 배포"
+          "li4": "허가 없이 저작권이 있는 자료 배포",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "플랫폼 조작:",

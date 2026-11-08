@@ -731,14 +731,16 @@
           "title": "Violations de Confidentialité :",
           "li1": "Partager les informations privées d'autres utilisateurs sans consentement (doxxing)",
           "li2": "Capturer ou partager des conversations privées sans permission",
-          "li3": "Collecter ou récolter des données utilisateurs sans autorisation"
+          "li3": "Collecter ou récolter des données utilisateurs sans autorisation",
+          "li4": "Enregistrer, capturer ou rediffuser l'écran partagé d'un autre membre sans son consentement"
         },
         "content_violations": {
           "title": "Violations de Contenu :",
           "li1": "Publier du contenu violant nos Directives Communautaires",
           "li2": "Partager du contenu violent, graphique ou perturbant",
           "li3": "Publier du contenu impliquant des mineurs de quelque manière que ce soit",
-          "li4": "Distribuer du matériel protégé par droit d'auteur sans permission"
+          "li4": "Distribuer du matériel protégé par droit d'auteur sans permission",
+          "li5": "Utiliser le partage d'écran pour diffuser un contenu qui enfreint les présentes Conditions — toutes les interdictions de cette section s'appliquent pleinement à ce qui est visible sur votre écran partagé"
         },
         "manipulation": {
           "title": "Manipulation de la Plateforme :",

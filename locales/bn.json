@@ -731,14 +731,16 @@
           "title": "গোপনীয়তা লঙ্ঘন:",
           "li1": "সম্মতি ছাড়াই অন্য ব্যবহারকারীদের ব্যক্তিগত তথ্য ভাগ করা (ডক্সিং)",
           "li2": "অনুমতি ছাড়াই ব্যক্তিগত কথোপকথনের স্ক্রিনশট বা ভাগ করা",
-          "li3": "অনুমোদন ছাড়াই ব্যবহারকারীর ডেটা সংগ্রহ বা হার্ভেস্ট করা"
+          "li3": "অনুমোদন ছাড়াই ব্যবহারকারীর ডেটা সংগ্রহ বা হার্ভেস্ট করা",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "বিষয়বস্তু লঙ্ঘন:",
           "li1": "আমাদের কমিউনিটি নির্দেশিকা লঙ্ঘন করে এমন বিষয়বস্তু পোস্ট করা",
           "li2": "সহিংস, গ্রাফিক বা বিরক্তিকর বিষয়বস্তু ভাগ করা",
           "li3": "যেকোনো ক্ষমতায় নাবালকদের জড়িত বিষয়বস্তু পোস্ট করা",
-          "li4": "অনুমতি ছাড়াই কপিরাইট সামগ্রী বিতরণ করা"
+          "li4": "অনুমতি ছাড়াই কপিরাইট সামগ্রী বিতরণ করা",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "প্ল্যাটফর্ম ম্যানিপুলেশন:",

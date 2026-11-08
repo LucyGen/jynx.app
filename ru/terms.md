@@ -11,9 +11,14 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 **Последнее обновление:** October 24, 2026
 
-**Effective Date:** October 24, 2026
+**Effective Date:** November 8, 2026
 
-**Версия:** 1.6
+**Версия:** 1.7
+
+### Changes in Version 1.7 (November 8, 2026)
+
+- Adds a screen-sharing clause (§4.2): all conduct prohibitions extend fully to what is visible on your shared screen, and recording, capturing, or redistributing another member's shared screen without their consent is prohibited. Pairs with the screen-sharing paragraph added to the Privacy Policy in version 1.8.
+- Ships French and Portuguese translations of the new clauses.
 
 ### Changes in Version 1.6 (October 24, 2026)
 
@@ -161,6 +166,7 @@ Jynx — это платформа, управляемая сообщество�
 - Делиться личной информацией других пользователей без согласия (доксинг)
 - Делать скриншоты или делиться личными разговорами без разрешения
 - Собирать или собирать данные пользователей без разрешения
+- Record, capture, or redistribute another member's shared screen without their consent
 
 #### Нарушения контента:
 
@@ -168,6 +174,7 @@ Jynx — это платформа, управляемая сообщество�
 - Делиться насильственным, графическим или тревожным контентом
 - Публиковать контент с участием несовершеннолетних в любом качестве
 - Распространять материалы, защищенные авторским правом, без разрешения
+- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
 
 #### Манипулирование платформой:
 

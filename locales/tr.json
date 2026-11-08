@@ -731,14 +731,16 @@
           "title": "Gizlilik İhlalleri:",
           "li1": "Diğer kullanıcıların özel bilgilerini izinleri olmadan paylaşmak (doxxing)",
           "li2": "Özel konuşmaları izinsiz ekran görüntüsü almak veya paylaşmak",
-          "li3": "Yetki olmadan kullanıcı verileri toplamak veya toplamak"
+          "li3": "Yetki olmadan kullanıcı verileri toplamak veya toplamak",
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "İçerik İhlalleri:",
           "li1": "Topluluk Kılavuzlarımızı ihlal eden içerik yayınlamak",
           "li2": "Şiddet içeren, grafik veya rahatsız edici içerik paylaşmak",
           "li3": "Küçükleri içeren içerik yayınlamak",
-          "li4": "Telif hakkıyla korunan materyalleri izinsiz dağıtmak"
+          "li4": "Telif hakkıyla korunan materyalleri izinsiz dağıtmak",
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Platform Manipülasyonu:",

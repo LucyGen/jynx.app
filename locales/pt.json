@@ -731,14 +731,16 @@
           "title": "Violações de Privacidade:",
           "li1": "Compartilhar informações privadas de outros usuários sem consentimento (doxxing)",
           "li2": "Capturar tela ou compartilhar conversas privadas sem permissão",
-          "li3": "Coletar ou colher dados de usuários sem autorização"
+          "li3": "Coletar ou colher dados de usuários sem autorização",
+          "li4": "Gravar, capturar ou redistribuir a tela compartilhada de outro membro sem o seu consentimento"
         },
         "content_violations": {
           "title": "Violações de Conteúdo:",
           "li1": "Postar conteúdo que viole nossas Diretrizes da Comunidade",
           "li2": "Compartilhar conteúdo violento, gráfico ou perturbador",
           "li3": "Postar conteúdo envolvendo menores em qualquer capacidade",
-          "li4": "Distribuir material protegido por direitos autorais sem permissão"
+          "li4": "Distribuir material protegido por direitos autorais sem permissão",
+          "li5": "Usar o compartilhamento de tela para transmitir conteúdo que viole estes Termos — todas as proibições desta seção se aplicam integralmente ao que estiver visível na sua tela compartilhada"
         },
         "manipulation": {
           "title": "Manipulação da Plataforma:",
