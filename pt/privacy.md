@@ -3,15 +3,21 @@ title: "Política de Privacidade"
 description: "Saiba como Jynx protege sua privacidade e lida com seus dados. Nossa política de privacidade transparente descreve nossas práticas e seus direitos."
 canonical: "https://jynx.app/pt/privacy.html"
 locale: "pt"
-dateModified: "2026-10-24"
+dateModified: "2026-11-10"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Política de Privacidade
 
-Última atualização: 24 de outubro de 2026
+Última atualização: 10 de novembro de 2026
 
-Version: 1.8
+Version: 1.9
+
+### Changes in Version 1.9 (November 10, 2026)
+
+- Extends §4.9 (Meta) with ad measurement: conversion events shared with Meta now include sign-up, onboarding completed, and purchases with their amount and currency; consent-only hashed contact identifiers; the self-declared gender field on the registration event; Meta's Business Tools retention; and the never-sold commitment.
+- Adds §5.9 Advertising Measurement: the legal bases (your consent everywhere; on Android, alternatively our legitimate interest with a visible off switch in the first-launch sheet and in Settings > Privacy > Ad measurement), the minors safeguard, withdrawal, and the Apple SKAdNetwork disclosure (anonymous, aggregated attribution; applies even when tracking or ad measurement is declined).
+- Updates §3.3, §7.6 (withdraw consent), §9 (Meta transfer leg under LGPD Art. 33) and §13 (legal bases) accordingly.
 
 ### Changes in Version 1.8 (October 24, 2026)
 
@@ -132,6 +138,8 @@ Coletamos automaticamente certos dados técnicos:
 
 Você pode desabilitar a coleta de dados de analytics em Configurações > Privacidade > "Habilitar Analytics".
 
+A medição de anúncios com a Meta é separada das análises e tem sua própria chave: veja a §5.9.
+
 ### 3.4. Dados de Comunicação
 
 - **Mensagens:** Mensagens em chats de comunidade, mensagens privadas entre usuários, histórico de conversação
@@ -227,6 +235,10 @@ Para medir se as instalações do nosso aplicativo resultam do nosso marketing, 
 
 A Meta Platforms Ireland processa esses dados como nossa operadora (processadora) para a finalidade de atribuição acima; a Meta Platforms, Inc. pode ainda atuar como controladora independente para seus próprios fins legítimos, nos termos próprios dela (condições de tratamento de dados da Meta e a política de privacidade dela: https://www.facebook.com/privacy/policy). As transferências para os Estados Unidos baseiam-se no EU-US Data Privacy Framework para entidades Meta autodeclaradas ou em cláusulas contratuais-padrão (§9). Você pode recusar ou revogar a permissão ATT, ou redefinir o seu identificador publicitário, a qualquer momento nas configurações do seu dispositivo; a recusa não afeta o seu uso do Jynx.
 
+**Medição de anúncios.** Além da atribuição de instalações, também medimos conversões: os eventos compartilhados com a Meta incluem cadastro (registro), conclusão do onboarding e compras — com o valor e a moeda da compra. Se você consentiu, um endereço de e-mail ou número de telefone com hash (tornado irreversível) também pode ser compartilhado para melhorar a qualidade da correspondência; isso nunca ocorre para usuários medidos com base no nosso interesse legítimo (abaixo). O evento de cadastro (registro) também pode incluir o seu gênero autodeclarado. Nada mais é compartilhado — nenhuma mensagem, campo de perfil, jogo, comunidade, contato, localização ou foto — e seus dados nunca são vendidos. As bases legais, suas escolhas e a divulgação do SKAdNetwork da Apple estão descritas na §5.9.
+
+Retenção: o Jynx não mantém cópia separada dos eventos compartilhados com a Meta. Eventos já compartilhados permanecem sujeitos aos processos de retenção e exclusão das Ferramentas Empresariais da Meta, que se aplicam desde o momento do compartilhamento.
+
 ### 4.10. Programa de Criadores (parceiros) — KYC e pagamentos
 
 Se você aderir ao programa Jynx Criadores (parceiros), tratamos as informações de identidade, tributárias e de pagamento exigidas pelo programa: o seu CPF ou CNPJ (validado no aplicativo), o meio de pagamento que você escolhe — PayPal (identificado por e-mail), transferência Wise (Brasil) ou chave Pix — e seus registros de desempenho de campanha (cadastros atribuídos; ver §10 indicações). Os registros de pagamento são mantidos de forma pseudonimizada (§10). O programa é regido pelos Termos de Indicação para Criadores e o Mandato de Autofaturamento versionados que você aceita ao aderir (ver Termos de Serviço §15).
@@ -304,6 +316,16 @@ Os sinais de integridade do dispositivo são coletados e avaliados com a assist�
 
 Para ajudar a proteger crianças e cumprir nossos deveres legais de denúncia, a Jynx utiliza sistemas automatizados para analisar as imagens compartilhadas em mensagens diretas, comparando hashes derivados dessas imagens com bancos de dados de material conhecido de abuso sexual infantil. Para essa análise, as imagens em si não são transmitidas a terceiros — apenas hashes irreversíveis o são (ver §4.7). As fotos de perfil são triadas separadamente, pelo processamento de moderação de imagens descrito no §4.8. Essa análise existe exclusivamente para a detecção voltada à proteção infantil e para nossos deveres legais de denúncia; ela não é usada para criação de perfis, publicidade ou qualquer outra finalidade. As correspondências são tratadas conforme descrito em nossa [Política de Proteção Infantil](/child-safety.html).
 
+### 5.9. Medição de anúncios
+
+Se você aceitar, também compartilhamos eventos limitados (como cadastro e compras, com o valor) com a Meta para medir e melhorar nossa publicidade. Seus dados nunca são vendidos, e você pode mudar sua escolha a qualquer momento nas configurações de privacidade. O que é compartilhado, e com quem, está listado na §4.9.
+
+Como é ativada. No iPhone e no iPad, a medição de anúncios usa seus dados apenas com o seu consentimento (RGPD art. 6(1)(a); LGPD art. 7, I), dado na folha de privacidade do primeiro lançamento ou depois em Configurações > Privacidade > Medição de anúncios, e exige adicionalmente a autorização de Rastreamento de App da Apple (App Tracking Transparency, veja a §4.9). No Android, a medição de anúncios se baseia nesse mesmo consentimento ou, para os usuários a quem a chave de medição de anúncios é exibida ativada por padrão na folha do primeiro lançamento, no nosso interesse legítimo de medir nossa publicidade (LGPD art. 7, IX e art. 10), avaliado em uma Avaliação de Interesse Legítimo documentada. Nesse caso, ela vem ativada por padrão, e você pode desativá-la na própria folha ou a qualquer momento em Configurações > Privacidade > Medição de anúncios — opor-se é tão fácil quanto mantê-la ativada, sem custo, e nunca exige excluir sua conta (LGPD art. 18, §2).
+
+Salvaguardas. Usuários que sabemos ter menos de 18 anos, e perfis cuja idade não está estabelecida, nunca são medidos com base no interesse legítimo. Retirar o consentimento ou opor-se interrompe novos compartilhamentos a partir do próximo lançamento do aplicativo; eventos legitimamente compartilhados antes disso permanecem na Meta segundo os termos de retenção da §4.9, e a retirada não afeta a licitude do que foi feito antes (RGPD art. 7(3); LGPD art. 8 §5).
+
+**SKAdNetwork da Apple (iOS).** Independente do acima, e para todo usuário de iPhone e iPad independentemente de qualquer escolha ou configuração — inclusive quando o rastreamento ou a medição de anúncios é recusado — o SKAdNetwork da Apple informa à rede de anúncios que lhe exibiu um anúncio dados de conversão anônimos e agregados (por exemplo, que um cadastro ou uma compra em determinada faixa de valor ocorreu). Nenhum identificador do Jynx e nenhum dado pessoal sai do seu dispositivo para isso: é o mecanismo padrão de atribuição da Apple, e não podemos identificá-lo por meio dele.
+
 ## 6. Retenção de Dados
 
 ### 6.1. Períodos de Retenção
@@ -373,6 +395,7 @@ Você pode se opor ao processamento de seus dados para fins de marketing direto.
 Você pode retirar seu consentimento para:
 
 - **Analytics:** Configurações > Privacidade > Desabilitar "Habilitar Analytics"
+- **Medição de anúncios:** Configurações > Privacidade > Medição de anúncios (veja a §5.9)
 - **Notificações Push:** Configurações do dispositivo
 - **Comunicações de Marketing:** Newsletter, atualizações de produto, reengajamento e pesquisas de desinstalação/churn — revogáveis por meio do cancelamento de inscrição com um clique, da alternância de preferências de comunicação no aplicativo ou de dpo@jynx.app, sem precisar encerrar sua conta
 
@@ -409,6 +432,7 @@ Seus dados podem ser transferidos e armazenados em servidores localizados fora d
 - **Sentry:** Servidores baseados nos EUA com conformidade Privacy Shield
 - **Provedor de Serviços de Email (ESP):** Utilizado para entregar as comunicações de marketing, reengajamento e pesquisas descritas em §5.6. O ESP é identificado em §4.4 e atua como operador sob um Acordo de Tratamento de Dados assinado
 - **LiveKit (voz em tempo real e compartilhamento de tela, quando disponível):** O LiveKit Cloud é o nosso operador (processador) para mídia em tempo real (e, quando o recurso estiver disponível, compartilhamento de tela) mediante um Acordo de Tratamento de Dados assinado (§4.5). O LiveKit Cloud roteia a mídia globalmente: as sessões são atendidas pela infraestrutura global do LiveKit, sem fixação em uma região específica. O áudio das salas de voz (e o vídeo do compartilhamento de tela, quando disponível) é roteado em tempo real e não é gravado, armazenado nem mantido pelo Jynx ou pelo LiveKit; o LiveKit retém apenas os metadados operacionais de sessão descritos na §4.5. As transferências de dados pessoais para o LiveKit baseiam-se no adendo de tratamento de dados do LiveKit, que incorpora os termos do RGPD e as cláusulas contratuais-padrão da Comissão Europeia para transferências internacionais, em conjunto com as garantias gerais abaixo, que se aplicam ao LiveKit como aos nossos demais operadores.
+- **Meta (atribuição e medição de anúncios):** O compartilhamento descrito nas §4.9 e §5.9 é transmitido à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., que os processa nos Estados Unidos e em outros países. As transferências da UE/EEE baseiam-se no EU-US Data Privacy Framework para as entidades Meta certificadas ou em cláusulas contratuais padrão, conforme descrito na §4.9. Para os usuários no Brasil, a transferência é feita ao abrigo do art. 33 da LGPD com base nas garantias contratuais das Ferramentas Empresariais da Meta, em linha com as garantias gerais acima.
 
 **Garantias (GDPR, UE/EEE).** Todas as transferências a partir da UE/EEE são cobertas por uma decisão de adequação, pelo Data Privacy Framework UE-EUA ou por cláusulas contratuais padrão, juntamente com medidas suplementares quando exigidas.
 
@@ -465,6 +489,7 @@ Tratamos seus dados pessoais somente quando temos uma base legal. As bases legai
 - Obrigação legal (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retenção para finalidades legais (§6)
 - Obrigação legal e interesses legítimos (GDPR Art. 6(1)(c) e 6(1)(f); LGPD Art. 7, II e IX) — detecção de conteúdo ilegal e violador de políticas, incluindo a análise de imagens para proteção infantil descrita no §5.8 e o processamento de moderação de imagens do §4.8, prevenção a abusos e evasão de banimento (§5.7) e cumprimento de deveres legais de denúncia. Para a análise de imagens compartilhadas em mensagens diretas, a Jynx também se apoia na detecção voluntária de abuso sexual infantil on-line permitida pelo Regulamento (UE) 2021/1232 (derrogação ao ePrivacy, vigente conforme aplicável).
 - Consentimento (GDPR Art. 6(1)(a); LGPD Art. 7, I e Art. 8) — analytics que você tenha habilitado, notificações push e (para usuários da UE/EEE e, no caso do Brasil, para envios de prospecção, abordagem a frio ou venda cruzada) comunicações de marketing conforme §5.6
+- Medição de anúncios (§5.9): seu consentimento (RGPD art. 6(1)(a); LGPD art. 7, I e art. 8) quando você a ativou; no Android, alternativamente, nosso interesse legítimo (LGPD art. 7, IX e art. 10) para os usuários a quem a chave de medição de anúncios é exibida ativada por padrão, com seu direito de oposição a qualquer momento
 - Voice-room audio is processed on the basis of your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) when you grant microphone permission and explicitly join a room (see §3.6); you may withdraw it at any time by leaving the room or by revoking microphone permission in your device settings.
 
 **O consentimento deve ser específico e informado.** Quando nos apoiamos no seu consentimento, ele é dado por um ato afirmativo claro, refere-se a finalidades especificadas e é capturado separadamente da sua aceitação destes termos (LGPD Art. 8 §1 — cláusula destacada). Autorizações genéricas ou agrupadas são nulas nos termos do LGPD Art. 8 §4 e inválidas nos termos do GDPR Art. 4(11) e Art. 7. Usar o Jynx não constitui, por si só, consentimento para marketing. O ônus de comprovar a validade do consentimento é do Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); por isso, registramos a data, a versão do formulário, o idioma e o escopo de cada consentimento que coletamos.

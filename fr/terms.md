@@ -3,17 +3,22 @@ title: "Conditions d'Utilisation"
 description: "Consultez les Conditions d'Utilisation de Jynx. Ces conditions définissent vos droits et responsabilités lors de l'utilisation de notre plateforme communautaire gaming."
 canonical: "https://jynx.app/fr/terms.html"
 locale: "fr"
-dateModified: "2026-10-24"
+dateModified: "2026-11-10"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Conditions d'Utilisation - Jynx
 
-**Dernière Mise à Jour :** October 24, 2026
+**Dernière Mise à Jour :** November 10, 2026
 
-**Effective Date:** November 8, 2026
+**Effective Date:** November 10, 2026
 
-**Version :** 1.7
+**Version :** 1.8
+
+### Changes in Version 1.8 (November 10, 2026)
+
+- Extends §9.8 (Meta) with ad measurement: the conversion events shared (sign-up, purchases with amount), the legal bases (consent; on Android alternatively legitimate interest with a visible off switch), the withdrawal path (Settings > Privacy > Ad measurement), and the Apple SKAdNetwork note, cross-referencing Privacy Policy §5.9.
+- Privacy Policy updated to version 1.9 in the same change.
 
 ### Changes in Version 1.7 (November 8, 2026)
 
@@ -566,6 +571,8 @@ Jynx utilise Amazon Web Services (AWS) Rekognition pour analyser les images de p
 ### 9.8. Meta (attribution publicitaire)
 
 Nous utilisons le SDK Meta (Facebook) App Events pour mesurer si les installations de notre application proviennent de notre marketing ; sur les appareils Apple, le SDK n'est initialisé qu'après votre autorisation de suivi (App Tracking Transparency). Meta Platforms Ireland traite les métadonnées d'événements d'application qui en résultent selon les instructions documentées de Jynx, en qualité de sous-traitant à des fins d'attribution et de mesure de campagne ; Meta Platforms, Inc. peut en outre agir en qualité de responsable de traitement indépendant pour ses propres finalités légitimes, selon ses propres conditions. Les données traitées, les conditions de consentement et les mécanismes de transfert applicables sont décrits aux sections §4.9 et §9 de la Politique de Confidentialité.
+
+Si vous acceptez, Jynx partage également des événements de conversion limités (tels que l'inscription et les achats, avec leur montant) avec Meta pour mesurer et améliorer nos publicités. Vos données ne sont jamais vendues. Sur iPhone et iPad, cela requiert votre consentement (RGPD art. 6(1)(a) ; LGPD art. 7, I). Sur Android, la mesure repose soit sur ce consentement, soit, lorsque l'interrupteur de mesure publicitaire vous est présenté activé par défaut, sur l'intérêt légitime de Jynx (LGPD art. 7, IX et art. 10). Vous pouvez modifier votre choix à tout moment dans les paramètres de confidentialité : Paramètres > Confidentialité > Mesure publicitaire. Les détails, y compris le SKAdNetwork d'Apple (qui s'applique à tout utilisateur iOS, même lorsque le suivi ou la mesure publicitaire est refusé), sont décrits dans la politique de confidentialité §5.9.
 
 ## 10. Dénis de Responsabilité & Limitation de Responsabilité
 

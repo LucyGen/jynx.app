@@ -3,17 +3,22 @@ title: "شروط الخدمة"
 description: "اقرأ شروط الخدمة الخاصة بـ Jynx. توضح هذه الشروط حقوقك ومسؤولياتك عند استخدام منصة مجتمع الألعاب الخاصة بنا."
 canonical: "https://jynx.app/ar/terms.html"
 locale: "ar"
-dateModified: "2026-10-24"
+dateModified: "2026-11-10"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # شروط الخدمة - Jynx
 
-**آخر تحديث:** October 24, 2026
+**آخر تحديث:** November 10, 2026
 
-**Effective Date:** November 8, 2026
+**Effective Date:** November 10, 2026
 
-**الإصدار:** 1.7
+**الإصدار:** 1.8
+
+### Changes in Version 1.8 (November 10, 2026)
+
+- Extends §9.8 (Meta) with ad measurement: the conversion events shared (sign-up, purchases with amount), the legal bases (consent; on Android alternatively legitimate interest with a visible off switch), the withdrawal path (Settings > Privacy > Ad measurement), and the Apple SKAdNetwork note, cross-referencing Privacy Policy §5.9.
+- Privacy Policy updated to version 1.9 in the same change.
 
 ### Changes in Version 1.7 (November 8, 2026)
 
@@ -566,6 +571,8 @@ Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile im
 ### 9.8. Meta (Advertising Attribution)
 
 We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+
+If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
 
 ## 10. إخلاء المسؤولية وتحديد المسؤولية
 
