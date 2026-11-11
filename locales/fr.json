@@ -79,7 +79,7 @@
     },
     "cta": {
       "title": "Rejoignez la Communauté Jynx",
-      "description": "Trouvez votre squad gaming idéale — Jynx est disponible sur iOS, Android et le web."
+      "description": "Trouvez votre squad gaming idéale — Jynx est disponible sur iOS, Android, Windows et le web."
     }
   },
   "contact": {
@@ -1438,7 +1438,9 @@
     "menu_toggle": "Basculer le menu de navigation",
     "theme_toggle": "Basculer le mode sombre",
     "language_selector": "Sélectionner la langue",
-    "close_modal": "Fermer la modale"
+    "close_modal": "Fermer la modale",
+    "ms_store_badge_aria": "Téléchargez Jynx sur le Microsoft Store",
+    "ms_store_badge_alt": "Badge de téléchargement du Microsoft Store"
   },
   "breadcrumb": {
     "home": "Accueil",
@@ -1534,7 +1536,7 @@
       "title_line2": "Plateforme Sociale de Gaming",
       "h1_line1": "Téléchargez Jynx",
       "h1_line2": "L'appli LFG gratuite pour trouver des coéquipiers de jeu",
-      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android et le web.",
+      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android, Windows et le web.",
       "web_cta": "Ou jouez directement sur le web"
     },
     "store": {
@@ -1600,8 +1602,8 @@
       "description": "Jynx est l'application compagnon nouvelle génération pour gamers — une app LFG gratuite qui vous met en relation avec des coéquipiers compatibles selon votre jeu, votre rang et votre style de jeu, sans scroller des heures dans les canaux LFG."
     },
     "install": {
-      "title": "Jynx sur iOS, Android ou le web",
-      "subtitle": "Jynx est disponible sur les deux stores d'apps et dans votre navigateur — choisissez votre plateforme et commencez à matcher en quelques minutes.",
+      "title": "Jynx sur iOS, Android, Windows ou le web",
+      "subtitle": "Jynx est disponible sur les trois stores d'apps et dans votre navigateur — choisissez votre plateforme et commencez à matcher en quelques minutes.",
       "ios": {
         "title": "Trouvez des coéquipiers sur iOS",
         "description": "Téléchargez l'appli pour trouver des coéquipiers de jeu sur l'App Store et jouez avec des joueurs proches de votre niveau. Nécessite iOS 13.0 ou ultérieur."
@@ -1609,6 +1611,10 @@
       "android": {
         "title": "Trouvez votre duo sur Android",
         "description": "Installez l'appli de recherche de duo sur Google Play et rencontrez des amis gamers en quelques minutes. Nécessite Android 8.0 ou ultérieur."
+      },
+      "windows": {
+        "title": "Trouvez des coéquipiers sur Windows",
+        "description": "Récupérez l'appli de recherche de duo sur le Microsoft Store et rencontrez des amis gamers en quelques minutes."
       },
       "web": {
         "title": "Jouez sur le web",
@@ -1627,7 +1633,7 @@
       "cta_button": "Écrivez-nous",
       "devices": {
         "q": "Sur quels appareils Jynx est-il disponible ?",
-        "a": "Jynx est disponible sur iOS, Android et le web — la même app dans votre navigateur sur web.jynx.app."
+        "a": "Jynx est disponible sur iOS, Android, Windows et le web — la même app dans votre navigateur sur web.jynx.app."
       },
       "how": {
         "q": "Comment télécharger Jynx ?",

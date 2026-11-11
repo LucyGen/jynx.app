@@ -79,7 +79,7 @@
     },
     "cta": {
       "title": "Jynx কমিউনিটিতে যোগ দিন",
-      "description": "Find your perfect gaming squad — Jynx is live on iOS, Android and web."
+      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web."
     }
   },
   "contact": {
@@ -1438,7 +1438,9 @@
     "language_selector": "ভাষা নির্বাচক",
     "close_modal": "মোডাল বন্ধ করুন",
     "menu_toggle": "নেভিগেশন মেনু টগল করুন",
-    "theme_toggle": "ডার্ক মোড টগল করুন"
+    "theme_toggle": "ডার্ক মোড টগল করুন",
+    "ms_store_badge_aria": "Download Jynx on the Microsoft Store",
+    "ms_store_badge_alt": "Microsoft Store download badge"
   },
   "breadcrumb": {
     "home": "হোম",
@@ -1474,7 +1476,7 @@
       "title_line2": "গেমিং সোশ্যাল প্ল্যাটফর্ম",
       "h1_line1": "Download Jynx",
       "h1_line2": "The Free LFG App for Gaming Teammates",
-      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, and the web.",
+      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web.",
       "web_cta": "Or play instantly on the web"
     },
     "features": {
@@ -1540,8 +1542,8 @@
       "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
     },
     "install": {
-      "title": "Get Jynx on iOS, Android, or the web",
-      "subtitle": "Jynx is live on both app stores and in your browser — pick your platform and start matching in minutes.",
+      "title": "Get Jynx on iOS, Android, Windows, or the web",
+      "subtitle": "Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.",
       "ios": {
         "title": "Find teammates on iOS",
         "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
@@ -1554,6 +1556,10 @@
         "title": "Play on the web",
         "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
         "cta": "Play on the web"
+      },
+      "windows": {
+        "title": "Find teammates on Windows",
+        "description": "Get the duo finder app from the Microsoft Store and meet gaming friends in minutes."
       }
     },
     "free": {
@@ -1567,7 +1573,7 @@
       "cta_button": "Ask us",
       "devices": {
         "q": "What devices is Jynx available on?",
-        "a": "Jynx is available on iOS, Android, and the web — the same app in your browser at web.jynx.app."
+        "a": "Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app."
       },
       "how": {
         "q": "How do I download Jynx?",

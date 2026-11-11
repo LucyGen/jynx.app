@@ -3,7 +3,7 @@ title: "Sobre Nós"
 description: "Saiba mais sobre Jynx, a plataforma de comunidade gaming que transforma gaming solo em uma experiência social."
 canonical: "https://jynx.app/pt/about.html"
 locale: "pt"
-dateModified: "2026-10-30"
+dateModified: "2026-11-11"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -66,6 +66,6 @@ Bora jogar!
 
 ### Junte-se à Comunidade Jynx
 
-Encontre sua squad gamer ideal — o Jynx está no ar no iOS, Android e na web.
+Encontre sua squad gamer ideal — o Jynx está disponível no iOS, Android, Windows e na web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout)
+[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

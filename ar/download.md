@@ -3,7 +3,7 @@ title: "تنزيل Jynx - منصة الألعاب الاجتماعية"
 description: "نزّل Jynx - تواصل مع اللاعبين، ابحث عن زملاء الفريق، انضم إلى المجتمعات. متاح على iOS و Android والويب."
 canonical: "https://jynx.app/ar/download.html"
 locale: "ar"
-dateModified: "2026-10-30"
+dateModified: "2026-11-11"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -11,9 +11,9 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # Download Jynx The Free LFG App for Gaming Teammates
 
-Match with compatible teammates and duos for your games — free on iOS, Android, and the web.
+Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-hero&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-hero) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-hero)
+[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-hero&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-hero) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-hero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download)
 
 [Or play instantly on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-hero)
 
@@ -23,9 +23,9 @@ Jynx is the next-gen companion app for gamers — a free LFG app that matches yo
 
 Rated ٤٫٤ on Google Play in البرازيل (١١٣ ratings, 10K+ installs) · New on the App Store · as of نوفمبر ٢٠٢٦.
 
-## Get Jynx on iOS, Android, or the web
+## Get Jynx on iOS, Android, Windows, or the web
 
-Jynx is live on both app stores and in your browser — pick your platform and start matching in minutes.
+Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.
 
 ### Find teammates on iOS
 
@@ -45,6 +45,12 @@ Open the Jynx web app in your browser and start matching right away — no downl
 
 [Play on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-web)
 
+### Find teammates on Windows
+
+Get the duo finder app from the Microsoft Store and meet gaming friends in minutes.
+
+[![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-windows)
+
 ## A free LFG app — free forever, no catch
 
 Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo.
@@ -59,7 +65,7 @@ Still have questions?
 
 ### What devices is Jynx available on?
 
-Jynx is available on iOS, Android, and the web — the same app in your browser at web.jynx.app.
+Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app.
 
 ### How do I download Jynx?
 
@@ -79,7 +85,7 @@ No. Jynx is available only through the official Apple App Store and Google Play 
 
 مدفوع بالمجتمع
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback)
+[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-feedback)
 
 ### اقتراحاتك، أولويتنا
 

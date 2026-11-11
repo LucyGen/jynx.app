@@ -79,7 +79,7 @@
     },
     "cta": {
       "title": "Junte-se à Comunidade Jynx",
-      "description": "Encontre sua squad gamer ideal — o Jynx está no ar no iOS, Android e na web."
+      "description": "Encontre sua squad gamer ideal — o Jynx está disponível no iOS, Android, Windows e na web."
     }
   },
   "contact": {
@@ -1438,7 +1438,9 @@
     "menu_toggle": "Alternar menu de navegação",
     "theme_toggle": "Alternar modo escuro",
     "language_selector": "Selecionar idioma",
-    "close_modal": "Fechar modal"
+    "close_modal": "Fechar modal",
+    "ms_store_badge_aria": "Baixe o Jynx na Microsoft Store",
+    "ms_store_badge_alt": "Selo de download da Microsoft Store"
   },
   "breadcrumb": {
     "home": "Início",
@@ -1534,7 +1536,7 @@
       "title_line2": "Plataforma Social de Gaming",
       "h1_line1": "Baixe o Jynx",
       "h1_line2": "O app de LFG grátis para achar teammates",
-      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS, Android e na web.",
+      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS, Android, Windows e na web.",
       "web_cta": "Ou jogue direto na web"
     },
     "store": {
@@ -1600,8 +1602,8 @@
       "description": "O Jynx é o app companheiro de nova geração para gamers — um app LFG gratuito que dá match com teammates compatíveis por jogo, rank e estilo de jogo, em vez de rolar canais de LFG sem fim."
     },
     "install": {
-      "title": "Jynx no iOS, Android ou na web",
-      "subtitle": "O Jynx está nas duas lojas de apps e no seu navegador — escolha sua plataforma e comece a dar match em minutos.",
+      "title": "Jynx no iOS, Android, Windows ou na web",
+      "subtitle": "O Jynx está disponível nas três lojas de apps e no seu navegador — escolha sua plataforma e comece a dar match em minutos.",
       "ios": {
         "title": "Ache teammates no iOS",
         "description": "Baixe o app para achar teammates de jogos na App Store e jogue com pessoas perto do seu nível. Requer iOS 13.0 ou posterior."
@@ -1609,6 +1611,10 @@
       "android": {
         "title": "Ache o seu duo no Android",
         "description": "Baixe o app para achar duo no Google Play e faça amigos gamers em minutos. Requer Android 8.0 ou posterior."
+      },
+      "windows": {
+        "title": "Ache o seu duo no Windows",
+        "description": "Baixe o app para achar duo na Microsoft Store e faça amigos gamers em minutos."
       },
       "web": {
         "title": "Jogue na web",
@@ -1627,7 +1633,7 @@
       "cta_button": "Pergunte para a gente",
       "devices": {
         "q": "Em quais dispositivos o Jynx está disponível?",
-        "a": "O Jynx está disponível no iOS, Android e na web — o mesmo app no seu navegador em web.jynx.app."
+        "a": "O Jynx está disponível no iOS, Android, Windows e na web — o mesmo app no seu navegador em web.jynx.app."
       },
       "how": {
         "q": "Como baixar o Jynx?",

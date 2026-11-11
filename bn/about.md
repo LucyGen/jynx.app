@@ -3,7 +3,7 @@ title: "আমাদের সম্পর্কে | Jynx - গেমিং স
 description: "জানুন কীভাবে Jynx সামাজিক সংযোগের মাধ্যমে গেমিংকে রূপান্তরিত করছে। আমাদের মিশন, দল এবং গেমারদের জন্য একটি প্রাণবন্ত কমিউনিটি তৈরির যাত্রা আবিষ্কার করুন।"
 canonical: "https://jynx.app/bn/about.html"
 locale: "bn"
-dateModified: "2026-10-30"
+dateModified: "2026-11-11"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -66,6 +66,6 @@ Jynx শুধু একটি প্ল্যাটফর্ম নয়—এ
 
 ### Jynx কমিউনিটিতে যোগ দিন
 
-Find your perfect gaming squad — Jynx is live on iOS, Android and web.
+Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout)
+[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

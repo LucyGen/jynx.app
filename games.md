@@ -60,4 +60,4 @@ Download Jynx and find a verified duo today.
 
 Jynx is the next-generation companion app for gamers who find teammates with intent in any game: verified rank, voice intent, and schedule in common to line up the right partner for your queue — instead of hoping a Discord channel delivers.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
+[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)

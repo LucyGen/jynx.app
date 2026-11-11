@@ -814,7 +814,7 @@ MOBAs are Jynx's home turf: five-player games where a duo that communicates beat
 
 Download Jynx and get matched with compatible teammates across every game in this galaxy — voice-first lobbies, shared schedules, no random-team dread.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en)
+[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
 
 [duo finders & guides](/games.html)
 
