@@ -149,7 +149,7 @@
       "twitter_image_alt": "Política de Privacidade"
     },
     "title": "Política de Privacidade",
-    "last_updated": "Última atualização: 10 de novembro de 2026",
+    "last_updated": "Última atualização: 11 de novembro de 2026",
     "version": "Versão: 1.0",
     "intro": {
       "title": "1. Introdução",
@@ -563,7 +563,7 @@
       "livekit_label": "LiveKit (voz em tempo real e compartilhamento de tela, quando disponível):",
       "livekit": "O LiveKit Cloud é o nosso operador (processador) para mídia em tempo real (e, quando o recurso estiver disponível, compartilhamento de tela) mediante um Acordo de Tratamento de Dados assinado (§4.5). O LiveKit Cloud roteia a mídia globalmente: as sessões são atendidas pela infraestrutura global do LiveKit, sem fixação em uma região específica. O áudio das salas de voz (e o vídeo do compartilhamento de tela, quando disponível) é roteado em tempo real e não é gravado, armazenado nem mantido pelo Jynx ou pelo LiveKit; o LiveKit retém apenas os metadados operacionais de sessão descritos na §4.5. As transferências de dados pessoais para o LiveKit baseiam-se no adendo de tratamento de dados do LiveKit, que incorpora os termos do RGPD e as cláusulas contratuais-padrão da Comissão Europeia para transferências internacionais, em conjunto com as garantias gerais abaixo, que se aplicam ao LiveKit como aos nossos demais operadores.",
       "meta_label": "Meta (atribuição e medição de anúncios):",
-      "meta": "O compartilhamento descrito nas §4.9 e §5.9 é transmitido à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., que os processa nos Estados Unidos e em outros países. As transferências da UE/EEE baseiam-se no EU-US Data Privacy Framework para as entidades Meta certificadas ou em cláusulas contratuais padrão, conforme descrito na §4.9. Para os usuários no Brasil, a transferência é feita ao abrigo do art. 33 da LGPD com base nas garantias contratuais das Ferramentas Empresariais da Meta, em linha com as garantias gerais acima."
+      "meta": "O compartilhamento descrito nas §4.9 e §5.9 é transmitido à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., que os processa nos Estados Unidos e em outros países. As transferências internacionais de dados pessoais realizadas no âmbito das ferramentas da Meta estão sujeitas às garantias contratuais e aos mecanismos de transferência internacional aplicáveis. A Jynx verifica sua conformidade com os requisitos do artigo 33 da LGPD e com a regulamentação da ANPD."
     },
     "cookies": {
       "title": "10. Cookies e Tecnologias Similares",

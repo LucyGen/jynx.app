@@ -3,15 +3,19 @@ title: "Política de Privacidade"
 description: "Saiba como Jynx protege sua privacidade e lida com seus dados. Nossa política de privacidade transparente descreve nossas práticas e seus direitos."
 canonical: "https://jynx.app/pt/privacy.html"
 locale: "pt"
-dateModified: "2026-11-10"
+dateModified: "2026-11-11"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Política de Privacidade
 
-Última atualização: 10 de novembro de 2026
+Última atualização: 11 de novembro de 2026
 
-Version: 1.9
+Version: 1.10
+
+### Changes in Version 1.10 (November 11, 2026)
+
+- Rewords the §9 Meta transfer entry: international transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms, and Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations. Pending that verification, the Policy no longer presents the contractual guarantees in Meta's Business Tools terms as sufficient on their own for the Brazilian transfer leg. Nothing else changes — the data shared (§4.9, §5.9) and every other clause are unchanged.
 
 ### Changes in Version 1.9 (November 10, 2026)
 
@@ -432,7 +436,7 @@ Seus dados podem ser transferidos e armazenados em servidores localizados fora d
 - **Sentry:** Servidores baseados nos EUA com conformidade Privacy Shield
 - **Provedor de Serviços de Email (ESP):** Utilizado para entregar as comunicações de marketing, reengajamento e pesquisas descritas em §5.6. O ESP é identificado em §4.4 e atua como operador sob um Acordo de Tratamento de Dados assinado
 - **LiveKit (voz em tempo real e compartilhamento de tela, quando disponível):** O LiveKit Cloud é o nosso operador (processador) para mídia em tempo real (e, quando o recurso estiver disponível, compartilhamento de tela) mediante um Acordo de Tratamento de Dados assinado (§4.5). O LiveKit Cloud roteia a mídia globalmente: as sessões são atendidas pela infraestrutura global do LiveKit, sem fixação em uma região específica. O áudio das salas de voz (e o vídeo do compartilhamento de tela, quando disponível) é roteado em tempo real e não é gravado, armazenado nem mantido pelo Jynx ou pelo LiveKit; o LiveKit retém apenas os metadados operacionais de sessão descritos na §4.5. As transferências de dados pessoais para o LiveKit baseiam-se no adendo de tratamento de dados do LiveKit, que incorpora os termos do RGPD e as cláusulas contratuais-padrão da Comissão Europeia para transferências internacionais, em conjunto com as garantias gerais abaixo, que se aplicam ao LiveKit como aos nossos demais operadores.
-- **Meta (atribuição e medição de anúncios):** O compartilhamento descrito nas §4.9 e §5.9 é transmitido à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., que os processa nos Estados Unidos e em outros países. As transferências da UE/EEE baseiam-se no EU-US Data Privacy Framework para as entidades Meta certificadas ou em cláusulas contratuais padrão, conforme descrito na §4.9. Para os usuários no Brasil, a transferência é feita ao abrigo do art. 33 da LGPD com base nas garantias contratuais das Ferramentas Empresariais da Meta, em linha com as garantias gerais acima.
+- **Meta (atribuição e medição de anúncios):** O compartilhamento descrito nas §4.9 e §5.9 é transmitido à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., que os processa nos Estados Unidos e em outros países. As transferências internacionais de dados pessoais realizadas no âmbito das ferramentas da Meta estão sujeitas às garantias contratuais e aos mecanismos de transferência internacional aplicáveis. A Jynx verifica sua conformidade com os requisitos do artigo 33 da LGPD e com a regulamentação da ANPD.
 
 **Garantias (GDPR, UE/EEE).** Todas as transferências a partir da UE/EEE são cobertas por uma decisão de adequação, pelo Data Privacy Framework UE-EUA ou por cláusulas contratuais padrão, juntamente com medidas suplementares quando exigidas.
 

@@ -3,15 +3,19 @@ title: "Politique de Confidentialité"
 description: "Découvrez comment Jynx protège votre vie privée et gère vos données. Notre politique de confidentialité transparente décrit nos pratiques et vos droits."
 canonical: "https://jynx.app/fr/privacy.html"
 locale: "fr"
-dateModified: "2026-11-10"
+dateModified: "2026-11-11"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Politique de Confidentialité
 
-Dernière mise à jour : 10 novembre 2026
+Dernière mise à jour : 11 novembre 2026
 
-Version: 1.9
+Version: 1.10
+
+### Changes in Version 1.10 (November 11, 2026)
+
+- Rewords the §9 Meta transfer entry: international transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms, and Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations. Pending that verification, the Policy no longer presents the contractual guarantees in Meta's Business Tools terms as sufficient on their own for the Brazilian transfer leg. Nothing else changes — the data shared (§4.9, §5.9) and every other clause are unchanged.
 
 ### Changes in Version 1.9 (November 10, 2026)
 
@@ -432,7 +436,7 @@ Vos données peuvent être transférées et stockées sur des serveurs situés h
 - **Sentry :** Serveurs basés aux États-Unis avec conformité Privacy Shield
 - **Fournisseur de services d'email (ESP) :** Utilisé pour acheminer les communications marketing, de ré-engagement et d'enquête décrites au §5.6. L'ESP est nommé au §4.4 et agit en qualité de sous-traitant dans le cadre d'un accord de traitement des données signé
 - **LiveKit (voix en temps réel et partage d'écran lorsque disponible) :** LiveKit Cloud est notre sous-traitant pour les médias en temps réel (et, lorsque la fonctionnalité est disponible, le partage d'écran) dans le cadre d'un accord de traitement des données signé (§4.5). LiveKit Cloud achemine les médias à l'échelle mondiale : les sessions sont servies par l'infrastructure mondiale de LiveKit, sans rattachement à une région précise. L'audio des salons vocaux (et la vidéo de partage d'écran lorsque disponible) est acheminé en temps réel et n'est ni enregistré, ni stocké, ni conservé par Jynx ou LiveKit ; LiveKit ne conserve que les métadonnées opérationnelles de session décrites au §4.5. Les transferts de données personnelles vers LiveKit reposent sur l'addendum de traitement des données de LiveKit, qui incorpore les termes du RGPD et les clauses contractuelles types de la Commission européenne pour les transferts hors UE, conjointement avec les garanties générales ci-dessous, qui s'appliquent à LiveKit comme à nos autres sous-traitants.
-- **Meta (attribution publicitaire et mesure publicitaire) :** Le partage décrit aux §4.9 et §5.9 est transmis à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., qui traite les données aux États-Unis et dans d'autres pays. Les transferts depuis l'UE/EEE reposent sur l'EU-US Data Privacy Framework pour les entités Meta certifiées ou sur les clauses contractuelles types, comme décrit à la §4.9. Pour les utilisateurs au Brésil, le transfert est effectué au titre de l'art. 33 de la LGPD sur la base des garanties contractuelles des Meta Business Tools, en cohérence avec les garanties générales ci-dessus.
+- **Meta (attribution publicitaire et mesure publicitaire) :** Le partage décrit aux §4.9 et §5.9 est transmis à Meta Platforms Ireland Ltd. ou à Meta Platforms, Inc., qui traite les données aux États-Unis et dans d'autres pays. Les transferts internationaux de données personnelles effectués dans le cadre des outils Meta sont soumis aux garanties contractuelles et aux mécanismes de transfert international applicables. Jynx vérifie leur conformité aux exigences de l'article 33 de la LGPD et à la réglementation de l'ANPD.
 
 **Garanties (RGPD, UE/EEE).** Tous les transferts depuis l'UE/EEE sont couverts par une décision d'adéquation, l'EU-US Data Privacy Framework ou des clauses contractuelles types, accompagnés de mesures complémentaires le cas échéant.
 
