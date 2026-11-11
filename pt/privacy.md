@@ -11,7 +11,11 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Última atualização: 11 de novembro de 2026
 
-Version: 1.10
+Version: 1.11
+
+### Changes in Version 1.11 (November 11, 2026)
+
+- Adds a transparency paragraph to the §9 LGPD guarantees: the information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 (form, duration, and specific purpose of each transfer; destination countries; controller identification and contact; shared use of the data; responsibilities of the processing agents and security measures; your rights, the channel, and the right to petition the ANPD) is consolidated in this Policy with section references, and the full text of the contractual clauses used for these international transfers is made available upon request to dpo@jynx.app, answered within 15 days. No transfer, recipient, or legal basis changes.
 
 ### Changes in Version 1.10 (November 11, 2026)
 
@@ -446,6 +450,8 @@ Seus dados podem ser transferidos e armazenados em servidores localizados fora d
 - **Para a Brevo na França (ESP de email, operador):** Lícita nos termos do Art. 33(I) da LGPD, em virtude da mesma Resolução CD/ANPD nº 32/2026 (em vigor desde 26 de janeiro de 2026), que reconhece a União Europeia — incluindo a França — como oferecendo um nível adequado de proteção. Nenhum mecanismo adicional de transferência é exigido para esta etapa. (Sujeita à mesma reavaliação da ANPD descrita acima; se a decisão de adequação for suspensa, o Jynx implementará um mecanismo alternativo do Art. 33, como as cláusulas contratuais padrão da ANPD com a Brevo.)
 - **Para provedores de tecnologia de proteção infantil na UE (correspondência de hashes, operadores):** Coberto pela mesma decisão de adequação da UE da Resolução CD/ANPD nº 32/2026 citada nas pernas acima — os provedores recebem apenas hashes irreversíveis e realizam a correspondência na região da UE (§4.7)
 - **Para a AWS no Brasil (moderação de imagens, operador):** O trecho da AWS Rekognition permanece no país — é executado na região de São Paulo da AWS (§4.8). A imagem é primeiro transmitida pela infraestrutura da Jynx no Google Cloud, coberta pelos termos gerais de transferência do Google Cloud / Firebase acima
+
+**Transparência (Resolução CD/ANPD nº 19/2024).** As informações exigidas pelo art. 17, §2, da Resolução CD/ANPD nº 19/2024 estão consolidadas nesta Política: a forma, o prazo e a finalidade específica de cada transferência internacional e os países de destino (esta seção e as seções que ela cita); a identificação e o contato do controlador (§1); o uso compartilhado dos dados e a sua finalidade (§4); as responsabilidades dos agentes de tratamento e as medidas de segurança adotadas (§4 e §8); e os seus direitos e os meios para exercê-los, incluindo um canal facilmente acessível e o direito de petição à ANPD (§7 e §12). O texto integral das cláusulas contratuais utilizadas para realizar estas transferências internacionais é disponibilizado a você, mediante solicitação, pelo nosso encarregado (dpo@jynx.app), em até 15 dias.
 
 Nota histórica: o prazo de carência de um ano para adaptar os contratos existentes às SCCs da ANPD encerrou-se em 23 de agosto de 2025; novas relações com operadores, como a do ESP, executam as SCCs no momento da integração.
 
