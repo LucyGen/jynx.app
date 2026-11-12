@@ -11,6 +11,9 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 From tactical shooters and battle royales to racing, rhythm, and horror — browse the full catalog and jump straight to the duo finder or game page for whatever you queue. Verified rank, voice intent, and schedule overlap start on each game's page.
 
+- 711 games
+- 14 categories
+
 Search all 711 games by name or browse by category — every listing links to a live game page or duo finder.
 
 ## Featured constellations
@@ -814,7 +817,7 @@ MOBAs are Jynx's home turf: five-player games where a duo that communicates beat
 
 Download Jynx and get matched with compatible teammates across every game in this galaxy — voice-first lobbies, shared schedules, no random-team dread.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
 
 [duo finders & guides](/games.html)
 

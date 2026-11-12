@@ -3,7 +3,7 @@ title: "Про Нас"
 description: "Дізнайтеся більше про Jynx, платформу ігрової спільноти, яка перетворює одиночні ігри на соціальний досвід."
 canonical: "https://jynx.app/uk/about.html"
 locale: "uk"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Jynx вирішує ці болючі точки за допомогою інноваційних систем підбору, розроблених спеціально для геймерів, геймерами.
 
-## Наші Засновники
-
-### Arthur Bonvallet
-
-Пристрасний геймер і досвідчений фахівець з продуктів з Парижа, Arthur привносить своє глибоке розуміння користувацького досвіду та розробки продуктів у Jynx. Його бачення керує інтуїтивним дизайном і набором функцій нашої платформи.
-
-### Antoine Haie
-
-Технічна експертиза Antoine як fullstack розробника живить платформу Jynx. Базуючись у Парижі, його ігрове минуле в поєднанні з технічними навичками забезпечує бездоганний досвід для геймерів усіх рівнів.
-
 ## Що Робить Jynx Відмінним
 
-### Черга Підбору На Основі ELO
+- Черга Підбору На Основі ELO Наш витончений алгоритм підбору враховує твій рівень майстерності (ELO), щоб з'єднувати тебе з товаришами по команді та опонентами, які забезпечують правильний рівень виклику та сумісності.
+- Глобальна Система Чату Залишайся на зв'язку з ширшою ігровою спільнотою через нашу яскраву глобальну систему чату, де можеш обговорювати стратегії, ділитися досвідом або просто спілкуватися з іншими геймерами.
+- Спільноти На Основі Гільдій Знайди свій ігровий дім з нашою унікальною системою «гільдій». Приєднуйся до існуючих спільнот на основі улюблених ігор або стилів гри, або створи власну гільдію та стань лідером спільноти. Будуй свою репутацію, встановлюй культуру команди та розширюй свою мережу ігрових союзників.
 
-Наш витончений алгоритм підбору враховує твій рівень майстерності (ELO), щоб з'єднувати тебе з товаришами по команді та опонентами, які забезпечують правильний рівень виклику та сумісності.
+## Наші Засновники
 
-### Глобальна Система Чату
-
-Залишайся на зв'язку з ширшою ігровою спільнотою через нашу яскраву глобальну систему чату, де можеш обговорювати стратегії, ділитися досвідом або просто спілкуватися з іншими геймерами.
-
-### Спільноти На Основі Гільдій
-
-Знайди свій ігровий дім з нашою унікальною системою «гільдій». Приєднуйся до існуючих спільнот на основі улюблених ігор або стилів гри, або створи власну гільдію та стань лідером спільноти. Будуй свою репутацію, встановлюй культуру команди та розширюй свою мережу ігрових союзників.
+- Arthur Bonvallet Пристрасний геймер і досвідчений фахівець з продуктів з Парижа, Arthur привносить своє глибоке розуміння користувацького досвіду та розробки продуктів у Jynx. Його бачення керує інтуїтивним дизайном і набором функцій нашої платформи.
+- Antoine Haie Технічна експертиза Antoine як fullstack розробника живить платформу Jynx. Базуючись у Парижі, його ігрове минуле в поєднанні з технічними навичками забезпечує бездоганний досвід для геймерів усіх рівнів.
 
 ## Для Кожного Геймера
 
@@ -68,4 +55,4 @@ Jynx — це більше, ніж просто платформа — це зр
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

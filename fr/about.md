@@ -3,7 +3,7 @@ title: "À Propos"
 description: "Découvrez Jynx, la plateforme communautaire gaming qui transforme le jeu solo en expérience sociale."
 canonical: "https://jynx.app/fr/about.html"
 locale: "fr"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ En tant que gamers nous-mêmes, nous avons vécu ces défis :
 
 Jynx répond à ces problèmes avec des systèmes de matchmaking innovants conçus spécifiquement pour les gamers, par des gamers.
 
-## Nos Fondateurs
-
-### Arthur Bonvallet
-
-Gamer passionné et spécialiste produit expérimenté de Paris, Arthur apporte sa compréhension approfondie de l'expérience utilisateur et du développement produit à Jynx. Sa vision guide le design intuitif et l'ensemble des fonctionnalités de notre plateforme.
-
-### Antoine Haie
-
-L'expertise technique d'Antoine en tant que développeur fullstack alimente la plateforme Jynx. Basé à Paris, son expérience gaming combinée à ses compétences techniques garantit que notre plateforme offre une expérience fluide pour les joueurs de tous niveaux.
-
 ## Ce Qui Rend Jynx Différent
 
-### File de Match Basée sur l'ELO
+- File de Match Basée sur l'ELO Notre algorithme de matching sophistiqué prend en compte votre niveau de compétence (ELO) pour vous connecter avec des coéquipiers et adversaires qui offrent le bon niveau de défi et de compatibilité.
+- Système de Chat Global Restez connecté avec la communauté gaming au sens large grâce à notre système de chat global dynamique, où vous pouvez discuter de stratégies, partager des expériences ou simplement passer du temps avec d'autres gamers.
+- Communautés Basées sur les Guildes Trouvez votre refuge gaming avec notre système unique de "guildes". Rejoignez des communautés existantes basées sur vos jeux favoris ou styles de jeu, ou créez votre propre guilde et devenez un leader communautaire. Construisez votre réputation, établissez la culture de votre équipe et développez votre réseau d'alliés gaming.
 
-Notre algorithme de matching sophistiqué prend en compte votre niveau de compétence (ELO) pour vous connecter avec des coéquipiers et adversaires qui offrent le bon niveau de défi et de compatibilité.
+## Nos Fondateurs
 
-### Système de Chat Global
-
-Restez connecté avec la communauté gaming au sens large grâce à notre système de chat global dynamique, où vous pouvez discuter de stratégies, partager des expériences ou simplement passer du temps avec d'autres gamers.
-
-### Communautés Basées sur les Guildes
-
-Trouvez votre refuge gaming avec notre système unique de "guildes". Rejoignez des communautés existantes basées sur vos jeux favoris ou styles de jeu, ou créez votre propre guilde et devenez un leader communautaire. Construisez votre réputation, établissez la culture de votre équipe et développez votre réseau d'alliés gaming.
+- Arthur Bonvallet Gamer passionné et spécialiste produit expérimenté de Paris, Arthur apporte sa compréhension approfondie de l'expérience utilisateur et du développement produit à Jynx. Sa vision guide le design intuitif et l'ensemble des fonctionnalités de notre plateforme.
+- Antoine Haie L'expertise technique d'Antoine en tant que développeur fullstack alimente la plateforme Jynx. Basé à Paris, son expérience gaming combinée à ses compétences techniques garantit que notre plateforme offre une expérience fluide pour les joueurs de tous niveaux.
 
 ## Pour Tous les Gamers
 
@@ -68,4 +55,4 @@ Bon jeu !
 
 Trouvez votre squad gaming idéale — Jynx est disponible sur iOS, Android, Windows et le web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Badge de téléchargement du Microsoft Store](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-fr-CPsov_ea.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-fr-D_5TJ9En.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Badge de téléchargement du Microsoft Store](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

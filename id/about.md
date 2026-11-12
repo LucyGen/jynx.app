@@ -3,7 +3,7 @@ title: "Tentang Kami"
 description: "Pelajari lebih lanjut tentang Jynx, platform komunitas gaming yang mengubah gaming solo menjadi pengalaman sosial."
 canonical: "https://jynx.app/id/about.html"
 locale: "id"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ Sebagai gamer sendiri, kami mengalami tantangan ini secara langsung:
 
 Jynx mengatasi masalah-masalah ini dengan sistem matchmaking inovatif yang dirancang khusus untuk gamer, oleh gamer.
 
-## Pendiri Kami
-
-### Arthur Bonvallet
-
-Seorang gamer yang bersemangat dan spesialis produk berpengalaman dari Paris, Arthur membawa pemahaman mendalam tentang pengalaman pengguna dan pengembangan produk ke Jynx. Visinya mendorong desain intuitif dan fitur-fitur platform kami.
-
-### Antoine Haie
-
-Keahlian teknis Antoine sebagai fullstack developer menggerakkan platform Jynx. Berbasis di Paris, latar belakang gaming-nya dikombinasikan dengan keterampilan teknisnya memastikan platform kami memberikan pengalaman mulus untuk gamer dari semua level.
-
 ## Yang Membuat Jynx Berbeda
 
-### Antrean Match Berbasis ELO
+- Antrean Match Berbasis ELO Algoritma matching canggih kami mempertimbangkan level skill (ELO) Anda untuk menghubungkan Anda dengan rekan tim dan lawan yang memberikan tingkat tantangan dan kompatibilitas yang tepat.
+- Sistem Chat Global Tetap terhubung dengan komunitas gaming yang lebih luas melalui sistem chat global kami yang hidup, di mana Anda dapat membahas strategi, berbagi pengalaman, atau sekadar bergaul dengan sesama gamer.
+- Komunitas Berbasis Guild Temukan rumah gaming Anda dengan sistem "guild" unik kami. Bergabung dengan komunitas yang ada berdasarkan game favorit atau gaya bermain Anda, atau buat guild Anda sendiri dan menjadi pemimpin komunitas. Bangun reputasi Anda, bentuk budaya tim, dan kembangkan jaringan sekutu gaming Anda.
 
-Algoritma matching canggih kami mempertimbangkan level skill (ELO) Anda untuk menghubungkan Anda dengan rekan tim dan lawan yang memberikan tingkat tantangan dan kompatibilitas yang tepat.
+## Pendiri Kami
 
-### Sistem Chat Global
-
-Tetap terhubung dengan komunitas gaming yang lebih luas melalui sistem chat global kami yang hidup, di mana Anda dapat membahas strategi, berbagi pengalaman, atau sekadar bergaul dengan sesama gamer.
-
-### Komunitas Berbasis Guild
-
-Temukan rumah gaming Anda dengan sistem "guild" unik kami. Bergabung dengan komunitas yang ada berdasarkan game favorit atau gaya bermain Anda, atau buat guild Anda sendiri dan menjadi pemimpin komunitas. Bangun reputasi Anda, bentuk budaya tim, dan kembangkan jaringan sekutu gaming Anda.
+- Arthur Bonvallet Seorang gamer yang bersemangat dan spesialis produk berpengalaman dari Paris, Arthur membawa pemahaman mendalam tentang pengalaman pengguna dan pengembangan produk ke Jynx. Visinya mendorong desain intuitif dan fitur-fitur platform kami.
+- Antoine Haie Keahlian teknis Antoine sebagai fullstack developer menggerakkan platform Jynx. Berbasis di Paris, latar belakang gaming-nya dikombinasikan dengan keterampilan teknisnya memastikan platform kami memberikan pengalaman mulus untuk gamer dari semua level.
 
 ## Untuk Setiap Gamer
 
@@ -68,4 +55,4 @@ Game on!
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

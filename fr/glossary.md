@@ -17,10 +17,6 @@ Une référence complète de la terminologie LFG, matchmaking et gaming. Chaque 
 
 Dernière mise à jour 2026-10-30
 
-[Télécharger sur App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=glossary&utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary) [Disponible sur Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dglossary_cta%26utm_content%3Dglossary) [![Microsoft Store download badge](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=glossary)
-
-[Ou jouez instantanément sur le web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary-web)
-
 ## Catégories
 
 [Tous (148)](#all-terms) [Communauté (3)](#category-community) [Jeux (16)](#category-games) [Matchmaking (37)](#category-matchmaking) [Performance (9)](#category-performance) [Jeu social (54)](#category-social-gaming) [Statistiques (9)](#category-stats) [Rôles d'équipe (16)](#category-team-roles) [Rôles Valorant (4)](#category-valorant-roles)
@@ -251,3 +247,7 @@ Communauté Jeux Matchmaking Performance Jeu social Statistiques Rôles d'équip
 
 - [1v9](/glossary/1v9.html) Jeu social
 - [5-stack](/glossary/5-stack.html) Jeu social
+
+[![](/assets/images/app-store-badge-fr-CPsov_ea.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=glossary&utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary) [![](/assets/images/google-play-badge-fr-D_5TJ9En.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dglossary_cta%26utm_content%3Dglossary) [![Microsoft Store download badge](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=glossary)
+
+[Ou jouez instantanément sur le web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary-web)

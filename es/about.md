@@ -3,7 +3,7 @@ title: "Acerca de Nosotros"
 description: "Conoce más sobre Jynx, la plataforma de comunidad gaming que transforma el gaming solitario en una experiencia social."
 canonical: "https://jynx.app/es/about.html"
 locale: "es"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ Como gamers nosotros mismos, hemos experimentado los desafíos de primera mano:
 
 Jynx aborda estos puntos de dolor con sistemas de matchmaking innovadores diseñados específicamente para gamers, por gamers.
 
-## Nuestros Fundadores
-
-### Arthur Bonvallet
-
-Un gamer apasionado y especialista de producto experimentado de París, Arthur aporta su profundo entendimiento de la experiencia de usuario y desarrollo de producto a Jynx. Su visión impulsa el diseño intuitivo y conjunto de características de nuestra plataforma.
-
-### Antoine Haie
-
-La experiencia técnica de Antoine como desarrollador fullstack impulsa la plataforma Jynx. Basado en París, su formación en gaming combinada con sus habilidades técnicas asegura que nuestra plataforma ofrezca una experiencia sin interrupciones para gamers de todos los niveles.
-
 ## Qué Hace a Jynx Diferente
 
-### Cola de Emparejamiento Basada en ELO
+- Cola de Emparejamiento Basada en ELO Nuestro sofisticado algoritmo de emparejamiento considera tu nivel de habilidad (ELO) para conectarte con compañeros y oponentes que proporcionan el nivel correcto de desafío y compatibilidad.
+- Sistema de Chat Global Mantente conectado con la comunidad gaming más amplia a través de nuestro vibrante sistema de chat global, donde puedes discutir estrategias, compartir experiencias o simplemente pasar el rato con otros gamers.
+- Comunidades Basadas en Gremios Encuentra tu hogar gaming con nuestro sistema único de "gremios". Únete a comunidades existentes basadas en tus juegos favoritos o estilos de juego, o crea tu propio gremio y conviértete en líder de la comunidad. Construye tu reputación, establece tu cultura de equipo y expande tu red de aliados gaming.
 
-Nuestro sofisticado algoritmo de emparejamiento considera tu nivel de habilidad (ELO) para conectarte con compañeros y oponentes que proporcionan el nivel correcto de desafío y compatibilidad.
+## Nuestros Fundadores
 
-### Sistema de Chat Global
-
-Mantente conectado con la comunidad gaming más amplia a través de nuestro vibrante sistema de chat global, donde puedes discutir estrategias, compartir experiencias o simplemente pasar el rato con otros gamers.
-
-### Comunidades Basadas en Gremios
-
-Encuentra tu hogar gaming con nuestro sistema único de "gremios". Únete a comunidades existentes basadas en tus juegos favoritos o estilos de juego, o crea tu propio gremio y conviértete en líder de la comunidad. Construye tu reputación, establece tu cultura de equipo y expande tu red de aliados gaming.
+- Arthur Bonvallet Un gamer apasionado y especialista de producto experimentado de París, Arthur aporta su profundo entendimiento de la experiencia de usuario y desarrollo de producto a Jynx. Su visión impulsa el diseño intuitivo y conjunto de características de nuestra plataforma.
+- Antoine Haie La experiencia técnica de Antoine como desarrollador fullstack impulsa la plataforma Jynx. Basado en París, su formación en gaming combinada con sus habilidades técnicas asegura que nuestra plataforma ofrezca una experiencia sin interrupciones para gamers de todos los niveles.
 
 ## Para Cada Gamer
 
@@ -68,4 +55,4 @@ Jynx es más que solo una plataforma—es una comunidad creciente de gamers que 
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

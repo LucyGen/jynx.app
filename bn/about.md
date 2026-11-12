@@ -3,7 +3,7 @@ title: "আমাদের সম্পর্কে | Jynx - গেমিং স
 description: "জানুন কীভাবে Jynx সামাজিক সংযোগের মাধ্যমে গেমিংকে রূপান্তরিত করছে। আমাদের মিশন, দল এবং গেমারদের জন্য একটি প্রাণবন্ত কমিউনিটি তৈরির যাত্রা আবিষ্কার করুন।"
 canonical: "https://jynx.app/bn/about.html"
 locale: "bn"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Jynx গেমারদের দ্বারা, গেমারদের জন্য বিশেষভাবে ডিজাইন করা উদ্ভাবনী ম্যাচমেকিং সিস্টেমের মাধ্যমে এই সমস্যাগুলির সমাধান করে।
 
-## আমাদের প্রতিষ্ঠাতারা
-
-### Arthur Bonvallet
-
-প্যারিসের একজন উৎসাহী গেমার এবং অভিজ্ঞ প্রোডাক্ট স্পেশালিস্ট, Arthur ইউজার এক্সপেরিয়েন্স এবং প্রোডাক্ট ডেভেলপমেন্টের গভীর বোধগম্যতা Jynx-এ নিয়ে আসেন। তার দৃষ্টিভঙ্গি আমাদের প্ল্যাটফর্মের স্বজ্ঞাত ডিজাইন এবং ফিচার সেটকে চালিত করে।
-
-### Antoine Haie
-
-Antoine-এর ফুলস্ট্যাক ডেভেলপার হিসাবে প্রযুক্তিগত দক্ষতা Jynx প্ল্যাটফর্মকে চালিত করে। প্যারিস ভিত্তিক, তার গেমিং ব্যাকগ্রাউন্ড এবং প্রযুক্তিগত দক্ষতার সমন্বয় নিশ্চিত করে যে আমাদের প্ল্যাটফর্ম সব স্তরের গেমারদের জন্য একটি নিরবচ্ছিন্ন অভিজ্ঞতা প্রদান করে।
-
 ## Jynx-কে ভিন্ন করে কী
 
-### ELO-ভিত্তিক ম্যাচ Queue
+- ELO-ভিত্তিক ম্যাচ Queue আমাদের অত্যাধুনিক ম্যাচিং অ্যালগরিদম আপনার দক্ষতা স্তর (ELO) বিবেচনা করে আপনাকে এমন টিমমেট এবং প্রতিপক্ষের সাথে সংযুক্ত করে যারা সঠিক স্তরের চ্যালেঞ্জ এবং সামঞ্জস্যতা প্রদান করে।
+- গ্লোবাল চ্যাট সিস্টেম আমাদের প্রাণবন্ত গ্লোবাল চ্যাট সিস্টেমের মাধ্যমে বৃহত্তর গেমিং কমিউনিটির সাথে সংযুক্ত থাকুন, যেখানে আপনি কৌশল আলোচনা করতে, অভিজ্ঞতা শেয়ার করতে বা কেবল সহকর্মী গেমারদের সাথে আড্ডা দিতে পারেন।
+- গিল্ড-ভিত্তিক কমিউনিটি আমাদের অনন্য "গিল্ড" সিস্টেমের সাথে আপনার গেমিং বাড়ি খুঁজুন। আপনার পছন্দের গেম বা খেলার ধরনের উপর ভিত্তি করে বিদ্যমান কমিউনিটিতে যোগ দিন, বা আপনার নিজের গিল্ড তৈরি করুন এবং একজন কমিউনিটি লিডার হন। আপনার খ্যাতি তৈরি করুন, আপনার টিম সংস্কৃতি প্রতিষ্ঠা করুন এবং আপনার গেমিং সহযোগীদের নেটওয়ার্ক বাড়ান।
 
-আমাদের অত্যাধুনিক ম্যাচিং অ্যালগরিদম আপনার দক্ষতা স্তর (ELO) বিবেচনা করে আপনাকে এমন টিমমেট এবং প্রতিপক্ষের সাথে সংযুক্ত করে যারা সঠিক স্তরের চ্যালেঞ্জ এবং সামঞ্জস্যতা প্রদান করে।
+## আমাদের প্রতিষ্ঠাতারা
 
-### গ্লোবাল চ্যাট সিস্টেম
-
-আমাদের প্রাণবন্ত গ্লোবাল চ্যাট সিস্টেমের মাধ্যমে বৃহত্তর গেমিং কমিউনিটির সাথে সংযুক্ত থাকুন, যেখানে আপনি কৌশল আলোচনা করতে, অভিজ্ঞতা শেয়ার করতে বা কেবল সহকর্মী গেমারদের সাথে আড্ডা দিতে পারেন।
-
-### গিল্ড-ভিত্তিক কমিউনিটি
-
-আমাদের অনন্য "গিল্ড" সিস্টেমের সাথে আপনার গেমিং বাড়ি খুঁজুন। আপনার পছন্দের গেম বা খেলার ধরনের উপর ভিত্তি করে বিদ্যমান কমিউনিটিতে যোগ দিন, বা আপনার নিজের গিল্ড তৈরি করুন এবং একজন কমিউনিটি লিডার হন। আপনার খ্যাতি তৈরি করুন, আপনার টিম সংস্কৃতি প্রতিষ্ঠা করুন এবং আপনার গেমিং সহযোগীদের নেটওয়ার্ক বাড়ান।
+- Arthur Bonvallet প্যারিসের একজন উৎসাহী গেমার এবং অভিজ্ঞ প্রোডাক্ট স্পেশালিস্ট, Arthur ইউজার এক্সপেরিয়েন্স এবং প্রোডাক্ট ডেভেলপমেন্টের গভীর বোধগম্যতা Jynx-এ নিয়ে আসেন। তার দৃষ্টিভঙ্গি আমাদের প্ল্যাটফর্মের স্বজ্ঞাত ডিজাইন এবং ফিচার সেটকে চালিত করে।
+- Antoine Haie Antoine-এর ফুলস্ট্যাক ডেভেলপার হিসাবে প্রযুক্তিগত দক্ষতা Jynx প্ল্যাটফর্মকে চালিত করে। প্যারিস ভিত্তিক, তার গেমিং ব্যাকগ্রাউন্ড এবং প্রযুক্তিগত দক্ষতার সমন্বয় নিশ্চিত করে যে আমাদের প্ল্যাটফর্ম সব স্তরের গেমারদের জন্য একটি নিরবচ্ছিন্ন অভিজ্ঞতা প্রদান করে।
 
 ## প্রতিটি গেমারের জন্য
 
@@ -68,4 +55,4 @@ Jynx শুধু একটি প্ল্যাটফর্ম নয়—এ
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

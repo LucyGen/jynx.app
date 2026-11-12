@@ -3,7 +3,7 @@ title: "हमारे बारे में"
 description: "Jynx के बारे में और जानें, गेमिंग कम्युनिटी प्लेटफॉर्म जो सोलो गेमिंग को एक सोशल अनुभव में बदल देता है।"
 canonical: "https://jynx.app/hi/about.html"
 locale: "hi"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Jynx इन समस्याओं को इनोवेटिव मैचमेकिंग सिस्टम्स के साथ हल करता है जो विशेष रूप से गेमर्स के लिए, गेमर्स द्वारा डिज़ाइन किया गया है।
 
-## हमारे फाउंडर्स
-
-### Arthur Bonvallet
-
-पेरिस से एक passionate गेमर और अनुभवी प्रोडक्ट स्पेशलिस्ट, Arthur अपनी यूज़र एक्सपीरियंस और प्रोडक्ट डेवलपमेंट की गहरी समझ Jynx में लाते हैं। उनका विज़न हमारे प्लेटफॉर्म के intuitive डिज़ाइन और फीचर सेट को guide करता है।
-
-### Antoine Haie
-
-पेरिस में स्थित Antoine की fullstack developer के रूप में तकनीकी expertise Jynx प्लेटफॉर्म को power देती है। उनकी गेमिंग बैकग्राउंड और तकनीकी स्किल्स का कॉम्बिनेशन सुनिश्चित करता है कि हमारा प्लेटफॉर्म सभी लेवल के गेमर्स के लिए एक seamless अनुभव प्रदान करे।
-
 ## Jynx को क्या अलग बनाता है
 
-### ELO-Based Match Queue
+- ELO-Based Match Queue हमारा sophisticated मैचिंग algorithm आपके स्किल लेवल (ELO) को ध्यान में रखता है ताकि आपको ऐसे teammates और opponents से जोड़ा जा सके जो सही level की challenge और compatibility प्रदान करें।
+- Global Chat System हमारे vibrant global chat system के माध्यम से व्यापक गेमिंग कम्युनिटी के साथ connected रहें, जहाँ आप strategies पर चर्चा कर सकते हैं, experiences शेयर कर सकते हैं, या बस fellow gamers के साथ hang out कर सकते हैं।
+- Guild-Based Communities हमारे यूनीक "guild" सिस्टम के साथ अपना गेमिंग घर खोजें। अपनी पसंदीदा games या playing styles के आधार पर existing communities join करें, या अपना खुद का guild बनाएं और community leader बनें। अपनी reputation build करें, अपनी team culture establish करें, और gaming allies का नेटवर्क बढ़ाएं।
 
-हमारा sophisticated मैचिंग algorithm आपके स्किल लेवल (ELO) को ध्यान में रखता है ताकि आपको ऐसे teammates और opponents से जोड़ा जा सके जो सही level की challenge और compatibility प्रदान करें।
+## हमारे फाउंडर्स
 
-### Global Chat System
-
-हमारे vibrant global chat system के माध्यम से व्यापक गेमिंग कम्युनिटी के साथ connected रहें, जहाँ आप strategies पर चर्चा कर सकते हैं, experiences शेयर कर सकते हैं, या बस fellow gamers के साथ hang out कर सकते हैं।
-
-### Guild-Based Communities
-
-हमारे यूनीक "guild" सिस्टम के साथ अपना गेमिंग घर खोजें। अपनी पसंदीदा games या playing styles के आधार पर existing communities join करें, या अपना खुद का guild बनाएं और community leader बनें। अपनी reputation build करें, अपनी team culture establish करें, और gaming allies का नेटवर्क बढ़ाएं।
+- Arthur Bonvallet पेरिस से एक passionate गेमर और अनुभवी प्रोडक्ट स्पेशलिस्ट, Arthur अपनी यूज़र एक्सपीरियंस और प्रोडक्ट डेवलपमेंट की गहरी समझ Jynx में लाते हैं। उनका विज़न हमारे प्लेटफॉर्म के intuitive डिज़ाइन और फीचर सेट को guide करता है।
+- Antoine Haie पेरिस में स्थित Antoine की fullstack developer के रूप में तकनीकी expertise Jynx प्लेटफॉर्म को power देती है। उनकी गेमिंग बैकग्राउंड और तकनीकी स्किल्स का कॉम्बिनेशन सुनिश्चित करता है कि हमारा प्लेटफॉर्म सभी लेवल के गेमर्स के लिए एक seamless अनुभव प्रदान करे।
 
 ## हर गेमर के लिए
 
@@ -68,4 +55,4 @@ Game on!
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

@@ -3,7 +3,7 @@ title: "About Us"
 description: "Learn more about Jynx, the gaming community platform that transforms solo gaming into a social experience."
 canonical: "https://jynx.app/about.html"
 locale: "en"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ As gamers ourselves, we've experienced the challenges firsthand:
 
 Jynx addresses these pain points with innovative matchmaking systems designed specifically for gamers, by gamers.
 
-## Our Founders
-
-### Arthur Bonvallet
-
-A passionate gamer and experienced product specialist from Paris, Arthur brings his deep understanding of user experience and product development to Jynx. His vision drives our platform's intuitive design and feature set.
-
-### Antoine Haie
-
-Antoine's technical expertise as a fullstack developer powers the Jynx platform. Based in Paris, his gaming background combined with his technical skills ensures our platform delivers a seamless experience for gamers of all levels.
-
 ## What Makes Jynx Different
 
-### ELO-Based Match Queue
+- ELO-Based Match Queue Our sophisticated matching algorithm considers your skill level (ELO) to connect you with teammates and opponents who provide the right level of challenge and compatibility.
+- Global Chat System Stay connected with the broader gaming community through our vibrant global chat system, where you can discuss strategies, share experiences, or simply hang out with fellow gamers.
+- Guild-Based Communities Find your gaming home with our unique "guild" system. Join existing communities based on your favorite games or playing styles, or create your own guild and become a community leader. Build your reputation, establish your team culture, and grow your network of gaming allies.
 
-Our sophisticated matching algorithm considers your skill level (ELO) to connect you with teammates and opponents who provide the right level of challenge and compatibility.
+## Our Founders
 
-### Global Chat System
-
-Stay connected with the broader gaming community through our vibrant global chat system, where you can discuss strategies, share experiences, or simply hang out with fellow gamers.
-
-### Guild-Based Communities
-
-Find your gaming home with our unique "guild" system. Join existing communities based on your favorite games or playing styles, or create your own guild and become a community leader. Build your reputation, establish your team culture, and grow your network of gaming allies.
+- Arthur Bonvallet A passionate gamer and experienced product specialist from Paris, Arthur brings his deep understanding of user experience and product development to Jynx. His vision drives our platform's intuitive design and feature set.
+- Antoine Haie Antoine's technical expertise as a fullstack developer powers the Jynx platform. Based in Paris, his gaming background combined with his technical skills ensures our platform delivers a seamless experience for gamers of all levels.
 
 ## For Every Gamer
 
@@ -68,4 +55,4 @@ Game on!
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

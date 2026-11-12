@@ -15,14 +15,6 @@ The starting point for finding duos, crews, and five-stacks: each per-game page 
 
 Every game pairs differently: CS2 locks the rank window across two ladders, Marvel Rivals resets ranks every season, Fortnite splits on Build versus Zero Build, GTA crews run on heist seats and weekly sessions, and Siege stacks form around operator pools. This page is the English starting point for finding teammates: it takes you to the right per-game filters — verified rank, voice intent, and schedule overlap — and from there to the duo that plays like you.
 
-## Browse every game the app supports
-
-- [The Jynx game directory](/galaxy.html) The full active catalog — every game with its own reference page, grouped by category.
-
-## Every Jynx community, in one place
-
-- [The Jynx communities directory](/communities.html) 284 communities across 177 games — member counts and activity for every group, plus the 20,423-member global Jynx Community.
-
 ## Find teammates by game
 
 - [GTA 6 Online Find Crew: Build Your Heist Team Before November 19](/games/gta-6-online/duo-finder.html) The launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.
@@ -31,6 +23,14 @@ Every game pairs differently: CS2 locks the rank window across two ladders, Marv
 - [Marvel Rivals Duo Finder: Hero Pools, Team-Ups & Verified Rank](/games/marvel-rivals/duo-finder.html) Season 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.
 - [Fortnite Duo Finder: Duos, Trios & Squads That Stick](/games/fortnite/duo-finder.html) Stop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.
 - [R6 Siege Team Finder: Build Verified 5-Stacks From Copper to Champion](/games/rainbow-six-siege/duo-finder.html) Skip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.
+
+## Browse every game the app supports
+
+- [The Jynx game directory](/galaxy.html) The full active catalog — every game with its own reference page, grouped by category.
+
+## Every Jynx community, in one place
+
+- [The Jynx communities directory](/communities.html) 284 communities across 177 games — member counts and activity for every group, plus the 20,423-member global Jynx Community.
 
 ## Também em português
 
@@ -60,4 +60,4 @@ Download Jynx and find a verified duo today.
 
 Jynx is the next-generation companion app for gamers who find teammates with intent in any game: verified rank, voice intent, and schedule in common to line up the right partner for your queue — instead of hoping a Discord channel delivers.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)

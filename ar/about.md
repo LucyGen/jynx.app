@@ -3,7 +3,7 @@ title: "من نحن"
 description: "تعرف على المزيد حول Jynx، منصة مجتمع الألعاب التي تحوّل تجربة الألعاب الفردية إلى تجربة اجتماعية."
 canonical: "https://jynx.app/ar/about.html"
 locale: "ar"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 تعالج Jynx هذه المشاكل بأنظمة مطابقة مبتكرة مصممة خصيصًا للاعبين، من قبل اللاعبين.
 
-## المؤسسون
-
-### Arthur Bonvallet
-
-لاعب شغوف وخبير منتجات متمرس من باريس، يجلب آرثر فهمه العميق لتجربة المستخدم وتطوير المنتجات إلى Jynx. رؤيته تقود تصميم منصتنا البديهي ومجموعة الميزات.
-
-### Antoine Haie
-
-خبرة أنطوان التقنية كمطور fullstack تشغّل منصة Jynx. من باريس، خلفيته في الألعاب مع مهاراته التقنية تضمن أن منصتنا تقدم تجربة سلسة للاعبين من جميع المستويات.
-
 ## ما يميز Jynx
 
-### قائمة انتظار المطابقة المبنية على نظام ELO
+- قائمة انتظار المطابقة المبنية على نظام ELO خوارزمية المطابقة المتطورة لدينا تأخذ في الاعتبار مستوى مهارتك (ELO) لتوصيلك بزملاء الفريق والخصوم الذين يوفرون مستوى التحدي والتوافق المناسب.
+- نظام الدردشة العالمي ابقَ على اتصال مع مجتمع الألعاب الأوسع من خلال نظام الدردشة العالمي النابض بالحياة، حيث يمكنك مناقشة الاستراتيجيات ومشاركة التجارب أو ببساطة التسكع مع زملاء اللاعبين.
+- مجتمعات قائمة على النقابات ابحث عن موطنك في الألعاب من خلال نظام "النقابات" الفريد لدينا. انضم إلى مجتمعات موجودة بناءً على ألعابك المفضلة أو أساليب اللعب، أو أنشئ نقابتك الخاصة وأصبح قائد مجتمع. ابنِ سمعتك، وأسس ثقافة فريقك، وطوّر شبكة حلفائك في الألعاب.
 
-خوارزمية المطابقة المتطورة لدينا تأخذ في الاعتبار مستوى مهارتك (ELO) لتوصيلك بزملاء الفريق والخصوم الذين يوفرون مستوى التحدي والتوافق المناسب.
+## المؤسسون
 
-### نظام الدردشة العالمي
-
-ابقَ على اتصال مع مجتمع الألعاب الأوسع من خلال نظام الدردشة العالمي النابض بالحياة، حيث يمكنك مناقشة الاستراتيجيات ومشاركة التجارب أو ببساطة التسكع مع زملاء اللاعبين.
-
-### مجتمعات قائمة على النقابات
-
-ابحث عن موطنك في الألعاب من خلال نظام "النقابات" الفريد لدينا. انضم إلى مجتمعات موجودة بناءً على ألعابك المفضلة أو أساليب اللعب، أو أنشئ نقابتك الخاصة وأصبح قائد مجتمع. ابنِ سمعتك، وأسس ثقافة فريقك، وطوّر شبكة حلفائك في الألعاب.
+- Arthur Bonvallet لاعب شغوف وخبير منتجات متمرس من باريس، يجلب آرثر فهمه العميق لتجربة المستخدم وتطوير المنتجات إلى Jynx. رؤيته تقود تصميم منصتنا البديهي ومجموعة الميزات.
+- Antoine Haie خبرة أنطوان التقنية كمطور fullstack تشغّل منصة Jynx. من باريس، خلفيته في الألعاب مع مهاراته التقنية تضمن أن منصتنا تقدم تجربة سلسة للاعبين من جميع المستويات.
 
 ## لكل لاعب
 
@@ -68,4 +55,4 @@ Jynx أكثر من مجرد منصة - إنها مجتمع متنامٍ من ا�
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

@@ -17,10 +17,6 @@ A definitive reference for LFG, matchmaking, and gaming terminology. Each entry 
 
 Last updated 2026-10-30
 
-[Download on App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=glossary&utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dglossary_cta%26utm_content%3Dglossary) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=glossary)
-
-[Or play instantly on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary-web)
-
 ## Categories
 
 [All (148)](#all-terms) [Community (3)](#category-community) [Games (16)](#category-games) [Matchmaking (37)](#category-matchmaking) [Performance (9)](#category-performance) [Social Gaming (54)](#category-social-gaming) [Stats (9)](#category-stats) [Team Roles (16)](#category-team-roles) [Valorant Roles (4)](#category-valorant-roles)
@@ -251,3 +247,7 @@ Community Games Matchmaking Performance Social Gaming Stats Team Roles Valorant 
 
 - [1v9](/glossary/1v9.html) social-gaming
 - [5-stack](/glossary/5-stack.html) social-gaming
+
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=glossary&utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dglossary_cta%26utm_content%3Dglossary) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=glossary)
+
+[Or play instantly on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=glossary_cta&utm_content=glossary-web)

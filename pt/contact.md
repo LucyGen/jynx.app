@@ -19,19 +19,9 @@ Nós lemos todas as mensagens. As respostas do suporte costumam chegar em poucos
 
 ## Canais de email
 
-### Suporte ao cliente
-
-O canal principal. Acesso à conta, relatos de bugs, dúvidas de cobrança, pedidos de recursos e qualquer outra coisa sobre o app: [support@jynx.app](mailto:support@jynx.app)
-
-### Relatos de segurança
-
-Somente suspeitas de vulnerabilidades e problemas de segurança. Leia primeiro a política de divulgação — ela lista o que está no escopo e o que incluir no seu relato: [security@jynx.app](mailto:security@jynx.app)
-
-A política completa está na página [Política de Divulgação de Vulnerabilidades](/security.html).
-
-### Privacidade e proteção de dados
-
-Pedidos de dados pessoais, dúvidas de privacidade e solicitações de autoridades vão para o nosso encarregado de dados: [dpo@jynx.app](mailto:dpo@jynx.app)
+- Suporte ao cliente O canal principal. Acesso à conta, relatos de bugs, dúvidas de cobrança, pedidos de recursos e qualquer outra coisa sobre o app: [support@jynx.app](mailto:support@jynx.app)
+- Relatos de segurança Somente suspeitas de vulnerabilidades e problemas de segurança. Leia primeiro a política de divulgação — ela lista o que está no escopo e o que incluir no seu relato: [security@jynx.app](mailto:security@jynx.app) A política completa está na página [Política de Divulgação de Vulnerabilidades](/security.html).
+- Privacidade e proteção de dados Pedidos de dados pessoais, dúvidas de privacidade e solicitações de autoridades vão para o nosso encarregado de dados: [dpo@jynx.app](mailto:dpo@jynx.app)
 
 ## Comunidade e redes
 

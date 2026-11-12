@@ -11,6 +11,11 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 From the 20,423-member global community to tight single-game clubs — browse every public community on Jynx and jump straight into the ones that match your games.
 
+- 284 communities
+- 177 games
+- 56 sections
+- 20,423 global members
+
 284 communities across 177 games, grouped into 56 sections — search by name or browse by game.
 
 ## Featured communities
@@ -787,7 +792,7 @@ The directory's biggest constellation: 20 League of Legends communities and 5,33
 
 Download Jynx and join the communities that match your games — the global room, your main's biggest club, or the niche crew you didn't know existed.
 
-[Download on App Store](https://apps.apple.com/app/id6755744762) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
 
 [browse every game](/games.html)
 

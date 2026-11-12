@@ -3,7 +3,7 @@ title: "O Nas"
 description: "Dowiedz się więcej o Jynx, platformie społeczności gaming, która przekształca samotne granie w doświadczenie społeczne."
 canonical: "https://jynx.app/pl/about.html"
 locale: "pl"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -28,29 +28,16 @@ Jako gracze, doświadczyliśmy tych wyzwań na własnej skórze:
 
 Jynx rozwiązuje te problemy dzięki innowacyjnym systemom dopasowywania zaprojektowanym specjalnie dla graczy, przez graczy.
 
-## Nasi Założyciele
-
-### Arthur Bonvallet
-
-Pasjonat gier i doświadczony specjalista produktowy z Paryża, Arthur wnosi swoje głębokie zrozumienie doświadczenia użytkownika i rozwoju produktu do Jynx. Jego wizja napędza intuicyjny design i zestaw funkcji naszej platformy.
-
-### Antoine Haie
-
-Techniczna ekspertyza Antoine'a jako fullstack developera napędza platformę Jynx. Z siedzibą w Paryżu, jego gamingowe doświadczenie połączone z umiejętnościami technicznymi zapewnia, że nasza platforma oferuje płynne doświadczenie dla graczy na każdym poziomie.
-
 ## Co Wyróżnia Jynx
 
-### Kolejka Meczowa Oparta na ELO
+- Kolejka Meczowa Oparta na ELO Nasz zaawansowany algorytm dopasowywania uwzględnia twój poziom umiejętności (ELO), aby połączyć cię z kolegami i przeciwnikami, którzy zapewniają odpowiedni poziom wyzwania i kompatybilności.
+- Globalny System Czatu Pozostań w kontakcie z szerszą społecznością gaming poprzez nasz dynamiczny globalny system czatu, gdzie możesz omawiać strategie, dzielić się doświadczeniami lub po prostu spędzać czas z innymi graczami.
+- Społeczności Oparte na Gildiach Znajdź swój gamingowy dom dzięki naszemu unikalnemu systemowi "gildii". Dołącz do istniejących społeczności opartych na ulubionych grach lub stylach gry, lub stwórz własną gildię i zostań liderem społeczności. Buduj swoją reputację, ustanów kulturę zespołu i rozwijaj sieć gamingowych sojuszników.
 
-Nasz zaawansowany algorytm dopasowywania uwzględnia twój poziom umiejętności (ELO), aby połączyć cię z kolegami i przeciwnikami, którzy zapewniają odpowiedni poziom wyzwania i kompatybilności.
+## Nasi Założyciele
 
-### Globalny System Czatu
-
-Pozostań w kontakcie z szerszą społecznością gaming poprzez nasz dynamiczny globalny system czatu, gdzie możesz omawiać strategie, dzielić się doświadczeniami lub po prostu spędzać czas z innymi graczami.
-
-### Społeczności Oparte na Gildiach
-
-Znajdź swój gamingowy dom dzięki naszemu unikalnemu systemowi "gildii". Dołącz do istniejących społeczności opartych na ulubionych grach lub stylach gry, lub stwórz własną gildię i zostań liderem społeczności. Buduj swoją reputację, ustanów kulturę zespołu i rozwijaj sieć gamingowych sojuszników.
+- Arthur Bonvallet Pasjonat gier i doświadczony specjalista produktowy z Paryża, Arthur wnosi swoje głębokie zrozumienie doświadczenia użytkownika i rozwoju produktu do Jynx. Jego wizja napędza intuicyjny design i zestaw funkcji naszej platformy.
+- Antoine Haie Techniczna ekspertyza Antoine'a jako fullstack developera napędza platformę Jynx. Z siedzibą w Paryżu, jego gamingowe doświadczenie połączone z umiejętnościami technicznymi zapewnia, że nasza platforma oferuje płynne doświadczenie dla graczy na każdym poziomie.
 
 ## Dla Każdego Gracza
 
@@ -68,4 +55,4 @@ Graj dalej!
 
 Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

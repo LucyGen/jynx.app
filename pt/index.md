@@ -3,7 +3,7 @@ title: "App de Matchmaking Gaming | Encontre Companheiros LFG"
 description: "O Jynx é o app companheiro de nova geração para gamers: ranks verificados, match por função, voz e horário real substituem a roleta do matchmaking."
 canonical: "https://jynx.app/pt/"
 locale: "pt"
-dateModified: "2026-11-11"
+dateModified: "2026-11-12"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -11,7 +11,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 MATCH. TALK. PLAY. — salas de voz e compartilhamento de tela onde a squad se formou.
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
+[![](/assets/images/app-store-badge-pt-br-B2f2RYb9.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-pt-br-BDzMyajG.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
 Nota 4,4 no Google Play no Brasil (113 avaliações, 10K+ instalações) · Novo na App Store · atualizado em novembro de 2026.
 
@@ -60,7 +60,7 @@ OS TIPOS DE JOGADOR QUE FAZEMOS MATCH
 
 [Ver todas as avaliações no Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [Get it on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
+[![](/assets/images/app-store-badge-pt-br-B2f2RYb9.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-pt-br-BDzMyajG.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
 
 - 4/5 Bacana, ideia legal para conhecer jogadores e fazer amizades. Apesar de ser novo é fácil de mexer porém ainda é lento. Recomendo muito o app. Linno Google Play · setembro de 2026
 - 3/5 quando coloco algum filtro pra procurar uma pessoa especificamente, o app diz que não tem nenhum jogador, isso é um bug? e seria bom se tivesse opção de filtro "homem ou mulher" pq só tá aparecendo homem no app, queria procurar mulher também. EU SEI que ainda está em Beta, mas estou só dando uma sugestão, não estou criticando, nem nada. Mauricio Netono Google Play · julho de 2026
@@ -147,7 +147,7 @@ Sem toxicidade
 
 Movido pela comunidade
 
-[Download Jynx on the App Store](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [Get it on Google Play - Download Jynx App](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
+[![](/assets/images/app-store-badge-pt-br-B2f2RYb9.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-pt-br-BDzMyajG.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
 
 ### Suas sugestões, nossa prioridade
 
