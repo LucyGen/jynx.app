@@ -87,17 +87,25 @@ Comparaison en date d'octobre 2026. Discord et le LFG traditionnel reflètent le
 
 Duo finders et guides LFG pour vos jeux — trouvez votre équipe plus vite.
 
+- [Apex LegendsTrouvez des joueurs Apex Legends pour compléter votre trio ou grimper en ranked : classe complémentaire, plateforme, horaires et rang annoncé sur Jynx.](/fr/trouver-des-joueurs/apex/)
 - [Brawl StarsTrouvez des joueurs Brawl Stars pour former une équipe de trois ou rejoindre un club : mêmes modes, même niveau et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/brawl-stars/)
+- [Counter-Strike 2Trouvez des joueurs CS2 pour un 5 stack, le Premier ou FACEIT : niveau réel annoncé, rôles complémentaires et horaires compatibles, tout se règle sur Jynx.](/fr/trouver-des-joueurs/cs2/)
+- [FortniteTrouvez des joueurs Fortnite pour le duo, le trio ou la squad : Zero Build, scrims, plateforme et horaires compatibles, avec messagerie sur Jynx.](/fr/trouver-des-joueurs/fortnite/)
 - [Free FireTrouvez des joueurs Free Fire pour jouer en duo ou en escouade : même mode, même saison et mêmes horaires. Recrutez des coéquipiers compatibles avec Jynx.](/fr/trouver-des-joueurs/free-fire/)
+- [GTA OnlineTrouvez des joueurs GTA Online pour vos braquages ou un crew régulier : plateforme, horaires et attentes comparés, puis messagerie avant la finale Jynx.](/fr/trouver-des-joueurs/gta-online/)
 - [Honor of KingsTrouvez des joueurs Honor of Kings pour jouer en duo ou en équipe de cinq : rôles complémentaires, même niveau et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/honor-of-kings/)
 - [League of LegendsTrouvez des joueurs League of Legends pour la Solo/Duo ou la Flex : partenaire de votre rang, rôles complémentaires et rang vérifié via votre Riot ID sur Jynx.](/fr/trouver-des-joueurs/lol/)
 - [Marvel RivalsTrouvez des joueurs Marvel Rivals de votre rang pour jouer en duo ou en équipe. Compatibilité des rôles et des héros pour exploiter les Team-Up sur Jynx.](/fr/trouver-des-joueurs/marvel-rivals/)
 - [MinecraftTrouvez des joueurs Minecraft pour une survie entre amis, un serveur ou un Realm. Même édition, mêmes horaires, même style de jeu : rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/minecraft/)
 - [Mobile LegendsTrouvez des joueurs Mobile Legends pour monter en classé : escouade de cinq, duo, rôles complémentaires et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/mobile-legends/)
 - [Overwatch 2Trouvez des joueurs Overwatch 2 selon votre rôle : Tank, Dégâts ou Soutien. Rang par rôle vérifié, duo et équipe compatibles avec la file compétitive sur Jynx.](/fr/trouver-des-joueurs/overwatch-2/)
+- [Rainbow Six SiegeTrouvez des joueurs Rainbow Six Siege pour monter un stack ou jouer en ranked : plateforme, niveau, opérateurs et horaires compatibles sur Jynx.](/fr/trouver-des-joueurs/r6/)
 - [RobloxTrouvez des joueurs Roblox pour explorer une expérience ensemble : mêmes jeux, même âge, mêmes horaires. Rencontrez des partenaires compatibles sur Jynx.](/fr/trouver-des-joueurs/roblox/)
+- [Rocket LeagueTrouvez des joueurs Rocket League pour un duo ou un trio : rang proche, rôles complémentaires et horaires compatibles, avec messagerie directe sur Jynx.](/fr/trouver-des-joueurs/rocket-league/)
 - [ValorantTrouvez des joueurs Valorant de votre rang : duo ranked, 5 stack ou team. Rang vérifié via votre Riot ID, matching par rôle et par intention de jeu sur Jynx.](/fr/trouver-des-joueurs/valorant/)
+- [Call of Duty: WarzoneTrouvez des joueurs Call of Duty: Warzone pour un duo, un trio ou un quad : plateforme, style de jeu et horaires compatibles, puis messagerie sur Jynx.](/fr/trouver-des-joueurs/warzone/)
 - [Wild RiftTrouvez des joueurs Wild Rift pour grimper en duo ou en équipe : voie du Baron, du Dragon, mid, jungle et support. Rang lié à votre compte Riot sur Jynx.](/fr/trouver-des-joueurs/wild-rift/)
+- [World of WarcraftTrouvez des joueurs World of Warcraft pour un raid, du Mythique+ ou une guilde : classe, rôle, niveau d'objet et horaires à préciser avant de recruter.](/fr/trouver-des-joueurs/wow/)
 
 ### Du Glossaire Gaming
 
