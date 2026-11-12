@@ -79,7 +79,7 @@
     },
     "cta": {
       "title": "Rejoignez la Communauté Jynx",
-      "description": "Trouvez votre squad gaming idéale — Jynx est disponible sur iOS, Android, Windows et le web."
+      "description": "Trouvez votre squad gaming idéale — Jynx est disponible sur iOS, Android, Windows et le web. Une appli Mac est en route."
     }
   },
   "contact": {
@@ -1274,7 +1274,8 @@
     "app_store_small": "Télécharger sur",
     "app_store_large": "App Store",
     "play_store_small": "DISPONIBLE SUR",
-    "play_store_large": "Google Play"
+    "play_store_large": "Google Play",
+    "macos_note": "Appli Mac en route."
   },
   "proof": {
     "summary": "Noté {play_rating} sur Google Play au {market} ({play_count} avis, {downloads} installations) · Nouveau sur l'App Store · à jour en {as_of_month_year}.",
@@ -1538,7 +1539,7 @@
       "title_line2": "Plateforme Sociale de Gaming",
       "h1_line1": "Téléchargez Jynx",
       "h1_line2": "L'appli LFG gratuite pour trouver des coéquipiers de jeu",
-      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android, Windows et le web.",
+      "tagline": "Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android, Windows et le web. Une appli Mac est en préparation.",
       "web_cta": "Ou jouez directement sur le web"
     },
     "store": {
@@ -1618,6 +1619,12 @@
         "title": "Trouvez des coéquipiers sur Windows",
         "description": "Récupérez l'appli de recherche de duo sur le Microsoft Store et rencontrez des amis gamers en quelques minutes."
       },
+      "macos": {
+        "title": "Jynx pour Mac est en route",
+        "description": "L'appli Mac est en développement pour le Mac App Store. Envie d'être prévenu de sa sortie ? Dites-le-nous via le formulaire.",
+        "status": "En développement",
+        "cta": "Me prévenir"
+      },
       "web": {
         "title": "Jouez sur le web",
         "description": "Ouvrez l'app web Jynx dans votre navigateur et commencez à matcher immédiatement — sans téléchargement, sans installation. Fonctionne sur ordinateur et mobile.",
@@ -1635,7 +1642,7 @@
       "cta_button": "Écrivez-nous",
       "devices": {
         "q": "Sur quels appareils Jynx est-il disponible ?",
-        "a": "Jynx est disponible sur iOS, Android, Windows et le web — la même app dans votre navigateur sur web.jynx.app."
+        "a": "Jynx est disponible sur iOS, Android, Windows et le web — la même app dans votre navigateur sur web.jynx.app. Une appli Mac est en développement."
       },
       "how": {
         "q": "Comment télécharger Jynx ?",

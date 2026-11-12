@@ -79,7 +79,7 @@
     },
     "cta": {
       "title": "Junte-se à Comunidade Jynx",
-      "description": "Encontre sua squad gamer ideal — o Jynx está disponível no iOS, Android, Windows e na web."
+      "description": "Encontre sua squad gamer ideal — o Jynx está disponível no iOS, Android, Windows e na web. Um app para Mac está a caminho."
     }
   },
   "contact": {
@@ -1274,7 +1274,8 @@
     "app_store_small": "Baixar na",
     "app_store_large": "App Store",
     "play_store_small": "BAIXE NO",
-    "play_store_large": "Google Play"
+    "play_store_large": "Google Play",
+    "macos_note": "App para Mac a caminho."
   },
   "proof": {
     "summary": "Nota {play_rating} no Google Play no {market} ({play_count} avaliações, {downloads} instalações) · Novo na App Store · atualizado em {as_of_month_year}.",
@@ -1538,7 +1539,7 @@
       "title_line2": "Plataforma Social de Gaming",
       "h1_line1": "Baixe o Jynx",
       "h1_line2": "O app de LFG grátis para achar teammates",
-      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS, Android, Windows e na web.",
+      "tagline": "Encontre teammates e duos compatíveis para os seus jogos — grátis no iOS, Android, Windows e na web. Um app para Mac está a caminho.",
       "web_cta": "Ou jogue direto na web"
     },
     "store": {
@@ -1618,6 +1619,12 @@
         "title": "Ache o seu duo no Windows",
         "description": "Baixe o app para achar duo na Microsoft Store e faça amigos gamers em minutos."
       },
+      "macos": {
+        "title": "O Jynx para Mac está a caminho",
+        "description": "O app para Mac está em desenvolvimento para a Mac App Store. Quer saber quando chegar? Avise pelo formulário de feedback.",
+        "status": "Em desenvolvimento",
+        "cta": "Quero ser avisado"
+      },
       "web": {
         "title": "Jogue na web",
         "description": "Abra o app web do Jynx no seu navegador e comece a dar match na hora — sem download, sem instalação. Funciona no computador e no celular.",
@@ -1635,7 +1642,7 @@
       "cta_button": "Pergunte para a gente",
       "devices": {
         "q": "Em quais dispositivos o Jynx está disponível?",
-        "a": "O Jynx está disponível no iOS, Android, Windows e na web — o mesmo app no seu navegador em web.jynx.app."
+        "a": "O Jynx está disponível no iOS, Android, Windows e na web — o mesmo app no seu navegador em web.jynx.app. Um app para Mac está em desenvolvimento."
       },
       "how": {
         "q": "Como baixar o Jynx?",

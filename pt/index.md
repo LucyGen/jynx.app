@@ -13,6 +13,8 @@ MATCH. TALK. PLAY. — salas de voz e compartilhamento de tela onde a squad se f
 
 [![](/assets/images/app-store-badge-pt-br-B2f2RYb9.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-pt-br-BDzMyajG.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Selo de download da Microsoft Store](/assets/images/ms-store-badge-pt-br-BGsDPbYI.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
+App para Mac a caminho.
+
 Nota 4,4 no Google Play no Brasil (113 avaliações, 10K+ instalações) · Novo na App Store · atualizado em novembro de 2026.
 
 ## Jogue Melhor, Juntos

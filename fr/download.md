@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # Téléchargez Jynx L'appli LFG gratuite pour trouver des coéquipiers de jeu
 
-Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android, Windows et le web.
+Trouvez des coéquipiers et des duos compatibles pour vos jeux — gratuit sur iOS, Android, Windows et le web. Une appli Mac est en préparation.
 
 [![](/assets/images/app-store-badge-fr-CPsov_ea.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-hero&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-hero) [![](/assets/images/google-play-badge-fr-D_5TJ9En.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-hero) [![Badge de téléchargement du Microsoft Store](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download)
 
@@ -28,6 +28,7 @@ Jynx est disponible sur les trois stores d'apps et dans votre navigateur — cho
 - Trouvez des coéquipiers sur iOS Téléchargez l'appli pour trouver des coéquipiers de jeu sur l'App Store et jouez avec des joueurs proches de votre niveau. Nécessite iOS 13.0 ou ultérieur. [![](/assets/images/app-store-badge-fr-CPsov_ea.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-ios&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-ios)
 - Trouvez votre duo sur Android Installez l'appli de recherche de duo sur Google Play et rencontrez des amis gamers en quelques minutes. Nécessite Android 8.0 ou ultérieur. [![](/assets/images/google-play-badge-fr-D_5TJ9En.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-android)
 - Trouvez des coéquipiers sur Windows Récupérez l'appli de recherche de duo sur le Microsoft Store et rencontrez des amis gamers en quelques minutes. [![Badge de téléchargement du Microsoft Store](/assets/images/ms-store-badge-fr-DEWf0wRl.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-windows)
+- Jynx pour Mac est en route L'appli Mac est en développement pour le Mac App Store. Envie d'être prévenu de sa sortie ? Dites-le-nous via le formulaire. En développement [Me prévenir](#feedback)
 - Jouez sur le web Ouvrez l'app web Jynx dans votre navigateur et commencez à matcher immédiatement — sans téléchargement, sans installation. Fonctionne sur ordinateur et mobile. [Jouer sur le web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-web)
 
 ## Une appli LFG gratuite — gratuite pour toujours, sans piège
@@ -44,7 +45,7 @@ Encore des questions ?
 
 ### Sur quels appareils Jynx est-il disponible ?
 
-Jynx est disponible sur iOS, Android, Windows et le web — la même app dans votre navigateur sur web.jynx.app.
+Jynx est disponible sur iOS, Android, Windows et le web — la même app dans votre navigateur sur web.jynx.app. Une appli Mac est en développement.
 
 ### Comment télécharger Jynx ?
 
