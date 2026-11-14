@@ -149,7 +149,7 @@
       "twitter_image_alt": "Política de Privacidade"
     },
     "title": "Política de Privacidade",
-    "last_updated": "Última atualização: 11 de novembro de 2026",
+    "last_updated": "Última atualização: 14 de novembro de 2026",
     "version": "Versão: 1.0",
     "intro": {
       "title": "1. Introdução",
@@ -425,6 +425,12 @@
         "p2": "Como é ativada. No iPhone e no iPad, a medição de anúncios usa seus dados apenas com o seu consentimento (RGPD art. 6(1)(a); LGPD art. 7, I), dado na folha de privacidade do primeiro lançamento ou depois em Configurações > Privacidade > Medição de anúncios, e exige adicionalmente a autorização de Rastreamento de App da Apple (App Tracking Transparency, veja a §4.9). No Android, a medição de anúncios se baseia nesse mesmo consentimento ou, para os usuários a quem a chave de medição de anúncios é exibida ativada por padrão na folha do primeiro lançamento, no nosso interesse legítimo de medir nossa publicidade (LGPD art. 7, IX e art. 10), avaliado em uma Avaliação de Interesse Legítimo documentada. Nesse caso, ela vem ativada por padrão, e você pode desativá-la na própria folha ou a qualquer momento em Configurações > Privacidade > Medição de anúncios — opor-se é tão fácil quanto mantê-la ativada, sem custo, e nunca exige excluir sua conta (LGPD art. 18, §2).",
         "p3": "Salvaguardas. Usuários que sabemos ter menos de 18 anos, e perfis cuja idade não está estabelecida, nunca são medidos com base no interesse legítimo. Retirar o consentimento ou opor-se interrompe novos compartilhamentos a partir do próximo lançamento do aplicativo; eventos legitimamente compartilhados antes disso permanecem na Meta segundo os termos de retenção da §4.9, e a retirada não afeta a licitude do que foi feito antes (RGPD art. 7(3); LGPD art. 8 §5).",
         "skan": "<strong>SKAdNetwork da Apple (iOS).</strong> Independente do acima, e para todo usuário de iPhone e iPad independentemente de qualquer escolha ou configuração — inclusive quando o rastreamento ou a medição de anúncios é recusado — o SKAdNetwork da Apple informa à rede de anúncios que lhe exibiu um anúncio dados de conversão anônimos e agregados (por exemplo, que um cadastro ou uma compra em determinada faixa de valor ocorreu). Nenhum identificador do Jynx e nenhum dado pessoal sai do seu dispositivo para isso: é o mecanismo padrão de atribuição da Apple, e não podemos identificá-lo por meio dele."
+      },
+      "emails": {
+        "title": "5.10. E-mails e comunicações",
+        "service": "<strong>E-mails de notificação de atividade da conta (serviço).</strong> Quando você deixa de ver uma atividade da sua conta no aplicativo (mensagem não lida, novo match ou like), o Jynx pode enviar um e-mail para informá-lo. Esses e-mails são notificações de serviço, baseadas no nosso interesse legítimo de assegurar o funcionamento da plataforma social (o acompanhamento das suas interações em andamento), e não contêm nenhuma oferta promocional. Você pode desativar cada tipo de notificação (mensagens, matches, likes) a qualquer momento em Configurações > Privacidade > Comunicações, ou pelo link “Gerenciar estas notificações” presente em cada e-mail. Você também pode se opor a esse tratamento a qualquer momento (art. 21 do RGPD) escrevendo para privacy@jynx.app.",
+        "winback": "<strong>E-mails de reativação e comunicações de marketing (winback).</strong> Os e-mails que visam trazer você de volta ao Jynx após um período de inatividade, assim como as nossas comunicações de novidades e ofertas, são prospecção comercial. Eles só são enviados com o seu consentimento prévio, específico, livre e revogável, coletado por meio de uma caixa opcional desmarcada, distinta da aceitação dos nossos Termos. Você pode retirá-lo a qualquer momento em Configurações > Privacidade > Comunicações ou pelo link de descadastro presente em cada e-mail.",
+        "profile_display": "<strong>Exibição do seu pseudônimo e da sua foto de perfil nos e-mails de notificação.</strong> Se você interagiu com outro membro (like, match, mensagem), o seu pseudônimo e a sua foto de perfil podem aparecer nos e-mails de notificação de atividade a ele destinados quando ele estiver inativo. Esses elementos são gerados no momento do envio e não são conservados nos nossos registros de e-mails (apenas identificador e contadores)."
       }
     },
     "retention": {
@@ -891,6 +897,10 @@
         "esp_label": "Provedor de serviços de email.",
         "esp": "Utilizamos um provedor de serviços de email terceiro (operador) sob um Acordo de Tratamento de Dados, identificado na Política de Privacidade §4.4 e no §9 Serviços de Terceiros (§9.5).",
         "consumer_rights": "Esta cláusula não prejudica quaisquer direitos obrigatórios de proteção ao consumidor que você tenha nos termos da lei do seu país de residência, incluindo o Código de Defesa do Consumidor brasileiro."
+      },
+      "activity_notifications": {
+        "title": "5.6. Notificações relacionadas à atividade da sua conta",
+        "p1": "<strong>Notificações relacionadas à atividade da sua conta.</strong> O Jynx envia notificações relacionadas à atividade da sua conta (novas mensagens, matches, likes), inclusive por e-mail quando você as perdeu no aplicativo. A aceitação destes Termos não vale como consentimento para receber e-mails de marketing: as comunicações de marketing (como os nossos e-mails de reativação e as nossas novidades) só são enviadas com a sua inscrição separada e facultativa."
       }
     },
     "section6": {

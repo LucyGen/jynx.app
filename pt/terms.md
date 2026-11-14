@@ -3,17 +3,21 @@ title: "Termos de Serviço"
 description: "Leia os Termos de Serviço da Jynx. Estes termos descrevem seus direitos e responsabilidades ao usar nossa plataforma de comunidade gaming."
 canonical: "https://jynx.app/pt/terms.html"
 locale: "pt"
-dateModified: "2026-11-10"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Termos de Serviço - Jynx
 
-**Última Atualização:** November 10, 2026
+**Última Atualização:** November 14, 2026
 
-**Effective Date:** November 10, 2026
+**Effective Date:** November 14, 2026
 
-**Versão:** 1.8
+**Versão:** 1.9
+
+### Changes in Version 1.9 (November 14, 2026)
+
+- Adds §5.6 (Account-Activity Notifications): Jynx sends you account-activity notifications (new messages, matches, likes), including by email when you have missed them in the app; accepting these Terms is not consent to receive marketing emails — marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up (see §5.5 and Privacy Policy §5.10). No other clause changes.
 
 ### Changes in Version 1.8 (November 10, 2026)
 
@@ -322,6 +326,10 @@ Nos termos da seção §5.6 Comunicações de Marketing da Política de Privacid
 6. **Provedor de serviços de email.** Utilizamos um provedor de serviços de email terceiro (operador) sob um Acordo de Tratamento de Dados, identificado na Política de Privacidade §4.4 e no §9 Serviços de Terceiros (§9.5).
 
 Esta cláusula não prejudica quaisquer direitos obrigatórios de proteção ao consumidor que você tenha nos termos da lei do seu país de residência, incluindo o Código de Defesa do Consumidor brasileiro.
+
+### 5.6. Notificações relacionadas à atividade da sua conta
+
+**Notificações relacionadas à atividade da sua conta.** O Jynx envia notificações relacionadas à atividade da sua conta (novas mensagens, matches, likes), inclusive por e-mail quando você as perdeu no aplicativo. A aceitação destes Termos não vale como consentimento para receber e-mails de marketing: as comunicações de marketing (como os nossos e-mails de reativação e as nossas novidades) só são enviadas com a sua inscrição separada e facultativa.
 
 ## 6. Comunidades e Recursos de Gaming
 

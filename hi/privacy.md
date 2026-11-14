@@ -3,7 +3,7 @@ title: "Privacy Policy"
 description: "जानें कि Jynx कैसे आपकी privacy को protect करता है और आपके data को handle करता है। हमारी transparent privacy policy हमारी practices और आपके अधिकारों को outline करती है।"
 canonical: "https://jynx.app/hi/privacy.html"
 locale: "hi"
-dateModified: "2026-11-11"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -11,7 +11,11 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 आखिरी अपडेट: नवंबर 2026
 
-Version: 1.11
+Version: 1.12
+
+### Changes in Version 1.12 (November 14, 2026)
+
+- Adds §5.10 (Emails and Communications) with the two-regime email disclosure validated by counsel on 2026-11-14: account-activity notification emails (unread message, new match, like) are service notifications sent on our legitimate interest, with a per-type off switch in Settings > Privacy > Communications or via the "Manage these notifications" link in each email, plus the separate GDPR Art. 21 objection channel (privacy@jynx.app); re-engagement (winback), news, and offers emails are commercial prospecting sent only with your prior consent, given via a separate unchecked box and withdrawable at any time; and usernames and profile pictures shown in activity-notification emails are generated at send time and never retained in our email logs (identifier and counts only). Pairs with Terms of Service v1.9 (§5.6). No other clause changes.
 
 ### Changes in Version 1.11 (November 11, 2026)
 
@@ -333,6 +337,14 @@ How it is enabled. On iPhone and iPad, ad measurement uses your data only with y
 Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).
 
 **Apple SKAdNetwork (iOS).** Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it.
+
+### 5.10. Emails and Communications
+
+**Account-activity notification emails (service).** When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the "Manage these notifications" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.
+
+**Re-engagement and marketing emails (winback).** Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.
+
+**Display of your username and profile picture in notification emails.** If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only).
 
 ## 6. Data Retention
 

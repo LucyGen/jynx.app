@@ -425,6 +425,12 @@
         "p2": "How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).",
         "p3": "Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).",
         "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it."
+      },
+      "emails": {
+        "title": "5.10. Emails and Communications",
+        "service": "<strong>Account-activity notification emails (service).</strong> When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the \"Manage these notifications\" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.",
+        "winback": "<strong>Re-engagement and marketing emails (winback).</strong> Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.",
+        "profile_display": "<strong>Display of your username and profile picture in notification emails.</strong> If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only)."
       }
     },
     "retention": {
@@ -879,6 +885,10 @@
         "esp_label": "Email service provider.",
         "esp": "We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).",
         "consumer_rights": "This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code."
+      },
+      "activity_notifications": {
+        "title": "5.6. Account-Activity Notifications",
+        "p1": "<strong>Account-activity notifications.</strong> Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up."
       }
     },
     "section6": {

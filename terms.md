@@ -3,17 +3,21 @@ title: "Terms of Service"
 description: "Read the Terms of Service for Jynx. These terms outline your rights and responsibilities when using our gaming community platform."
 canonical: "https://jynx.app/terms.html"
 locale: "en"
-dateModified: "2026-11-10"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Terms of Service - Jynx
 
-**Last Updated:** November 10, 2026
+**Last Updated:** November 14, 2026
 
-**Effective Date:** November 10, 2026
+**Effective Date:** November 14, 2026
 
-**Version:** 1.8
+**Version:** 1.9
+
+### Changes in Version 1.9 (November 14, 2026)
+
+- Adds §5.6 (Account-Activity Notifications): Jynx sends you account-activity notifications (new messages, matches, likes), including by email when you have missed them in the app; accepting these Terms is not consent to receive marketing emails — marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up (see §5.5 and Privacy Policy §5.10). No other clause changes.
 
 ### Changes in Version 1.8 (November 10, 2026)
 
@@ -322,6 +326,10 @@ Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you 
 6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
 
 This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+
+### 5.6. Account-Activity Notifications
+
+**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
 
 ## 6. Communities & Gaming Features
 

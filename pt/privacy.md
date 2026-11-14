@@ -3,15 +3,19 @@ title: "Política de Privacidade"
 description: "Saiba como Jynx protege sua privacidade e lida com seus dados. Nossa política de privacidade transparente descreve nossas práticas e seus direitos."
 canonical: "https://jynx.app/pt/privacy.html"
 locale: "pt"
-dateModified: "2026-11-11"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Política de Privacidade
 
-Última atualização: 11 de novembro de 2026
+Última atualização: 14 de novembro de 2026
 
-Version: 1.11
+Version: 1.12
+
+### Changes in Version 1.12 (November 14, 2026)
+
+- Adds §5.10 (Emails and Communications) with the two-regime email disclosure validated by counsel on 2026-11-14: account-activity notification emails (unread message, new match, like) are service notifications sent on our legitimate interest, with a per-type off switch in Settings > Privacy > Communications or via the "Manage these notifications" link in each email, plus the separate GDPR Art. 21 objection channel (privacy@jynx.app); re-engagement (winback), news, and offers emails are commercial prospecting sent only with your prior consent, given via a separate unchecked box and withdrawable at any time; and usernames and profile pictures shown in activity-notification emails are generated at send time and never retained in our email logs (identifier and counts only). Pairs with Terms of Service v1.9 (§5.6). No other clause changes.
 
 ### Changes in Version 1.11 (November 11, 2026)
 
@@ -333,6 +337,14 @@ Como é ativada. No iPhone e no iPad, a medição de anúncios usa seus dados ap
 Salvaguardas. Usuários que sabemos ter menos de 18 anos, e perfis cuja idade não está estabelecida, nunca são medidos com base no interesse legítimo. Retirar o consentimento ou opor-se interrompe novos compartilhamentos a partir do próximo lançamento do aplicativo; eventos legitimamente compartilhados antes disso permanecem na Meta segundo os termos de retenção da §4.9, e a retirada não afeta a licitude do que foi feito antes (RGPD art. 7(3); LGPD art. 8 §5).
 
 **SKAdNetwork da Apple (iOS).** Independente do acima, e para todo usuário de iPhone e iPad independentemente de qualquer escolha ou configuração — inclusive quando o rastreamento ou a medição de anúncios é recusado — o SKAdNetwork da Apple informa à rede de anúncios que lhe exibiu um anúncio dados de conversão anônimos e agregados (por exemplo, que um cadastro ou uma compra em determinada faixa de valor ocorreu). Nenhum identificador do Jynx e nenhum dado pessoal sai do seu dispositivo para isso: é o mecanismo padrão de atribuição da Apple, e não podemos identificá-lo por meio dele.
+
+### 5.10. E-mails e comunicações
+
+**E-mails de notificação de atividade da conta (serviço).** Quando você deixa de ver uma atividade da sua conta no aplicativo (mensagem não lida, novo match ou like), o Jynx pode enviar um e-mail para informá-lo. Esses e-mails são notificações de serviço, baseadas no nosso interesse legítimo de assegurar o funcionamento da plataforma social (o acompanhamento das suas interações em andamento), e não contêm nenhuma oferta promocional. Você pode desativar cada tipo de notificação (mensagens, matches, likes) a qualquer momento em Configurações > Privacidade > Comunicações, ou pelo link “Gerenciar estas notificações” presente em cada e-mail. Você também pode se opor a esse tratamento a qualquer momento (art. 21 do RGPD) escrevendo para privacy@jynx.app.
+
+**E-mails de reativação e comunicações de marketing (winback).** Os e-mails que visam trazer você de volta ao Jynx após um período de inatividade, assim como as nossas comunicações de novidades e ofertas, são prospecção comercial. Eles só são enviados com o seu consentimento prévio, específico, livre e revogável, coletado por meio de uma caixa opcional desmarcada, distinta da aceitação dos nossos Termos. Você pode retirá-lo a qualquer momento em Configurações > Privacidade > Comunicações ou pelo link de descadastro presente em cada e-mail.
+
+**Exibição do seu pseudônimo e da sua foto de perfil nos e-mails de notificação.** Se você interagiu com outro membro (like, match, mensagem), o seu pseudônimo e a sua foto de perfil podem aparecer nos e-mails de notificação de atividade a ele destinados quando ele estiver inativo. Esses elementos são gerados no momento do envio e não são conservados nos nossos registros de e-mails (apenas identificador e contadores).
 
 ## 6. Retenção de Dados
 

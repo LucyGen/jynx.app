@@ -3,17 +3,21 @@ title: "Conditions d'Utilisation"
 description: "Consultez les Conditions d'Utilisation de Jynx. Ces conditions définissent vos droits et responsabilités lors de l'utilisation de notre plateforme communautaire gaming."
 canonical: "https://jynx.app/fr/terms.html"
 locale: "fr"
-dateModified: "2026-11-10"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Conditions d'Utilisation - Jynx
 
-**Dernière Mise à Jour :** November 10, 2026
+**Dernière Mise à Jour :** November 14, 2026
 
-**Effective Date:** November 10, 2026
+**Effective Date:** November 14, 2026
 
-**Version :** 1.8
+**Version :** 1.9
+
+### Changes in Version 1.9 (November 14, 2026)
+
+- Adds §5.6 (Account-Activity Notifications): Jynx sends you account-activity notifications (new messages, matches, likes), including by email when you have missed them in the app; accepting these Terms is not consent to receive marketing emails — marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up (see §5.5 and Privacy Policy §5.10). No other clause changes.
 
 ### Changes in Version 1.8 (November 10, 2026)
 
@@ -322,6 +326,10 @@ Sous réserve du §5.6 Communications Marketing de la Politique de Confidentiali
 6. **Fournisseur de services d'email.** Nous utilisons un fournisseur de services d'email tiers (sous-traitant) dans le cadre d'un Accord de Traitement des Données, désigné au §4.4 et au §9 Services Tiers (§9.5) de la Politique de Confidentialité.
 
 La présente clause est sans préjudice des droits de protection du consommateur impératifs que vous détenez au titre de la loi de votre pays de résidence, y compris le Code Brésilien de la Défense du Consommateur.
+
+### 5.6. Notifications liées à l’activité de votre compte
+
+**Notifications liées à l’activité de votre compte.** Jynx vous envoie des notifications liées à l’activité de votre compte (nouveaux messages, matchs, likes), y compris par email lorsque vous les avez manquées dans l’application. L’acceptation des présentes Conditions ne vaut pas consentement à recevoir des emails marketing : les communications marketing (telles que nos emails de réactivation et nos actus) ne sont envoyées qu’avec votre inscription séparée et facultative.
 
 ## 6. Communautés & Fonctionnalités de Jeu
 
