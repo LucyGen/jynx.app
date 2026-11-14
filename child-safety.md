@@ -3,21 +3,23 @@ title: "Child Safety Policy"
 description: "Learn about Jynx's commitment to child safety. Our policies and measures to protect minors on our gaming social platform."
 canonical: "https://jynx.app/child-safety.html"
 locale: "en"
-dateModified: "2026-10-24"
+dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Child Safety Policy
 
-Last updated: October 24, 2026
+Last updated: November 14, 2026
 
 Effective date: May 18, 2026
 
-Version: 1.1
+Version: 1.2
 
 ## Our Commitment to Child Safety
 
-Jynx is a gaming social platform that connects gamers through algorithmic matchmaking, community chat, and game sessions. The safety of minors on our platform is our highest priority. We have zero tolerance for child sexual abuse material (CSAM), grooming, or any form of child exploitation.
+Jynx is a gaming social platform that connects gamers through algorithmic matchmaking, community chat, and game sessions. The safety of minors on our platform is our highest priority. We have zero tolerance for child sexual abuse and exploitation (CSAE) in any form, including child sexual abuse material (CSAM) and grooming.
+
+**Child sexual abuse and exploitation (CSAE) is strictly prohibited on the Jynx app and on every Jynx service.** This standard applies to all content, messages, profiles, communities, voice rooms and game sessions in the Jynx app (Android, iOS and web).
 
 **Users are strictly prohibited from creating, uploading, sharing, searching for, or distributing CSAM on Jynx.** Violations result in immediate permanent ban and may be reported to relevant authorities.
 
@@ -168,6 +170,7 @@ We are committed to responding promptly to all child safety reports.
 ### Report a Safety Concern
 
 - **In-app:** Use the report button on any message, profile, or content
+- **In-app support form:** Settings → Help & support → “Report a safety concern” or “Contact support” sends a message to our team without leaving the app
 - **Email:** [support@jynx.app](mailto:support@jynx.app)
 - **NCMEC CyberTipline:** [report.cybertip.org](https://report.cybertip.org) (for reporting CSAM directly to authorities)
 - **Emergency:** If a child is in immediate danger, contact your local law enforcement or call **911** (US) / **112** (EU)
