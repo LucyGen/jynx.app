@@ -3,7 +3,7 @@ title: "App de Matchmaking Gaming | Encuentra Compañeros LFG"
 description: "Encuentra a tus compañeros gaming perfectos con el matchmaking inteligente de Jynx. Empareja por habilidad, estilo de juego y horario. Deja de jugar solo."
 canonical: "https://jynx.app/es/"
 locale: "es"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4,4 on Google Play in Brasil (113 ratings, 10K+ installs) · New on the App Store · as of noviembre de 2026.
+Rated 4,4 on Google Play in Brasil (118 ratings, 10K+ installs) · New on the App Store · as of noviembre de 2026.
 
 ## Juega Mejor, Juntos
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Brasil as of noviembre de 2026
+4,4 118 ratings on Google Play in Brasil as of noviembre de 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Encontrar buenos compañeros para ranked no es cuestión de cantidad — es cues
 
 ### ¿Cuáles son las mejores alternativas a Discord para encontrar compañeros de gaming?
 
-Discord es genial para chatear con compañeros que YA tienes. ¿Para encontrar nuevos? Es la herramienta equivocada. Esta es la realidad: publicar 'LFG' en un servidor con 10,000 miembros significa que tu mensaje se entierra en minutos. No tienes forma de filtrar por nivel de habilidad, disponibilidad o estilo de juego antes de contactar. Y lo más importante — estás haciendo todo el trabajo. Haciendo spam en canales, enviando DMs a desconocidos, esperando que alguien responda. **Lo que realmente necesitas es una plataforma diseñada para el descubrimiento:** **• Perfiles de jugadores** — Ve el rango, horario y roles preferidos de alguien ANTES de escribirle **• Filtrado inteligente** — Busca por criterios que importan (idioma, zona horaria, nivel de habilidad) **• Emparejamiento activo** — Recibe recomendaciones en lugar de gritar al vacío El objetivo no es reemplazar Discord — es usar la herramienta correcta para descubrimiento, y luego pasar a Discord para chat de voz una vez que hayas encontrado compañeros compatibles. [Mira cómo el LFG evolucionó de los foros al matchmaking inteligente](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord es genial para chatear con compañeros que YA tienes. ¿Para encontrar nuevos? Es la herramienta equivocada. Esta es la realidad: publicar 'LFG' en un servidor con 10,000 miembros significa que tu mensaje se entierra en minutos. No tienes forma de filtrar por nivel de habilidad, disponibilidad o estilo de juego antes de contactar. Y lo más importante — estás haciendo todo el trabajo. Haciendo spam en canales, enviando DMs a desconocidos, esperando que alguien responda. **Lo que realmente necesitas es una plataforma diseñada para el descubrimiento:** **• Perfiles de jugadores** — Ve el rango, horario y roles preferidos de alguien ANTES de escribirle **• Filtrado inteligente** — Busca por criterios que importan (idioma, zona horaria, nivel de habilidad) **• Emparejamiento activo** — Recibe recomendaciones en lugar de gritar al vacío El objetivo no es reemplazar Discord — es usar la herramienta correcta para descubrimiento, y luego pasar a Discord para chat de voz una vez que hayas encontrado compañeros compatibles. [Mira cómo el LFG evolucionó de los foros al matchmaking inteligente](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### ¿Hay apps y plataformas de matchmaking gaming gratuitas?
 

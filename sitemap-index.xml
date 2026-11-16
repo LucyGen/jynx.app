@@ -9,6 +9,10 @@
     <lastmod>2026-10-17</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://jynx.app/comparisons-sitemap.xml</loc>
+    <lastmod>2026-11-16</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://jynx.app/games-sitemap.xml</loc>
     <lastmod>2026-10-30</lastmod>
   </sitemap>
@@ -18,7 +22,7 @@
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/sitemap.xml</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/stats-sitemap.xml</loc>
@@ -26,7 +30,7 @@
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/fr/sitemap.xml</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/pt/blog-sitemap.xml</loc>
@@ -34,6 +38,6 @@
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/pt/sitemap.xml</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </sitemap>
 </sitemapindex>

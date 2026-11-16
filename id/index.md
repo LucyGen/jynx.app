@@ -3,7 +3,7 @@ title: "Aplikasi Matchmaking Gaming | Temukan Rekan LFG"
 description: "Temukan rekan tim gaming sempurna dengan matchmaking cerdas Jynx. Cocokkan berdasarkan skill, gaya bermain & jadwal. Berhenti bermain sendirian."
 canonical: "https://jynx.app/id/"
 locale: "id"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4,4 on Google Play in Brasil (113 ratings, 10K+ installs) · New on the App Store · as of November 2026.
+Rated 4,4 on Google Play in Brasil (118 ratings, 10K+ installs) · New on the App Store · as of November 2026.
 
 ## Bermain Lebih Baik, Bersama
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Brasil as of November 2026
+4,4 118 ratings on Google Play in Brasil as of November 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Menemukan rekan tim ranked yang baik bukan soal kuantitas — tapi kompatibilita
 
 ### Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?
 
-Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah. Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons. **Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:** **• Profil pemain** — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan **• Filtering cerdas** — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill) **• Active matching** — Dapatkan rekomendasi alih-alih berteriak ke kekosongan Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. [Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah. Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons. **Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:** **• Profil pemain** — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan **• Filtering cerdas** — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill) **• Active matching** — Dapatkan rekomendasi alih-alih berteriak ke kekosongan Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. [Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Apakah ada aplikasi dan platform matchmaking gaming gratis?
 

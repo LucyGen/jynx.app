@@ -3,7 +3,7 @@ title: "Gaming Matchmaking App | Find LFG Teammates"
 description: "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Stop playing alone."
 canonical: "https://jynx.app/"
 locale: "en"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4.4 on Google Play in Brazil (113 ratings, 10K+ installs) · New on the App Store · as of November 2026.
+Rated 4.4 on Google Play in Brazil (118 ratings, 10K+ installs) · New on the App Store · as of November 2026.
 
 ## Game Better, Together
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4.4 out of 5 stars
 
-4.4 113 ratings on Google Play in Brazil as of November 2026
+4.4 118 ratings on Google Play in Brazil as of November 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Finding good ranked teammates isn't about quantity — it's about compatibility.
 
 ### What are the best alternatives to Discord for finding gaming teammates?
 
-Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void Jynx closes that loop in one app: match, open a voice room together — group, 1:1, or an always-on Chill Room — and share your screen without ever leaving the conversation that started with a swipe. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html).
+Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void Jynx closes that loop in one app: match, open a voice room together — group, 1:1, or an always-on Chill Room — and share your screen without ever leaving the conversation that started with a swipe. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Are there free gaming matchmaking apps and platforms?
 

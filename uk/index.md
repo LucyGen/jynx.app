@@ -3,7 +3,7 @@ title: "Додаток Ігрового Матчмейкінгу | Знайти 
 description: "Знайди ідеальних тіммейтів за допомогою розумного матчмейкінгу Jynx. Підбір за скілом, стилем гри та розкладом. Годі грати на самоті."
 canonical: "https://jynx.app/uk/"
 locale: "uk"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4,4 on Google Play in Бразилія (113 ratings, 10K+ installs) · New on the App Store · as of листопад 2026 р..
+Rated 4,4 on Google Play in Бразилія (118 ratings, 10K+ installs) · New on the App Store · as of листопад 2026 р..
 
 ## Грай Краще, Разом
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Бразилія as of листопад 2026 р.
+4,4 118 ratings on Google Play in Бразилія as of листопад 2026 р.
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### Які є найкращі альтернативи Discord для пошуку ігрових товаришів по команді?
 
-Discord чудово підходить для спілкування з тіммейтами, які у тебе ВЖЕ є. Для пошуку нових? Це не той інструмент. Ось реальність: Публікація 'LFG' на сервері з 10 000 учасників означає, що твоє повідомлення буде поховане за хвилини. У тебе немає способу фільтрувати за рівнем скілу, доступністю або стилем гри перед зверненням. І найголовніше — ти робиш всю роботу. Спамиш канали, пишеш незнайомцям в DM, сподіваючись, що хтось відповість. **Те, що тобі насправді потрібно — це платформа, створена для пошуку:** **• Профілі гравців** — Бачиш ранг, розклад та улюблені ролі когось ДО того, як написати **• Розумна фільтрація** — Пошук за критеріями, які важливі (мова, часовий пояс, рівень скілу) **• Активний підбір** — Отримуй рекомендації замість крику в порожнечу Мета не в тому, щоб замінити Discord — а в тому, щоб використовувати правильний інструмент для пошуку, а потім перейти на Discord для голосового чату, коли знайдеш сумісних тіммейтів. [Дізнайся, як LFG еволюціонувало від форумів до розумного матчмейкінгу](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord чудово підходить для спілкування з тіммейтами, які у тебе ВЖЕ є. Для пошуку нових? Це не той інструмент. Ось реальність: Публікація 'LFG' на сервері з 10 000 учасників означає, що твоє повідомлення буде поховане за хвилини. У тебе немає способу фільтрувати за рівнем скілу, доступністю або стилем гри перед зверненням. І найголовніше — ти робиш всю роботу. Спамиш канали, пишеш незнайомцям в DM, сподіваючись, що хтось відповість. **Те, що тобі насправді потрібно — це платформа, створена для пошуку:** **• Профілі гравців** — Бачиш ранг, розклад та улюблені ролі когось ДО того, як написати **• Розумна фільтрація** — Пошук за критеріями, які важливі (мова, часовий пояс, рівень скілу) **• Активний підбір** — Отримуй рекомендації замість крику в порожнечу Мета не в тому, щоб замінити Discord — а в тому, щоб використовувати правильний інструмент для пошуку, а потім перейти на Discord для голосового чату, коли знайдеш сумісних тіммейтів. [Дізнайся, як LFG еволюціонувало від форумів до розумного матчмейкінгу](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Чи є безкоштовні додатки та платформи для ігрового матчмейкінгу?
 

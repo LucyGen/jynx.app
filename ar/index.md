@@ -3,7 +3,7 @@ title: "تطبيق مطابقة الألعاب | ابحث عن فريق LFG"
 description: "اعثر على زملاء الألعاب المثاليين مع المطابقة الذكية من Jynx. طابق حسب المهارة وأسلوب اللعب والجدول. توقف عن اللعب وحدك."
 canonical: "https://jynx.app/ar/"
 locale: "ar"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated ٤٫٤ on Google Play in البرازيل (١١٣ ratings, 10K+ installs) · New on the App Store · as of نوفمبر ٢٠٢٦.
+Rated ٤٫٤ on Google Play in البرازيل (١١٨ ratings, 10K+ installs) · New on the App Store · as of نوفمبر ٢٠٢٦.
 
 ## العب بشكل أفضل، معًا
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 ٤٫٤ out of 5 stars
 
-٤٫٤ ١١٣ ratings on Google Play in البرازيل as of نوفمبر ٢٠٢٦
+٤٫٤ ١١٨ ratings on Google Play in البرازيل as of نوفمبر ٢٠٢٦
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### ما هي أفضل بدائل Discord للعثور على زملاء الألعاب؟
 
-Discord رائع للدردشة مع زملاء لديك بالفعل. لكن للعثور على جدد؟ إنه الأداة الخاطئة. إليك الواقع: نشر 'LFG' في خادم يضم 10,000 عضو يعني دفن رسالتك في دقائق. لا توجد طريقة للتصفية حسب مستوى المهارة أو التوافر أو أسلوب اللعب قبل التواصل. والأهم — أنت تقوم بكل العمل. إغراق القنوات بالرسائل، مراسلة الغرباء، وتأمل أن يرد أحد. **ما تحتاجه فعلاً هو منصة مصممة للاكتشاف:** **• ملفات تعريف اللاعبين** — شاهد رتبة شخص ما وجدوله وأدواره المفضلة قبل إرسال رسالة **• تصفية ذكية** — ابحث حسب المعايير المهمة (اللغة، المنطقة الزمنية، مستوى المهارة) **• مطابقة فعّالة** — احصل على توصيات بدلاً من الصراخ في الفراغ الهدف ليس استبدال Discord — بل استخدام الأداة المناسبة للاكتشاف، ثم الانتقال إلى Discord للدردشة الصوتية بمجرد العثور على زملاء متوافقين. [اطّلع على تطور LFG من المنتديات إلى المطابقة الذكية](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord رائع للدردشة مع زملاء لديك بالفعل. لكن للعثور على جدد؟ إنه الأداة الخاطئة. إليك الواقع: نشر 'LFG' في خادم يضم 10,000 عضو يعني دفن رسالتك في دقائق. لا توجد طريقة للتصفية حسب مستوى المهارة أو التوافر أو أسلوب اللعب قبل التواصل. والأهم — أنت تقوم بكل العمل. إغراق القنوات بالرسائل، مراسلة الغرباء، وتأمل أن يرد أحد. **ما تحتاجه فعلاً هو منصة مصممة للاكتشاف:** **• ملفات تعريف اللاعبين** — شاهد رتبة شخص ما وجدوله وأدواره المفضلة قبل إرسال رسالة **• تصفية ذكية** — ابحث حسب المعايير المهمة (اللغة، المنطقة الزمنية، مستوى المهارة) **• مطابقة فعّالة** — احصل على توصيات بدلاً من الصراخ في الفراغ الهدف ليس استبدال Discord — بل استخدام الأداة المناسبة للاكتشاف، ثم الانتقال إلى Discord للدردشة الصوتية بمجرد العثور على زملاء متوافقين. [اطّلع على تطور LFG من المنتديات إلى المطابقة الذكية](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### هل يوجد تطبيقات ومنصات مجانية لمطابقة الألعاب؟
 

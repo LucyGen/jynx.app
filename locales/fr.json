@@ -1485,7 +1485,7 @@
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
-      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>Jynx ferme cette boucle dans une seule app : match, ouvrez un salon vocal ensemble — de groupe, en 1:1, ou une Chill Room toujours active — et partagez votre écran sans jamais quitter la conversation née d'un swipe. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>."
+      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>Jynx ferme cette boucle dans une seule app : match, ouvrez un salon vocal ensemble — de groupe, en 1:1, ou une Chill Room toujours active — et partagez votre écran sans jamais quitter la conversation née d'un swipe. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>. Pour le comparatif complet, lisez notre article <a href=\"/fr/comparatif/discord-lfg/\">Jynx ou Discord LFG</a> — tous les critères, y compris les points où Discord gagne."
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
@@ -1706,6 +1706,36 @@
       "source": "sur Google Play"
     }
   },
+  "comparisons": {
+    "cta_download": "Télécharger Jynx",
+    "cta_more": "En savoir plus sur Jynx",
+    "cta_paragraph": "Le test le plus juste pour une appli de matchmaking, c'est votre propre routine de jeu. Jynx est gratuit pour tout le parcours de match — installez, créez votre profil, et voyez si le matching par compatibilité bat les alternatives sur les jeux auxquels vous jouez vraiment.",
+    "hub_label": "Comparaisons",
+    "label_by": "Par",
+    "label_category": "Catégorie :",
+    "label_cons": "Inconvénients",
+    "label_home": "Site :",
+    "label_key_strengths": "Points forts",
+    "label_maker": "Éditeur :",
+    "label_platforms": "Plateformes :",
+    "label_price": "Prix :",
+    "label_pros": "Avantages",
+    "label_published": "Publié le",
+    "label_recommendation": "Recommandation :",
+    "section_contenders": "Les prétendants",
+    "section_cta": "Essayez Jynx par vous-même",
+    "section_faq": "Questions fréquentes",
+    "section_feature": "Critère",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Réponse rapide",
+    "section_related": "Comparaisons liées",
+    "section_use_cases": "Cas d'usage réels — qui choisit quoi",
+    "table_heading_best": "Tableau comparatif maître — {apps} applis × {features} critères",
+    "table_heading_vs": "Comparaison critère par critère — {features} critères",
+    "table_intro_best": "Chaque critère noté sur chaque prétendant. Colonne Jynx mise en avant car l'article est signé par un fondateur de Jynx — lisez la section explicite « où Jynx perd » ci-dessous avant de conclure.",
+    "table_intro_vs": "Chaque critère où les deux produits diffèrent — y compris les lignes où Jynx perd. Colonne Jynx mise en avant car cet article est signé par un fondateur de Jynx.",
+    "who_picks_format": "Qui devrait choisir {name}"
+  },
   "comparison": {
     "title": "La boucle complète, dans une seule app.",
     "intro": "Swipez, matchez, et lancez la discussion. Salons vocaux, chat et partage d'écran vivent dans la même app que celle où vous avez trouvé votre squad — pas de deuxième app, pas de saut de serveur, pas de lien à partager pour rejoindre un appel.",
@@ -1750,7 +1780,8 @@
       "title": "Prêt à Expérimenter la Différence ?",
       "description": "Rejoignez des gamers du monde entier qui trouvent leurs équipes parfaites avec le matchmaking IA Jynx",
       "button": "Commencer le Matching avec l'IA - Gratuit pour Toujours"
-    }
+    },
+    "vs_link": "Envie du comparatif complet ? Lisez la confrontation rédigée par le fondateur : <a href=\"/fr/comparatif/discord-lfg/\">Jynx ou Discord LFG</a> — tous les critères, y compris là où Discord gagne."
   },
   "blog": {
     "meta": {

@@ -1485,7 +1485,7 @@
     },
     "q4": {
       "question": "Quais são as melhores alternativas ao Discord para encontrar companheiros de gaming?",
-      "answer": "Discord é ótimo pra conversar com companheiros que você JÁ tem. Pra encontrar novos? É a ferramenta errada.<br><br>A realidade é essa: postar 'LFG' em um servidor com 10.000 membros significa que sua mensagem é enterrada em minutos. Você não tem como filtrar por nível de habilidade, disponibilidade ou estilo de jogo antes de entrar em contato. E o mais importante — você está fazendo todo o trabalho. Fazendo spam em canais, mandando DMs pra estranhos, torcendo pra alguém responder.<br><br><strong>O que você realmente precisa é de uma plataforma feita para descoberta:</strong><br><strong>• Perfis de jogadores</strong> — Veja rank, horário e funções preferidas de alguém ANTES de mandar mensagem<br><strong>• Filtragem inteligente</strong> — Busque por critérios que importam (idioma, fuso horário, nível de habilidade)<br><strong>• Correspondência ativa</strong> — Receba recomendações em vez de gritar no vazio<br><br>O Jynx fecha esse ciclo em um app só: dê o match, abra uma sala de voz juntos — em grupo, 1:1, ou numa Chill Room sempre aberta — e compartilhe a tela sem sair da conversa que começou com um swipe. <a href=\"/pt/blog/onde-achar-time-para-jogar.html\">Discord, grupo de Zap ou app: a gente comparou onde achar time de verdade</a>."
+      "answer": "Discord é ótimo pra conversar com companheiros que você JÁ tem. Pra encontrar novos? É a ferramenta errada.<br><br>A realidade é essa: postar 'LFG' em um servidor com 10.000 membros significa que sua mensagem é enterrada em minutos. Você não tem como filtrar por nível de habilidade, disponibilidade ou estilo de jogo antes de entrar em contato. E o mais importante — você está fazendo todo o trabalho. Fazendo spam em canais, mandando DMs pra estranhos, torcendo pra alguém responder.<br><br><strong>O que você realmente precisa é de uma plataforma feita para descoberta:</strong><br><strong>• Perfis de jogadores</strong> — Veja rank, horário e funções preferidas de alguém ANTES de mandar mensagem<br><strong>• Filtragem inteligente</strong> — Busque por critérios que importam (idioma, fuso horário, nível de habilidade)<br><strong>• Correspondência ativa</strong> — Receba recomendações em vez de gritar no vazio<br><br>O Jynx fecha esse ciclo em um app só: dê o match, abra uma sala de voz juntos — em grupo, 1:1, ou numa Chill Room sempre aberta — e compartilhe a tela sem sair da conversa que começou com um swipe. <a href=\"/pt/blog/onde-achar-time-para-jogar.html\">Discord, grupo de Zap ou app: a gente comparou onde achar time de verdade</a>. Para o comparativo completo, leia o nosso <a href=\"/pt/vs/jynx-vs-discord.html\">Jynx vs Discord LFG, recurso a recurso</a> — 16 recursos, incluindo onde o Discord ganha."
     },
     "q5": {
       "question": "Existem apps e plataformas de matchmaking gaming gratuitos?",
@@ -1706,6 +1706,36 @@
       "source": "no Google Play"
     }
   },
+  "comparisons": {
+    "cta_download": "Baixar o Jynx",
+    "cta_more": "Leia mais do Jynx",
+    "cta_paragraph": "O teste mais justo para qualquer app de matchmaking é a sua própria rotina de jogo. O Jynx é grátis para todo o fluxo de match — instale, monte seu perfil e veja se o matchmaking por compatibilidade vence as alternativas nos games que você realmente joga.",
+    "hub_label": "Comparações",
+    "label_by": "Por",
+    "label_category": "Categoria:",
+    "label_cons": "Contras",
+    "label_home": "Site:",
+    "label_key_strengths": "Pontos fortes",
+    "label_maker": "Fabricante:",
+    "label_platforms": "Plataformas:",
+    "label_price": "Preço:",
+    "label_pros": "Prós",
+    "label_published": "Publicado em",
+    "label_recommendation": "Recomendação:",
+    "section_contenders": "Os concorrentes",
+    "section_cta": "Experimente o Jynx você mesmo",
+    "section_faq": "Perguntas frequentes",
+    "section_feature": "Recurso",
+    "section_intro": "Introdução",
+    "section_quick_answer": "Resposta rápida",
+    "section_related": "Comparações relacionadas",
+    "section_use_cases": "Casos de uso reais — quem escolhe o quê",
+    "table_heading_best": "Tabela comparativa completa — {apps} apps × {features} recursos",
+    "table_heading_vs": "Comparação de recursos frente a frente — {features} recursos",
+    "table_intro_best": "Cada recurso avaliado em cada concorrente. Coluna do Jynx destacada porque o artigo é assinado por um fundador do Jynx — leia a seção explícita \"onde o Jynx perde\" abaixo antes de concluir.",
+    "table_intro_vs": "Cada recurso em que os dois produtos diferem — incluindo as linhas em que o Jynx perde. Coluna do Jynx destacada porque este artigo é assinado por um fundador do Jynx.",
+    "who_picks_format": "Quem deve escolher {name}"
+  },
   "comparison": {
     "title": "O ciclo completo, em um app só.",
     "intro": "Dê o swipe, dê o match e comece a conversar. Salas de voz, chat e compartilhamento de tela moram no mesmo app onde você achou sua squad — sem segundo app, sem pular de servidor, sem passar link pra entrar numa call.",
@@ -1750,7 +1780,8 @@
       "title": "Pronto para Experimentar a Diferença?",
       "description": "Junte-se a gamers no mundo todo encontrando seus esquadrões perfeitos com matchmaking IA da Jynx",
       "button": "Comece a Corresponder com IA - Grátis Para Sempre"
-    }
+    },
+    "vs_link": "Quer a análise completa? Leia o comparativo escrito pelo fundador: <a href=\"/pt/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 recursos, incluindo onde o Jynx perde."
   },
   "global": {
     "nojs_banner": "JavaScript está desativado. Alguns recursos interativos podem não funcionar de forma ideal."

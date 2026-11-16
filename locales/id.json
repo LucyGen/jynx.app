@@ -1485,7 +1485,7 @@
     },
     "q4": {
       "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
-      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah.<br><br>Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons.<br><br><strong>Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:</strong><br><strong>• Profil pemain</strong> — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas</strong> — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching</strong> — Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking</a>."
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah.<br><br>Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons.<br><br><strong>Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:</strong><br><strong>• Profil pemain</strong> — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas</strong> — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching</strong> — Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
@@ -1706,6 +1706,36 @@
       "source": "via Google Play"
     }
   },
+  "comparisons": {
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
+  },
   "comparison": {
     "title": "The whole loop, in one app.",
     "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
@@ -1750,7 +1780,8 @@
       "title": "Siap Merasakan Perbedaannya?",
       "description": "Bergabunglah dengan gamer di seluruh dunia yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
       "button": "Mulai Matching dengan AI - Gratis Selamanya"
-    }
+    },
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "global": {
     "nojs_banner": "JavaScript dinonaktifkan. Beberapa fitur interaktif mungkin tidak berfungsi secara optimal."

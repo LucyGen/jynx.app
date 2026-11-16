@@ -1485,7 +1485,7 @@
     },
     "q4": {
       "question": "Was sind die besten Alternativen zu Discord, um Gaming-Teamkollegen zu finden?",
-      "answer": "Discord ist großartig zum Chatten mit Teamkollegen, die du BEREITS hast. Zum Finden neuer? Das falsche Tool.<br><br>Die Realität: 'LFG' in einem Server mit 10.000 Mitgliedern zu posten bedeutet, dass deine Nachricht in Minuten begraben wird. Du hast keine Möglichkeit, nach Skill-Level, Verfügbarkeit oder Spielstil zu filtern, bevor du dich meldest. Und am wichtigsten — du machst die ganze Arbeit. Kanäle spammen, Fremde anschreiben, hoffen, dass jemand antwortet.<br><br><strong>Was du wirklich brauchst, ist eine Plattform, die für Entdeckung gemacht ist:</strong><br><strong>• Spielerprofile</strong> — Sieh jemandes Rang, Zeitplan und bevorzugte Rollen BEVOR du eine Nachricht schreibst<br><strong>• Intelligente Filterung</strong> — Suche nach Kriterien, die zählen (Sprache, Zeitzone, Skill-Level)<br><strong>• Aktives Matching</strong> — Erhalte Empfehlungen, anstatt ins Leere zu schreien<br><br>Das Ziel ist nicht, Discord zu ersetzen — sondern das richtige Tool für Entdeckung zu nutzen und dann zu Discord für Voice-Chat zu wechseln, sobald du kompatible Teamkollegen gefunden hast. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Erfahre, wie sich LFG von Foren zu intelligentem Matchmaking entwickelt hat</a>."
+      "answer": "Discord ist großartig zum Chatten mit Teamkollegen, die du BEREITS hast. Zum Finden neuer? Das falsche Tool.<br><br>Die Realität: 'LFG' in einem Server mit 10.000 Mitgliedern zu posten bedeutet, dass deine Nachricht in Minuten begraben wird. Du hast keine Möglichkeit, nach Skill-Level, Verfügbarkeit oder Spielstil zu filtern, bevor du dich meldest. Und am wichtigsten — du machst die ganze Arbeit. Kanäle spammen, Fremde anschreiben, hoffen, dass jemand antwortet.<br><br><strong>Was du wirklich brauchst, ist eine Plattform, die für Entdeckung gemacht ist:</strong><br><strong>• Spielerprofile</strong> — Sieh jemandes Rang, Zeitplan und bevorzugte Rollen BEVOR du eine Nachricht schreibst<br><strong>• Intelligente Filterung</strong> — Suche nach Kriterien, die zählen (Sprache, Zeitzone, Skill-Level)<br><strong>• Aktives Matching</strong> — Erhalte Empfehlungen, anstatt ins Leere zu schreien<br><br>Das Ziel ist nicht, Discord zu ersetzen — sondern das richtige Tool für Entdeckung zu nutzen und dann zu Discord für Voice-Chat zu wechseln, sobald du kompatible Teamkollegen gefunden hast. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Erfahre, wie sich LFG von Foren zu intelligentem Matchmaking entwickelt hat</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "Gibt es kostenlose Gaming-Matchmaking-Apps und -Plattformen?",
@@ -1706,6 +1706,36 @@
       "source": "via Google Play"
     }
   },
+  "comparisons": {
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
+  },
   "comparison": {
     "title": "The whole loop, in one app.",
     "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
@@ -1750,7 +1780,8 @@
       "title": "Bereit, den Unterschied zu erleben?",
       "description": "Tritt Gamern weltweit bei und finde dein perfektes Squad mit Jynx KI-Matchmaking",
       "button": "Fang an zu matchen mit KI - Für immer kostenlos"
-    }
+    },
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "global": {
     "nojs_banner": "JavaScript ist deaktiviert. Einige interaktive Funktionen funktionieren möglicherweise nicht optimal."

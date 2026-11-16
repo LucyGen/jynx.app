@@ -3,7 +3,7 @@ title: "게임 매칭 앱 | LFG 팀원 찾기"
 description: "Jynx의 스마트 매칭으로 완벽한 게임 팀원을 찾으세요. 실력, 플레이 스타일, 일정별로 매칭. 혼자 플레이하지 마세요."
 canonical: "https://jynx.app/ko/"
 locale: "ko"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4.4 on Google Play in 브라질 (113 ratings, 10K+ installs) · New on the App Store · as of 2026년 11월.
+Rated 4.4 on Google Play in 브라질 (118 ratings, 10K+ installs) · New on the App Store · as of 2026년 11월.
 
 ## 함께, 더 나은 게임
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4.4 out of 5 stars
 
-4.4 113 ratings on Google Play in 브라질 as of 2026년 11월
+4.4 118 ratings on Google Play in 브라질 as of 2026년 11월
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### 게임 팀원을 찾기 위한 Discord의 최고 대안은 무엇인가요?
 
-Discord는 이미 있는 팀원들과 소통하기에는 훌륭합니다. 새로운 팀원을 찾는 데는? 잘못된 도구입니다. 현실은 이렇습니다: 10,000명이 있는 서버에 'LFG'를 올리면 몇 분 안에 메시지가 묻힙니다. 연락하기 전에 실력 수준, 가용성, 플레이 스타일로 필터링할 방법이 없습니다. 그리고 가장 중요한 것은 — 당신이 모든 일을 하고 있다는 겁니다. 채널에 스팸하고, 모르는 사람에게 DM 보내고, 누군가 응답하기를 바랍니다. **당신이 진짜 필요한 것은 발견을 위해 설계된 플랫폼입니다:** **• 플레이어 프로필** — 메시지 보내기 전에 랭크, 일정, 선호 역할을 확인하세요 **• 스마트 필터링** — 중요한 기준(언어, 시간대, 실력 수준)으로 검색하세요 **• 능동적 매칭** — 허공에 소리치는 대신 추천을 받으세요 목표는 Discord를 대체하는 것이 아닙니다 — 발견을 위해 올바른 도구를 사용하고, 호환되는 팀원을 찾으면 음성 채팅을 위해 Discord로 이동하는 것입니다. [LFG가 포럼에서 스마트 매칭으로 어떻게 진화했는지 확인하세요](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord는 이미 있는 팀원들과 소통하기에는 훌륭합니다. 새로운 팀원을 찾는 데는? 잘못된 도구입니다. 현실은 이렇습니다: 10,000명이 있는 서버에 'LFG'를 올리면 몇 분 안에 메시지가 묻힙니다. 연락하기 전에 실력 수준, 가용성, 플레이 스타일로 필터링할 방법이 없습니다. 그리고 가장 중요한 것은 — 당신이 모든 일을 하고 있다는 겁니다. 채널에 스팸하고, 모르는 사람에게 DM 보내고, 누군가 응답하기를 바랍니다. **당신이 진짜 필요한 것은 발견을 위해 설계된 플랫폼입니다:** **• 플레이어 프로필** — 메시지 보내기 전에 랭크, 일정, 선호 역할을 확인하세요 **• 스마트 필터링** — 중요한 기준(언어, 시간대, 실력 수준)으로 검색하세요 **• 능동적 매칭** — 허공에 소리치는 대신 추천을 받으세요 목표는 Discord를 대체하는 것이 아닙니다 — 발견을 위해 올바른 도구를 사용하고, 호환되는 팀원을 찾으면 음성 채팅을 위해 Discord로 이동하는 것입니다. [LFG가 포럼에서 스마트 매칭으로 어떻게 진화했는지 확인하세요](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### 무료 게임 매칭 앱과 플랫폼이 있나요?
 

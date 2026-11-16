@@ -3,7 +3,7 @@ title: "Oyun Eşleştirme Uygulaması | LFG Takım Arkadaşları Bul"
 description: "Jynx'in akıllı eşleştirmesiyle mükemmel oyun takım arkadaşlarınızı bulun. Yetenek, oyun tarzı ve programa göre eşleşin. Artık yalnız oynamayı bırakın."
 canonical: "https://jynx.app/tr/"
 locale: "tr"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4,4 on Google Play in Brezilya (113 ratings, 10K+ installs) · New on the App Store · as of Kasım 2026.
+Rated 4,4 on Google Play in Brezilya (118 ratings, 10K+ installs) · New on the App Store · as of Kasım 2026.
 
 ## Birlikte Daha İyi Oyun
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Brezilya as of Kasım 2026
+4,4 118 ratings on Google Play in Brezilya as of Kasım 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Oyuncu bulmak kolay. DOĞRU oyuncuları bulmak herkesin başarısız olduğu nok
 
 ### Oyun takım arkadaşları bulmak için Discord'a en iyi alternatifler nelerdir?
 
-Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır. Yenilerini bulmak için mi? Yanlış araç. İşte gerçek: 10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın hiçbir yolu yoktur. Ve en önemlisi — tüm işi siz yapıyorsunuz. Kanalları spam yapıyorsunuz, yabancılara DM atıyorsunuz, birinin yanıt vermesini umuyorsunuz. **Gerçekten ihtiyacınız olan keşif için tasarlanmış bir platformdur:** **• Oyuncu profilleri** — Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün **• Akıllı filtreleme** — Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi) **• Aktif eşleştirme** — Boşluğa bağırmak yerine öneriler alın Amaç Discord'u değiştirmek değil — keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. [LFG'nin forumlardan akıllı eşleştirmeye nasıl evrildiğini görün](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır. Yenilerini bulmak için mi? Yanlış araç. İşte gerçek: 10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın hiçbir yolu yoktur. Ve en önemlisi — tüm işi siz yapıyorsunuz. Kanalları spam yapıyorsunuz, yabancılara DM atıyorsunuz, birinin yanıt vermesini umuyorsunuz. **Gerçekten ihtiyacınız olan keşif için tasarlanmış bir platformdur:** **• Oyuncu profilleri** — Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün **• Akıllı filtreleme** — Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi) **• Aktif eşleştirme** — Boşluğa bağırmak yerine öneriler alın Amaç Discord'u değiştirmek değil — keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. [LFG'nin forumlardan akıllı eşleştirmeye nasıl evrildiğini görün](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Ücretsiz oyun eşleştirme uygulamaları ve platformları var mı?
 

@@ -3,7 +3,7 @@ title: "Ứng Dụng Ghép Đôi Gaming | Tìm Đồng Đội LFG"
 description: "Tìm đồng đội game hoàn hảo với hệ thống ghép đôi thông minh của Jynx. Kết nối theo kỹ năng, phong cách chơi và lịch trình. Đừng chơi một mình nữa."
 canonical: "https://jynx.app/vi/"
 locale: "vi"
-dateModified: "2026-11-12"
+dateModified: "2026-11-16"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
 
 Mac app on the way.
 
-Rated 4,4 on Google Play in Brazil (113 ratings, 10K+ installs) · New on the App Store · as of tháng 11 năm 2026.
+Rated 4,4 on Google Play in Brazil (118 ratings, 10K+ installs) · New on the App Store · as of tháng 11 năm 2026.
 
 ## Chơi Game Tốt Hơn, Cùng Nhau
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4,4 out of 5 stars
 
-4,4 113 ratings on Google Play in Brazil as of tháng 11 năm 2026
+4,4 118 ratings on Google Play in Brazil as of tháng 11 năm 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
@@ -84,6 +84,8 @@ Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in t
 On the roadmap: Smart Team Builder — auto-formed, balanced teams
 
 Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+
+Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
 ## Find Your Game
 
@@ -131,7 +133,7 @@ Tìm đồng đội rank tốt không phải về số lượng — mà về tư
 
 ### Các lựa chọn thay thế Discord tốt nhất để tìm đồng đội game là gì?
 
-Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi. Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời. **Bạn thực sự cần một nền tảng được thiết kế cho khám phá:** **• Hồ sơ người chơi** — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin **• Lọc thông minh** — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ) **• Ghép đôi chủ động** — Nhận đề xuất thay vì hét vào hư không Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. [Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào](/blog/lfg-evolution-forums-to-smart-matchmaking).
+Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi. Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời. **Bạn thực sự cần một nền tảng được thiết kế cho khám phá:** **• Hồ sơ người chơi** — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin **• Lọc thông minh** — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ) **• Ghép đôi chủ động** — Nhận đề xuất thay vì hét vào hư không Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. [Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Có ứng dụng và nền tảng ghép đôi game miễn phí không?
 

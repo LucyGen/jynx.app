@@ -1608,6 +1608,36 @@
       }
     }
   },
+  "comparisons": {
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
+  },
   "comparison": {
     "title": "The whole loop, in one app.",
     "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
@@ -1652,7 +1682,8 @@
       "title": "Farkı Deneyimlemeye Hazır mısınız?",
       "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan dünya çapındaki oyunculara katılın",
       "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
-    }
+    },
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "personas": {
     "main_title": "WHO JYNX IS FOR",
@@ -1712,7 +1743,7 @@
     },
     "q4": {
       "question": "Oyun takım arkadaşları bulmak için Discord'a en iyi alternatifler nelerdir?",
-      "answer": "Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır. Yenilerini bulmak için mi? Yanlış araç.<br><br>İşte gerçek: 10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın hiçbir yolu yoktur. Ve en önemlisi — tüm işi siz yapıyorsunuz. Kanalları spam yapıyorsunuz, yabancılara DM atıyorsunuz, birinin yanıt vermesini umuyorsunuz.<br><br><strong>Gerçekten ihtiyacınız olan keşif için tasarlanmış bir platformdur:</strong><br><strong>• Oyuncu profilleri</strong> — Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün<br><strong>• Akıllı filtreleme</strong> — Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi)<br><strong>• Aktif eşleştirme</strong> — Boşluğa bağırmak yerine öneriler alın<br><br>Amaç Discord'u değiştirmek değil — keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG'nin forumlardan akıllı eşleştirmeye nasıl evrildiğini görün</a>."
+      "answer": "Discord ZATEN sahip olduğunuz takım arkadaşlarıyla sohbet etmek için harikadır. Yenilerini bulmak için mi? Yanlış araç.<br><br>İşte gerçek: 10.000 üyeli bir sunucuda 'LFG' göndermek, mesajınızın dakikalar içinde gömülmesi anlamına gelir. Ulaşmadan önce yetenek seviyesine, müsaitliğe veya oyun tarzına göre filtreleme yapmanın hiçbir yolu yoktur. Ve en önemlisi — tüm işi siz yapıyorsunuz. Kanalları spam yapıyorsunuz, yabancılara DM atıyorsunuz, birinin yanıt vermesini umuyorsunuz.<br><br><strong>Gerçekten ihtiyacınız olan keşif için tasarlanmış bir platformdur:</strong><br><strong>• Oyuncu profilleri</strong> — Mesajlaşmadan ÖNCE birinin sıralamasını, programını ve tercih ettiği rolleri görün<br><strong>• Akıllı filtreleme</strong> — Önemli kriterlere göre arama yapın (dil, saat dilimi, yetenek seviyesi)<br><strong>• Aktif eşleştirme</strong> — Boşluğa bağırmak yerine öneriler alın<br><br>Amaç Discord'u değiştirmek değil — keşif için doğru aracı kullanmak, ardından uyumlu takım arkadaşları bulduktan sonra sesli sohbet için Discord'a geçmektir. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG'nin forumlardan akıllı eşleştirmeye nasıl evrildiğini görün</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "Ücretsiz oyun eşleştirme uygulamaları ve platformları var mı?",

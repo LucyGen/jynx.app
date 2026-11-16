@@ -1601,6 +1601,36 @@
       }
     }
   },
+  "comparisons": {
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
+  },
   "comparison": {
     "title": "The whole loop, in one app.",
     "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
@@ -1645,7 +1675,8 @@
       "title": "차이를 경험할 준비가 되셨나요?",
       "description": "전 세계 게이머들과 함께 Jynx AI 매칭으로 완벽한 스쿼드를 찾으세요",
       "button": "AI 매칭 시작 - 영원히 무료"
-    }
+    },
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "personas": {
     "main_title": "WHO JYNX IS FOR",
@@ -1705,7 +1736,7 @@
     },
     "q4": {
       "question": "게임 팀원을 찾기 위한 Discord의 최고 대안은 무엇인가요?",
-      "answer": "Discord는 이미 있는 팀원들과 소통하기에는 훌륭합니다. 새로운 팀원을 찾는 데는? 잘못된 도구입니다.<br><br>현실은 이렇습니다: 10,000명이 있는 서버에 'LFG'를 올리면 몇 분 안에 메시지가 묻힙니다. 연락하기 전에 실력 수준, 가용성, 플레이 스타일로 필터링할 방법이 없습니다. 그리고 가장 중요한 것은 — 당신이 모든 일을 하고 있다는 겁니다. 채널에 스팸하고, 모르는 사람에게 DM 보내고, 누군가 응답하기를 바랍니다.<br><br><strong>당신이 진짜 필요한 것은 발견을 위해 설계된 플랫폼입니다:</strong><br><strong>• 플레이어 프로필</strong> — 메시지 보내기 전에 랭크, 일정, 선호 역할을 확인하세요<br><strong>• 스마트 필터링</strong> — 중요한 기준(언어, 시간대, 실력 수준)으로 검색하세요<br><strong>• 능동적 매칭</strong> — 허공에 소리치는 대신 추천을 받으세요<br><br>목표는 Discord를 대체하는 것이 아닙니다 — 발견을 위해 올바른 도구를 사용하고, 호환되는 팀원을 찾으면 음성 채팅을 위해 Discord로 이동하는 것입니다. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG가 포럼에서 스마트 매칭으로 어떻게 진화했는지 확인하세요</a>."
+      "answer": "Discord는 이미 있는 팀원들과 소통하기에는 훌륭합니다. 새로운 팀원을 찾는 데는? 잘못된 도구입니다.<br><br>현실은 이렇습니다: 10,000명이 있는 서버에 'LFG'를 올리면 몇 분 안에 메시지가 묻힙니다. 연락하기 전에 실력 수준, 가용성, 플레이 스타일로 필터링할 방법이 없습니다. 그리고 가장 중요한 것은 — 당신이 모든 일을 하고 있다는 겁니다. 채널에 스팸하고, 모르는 사람에게 DM 보내고, 누군가 응답하기를 바랍니다.<br><br><strong>당신이 진짜 필요한 것은 발견을 위해 설계된 플랫폼입니다:</strong><br><strong>• 플레이어 프로필</strong> — 메시지 보내기 전에 랭크, 일정, 선호 역할을 확인하세요<br><strong>• 스마트 필터링</strong> — 중요한 기준(언어, 시간대, 실력 수준)으로 검색하세요<br><strong>• 능동적 매칭</strong> — 허공에 소리치는 대신 추천을 받으세요<br><br>목표는 Discord를 대체하는 것이 아닙니다 — 발견을 위해 올바른 도구를 사용하고, 호환되는 팀원을 찾으면 음성 채팅을 위해 Discord로 이동하는 것입니다. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">LFG가 포럼에서 스마트 매칭으로 어떻게 진화했는지 확인하세요</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "무료 게임 매칭 앱과 플랫폼이 있나요?",

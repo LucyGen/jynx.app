@@ -1608,6 +1608,36 @@
       }
     }
   },
+  "comparisons": {
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
+  },
   "comparison": {
     "title": "The whole loop, in one app.",
     "intro": "Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
@@ -1652,7 +1682,8 @@
       "title": "Sẵn Sàng Trải Nghiệm Sự Khác Biệt?",
       "description": "Tham gia game thủ trên toàn thế giới đang tìm đội hoàn hảo với ghép đôi AI của Jynx",
       "button": "Bắt Đầu Ghép Đôi Với AI - Miễn Phí Mãi Mãi"
-    }
+    },
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "personas": {
     "main_title": "WHO JYNX IS FOR",
@@ -1712,7 +1743,7 @@
     },
     "q4": {
       "question": "Các lựa chọn thay thế Discord tốt nhất để tìm đồng đội game là gì?",
-      "answer": "Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi.<br><br>Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời.<br><br><strong>Bạn thực sự cần một nền tảng được thiết kế cho khám phá:</strong><br><strong>• Hồ sơ người chơi</strong> — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh</strong> — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ)<br><strong>• Ghép đôi chủ động</strong> — Nhận đề xuất thay vì hét vào hư không<br><br>Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào</a>."
+      "answer": "Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi.<br><br>Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời.<br><br><strong>Bạn thực sự cần một nền tảng được thiết kế cho khám phá:</strong><br><strong>• Hồ sơ người chơi</strong> — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh</strong> — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ)<br><strong>• Ghép đôi chủ động</strong> — Nhận đề xuất thay vì hét vào hư không<br><br>Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "Có ứng dụng và nền tảng ghép đôi game miễn phí không?",
