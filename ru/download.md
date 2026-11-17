@@ -3,7 +3,7 @@ title: "Скачать Jynx - Игровая социальная платфор
 description: "Скачай Jynx - Общайся с геймерами, находи товарищей по команде, вступай в сообщества. Доступно на iOS, Android и в веб-версии."
 canonical: "https://jynx.app/ru/download.html"
 locale: "ru"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

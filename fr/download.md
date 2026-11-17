@@ -3,7 +3,7 @@ title: "Télécharger Jynx - Plateforme Sociale Gaming"
 description: "Téléchargez Jynx - Connectez-vous avec des gamers, trouvez des coéquipiers, rejoignez des communautés. Disponible sur iOS, Android et le web."
 canonical: "https://jynx.app/fr/download.html"
 locale: "fr"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

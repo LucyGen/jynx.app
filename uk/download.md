@@ -3,7 +3,7 @@ title: "Завантажити Jynx - Соціальну Ігрову Платф
 description: "Завантажити Jynx - З'єднуйся з геймерами, знаходь товаришів по команді, приєднуйся до спільнот. Доступно на iOS, Android та у вебверсії."
 canonical: "https://jynx.app/uk/download.html"
 locale: "uk"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

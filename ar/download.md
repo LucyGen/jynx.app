@@ -3,7 +3,7 @@ title: "تنزيل Jynx - منصة الألعاب الاجتماعية"
 description: "نزّل Jynx - تواصل مع اللاعبين، ابحث عن زملاء الفريق، انضم إلى المجتمعات. متاح على iOS و Android والويب."
 canonical: "https://jynx.app/ar/download.html"
 locale: "ar"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

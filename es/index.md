@@ -3,13 +3,13 @@ title: "App de Matchmaking Gaming | Encuentra Compañeros LFG"
 description: "Encuentra a tus compañeros gaming perfectos con el matchmaking inteligente de Jynx. Empareja por habilidad, estilo de juego y horario. Deja de jugar solo."
 canonical: "https://jynx.app/es/"
 locale: "es"
-dateModified: "2026-11-16"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # The Next-Gen Companion App for Gamers
 
-MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
+MATCH. TALK. PLAY. — native voice rooms where the squad formed.
 
 [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
@@ -21,7 +21,7 @@ Rated 4,4 on Google Play in Brasil (118 ratings, 10K+ installs) · New on the Ap
 
 Deja de gritar al vacío. Jynx transforma el gaming en solitario en una experiencia social conectando inteligentemente compañeros según preferencias gaming, estilos de juego y compatibilidad de horarios
 
-Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
+Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
 
 ## Matchmaking Inteligente
 
@@ -66,24 +66,24 @@ THE PLAYER TYPES WE MATCH
 
 ## The whole loop, in one app.
 
-Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Característica |  | Discord | LFG Tradicional |
 | --- | --- | --- | --- |
 | **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
 | **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
 | **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
 | **Game Sessions — schedule and organize play** |  | Publicaciones manuales | Básico |
 | **Descubrimiento de Jugador Estilo Tinder** |  | ❌ | Varía |
 | **Emparejamiento Basado en Habilidad (ELO)** |  | ❌ | ❌ |
 | **Búsqueda y Descubrimiento de Comunidad** |  | Solo en computadora |  |
-| **Integración de Perfil de Jugador** |  | ❌ |  |
+| **Integración de Perfil de Jugador** | Planned | ❌ |  |
 | **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: Smart Team Builder — auto-formed, balanced teams
+On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
 
-Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 

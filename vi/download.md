@@ -3,7 +3,7 @@ title: "Tải Xuống Jynx | Game Trở Nên Xã Hội Trên Thiết Bị Của 
 description: "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS, Android, and the web."
 canonical: "https://jynx.app/vi/download.html"
 locale: "vi"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

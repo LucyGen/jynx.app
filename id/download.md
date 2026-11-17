@@ -3,7 +3,7 @@ title: "Unduh Jynx - Platform Sosial Gaming"
 description: "Unduh Jynx - Terhubung dengan gamer, temukan rekan tim, bergabung dengan komunitas. Tersedia di iOS, Android, dan web."
 canonical: "https://jynx.app/id/download.html"
 locale: "id"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

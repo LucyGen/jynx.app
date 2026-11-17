@@ -3,7 +3,7 @@ title: "Contact Jynx: Support, Security and Privacy Email Channels"
 description: "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too."
 canonical: "https://jynx.app/hi/contact.html"
 locale: "hi"
-dateModified: "2026-10-30"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

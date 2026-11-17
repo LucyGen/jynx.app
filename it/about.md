@@ -3,7 +3,7 @@ title: "Chi Siamo"
 description: "Scopri di più su Jynx, la piattaforma di community gaming che trasforma il gaming in solitaria in un'esperienza sociale."
 canonical: "https://jynx.app/it/about.html"
 locale: "it"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

@@ -149,7 +149,7 @@
       "twitter_image_alt": "Politique de Confidentialité"
     },
     "title": "Politique de Confidentialité",
-    "last_updated": "Dernière mise à jour : 14 novembre 2026",
+    "last_updated": "Dernière mise à jour : 17 novembre 2026",
     "version": "Version : 1.0",
     "intro": {
       "title": "1. Introduction",
@@ -431,6 +431,13 @@
         "service": "<strong>Emails de notification d’activité (service).</strong> Lorsque vous manquez une activité de votre compte dans l’application (message non lu, nouveau match ou like), Jynx peut vous envoyer un email pour vous en informer. Ces emails sont des notifications de service, fondées sur notre intérêt légitime à assurer le fonctionnement de la plateforme sociale (le suivi de vos interactions en cours), et ne contiennent aucune offre promotionnelle. Vous pouvez désactiver chaque type de notification (messages, matchs, likes) à tout moment depuis Réglages > Confidentialité > Communications, ou via le lien « Gérer ces notifications » présent dans chaque email. Vous pouvez également vous opposer à ce traitement à tout moment (art. 21 RGPD) en écrivant à privacy@jynx.app.",
         "winback": "<strong>Emails de réactivation et communications marketing (winback).</strong> Les emails visant à vous inciter à revenir sur Jynx après une période d’inactivité, ainsi que nos communications d’actualités et d’offres, sont de la prospection commerciale. Ils ne vous sont envoyés qu’avec votre consentement préalable, spécifique, libre et révocable, recueilli via une case facultative décochée, distincte de l’acceptation de nos Conditions. Vous pouvez le retirer à tout moment depuis Réglages > Confidentialité > Communications ou via le lien de désinscription présent dans chaque email.",
         "profile_display": "<strong>Affichage de votre pseudonyme et photo de profil dans les emails de notification.</strong> Si vous avez interagi avec un autre membre (like, match, message), votre pseudonyme et votre photo de profil peuvent apparaître dans les emails de notification d’activité qui lui sont adressés lorsqu’il est inactif. Ces éléments sont générés au moment de l’envoi et ne sont pas conservés dans nos journaux d’emails (identifiant et compteurs uniquement)."
+      },
+      "location": {
+        "title": "5.11. Localisation et distance de match",
+        "p1": "<strong>Ce que nous traitons.</strong> Si vous choisissez de partager votre position, Jynx l’utilise à une seule fin : afficher la distance approximative entre vous et les autres joueurs (« ~12 km ») dans la file de matchs et, si vous activez le tri par proximité, classer cette file par distance. Nous ne traitons qu’une position approximative : l’autorisation demandée est celle de la localisation approximative / à précision réduite du système d’exploitation, et avant tout stockage vos coordonnées sont ramenées sur nos serveurs à une grille d’environ 0,02° (soit environ 2,2 km) ; la cellule de localisation obtenue mesure environ 11 km. Les coordonnées GPS brutes ne sont jamais stockées.",
+        "p2": "<strong>Fonction facultative, fondée sur le consentement.</strong> C’est une fonctionnalité facultative : rien n’est collecté sans l’autorisation de localisation du système d’exploitation ET sans que l’interrupteur de localisation dans l’application soit activé. La localisation n’est jamais traitée en arrière-plan — elle n’est utilisée que lorsque vous utilisez l’application. Votre position n’est jamais montrée aux autres utilisateurs sous forme de point sur une carte, jamais utilisée pour la publicité et jamais partagée avec les plateformes publicitaires (voir §4.9 : aucune donnée de localisation ne figure dans ce qui est partagé pour l’attribution ou la mesure publicitaire). Nos événements d’analyse ne contiennent ni coordonnées, ni noms de villes, ni identifiants de cellule de localisation — uniquement des signaux anonymes d’adoption et de choix de tri. L’invite d’autorisation du système d’exploitation capture votre consentement, et l’interrupteur dans l’application vous permet de le retirer (§7.6).",
+        "p3": "<strong>Durée de conservation.</strong> L’enregistrement de localisation que nous tenons pour votre compte est automatiquement supprimé après 45 jours sans mise à jour, et est actualisé chaque fois que vous utilisez la fonctionnalité pendant que le partage est activé. La distance approximative affichée sur votre carte de profil est bornée par l’activité : elle n’existe que tant que votre carte de profil existe, et est considérée comme absente après 45 jours sans mise à jour.",
+        "p4": "<strong>Votre contrôle.</strong> Vous pouvez arrêter le partage à tout moment : désactiver l’interrupteur de localisation dans l’application supprime immédiatement les coordonnées stockées (l’enregistrement est conservé mais vidé de ses coordonnées), et révoquer l’autorisation de localisation dans les réglages de votre appareil arrête la collecte à la source. La suppression de votre compte (§7.3) efface également vos données de localisation."
       }
     },
     "retention": {
@@ -515,7 +522,9 @@
         "marketing": "Newsletter, mises à jour produit, ré-engagement et enquêtes de désinstallation/churn — retirable via la désinscription en un clic, le réglage des préférences de communication dans l'application, ou dpo@jynx.app, sans clôturer votre compte",
         "effect": "Le retrait ne remet pas en cause la licéité du traitement effectué avant celui-ci (RGPD art. 7(3) ; LGPD art. 8 §5), et retirer votre consentement ne vous oblige jamais à supprimer votre compte.",
         "ad_measurement_label": "Mesure publicitaire :",
-        "ad_measurement": "Paramètres > Confidentialité > Mesure publicitaire (voir §5.9)"
+        "ad_measurement": "Paramètres > Confidentialité > Mesure publicitaire (voir §5.9)",
+        "location_label": "Localisation (distance de match) :",
+        "location": "Désactivez l’interrupteur de localisation dans l’application — cela supprime les coordonnées stockées — ou révoquez l’autorisation de localisation dans les réglages de votre appareil (voir §5.11)"
       },
       "lgpd": {
         "title": "7.7. Droits LGPD supplémentaires (utilisateurs brésiliens)",
@@ -616,7 +625,8 @@
       "withdrawal_label": "Retrait.",
       "withdrawal": "Vous pouvez retirer tout consentement à tout moment, selon une procédure aussi simple que celle utilisée pour le donner et qui ne vous oblige pas à supprimer votre compte (LGPD art. 8 §5 ; RGPD art. 7(3)) — voir §7.5 et §7.6. Le retrait ne remet pas en cause la licéité du traitement effectué avant celui-ci. La suppression de votre compte (§7.3) demeure possible à tout moment, mais elle n'est pas le mécanisme permettant de retirer un consentement spécifique.",
       "safety": "Obligation légale et intérêts légitimes (RGPD art. 6(1)(c) et 6(1)(f) ; LGPD art. 7, II et IX) — détection des contenus illicites et contraires à nos règles, y compris l'analyse d'images de protection de l'enfance décrite au §5.8 et le traitement de modération d'images du §4.8, prévention des abus et du contournement de bannissement (§5.7), et respect des obligations légales de signalement. Pour l'analyse des images partagées en messages privés, Jynx s'appuie également sur la détection volontaire des abus sexuels sur enfants en ligne permise par le règlement (UE) 2021/1232 (la dérogation ePrivacy, telle qu'en vigueur).",
-      "ad_measurement": "Mesure publicitaire (§5.9) : votre consentement (RGPD art. 6(1)(a) ; LGPD art. 7, I et art. 8) lorsque vous l'avez activée ; sur Android, à défaut, notre intérêt légitime (LGPD art. 7, IX et art. 10) pour les utilisateurs auxquels l'interrupteur de mesure publicitaire est présenté activé par défaut, avec votre droit d'opposition à tout moment"
+      "ad_measurement": "Mesure publicitaire (§5.9) : votre consentement (RGPD art. 6(1)(a) ; LGPD art. 7, I et art. 8) lorsque vous l'avez activée ; sur Android, à défaut, notre intérêt légitime (LGPD art. 7, IX et art. 10) pour les utilisateurs auxquels l'interrupteur de mesure publicitaire est présenté activé par défaut, avec votre droit d'opposition à tout moment",
+      "location": "Localisation approximative pour la distance de match (§5.11) : votre consentement (art. 6(1)(a) RGPD ; art. 7, I et art. 8 LGPD), capturé par l’autorisation de localisation du système d’exploitation associée à l’interrupteur de localisation dans l’application ; vous pouvez le retirer à tout moment (§7.6) — sa désactivation supprime les coordonnées stockées"
     }
   },
   "terms": {
@@ -1280,7 +1290,7 @@
   },
   "hero": {
     "title": "L'application compagnon nouvelle génération pour gamers",
-    "deck": "MATCH. TALK. PLAY. — salons vocaux et partage d'écran là où la squad s'est formée.",
+    "deck": "MATCH. TALK. PLAY. — salons vocaux natifs là où la squad s'est formée.",
     "app_store_small": "Télécharger sur",
     "app_store_large": "App Store",
     "play_store_small": "DISPONIBLE SUR",
@@ -1295,7 +1305,7 @@
     "title": "Jouez Mieux, Ensemble",
     "subtitle": "Outils de communauté gaming intelligents conçus pour les joueurs modernes",
     "description": "Arrêtez de crier dans le vide. Jynx transforme le jeu solo en expérience sociale en connectant intelligemment des coéquipiers selon leurs préférences gaming, styles de jeu et compatibilité des disponibilités",
-    "destination": "Trouver, matcher, parler et partager au même endroit : Jynx associe le matchmaking à des salons vocaux natifs et au partage d'écran — la squad se forme et joue dans la même app.",
+    "destination": "Trouver, matcher et parler au même endroit : Jynx associe le matchmaking à des salons vocaux natifs — la squad se forme et joue dans la même app.",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Intelligent",
@@ -1485,7 +1495,7 @@
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
-      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>Jynx ferme cette boucle dans une seule app : match, ouvrez un salon vocal ensemble — de groupe, en 1:1, ou une Chill Room toujours active — et partagez votre écran sans jamais quitter la conversation née d'un swipe. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>. Pour le comparatif complet, lisez notre article <a href=\"/fr/comparatif/discord-lfg/\">Jynx ou Discord LFG</a> — tous les critères, y compris les points où Discord gagne."
+      "answer": "Discord est génial pour chatter avec des coéquipiers que vous avez DÉJÀ. Pour en trouver de nouveaux ? C'est le mauvais outil.<br><br>Voici la réalité : poster 'LFG' dans un serveur avec 10 000 membres signifie que votre message est enterré en quelques minutes. Vous n'avez aucun moyen de filtrer par niveau de compétence, disponibilité ou style de jeu avant de contacter. Et plus important — vous faites tout le travail. Spammer les channels, DM des inconnus, espérer qu'on vous réponde.<br><br><strong>Ce dont vous avez réellement besoin, c'est une plateforme conçue pour la découverte :</strong><br><strong>• Profils de joueurs</strong> — Voyez le rang, horaire et rôles préférés de quelqu'un AVANT de le contacter<br><strong>• Filtrage intelligent</strong> — Recherchez par critères qui comptent (langue, fuseau horaire, niveau de compétence)<br><strong>• Matching actif</strong> — Recevez des recommandations au lieu de crier dans le vide<br><br>Jynx ferme cette boucle dans une seule app : match, ouvrez un salon vocal ensemble — de groupe, en 1:1, ou une Chill Room toujours active — sans jamais quitter la conversation née d'un swipe. <a href=\"/fr/blog/ou-trouver-des-joueurs.html\">Discord, Reddit ou forums : on a comparé où trouver vraiment des joueurs</a>. Pour le comparatif complet, lisez notre article <a href=\"/fr/comparatif/discord-lfg/\">Jynx ou Discord LFG</a> — tous les critères, y compris les points où Discord gagne."
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
@@ -1738,7 +1748,7 @@
   },
   "comparison": {
     "title": "La boucle complète, dans une seule app.",
-    "intro": "Swipez, matchez, et lancez la discussion. Salons vocaux, chat et partage d'écran vivent dans la même app que celle où vous avez trouvé votre squad — pas de deuxième app, pas de saut de serveur, pas de lien à partager pour rejoindre un appel.",
+    "intro": "Swipez, matchez, et lancez la discussion. Salons vocaux et chat vivent dans la même app que celle où vous avez trouvé votre squad — pas de deuxième app, pas de saut de serveur, pas de lien à partager pour rejoindre un appel.",
     "table": {
       "feature": "Fonctionnalité",
       "lfg": "LFG Traditionnel",
@@ -1774,8 +1784,8 @@
       "free_jynx_plus": "Gratuit / Jynx+",
       "free_varies": "Gratuit/Variable"
     },
-    "roadmap_note": "Sur la feuille de route : Smart Team Builder — des équipes équilibrées formées automatiquement",
-    "footnote": "Comparaison en date d'octobre 2026. Discord et le LFG traditionnel reflètent leurs fonctionnalités disponibles publiquement ; la colonne Jynx reflète les capacités de l'app Jynx.",
+    "roadmap_note": "Sur la feuille de route : partage d'écran dans les salons vocaux, intégration de profil joueur et Smart Team Builder — des équipes équilibrées formées automatiquement",
+    "footnote": "Comparaison en date de novembre 2026. Discord et le LFG traditionnel reflètent leurs fonctionnalités disponibles publiquement ; la colonne Jynx reflète les capacités de l'app Jynx.",
     "cta": {
       "title": "Prêt à Expérimenter la Différence ?",
       "description": "Rejoignez des gamers du monde entier qui trouvent leurs équipes parfaites avec le matchmaking IA Jynx",

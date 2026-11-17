@@ -3,7 +3,7 @@ title: "من نحن"
 description: "تعرف على المزيد حول Jynx، منصة مجتمع الألعاب التي تحوّل تجربة الألعاب الفردية إلى تجربة اجتماعية."
 canonical: "https://jynx.app/ar/about.html"
 locale: "ar"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

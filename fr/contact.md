@@ -3,7 +3,7 @@ title: "Contacter Jynx : support, sécurité et confidentialité par email"
 description: "Contactez l'équipe Jynx par email : support pour votre compte et l'application, sécurité pour signaler une vulnérabilité, et notre DPO pour vos données."
 canonical: "https://jynx.app/fr/contact.html"
 locale: "fr"
-dateModified: "2026-10-30"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

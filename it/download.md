@@ -3,7 +3,7 @@ title: "Scarica Jynx - Piattaforma Social Gaming"
 description: "Scarica Jynx - Connettiti con gamer, trova compagni, unisciti a community. Disponibile su iOS, Android e sul web."
 canonical: "https://jynx.app/it/download.html"
 locale: "it"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

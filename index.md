@@ -3,13 +3,13 @@ title: "Gaming Matchmaking App | Find LFG Teammates"
 description: "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Stop playing alone."
 canonical: "https://jynx.app/"
 locale: "en"
-dateModified: "2026-11-16"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # The Next-Gen Companion App for Gamers
 
-MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
+MATCH. TALK. PLAY. — native voice rooms where the squad formed.
 
 [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
@@ -21,7 +21,7 @@ Rated 4.4 on Google Play in Brazil (118 ratings, 10K+ installs) · New on the Ap
 
 Stop shouting into the void. Jynx transforms solo gaming into a social experience by intelligently connecting teammates based on gaming preferences, play styles, and schedule compatibility
 
-Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
+Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
 
 ## Intelligent Matchmaking
 
@@ -66,24 +66,24 @@ THE PLAYER TYPES WE MATCH
 
 ## The whole loop, in one app.
 
-Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Feature |  | Discord | Traditional LFG |
 | --- | --- | --- | --- |
 | **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
 | **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
 | **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
 | **Game Sessions — schedule and organize play** |  | Manual posts | Basic |
 | **Tinder-Style Player Discovery** |  | ❌ | Varies |
 | **Skill-Based Matching (ELO)** |  | ❌ | ❌ |
 | **Community Search & Discovery** |  | On computer only |  |
-| **Player Profile Integration** |  | ❌ |  |
+| **Player Profile Integration** | Planned | ❌ |  |
 | **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: Smart Team Builder — auto-formed, balanced teams
+On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
 
-Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 
@@ -133,7 +133,7 @@ Finding good ranked teammates isn't about quantity — it's about compatibility.
 
 ### What are the best alternatives to Discord for finding gaming teammates?
 
-Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void Jynx closes that loop in one app: match, open a voice room together — group, 1:1, or an always-on Chill Room — and share your screen without ever leaving the conversation that started with a swipe. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
+Discord is great for chatting with teammates you ALREADY have. For finding new ones? It's the wrong tool. Here's reality: Posting 'LFG' in a server with 10,000 members means your message gets buried in minutes. You have no way to filter by skill level, availability, or playstyle before reaching out. And most importantly — you're doing all the work. Spamming channels, DMing strangers, hoping someone responds. **What you actually need is a platform designed for discovery:** **• Player profiles** — See someone's rank, schedule, and preferred roles BEFORE messaging **• Smart filtering** — Search by criteria that matter (language, timezone, skill level) **• Active matching** — Get recommendations instead of shouting into the void Jynx closes that loop in one app: match, open a voice room together — group, 1:1, or an always-on Chill Room — without ever leaving the conversation that started with a swipe. [See how LFG evolved from forums to smart matchmaking](/blog/lfg-evolution-forums-to-smart-matchmaking.html). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
 
 ### Are there free gaming matchmaking apps and platforms?
 

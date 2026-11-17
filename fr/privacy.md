@@ -3,15 +3,19 @@ title: "Politique de Confidentialité"
 description: "Découvrez comment Jynx protège votre vie privée et gère vos données. Notre politique de confidentialité transparente décrit nos pratiques et vos droits."
 canonical: "https://jynx.app/fr/privacy.html"
 locale: "fr"
-dateModified: "2026-11-14"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Politique de Confidentialité
 
-Dernière mise à jour : 14 novembre 2026
+Dernière mise à jour : 17 novembre 2026
 
-Version: 1.12
+Version: 1.13
+
+### Changes in Version 1.13 (November 17, 2026)
+
+- Adds §5.11 (Location and Match Distance): discloses the optional approximate-location feature that displays the distance between you and other players ("~N km") on the match queue and can optionally order that queue by proximity. The section states that only approximate location is processed (the operating system's coarse / reduced-accuracy permission; coordinates snapped on our servers to a grid of about 0.02°, roughly 2.2 km, giving a derived cell of about 11 km; raw GPS coordinates are never stored); that nothing is collected without both the operating-system permission and the in-app toggle; that location is never processed in the background, never shared with ad platforms, and never included in analytics (no coordinates, no city names, no cell identifiers); that the location record is automatically deleted after 45 days without an update, the profile-card copy being activity-bounded; and that turning the in-app toggle off deletes the stored coordinates while revoking the operating-system permission stops collection. §7.6 (withdraw consent) and §13 (legal bases) gain the matching entries. No other clause changes.
 
 ### Changes in Version 1.12 (November 14, 2026)
 
@@ -346,6 +350,16 @@ Garanties. Les utilisateurs que nous savons âgés de moins de 18 ans, ainsi que
 
 **Affichage de votre pseudonyme et photo de profil dans les emails de notification.** Si vous avez interagi avec un autre membre (like, match, message), votre pseudonyme et votre photo de profil peuvent apparaître dans les emails de notification d’activité qui lui sont adressés lorsqu’il est inactif. Ces éléments sont générés au moment de l’envoi et ne sont pas conservés dans nos journaux d’emails (identifiant et compteurs uniquement).
 
+### 5.11. Localisation et distance de match
+
+**Ce que nous traitons.** Si vous choisissez de partager votre position, Jynx l’utilise à une seule fin : afficher la distance approximative entre vous et les autres joueurs (« ~12 km ») dans la file de matchs et, si vous activez le tri par proximité, classer cette file par distance. Nous ne traitons qu’une position approximative : l’autorisation demandée est celle de la localisation approximative / à précision réduite du système d’exploitation, et avant tout stockage vos coordonnées sont ramenées sur nos serveurs à une grille d’environ 0,02° (soit environ 2,2 km) ; la cellule de localisation obtenue mesure environ 11 km. Les coordonnées GPS brutes ne sont jamais stockées.
+
+**Fonction facultative, fondée sur le consentement.** C’est une fonctionnalité facultative : rien n’est collecté sans l’autorisation de localisation du système d’exploitation ET sans que l’interrupteur de localisation dans l’application soit activé. La localisation n’est jamais traitée en arrière-plan — elle n’est utilisée que lorsque vous utilisez l’application. Votre position n’est jamais montrée aux autres utilisateurs sous forme de point sur une carte, jamais utilisée pour la publicité et jamais partagée avec les plateformes publicitaires (voir §4.9 : aucune donnée de localisation ne figure dans ce qui est partagé pour l’attribution ou la mesure publicitaire). Nos événements d’analyse ne contiennent ni coordonnées, ni noms de villes, ni identifiants de cellule de localisation — uniquement des signaux anonymes d’adoption et de choix de tri. L’invite d’autorisation du système d’exploitation capture votre consentement, et l’interrupteur dans l’application vous permet de le retirer (§7.6).
+
+**Durée de conservation.** L’enregistrement de localisation que nous tenons pour votre compte est automatiquement supprimé après 45 jours sans mise à jour, et est actualisé chaque fois que vous utilisez la fonctionnalité pendant que le partage est activé. La distance approximative affichée sur votre carte de profil est bornée par l’activité : elle n’existe que tant que votre carte de profil existe, et est considérée comme absente après 45 jours sans mise à jour.
+
+**Votre contrôle.** Vous pouvez arrêter le partage à tout moment : désactiver l’interrupteur de localisation dans l’application supprime immédiatement les coordonnées stockées (l’enregistrement est conservé mais vidé de ses coordonnées), et révoquer l’autorisation de localisation dans les réglages de votre appareil arrête la collecte à la source. La suppression de votre compte (§7.3) efface également vos données de localisation.
+
 ## 6. Conservation des Données
 
 ### 6.1. Périodes de Conservation
@@ -416,6 +430,7 @@ Vous pouvez retirer votre consentement pour :
 
 - **Analytiques :** Paramètres > Confidentialité > Désactiver "Activer les Analytiques"
 - **Mesure publicitaire :** Paramètres > Confidentialité > Mesure publicitaire (voir §5.9)
+- **Localisation (distance de match) :** Désactivez l’interrupteur de localisation dans l’application — cela supprime les coordonnées stockées — ou révoquez l’autorisation de localisation dans les réglages de votre appareil (voir §5.11)
 - **Notifications Push :** Paramètres de l'appareil
 - **Communications marketing :** Newsletter, mises à jour produit, ré-engagement et enquêtes de désinstallation/churn — retirable via la désinscription en un clic, le réglage des préférences de communication dans l'application, ou dpo@jynx.app, sans clôturer votre compte
 
@@ -512,6 +527,7 @@ Nous ne traitons vos données personnelles que lorsque nous disposons d'une base
 - Obligation légale et intérêts légitimes (RGPD art. 6(1)(c) et 6(1)(f) ; LGPD art. 7, II et IX) — détection des contenus illicites et contraires à nos règles, y compris l'analyse d'images de protection de l'enfance décrite au §5.8 et le traitement de modération d'images du §4.8, prévention des abus et du contournement de bannissement (§5.7), et respect des obligations légales de signalement. Pour l'analyse des images partagées en messages privés, Jynx s'appuie également sur la détection volontaire des abus sexuels sur enfants en ligne permise par le règlement (UE) 2021/1232 (la dérogation ePrivacy, telle qu'en vigueur).
 - Consentement (RGPD art. 6(1)(a) ; LGPD art. 7, I et art. 8) — les analytiques lorsque vous les avez activés, les notifications push et (pour les utilisateurs de l'UE/EEE et, pour les envois brésiliens vers des prospects, à froid ou de vente croisée) les communications marketing visées au §5.6
 - Mesure publicitaire (§5.9) : votre consentement (RGPD art. 6(1)(a) ; LGPD art. 7, I et art. 8) lorsque vous l'avez activée ; sur Android, à défaut, notre intérêt légitime (LGPD art. 7, IX et art. 10) pour les utilisateurs auxquels l'interrupteur de mesure publicitaire est présenté activé par défaut, avec votre droit d'opposition à tout moment
+- Localisation approximative pour la distance de match (§5.11) : votre consentement (art. 6(1)(a) RGPD ; art. 7, I et art. 8 LGPD), capturé par l’autorisation de localisation du système d’exploitation associée à l’interrupteur de localisation dans l’application ; vous pouvez le retirer à tout moment (§7.6) — sa désactivation supprime les coordonnées stockées
 - Voice-room audio is processed on the basis of your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) when you grant microphone permission and explicitly join a room (see §3.6); you may withdraw it at any time by leaving the room or by revoking microphone permission in your device settings.
 
 **Le consentement doit être spécifique et éclairé.** Lorsque nous nous appuyons sur votre consentement, celui-ci est donné par un acte positif clair, porte sur des finalités déterminées et est recueilli séparément de votre acceptation des présentes conditions (LGPD art. 8 §1 — cláusula destacada). Les autorisations génériques ou groupées sont nulles au sens de la LGPD art. 8 §4 et invalides au sens du RGPD art. 4(11) et art. 7. L'utilisation de Jynx ne constitue pas en soi un consentement au marketing. La charge de prouver la validité du consentement repose sur Jynx (LGPD art. 8 §2 ; RGPD art. 7(1)) ; nous consignons donc la date, la version du formulaire, la langue et le périmètre de chaque consentement que nous recueillons.

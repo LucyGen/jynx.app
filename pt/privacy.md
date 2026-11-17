@@ -3,15 +3,19 @@ title: "Política de Privacidade"
 description: "Saiba como Jynx protege sua privacidade e lida com seus dados. Nossa política de privacidade transparente descreve nossas práticas e seus direitos."
 canonical: "https://jynx.app/pt/privacy.html"
 locale: "pt"
-dateModified: "2026-11-14"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Política de Privacidade
 
-Última atualização: 14 de novembro de 2026
+Última atualização: 17 de novembro de 2026
 
-Version: 1.12
+Version: 1.13
+
+### Changes in Version 1.13 (November 17, 2026)
+
+- Adds §5.11 (Location and Match Distance): discloses the optional approximate-location feature that displays the distance between you and other players ("~N km") on the match queue and can optionally order that queue by proximity. The section states that only approximate location is processed (the operating system's coarse / reduced-accuracy permission; coordinates snapped on our servers to a grid of about 0.02°, roughly 2.2 km, giving a derived cell of about 11 km; raw GPS coordinates are never stored); that nothing is collected without both the operating-system permission and the in-app toggle; that location is never processed in the background, never shared with ad platforms, and never included in analytics (no coordinates, no city names, no cell identifiers); that the location record is automatically deleted after 45 days without an update, the profile-card copy being activity-bounded; and that turning the in-app toggle off deletes the stored coordinates while revoking the operating-system permission stops collection. §7.6 (withdraw consent) and §13 (legal bases) gain the matching entries. No other clause changes.
 
 ### Changes in Version 1.12 (November 14, 2026)
 
@@ -346,6 +350,16 @@ Salvaguardas. Usuários que sabemos ter menos de 18 anos, e perfis cuja idade n�
 
 **Exibição do seu pseudônimo e da sua foto de perfil nos e-mails de notificação.** Se você interagiu com outro membro (like, match, mensagem), o seu pseudônimo e a sua foto de perfil podem aparecer nos e-mails de notificação de atividade a ele destinados quando ele estiver inativo. Esses elementos são gerados no momento do envio e não são conservados nos nossos registros de e-mails (apenas identificador e contadores).
 
+### 5.11. Localização e distância de match
+
+**O que processamos.** Se você escolher compartilhar a sua localização, o Jynx a usa para um único propósito: exibir a distância aproximada entre você e outros jugadores (“~12 km”) na fila de matchs e, se você ativar a ordenação por proximidade, ordenar essa fila por distância. Processamos apenas localização aproximada: a permissão solicitada é a de localização aproximada / de precisão reduzida do sistema operacional, e antes de qualquer armazenamento as suas coordenadas são ajustadas nos nossos servidores para uma grade de cerca de 0,02° (aproximadamente 2,2 km); a célula de localização resultante tem cerca de 11 km de extensão. Coordenadas GPS brutas nunca são armazenadas.
+
+**Recurso opcional, baseado no consentimento.** Este é um recurso opcional: nada é coletado sem a permissão de localização do sistema operacional E sem que a chave de localização no aplicativo esteja ativada. A localização nunca é processada em segundo plano — ela é usada somente enquanto você está usando o aplicativo. A sua localização nunca é mostrada a outros usuários como um ponto em um mapa, nunca é usada para publicidade e nunca é compartilhada com plataformas de anúncios (ver §4.9: nenhum dado de localização é incluído no que é compartilhado para atribuição ou mensuração publicitária). Os nossos eventos de análise não contêm coordenadas, nomes de cidades nem identificadores de célula de localização — apenas sinais anônimos de adoção e de escolha de ordenação. O aviso de permissão do sistema operacional é como o seu consentimento é capturado, e a chave no aplicativo é como você o retira (§7.6).
+
+**Por quanto tempo mantemos.** O registro de localização que mantemos para a sua conta é excluído automaticamente após 45 dias sem atualização, e é renovado cada vez que você usa o recurso com o compartilhamento ativado. A distância aproximada exibida no seu cartão de perfil é limitada pela atividade: ela persiste apenas enquanto o seu cartão de perfil existir, e é tratada como ausente após 45 dias sem atualização.
+
+**Seu controle.** Você pode parar de compartilhar a qualquer momento: desativar a chave de localização no aplicativo exclui imediatamente as coordenadas armazenadas (o registro é mantido, mas sem as coordenadas), e revogar a permissão de localização nas configurações do seu dispositivo interrompe a coleta na origem. A exclusão da sua conta (§7.3) também apaga os seus dados de localização.
+
 ## 6. Retenção de Dados
 
 ### 6.1. Períodos de Retenção
@@ -416,6 +430,7 @@ Você pode retirar seu consentimento para:
 
 - **Analytics:** Configurações > Privacidade > Desabilitar "Habilitar Analytics"
 - **Medição de anúncios:** Configurações > Privacidade > Medição de anúncios (veja a §5.9)
+- **Localização (distância de match):** Desative a chave de localização no aplicativo — isso exclui as coordenadas armazenadas — ou revogue a permissão de localização nas configurações do seu dispositivo (ver §5.11)
 - **Notificações Push:** Configurações do dispositivo
 - **Comunicações de Marketing:** Newsletter, atualizações de produto, reengajamento e pesquisas de desinstalação/churn — revogáveis por meio do cancelamento de inscrição com um clique, da alternância de preferências de comunicação no aplicativo ou de dpo@jynx.app, sem precisar encerrar sua conta
 
@@ -512,6 +527,7 @@ Tratamos seus dados pessoais somente quando temos uma base legal. As bases legai
 - Obrigação legal e interesses legítimos (GDPR Art. 6(1)(c) e 6(1)(f); LGPD Art. 7, II e IX) — detecção de conteúdo ilegal e violador de políticas, incluindo a análise de imagens para proteção infantil descrita no §5.8 e o processamento de moderação de imagens do §4.8, prevenção a abusos e evasão de banimento (§5.7) e cumprimento de deveres legais de denúncia. Para a análise de imagens compartilhadas em mensagens diretas, a Jynx também se apoia na detecção voluntária de abuso sexual infantil on-line permitida pelo Regulamento (UE) 2021/1232 (derrogação ao ePrivacy, vigente conforme aplicável).
 - Consentimento (GDPR Art. 6(1)(a); LGPD Art. 7, I e Art. 8) — analytics que você tenha habilitado, notificações push e (para usuários da UE/EEE e, no caso do Brasil, para envios de prospecção, abordagem a frio ou venda cruzada) comunicações de marketing conforme §5.6
 - Medição de anúncios (§5.9): seu consentimento (RGPD art. 6(1)(a); LGPD art. 7, I e art. 8) quando você a ativou; no Android, alternativamente, nosso interesse legítimo (LGPD art. 7, IX e art. 10) para os usuários a quem a chave de medição de anúncios é exibida ativada por padrão, com seu direito de oposição a qualquer momento
+- Localização aproximada para o recurso de distância de match (§5.11): o seu consentimento (art. 6(1)(a) do RGPD; art. 7, I e art. 8 da LGPD), capturado pela permissão de localização do sistema operacional junto com a chave de localização no aplicativo; você pode retirá-lo a qualquer momento (§7.6) — desativá-lo exclui as coordenadas armazenadas
 - Voice-room audio is processed on the basis of your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) when you grant microphone permission and explicitly join a room (see §3.6); you may withdraw it at any time by leaving the room or by revoking microphone permission in your device settings.
 
 **O consentimento deve ser específico e informado.** Quando nos apoiamos no seu consentimento, ele é dado por um ato afirmativo claro, refere-se a finalidades especificadas e é capturado separadamente da sua aceitação destes termos (LGPD Art. 8 §1 — cláusula destacada). Autorizações genéricas ou agrupadas são nulas nos termos do LGPD Art. 8 §4 e inválidas nos termos do GDPR Art. 4(11) e Art. 7. Usar o Jynx não constitui, por si só, consentimento para marketing. O ônus de comprovar a validade do consentimento é do Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); por isso, registramos a data, a versão do formulário, o idioma e o escopo de cada consentimento que coletamos.

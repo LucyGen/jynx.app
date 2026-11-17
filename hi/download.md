@@ -3,7 +3,7 @@ title: "Jynx Download करें - Gaming Social Platform"
 description: "Jynx Download करें - Gamers के साथ connect करें, teammates खोजें, communities में शामिल हों। iOS, Android और वेब पर उपलब्ध।"
 canonical: "https://jynx.app/hi/download.html"
 locale: "hi"
-dateModified: "2026-11-12"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

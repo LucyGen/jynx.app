@@ -3,7 +3,7 @@ title: "Contato Jynx: suporte, segurança e privacidade por email"
 description: "Fale com a equipe Jynx por email: suporte para a conta e o app, segurança para relatar vulnerabilidades e privacidade com o DPO. Discord e redes sociais incluídos."
 canonical: "https://jynx.app/pt/contact.html"
 locale: "pt"
-dateModified: "2026-10-30"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

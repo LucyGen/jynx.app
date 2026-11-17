@@ -3,13 +3,13 @@ title: "Ứng Dụng Ghép Đôi Gaming | Tìm Đồng Đội LFG"
 description: "Tìm đồng đội game hoàn hảo với hệ thống ghép đôi thông minh của Jynx. Kết nối theo kỹ năng, phong cách chơi và lịch trình. Đừng chơi một mình nữa."
 canonical: "https://jynx.app/vi/"
 locale: "vi"
-dateModified: "2026-11-16"
+dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # The Next-Gen Companion App for Gamers
 
-MATCH. TALK. PLAY. — voice rooms and screen sharing where the squad formed.
+MATCH. TALK. PLAY. — native voice rooms where the squad formed.
 
 [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
@@ -21,7 +21,7 @@ Rated 4,4 on Google Play in Brazil (118 ratings, 10K+ installs) · New on the Ap
 
 Đừng hét vào hư không nữa. Jynx biến game đơn thành trải nghiệm xã hội bằng cách kết nối đồng đội một cách thông minh dựa trên sở thích game, phong cách chơi và sự tương thích lịch trình
 
-Find, match, talk and share in one place: Jynx pairs the matchmaking with native voice rooms and screen sharing, so the squad forms and plays in the same app.
+Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
 
 ## Ghép Đôi Thông Minh
 
@@ -66,24 +66,24 @@ THE PLAYER TYPES WE MATCH
 
 ## The whole loop, in one app.
 
-Swipe, match, and start talking. Voice rooms, chat, and screen sharing live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
 
 | Tính năng |  | Discord | LFG Truyền thống |
 | --- | --- | --- | --- |
 | **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
 | **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** |  |  | ❌ |
+| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
 | **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
 | **Game Sessions — schedule and organize play** |  | Đăng bài thủ công | Cơ bản |
 | **Khám Phá Người Chơi Kiểu Tinder** |  | ❌ | Khác nhau |
 | **Ghép Đôi Dựa Trên Kỹ Năng (ELO)** |  | ❌ | ❌ |
 | **Tìm Kiếm và Khám Phá Cộng Đồng** |  | Chỉ trên máy tính |  |
-| **Tích Hợp Hồ Sơ Người Chơi** |  | ❌ |  |
+| **Tích Hợp Hồ Sơ Người Chơi** | Planned | ❌ |  |
 | **Smart Team Builder** | Planned | ❌ | ❌ |
 
-On the roadmap: Smart Team Builder — auto-formed, balanced teams
+On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
 
-Comparison as of October 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
 
 Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
 

@@ -1,17 +1,17 @@
 # Jynx
 
-> Jynx is the next-gen companion app for gamers: verified ranks, role-compatible matches, voice intent, and schedule overlap replace lobby roulette, and native voice rooms with screen sharing keep the squad in one app. Free on the web, Android, and iOS at https://jynx.app
+> Jynx is the next-gen companion app for gamers: verified ranks, role-compatible matches, voice intent, and schedule overlap replace lobby roulette, and native voice rooms keep the squad in one app. Free on the web, Android, and iOS at https://jynx.app
 
 Jynx is the next-gen companion app for gamers. It solves the #1 problem in online gaming — finding good teammates — by matching on skill, playstyle, schedule, and voice preference instead of lobby roulette.
 
-**How it works:** Create a gaming profile, link your accounts (Riot Games verified ranks for League of Legends and TFT), set your schedule and preferences. The matching algorithm scores compatibility using time overlap (50%), game compatibility (30%), and playstyle alignment (20%). Swipe through recommended players, match, and start playing together. Matched players can jump straight into a native voice room — group, 1:1, or an always-on Chill Room — and share their screen without leaving the app.
+**How it works:** Create a gaming profile, link your accounts (Riot Games verified ranks for League of Legends and TFT), set your schedule and preferences. The matching algorithm scores compatibility using time overlap (50%), game compatibility (30%), and playstyle alignment (20%). Swipe through recommended players, match, and start playing together. Matched players can jump straight into a native voice room — group, 1:1, or an always-on Chill Room — without leaving the app.
 
 **Core features:**
 - Smart matchmaking with swipe-to-match (like Tinder, but for teammates)
 - Gaming communities with real-time chat, roles, channels, and a 4-level Boost system
 - Game sessions for scheduling gaming nights with friends or publicly
 - Native voice rooms: group rooms in Crews, consent-gated 1:1 calls, and always-on public Chill Rooms
-- Screen sharing in voice rooms — show your game while you talk
+- Screen sharing in voice rooms — on the roadmap
 - Rich profiles with verified ranks, play schedules, and customizable cosmetics (badges, borders)
 - Real-time messaging with typing indicators, reactions, and media sharing
 - Available in 16 languages
@@ -26,7 +26,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - Anyone frustrated with toxic teammates or dead Discord LFG channels
 
 **What makes Jynx different from alternatives:**
-- vs Discord: Jynx is the whole loop — find, match, talk, and screen-share in one app. Discord is built around the squad you already have; Jynx is where the squad forms, then plays together in native voice.
+- vs Discord: Jynx is the whole loop — find, match, and talk in one app. Discord is built around the squad you already have; Jynx is where the squad forms, then plays together in native voice.
 - vs GamerLink/GameTree: deeper game integration (verified Riot ranks), a community system, and game session scheduling.
 - vs in-game matchmaking: Jynx matches on personality, schedule, and playstyle — not just MMR.
 
