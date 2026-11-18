@@ -93,7 +93,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 - [GTA 6 OnlineThe launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.](/games/gta-6-online/duo-finder.html)
 - [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx matches crews on verified RP Rank, heist intent, voice, and session length before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
-- [Counter-Strike 2Match on the numbers that matter: verified Premier CS Rating, FACEIT level, AWPer-to-support role fit, and shared map picks — built for Wingman duos through gold-band 30,000+ five-stacks.](/games/cs2/duo-finder.html)
+- [Counter-Strike 2Match on the numbers that matter: verified Premier CS Rating, FACEIT level, AWPer-to-support role fit, and shared map picks — built for Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
 - [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.](/games/marvel-rivals/duo-finder.html)
 - [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.](/games/fortnite/duo-finder.html)
 - [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.](/games/rainbow-six-siege/duo-finder.html)
