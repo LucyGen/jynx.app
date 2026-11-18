@@ -7,68 +7,68 @@ dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Скачать Jynx Бесплатное LFG-приложение для поиска игровых тиммейтов
+# Download Jynx The Free LFG App for Gaming Teammates
 
-Матчтесь с совместимыми тиммейтами и дуо для ваших игр — бесплатно на iOS, Android, Windows и в вебе. Приложение для Mac уже в пути.
+Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web. A Mac app is on the way.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-hero&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-hero) [![Бейдж скачивания в Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-hero&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-hero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download)
 
-[Или играйте сразу в вебе](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-hero)
+[Or play instantly on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-hero)
 
-## Компаньон-приложение для геймеров
+## The companion app for gamers
 
-Jynx — компаньон-приложение нового поколения для геймеров: бесплатное LFG-приложение, которое матчтит вас с совместимыми тиммейтами по игре, рангу и стилю игры — вместо бесконечной прокрутки LFG-каналов.
+Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling.
 
-Оценка 4,4 в Google Play в Бразилия (118 оценок, 10K+ установок) · Новинка в App Store · по состоянию на ноябрь 2026 г..
+Rated 4,4 on Google Play in Бразилия (118 ratings, 10K+ installs) · New on the App Store · as of ноябрь 2026 г..
 
-## Установите Jynx на iOS, Android, Windows или в вебе
+## Get Jynx on iOS, Android, Windows, or the web
 
-Jynx доступен во всех трех магазинах приложений и в вашем браузере — выберите платформу и начните матчмейкинг за считанные минуты.
+Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.
 
-- Находите тиммейтов на iOS Скачайте приложение из App Store и найдите игровых товарищей, подходящих вам по уровню игры. Требуется iOS 13.0 или новее. [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-ios&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-ios)
-- Найдите свое дуо на Android Установите приложение для поиска дуо из Google Play и обзаведитесь игровыми друзьями за считанные минуты. Требуется Android 8.0 или новее. [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-android)
-- Находите тиммейтов на Windows Установите приложение для поиска дуо из Microsoft Store и обзаведитесь игровыми друзьями за считанные минуты. [![Бейдж скачивания в Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-windows)
-- Jynx для Mac уже в пути Приложение для Mac в разработке для Mac App Store. Хотите узнать о выходе первым? Напишите нам через форму обратной связи. В разработке [Уведомить меня](#feedback)
-- Играйте в вебе Откройте веб-приложение Jynx в браузере и сразу начинайте матчмейкинг — без скачивания и установки. Работает на компьютере и мобильных. [Играть в вебе](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-web)
+- Find teammates on iOS Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later. [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-ios&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-ios)
+- Find your duo on Android Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later. [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-android)
+- Find teammates on Windows Get the duo finder app from the Microsoft Store and meet gaming friends in minutes. [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-windows)
+- Jynx for Mac is on the way The Mac app is in development for the Mac App Store. Want to hear when it lands? Tell us on the feedback form. In development [Get notified](#feedback)
+- Play on the web Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile. [Play on the web](https://web.jynx.app?utm_source=jynx.app&utm_medium=web&utm_campaign=download&utm_content=download-web)
 
-## Бесплатное LFG-приложение — бесплатно навсегда, без подвоха
+## A free LFG app — free forever, no catch
 
-Jynx — бесплатное приложение для игровых друзей: аккаунт, матчмейкинг, чат и сообщества ничего не стоят, и между вами и следующим дуо нет пейволла.
+Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo.
 
-## FAQ О СКАЧИВАНИИ
+## DOWNLOAD FAQ
 
-Прежде чем устанавливать
+Before you install
 
-Остались вопросы?
+Still have questions?
 
-[Спросите нас](#feedback)
+[Ask us](#feedback)
 
-### На каких устройствах доступен Jynx?
+### What devices is Jynx available on?
 
-Jynx доступен на iOS, Android, Windows и в вебе — то же приложение в вашем браузере на web.jynx.app. Приложение для Mac в разработке.
+Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app. A Mac app is in development.
 
-### Как скачать Jynx?
+### How do I download Jynx?
 
-Скачайте Jynx из Apple App Store или Google Play — или играйте сразу в вебе на web.jynx.app, без установки.
+Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed.
 
-### Каковы системные требования?
+### What are the system requirements?
 
-Jynx требует iOS 13.0 или новее для iPhone и Android 8.0 или новее для устройств на Android.
+Jynx requires iOS 13.0 or later for iPhone, and Android 8.0 or later for Android devices.
 
-### Есть ли APK-файл Jynx для скачивания?
+### Is there a Jynx APK to download?
 
-Нет. Jynx доступен только через официальные карточки Apple App Store и Google Play. Мы не публикуем APK, а сторонние APK-сайты не являются официальными источниками — там могут быть устаревшие или модифицированные сборки.
+No. Jynx is available only through the official Apple App Store and Google Play listings. We do not publish an APK, and third-party APK sites are not official sources — they may serve outdated or modified builds.
 
 Бесплатно навсегда
 
 Без токсичности
 
-Создано сообществом
+Движение сообщества
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback) [![Бейдж скачивания в Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-feedback)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=download-feedback&utm_source=jynx&utm_medium=organic&utm_campaign=download&utm_content=download-feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx%26utm_medium%3Dorganic%26utm_campaign%3Ddownload%26utm_content%3Ddownload-feedback) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=download-feedback)
 
 ### Твои предложения — наш приоритет
 
-Спасибо за ваш отзыв!
+Thanks for your feedback!
 
-Никакого спама. Мы пишем только о важных новостях и обновлениях Jynx.
+No spam. We'll only contact you with important Jynx news and updates.

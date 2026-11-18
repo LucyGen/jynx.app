@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "gitSha": "7a71383467baa8866863882f507a831f400f2ff6",
+  "gitSha": "2b3531f6e60ddb1d0357bf1606f1c11875f01939",
   "generatedFrom": [
     {
       "source": "games",
@@ -47,7 +47,7 @@
         "bn": 15,
         "de": 16,
         "es": 14,
-        "fr": 63,
+        "fr": 66,
         "hi": 14,
         "id": 16,
         "it": 18,
@@ -59,13 +59,13 @@
         "uk": 15,
         "vi": 16
       },
-      "total": 1220
+      "total": 1223
     },
     "sitemaps": {
       "blog-sitemap.xml": 41,
       "communities-sitemap.xml": 1,
       "comparisons-sitemap.xml": 2,
-      "fr/sitemap.xml": 60,
+      "fr/sitemap.xml": 63,
       "games-sitemap.xml": 14,
       "glossary-sitemap.xml": 149,
       "pt/blog-sitemap.xml": 10,
@@ -80,5 +80,5 @@
     "js": 21,
     "css": 24
   },
-  "distBytes": 115861746
+  "distBytes": 115701068
 }

@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # Datenschutzerklärung
 
-Zuletzt aktualisiert: 17. November 2026
+Zuletzt aktualisiert: November 2026
 
 Version: 1.13
 
@@ -65,13 +65,13 @@ Jynx ("wir", "unser", "die Anwendung") ist eine Social-Gaming-Plattform, die es 
 
 ### Rechtliche Informationen:
 
-- **Juristische Person:** Jynx Group (Société par Actions Simplifiée, SIREN 991443896, eingetragen in Nantes, Frankreich)
+- **Juristische Person:** Jynx Group
 - **Kontakt Datenschutzbeauftragter:** dpo@jynx.app
-- **Rechtsprechung EU / EWR:** Frankreich, Europäische Union — diese Datenschutzerklärung entspricht der Verordnung (EU) 2016/679 (DSGVO) und der Richtlinie 2002/58/EG (ePrivacy), wie sie in Frankreich umgesetzt sind.
-- **Brasilianische Rechtsprechung:** Diese Datenschutzerklärung entspricht außerdem dem brasilianischen Gesetz nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), das gemäß Art. 3 der LGPD auf die Verarbeitung personenbezogener Daten von Betroffenen mit Sitz in Brasilien durch Jynx anwendbar ist, unabhängig davon, dass Jynx keinen Standort in Brasilien hat.
-- **Veröffentlichung (LCEN):** Directeur de la publication: Antoine Haie. Diese Website (jynx.app) wird von GitHub Pages gehostet und über das Cloudflare Content-Delivery-Netzwerk ausgeliefert.
+- **EU / EEA jurisdiction:** France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.
+- **Brazilian jurisdiction:** This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.
+- **Publication (LCEN):** Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network.
 
-Im Sinne der LGPD ist Jynx Group der Verantwortliche (controlador) für deine personenbezogenen Daten. Unser Data Protection Officer fungiert als encarregado (DPO) und ist unter dpo@jynx.app für jede Anfrage im Zusammenhang mit der LGPD erreichbar. Obwohl Jynx gemäß der ANPD-Resolution CD/ANPD nº 2/2022 als pequeno agente de tratamento de dados pessoais (kleiner Verarbeitungsagent) eingestuft wird — was Jynx von der verpflichtenden Benennung eines encarregado befreit — unterhält Jynx diesen veröffentlichten Kommunikationskanal freiwillig.
+For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.
 
 Diese Datenschutzerklärung beschreibt, wie wir deine personenbezogenen Daten erheben, verwenden, teilen und schützen, wenn du unsere Anwendung nutzt.
 
@@ -81,7 +81,7 @@ Unsere Anwendung ist Nutzern ab 18 Jahren vorbehalten.
 
 Bei der Erstellung deines Kontos bitten wir dich, dein Geburtsdatum anzugeben. Wenn du unter 18 bist, kannst du kein Konto erstellen oder unsere Dienste nutzen.
 
-Kein Marketing an Minderjährige. Jynx ist auf Nutzer ab 18 Jahren beschränkt und setzt ein automatisches Alters-Gate ein. Identifizieren wir nachträglich, dass ein Nutzer unter 18 ist (LGPD Art. 14; DSGVO Art. 8), beenden wir das Konto sofort, schließen den Nutzer von allen Marketing-, Re-Engagement- und Umfrage-Kommunikationen aus und löschen die zugehörigen Marketingdaten. Wir erheben niemals wissentlich eine Marketing-Einwilligung von einer minderjährigen Person.
+Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor.
 
 ## 3. Erhobene Daten
 
@@ -94,9 +94,9 @@ Wir erheben die folgenden Informationen bei der Erstellung und Verwaltung deines
 - E-Mail (für E-Mail/Passwort-Konten)
 - Benutzername/Nickname
 - Profilbild (optional)
-- Social-Login-Identifikatoren (Google, Apple), sofern du diese Methoden nutzt
-- Discord-Identifikatoren (deine Discord-Nutzer-ID), wenn du dein Discord-Konto für die Discord-Integration verbindest — die Verbindung nutzt Discords Identify-only-OAuth und ist keine Anmeldemethode; du kannst sie jederzeit trennen
-- Gast-Browsing (sofern verfügbar): Du kannst die öffentlichen Bereiche von Jynx erkunden, ohne ein Konto zu erstellen; im Gastmodus verarbeiten wir nur eine lokal gespeicherte Gast-Kennung und die technischen Daten aus §3.3, die für den Betrieb der App nötig sind — es wird kein Profil erstellt und keine Kontodaten gespeichert. Um zu matchen, zu chatten oder Communities beizutreten, musst du ein Konto erstellen
+- Social login identifiers (Google, Apple) if you use these methods
+- Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time
+- Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account
 
 #### Profilinformationen:
 
@@ -118,7 +118,7 @@ Um dir zu helfen, kompatible Teamkollegen zu finden, erheben wir:
 - Lieblingschampions/-charaktere
 - Spielstil
 
-#### Riot-Games-API-Integration:
+#### Riot Games API Integration:
 
 Wir rufen von der Riot Games API ab (mit deiner Zustimmung):
 
@@ -154,7 +154,7 @@ Wir erheben automatisch bestimmte technische Daten:
 
 Du kannst die Analytics-Datenerhebung in Einstellungen > Datenschutz > "Analytics aktivieren" deaktivieren.
 
-Die Werbemessung mit Meta ist von Analytics getrennt und hat einen eigenen Schalter: siehe §5.9.
+Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9.
 
 ### 3.4. Kommunikationsdaten
 
@@ -163,7 +163,7 @@ Die Werbemessung mit Meta ist von Analytics getrennt und hat einen eigenen Schal
 
 ### 3.5. Nutzergenerierte Inhalte
 
-- Hochgeladene Fotos (Profilbilder, zusätzliche Fotos) und in Direktnachrichten geteilte Bilder
+- Hochgeladene Fotos (Profilbilder, zusätzliche Fotos) and images shared in direct messages
 - Sicherheits- und Moderationsberichte
 - Kosmetische Präferenzen (Avatare, Abzeichen)
 
@@ -209,15 +209,15 @@ Wenn du dein Riot Games-Konto verknüpfst, rufen wir deine Spielstatistiken übe
 
 **Riot Games Datenschutzerklärung:** https://www.riotgames.com/en/privacy-notice
 
-### 4.4. E-Mail-Serviceanbieter (Marketing- und Umfrage-Kommunikation)
+### 4.4. Email Service Provider (Marketing & Survey Communications)
 
-Für den Versand der in §5.6 beschriebenen Marketing-, Re-Engagement- und Deinstallations-/Churn-Umfrage-E-Mails nutzt Jynx einen dritten E-Mail-Serviceanbieter (ESP), der als Auftragsverarbeiter agiert (DSGVO Art. 28; LGPD Art. 39 — operador). Der ESP verarbeitet deine E-Mail-Adresse und minimale Zustelldaten (z. B. Sende-/Bounce-Status) ausschließlich auf Grundlage der dokumentierten Weisungen von Jynx und unter einem unterzeichneten Auftragsverarbeitungsvertrag.
+To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.
 
-- **Identität, Rolle und Standort des ESP:** Brevo (Brevo SAS, Paris, Frankreich) — unser E-Mail-Serviceanbieter und Auftragsverarbeiter auf Grundlage eines unterzeichneten Auftragsverarbeitungsvertrags. Brevo-Datenschutzerklärung: https://www.brevo.com/legal/privacypolicy/
-- **Subauftragsverarbeiter:** Brevos aktuelle Liste der Subauftragsverarbeiter ist in seinem Auftragsverarbeitungsvertrag (Nutzungsbedingungen) veröffentlicht: https://www.brevo.com/legal/termsofuse/
-- **Grundlage für internationale Übermittlungen:** Siehe §9. Brevo hat seinen Hauptsitz in Frankreich (EU). Übermittlungen an Brevo profitieren daher vom EU-Schutzregime gemäß DSGVO und, für brasilianische Nutzer, vom ANPD-Angemessenheitsbeschluss für die EU (Resolution nº 32/2026) — keine SCCs oder zusätzlichen Mechanismen erforderlich.
+- **ESP identity, role, and location:** Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/
+- **Sub-processors:** Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/
+- **International transfer basis:** See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.
 
-Wir verkaufen deine personenbezogenen Daten nicht. Tracking-Pixel oder versteckte Analytics sind ohne eine separate, in §5.6 offengelegte Rechtsgrundlage nicht in Marketing-E-Mails eingebettet.
+We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6.
 
 ### 4.5. LiveKit Cloud (Echtzeit-Sprache)
 
@@ -227,23 +227,23 @@ Jynx aktiviert die Funktionen für Aufzeichnung, Transkription, Agent Insights u
 
 LiveKit speichert jedoch betriebliche Sitzungsmetadaten — etwa Teilnehmeridentitäten, Raumkennungen, Verbindungszeiten und Qualitätsmetriken — zu Abrechnungs-, Missbrauchspräventions- und Betriebszwecken gemäß seiner Datenverarbeitungs-Zusatzvereinbarung. Diese Metadaten werden nicht verwendet, um dich außerhalb der Plattform zu identifizieren oder für Werbung.
 
-### 4.6. App Store / Google Play (In-App-Käufe und Abonnements)
+### 4.6. App Store / Google Play (In-App Purchases and Subscriptions)
 
-Jynx+-Abonnements und Founder Packs werden in der App über Apples App Store und Google Play verkauft, die als merchant of record für diese Käufe auftreten (siehe die Nutzungsbedingungen, Abschnitt 8). Zahlungsinstrumentdaten (z. B. Kartendaten) werden ausschließlich von Apple/Google unter deren jeweiligen Datenschutzrichtlinien erhoben und verarbeitet; Jynx erhebt, empfängt oder speichert keinerlei Zahlungsinstrumentdaten.
+Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.
 
-Über unseren Abrechnungsanbieter RevenueCat (einen Auftragsverarbeiter auf Grundlage eines unterzeichneten Auftragsverarbeitungsvertrags; DSGVO Art. 28; LGPD Art. 39 — operador) erhält Jynx nur die Informationen, die nötig sind, um zu liefern, was du gekauft hast: deinen Abo- und Berechtigungsstatus (z. B. ob Jynx+ aktiv ist und welches Verlängerungsdatum es hat), das gekaufte Founder-Pack-Level und Transaktionskennungen. Diese Daten werden so lange aufbewahrt, wie es zur Bereitstellung des Dienstes und zur Erfüllung von Buchhaltungs- und Dokumentationspflichten nötig ist (§6), und ausschließlich verwendet, um deine Berechtigungen zu gewähren und aufrechtzuerhalten sowie Betrug zu verhindern. RevenueCat ist in den Vereinigten Staaten ansässig; Übermittlungen personenbezogener Daten an RevenueCat stützen sich auf das EU-US Data Privacy Framework (für RevenueCat-Entitäten, die sich unter dem DPF zertifiziert haben) oder auf Standardvertragsklauseln, wo das DPF nicht anwendbar ist. Der anwendbare Übermittlungsmechanismus für Daten brasilianischer Nutzer wird in unserem Verarbeitungsverzeichnis bestätigt (siehe §9).
+Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).
 
-- Apple-Datenschutzerklärung: https://www.apple.com/legal/privacy/
-- Google-Datenschutzerklärung: https://policies.google.com/privacy
-- RevenueCat-Datenschutzerklärung: https://www.revenuecat.com/privacy
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
+- Google Privacy Policy: https://policies.google.com/privacy
+- RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
 
-### 4.7. Spezialisierte Anbieter von Kinderschutz-Technologie
+### 4.7. Specialized Child-Safety Technology Providers
 
-Zur Unterstützung der Erkennung bekannten sexuellen Kindesmissbrauchsmaterials (siehe §5.8) arbeitet Jynx mit spezialisierten Anbietern von Kinderschutz-Technologie zusammen, die als Auftragsverarbeiter auftreten (DSGVO Art. 28; LGPD Art. 39 — operador). Diese Anbieter erhalten ausschließlich irreversible Hashes, die aus Bildern abgeleitet werden — niemals die Bilder selbst — und führen den Hash-Abgleich in der EU-Region durch, allein zur Kinderschutz-Erkennung auf Grundlage der dokumentierten Weisungen von Jynx. Die Ableitung des Hashs aus dem Bild erfolgt innerhalb der eigenen Google-Cloud-Infrastruktur von Jynx (siehe §9).
+To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9).
 
-### 4.8. Cloud-Anbieter für Bildmoderation (AWS)
+### 4.8. Cloud Image-Moderation Provider (AWS)
 
-Um die Plattform sicher zu halten, werden Profilbilder und Galeriefotos von einem automatisierten Bildklassifizierungsdienst geprüft — Amazon Rekognition, bereitgestellt von Amazon Web Services (AWS), als Auftragsverarbeiter (DSGVO Art. 28; LGPD Art. 39 — operador). Zu diesem Zweck wird das Bild an AWS übertragen und per Machine Learning auf unangemessene Inhalte analysiert (zum Beispiel Nacktheit oder explizites Material); das Ergebnis ist ein maschinell erzeugtes Label mit Konfidenzwert, das in unserem Moderationsprozess verarbeitet wird (siehe die Child-Safety-Policy). Diese Verarbeitung dient ausschließlich der Inhaltsmoderation und Sicherheit — niemals der Profilbildung, Werbung oder einem anderen Zweck. AWS verarbeitet diese Daten in der für den Dienst konfigurierten AWS-Region (derzeit São Paulo, Brasilien); die Übermittlungsgarantien aus §9 gelten. Wie beim übrigen Dienst wird das Bild vor der Weiterleitung an AWS innerhalb der eigenen Google-Cloud-Infrastruktur von Jynx verarbeitet (siehe §9).
+To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9).
 
 ### 4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)
 

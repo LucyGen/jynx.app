@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # Gizlilik Politikası
 
-Son güncelleme: 17 Kasım 2026
+Son güncelleme: Kasım 2026
 
 Version: 1.13
 
@@ -67,11 +67,11 @@ Jynx ("biz", "bizim", "uygulama"), oyuncuların bağlanmasına, takım kurmasın
 
 - **Yasal Varlık:** Jynx Group
 - **Gizlilik Sorumlusu İletişim:** dpo@jynx.app
-- **AB / AEA yargı bölgesi:** Fransa, Avrupa Birliği — bu Gizlilik Politikası, Fransa'da iç hukuka aktarılmış haliyle Regulation (EU) 2016/679 (GDPR) ve Directive 2002/58/EC (ePrivacy) ile uyumludur.
-- **Brezilya yargı bölgesi:** Bu Gizlilik Politikası ayrıca, Jynx'in Brezilya'da yerleşik olmamasına bakılmaksızın LGPD'nin 3. maddesi uyarınca Brezilya'da bulunan ilgili kişilerin kişisel verilerinin Jynx tarafından işlenmesine uygulanan Brezilya Kanunu nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD") ile de uyumludur.
-- **Yayın (LCEN):** Yayın direktörü (Directeur de la publication): Antoine Haie. Bu web sitesi (jynx.app), GitHub Pages tarafından barındırılır ve Cloudflare içerik dağıtım ağı üzerinden sunulur.
+- **EU / EEA jurisdiction:** France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.
+- **Brazilian jurisdiction:** This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.
+- **Publication (LCEN):** Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network.
 
-LGPD amaçları doğrultusunda Jynx Group, kişisel verilerinizin sorumlusudur (controlador). Veri Koruma Görevlimiz encarregado (DPO) olarak görev yapar ve LGPD ile ilgili her talep için dpo@jynx.app adresinden ulaşılabilir. Jynx, ANPD Resolution CD/ANPD nº 2/2022 uyarınca küçük ölçekli kişisel veri işleme aktörü (pequeno agente de tratamento de dados pessoais) kapsamına girmekte ve bu kapsamda encarregado ataması zorunluluğundan muaf olmaktadır; buna rağmen Jynx, bu yayınlanmış iletişim kanalını gönüllü olarak sürdürmektedir.
+For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.
 
 Bu gizlilik politikası, uygulamamızı kullandığınızda kişisel verilerinizi nasıl topladığımızı, kullandığımızı, paylaştığımızı ve koruduğumuzu açıklar.
 
@@ -81,7 +81,7 @@ Uygulamamız 18 yaş ve üzeri kullanıcılar içindir.
 
 Hesabınızı oluştururken, doğum tarihinizi sağlamanızı istiyoruz. 18 yaşın altındaysanız, hesap oluşturamaz veya hizmetlerimizi kullanamazsınız.
 
-Reşit olmayanlara pazarlama. Jynx, 18 yaş ve üzeri kullanıcılarla sınırlıdır ve otomatik bir yaş kapısı uygular. Bir kullanıcının 18 yaşın altında olduğunu sonradan tespit edersek (LGPD Mad. 14; GDPR Mad. 8), hesabı derhal sonlandırır, kullanıcıyı tüm pazarlama, yeniden etkileşim ve anket iletişimlerinin dışında tutar ve ilgili pazarlama verilerini sileriz. Reşit olmayan birinden asla bilerek pazarlama onayı toplmayız.
+Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor.
 
 ## 3. Toplanan Veriler
 
@@ -94,9 +94,9 @@ Hesabınızı oluştururken ve yönetirken aşağıdaki bilgileri topluyoruz:
 - E-posta (e-posta/şifre hesapları için)
 - Kullanıcı adı/takma ad
 - Profil fotoğrafı (isteğe bağlı)
-- Bu yöntemleri kullanırsanız sosyal giriş tanımlayıcıları (Google, Apple)
-- Discord entegrasyonu için Discord hesabınızı bağlamayı seçerseniz Discord tanımlayıcıları (Discord kullanıcı kimliğiniz) — bağlantı, Discord'un yalnızca kimlik (identify) amaçlı OAuth'unu kullanır ve bir giriş yöntemi değildir; dilediğiniz zaman bağlantıyı kaldırabilirsiniz
-- Misafir gezinme (mevcut olduğunda): Jynx'in herkese açık bölümlerini hesap oluşturmadan keşfedebilirsiniz; misafir modunda yalnızca yerel olarak saklanan bir misafir tanımlayıcısını ve uygulamayı sunmak için gereken §3.3'teki teknik verileri işleriz — profil oluşturulmaz ve hesap verisi saklanmaz. Eşleşmek, sohbet etmek veya topluluklara katılmak için hesap oluşturmanız gerekir
+- Social login identifiers (Google, Apple) if you use these methods
+- Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time
+- Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account
 
 #### Profil Bilgileri:
 
@@ -154,7 +154,7 @@ Belirli teknik verileri otomatik olarak topluyoruz:
 
 Ayarlar > Gizlilik > "Analitikleri Etkinleştir" bölümünden analitik veri toplamayı devre dışı bırakabilirsiniz.
 
-Meta ile reklam ölçümü, analitikten ayrıdır ve kendi anahtarına sahiptir: bkz. §5.9.
+Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9.
 
 ### 3.4. İletişim Verileri
 
@@ -163,7 +163,7 @@ Meta ile reklam ölçümü, analitikten ayrıdır ve kendi anahtarına sahiptir:
 
 ### 3.5. Kullanıcı Tarafından Oluşturulan İçerik
 
-- Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar) ve doğrudan mesajlarda paylaşılan görseller
+- Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar) and images shared in direct messages
 - Güvenlik ve moderasyon raporları
 - Kozmetik tercihleri (avatarlar, rozetler)
 
@@ -209,15 +209,15 @@ Riot Games hesabınızı bağladığınızda, resmi Riot Games API'si aracılı�
 
 **Riot Games Gizlilik Politikası:** https://www.riotgames.com/tr/privacy-notice
 
-### 4.4. E-posta Servis Sağlayıcısı (Pazarlama ve Anket İletişimleri)
+### 4.4. Email Service Provider (Marketing & Survey Communications)
 
-§5.6'da açıklanan pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postalarını iletmek için Jynx, veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden üçüncü taraf bir e-posta servis sağlayıcısı (ESP) kullanır. ESP; e-posta adresinizi ve minimum teslimat verinizi (örn. gönderim/geri dönme durumu) yalnızca Jynx'in belgelenmiş talimatları doğrultusunda ve imzalı bir Veri İşleme Sözleşmesi kapsamında işler.
+To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.
 
-- **ESP kimliği, rolü ve konumu:** Brevo (Brevo SAS, Paris, Fransa) — imzalı bir Veri İşleme Sözleşmesi kapsamında e-posta servis sağlayıcımız ve veri işleyicimiz. Brevo Gizlilik Politikası: https://www.brevo.com/legal/privacypolicy/
-- **Alt işleyiciler:** Brevo'nun güncel alt işleyici listesi, Veri İşleme Sözleşmesi'nde (Kullanım Koşulları) yayımlanır: https://www.brevo.com/legal/termsofuse/
-- **Uluslararası aktarım dayanağı:** Bkz. §9. Brevo'nun merkezi Fransa'dadır (AB). Brevo'ya yapılan aktarımlar bu nedenle GDPR kapsamındaki AB koruma rejiminden ve Brezilyalı kullanıcılar için AB'ye ilişkin ANPD yeterlilik karından (Resolution nº 32/2026) yararlanır — SCC'lere veya ek bir mekanizmaya gerek yoktur.
+- **ESP identity, role, and location:** Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/
+- **Sub-processors:** Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/
+- **International transfer basis:** See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.
 
-Kişisel verilerinizi satmıyoruz. §5.6'da açıklanan ayrı bir yasal dayanak olmaksızın pazarlama e-postalarına izleme pikselleri veya gizli analitikler gömülmez.
+We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6.
 
 ### 4.5. LiveKit Cloud (Gerçek Zamanlı Ses)
 
@@ -227,45 +227,45 @@ Jynx, LiveKit'in kayıt, transkripsiyon, Agent Insights veya Egress özellikleri
 
 LiveKit, faturalandırma, kötüye kullanımın önlenmesi ve operasyonel amaçlarla, Veri İşleme Ek Sözleşmesi uyarınca katılımcı kimlikleri, oda tanımlayıcıları, bağlantı zamanları ve kalite metrikleri gibi operasyonel oturum meta verilerini saklar. Bu meta veriler, sizi platform dışında tanımlamak veya reklam amacıyla kullanılmaz.
 
-### 4.6. App Store / Google Play (Uygulama İçi Satın Almalar ve Abonelikler)
+### 4.6. App Store / Google Play (In-App Purchases and Subscriptions)
 
-Jynx+ abonelikleri ve Kurucu Paketleri, bu satın almalar için ticari kayıt sahibi (merchant of record) olarak hareket eden Apple'ın App Store'u ve Google Play üzerinden uygulama içinde satılır (Hizmet Şartları, Bölüm 8'e bakın). Ödeme aracı verileri (örn. kart bilgileri) yalnızca Apple/Google tarafından kendi gizlilik politikaları uyarınca toplanır ve işlenir; Jynx hiçbir ödeme aracı verisi toplamaz, almaz veya saklamaz.
+Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.
 
-Faturalandırma sağlayıcımız RevenueCat aracılığıyla (imzalı bir Veri İşleme Sözleşmesi kapsamında hareket eden bir veri işleyici; GDPR Mad. 28; LGPD Mad. 39 — operador), Jynx yalnızca satın aldığınızı teslim etmek için gereken bilgileri alır: abonelik ve hak durumunuz (örn. Jynx+'ın aktif olup olmadığı ve yenileme tarihi), satın alınan Kurucu Paketi kademesi ve işlem tanımlayıcıları. Bu veri, Hizmeti sağlamak ve muhasebe ile kayıt tutma yükümlülüklerini karşılamak için gerekli olduğu sürece saklanır (§6) ve yalnızca haklarınızı tanımak ve sürdürmek ile dolandırıcılığı önlemek için kullanılır. RevenueCat Amerika Birleşik Devletleri'nde kuruludur; RevenueCat'a yapılan kişisel veri aktarımları, AB-ABD Veri Gizliliği Çerçevesine (DPF kapsamında self-sertifikasyon yapan RevenueCat varlıkları için) veya DPF'nin uygulanmadığı durumlarda standart sözleşme maddelerine dayanır. Brezilyalı kullanıcıların verisi için geçerli aktarım mekanizması, İşleme Faaliyetleri Kayıtlarımızda teyit edilir (bkz. §9).
+Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).
 
-- Apple Gizlilik Politikası: https://www.apple.com/legal/privacy/
-- Google Gizlilik Politikası: https://policies.google.com/privacy
-- RevenueCat Gizlilik Politikası: https://www.revenuecat.com/privacy
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
+- Google Privacy Policy: https://policies.google.com/privacy
+- RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
 
-### 4.7. Özel Çocuk Güvenliği Teknolojisi Sağlayıcıları
+### 4.7. Specialized Child-Safety Technology Providers
 
-Bilinen çocuk cinsel istismarı materyalini tespit etmeye yardımcı olmak için (bkz. §5.8), Jynx veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden özel çocuk güvenliği teknolojisi sağlayıcılarıyla çalışır. Bu sağlayıcılar yalnızca görsellerden türetilen geri döndürülemez hash'leri alır — görsellerin kendisini asla — ve hash eşleştirmesini AB bölgesinde, yalnızca çocuk güvenliği tespiti amacıyla ve Jynx'in belgelenmiş talimatları doğrultusunda yapar. Hash'in görselden türetilmesi, Jynx'in kendi Google Cloud altyapısı içinde gerçekleşir (bkz. §9).
+To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9).
 
-### 4.8. Bulut Görsel Moderasyon Sağlayıcısı (AWS)
+### 4.8. Cloud Image-Moderation Provider (AWS)
 
-Platformu güvenli tutmak için profil resimleri ve galeri fotoğrafları, otomatik bir görsel sınıflandırma servisiyle taranır — Amazon Web Services (AWS) tarafından sağlanan ve veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden Amazon Rekognition. Bu amaçla görsel AWS'ye iletilir ve uygunsuz içerik (örneğin çıplaklık veya açık materyal) açısından makine öğrenmesiyle analiz edilir; sonuç, moderasyon sürecimizde ele alınan makine tarafından üretilmiş bir etiket ve güven puanıdır (Çocuk Güvenliği Politikası'na bakın). Bu işleme yalnızca içerik moderasyonu ve güvenlik için kullanılır — asla profil çıkarma, reklamcılık veya başka bir amaç için değil. AWS bu veriyi servis için yapılandırılmış AWS bölgesinde (şu anda São Paulo, Brezilya) işler; §9'daki aktarım güvenceleri geçerlidir. Hizmetin geri kalanında olduğu gibi, görsel AWS'ye aktarılmadan önce Jynx'in kendi Google Cloud altyapısı tarafından işlenir (bkz. §9).
+To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9).
 
-### 4.9. Reklam Atfı (Meta, Apple ATT, Google Play Install Referrer)
+### 4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)
 
-Uygulama yüklemelerimizin pazarlamadan kaynaklanıp kaynaklanmadığını ölçmek için, gerektiğinde onayınıza tabi olarak reklam ve atıf teknolojileri kullanırız: Meta (Facebook) App Events SDK (Meta Platforms Ireland) ve Google Play Install Referrer API. Apple cihazlarda Meta SDK, yalnızca App Tracking Transparency (ATT) iznini verdikten sonra başlatılır; bu izin verilmeden hiçbir reklam tanımlayıcısı (IDFA) toplanmaz ve SDK başlatılmaz. Android'de Google Play Install Referrer API, yüklemenizin bir mağaza listelemesinden mi yoksa kampanya bağlantısından mı kaynaklandığını bildirir ve reklam tanımlayıcısı (GAID), cihazınızın reklam kimliği ayarlarına uygun şekilde kullanılır. Meta'ya gönderilen etkinlikler; uygulama etkinleştirme ve uygulama etkinliği meta verileriyle sınırlıdır (oturum açtıysanız uygulama kullanıcı tanımlayıcınız dâhildir; oturumu kapattığınızda SDK'dan silinir) ve atıf ile kampanya ölçümü amacıyla Jynx'in talimatları doğrultusunda işlenir.
+To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.
 
-Meta Platforms Ireland bu veriyi, yukarıdaki atıf amacı için veri işleyicimiz olarak işler; Meta Platforms, Inc. ayrıca kendi koşulları altında kendi meşru amaçları için bağımsız veri sorumlusu olarak da hareket edebilir (Meta'nın Veri İşleme Koşulları ve https://www.facebook.com/privacy/policy adresindeki gizlilik politikası). Amerika Birleşik Devletleri'ne yapılan aktarımlar, self-sertifikasyon yapan Meta varlıkları için AB-ABD Veri Gizliliği Çerçevesine veya standart sözleşme maddelerine dayanır (§9). ATT iznini reddedebilir veya geri alabilir ya da reklam kimliğinizi cihaz ayarlarından dilediğiniz zaman sıfırlayabilirsiniz; reddetmek, Jynx kullanımınızı etkilemez.
+Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.
 
-**Reklam ölçümü.** Yükleme atfının ötesinde dönüşümleri de ölçeriz: Meta ile paylaşılan etkinlikler; kayıt olma (registration), onboarding tamamlama ve satın almaları — satın alma tutarı ve para birimiyle birlikte — içerir. Onay verdiyseniz, eşleşme kalitesini artırmak için karmalanmış (geri döndürülemez şekilde karıştırılmış) bir e-posta adresi veya telefon numarası da paylaşılabilir; bu, meşru çıkar dayanağıyla (aşağıda) ölçülen kullanıcılar için asla gerçekleşmez. Kayıt olma etkinliği, beyan ettiğiniz cinsiyeti de içerebilir. Başka hiçbir şey paylaşılmaz — mesaj yok, profil alanları yok, oyunlar yok, topluluklar yok, kişiler yok, konum veya fotoğraflar yok — ve veriniz asla satılmaz. Yasal dayanaklar, seçenekleriniz ve Apple SKAdNetwork açıklaması §5.9'da açıklanmıştır.
+**Ad measurement.** Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.
 
-Saklama: Jynx, Meta ile paylaşılan etkinliklerin ayrı bir kopyasını tutmaz. Zaten paylaşılmış etkinlikler, paylaşım anından itibaren uygulanan Meta'nın Business Tools saklama ve silme süreçlerine tabidir.
+Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing.
 
-### 4.10. İçerik Üretici (Ortak) Programı — KYC ve Ödemeler
+### 4.10. Creator (Partner) Program — KYC and Payouts
 
-Jynx İçerik Üretici (ortak) programına katılırsanız, programın gerektirdiği kimlik, vergi ve ödeme bilgilerini işleriz: CPF veya CNPJ'niz (uygulama içinde doğrulanır), seçtiğiniz ödeme kanalı — PayPal (e-posta ile tanımlanır), Wise banka transferi (Brezilya) veya bir Pix anahtarı — ve kampanya performans kayıtlarınız (atıflı kayıt olmalar; bkz. §10 yönlendirmeler). Ödeme kayıtları takma adlı (pseudonymous) biçimde tutulur (§10). Program, kayıt olurken kabul ettiğiniz sürümlü İçerik Üretici Yönlendirme Koşulları ve Kendi Adına Fatura Yetkisi (Self-Billing Mandate) ile yönetilir (Hizmet Şartları §15'e bakın).
+If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).
 
-Ödemeler, seçtiğiniz kanalı işleten ödeme kurumu aracılığıyla yürütülür: PayPal veya Wise; kimliğinizi doğrulamak, dolandırıcılığı önlemek ve düzenleyici yükümlülüklerini karşılamak için ihtiyaç duydukları transfer talimatlarını ve verileri alır ve kendi koşulları altında bağımsız ödeme kurumları olarak hareket eder (gizlilik politikaları web sitelerinde yayımlanır); Pix ödemesi, Jynx Group'un sağladığınız Pix anahtarına başlattığı bir transferdir. Geçerli uluslararası aktarım güvenceleri §9'da açıklanmıştır.
+Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9.
 
-### 4.11. Yapay Zekâ Özellikleri
+### 4.11. AI Features
 
-**Avatar üretimi.** Avatar anketi, profiliniz için stilize avatar önerileri üretebilir. Üretim şu anda Cloudflare Workers AI (Cloudflare, Inc., veri işleyici) üzerinde, Jynx'in belgelenmiş talimatları doğrultusunda çalışır; temeldeki motor değişirse bu bölüm, değişiklikle birlikte veya öncesinde güncellenecektir. Girdiler; ankete verdiğiniz yanıtlar ve oyun tarzı tercihlerinizdir — asla fotoğraflarınız değil — birlikte kullanıcı tanımlayıcınız da kullanılır; öneriler uygulamaya PNG veya WebP görselleri olarak döndürülür ve geri alabilmeniz için 30 güne kadar saklanır, ardından silinir. Üretilen görseller sentetiktir — sizin fotoğraflarınız değildir — ve diğer görsellerle aynı moderasyona tabidir (§4.8).
+**Avatar generation.** The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).
 
-**Yardımcı mesajlar (Quimera).** Bazı yardımcı uygulama mesajları, üretken bir yapay zekâ sistemi (Google Gemini, veri işleyici) tarafından oluşturulur veya zenginleştirilir. Bir mesaj yapay zekâ tarafından üretilmişse bu şekilde etiketlenir; yapay zekâ tarafından üretilmiş bir ögeyle etkileşimde olduğunuzda daima bilgilendirilirsiniz — AB Yapay Zekâ Yasası Mad. 50(1)'e uygun olarak.
+**Companion messages (Quimera).** Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1).
 
 ## 5. Veri Kullanımı
 
@@ -282,18 +282,18 @@ Verilerinizi şu amaçlarla kullanırız:
 - Uyumlu takım arkadaşları önermek (oyun tabanlı, rütbe, tarz eşleştirme)
 - İlgili içeriği göstermek
 
-### 3. İletişim (operasyonel / işlemsel):
+### 3. İletişim:
 
-- Size önemli hizmet bildirimleri göndermek (bulunan eşleşmeler, alınan mesajlar, hesap güvenliği uyarıları ve §11 kapsamındaki politika değişikliği duyuruları)
+- Size önemli bildirimler göndermek (eşleşmeler bulundu, mesajlar alındı)
 
-Pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postaları ayrıca §5.6 Pazarlama İletişimleri altında açıklanır ve bu işlemsel kategori kapsamında değildir.
+Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category.
 
 ### 4. Hizmet İyileştirme:
 
 - Özellikleri iyileştirmek için kullanımı analiz etmek
 - Hataları tanımlamak ve düzeltmek
 - Performansı optimize etmek
-- Yapay zekâ işleyicileriyle avatar önerileri ve yardımcı mesaj taslakları üretmek (§4.11)
+- Generate avatar proposals and companion-message drafts using AI processors (§4.11)
 
 ### 5. Güvenlik ve Uyumluluk:
 
@@ -301,64 +301,64 @@ Pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postaları ayrıca §
 - Kullanım şartlarımızı uygulamak
 - Yasal yükümlülüklerimize uymak
 
-Uygulama kullanımından türetilmiş, anonimleştirilmiş ve toplulaştırılmış istatistikler yayımlayabiliriz (örneğin, oyuncuların nasıl duo kurduğu). Bu istatistikler asla bireysel kullanıcıları tanımlamaz.
+We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.
 
-### 5.6. Pazarlama İletişimleri
+### 5.6. Marketing Communications
 
-§5.3'te açıklanan operasyonel bildirimlerin yanı sıra, size e-postayla pazarlama ve yeniden etkileşim iletişimleri gönderebiliriz; bunlar arasında şunlar bulunur: Jynx uygulamasına ilişkin ürün güncellemeleri ve özellik duyuruları; bültenler; sizi uygulamaya geri davet eden yeniden etkileşim mesajları; ve kısa kaldırma veya kayıp geri bildirim anketleri (örn. "Jynx'i neden kullanmayı bıraktınız?"). Bu iletişimler, işlemsel/hizmet bildirimlerinden ayrıdır.
+In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., "Why did you stop using Jynx?"). These communications are distinct from transactional/service notifications.
 
-**Yasal dayanak — Avrupa Birliği / AEA kullanıcıları (GDPR + ePrivacy).** AB/AEA kullanıcılarına gönderilen pazarlama ve yeniden etkileşim e-postaları, önceki açık katılım (opt-in) onamınıza dayanır (ePrivacy Direktifi Mad. 13(1); Fransa'da Code des postes et des communications électroniques'in L. 34-5 maddesiyle iç hukuka aktarılmıştır; GDPR Mad. 6(1)(a) ve Mad. 7). Ücretli aboneliklerin (Jynx+) ve tek seferlik uygulama içi satın almaların (Kurucu Paketleri) lansmanının ardından Hizmet artık ücret karşılığı sağlanan bir hizmettir ve bu satın almalar, ABAD'nin C-654/23 sayılı kararı (13 Kasım 2025) anlamında bir "satış" teşkil eder. Bu nedenle ePrivacy Mad. 13(2)'deki "yumuşak katılım" (soft opt-in) istisnası, ilke olarak mevcut müşterilere benzer ürün ve hizmetler için bizim de kullanımımıza açıktır. Ancak ihtiyatlı bir tutum olarak, önceki açık katılım onamınıza dayanmaya devam ediyoruz; yumuşak katılım dayanağına yalnızca, İşleme Faaliyetleri Kayıtlarımızda kayıtlı belgelenmiş bir yeniden değerlendirme ve size güncellenmiş bir bildirimden sonra başlayacağız.
+**Legal basis — European Union / EEA users (GDPR + ePrivacy).** Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a "sale" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The "soft opt-in" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.
 
-**Yasal dayanak — Brezilyalı kullanıcılar (LGPD).** Brezilyalı kullanıcılar için pazarlama ve yeniden etkileşim iletişimleri, iki alternatif yasal dayanağa dayanır:
+**Legal basis — Brazilian users (LGPD).** For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:
 
-1. **Onam (LGPD Mad. 7, I ve Mad. 8)** — kayıt sırasında veya uygulama içinde ayrı, işaretlenmemiş, amaca özel bir katılım (opt-in) olarak alınır; tarih, form sürümü ve dille kaydedilir; dilediğiniz zaman, ücretsiz ve Hizmete erişiminizi kaybetmeden geri çekilebilir (Mad. 8 §5). Onam; Jynx ana uygulamasının ötesinde, potansiyel kullanıcılara yapılan iletişimler, soğuk iletişim veya çapraz satış/ortak teklifleri için kullanılan dayanaktır.
-2. **Meşru çıkar (LGPD Mad. 7, IX; Mad. 10 ile ayrıntılandırılmıştır)** — yalnızca yeniden etkileşim mesajları, aynı Jynx uygulamasına ilişkin ürün güncellemeleri veya tek seferlik kısa bir kayıp/kaldırma geri bildirim anketi alan; mevcut veya yakın zamanda kaybedilmiş kullanıcılar için kullanılır. Bu dayanağa güvenmeden önce Jynx, ANPD Meşru Çıkar Rehberi'nin (2 Şubat 2024) üç aşamalı testini izleyerek bir Meşru Çıkarlar Değerlendirmesi (LIA) yapar ve belgeler: (i) amaç, (ii) gereklilik ve (iii) dengeleme ve güvenceler. LIA; önceki ilişkiyi, kullanıcının makul beklentilerini, amacı, seçilen en az müdahaleci yolu ve çıkış (opt-out) kanalını kaydeder. Meşru çıkar; soğuk/istenmeyen e-posta, ilgisiz çapraz satış, satın alınmış listeler veya ilişki açıkça sona erdikten sonra ayrılan kullanıcılara ısrarlı mesajlaşma için kullanılmaz.
+1. **Consent (LGPD Art. 7, I and Art. 8)** — captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.
+2. **Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)** — used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.
 
-**İtiraz hakkı / çıkış (opt-out).** Brezilyalı kullanıcılar bu işlemeye dilediğiniz zaman itiraz edebilir ve §7.5 ile §7.6'daki mekanizmalar üzerinden (her e-postada tek tıkla abonelikten çıkma veya uygulama içi iletişim tercihleri anahtarı) çıkabilir; ücretsizdir ve hesabı sonlandırmayı gerektirmez. Çıkış taleplerini gerçek zamanlı olarak yerine getiririz. Brezilya Tüketicini Koruma Kanunu (CDC, Kanun 8.078/90, özellikle Mad. 39 III), istenmeyen veya kötüye kullanımlı ticari mesajlaşmayı yasaklar; bu nedenle çıkışlara sıkı biçimde uyarız ve sıklık sınırları uygularız; ısrarlı gönderim veya çıkışı görmezden gelmek, kötüye kullanımlı uygulama olarak değerlendirilebilir.
+**Right to object / opt-out.** Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.
 
-**Kaldırma / kayıp anketleri.** Operasyonel olarak mümkün olduğunda kaldırma/kayıp sorularını, kaldırma anında uygulama içinde sorarız (e-posta saklamayı gerektirmez). E-posta anketi gönderilirse: anket, tanıtım veya yeniden etkileşim içeriği içermez; kullanıcı başına, hesap silme veya kaldırmadan sonra yaklaşık 60 gün içinde en fazla bir (1) anket göndeririz; e-posta adresi daha sonra §6'ya uygun olarak silinir veya anonimleştirilir; ve silme / unutulma hakkı talebi (§7.3) göndermiş kullanıcılar asla yeniden iletişime geçilmez ve kalıcı bir bastırma listesine alınır (bkz. §6 ve Hizmet Şartları §7.2).
+**Uninstall / churn surveys.** Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).
 
-**E-posta izleme.** Pazarlama e-postaları, ayrı bir yasal dayanak olmaksızın kişisel veri işleyen izleme pikselleri veya gizli analitikler içermez. Herhangi bir açılma/tıklama izlemesi getirilirse, burada açıklanacak ve onam temelinde olacaktır (LGPD Mad. 8; ePrivacy Mad. 5(3)); ANPD'nin izleme teknolojilerine ilişkin rehberiyle (18 Ekim 2022) uyumlu şekilde.
+**Email tracking.** Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).
 
-**Sıklık.** Pazarlama e-postaları, dahili sıklık sınırlarına tabidir; uygulama içi iletişim tercihleri anahtarından veya herhangi bir mesajdaki abonelikten çıkma bağlantısına tıklayarak dilediğiniz zaman azaltabilir veya kapatabilirsiniz.
+**Frequency.** Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message.
 
 ### 5.7. Topluluk Güvenliği ve Yasak Aşma
 
 Topluluğumuzu kötüye kullanımdan korumaya yardımcı olmak için, bir askıya alma veya yasağı atlatma girişimlerini tespit etmek ve önlemek amacıyla cihaz tanımlayıcılarını ve cihaz bütünlüğü sinyallerini kullanırız. Bir cihazı yasaklı bir hesapla ilişkilendirirsek, o cihazın yeni hesap oluşturması veya oturum açması engellenebilir. Bunun hatadan kaynaklandığını düşünüyorsanız support@jynx.app adresine başvurarak itiraz edebilirsiniz.
 
-Cihaz bütünlüğü sinyalleri, uygulamaya gömülü kurcalamaya karşı (anti-tampering) ve cihaz bütünlüğü kütüphanesi olan Talsec freeRASP'nin yardımıyla toplanır ve değerlendirilir. freeRASP cihazınızda çalışır: root'lanmış cihazlar, çalışma zamanı hooking'i ve kilidi açılmış bootloader'lar gibi tehditleri yerel olarak algılar ve bulgularını, kötüye kullanımı önlemek için kendi hata izleme sağlayıcımız (Sentry, §4.2) üzerinden bize bildirir; verinizi hiçbir Talsec tarafından işletilen servise göndermez.
+Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service.
 
-### 5.8. Çocuk Güvenliği Görsel Analizi
+### 5.8. Child-Safety Image Analysis
 
-Çocukları korumaya ve yasal bildirim yükümlülüklerimizi yerine getirmeye yardımcı olmak için Jynx, doğrudan mesajlarda paylaşılan görselleri; bu görsellerden türetilen hash'leri bilinen çocuk cinsel istismarı materyali veritabanlarıyla karşılaştıran otomatik sistemlerle analiz eder. Bu analiz için görsellerin kendisi üçüncü taraflara iletilmez — yalnızca geri döndürülemez hash'ler iletilir (bkz. §4.7). Profil resimleri ayrı olarak, §4.8'de açıklanan görsel moderasyon işlemesiyle taranır. Bu analiz yalnızca çocuk güvenliği tespiti ve yasal bildirim yükümlülüklerimiz için vardır; profil çıkarma, reklamcılık veya başka hiçbir amaç için kullanılmaz. Eşleşmeler, [Çocuk Güvenliği Politikamızda](/child-safety.html) açıklandığı şekilde ele alınır.
+To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our [Child Safety Policy](/child-safety.html).
 
-### 5.9. Reklam Ölçümü
+### 5.9. Advertising Measurement
 
-Kabul ederseniz, reklamlarımızı ölçmek ve iyileştirmek için sınırlı etkinlikleri (kayıt olma ve satın almalar, tutarlarıyla birlikte) Meta ile ayrıca paylaşırız. Veriniz asla satılmaz ve seçiminizi Gizlilik ayarlarından dilediğiniz zaman değiştirebilirsiniz. Neyin, kiminle paylaşıldığı §4.9'da listelenmiştir.
+If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.
 
-Nasıl etkinleştirilir. iPhone ve iPad'de reklam ölçümü, verinizi yalnızca onayınızla (GDPR Mad. 6(1)(a); LGPD Mad. 7, I) kullanır; onam ilk açılıştaki gizlilik ekranında veya daha sonra Ayarlar > Gizlilik > Reklam ölçümü bölümünde verilir ve ayrıca Apple'ın App Tracking Transparency yetkisini gerektirir (bkz. §4.9). Android'de reklam ölçümü ya aynı onama ya da, ilk açılış ekranında reklam ölçümü anahtarı varsayılan olarak açık gösterilen kullanıcılar için, reklamlarımızı ölçme konusundaki meşru çıkarımıza (LGPD Mad. 7, IX ve Mad. 10) dayanır; bu, belgelenmiş bir Meşru Çıkarlar Değerlendirmesi ile değerlendirilmiştir. Bu durumda varsayılan olarak açıktır; aynı ekrandan veya Ayarlar > Gizlilik > Reklam ölçümü bölümünden dilediğiniz zaman kapatabilirsiniz — itiraz etmek, açık bırakmak kadar kolaydır, ücretsizdir ve asla hesabınızı silmeyi gerektirmez (LGPD Mad. 18, §2).
+How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).
 
-Güvenceler. 18 yaşın altında olduğunu bildiğimiz kullanıcılar ve yaşı tespit edilmemiş profiller, asla meşru çıkar dayanağıyla ölçülmez. Onamı geri çekmek veya itiraz etmek, bir sonraki uygulama açılışınızdan itibaren ileriye dönük paylaşımı durdurur; öncesinde usulüne uygun paylaşılmış etkinlikler §4.9'daki saklama koşullarıyla Meta'da kalır ve geri çekme, öncesinde yapılan işlemlerin hukuka uygunluğunu etkilemez (GDPR Mad. 7(3); LGPD Mad. 8 §5).
+Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).
 
-**Apple SKAdNetwork (iOS).** Yukarıdakilerden ayrı olarak ve herhangi bir seçim ya da ayardan bağımsız olarak — izleme veya reklam ölçümü reddedilmiş olsa bile — tüm iPhone ve iPad kullanıcıları için Apple'ın SKAdNetwork'ü, size reklam gösteren reklam ağına anonim ve toplulaştırılmış dönüşüm bilgileri bildirir (örneğin, belirli bir değer aralığında bir kayıt olma veya satın alma gerçekleştiği). Bunun için cihazınızdan Jynx'e ait hiçbir tanımlayıcı ve hiçbir kişisel veri çıkmaz: bu, Apple'ın standart atıf mekanizmasıdır ve biz onun aracılığıyla sizi tanımlayamayız.
+**Apple SKAdNetwork (iOS).** Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it.
 
-### 5.10. E-postalar ve İletişimler
+### 5.10. Emails and Communications
 
-**Hesap etkinliği bildirim e-postaları (hizmet).** Uygulamadaki hesap etkinliğini kaçırırsanız (okunmamış bir mesaj, yeni bir eşleşme veya beğeni), Jynx size bununla ilgili e-posta gönderebilir. Bunlar; sosyal platformu işletme konusundaki meşru çıkarımıza (devam eden etkileşimlerinizden haberdar tutmak) dayanan hizmet bildirimleridir ve tanıtım içeriği içermez. Her bildirim türünü (mesajlar, eşleşmeler, beğeniler) Ayarlar > Gizlilik > İletişim bölümünden veya her e-postadaki "Bu bildirimleri yönet" bağlantısından dilediğiniz zaman kapatabilirsiniz. Bu işlemeye ayrıca dilediğiniz zaman itiraz edebilirsiniz (GDPR Mad. 21): privacy@jynx.app.
+**Account-activity notification emails (service).** When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the "Manage these notifications" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.
 
-**Yeniden etkileşim ve pazarlama e-postaları (winback).** Bir hareketsizlik döneminden sonra sizi Jynx'e geri getirmeyi amaçlayan e-postalar ile haber ve teklif iletişimlerimiz ticari tanıtım niteliğindedir. Bunlar yalnızca, ayrı ve isteğe bağlı işaretlenmemiş bir kutu aracılığıyla toplanan; önceki, belirli, özgürce verilmiş ve geri alınabilir onamınızla gönderilir — hiçbir zaman Şartlarımızı kabul etmenin bir koşulu olarak değil. Onamı, Ayarlar > Gizlilik > İletişim bölümünden veya her e-postadaki abonelikten çıkma bağlantısından dilediğiniz zaman geri çekebilirsiniz.
+**Re-engagement and marketing emails (winback).** Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.
 
-**Bildirim e-postalarında kullanıcı adınızın ve profil resminizin gösterilmesi.** Başka bir üyeyle etkileşimde bulunduysanız (beğeni, eşleşme, mesaj), kullanıcı adınız ve profil resminiz; o üye hareketsizken kendisine gönderilen hesap etkinliği bildirim e-postalarında görünebilir. Bu ögeler gönderim anında üretilir ve e-posta günlüklerimizde saklanmaz (yalnızca tanımlayıcı ve sayaçlar).
+**Display of your username and profile picture in notification emails.** If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only).
 
-### 5.11. Konum ve Eşleşme Mesafesi
+### 5.11. Location and Match Distance
 
-**Neyi işliyoruz.** Konumunuzu paylaşmayı seçerseniz Jynx, bunu yalnızca tek bir amaç için kullanır: eşleşme kuyruğunda sizinle diğer oyuncular arasındaki yaklaşık mesafeyi ("~12 km") görüntülemek ve yakınlık sıralamasını açtıysanız o kuyruğu mesafeye göre sıralamak. Yalnızca yaklaşık konumu işleriz: talep ettiğimiz izin, işletim sisteminin kaba / azaltılmış doğruluklu konum iznidir ve herhangi bir şey saklanmadan önce koordinatlarınız, sunucularımızda yaklaşık 0,02°'lik (yaklaşık 2,2 km) bir ızgaraya yuvarlanır; türetilen konum hücresi yaklaşık 11 km genişliğindedir. Ham GPS koordinatları asla saklanmaz.
+**What we process.** If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players ("~12 km") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.
 
-**İsteğe bağlı ve onama dayalı.** Bu isteğe bağlı bir özelliktir: işletim sistemi konum iznini VERMENİZ ve uygulama içi konum anahtarı AÇIK olmadıkça hiçbir şey toplanmaz. Konum asla arka planda işlenmez — yalnızca uygulamayı kullanırken kullanılır. Konumunuz; asla harita üzerinde bir konum olarak diğer kullanıcılara gösterilmez, asla reklamcılık için kullanılmaz ve asla reklam platformlarıyla paylaşılmaz (bkz. §4.9: reklam atfı veya ölçümü için paylaşılan hiçbir şeyde konum verisi yer almaz). Analitik etkinliklerimiz koordinat, şehir adı veya konum hücresi tanımlayıcısı içermez — yalnızca anonim benimseme ve sıralama seçimi sinyalleri. İşletim sistemi izin istemi, onamınızın alındığı yerdir; uygulama içi anahtar, onu geri çektiğiniz yerdir (§7.6).
+**Optional and consent-based.** This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).
 
-**Ne kadar süre tutuyoruz.** Hesabınız için tuttuğumuz konum kaydı, güncelleme olmaksızın 45 gün sonra otomatik olarak silinir ve paylaşım açıkken özelliği her kullandığınızda yenilenir. Profil kartınızda gösterilen yaklaşık mesafe etkinliğe bağlıdır: yalnızca profil kartınız sürdüğü sürece kalır ve güncelleme olmaksızın 45 gün sonra yok sayılır.
+**How long we keep it.** The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.
 
-**Kontrol sizde.** Paylaşımı dilediğiniz zaman durdurabilirsiniz: uygulama içi konum anahtarını kapatmak, saklanan koordinatları anında siler (kayıt tutulur ancak koordinatları boşaltılır) ve cihaz ayarlarınızdan konum iznini iptal etmek, toplamayı kaynağında durdurur. Hesabınızı silmek (§7.3) konum verilerinizi de temizler.
+**Your control.** You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data.
 
 ## 6. Veri Saklama
 
@@ -366,9 +366,9 @@ Güvenceler. 18 yaşın altında olduğunu bildiğimiz kullanıcılar ve yaşı 
 
 - **Profil Verileri:** Hesabınız aktif olduğu sürece saklanır
 - **Günlükler ve Analitik:** Firebase Analytics: 14 ay (Firebase politikası)
-- **Pazarlama e-posta adresleri (onama dayalı):** Çıkış (opt-out) yapmadığınız veya hesabınızı silmediğiniz sürece saklanır; ayrıca size yeniden ulaşmamayı güvence altına almak için bastırma listesinde (aşağıya bakın) karmalanmış bir kayıt tutulur
-- **Kaldırma / kayıp anketi e-posta adresleri:** Anketin gönderilmesinden sonra en fazla 60 gün (anket gönderilmediyse kaldırma/silmeden sonra 60 gün) saklanır; ardından adres silinir veya geri döndürülemez biçimde anonimleştirilir. Kullanıcı başına en fazla bir (1) anket e-postası gönderilir
-- **Yakın zamanda kaybedilmiş hesapların yeniden etkileşimi (LGPD meşru çıkar dayanağı, yalnızca Brezilyalı kullanıcılar):** CNIL rehberi ve makul beklentiler testiyle uyumlu olarak, Jynx yakın zamanda kaybedilmiş (silme talebi olmayan) bir hesabın e-posta adresini, son anlamlı etkileşimden sonra 3 yıla kadar yeniden etkileşim için kullanabilir; sonrasında silinir veya anonimleştirilir
+- **Marketing email addresses (consent-based):** Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you
+- **Uninstall / churn survey email addresses:** Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user
+- **Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):** Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized
 
 ### 6.2. Veri Silme
 
@@ -376,11 +376,11 @@ Hesabınızın silinmesini istediğiniz zaman talep edebilirsiniz (Bölüm 7'ye 
 
 **Yasal Saklama:** Bazı veriler yasal yükümlülüklerimizi yerine getirmek için daha uzun süre saklanabilir (örn. güvenlik raporları, finansal işlemler).
 
-Hesabınızı sildiğinizde, e-posta adresinizi pazarlama CRM'imizden ve e-posta servis sağlayıcımızdan temizleriz. Silme hakkınızı kullanırsanız (§7.3 / GDPR Mad. 17 / onama dayalı veriler için LGPD Mad. 18(VI)), e-posta adresiniz kalıcı, karmalanmış bir bastırma listesine eklenir; böylece pazarlama, yeniden etkileşim veya anketler için asla yeniden kullanılmaz — herhangi bir üçüncü taraf veya satın alınmış liste yoluyla yeniden içe aktarmaya karşı koruma dâhil. Not: LGPD kapsamında Mad. 18(VI) silme işlemi, onam temelinde işlenen verilere uygulanır; meşru çıkar temelinde (Mad. 7 IX) işlenen veriler ise amaç sınırlaması ilkesine (Mad. 6 II ve §2) ve işlemenin durdurulmasını isteme hakkınıza (Mad. 18 §2) tabidir.
+When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2).
 
-## 7. Haklarınız (GDPR ve LGPD)
+## 7. Haklarınız (GDPR)
 
-Bulunduğunuz yere bağlı olarak, GDPR (AB/AEA) ve/veya Brezilya LGPD'si (Lei Geral de Proteção de Dados, Kanun 13.709/2018) kapsamında haklara sahipsiniz.
+GDPR kapsamında aşağıdaki haklara sahipsiniz:
 
 ### 7.1. Erişim Hakkı
 
@@ -416,33 +416,33 @@ Hesabınızın silinmesini talep edebilirsiniz.
 
 Veri dışa aktarma (Bölüm 7.1), verilerinizi yapılandırılmış, makine tarafından okunabilir bir formatta (JSON) almanıza olanak tanır.
 
-### 7.5. İtiraz Hakkı / Pazarlamadan Çıkma
+### 7.5. İtiraz Hakkı
 
-Verilerinizin doğrudan pazarlama amaçlarıyla işlenmesine her zaman, ücretsiz ve gerekçe göstermeksizin itiraz edebilirsiniz. GDPR Mad. 21(2) uyarınca bu hak, AB/AEA kullanıcıları için mutlaktır: itirazınızı aldığımızda tüm pazarlama işlemlerini durdururuz. Brezilyalı kullanıcılar için, pazarlama işlemesine aşağıdaki çıkış mekanizmaları üzerinden karşı çıkabilirsiniz (LGPD Mad. 8 §5; Mad. 18 §2).
+Doğrudan pazarlama amaçlı verilerinizin işlenmesine itiraz edebilirsiniz.
 
-- **Tek tıkla abonelikten çıkma:** her pazarlama e-postası, gerçek zamanlı olarak yerine getirilen bir tek tıkla abonelikten çıkma bağlantısı içerir (RFC 8058 List-Unsubscribe-Post)
-- **Uygulama içi anahtar:** Ayarlar > Gizlilik > İletişim Tercihleri
-- **E-posta:** dpo@jynx.app
+- **One-click unsubscribe:** every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time
+- **In-app toggle:** Settings > Privacy > Communications Preferences
+- **Email:** dpo@jynx.app
 
 ### 7.6. Onayı Geri Çekme Hakkı
 
 Şunlar için onayınızı geri çekebilirsiniz:
 
 - **Analitik:** Ayarlar > Gizlilik > "Analitikleri Etkinleştir" seçeneğini devre dışı bırakın
-- **Reklam ölçümü:** Ayarlar > Gizlilik > Reklam ölçümü (bkz. §5.9)
-- **Konum (eşleşme mesafesi):** Uygulama içi konum anahtarını kapatın — bu, saklanan koordinatları siler — veya cihaz ayarlarınızdan konum iznini iptal edin (bkz. §5.11)
+- **Ad measurement:** Settings > Privacy > Ad measurement (see §5.9)
+- **Location (match distance):** Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)
 - **Push Bildirimleri:** Cihaz ayarları
-- **Pazarlama İletişimleri:** Bülten, ürün güncellemeleri, yeniden etkileşim ve kaldırma/kayıp anketleri — tek tıkla abonelikten çıkma, uygulama içi iletişim tercihleri anahtarı veya dpo@jynx.app yoluyla; hesabınızı sonlandırmadan geri çekilebilir
+- **Marketing Communications:** Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account
 
 **Not:** OAuth token'ları (Google, Apple) hesabınızı sildiğinizde otomatik olarak iptal edilir (Bölüm 7.3).
 
-Geri çekme, geri çekmeden önce yapılan işlemenin hukuka uygunluğunu etkilemez (GDPR Mad. 7(3); LGPD Mad. 8 §5) ve onamı geri çekmek asla hesabınızı silmeyi gerektirmez.
+Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.
 
-### 7.7. Ek LGPD Hakları (Brezilyalı Kullanıcılar)
+### 7.7. Additional LGPD Rights (Brazilian Users)
 
-Yukarıdaki haklara ek olarak, Brezilya'da bulunan ilgili kişiler LGPD Mad. 18 uyarınca şu haklara sahiptir: işlemenin varlığının teyidi; verilere erişim; eksik, yanlış veya güncel olmayan verilerin düzeltilmesi; gereksiz veya aşırı verilerin anonimleştirilmesi, engellenmesi veya silinmesi (Mad. 18(VI), onam temelinde işlenen verilere uygulanır); talep üzerine başka bir servis veya ürün sağlayıcısına taşınabilirlik; onamla işlenen kişisel verilerin silinmesi; ve onamı reddetme olanağı ile bunun sonuçlarına ilişkin bilgi.
+In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.
 
-Bu hakları, Ayarlar > Gizlilik üzerinden veya dpo@jynx.app adresindeki encarregado ile iletişime geçerek kullanabilirsiniz. Ayrıca Brezilya veri koruma otoritesi — Autoridade Nacional de Proteção de Dados (ANPD) — nezdinde https://www.gov.br/anpd adresinden şikayette bulunabilirsiniz.
+You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd.
 
 ## 8. Veri Güvenliği
 
@@ -454,9 +454,9 @@ Verilerinizi korumak için teknik ve organizasyonel güvenlik önlemleri uyguluy
 - **Giriş Doğrulaması:** SecureTextInput aracılığıyla XSS enjeksiyonu önleme
 - **Hız Sınırlaması:** Kötüye kullanıma karşı koruma (spam mesajlar, otomatik eylemler)
 - **Moderasyon:** İçerik raporlama ve moderasyon sistemi
-- **Gerçek zamanlı ses:** Sesli oda medyası, ana akım sesli uygulamaların kullandığı standart olan WebRTC DTLS-SRTP ile aktarım sırasında şifrelenir; uygulama ile sunucularımız arasındaki sinyalleşme HTTPS/TLS üzerinden yapılır.
+- **Real-time voice:** Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS.
 
-Hiçbir sistem %100 güvenli değildir. Kişisel veri ihlali durumunda, yetkili denetim otoritesine geciksimsiz olarak ve mümkün olduğunda, haklarınız açısından risk oluşturması muhtemel bir ihlalden haberdar olduktan sonra 72 saat içinde (GDPR Mad. 33) bilgi veririz; ihlal sizin açınızdan yüksek risk oluşturması muhtemelse, etkilenen kullanıcılara geciksimsiz olarak bildiririz (GDPR Mad. 34). Brezilya'daki ilgili kişiler için, ilgili güvenlik olaylarını ANPD'ye ve size, otoritenin belirlediği süre içinde (LGPD Mad. 48; şu anda ANPD Resolution CD/ANPD nº 15/2024 uyarınca 3 iş günü) ileteceğiz.
+No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).
 
 ## 9. Uluslararası Veri Transferleri
 

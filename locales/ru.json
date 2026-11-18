@@ -2,11 +2,11 @@
   "meta": {
     "title": "Приложение Игрового Матчмейкинга | Найти Товарищей LFG | Jynx",
     "description": "Найди идеальных тиммейтов с умным матчмейкингом Jynx. Подбор по скиллу, стилю игры и расписанию. Хватит играть в одиночку.",
-    "keywords": "приложение для матчмейкинга в играх, умный матчмейкинг, найти игровых товарищей, игровая социальная платформа, альтернатива LFG, поиск игровой команды, соревновательный гейминг, игровое сообщество, киберспорт матчмейкинг, товарищи League of Legends, матчмейкинг Valorant",
-    "og_title": "Jynx - Приложение Умного Игрового Матчмейкинга | Где Игры Становятся Социальными",
+    "keywords": "приложение для матчмейкинга в играх, ИИ матчмейкинг, найти игровых товарищей, игровая социальная платформа, альтернатива LFG, поиск игровой команды, киберспорт матчмейкинг, игровое сообщество, товарищи League of Legends, матчмейкинг Valorant",
+    "og_title": "Jynx - Приложение для ИИ Игрового Матчмейкинга | Где Игры Становятся Социальными",
     "og_description": "Найди свою идеальную игровую команду с интеллектуальным матчмейкингом. Хватит играть в одиночку.",
     "og_image_alt": "Платформа Игрового Матчмейкинга Jynx - Найдите Свою Идеальную Команду",
-    "twitter_title": "Jynx - Приложение Умного Игрового Матчмейкинга | Где Игры Становятся Социальными",
+    "twitter_title": "Jynx - Приложение для ИИ Игрового Матчмейкинга | Где Игры Становятся Социальными",
     "twitter_description": "Найди свою идеальную игровую команду с интеллектуальным матчмейкингом. Хватит играть в одиночку.",
     "twitter_image_alt": "Платформа Игрового Матчмейкинга Jynx"
   },
@@ -14,10 +14,10 @@
     "meta": {
       "title": "Jynx | О нас",
       "description": "Узнайте больше о Jynx — игровой платформе сообщества, которая превращает одиночную игру в социальный опыт.",
-      "og_title": "О Jynx - Знакомьтесь с Командой Умного Игрового Матчмейкинга",
+      "og_title": "О Jynx - Команда За ИИ Игровым Матчмейкингом",
       "og_description": "Создано геймерами для геймеров. Узнайте о миссии Jynx превратить одиночные игры в социальный опыт.",
       "og_image_alt": "Команда Jynx и Обзор Платформы",
-      "twitter_title": "О Jynx - Знакомьтесь с Командой Умного Игрового Матчмейкинга",
+      "twitter_title": "О Jynx - Команда За ИИ Игровым Матчмейкингом",
       "twitter_description": "Создано геймерами для геймеров. Узнайте о миссии Jynx.",
       "twitter_image_alt": "О Платформе Jynx"
     },
@@ -79,62 +79,62 @@
     },
     "cta": {
       "title": "Присоединяйся к сообществу Jynx",
-      "description": "Найдите свою идеальную игровую команду — Jynx доступен на iOS, Android, Windows и в вебе. Приложение для Mac уже в пути."
+      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way."
     }
   },
   "contact": {
     "meta": {
-      "title": "Связаться с Jynx: email-каналы поддержки, безопасности и приватности",
-      "description": "Напишите команде Jynx по email: поддержка поможет с аккаунтом и приложением, на security можно сообщить об уязвимости, а наш DPO ждет запросов о приватности. Есть и Discord с соцсетями.",
-      "og_title": "Связаться с Jynx - email-адреса поддержки, безопасности и защиты данных",
-      "og_description": "Email-каналы команды Jynx: поддержка клиентов, сообщения о безопасности и запросы о приватности — без контактной формы.",
-      "og_image_alt": "Страница контактов Jynx - email-каналы поддержки, безопасности и приватности",
-      "twitter_title": "Связаться с Jynx - email-адреса поддержки, безопасности и защиты данных",
-      "twitter_description": "Напишите команде Jynx по email: поддержка, безопасность и приватность.",
-      "twitter_image_alt": "Контакты Jynx"
+      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
+      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
+      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
+      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
+      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
+      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
+      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
+      "twitter_image_alt": "Contact Jynx"
     },
-    "title": "Связаться с Jynx",
-    "subtitle": "Как связаться с командой Jynx — email-каналы, ссылки на сообщество и реквизиты компании.",
+    "title": "Contact Jynx",
+    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
     "intro": {
-      "title": "Как с нами связаться",
-      "p1": "Поддержка Jynx работает по email — контактной формы у нас нет. Каждое письмо с этой страницы попадает в ящик, который проверяет живой человек, поэтому ваше сообщение идет напрямую команде. Выберите канал, подходящий под ваш запрос, и укажите как можно больше деталей.",
-      "response_note": "Мы читаем каждое сообщение. Поддержка обычно отвечает в течение нескольких рабочих дней; пишите по-французски или по-английски."
+      "title": "How to Reach Us",
+      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
+      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
     },
     "channels": {
-      "title": "Email-каналы",
+      "title": "Email Channels",
       "support": {
-        "title": "Поддержка клиентов",
-        "desc": "Основной канал. Доступ к аккаунту, отчеты об ошибках, вопросы об оплате, пожелания по функциям и все остальное о приложении: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+        "title": "Customer Support",
+        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
       },
       "security": {
-        "title": "Сообщения о безопасности",
-        "desc": "Только подозрения на уязвимости и вопросы безопасности. Сначала прочтите политику раскрытия — в ней перечислено, что входит в скоуп и что включить в отчет: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
-        "policy": "Полный текст политики — на странице <a href=\"/security.html\">Политики безопасности и раскрытия уязвимостей</a>."
+        "title": "Security Reports",
+        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
       },
       "dpo": {
-        "title": "Приватность и защита данных",
-        "desc": "Запросы о персональных данных, вопросы о приватности и обращения правоохранительных органов направляйте нашему специалисту по защите данных (DPO): <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+        "title": "Privacy and Data Protection",
+        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
       }
     },
     "community": {
-      "title": "Сообщество и соцсети",
-      "desc": "Для повседневного общения сообщество быстрее, чем email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — сервер команды и поддержки: задайте вопрос, поговорите с командой Jynx или получите помощь с приложением.",
-      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — новости, обновления и клипы от команды Jynx.",
-      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — короткие видео, подборки сообщества и обзоры функций.",
-      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — анонсы и быстрые ответы.",
-      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — страница Jynx: события и посты сообщества."
+      "title": "Community and Social",
+      "desc": "For day-to-day conversation, the community is faster than email.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
     },
     "company": {
-      "title": "Сведения о компании",
-      "legal_name_label": "Юридическое лицо:",
+      "title": "Company Information",
+      "legal_name_label": "Legal entity:",
       "legal_name": "Jynx Group",
-      "siren_label": "Регистрационный номер компании (SIREN):",
+      "siren_label": "Company registration (SIREN):",
       "siren": "991443896",
-      "office_label": "Юридический адрес:",
-      "office_city": "Нант",
-      "office_country": "Франция",
-      "legal_note": "Полные юридические сведения — зарегистрированный адрес, правовая форма и данные торгового реестра — приведены в <a href=\"/terms.html\">разделе 13 Условий использования</a>."
+      "office_label": "Registered office:",
+      "office_city": "Nantes",
+      "office_country": "France",
+      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
     }
   },
   "privacy": {
@@ -149,30 +149,30 @@
       "twitter_image_alt": "Политика Конфиденциальности"
     },
     "title": "Политика конфиденциальности",
-    "last_updated": "Последнее обновление: 17 ноября 2026 года",
-    "version": "Версия: 1.1",
+    "last_updated": "Последнее обновление: ноябрь 2026",
+    "version": "Версия: 1.0",
     "intro": {
       "title": "1. Введение",
       "p1": "Jynx (\"мы\", \"наше\", \"приложение\") — это социальная игровая платформа, которая позволяет игрокам общаться, формировать команды и играть вместе.",
       "legal_info": "Юридическая информация:",
       "entity_label": "Юридическое лицо:",
-      "entity": "Jynx Group (Société par Actions Simplifiée, SIREN 991443896, зарегистрирована в Нанте, Франция)",
+      "entity": "Jynx Group",
       "dpo_label": "Контакт сотрудника по защите данных:",
       "dpo": "dpo@jynx.app",
       "p2": "Настоящая политика конфиденциальности описывает, как мы собираем, используем, передаем и защищаем ваши персональные данные при использовании нашего приложения.",
-      "jurisdiction_eu_label": "Юрисдикция ЕС / ЕЭЗ:",
-      "jurisdiction_eu": "Франция, Европейский союз — настоящая Политика конфиденциальности соответствует Регламенту (ЕС) 2016/679 (GDPR) и Директиве 2002/58/EC (ePrivacy) в их имплементации во Франции.",
-      "jurisdiction_brazil_label": "Бразильская юрисдикция:",
-      "jurisdiction_brazil": "Настоящая Политика конфиденциальности также соответствует бразильскому закону nº 13.709/2018 (Lei Geral de Proteção de Dados, «LGPD»), который, согласно ст. 3 LGPD, применяется к обработке компанией Jynx персональных данных субъектов, находящихся в Бразилии, независимо от отсутствия у Jynx представительств в Бразилии.",
-      "controller": "В целях LGPD контролером (controlador) ваших персональных данных является Jynx Group. Наш специалист по защите данных исполняет роль encarregado (DPO) и доступен по адресу dpo@jynx.app для любых запросов, связанных с LGPD. Хотя Jynx подпадает под статус pequeno agente de tratamento de dados pessoais (маломасштабный агент обработки) согласно Резолюции ANPD CD/ANPD nº 2/2022, освобождающей Jynx от обязательного назначения encarregado, Jynx добровольно поддерживает этот опубликованный канал связи.",
-      "publication_label": "Публикация (LCEN):",
-      "publication": "Directeur de la publication: Antoine Haie. Данный сайт (jynx.app) размещен на GitHub Pages и доставляется через сеть доставки контента Cloudflare."
+      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
+      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
+      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
+      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
+      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
+      "publication_label": "Publication (LCEN):",
+      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
     },
     "age_verification": {
       "title": "2. Минимальный возраст и верификация",
       "p1": "Наше приложение предназначено для пользователей в возрасте 18 лет и старше.",
       "p2": "При создании учетной записи мы просим вас указать дату рождения. Если вам меньше 18 лет, вы не сможете создать учетную запись или использовать наши услуги.",
-      "minors": "Маркетинг несовершеннолетним. Доступ в Jynx разрешен только пользователям от 18 лет и защищен автоматическим возрастным фильтром. Если впоследствии мы установим, что пользователь младше 18 (ст. 14 LGPD; ст. 8 GDPR), мы немедленно прекратим действие аккаунта, исключим пользователя из всех маркетинговых, ре-энгейджмент- и опросных коммуникаций и удалим связанные маркетинговые данные. Мы никогда сознательно не запрашиваем маркетинговое согласие у несовершеннолетних."
+      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
     },
     "data_collected": {
       "title": "3. Собираемые данные",
@@ -185,9 +185,9 @@
         "email": "Электронная почта (для учетных записей email/пароль)",
         "username": "Имя пользователя/ник",
         "photo": "Фото профиля (необязательно)",
-        "social": "Идентификаторы социального входа (Google, Apple), если вы используете эти способы",
-        "guest": "Гостевой просмотр (когда доступен): вы можете изучить публичные части Jynx без создания аккаунта; в гостевом режиме мы обрабатываем только локально хранимый гостевой идентификатор и технические данные из §3.3, необходимые для работы приложения, — профиль не создается и данные аккаунта не сохраняются. Для матчмейкинга, чата или вступления в сообщества необходимо создать аккаунт",
-        "discord": "Идентификаторы Discord (ваш Discord user ID), если вы решите подключить аккаунт Discord для интеграции с Discord, — подключение использует OAuth Discord с разрешением только identify и не является способом входа; отключить его можно в любой момент"
+        "social": "Social login identifiers (Google, Apple) if you use these methods",
+        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
+        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
       },
       "profile": {
         "title": "Информация профиля:",
@@ -232,7 +232,7 @@
         "crashlytics_label": "Firebase Crashlytics:",
         "crashlytics": "Отчеты о сбоях",
         "disable": "Вы можете отключить сбор аналитических данных в Настройки > Конфиденциальность > \"Включить аналитику\".",
-        "ad_measurement": "Измерение рекламы с Meta отделено от аналитики и имеет собственный переключатель: см. §5.9."
+        "ad_measurement": "Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9."
       },
       "device": {
         "title": "Информация об устройстве:",
@@ -307,15 +307,15 @@
         "policy": "https://www.riotgames.com/en/privacy-notice"
       },
       "esp": {
-        "title": "4.4. Поставщик email-сервисов (маркетинговые и опросные рассылки)",
-        "intro": "Для доставки описанных в §5.6 маркетинговых, ре-энгейджмент- и опросных писем (об отписке/оттоке) Jynx использует стороннего поставщика email-сервисов (ESP), выступающего обработчиком (GDPR ст. 28; LGPD ст. 39 — operador). ESP обрабатывает ваш email-адрес и минимальные данные доставки (например, статус отправки/возврата) исключительно по задокументированным инструкциям Jynx и на основании подписанного соглашения об обработке данных.",
-        "identity_label": "Идентификация, роль и местоположение ESP:",
-        "identity": "Brevo (Brevo SAS, Париж, Франция) — наш поставщик email-сервисов и обработчик данных на основании подписанного соглашения об обработке данных. Политика конфиденциальности Brevo: https://www.brevo.com/legal/privacypolicy/",
-        "subprocessors_label": "Субобработчики:",
-        "subprocessors": "Актуальный список субобработчиков Brevo опубликован в его соглашении об обработке данных (Условия использования): https://www.brevo.com/legal/termsofuse/",
-        "transfer_label": "Основание международной передачи:",
-        "transfer": "См. §9. Штаб-квартира Brevo находится во Франции (ЕС). Поэтому передачи в Brevo пользуются режимом защиты ЕС по GDPR, а для бразильских пользователей — решением ANPD об адекватности ЕС (Резолюция nº 32/2026): SCC или дополнительный механизм не требуются.",
-        "no_sell": "Мы не продаем ваши персональные данные. Трекинг-пиксели и скрытая аналитика не встраиваются в маркетинговые письма без отдельного правового основания, раскрытого в §5.6."
+        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
+        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
+        "identity_label": "ESP identity, role, and location:",
+        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
+        "subprocessors_label": "Sub-processors:",
+        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
+        "transfer_label": "International transfer basis:",
+        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
+        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
       },
       "livekit": {
         "title": "4.5. LiveKit Cloud (голос в реальном времени)",
@@ -324,43 +324,43 @@
         "p3": "LiveKit сохраняет операционные метаданные сеанса — такие как идентификаторы участников, идентификаторы комнат, время подключений и метрики качества — в целях выставления счетов, предотвращения злоупотреблений и обеспечения работы в соответствии со своим приложением к соглашению об обработке данных. Эти метаданные не используются для вашей идентификации вне платформы или в рекламных целях."
       },
       "child_safety": {
-        "title": "4.7. Специализированные поставщики технологий защиты детей",
-        "p1": "Чтобы помогать выявлять известные материалы о сексуальном насилии над детьми (см. §5.8), Jynx сотрудничает со специализированными поставщиками технологий защиты детей, выступающими обработчиками (GDPR ст. 28; LGPD ст. 39 — operador). Эти поставщики получают только необратимые хеши, выведенные из изображений, — никогда сами изображения — и выполняют сопоставление хешей в регионе ЕС, исключительно для выявления угроз защите детей по задокументированным инструкциям Jynx. Выведение хеша из изображения происходит в собственной инфраструктуре Google Cloud компании Jynx (см. §9)."
+        "title": "4.7. Specialized Child-Safety Technology Providers",
+        "p1": "To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9)."
       },
       "image_moderation": {
-        "title": "4.8. Облачный поставщик модерации изображений (AWS)",
-        "p1": "Для поддержания безопасности платформы изображения профиля и фотографии из галереи проверяются автоматизированным сервисом классификации изображений — Amazon Rekognition, предоставляемым Amazon Web Services (AWS), выступающим обработчиком (GDPR ст. 28; LGPD ст. 39 — operador). Для этой цели изображение передается в AWS и анализируется машинным обучением на недопустимый контент (например, наготу или откровенные материалы); результатом является сгенерированная машиной метка и оценка уверенности, которые обрабатываются в рамках нашего процесса модерации (см. Политику защиты детей). Эта обработка используется исключительно для модерации контента и безопасности — никогда для профилирования, рекламы или любых иных целей. AWS обрабатывает эти данные в регионе AWS, настроенном для сервиса (сейчас — Сан-Паулу, Бразилия); применяются гарантии передачи из §9. Как и остальная часть Сервиса, изображение обрабатывается собственной инфраструктурой Google Cloud компании Jynx перед передачей в AWS (см. §9)."
+        "title": "4.8. Cloud Image-Moderation Provider (AWS)",
+        "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
       },
       "stores": {
-        "title": "4.6. App Store / Google Play (внутриприложенные покупки и подписки)",
-        "p1": "Подписки Jynx+ и Founder Packs продаются внутри приложения через Apple App Store и Google Play, которые выступают продавцом записи (merchant of record) для этих покупок (см. Условия использования, раздел 8). Данные платежных инструментов (например, данные карты) собираются и обрабатываются исключительно Apple/Google согласно их собственным политикам конфиденциальности; Jynx не собирает, не получает и не хранит данные платежных инструментов.",
-        "p2": "Через нашего биллинг-провайдера RevenueCat (обработчик, действующий на основании подписанного соглашения об обработке данных; GDPR ст. 28; LGPD ст. 39 — operador) Jynx получает только информацию, необходимую для предоставления купленного: статус ваших подписок и прав (например, активен ли Jynx+ и дата его продления), купленный уровень Founder Pack и идентификаторы транзакций. Эти данные хранятся столько, сколько необходимо для предоставления Сервиса и выполнения бухгалтерских и учетных обязательств (§6), и используются исключительно для предоставления и поддержания ваших прав и предотвращения мошенничества. RevenueCat находится в США; передача персональных данных в RevenueCat опирается на EU-US Data Privacy Framework (для сущностей RevenueCat, самосертифицированных в DPF) либо на стандартные договорные условия там, где DPF не применяется. Применимый механизм передачи для данных бразильских пользователей подтвержден в наших Записях о деятельности по обработке (см. §9).",
-        "apple_label": "Политика конфиденциальности Apple: https://www.apple.com/legal/privacy/",
-        "google_label": "Политика конфиденциальности Google: https://policies.google.com/privacy",
-        "revenuecat_label": "Политика конфиденциальности RevenueCat: https://www.revenuecat.com/privacy"
+        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
+        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
+        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
+        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
+        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
+        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
       },
       "meta": {
-        "title": "4.9. Рекламная атрибуция (Meta, Apple ATT, Google Play Install Referrer)",
-        "p1": "Чтобы измерять, насколько установки нашего приложения вызваны маркетингом, мы используем рекламные и атрибуционные технологии — с вашего согласия там, где оно требуется: Meta (Facebook) App Events SDK (Meta Platforms Ireland) и Google Play Install Referrer API. На устройствах Apple Meta SDK инициализируется только после того, как вы дадите разрешение App Tracking Transparency (ATT); без этого согласия рекламный идентификатор (IDFA) не собирается и SDK не инициализируется. На Android Google Play Install Referrer API сообщает нам, пришла ли установка из карточки магазина или из кампании, а рекламный идентификатор (GAID) используется в соответствии с настройками рекламного идентификатора вашего устройства. События, отправляемые в Meta, ограничены активацией приложения и метаданными событий приложения (включая, если вы вошли в аккаунт, ваш идентификатор пользователя приложения, который удаляется из SDK при выходе из аккаунта); они обрабатываются по инструкциям Jynx для атрибуции и измерения кампаний.",
-        "p2": "Meta Platforms Ireland обрабатывает эти данные как наш обработчик для указанной цели атрибуции; Meta Platforms, Inc. может дополнительно выступать независимым контролером в своих собственных законных целях на своих собственных условиях (Условия обработки данных Meta и ее политика конфиденциальности по адресу https://www.facebook.com/privacy/policy). Передачи в США опираются на EU-US Data Privacy Framework для самосертифицированных сущностей Meta либо на стандартные договорные условия (§9). Вы можете в любой момент отказать в разрешении ATT или отозвать его либо сбросить рекламный идентификатор в настройках устройства; отказ не влияет на ваше использование Jynx.",
-        "p3": "<strong>Измерение рекламы.</strong> Помимо атрибуции установок, мы также измеряем конверсии: в число событий, передаваемых в Meta, входят регистрация, завершение онбординга и покупки — с суммой и валютой покупки. Там, где вы дали согласие, может также передаваться хешированный (необратимо перемешанный) email-адрес или номер телефона для повышения качества матчинга; для пользователей, измеряемых на основании нашего законного интереса (ниже), этого никогда не происходит. Событие регистрации может также включать ваш заявленный вами пол. Ничего больше не передается — ни сообщения, ни поля профиля, ни игры, ни сообщества, ни контакты, ни геолокация, ни фотографии, — и ваши данные никогда не продаются. Правовые основания, ваш выбор и раскрытие Apple SKAdNetwork описаны в §5.9.",
-        "p4": "Хранение: Jynx не хранит отдельную копию событий, переданных в Meta. Уже переданные события остаются в рамках процессов хранения и удаления бизнес-инструментов Meta, которые применяются с момента передачи."
+        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
+        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.",
+        "p3": "<strong>Ad measurement.</strong> Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.",
+        "p4": "Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing."
       },
       "partner": {
-        "title": "4.10. Программа креаторов (партнерская) — KYC и выплаты",
-        "p1": "Если вы вступаете в программу креаторов (партнерскую) Jynx, мы обрабатываем идентификационные, налоговые и платежные сведения, которые требует программа: ваш CPF или CNPJ (проверяемые в приложении), выбранный вами канал выплаты — PayPal (идентифицируется по email), банковский перевод Wise (Бразилия) или ключ Pix — и записи о результативности ваших кампаний (атрибутированные регистрации; см. §10 «Рефералы»). Платежные записи хранятся в псевдонимизированной форме (§10). Программа регулируется версионируемыми Условиями реферальной программы креаторов и Мандатом на самовыставление счетов, которые вы принимаете при регистрации (см. Условия использования §15).",
-        "p2": "Выплаты исполняются через платежную организацию, обслуживающую выбранный вами канал: PayPal или Wise получают инструкции по переводу и данные, необходимые им для проверки вашей личности, предотвращения мошенничества и выполнения своих регуляторных обязательств, действуя на своих собственных условиях как независимые платежные организации (их политики конфиденциальности опубликованы на их сайтах); выплата через Pix — это перевод, инициируемый Jynx Group на предоставленный вами ключ Pix. Применимые гарантии международной передачи описаны в §9."
+        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
+        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
+        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
       },
       "ai": {
-        "title": "4.11. Функции ИИ",
-        "p1": "<strong>Генерация аватаров.</strong> Квиз аватаров может генерировать стилизованные варианты аватара для вашего профиля. Генерация в настоящее время работает на Cloudflare Workers AI (Cloudflare, Inc., обработчик) по задокументированным инструкциям Jynx; если базовый движок изменится, этот раздел будет обновлен до изменения или одновременно с ним. Входные данные — это ваши ответы на квиз и предпочтения по стилю игры, никогда ваши фотографии, — вместе с вашим идентификатором пользователя; варианты возвращаются в приложение как изображения PNG или WebP и хранятся до 30 дней, чтобы вы могли их вернуть, после чего удаляются. Сгенерированные изображения синтетические — это не ваши фотографии — и подлежат той же модерации, что и прочие изображения (§4.8).",
-        "p2": "<strong>Сообщения-компаньоны (Quimera).</strong> Часть сообщений приложения-компаньона составляется или дополняется генеративной ИИ-системой (Google Gemini, обработчик). Там, где сообщение сгенерировано ИИ, оно помечено как таковое; вы всегда уведомляетесь, когда взаимодействуете с ИИ-сгенерированным элементом, в соответствии со ст. 50(1) Регламента ЕС об ИИ."
+        "title": "4.11. AI Features",
+        "p1": "<strong>Avatar generation.</strong> The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).",
+        "p2": "<strong>Companion messages (Quimera).</strong> Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1)."
       }
     },
     "data_usage": {
       "title": "5. Использование данных",
       "intro": "Мы используем ваши данные для:",
-      "aggregate_publication": "Мы можем публиковать анонимизированную агрегированную статистику, полученную из использования приложения (например, как игроки образуют дуо). Эта статистика никогда не идентифицирует отдельных пользователей.",
+      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
       "services": {
         "title": "1. Предоставления наших услуг:",
         "account": "Создания и управления вашей учетной записью",
@@ -373,16 +373,16 @@
         "content": "Отображения релевантного контента"
       },
       "communication": {
-        "title": "3. Коммуникации (операционные / транзакционные):",
-        "notifications": "Отправка вам важных сервисных уведомлений (найденные матчи, полученные сообщения, предупреждения о безопасности аккаунта и уведомления об изменениях правил согласно §11)",
-        "note": "Маркетинговые, ре-энгейджмент- и опросные письма описаны отдельно в §5.6 «Маркетинговые коммуникации» и не входят в эту транзакционную категорию."
+        "title": "3. Коммуникации:",
+        "notifications": "Отправки вам важных уведомлений (найдены совпадения, получены сообщения)",
+        "note": "Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category."
       },
       "improvement": {
         "title": "4. Улучшения сервиса:",
         "analyze": "Анализа использования для улучшения функций",
         "bugs": "Выявления и исправления ошибок",
         "performance": "Оптимизации производительности",
-        "ai": "Генерировать варианты аватаров и черновики сообщений-компаньонов с помощью ИИ-обработчиков (§4.11)"
+        "ai": "Generate avatar proposals and companion-message drafts using AI processors (§4.11)"
       },
       "security": {
         "title": "5. Безопасности и соответствия:",
@@ -391,53 +391,53 @@
         "legal": "Соблюдения юридических обязательств"
       },
       "marketing": {
-        "title": "5.6. Маркетинговые коммуникации",
-        "intro": "Помимо операционных уведомлений, описанных в §5.3, мы можем отправлять вам маркетинговые и ре-энгейджмент-коммуникации по email, в том числе: обновления продукта и анонсы функций приложения Jynx; рассылки; сообщения о возвращении в приложение; и короткие опросы об отписке или оттоке (например, «Почему вы перестали пользоваться Jynx?»). Эти коммуникации отделены от транзакционных/сервисных уведомлений.",
-        "eu_title": "Правовое основание — пользователи ЕС / ЕЭЗ (GDPR + ePrivacy).",
-        "eu_body": "Маркетинговые и ре-энгейджмент-писья пользователям ЕС/ЕЭЗ отправляются на основании вашего предварительного явного согласия (opt-in) (ст. 13(1) Директивы ePrivacy, имплементированная во Франции статьей L. 34-5 Кодекса почт и электронных коммуникаций; GDPR ст. 6(1)(a) и ст. 7). После запуска платных подписок (Jynx+) и разовых внутриприложенных покупок (Founder Packs) Сервис стал возмездным, и эти покупки являются «продажей» в смысле решения Суда ЕС C-654/23 (13 ноября 2025 года). Поэтому исключение «мягкого согласия» (soft opt-in) из ст. 13(2) ePrivacy в принципе доступно нам для схожих продуктов и услуг существующим клиентам. Однако, следуя консервативной позиции, мы по-прежнему опираемся на ваше предварительное явное согласие (opt-in) и начнем опираться на основание soft-opt-in только после задокументированной переоценки, зафиксированной в наших Записях о деятельности по обработке, и обновленного уведомления для вас.",
-        "br_title": "Правовое основание — бразильские пользователи (LGPD).",
-        "br_intro": "Для бразильских пользователей маркетинговые и ре-энгейджмент-коммуникации опираются на два альтернативных правовых основания:",
-        "br_consent_title": "Согласие (LGPD ст. 7, I и ст. 8)",
-        "br_consent_body": "фиксируется как отдельный, заранее не отмеченный, целевой opt-in при регистрации или в приложении, с записью даты, версии формы и языка; вы можете отозвать его в любой момент, бесплатно и без потери доступа к Сервису (ст. 8 §5). Согласие — это основание, используемое для любых коммуникаций с потенциальными клиентами, холодных обращений или кросс-сейл/партнерских предложений за пределами основного приложения Jynx.",
-        "br_li_title": "Законный интерес (LGPD ст. 7, IX, развитый ст. 10)",
-        "br_li_body": "используется только для существующих или недавно «отвалившихся» пользователей, получающих ре-энгейджмент-сообщения, обновления о том же приложении Jynx или единственный короткий опрос об оттоке/отписке. Прежде чем опираться на это основание, Jynx проводит и документирует Оценку законных интересов (LIA) по трехфазному тесту Руководства ANPD по законному интересу (2 февраля 2024 года): (i) цель, (ii) необходимость и (iii) балансировка и гарантии. В LIA фиксируются предшествующие отношения, разумные ожидания пользователя, цель, выбранные наименее навязчивые средства и канал отказа. Законный интерес не используется для холодных/незапрошенных писем, несвязанного кросс-сейла, купленных списков или постоянных сообщений ушедшим пользователям после явно завершившихся отношений.",
-        "optout_title": "Право на возражение / отказ.",
-        "optout_body": "Бразильские пользователи могут в любой момент возражать против этой обработки и отказаться от нее через механизмы §7.5 и §7.6 (отписка в один клик в каждом письме или переключатель настроек коммуникаций в приложении), без затрат и без прекращения действия аккаунта. Запросы на отказ мы исполняем в реальном времени. Бразильский Кодекс защиты потребителей (CDC, закон 8.078/90, в частности ст. 39 III) запрещает незапрошенные или злоупотребительные коммерческие сообщения; поэтому мы строго соблюдаем отказы и применяем лимиты частоты, поскольку постоянная отправка или игнорирование отказа могут быть признаны злоупотребительной практикой.",
-        "surveys_title": "Опросы об отписке / оттоке.",
-        "surveys_body": "Насколько это операционно возможно, мы задаем вопросы об отписке/оттоке внутри приложения, в момент удаления (хранение email для этого не требуется). Если опросное письмо отправляется, оно не содержит рекламного или ре-энгейджмент-контента; мы отправляем максимум один (1) опрос на пользователя примерно в течение 60 дней после удаления аккаунта или удаления приложения; после этого email-адрес удаляется или необратимо анонимизируется согласно §6; а пользователи, подавшие запрос на стирание / право быть забытыми (§7.3), повторно не контактируются и вносятся в постоянный список подавления (см. §6 и Условия использования §7.2).",
-        "tracking_title": "Отслеживание в email.",
-        "tracking_body": "Маркетинговые письма не встраивают трекинг-пиксели или скрытую аналитику, обрабатывающую персональные данные без отдельного правового основания. Если какое-либо отслеживание открытий/кликов будет введено, оно будет раскрыто здесь и будет основано на согласии (LGPD ст. 8; ePrivacy ст. 5(3)), в соответствии с руководством ANPD по трекинг-технологиям (18 октября 2022 года).",
-        "frequency_title": "Частота.",
-        "frequency_body": "Маркетинговые письма подчиняются внутренним лимитам частоты; вы можете сократить или полностью отключить их в любой момент через переключатель настроек коммуникаций в приложении или нажав «отписаться» в любом письме."
+        "title": "5.6. Marketing Communications",
+        "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
+        "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
+        "eu_body": "Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The \"soft opt-in\" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.",
+        "br_title": "Legal basis — Brazilian users (LGPD).",
+        "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
+        "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
+        "br_consent_body": "captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.",
+        "br_li_title": "Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)",
+        "br_li_body": "used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.",
+        "optout_title": "Right to object / opt-out.",
+        "optout_body": "Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.",
+        "surveys_title": "Uninstall / churn surveys.",
+        "surveys_body": "Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).",
+        "tracking_title": "Email tracking.",
+        "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
+        "frequency_title": "Frequency.",
+        "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
       },
       "ban_evasion": {
         "title": "5.7. Безопасность сообщества и обход блокировки",
         "p1": "Чтобы защитить наше сообщество от злоупотреблений, мы используем идентификаторы устройства и сигналы целостности устройства для выявления и предотвращения попыток обойти приостановку или блокировку аккаунта. Если мы связываем устройство с заблокированным аккаунтом, это устройство может быть ограничено в создании новых аккаунтов или входе в них. Если вы считаете, что это произошло по ошибке, вы можете подать апелляцию, обратившись в support@jynx.app.",
-        "p2": "Сигналы целостности устройства собираются и оцениваются с помощью Talsec freeRASP — встроенной в приложение библиотеки защиты от вмешательства и проверки целостности устройства. freeRASP работает на вашем устройстве: он локально обнаруживает такие угрозы, как рутованные устройства, рантайм-хуки и разблокированные загрузчики, и передает результаты нам через нашего поставщика мониторинга ошибок (Sentry, §4.2) для предотвращения злоупотреблений; он не отправляет ваши данные ни в какой сервис, управляемый Talsec."
+        "p2": "Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service."
       },
       "child_safety": {
-        "title": "5.8. Анализ изображений для защиты детей",
-        "p1": "Чтобы помогать защищать детей и выполнять наши обязанности по правовому уведомлению, Jynx использует автоматизированные системы анализа изображений, которыми обмениваются в личных сообщениях, сопоставляя хеши, выведенные из этих изображений, с базами известных материалов о сексуальном насилии над детьми. Для этого анализа сами изображения не передаются третьим сторонам — передаются только необратимые хеши (см. §4.7). Изображения профиля проверяются отдельно, обработкой модерации изображений, описанной в §4.8. Этот анализ существует исключительно для выявления угроз защите детей и наших обязанностей по правовому уведомлению; он не используется для профилирования, рекламы или любых иных целей. Совпадения обрабатываются так, как описано в нашей <a href=\"/child-safety.html\">Политике защиты детей</a>."
+        "title": "5.8. Child-Safety Image Analysis",
+        "p1": "To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our <a href=\"/child-safety.html\">Child Safety Policy</a>."
       },
       "ad_measurement": {
-        "title": "5.9. Измерение рекламы",
-        "p1": "Если вы согласитесь, мы также передаем ограниченный набор событий (например, регистрацию и покупки с их суммой) в Meta для измерения и улучшения нашей рекламы. Ваши данные никогда не продаются, а свой выбор вы можете изменить в любой момент в настройках приватности. Что передается и кому — перечислено в §4.9.",
-        "p2": "Как это включается. На iPhone и iPad измерение рекламы использует ваши данные только с вашего согласия (GDPR ст. 6(1)(a); LGPD ст. 7, I), данного в privacy-панели первого запуска или позже в настройках «Настройки > Приватность > Измерение рекламы», и дополнительно требует авторизации Apple App Tracking Transparency (см. §4.9). На Android измерение рекламы основано либо на том же согласии, либо — для пользователей, которым переключатель измерения рекламы показан по умолчанию включенным в панели первого запуска, — на нашем законном интересе в измерении нашей рекламы (LGPD ст. 7, IX и ст. 10), оцененном в задокументированной Оценке законных интересов. В этом случае он включен по умолчанию, и вы можете отключить его в той же панели или в любой момент в «Настройки > Приватность > Измерение рекламы» — возражение так же просто, как оставить включенным, бесплатное и никогда не требует удаления аккаунта (LGPD ст. 18, §2).",
-        "p3": "Гарантии. Пользователи, о которых нам известно, что им меньше 18 лет, и профили без установленного возраста никогда не измеряются на основании законного интереса. Отзыв согласия или возражение прекращают дальнейшую передачу со следующего запуска приложения; законно переданные ранее события остаются в Meta на условиях хранения из §4.9, а отзыв не влияет на правомерность сделанного до него (GDPR ст. 7(3); LGPD ст. 8 §5).",
-        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Отдельно от вышеизложенного и для каждого пользователя iPhone и iPad независимо от любого выбора или настройки — в том числе когда трекинг или измерение рекламы отклонены — Apple SKAdNetwork сообщает анонимную агрегированную информацию о конверсиях рекламной сети, показавшей вам рекламу (например, что произошла регистрация или покупка в определенном диапазоне стоимости). Ни один идентификатор от Jynx и никакие персональные данные не покидают ваше устройство для этого: это стандартный механизм атрибуции Apple, и мы не можем идентифицировать вас по нему."
+        "title": "5.9. Advertising Measurement",
+        "p1": "If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.",
+        "p2": "How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).",
+        "p3": "Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).",
+        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it."
       },
       "emails": {
-        "title": "5.10. Email и коммуникации",
-        "service": "<strong>Письма-уведомления об активности аккаунта (сервисные).</strong> Если вы пропускаете активность в приложении (непрочитанное сообщение, новый матч или лайк), Jynx может сообщить об этом по email. Это сервисные уведомления, основанные на нашем законном интересе в работе социальной платформы (держать вас в курсе ваших текущих взаимодействий), и они не содержат рекламного контента. Каждый тип уведомлений (сообщения, матчи, лайки) можно отключить в любой момент в «Настройки > Приватность > Коммуникации» или по ссылке «Управление этими уведомлениями» в каждом письме. Вы также можете в любой момент возражать против этой обработки (GDPR ст. 21) по адресу privacy@jynx.app.",
-        "winback": "<strong>Ре-энгейджмент- и маркетинговые письма (winback).</strong> Письма, цель которых — вернуть вас в Jynx после периода неактивности, а также наши новостные и рекламные коммуникации — это коммерческий проспектинг. Они отправляются только с вашим предварительным, конкретным, свободно данным и отзывным согласием, собранным через отдельную необязательную непредотмеченную галочку — никогда как условие принятия наших Условий. Отозвать его можно в любой момент в «Настройки > Приватность > Коммуникации» или по ссылке отписки в каждом письме.",
-        "profile_display": "<strong>Отображение вашего имени пользователя и фото профиля в письмах-уведомлениях.</strong> Если вы взаимодействовали с другим участником (лайк, матч, сообщение), ваше имя пользователя и фото профиля могут появляться в письмах-уведомлениях об активности аккаунта, адресованных ему, когда он неактивен. Эти элементы генерируются в момент отправки и не сохраняются в наших журналах писем (только идентификатор и счетчики)."
+        "title": "5.10. Emails and Communications",
+        "service": "<strong>Account-activity notification emails (service).</strong> When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the \"Manage these notifications\" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.",
+        "winback": "<strong>Re-engagement and marketing emails (winback).</strong> Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.",
+        "profile_display": "<strong>Display of your username and profile picture in notification emails.</strong> If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only)."
       },
       "location": {
-        "title": "5.11. Локация и дистанция матча",
-        "p1": "<strong>Что мы обрабатываем.</strong> Если вы решите поделиться локацией, Jynx использует ее только для одной цели: отображения приблизительной дистанции между вами и другими игроками («~12 км») в очереди матчей и, если вы включите сортировку по близости, упорядочивания этой очереди по дистанции. Мы обрабатываем только приблизительную локацию: запрашиваемое разрешение — это грубая / сниженной точности локация операционной системы, и прежде чем что-либо сохранится, ваши координаты привязываются на наших серверах к сетке около 0,02° (примерно 2,2 км); производная ячейка локации имеет размер около 11 км. Сырые GPS-координаты никогда не сохраняются.",
-        "p2": "<strong>Опционально и на основании согласия.</strong> Это опциональная функция: ничего не собирается, пока вы не выдали разрешение на локацию операционной системы И не включили переключатель локации в приложении. Локация никогда не обрабатывается в фоне — она используется только пока вы пользуетесь приложением. Ваша локация никогда не показывается другим пользователям как позиция на карте, никогда не используется для рекламы и никогда не передается рекламным платформам (см. §4.9: в передаваемое для рекламной атрибуции или измерения не входит никакая локационная информация). Наши аналитические события не содержат координат, названий городов и идентификаторов ячеек локации — только анонимные сигналы adoption и выбора сортировки. Запрос разрешения операционной системы — так фиксируется ваше согласие, а переключатель в приложении — так вы его отзываете (§7.6).",
-        "p3": "<strong>Сколько мы ее храним.</strong> Запись локации, которую мы ведем для вашего аккаунта, автоматически удаляется через 45 дней без обновления и обновляется при каждом использовании функции, пока шэринг включен. Приблизительная дистанция на карточке вашего профиля ограничена активностью: она существует только пока существует карточка вашего профиля и считается отсутствующей через 45 дней без обновления.",
-        "p4": "<strong>Ваш контроль.</strong> Вы можете в любой момент прекратить передачу: выключение переключателя локации в приложении немедленно удаляет сохраненные координаты (запись сохраняется, но очищается от координат), а отзыв разрешения на локацию в настройках устройства останавливает сбор в источнике. Удаление аккаунта (§7.3) также очищает ваши данные локации."
+        "title": "5.11. Location and Match Distance",
+        "p1": "<strong>What we process.</strong> If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players (\"~12 km\") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.",
+        "p2": "<strong>Optional and consent-based.</strong> This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).",
+        "p3": "<strong>How long we keep it.</strong> The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.",
+        "p4": "<strong>Your control.</strong> You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data."
       }
     },
     "retention": {
@@ -448,24 +448,24 @@
         "profile": "Хранятся, пока ваша учетная запись активна",
         "analytics_label": "Логи и аналитика:",
         "analytics": "Firebase Analytics: 14 месяцев (политика Firebase)",
-        "marketing_label": "Email-адреса для маркетинга (на основании согласия):",
-        "marketing": "Хранятся, пока вы не отказались от рассылки или не удалили аккаунт, плюс хешированная запись в списке подавления (см. ниже), чтобы мы не контактировали с вами повторно",
-        "survey_label": "Email-адреса опросов об отписке / оттоке:",
-        "survey": "Хранятся максимум 60 дней после отправки опроса (или, если опрос не отправлялся, 60 дней после удаления приложения/аккаунта), после чего адрес удаляется или необратимо анонимизируется. На пользователя отправляется не более одного (1) опросного письма",
-        "reengagement_label": "Ре-энгейджмент недавно «отвалившихся» аккаунтов (основание законного интереса LGPD, только бразильские пользователи):",
-        "reengagement": "В соответствии с руководством CNIL и тестом разумных ожиданий Jynx может использовать email-адрес недавно «отвалившегося» (не стёртого) аккаунта для ре-энгейджмента до 3 лет после последнего значимого взаимодействия, после чего он удаляется или анонимизируется"
+        "marketing_label": "Marketing email addresses (consent-based):",
+        "marketing": "Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you",
+        "survey_label": "Uninstall / churn survey email addresses:",
+        "survey": "Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user",
+        "reengagement_label": "Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):",
+        "reengagement": "Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized"
       },
       "deletion": {
         "title": "6.2. Удаление данных",
         "p1": "Вы можете запросить удаление своей учетной записи в любое время (см. Раздел 7).",
         "legal_label": "Юридическое хранение:",
         "legal": "Некоторые данные могут храниться дольше для соблюдения наших юридических обязательств (например, отчеты о безопасности, финансовые транзакции).",
-        "marketing": "Когда вы удаляете аккаунт, мы очищаем ваш email-адрес из нашего маркетингового CRM и у поставщика email-сервисов. Если вы реализуете право на стирание (§7.3 / GDPR ст. 17 / LGPD ст. 18(VI) для данных, обрабатываемых на основании согласия), ваш email-адрес вносится в постоянный хешированный список подавления, чтобы он никогда не использовался для маркетинга, ре-энгейджмента или опросов, — включая защиту от повторного импорта через любой сторонний или купленный список. Примечание: согласно LGPD удаление по ст. 18(VI) применяется к данным, обрабатываемым на основании согласия; данные, обрабатываемые на основании законного интереса (ст. 7 IX), вместо этого регулируются принципом ограничения цели (ст. 6 II и §2) и вашим правом требовать прекращения обработки (ст. 18 §2)."
+        "marketing": "When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2)."
       }
     },
     "rights": {
-      "title": "7. Ваши права (GDPR и LGPD)",
-      "intro": "В зависимости от вашего местонахождения вы имеете права по GDPR (ЕС/ЕЭЗ) и/или бразильскому LGPD (Lei Geral de Proteção de Dados, закон 13.709/2018).",
+      "title": "7. Ваши права (GDPR)",
+      "intro": "Согласно GDPR, вы имеете следующие права:",
       "access": {
         "title": "7.1. Право доступа",
         "p1": "Вы можете запросить копию всех данных, которые мы храним о вас.",
@@ -500,12 +500,12 @@
         "p1": "Экспорт данных (Раздел 7.1) позволяет вам получить свои данные в структурированном, машиночитаемом формате (JSON)."
       },
       "objection": {
-        "title": "7.5. Право на возражение / отказ от маркетинга",
-        "p1": "Вы можете в любой момент, бесплатно и без объяснения причин возражать против обработки ваших данных в целях прямого маркетинга. Согласно GDPR ст. 21(2) это право абсолютно для пользователей ЕС/ЕЭЗ: мы прекратим всю маркетинговую обработку по получении вашего возражения. Бразильские пользователи могут возражать против маркетинговой обработки через механизмы отказа ниже (LGPD ст. 8 §5; ст. 18 §2).",
-        "onclick_label": "Отписка в один клик:",
-        "onclick": "каждое маркетинговое письмо содержит ссылку отписки в один клик (RFC 8058 List-Unsubscribe-Post), исполняемую в реальном времени",
-        "inapp_label": "Переключатель в приложении:",
-        "inapp": "Настройки > Приватность > Настройки коммуникаций",
+        "title": "7.5. Право возражения",
+        "p1": "Вы можете возражать против обработки ваших данных в целях прямого маркетинга.",
+        "onclick_label": "One-click unsubscribe:",
+        "onclick": "every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time",
+        "inapp_label": "In-app toggle:",
+        "inapp": "Settings > Privacy > Communications Preferences",
         "email_label": "Email:",
         "email": "dpo@jynx.app"
       },
@@ -518,18 +518,18 @@
         "notifications": "Настройки устройства",
         "oauth_label": "Примечание:",
         "oauth": "OAuth токены (Google, Apple) автоматически отзываются при удалении вашей учетной записи (Раздел 7.3).",
-        "marketing_label": "Маркетинговые коммуникации:",
-        "marketing": "Рассылки, обновления продукта, ре-энгейджмент и опросы об отписке/оттоке — отзываются через отписку в один клик, переключатель настроек коммуникаций в приложении или dpo@jynx.app, без прекращения действия аккаунта",
-        "effect": "Отзыв не влияет на правомерность обработки, выполненной до отзыва (GDPR ст. 7(3); LGPD ст. 8 §5), и отзыв согласия никогда не требует удаления аккаунта.",
-        "ad_measurement_label": "Измерение рекламы:",
-        "ad_measurement": "Настройки > Приватность > Измерение рекламы (см. §5.9)",
-        "location_label": "Локация (дистанция матча):",
-        "location": "Выключите переключатель локации в приложении — это удаляет сохраненные координаты, — или отзовите разрешение на локацию в настройках устройства (см. §5.11)"
+        "marketing_label": "Marketing Communications:",
+        "marketing": "Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account",
+        "effect": "Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.",
+        "ad_measurement_label": "Ad measurement:",
+        "ad_measurement": "Settings > Privacy > Ad measurement (see §5.9)",
+        "location_label": "Location (match distance):",
+        "location": "Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)"
       },
       "lgpd": {
-        "title": "7.7. Дополнительные права по LGPD (бразильские пользователи)",
-        "intro": "Помимо перечисленных выше прав, субъекты данных, находящиеся в Бразилии, имеют следующие права по ст. 18 LGPD: подтверждение факта обработки; доступ к данным; исправление неполных, неточных или устаревших данных; анонимизацию, блокировку или удаление ненужных или избыточных данных (ст. 18(VI) применяется к данным, обрабатываемым на основании согласия); переносимость к другому поставщику сервиса или продукта по запросу; удаление персональных данных, обработанных на основании согласия; и информацию о возможности отказаться от согласия и последствиях такого отказа.",
-        "how": "Эти права можно реализовать через «Настройки > Приватность» или обратившись к encarregado по адресу dpo@jynx.app. Вы также можете подать жалобу бразильскому органу по защите данных — Autoridade Nacional de Proteção de Dados (ANPD) — по адресу https://www.gov.br/anpd."
+        "title": "7.7. Additional LGPD Rights (Brazilian Users)",
+        "intro": "In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.",
+        "how": "You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd."
       }
     },
     "security": {
@@ -537,7 +537,7 @@
       "intro": "Мы применяем технические и организационные меры безопасности для защиты ваших данных:",
       "encryption_label": "Шифрование:",
       "encryption": "Безопасная коммуникация через HTTPS",
-      "rules_label": "Правила безопасности Firebase:",
+      "rules_label": "Firebase Security Rules:",
       "rules": "Строгий контроль доступа к данным Firestore",
       "auth_label": "Аутентификация:",
       "auth": "Безопасное управление сеансами через Firebase Auth",
@@ -547,40 +547,40 @@
       "rate_limiting": "Защита от злоупотреблений (спам-сообщения, автоматизированные действия)",
       "moderation_label": "Модерация:",
       "moderation": "Система отчетов и модерации контента",
-      "breach": "Ни одна система не является 100% защищенной. В случае утечки персональных данных мы уведомим компетентный надзорный орган без неоправданных задержек и, когда это осуществимо, в течение 72 часов с момента, как нам стало известно об утечке, которая может привести к риску для ваших прав (GDPR ст. 33), и сообщим об утечке затронутым пользователям без неоправданных задержек, если она может привести к высокому риску для вас (GDPR ст. 34). Для субъектов данных в Бразилии мы также сообщим о значимых инцидентах безопасности в ANPD и вам в срок, установленный органом (LGPD ст. 48; сейчас — 3 рабочих дня согласно Резолюции ANPD CD/ANPD nº 15/2024).",
-      "voice_label": "Голос в реальном времени:",
-      "voice": "Медиа голосовых комнат шифруется в транзите с использованием WebRTC DTLS-SRTP — того же стандарта, что используют массовые голосовые приложения; сигналинг между приложением и нашими серверами идет по HTTPS/TLS."
+      "breach": "No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).",
+      "voice_label": "Real-time voice:",
+      "voice": "Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS."
     },
     "international": {
       "title": "9. Международные передачи данных",
       "p1": "Ваши данные могут быть переданы и сохранены на серверах, расположенных за пределами Европейского Союза, включая:",
       "google_label": "Google Cloud / Firebase:",
-      "google": "Глобальная инфраструктура (включая Google Analytics на сайте, см. §10), в рамках стандартных договорных условий GDPR и эквивалентных гарантий",
+      "google": "Использует глобальную инфраструктуру с соответствием GDPR",
       "sentry_label": "Sentry:",
-      "sentry": "Серверы в США; передачи из ЕС/ЕЭЗ опираются на EU-US Data Privacy Framework (действует с июля 2023 года, заменив недействительный Privacy Shield) для сущностей Sentry, самосертифицированных в DPF, или на стандартные договорные условия там, где DPF не применяется",
-      "esp_label": "Поставщик email-сервисов (ESP):",
-      "esp": "Используется для доставки описанных в §5.6 маркетинговых, ре-энгейджмент- и опросных коммуникаций. ESP назван в §4.4 и действует как обработчик на основании подписанного соглашения об обработке данных",
-      "guarantees_eu_label": "Гарантии (GDPR, ЕС/ЕЭЗ).",
-      "guarantees_eu": "Все передачи из ЕС/ЕЭЗ покрываются решением об адекватности, EU-US Data Privacy Framework или стандартными договорными условиями вместе с дополнительными мерами там, где это требуется.",
-      "guarantees_br_label": "Гарантии (LGPD, Бразилия).",
-      "guarantees_br": "Передачи персональных данных бразильских пользователей регулируются ст. 33 LGPD:",
-      "br_france_label": "К Jynx Group во Франции (контролер):",
-      "br_france": "Законно согласно LGPD ст. 33(I) в силу Резолюции ANPD CD/ANPD nº 32/2026 (вступила в силу 26 января 2026 года), признающей Европейский союз, включая Францию, обеспечивающим адекватный уровень защиты. Дополнительный механизм передачи для этого плеча не требуется. (Это решение об адекватности подлежит переоценке ANPD в течение четырех лет; если оно будет приостановлено, Jynx внедрит альтернативный механизм по ст. 33, например стандартные договорные условия ANPD.)",
-      "br_esp_label": "К Brevo во Франции (email ESP, обработчик):",
-      "br_esp": "Законно согласно LGPD ст. 33(I) в силу той же Резолюции ANPD CD/ANPD nº 32/2026 (вступила в силу 26 января 2026 года), признающей Европейский союз, включая Францию, обеспечивающим адекватный уровень защиты. Дополнительный механизм передачи для этого плеча не требуется. (Подлежит той же переоценке ANPD, описанной выше; если решение об адекватности будет приостановлено, Jynx внедрит альтернативный механизм по ст. 33, например стандартные договорные условия ANPD с Brevo.)",
-      "historical": "Историческая справка: годичный льготный период для адаптации существующих договоров к SCC ANPD закончился 23 августа 2025 года; новые отношения с обработчиками, такие как ESP, заключают SCC при онбординге.",
-      "aws_label": "Amazon Web Services (модерация изображений):",
-      "aws": "Описанная в §4.8 обработка модерации изображений выполняется в регионе AWS Сан-Паулу (Бразилия); передачи из ЕС/ЕЭЗ опираются на соглашение AWS об обработке данных, включающее стандартные договорные условия Европейской комиссии, вместе с общими гарантиями ниже. Изображение передается в AWS через инфраструктуру Google Cloud компании Jynx (плечо Google Cloud / Firebase выше)",
-      "br_csam_label": "К поставщикам технологий защиты детей в ЕС (сопоставление хешей, обработчики):",
-      "br_csam": "Покрывается тем же решением ANPD CD/ANPD nº 32/2026 об адекватности ЕС, что и плеча выше, — поставщики получают только необратимые хеши и выполняют сопоставление в регионе ЕС (§4.7)",
-      "br_aws_label": "К AWS в Бразилии (модерация изображений, обработчик):",
-      "br_aws": "Плечо AWS Rekognition остается внутри страны — оно выполняется в регионе AWS Сан-Паулу (§4.8). Изображение сначала передается через инфраструктуру Google Cloud компании Jynx, которая покрывается общими условиями передачи Google Cloud / Firebase выше",
-      "livekit_label": "LiveKit (голос в реальном времени и, когда доступно, демонстрация экрана):",
-      "livekit": "LiveKit Cloud — наш обработчик медиа голоса в реальном времени (и, когда функция доступна, демонстрации экрана) на основании подписанного соглашения об обработке данных (§4.5). LiveKit Cloud маршрутизирует медиа глобально: сессии обслуживаются глобальной инфраструктурой LiveKit без привязки к конкретному региону. Аудио голосовых комнат (и видео демонстрации экрана, когда доступно) передается в реальном времени и не записывается, не хранится и не сохраняется ни Jynx, ни LiveKit; LiveKit хранит только операционные метаданные сессии, описанные в §4.5. Передачи персональных данных в LiveKit опираются на дополнение о обработке данных (DPA) LiveKit, включающее условия GDPR и стандартные договорные условия Европейской комиссии для трансграничных передач, вместе с общими гарантиями ниже, которые применяются к LiveKit так же, как к нашим прочим обработчикам.",
-      "meta_label": "Meta (рекламная атрибуция и измерение рекламы):",
-      "meta": "Описанная в §4.9 и §5.9 передача достигает Meta Platforms Ireland Ltd. или Meta Platforms, Inc., которая обрабатывает ее в США и других странах. Международные передачи персональных данных в связи с инструментами Meta подчиняются применимым договорным гарантиям и механизмам международной передачи. Jynx проверяет их соответствие требованиям ст. 33 LGPD и нормативным актам ANPD.",
-      "anpd_transparency_label": "Прозрачность (Резолюция ANPD CD/ANPD nº 19/2024).",
-      "anpd_transparency": "Информация, требуемая ст. 17, §2 Резолюции ANPD CD/ANPD nº 19/2024, консолидирована в настоящей Политике: форма, срок и конкретная цель каждой международной передачи и страны назначения (этот раздел и разделы, на которые он ссылается); идентификация и контактные данные контролера (§1); совместное использование данных и его цель (§4); обязанности агентов по обработке и принятые меры безопасности (§4 и §8); а также ваши права и способы их реализации, включая легкодоступный канал и право подать петицию в ANPD (§7 и §12). Полный текст договорных условий, используемых для этих международных передач, предоставляется вам по запросу нашим специалистом по защите данных (dpo@jynx.app) в течение 15 дней."
+      "sentry": "Серверы в США с соответствием Privacy Shield",
+      "esp_label": "Email Service Provider (ESP):",
+      "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
+      "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
+      "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
+      "guarantees_br_label": "Guarantees (LGPD, Brazil).",
+      "guarantees_br": "Transfers of Brazilian users' personal data are governed by LGPD Art. 33:",
+      "br_france_label": "To Jynx Group in France (controller):",
+      "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
+      "br_esp_label": "To Brevo in France (email ESP, processor):",
+      "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
+      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.",
+      "aws_label": "Amazon Web Services (image moderation):",
+      "aws": "The image-moderation processing described in §4.8 runs in AWS's São Paulo region (Brazil); transfers from the EU/EEA rely on AWS's data-processing agreement incorporating the European Commission's standard contractual clauses, together with the general guarantees below. The image is relayed to AWS through Jynx's Google Cloud infrastructure (the Google Cloud / Firebase leg above)",
+      "br_csam_label": "To child-safety technology providers in the EU (hash matching, processors):",
+      "br_csam": "Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)",
+      "br_aws_label": "To AWS in Brazil (image moderation, processor):",
+      "br_aws": "The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above",
+      "livekit_label": "LiveKit (real-time voice, and screen share when available):",
+      "livekit": "LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors.",
+      "meta_label": "Meta (advertising attribution and ad measurement):",
+      "meta": "The sharing described in §4.9 and §5.9 reaches Meta Platforms Ireland Ltd. or Meta Platforms, Inc., which processes it in the United States and other countries. International transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms. Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations.",
+      "anpd_transparency_label": "Transparency (ANPD Resolution CD/ANPD nº 19/2024).",
+      "anpd_transparency": "The information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 is consolidated in this Policy: the form, duration, and specific purpose of each international transfer and the destination countries (this section and the sections it cites); the identification and contact details of the controller (§1); the shared use of the data and its purpose (§4); the responsibilities of the processing agents and the security measures adopted (§4 and §8); and your rights and the means of exercising them, including an easily accessible channel and the right to petition the ANPD (§7 and §12). The full text of the contractual clauses used to carry out these international transfers is made available to you, upon request, by our data protection officer (dpo@jynx.app), within 15 days."
     },
     "cookies": {
       "title": "10. Cookies и аналогичные технологии",
@@ -589,10 +589,10 @@
       "tokens": "Хранятся локально безопасным образом",
       "cache_label": "Локальный кэш:",
       "cache": "Для улучшения производительности (данные профиля, последние сообщения)",
-      "website": "<strong>Сайт.</strong> Сайт Jynx (jynx.app) использует Google Analytics 4 (предоставляется Google) с Consent Mode v2, чтобы понимать, как используется сайт. Хранение аналитики по умолчанию запрещено: пока вы не приняли баннер cookies, Google Analytics работает без cookies или локального хранилища, и Google получает только сигналы без cookies и идентификаторов; если вы принимаете, включается полное измерение. Ваш выбор — принять или отклонить — сохраняется локально на вашем устройстве (localStorage браузера, ключ «jynx-analytics-consent»). Очистка хранилища браузера для jynx.app снова покажет баннер, и вы сможете изменить выбор. Google выступает получателем получающейся аналитики (см. §9); другие наши обработчики перечислены в §4, ваши права — в §7.",
-      "invite_clipboard": "<strong>Ссылки-приглашения.</strong> Когда вы открываете ссылку-приглашение (jynx.app/invite/…) в браузере и нажимаете кнопку скачивания в App Store, сайт записывает эту ссылку-приглашение в буфер обмена вашего устройства, заменяя его предыдущее содержимое. Это стандартный прием атрибуции установок приложения на iOS (где нет механизма install referrer): он позволяет приложению Jynx при первом запуске предложить присоединиться по приглашению человека, который прислал вам ссылку. Сайт никогда не читает буфер обмена — он только записывает эту ссылку, — а приложение читает его лишь однажды, после запроса вашего явного согласия. Никакое другое содержимое буфера обмена не читается и не собирается. Если не хотите делиться, просто отклоните запрос вставки и присоединяйтесь без приглашения.",
-      "referrals": "<strong>Рефералы и кампании креаторов.</strong> Когда вы присоединяетесь к Jynx с кодом приглашения — по ссылке, QR-коду или введенным вручную — мы записываем этот код вместе с вашим аккаунтом, чтобы атрибутировать приглашение человеку или кампании, которые им поделились, применить связанные преимущества и выявлять мошеннические регистрации. Эта обработка опирается на наши законные интересы (см. §13) и подлежит нашим антифрод-проверкам; для вас ничего не меняется: одни и те же данные собираются, каким бы кодом приглашения вы ни воспользовались. Некоторые коды приглашений также принадлежат атрибуционным кампаниям креаторов: если использованный вами код входит в такую кампанию, он может дополнительно засчитаться этой кампании. Платежные записи кампаний креаторов хранятся в псевдонимизированной форме.",
-      "screen_share": "<strong>Демонстрация экрана (когда доступна).</strong> Когда функция доступна, вы можете транслировать экран своего устройства в голосовой комнате. Трансляция начинается только после выдачи разрешения на захват экрана операционной системой и явного подтверждения в приложении. Все, что видно на вашем экране, — включая уведомления, — транслируется в прямом эфире остальным участникам комнаты, и вы отвечаете за то, что транслируете. Общее видео — это живой медиатрек, маршрутизируемый как голосовое аудио через SFU LiveKit (§4.5, §9): он не записывается и не хранится ни Jynx, ни LiveKit, и завершается, когда вы заканчиваете трансляцию."
+      "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
+      "invite_clipboard": "<strong>Invitation links.</strong> When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.",
+      "referrals": "<strong>Referrals and creator campaigns.</strong> When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.",
+      "screen_share": "<strong>Screen sharing (when available).</strong> When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share."
     },
     "changes": {
       "title": "11. Изменения в этой политике",
@@ -606,27 +606,27 @@
       "email_label": "Email:",
       "email": "dpo@jynx.app",
       "authority_label": "Надзорный орган:",
-      "authority_intro": "Если вы считаете, что ваши права не были соблюдены, вы можете подать жалобу:",
-      "authority_eu_label": "Пользователи ЕС/ЕЭЗ:",
-      "authority_eu": "в CNIL (Commission Nationale de l'Informatique et des Libertés), Франция — https://www.cnil.fr",
-      "authority_br_label": "Бразильские пользователи:",
-      "authority_br": "в ANPD (Autoridade Nacional de Proteção de Dados), Бразилия — https://www.gov.br/anpd",
-      "authority_note": "Подача жалобы в надзорный орган не ущемляет ваше право искать другие доступные вам судебные средства защиты, включая обязательные меры защиты потребителей, действующие в вашей юрисдикции (например, бразильский Кодекс защиты потребителей, закон 8.078/90)."
+      "authority_intro": "If you believe your rights have not been respected, you may lodge a complaint:",
+      "authority_eu_label": "EU/EEA users:",
+      "authority_eu": "with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr",
+      "authority_br_label": "Brazilian users:",
+      "authority_br": "with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd",
+      "authority_note": "Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90)."
     },
     "consent": {
       "title": "13. Согласие",
-      "intro": "Мы обрабатываем ваши персональные данные только там, где у нас есть законное основание. Законные основания, на которые мы опираемся, и места их описания в настоящей Политике:",
-      "contract": "Исполнение договора / предоставление Сервиса (GDPR ст. 6(1)(b); LGPD ст. 7, V) — аккаунт, матчмейкинг и обмен сообщениями (§5.1–5.3)",
-      "legitimate": "Законные интересы (GDPR ст. 6(1)(f); LGPD ст. 7, IX и ст. 10) — безопасность, предотвращение мошенничества, улучшение сервиса и (для бразильских пользователей) маркетинговые/ре-энгейджмент-/опросные коммуникации существующим или недавно «отвалившимся» пользователям, как описано в §5.6, каждое — с задокументированной оценкой балансировки",
-      "legal": "Юридическая обязанность (GDPR ст. 6(1)(c); LGPD ст. 7, II) — хранение в юридических целях (§6)",
-      "consent_basis": "Согласие (GDPR ст. 6(1)(a); LGPD ст. 7, I и ст. 8) — аналитика, если вы ее включили, push-уведомления и (для пользователей ЕС/ЕЭЗ и для бразильских потенциальных клиентов/холодных/кросс-сейл рассылок) маркетинговые коммуникации согласно §5.6",
-      "specific_label": "Согласие должно быть конкретным и информированным.",
-      "specific": "Там, где мы опираемся на ваше согласие, оно дается ясным утвердительным действием, относится к указанным целям и фиксируется отдельно от принятия этих условий (LGPD ст. 8 §1 — cláusula destacada). Общие или комбинированные разрешения недействительны согласно LGPD ст. 8 §4 и ничтожны по GDPR ст. 4(11) и ст. 7. Само по себе использование Jynx не является согласием на маркетинг. Бремя доказывания действительности согласия лежит на Jynx (LGPD ст. 8 §2; GDPR ст. 7(1)); поэтому мы записываем дату, версию формы, язык и охват каждого собираемого согласия.",
-      "withdrawal_label": "Отзыв.",
-      "withdrawal": "Вы можете отозвать любое согласие в любой момент, через процедуру столь же простую, как его дача и не требующую удаления аккаунта (LGPD ст. 8 §5; GDPR ст. 7(3)) — см. §7.5 и §7.6. Отзыв не влияет на правомерность обработки, выполненной до отзыва. Удаление аккаунта (§7.3) остается доступным в любой момент, но не является механизмом отзыва конкретного согласия.",
-      "safety": "Юридическая обязанность и законные интересы (GDPR ст. 6(1)(c) и 6(1)(f); LGPD ст. 7, II и IX) — выявление незаконного и нарушающего правила контента, включая анализ изображений для защиты детей, описанный в §5.8, и обработку модерации изображений в §4.8, предотвращение злоупотреблений и обхода банов (§5.7), а также соблюдение обязанностей по правовому уведомлению. Для анализа изображений, которыми обмениваются в личных сообщениях, Jynx также опирается на добровольное выявление онлайн-материалов о сексуальном насилии над детьми, разрешенное Регламентом (ЕС) 2021/1232 (исключение ePrivacy, в текущей редакции).",
-      "ad_measurement": "Измерение рекламы (§5.9): ваше согласие (GDPR ст. 6(1)(a); LGPD ст. 7, I и ст. 8), если вы его включили; на Android, альтернативно, наш законный интерес (LGPD ст. 7, IX и ст. 10) для пользователей, которым переключатель измерения рекламы показан по умолчанию включенным, с вашим правом на возражение в любой момент",
-      "location": "Приблизительная локация для функции дистанции матча (§5.11): ваше согласие (GDPR ст. 6(1)(a); LGPD ст. 7, I и ст. 8), фиксируемое разрешением на локацию операционной системы вместе с переключателем локации в приложении; вы можете отозвать его в любой момент (§7.6) — выключение переключателя удаляет сохраненные координаты"
+      "intro": "We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:",
+      "contract": "Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)",
+      "legitimate": "Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment",
+      "legal": "Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)",
+      "consent_basis": "Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6",
+      "specific_label": "Consent must be specific and informed.",
+      "specific": "Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.",
+      "withdrawal_label": "Withdrawal.",
+      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.",
+      "safety": "Legal obligation and legitimate interests (GDPR Art. 6(1)(c) and 6(1)(f); LGPD Art. 7, II and IX) — detection of illegal and policy-violating content, including the child-safety image analysis described in §5.8 and the image-moderation processing in §4.8, prevention of abuse and ban evasion (§5.7), and compliance with legal reporting duties. For the analysis of images shared in direct messages, Jynx also relies on the voluntary detection of online child sexual abuse permitted by Regulation (EU) 2021/1232 (the ePrivacy derogation, as currently in force).",
+      "ad_measurement": "Ad measurement (§5.9): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) where you have enabled it; on Android, alternatively our legitimate interest (LGPD Art. 7, IX and Art. 10) for users shown the ad measurement switch on by default, with your right to object at any time",
+      "location": "Approximate location for the match-distance feature (§5.11): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8), captured by the operating-system location permission together with the in-app location toggle; you may withdraw it at any time (§7.6) — turning the toggle off deletes the stored coordinates"
     }
   },
   "terms": {
@@ -642,9 +642,9 @@
     },
     "title": "Условия использования - Jynx",
     "last_updated_label": "Последнее обновление:",
-    "last_updated": "8 июля 2026 года",
+    "last_updated": "12 октября 2025",
     "version_label": "Версия:",
-    "version": "1.1",
+    "version": "1.0",
     "section1": {
       "title": "1. Введение и принятие",
       "intro": "Добро пожаловать в Jynx — социальную игровую платформу, которая объединяет игроков, помогает формировать команды и играть вместе.",
@@ -659,7 +659,7 @@
       "acceptance": "Получая доступ к приложению Jynx (\"Сервис\", \"Платформа\", \"Приложение\") или используя его, вы соглашаетесь соблюдать настоящие Условия обслуживания (\"Условия\", \"ToS\"). Если вы не согласны с настоящими Условиями, вы не можете использовать Сервис.",
       "important_label": "ВАЖНО:",
       "important": "Настоящие Условия представляют собой юридически обязывающее соглашение между вами и Jynx Group.",
-      "marketing_consent": "<strong>Отдельное и необязательное маркетинговое согласие.</strong> Принятие настоящих Условий не является согласием на получение маркетинговых, ре-энгейджмент- или опросных писем. Любые такие коммуникации требуют отдельного, необязательного, целевого opt-in, который вы можете дать или не дать без потери доступа к Сервису и который можете отозвать в любой момент без прекращения действия аккаунта. Это разделение требуется по LGPD ст. 8 §4 (которая объявляет недействительными общие или комбинированные разрешения) и по GDPR ст. 4(11) и ст. 7. Условия нашей программы маркетинговых и ре-энгейджмент-писем, включая опросы об отписке и оттоке, изложены в §5.5 ниже и в Политике конфиденциальности §5.6."
+      "marketing_consent": "<strong>Separate and optional marketing consent.</strong> Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6."
     },
     "section2": {
       "title": "2. Определения",
@@ -674,7 +674,7 @@
       "account": "Ваша личная учетная запись Jynx, созданная при регистрации",
       "community_label": "\"Сообщество\":",
       "community": "Группа, созданная в Jynx для игр и социального взаимодействия",
-      "handle_label": "«Хэндл» (ник):",
+      "handle_label": "\"Handle\":",
       "handle": "Ваш уникальный идентификатор в формате @имяпользователя#дискриминатор для приватного поиска друзей",
       "we_label": "\"Мы\" / \"Нас\" / \"Jynx\":",
       "we": "Jynx Group и его аффилированные лица"
@@ -687,12 +687,12 @@
         "p1": "При регистрации вам необходимо будет указать дату рождения. Если вам меньше 18 лет, вы не сможете создать учетную запись или получить доступ к Сервису.",
         "enforcement_label": "Применение:",
         "enforcement": "Наш возрастной шлюз автоматически блокирует создание учетной записи для пользователей младше 18 лет. Если мы обнаружим, что вы предоставили ложную информацию о своем возрасте, ваша учетная запись будет немедленно закрыта.",
-        "minors": "<strong>Никакого маркетинга несовершеннолетним.</strong> Если мы установим, что владелец аккаунта младше 18 лет, действие аккаунта немедленно прекращается, а пользователь исключается из всех маркетинговых, ре-энгейджмент- и опросных коммуникаций согласно §5.5 (см. также Политику конфиденциальности §2; LGPD ст. 14; GDPR ст. 8)."
+        "minors": "<strong>No marketing to minors.</strong> If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8)."
       },
       "creation": {
         "title": "3.2. Создание учетной записи",
         "intro": "Чтобы использовать Jynx, вы должны создать учетную запись, предоставив:",
-        "li1": "Действующий email-адрес ИЛИ аутентификация через Google/Apple",
+        "li1": "A valid email address OR authentication via Google/Apple",
         "li2": "Уникальное имя пользователя",
         "li3": "Дату рождения (для проверки возраста)",
         "li4": "Информацию профиля (страна, часовой пояс, языки, игровые предпочтения)",
@@ -765,7 +765,7 @@
           "li1": "Делиться личной информацией других пользователей без согласия (доксинг)",
           "li2": "Делать скриншоты или делиться личными разговорами без разрешения",
           "li3": "Собирать или собирать данные пользователей без разрешения",
-          "li4": "Записывать, снимать или распространять общий экран другого участника без его согласия"
+          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
         },
         "content_violations": {
           "title": "Нарушения контента:",
@@ -773,7 +773,7 @@
           "li2": "Делиться насильственным, графическим или тревожным контентом",
           "li3": "Публиковать контент с участием несовершеннолетних в любом качестве",
           "li4": "Распространять материалы, защищенные авторским правом, без разрешения",
-          "li5": "Использовать демонстрацию экрана для передачи контента, нарушающего настоящие Условия, — все запреты этого раздела в полной мере распространяются на то, что видно на вашем транслируемом экране"
+          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
         },
         "manipulation": {
           "title": "Манипулирование платформой:",
@@ -888,29 +888,29 @@
         "notification": "Вы будете уведомлены об удалении контента, когда это возможно."
       },
       "marketing_program": {
-        "title": "5.5. Программа маркетинговых и ре-энгейджмент-писем",
-        "note": "(Примечание: §5.2 «Маркетинг и промо-использование» регулирует повторное использование пользовательского контента в маркетинговых материалах Jynx. Настоящий §5.5 регулирует отправку Jynx маркетинговых, ре-энгейджмент- и опросных писем вам — это отдельный предмет, и §5.2 его не покрывает.)",
-        "intro": "С учетом Политики конфиденциальности §5.6 «Маркетинговые коммуникации» Jynx может отправлять вам маркетинговые, ре-энгейджмент- и опросные письма об отписке/оттоке, как описано в том разделе. Программа работает на следующих условиях:",
-        "basis_label": "Правовое основание по когортам.",
-        "eu_label": "Пользователи ЕС/ЕЭЗ:",
-        "eu": "мы отправляем маркетинговые и ре-энгейджмент-писья только с вашим предварительным явным согласием (opt-in) (ст. 13(1) Директивы ePrivacy / ст. L. 34-5 CPCE; GDPR ст. 6(1)(a)). После запуска платных подписок и Founder Packs Сервис стал возмездным в смысле ст. 13(2) Директивы ePrivacy / ст. L. 34-5 CPCE, поэтому исключение soft-opt-in в принципе доступно для схожих продуктов и услуг существующим клиентам. Следуя консервативной позиции, мы продолжаем опираться на ваше предварительное явное согласие и не перейдем на основание soft-opt-in без задокументированной оценки, зафиксированной в наших Записях о деятельности по обработке, и обновленного уведомления для вас.",
-        "br_label": "Бразильские пользователи:",
-        "br": "мы отправляем маркетинговые и ре-энгейджмент-писья на основании либо (i) вашего согласия (LGPD ст. 7 I и ст. 8) для любых рассылок потенциальным клиентам, холодных обращений или кросс-сейл/партнерских предложений, либо (ii) нашего законного интереса (LGPD ст. 7 IX и ст. 10), подкрепленного задокументированной Оценкой законных интересов по Руководству ANPD по законному интересу (2 февраля 2024 года), для существующих или недавно «отвалившихся» пользователей, получающих обновления о продукте, ре-энгейджмент или единственный короткий опрос об оттоке/отписке о приложении Jynx.",
-        "surveys_label": "Опросы об отписке / оттоке.",
-        "surveys": "Мы предпочитаем задавать вопросы об отписке/оттоке внутри приложения, в момент удаления. Если опросное письмо отправляется: оно не содержит рекламного или ре-энгейджмент-контента; мы отправляем максимум один (1) опрос на пользователя примерно в течение 60 дней после удаления приложения или аккаунта; после этого email-адрес удаляется или анонимизируется согласно Политике конфиденциальности §6.",
-        "unsubscribe_label": "Отписка в один клик.",
-        "unsubscribe": "Каждое маркетинговое письмо содержит работающий механизм отписки в один клик (RFC 8058), исполняемый в реальном времени. Вы также можете отозвать согласие или возразить через «Настройки > Приватность > Настройки коммуникаций» или письмом на dpo@jynx.app, без прекращения действия аккаунта и без затрат (LGPD ст. 8 §5; GDPR ст. 7(3) и ст. 21(2)). Мы уважаем бразильский Кодекс защиты потребителей (закон 8.078/90, в частности ст. 39 III) и не отправляем незапрошенные или злоупотребительные сообщения; постоянная отправка после отказа запрещена.",
-        "erasure_label": "Стирание и подавление.",
-        "erasure": "Если вы реализуете право на стирание (Политика конфиденциальности §7.3 / GDPR ст. 17 / LGPD ст. 18(VI) для данных, обрабатываемых на основании согласия), ваш email-адрес удаляется из всех маркетинговых конвейеров и вносится в постоянный хешированный список подавления; с вами не будут повторно контактировать или опрашивать вас, в том числе по любым импортированным или сторонним спискам. Само по себе удаление аккаунта или приложения (без запроса на стирание) не включает постоянное подавление — см. Политику конфиденциальности §6 о применимых окнах хранения и ре-энгейджмента.",
-        "children_label": "Дети.",
-        "children": "Мы никогда сознательно не отправляем маркетинг несовершеннолетним; любой аккаунт, определенный как принадлежащий пользователю младше 18 лет, прекращается и исключается из программы (Политика конфиденциальности §2; LGPD ст. 14; GDPR ст. 8).",
-        "esp_label": "Поставщик email-сервисов.",
-        "esp": "Мы используем стороннего поставщика email-сервисов (обработчика) на основании соглашения об обработке данных, названного в Политике конфиденциальности §4.4 и §9 «Сторонние сервисы» (§9.5).",
-        "consumer_rights": "Настоящее положение не ущемляет любые обязательные права защиты потребителей, которые вы имеете по закону вашей страны проживания, включая бразильский Кодекс защиты потребителей."
+        "title": "5.5. Marketing & Re-engagement Email Program",
+        "note": "(Note: §5.2 \"Marketing & Promotional Use\" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)",
+        "intro": "Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:",
+        "basis_label": "Legal basis by cohort.",
+        "eu_label": "EU/EEA users:",
+        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.",
+        "br_label": "Brazilian users:",
+        "br": "we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.",
+        "surveys_label": "Uninstall / churn surveys.",
+        "surveys": "We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.",
+        "unsubscribe_label": "One-click unsubscribe.",
+        "unsubscribe": "Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.",
+        "erasure_label": "Erasure and suppression.",
+        "erasure": "If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.",
+        "children_label": "Children.",
+        "children": "We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).",
+        "esp_label": "Email service provider.",
+        "esp": "We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).",
+        "consumer_rights": "This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code."
       },
       "activity_notifications": {
-        "title": "5.6. Уведомления об активности аккаунта",
-        "p1": "<strong>Уведомления об активности аккаунта.</strong> Jynx отправляет вам уведомления об активности вашего аккаунта (новые сообщения, матчи, лайки), в том числе по email, если вы пропустили их в приложении. Принятие настоящих Условий не является согласием на получение маркетинговых писем: маркетинговые коммуникации (например, наши ре-энгейджмент-письма и новости) отправляются только с вашим отдельным, необязательным согласием при регистрации."
+        "title": "5.6. Account-Activity Notifications",
+        "p1": "<strong>Account-activity notifications.</strong> Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up."
       }
     },
     "section6": {
@@ -1001,10 +1001,10 @@
         "li3": "Ваша учетная запись Firebase Authentication удаляется",
         "li4": "OAuth-токены (Google, Apple) автоматически отзываются",
         "refund": "Политика возврата средств: Возврат средств не предоставляется за премиум-подписки или виртуальные предметы (косметику), когда ваша учетная запись прекращена из-за нарушений настоящих Условий.",
-        "li5": "Ваш email-адрес удаляется из нашего маркетингового CRM и у поставщика email-сервисов",
-        "li6": "Если ваше прекращение включает запрос на стирание / право быть забытым (Политика конфиденциальности §7.3), ваш email-адрес вносится в постоянный хешированный список подавления и никогда не будет использоваться для маркетинга, ре-энгейджмента или опросов, в том числе по любым импортированным или сторонним спискам",
-        "li7": "Само по себе удаление аккаунта или приложения (без запроса на стирание) не подавляет ре-энгейджмент навсегда; применяются окна хранения и ре-энгейджмента из Политики конфиденциальности §6, после чего адрес удаляется или анонимизируется",
-        "marketing": "Описанные выше шаги обработки данных регламентируются как GDPR, так и LGPD; права бразильских пользователей на удаление регулируются LGPD ст. 18 (отметим, что удаление по ст. 18(VI) применяется к данным, обрабатываемым на основании согласия, тогда как данные, обрабатываемые на основании законного интереса, регулируются ограничением цели по ст. 6 II и правом требовать прекращения обработки по ст. 18 §2)."
+        "li5": "Your email address is purged from our marketing CRM and email service provider",
+        "li6": "If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list",
+        "li7": "Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized",
+        "marketing": "The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2)."
       },
       "user_deletion": {
         "title": "7.3. Удаление, инициированное пользователем",
@@ -1059,9 +1059,9 @@
       },
       "refunds": {
         "title": "8.3. Возвраты и отмены",
-        "eu_title": "Права потребителей ЕС (право на отказ):",
+        "eu_title": "EU Consumer Rights (Right of Withdrawal):",
         "eu": {
-          "p1": "Если вы потребитель в Европейском союзе, вы обычно имели бы 14-дневное право на отказ от дистанционных договоров согласно Директиве о правах потребителей. Однако для цифрового контента, предоставление которого началось с вашего предварительного явного согласия и вашего подтверждения, что вы тем самым теряете право на отказ, — а это включает права Jynx+, косметические предметы и Founder Packs, предоставление которых начинается сразу после покупки, — право на отказ утрачивается согласно ст. 16(m) Директивы о правах потребителей и ст. L221-28 13° французского Code de la consommation. Ничто в настоящих Условиях не лишает вас обязательных прав потребителей, которые не могут быть отклонены по праву вашего государства-члена ЕС."
+          "p1": "If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state."
         },
         "policy_title": "Политика возврата:",
         "policy": {
@@ -1070,8 +1070,8 @@
           "li3": "Несанкционированные транзакции: Немедленно сообщайте о несанкционированных транзакциях на dpo@jynx.app и вашему поставщику платежей",
           "li4": "Возврат средств не предоставляется за: Прекращение учетной записи из-за нарушений Условий, изменение мнения после использования премиум-функций более 14 дней"
         },
-        "br_title": "Бразильские потребители:",
-        "br": "Если вы потребитель в Бразилии, вы имеете право отказаться от дистанционного договора в течение 7 дней с момента получения согласно ст. 49 бразильского Кодекса защиты потребителей (CDC), осуществляемому без объяснения причин, и это право не может быть отклонено. Для цифровых товаров, предоставление которых уже началось по вашему явному запросу, возвращаемые при отказе суммы учитывают уже предоставленное, согласно CDC ст. 49 §2°. Механика возврата за покупки через App Store или Google Play следует политике возвратов соответствующего магазина. Ничто в настоящих Условиях не исключает и не ограничивает обязательные меры защиты потребителей CDC."
+        "br_title": "Brazilian Consumers:",
+        "br": "If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC."
       }
     },
     "section9": {
@@ -1098,29 +1098,29 @@
         "p1": "Мы используем Riot Games API для получения игровой статистики (League of Legends, Valorant и т.д.)."
       },
       "oauth": {
-        "title": "9.4. Провайдеры OAuth",
+        "title": "9.4. OAuth Providers",
         "intro": "Мы предлагаем аутентификацию через:",
         "li1": "Вход через Google",
         "li2": "Вход через Apple"
       },
       "responsibility": "Вы несете ответственность за соблюдение условий этих сторонних сервисов.",
       "esp": {
-        "title": "9.5. Поставщик email-сервисов",
-        "intro": "Мы используем стороннего поставщика email-сервисов для доставки маркетинговых, ре-энгейджмент- и опросных коммуникаций об отписке/оттоке, как описано в §5.5 и в Политике конфиденциальности §5.6 и §4.4. Поставщик действует как наш обработчик на основании соглашения об обработке данных и обрабатывает ваши данные только по нашим задокументированным инструкциям. Идентификация поставщика, местоположение, субобработчики и применимый механизм международной передачи описаны в Политике конфиденциальности §4.4 и §9.",
-        "responsibility": "Вы по-прежнему отвечаете за соблюдение условий любого стороннего сервиса, где у вас есть собственный аккаунт; поставщик email-сервисов — вендор Jynx, а не ваш."
+        "title": "9.5. Email Service Provider",
+        "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
+        "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
       },
       "livekit": {
-        "title": "9.6. LiveKit (голос в реальном времени)",
-        "p1": "Jynx использует LiveKit Cloud для работы голосовых комнат в реальном времени. LiveKit выступает нашим обработчиком аудио голосовых комнат на основании подписанного соглашения об обработке данных и обрабатывает данные только по задокументированным инструкциям Jynx. Как описано в Политике конфиденциальности §4.5 и §3.6, аудио голосовых комнат передается в реальном времени и не записывается, не хранится и не сохраняется ни Jynx, ни LiveKit. Применимый механизм международной передачи (дополнение о обработке данных LiveKit, включающее стандартные договорные условия ЕС) и глобальный подход LiveKit к маршрутизации описаны в Политике конфиденциальности §9."
+        "title": "9.6. LiveKit (Real-Time Voice)",
+        "p1": "Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9."
       },
       "rekognition": {
-        "title": "9.7. AWS Rekognition (модерация изображений)",
-        "p1": "Jynx использует Amazon Web Services (AWS) Rekognition для проверки загружаемых пользователями изображений профиля на наготу и другой нарушающий правила контент. AWS Rekognition выступает нашим обработчиком на основании подписанного соглашения об обработке данных и обрабатывает байты изображений только по задокументированным инструкциям Jynx. Обрабатываемые данные, подход к хранению (отдельное хранение изображений в AWS отсутствует) и применимый механизм международной передачи описаны в Политике конфиденциальности §4.8 и §9."
+        "title": "9.7. AWS Rekognition (Image Moderation)",
+        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9."
       },
       "meta": {
-        "title": "9.8. Meta (рекламная атрибуция)",
-        "p1": "Мы используем Meta (Facebook) App Events SDK, чтобы измерять, насколько установки приложения вызваны нашим маркетингом; на устройствах Apple SDK инициализируется только после того, как вы дадите разрешение App Tracking Transparency. Meta Platforms Ireland обрабатывает получающиеся метаданные событий приложения по инструкциям Jynx как обработчик для атрибуции и измерения кампаний, а Meta Platforms, Inc. может дополнительно выступать независимым контролером в своих собственных законных целях на своих собственных условиях. Обрабатываемые данные, условия согласия и применимые механизмы передачи описаны в Политике конфиденциальности §4.9 и §9.",
-        "p2": "Если вы согласитесь, Jynx также передает в Meta ограниченный набор событий конверсии (например, регистрацию и покупки с их суммой) для измерения и улучшения нашей рекламы. Ваши данные никогда не продаются. На iPhone и iPad это требует вашего согласия (GDPR ст. 6(1)(a); LGPD ст. 7, I). На Android это основано либо на этом согласии, либо — там, где переключатель измерения рекламы показан вам по умолчанию включенным, — на законном интересе Jynx (LGPD ст. 7, IX и ст. 10). Свой выбор можно изменить в любой момент в настройках приватности: «Настройки > Приватность > Измерение рекламы». Детали, включая Apple SKAdNetwork (которая применяется к каждому пользователю iOS, даже когда трекинг или измерение рекламы отклонены), описаны в Политике конфиденциальности §5.9."
+        "title": "9.8. Meta (Advertising Attribution)",
+        "p1": "We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.",
+        "p2": "If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9."
       }
     },
     "section10": {
@@ -1170,11 +1170,11 @@
       "law": {
         "title": "12.1. Применимое право",
         "p1": "Настоящие Условия регулируются и толкуются в соответствии с законодательством Франции и применимыми нормативными актами Европейского Союза, без учета принципов коллизионного права.",
-        "regulations": "Применимые нормативные акты: Гражданский кодекс Франции (Code civil), Кодекс потребителей Франции (Code de la consommation), Общий регламент по защите данных (GDPR), Акт ЕС о цифровых услугах (DSA), Директива ЕС о правах потребителей, а для субъектов данных, находящихся в Бразилии, — бразильский Закон о защите персональных данных (Lei Geral de Proteção de Dados, закон 13.709/2018, «LGPD») и бразильский Кодекс защиты потребителей (Código de Defesa do Consumidor, закон 8.078/90, «CDC»)."
+        "regulations": "Применимые нормативные акты: Гражданский кодекс Франции (Code civil), Кодекс потребителей Франции (Code de la consommation), Общий регламент по защите данных (GDPR), Акт ЕС о цифровых услугах (DSA), Директива ЕС о правах потребителей."
       },
       "jurisdiction": {
         "title": "12.2. Юрисдикция",
-        "p1": "Любые споры, возникающие из настоящих Условий или Сервиса, могут быть переданы в компетентные суды Нанта, Франция. Это без ущерба для любого обязательного права, которое вы можете иметь по закону вашей страны проживания, на рассмотрение дела в этой стране, — в частности, для потребителей в ЕС прав, вытекающих из статей 17–19 Брюссельского регламента I bis и применимого права защиты потребителей вашего государства-члена, а для бразильских потребителей — положений CDC."
+        "p1": "Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC."
       },
       "resolution": {
         "title": "12.3. Разрешение споров и арбитраж",
@@ -1186,12 +1186,12 @@
           "li2": "Неформальные переговоры: Мы будем работать с вами добросовестно для достижения мирного решения в течение 30 дней",
           "li3": "Медиация (необязательно): Если неформальное решение не удается, вы можете предложить медиацию через нейтрального стороннего медиатора"
         },
-        "adr_consumer": "<strong>Потребительский ADR (ЕС/Франция):</strong> согласно статьям L. 612-1 и L. 616-6 французского Code de la consommation Jynx Group SAS назначает Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Париж, Франция; тел. +33 1 89 47 00 14; https://www.cm2c.net — сущность потребительской медиации, реферированную Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), в качестве médiateur de la consommation для мирного урегулирования потребительских споров. Прежде чем обращаться к медиатору, вы должны сначала направить вашу жалобу нам на dpo@jynx.app, чтобы мы могли попытаться ее урегулировать. Медиация бесплатна для вас как потребителя, проводится на французском языке и следует процедуре, опубликованной на сайте медиатора (https://www.cm2c.net); медиатор проводит процедуру в течение 90 дней с момента обращения. Вы во всех случаях сохраняете право передать спор суду."
+        "adr_consumer": "<strong>Consumer ADR (EU/France):</strong> In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court."
       },
       "eu_rights": {
         "title": "12.4. Права потребителей ЕС",
         "intro": "Если вы являетесь потребителем в Европейском Союзе, вы сохраняете все обязательные права потребителей в соответствии с законодательством ЕС, включая:",
-        "li1": "14-дневное право на отказ от дистанционных договоров с учетом установленного законом утраты этого права для цифрового контента после начала предоставления с вашего согласия (см. раздел 8.5)",
+        "li1": "14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)",
         "li2": "Право на средства защиты при дефектных продуктах или услугах",
         "li3": "Защита от несправедливых условий контракта",
         "li4": "Право подавать жалобы в местный орган по защите прав потребителей"
@@ -1201,8 +1201,8 @@
         "p1": "Наши методы работы с данными соответствуют Общему регламенту по защите данных (GDPR). См. нашу Политику конфиденциальности для получения подробной информации о сборе, обработке, хранении данных, ваших правах и о том, как связаться с нашим сотрудником по защите данных."
       },
       "lgpd": {
-        "title": "12.6. Соответствие LGPD (бразильские пользователи)",
-        "p1": "Для субъектов данных, находящихся в Бразилии, наша практика обработки данных также соответствует LGPD (Lei Geral de Proteção de Dados, закон 13.709/2018), которая применяется согласно ее ст. 3 независимо от французского местонахождения Jynx. Бразильские пользователи имеют права, изложенные в Политике конфиденциальности §7.7, и могут подавать жалобы в ANPD (Autoridade Nacional de Proteção de Dados). Ничто в настоящих Условиях не лишает бразильского пользователя обязательных мер защиты потребителей, предоставляемых CDC, включая запреты на незапрошенные или злоупотребительные коммерческие сообщения в CDC ст. 39 III. Для ясности: оговорка об исключительной юрисдикции в §12.2 (суды Нанта, Франция) остается в силе для споров, возникающих из настоящих Условий или в связи с ними, без ущерба для любых обязательных прав защиты потребителей, которые не могут быть отклонены по местному праву потребителя."
+        "title": "12.6. LGPD Compliance (Brazilian Users)",
+        "p1": "For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law."
       }
     },
     "section13": {
@@ -1268,44 +1268,44 @@
     },
     "final_acknowledgment": "Используя Jynx, вы подтверждаете, что прочитали, поняли и согласны соблюдать настоящие Условия обслуживания.",
     "section15": {
-      "title": "15. Программа креаторов (партнерская)",
-      "p1": "Если вы участвуете в программе креаторов (партнерской) Jynx, ваше использование программы дополнительно регулируется версионируемыми Условиями реферальной программы креаторов и Мандатом на самовыставление счетов, которые вы принимаете при регистрации (каждая принятая версия неизменяема после принятия) и которые представляются в приложении с идентификатором версии. В случае конфликта по вопросам программы преобладают Условия креаторов; в остальном применяются настоящие Условия и Политика конфиденциальности.",
-      "p2": "Идентификационные, платежные и налоговые сведения, которые требует программа, — такие как CPF или CNPJ и выбранный вами канал выплаты (PayPal, Wise или Pix), — и задействованные обработчики описаны в Политике конфиденциальности §4.10."
+      "title": "15. Creator (Partner) Program",
+      "p1": "If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.",
+      "p2": "The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10."
     }
   },
   "nav": {
     "home": "Главная",
-    "solution": "Функции",
-    "feedback": "Контакты",
+    "solution": "Решение",
+    "feedback": "Отзывы",
     "download": "Скачать",
     "blog": "Блог",
-    "games": "Игры",
+    "games": "Games",
     "search": "Поиск",
     "search_aria": "Поиск статей",
-    "glossary": "Глоссарий",
+    "glossary": "Glossary",
     "open_jynx": "Открыть Jynx"
   },
   "header": {
     "cta": "Получить Jynx"
   },
   "hero": {
-    "title": "Компаньон-приложение нового поколения для геймеров",
-    "deck": "МАТЧ. ОБЩЕНИЕ. ИГРА. — нативные голосовые комнаты там, где собирается команда.",
-    "app_store_small": "Загрузить для",
-    "app_store_large": "Apple iOS",
-    "play_store_small": "Загрузить для",
-    "play_store_large": "Android",
-    "macos_note": "Приложение для Mac уже в пути."
+    "title": "The Next-Gen Companion App for Gamers",
+    "deck": "MATCH. TALK. PLAY. — native voice rooms where the squad formed.",
+    "app_store_small": "Загрузить в",
+    "app_store_large": "App Store",
+    "play_store_small": "ДОСТУПНО В",
+    "play_store_large": "Google Play",
+    "macos_note": "Mac app on the way."
   },
   "proof": {
-    "summary": "Оценка {play_rating} в Google Play в {market} ({play_count} оценок, {downloads} установок) · Новинка в App Store · по состоянию на {as_of_month_year}.",
-    "fallback": "Новинка в Google Play и App Store — оценки магазина и счетчики установок появятся здесь по мере роста сообщества."
+    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
+    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
   },
   "features": {
     "title": "Играй лучше, играй вместе",
     "subtitle": "Интеллектуальные инструменты игрового сообщества, созданные для современных игроков",
     "description": "Хватит кричать в пустоту. Jynx превращает одиночную игру в социальный опыт, интеллектуально объединяя товарищей по команде на основе игровых предпочтений, стилей игры и совместимости расписания",
-    "destination": "Находите, матчьте и общайтесь в одном месте: Jynx сочетает матчмейкинг с нативными голосовыми комнатами, поэтому команда собирается и играет в одном приложении.",
+    "destination": "Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.",
     "title_seo": "Играй лучше, играй вместе с умным матчмейкингом",
     "cards": {
       "scheduling": {
@@ -1380,7 +1380,7 @@
     },
     "optional": "Необязательно",
     "submitting": "Отправка...",
-    "success": "Вы в деле! Спасибо за регистрацию.",
+    "success": "You're in! Thanks for signing up.",
     "error": "Упс! Что-то пошло не так. Пожалуйста, попробуй снова.",
     "nojs_note": "Это откроет ваш почтовый клиент. Для лучшего опыта, пожалуйста, включите JavaScript.",
     "errors": {
@@ -1399,23 +1399,23 @@
   },
   "feedback": {
     "title": "Твои предложения — наш приоритет",
-    "feedback": "Твой отзыв (необязательно)",
+    "feedback": "Твой отзыв",
     "feedback_label": "Твое сообщение",
-    "subtitle": "Никакого спама. Мы пишем только о важных новостях и обновлениях Jynx.",
+    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
     "yes": "Да",
     "no": "Нет",
     "textarea": "Расскажи нам, что ты хочешь добавить или изменить в Jynx",
     "submit": "Отправить",
     "note": "Бесплатно навсегда",
     "submitting": "Отправка...",
-    "thanks_feedback": "Спасибо за ваш отзыв!",
-    "thanks_combined": "Спасибо за ваш отзыв — это очень ценно!",
+    "thanks_feedback": "Thanks for your feedback!",
+    "thanks_combined": "Thanks for your feedback — it means a lot!",
     "error": "Не удалось отправить отзыв. Пожалуйста, попробуй снова.",
     "error_empty": "Пожалуйста, укажи свой email или отзыв.",
     "badge_free": "Бесплатно навсегда",
     "badge_notoxic": "Без токсичности",
-    "badge_community": "Создано сообществом",
-    "thanks_email": "Спасибо! Мы на связи."
+    "badge_community": "Движение сообщества",
+    "thanks_email": "Thanks! We'll be in touch."
   },
   "footer": {
     "company": {
@@ -1423,13 +1423,13 @@
       "about": "О нас",
       "about_seo": "О платформе игрового сообщества Jynx",
       "blog": "Блог",
-      "games": "Игры",
-      "glossary": "Глоссарий",
+      "games": "Games",
+      "glossary": "Glossary",
       "search": "Поиск"
     },
     "support": {
       "title": "Поддержка",
-      "contact": "Связаться с нами"
+      "contact": "Contact Us"
     },
     "legal": {
       "title": "Юридическая информация",
@@ -1444,7 +1444,7 @@
       "title": "Скачать",
       "app_store": "App Store",
       "google_play": "Google Play",
-      "web_app": "Веб-приложение"
+      "web_app": "Web App"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Все права защищены.",
     "language": "Язык"
@@ -1462,8 +1462,8 @@
     "theme_toggle": "Переключить темный режим",
     "language_selector": "Выбрать язык",
     "close_modal": "Закрыть модальное окно",
-    "ms_store_badge_aria": "Скачать Jynx в Microsoft Store",
-    "ms_store_badge_alt": "Бейдж скачивания в Microsoft Store"
+    "ms_store_badge_aria": "Download Jynx on the Microsoft Store",
+    "ms_store_badge_alt": "Microsoft Store download badge"
   },
   "breadcrumb": {
     "home": "Главная",
@@ -1471,9 +1471,9 @@
     "download": "Скачать",
     "privacy": "Политика конфиденциальности",
     "terms": "Условия использования",
-    "blog": "Блог",
+    "blog": "Blog",
     "delete_account": "Удалить Аккаунт",
-    "invite": "Приглашение"
+    "invite": "Invite"
   },
   "theme-feedback": {
     "submit": "Отправить отзыв",
@@ -1539,19 +1539,19 @@
       "subtitle": "Общайся с геймерами, находи товарищей по команде, вступай в сообщества",
       "title_line1": "Jynx",
       "title_line2": "Игровая Социальная Платформа",
-      "h1_line1": "Скачать Jynx",
-      "h1_line2": "Бесплатное LFG-приложение для поиска игровых тиммейтов",
-      "tagline": "Матчтесь с совместимыми тиммейтами и дуо для ваших игр — бесплатно на iOS, Android, Windows и в вебе. Приложение для Mac уже в пути.",
-      "web_cta": "Или играйте сразу в вебе"
+      "h1_line1": "Download Jynx",
+      "h1_line2": "The Free LFG App for Gaming Teammates",
+      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web. A Mac app is on the way.",
+      "web_cta": "Or play instantly on the web"
     },
     "store": {
       "app_store": {
-        "text_small": "Загрузить для",
-        "text_large": "Apple iOS"
+        "text_small": "Загрузить в",
+        "text_large": "App Store"
       },
       "google_play": {
-        "text_small": "Загрузить для",
-        "text_large": "Android"
+        "text_small": "Доступно в",
+        "text_large": "Google Play"
       }
     },
     "signup": {},
@@ -1563,7 +1563,7 @@
     },
     "info": {
       "title": "Преобрази свой игровой опыт",
-      "description": "Jynx превращает одиночную игру в социальный опыт, интеллектуально соединяя игроков на основе игровых предпочтений, стилей игры и интересов сообществ. Найдите свою идеальную игровую команду и больше никогда не играйте в одиночку."
+      "description": "Присоединяйтесь к геймерам по всему миру, которые нашли свои идеальные отряды с интеллектуальным матчмейкингом Jynx"
     },
     "js_messages": {
       "share_twitter": "Посмотри на Jynx - игровую социальную платформу, которая превращает одиночную игру в социальный опыт! 🎮",
@@ -1603,105 +1603,105 @@
       "thanks": "Спасибо за помощь в разработке интерфейса приложения!"
     },
     "intro": {
-      "title": "Компаньон-приложение для геймеров",
-      "description": "Jynx — компаньон-приложение нового поколения для геймеров: бесплатное LFG-приложение, которое матчтит вас с совместимыми тиммейтами по игре, рангу и стилю игры — вместо бесконечной прокрутки LFG-каналов."
+      "title": "The companion app for gamers",
+      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
     },
     "install": {
-      "title": "Установите Jynx на iOS, Android, Windows или в вебе",
-      "subtitle": "Jynx доступен во всех трех магазинах приложений и в вашем браузере — выберите платформу и начните матчмейкинг за считанные минуты.",
+      "title": "Get Jynx on iOS, Android, Windows, or the web",
+      "subtitle": "Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.",
       "ios": {
-        "title": "Находите тиммейтов на iOS",
-        "description": "Скачайте приложение из App Store и найдите игровых товарищей, подходящих вам по уровню игры. Требуется iOS 13.0 или новее."
+        "title": "Find teammates on iOS",
+        "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
       },
       "android": {
-        "title": "Найдите свое дуо на Android",
-        "description": "Установите приложение для поиска дуо из Google Play и обзаведитесь игровыми друзьями за считанные минуты. Требуется Android 8.0 или новее."
+        "title": "Find your duo on Android",
+        "description": "Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later."
       },
       "web": {
-        "title": "Играйте в вебе",
-        "description": "Откройте веб-приложение Jynx в браузере и сразу начинайте матчмейкинг — без скачивания и установки. Работает на компьютере и мобильных.",
-        "cta": "Играть в вебе"
+        "title": "Play on the web",
+        "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
+        "cta": "Play on the web"
       },
       "windows": {
-        "title": "Находите тиммейтов на Windows",
-        "description": "Установите приложение для поиска дуо из Microsoft Store и обзаведитесь игровыми друзьями за считанные минуты."
+        "title": "Find teammates on Windows",
+        "description": "Get the duo finder app from the Microsoft Store and meet gaming friends in minutes."
       },
       "macos": {
-        "title": "Jynx для Mac уже в пути",
-        "description": "Приложение для Mac в разработке для Mac App Store. Хотите узнать о выходе первым? Напишите нам через форму обратной связи.",
-        "status": "В разработке",
-        "cta": "Уведомить меня"
+        "title": "Jynx for Mac is on the way",
+        "description": "The Mac app is in development for the Mac App Store. Want to hear when it lands? Tell us on the feedback form.",
+        "status": "In development",
+        "cta": "Get notified"
       }
     },
     "free": {
-      "title": "Бесплатное LFG-приложение — бесплатно навсегда, без подвоха",
-      "description": "Jynx — бесплатное приложение для игровых друзей: аккаунт, матчмейкинг, чат и сообщества ничего не стоят, и между вами и следующим дуо нет пейволла."
+      "title": "A free LFG app — free forever, no catch",
+      "description": "Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo."
     },
     "faq": {
-      "cta_heading": "FAQ О СКАЧИВАНИИ",
-      "cta_subtitle": "Прежде чем устанавливать",
-      "cta_write_to_us": "Остались вопросы?",
-      "cta_button": "Спросите нас",
+      "cta_heading": "DOWNLOAD FAQ",
+      "cta_subtitle": "Before you install",
+      "cta_write_to_us": "Still have questions?",
+      "cta_button": "Ask us",
       "devices": {
-        "q": "На каких устройствах доступен Jynx?",
-        "a": "Jynx доступен на iOS, Android, Windows и в вебе — то же приложение в вашем браузере на web.jynx.app. Приложение для Mac в разработке."
+        "q": "What devices is Jynx available on?",
+        "a": "Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app. A Mac app is in development."
       },
       "how": {
-        "q": "Как скачать Jynx?",
-        "a": "Скачайте Jynx из Apple App Store или Google Play — или играйте сразу в вебе на web.jynx.app, без установки."
+        "q": "How do I download Jynx?",
+        "a": "Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed."
       },
       "requirements": {
-        "q": "Каковы системные требования?",
-        "a": "Jynx требует iOS 13.0 или новее для iPhone и Android 8.0 или новее для устройств на Android."
+        "q": "What are the system requirements?",
+        "a": "Jynx requires iOS 13.0 or later for iPhone, and Android 8.0 or later for Android devices."
       },
       "apk": {
-        "q": "Есть ли APK-файл Jynx для скачивания?",
-        "a": "Нет. Jynx доступен только через официальные карточки Apple App Store и Google Play. Мы не публикуем APK, а сторонние APK-сайты не являются официальными источниками — там могут быть устаревшие или модифицированные сборки."
+        "q": "Is there a Jynx APK to download?",
+        "a": "No. Jynx is available only through the official Apple App Store and Google Play listings. We do not publish an APK, and third-party APK sites are not official sources — they may serve outdated or modified builds."
       }
     }
   },
   "comparisons": {
-    "cta_download": "Скачать Jynx",
-    "cta_more": "Читать еще от Jynx",
-    "cta_paragraph": "Самая честная проверка любого приложения для матчмейкинга — ваш собственный игровой распорядок. Jynx бесплатен для всего цикла матчмейкинга: установите, настройте профиль и посмотрите, победит ли подбор по совместимости альтернативы в играх, в которые вы реально играете.",
-    "hub_label": "Сравнения",
-    "label_by": "От",
-    "label_category": "Категория:",
-    "label_cons": "Минусы",
-    "label_home": "Главная:",
-    "label_key_strengths": "Ключевые сильные стороны",
-    "label_maker": "Разработчик:",
-    "label_platforms": "Платформы:",
-    "label_price": "Цена:",
-    "label_pros": "Плюсы",
-    "label_published": "Опубликовано",
-    "label_recommendation": "Рекомендация:",
-    "section_contenders": "Участники сравнения",
-    "section_cta": "Попробуйте Jynx сами",
-    "section_faq": "Часто задаваемые вопросы",
-    "section_feature": "Функция",
-    "section_intro": "Введение",
-    "section_quick_answer": "Короткий ответ",
-    "section_related": "Похожие сравнения",
-    "section_use_cases": "Реальные сценарии — кто что выбирает",
-    "table_heading_best": "Мастер-таблица сравнения — {apps} приложений × {features} функций",
-    "table_heading_vs": "Прямое сравнение функций — {features} функций",
-    "table_intro_best": "Оценка каждой функции у каждого участника. Колонка Jynx выделена, потому что статья редакционно подписана основателем Jynx — прежде чем делать выводы, прочтите явный раздел «где Jynx проигрывает» ниже.",
-    "table_intro_vs": "Каждая функция, где продукты различаются, — включая строки, где Jynx проигрывает. Колонка Jynx выделена, потому что статья подписана основателем Jynx.",
-    "who_picks_format": "Кому стоит выбрать {name}"
+    "cta_download": "Download Jynx",
+    "cta_more": "Read more from Jynx",
+    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
+    "hub_label": "Comparisons",
+    "label_by": "By",
+    "label_category": "Category:",
+    "label_cons": "Cons",
+    "label_home": "Home:",
+    "label_key_strengths": "Key strengths",
+    "label_maker": "Maker:",
+    "label_platforms": "Platforms:",
+    "label_price": "Price:",
+    "label_pros": "Pros",
+    "label_published": "Published",
+    "label_recommendation": "Recommendation:",
+    "section_contenders": "The contenders",
+    "section_cta": "Try Jynx for yourself",
+    "section_faq": "Frequently asked questions",
+    "section_feature": "Feature",
+    "section_intro": "Introduction",
+    "section_quick_answer": "Quick answer",
+    "section_related": "Related comparisons",
+    "section_use_cases": "Real use cases — who picks what",
+    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
+    "table_heading_vs": "Head-to-head feature comparison — {features} features",
+    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
+    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
+    "who_picks_format": "Who should pick {name}"
   },
   "comparison": {
-    "title": "Весь цикл — в одном приложении.",
-    "intro": "Свайп, матч — и вы уже общаетесь. Голосовые комнаты и чат живут в том же приложении, где вы нашли свою команду: без второго приложения, без прыжков по серверам, без пересылки ссылок, чтобы попасть в звонок.",
+    "title": "The whole loop, in one app.",
+    "intro": "Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
     "table": {
       "feature": "Функция",
       "lfg": "Традиционный LFG",
-      "match_to_voice": "Матч → голосовая комната в один тап",
-      "native_voice_chat": "Нативный голосовой чат — групповые комнаты, звонки 1:1, всегда включенные Chill Rooms",
-      "screen_share": "Демонстрация экрана в голосовых комнатах",
-      "play_now_matchmaking": "Play Now — мгновенный матчмейкинг",
-      "smart_team_builder": "Умный сборщик команд",
-      "game_session_matchmaking": "Игровые сессии — планирование и организация",
+      "match_to_voice": "Match → Voice Room in One Tap",
+      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
+      "screen_share": "Screen Sharing in Voice Rooms",
+      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "smart_team_builder": "Smart Team Builder",
+      "game_session_matchmaking": "Game Sessions — schedule and organize play",
       "elo_matching": "Подбор по навыкам (ELO)",
       "community_search": "Поиск и открытие сообществ",
       "chat": "Чат в реальном времени",
@@ -1718,30 +1718,30 @@
       "basic": "Базовый",
       "by_game_skill": "По игре, рангу и языку",
       "on_computer_only": "Только на компьютере",
-      "servers": "Сначала ищи сервер",
+      "servers": "Find a server first",
       "teams": "Команды",
       "advanced": "Расширенный",
-      "planned": "В планах",
+      "planned": "Planned",
       "game_apis": "API игр",
       "general": "Общий",
       "varies": "Варьируется",
       "free_jynx_plus": "Бесплатно / Jynx+",
       "free_varies": "Бесплатно/Варьируется"
     },
-    "roadmap_note": "В роадмапе: демонстрация экрана в голосовых комнатах, интеграция профиля игрока и умный сборщик команд — автоматически собранные сбалансированные команды",
-    "footnote": "Сравнение по состоянию на ноябрь 2026 года. Discord и традиционный LFG отражают их публично доступные функции; колонка Jynx отражает возможности приложения Jynx.",
+    "roadmap_note": "On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams",
+    "footnote": "Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
     "cta": {
       "title": "Готов ощутить разницу?",
       "description": "Присоединяйтесь к геймерам по всему миру, находящим свои идеальные команды с ИИ-матчмейкингом Jynx",
       "button": "Начни подбор с ИИ - Бесплатно навсегда"
     },
-    "vs_link": "Хотите полный разбор? Читайте написанное основателем прямое сравнение: <a href=\"/vs/jynx-vs-discord.html\">Jynx против LFG в Discord</a> — 16 функций, включая честные поражения."
+    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
   },
   "personas": {
-    "main_title": "ДЛЯ КОГО JYNX",
-    "subtitle_prefix": "ТИПЫ ИГРОКОВ,",
-    "subtitle_highlight": "КОТОРЫЕ НАМ ПОДХОДЯТ",
-    "type_badge": "Тип игрока",
+    "main_title": "WHO JYNX IS FOR",
+    "subtitle_prefix": "THE PLAYER",
+    "subtitle_highlight": "TYPES WE MATCH",
+    "type_badge": "Player type",
     "persona1": {
       "quote": "Поиск постоянных тиммейтов на моем ELO не должен означать спам в Discord часами. Мне нужны игроки, которые общаются, приходят вовремя и действительно играют на своей основной роли.",
       "name": "Рейтинговый Гриндер",
@@ -1764,15 +1764,15 @@
     }
   },
   "reviews": {
-    "title": "Реальные отзывы из Google Play",
+    "title": "Real reviews from Google Play",
     "summary": {
-      "ratings": "{play_count} оценок в Google Play в {market}",
-      "as_of": "по состоянию на {as_of_month_year}",
-      "stars_aria": "{play_rating} из 5 звезд"
+      "ratings": "{play_count} ratings on Google Play in {market}",
+      "as_of": "as of {as_of_month_year}",
+      "stars_aria": "{play_rating} out of 5 stars"
     },
-    "read_all": "Читать все отзывы в Google Play",
+    "read_all": "Read all reviews on Google Play",
     "card": {
-      "source": "через Google Play"
+      "source": "via Google Play"
     }
   },
   "faq": {
@@ -1783,23 +1783,23 @@
     "cta_button": "Свяжитесь с нами!",
     "q1": {
       "question": "Есть ли приложение типа Tinder для геймеров, чтобы найти товарищей по команде?",
-      "answer": "Да, и давно пора. Традиционный LFG сломан — ты спамишь LFG-каналы, постишь в сабреддитах трехдневной давности и надеешься, что кто-то, кто говорит на твоем языке и играет на твоем ранге, реально онлайн, когда и ты тоже. Это не система, это лотерея с твоим временем.<br><br>Jynx позволяет фильтровать по тому, что реально важно: совместимые расписания, похожие уровни навыков и общие игровые предпочтения. Ты свайпаешь потенциальных тиммейтов, которые соответствуют ТВОИМ критериям, пропускаешь неловкие холодные сообщения и общаешься только с игроками, которые реально доступны, когда ты хочешь играть.<br><br>Разница? Ты не кричишь в пустоту, надеясь, что кто-то ответит. Ты видишь только людей, которые уже соответствуют твоей доступности, говорят на твоем языке и играют в твои игры. Меньше времени на спам 'LFG' в чате, больше времени в игре с людьми, с которыми ты реально захочешь играть снова. И когда вы оба свайпнете вправо, голосовая комната — в одном тапе, прямо внутри приложения."
+      "answer": "Да, и давно пора. Традиционный LFG сломан — ты спамишь Discord-каналы, постишь в сабреддитах трехдневной давности и надеешься, что кто-то, кто говорит на твоем языке и играет на твоем ранге, реально онлайн, когда и ты тоже. Это не система, это лотерея с твоим временем.<br><br>Jynx позволяет фильтровать по тому, что реально важно: совместимые расписания, похожие уровни навыков и общие игровые предпочтения. Ты свайпаешь потенциальных тиммейтов, которые соответствуют ТВОИМ критериям, пропускаешь неловкие холодные сообщения и общаешься только с игроками, которые реально доступны, когда ты хочешь играть.<br><br>Разница? Ты не кричишь в пустоту, надеясь, что кто-то ответит. Ты видишь только людей, которые уже соответствуют твоей доступности, говорят на твоем языке и играют в твои игры. Меньше времени на спам 'LFG' в чате, больше времени в игре с людьми, с которыми ты реально захочешь играть снова."
     },
     "q2": {
       "question": "Как встретить геймеров онлайн и создать игровую группу друзей?",
-      "answer": "Найти геймеров легко. Найти ПРАВИЛЬНЫХ геймеров — вот где все проваливаются.<br><br>Тебе нужны тиммейты, которые доступны, когда ты играешь, общаются на твоем языке и соответствуют твоему уровню навыков. Это не слишком много — это минимум.<br><br><strong>Что реально работает:</strong><br><strong>• Фильтруй до того, как обязаться</strong> — Просматривай профили игроков со статистикой, доступностью и стилем игры перед подключением<br><strong>• Приоритет совместимости</strong> — Часовой пояс, ранг и стиль общения важнее, чем просто играть в одну и ту же игру<br><strong>• Строй постепенно</strong> — Сосредоточься на поиске 2-3 надежных тиммейтов, а не на вступлении в мега-сообщества, где значимые связи установить сложнее<br><br>Избегай платформ, которые заставляют тебя спамить 'LFG' и надеяться на ответы. Твое время стоит большего."
+      "answer": "Найти геймеров легко. Найти ПРАВИЛЬНЫХ геймеров — вот где все проваливаются.<br><br>Тебе нужны тиммейты, которые доступны, когда ты играешь, общаются на твоем языке и соответствуют твоему уровню навыков. Это не слишком много — это минимум.<br><br><strong>Что реально работает:</strong><br><strong>• Фильтруй до того, как обязаться</strong> — Просматривай профили игроков с проверенной статистикой, доступностью и стилем игры перед подключением<br><strong>• Приоритет совместимости</strong> — Часовой пояс, ранг и стиль общения важнее, чем просто играть в одну и ту же игру<br><strong>• Строй постепенно</strong> — Сосредоточься на поиске 2-3 надежных тиммейтов, а не на вступлении в мега-сообщества, где значимые связи установить сложнее<br><br>Избегай платформ, которые заставляют тебя спамить 'LFG' и надеяться на ответы. Твое время стоит большего."
     },
     "q3": {
       "question": "Как найти товарищей по команде для рейтинговых игр в League of Legends и Valorant?",
-      "answer": "Найти хороших тиммейтов для рейтинговых — это не про количество, а про совместимость. Игра с рандомами, которые не общаются, рейдж-квитят после первой крови или играют на ролях, в которых им некомфортно, стоит тебе LP и нервов.<br><br>На что обращать внимание у тиммейтов для рейтинговых:<br><strong>• Реальный ранг</strong> — Убедись, что они реально на твоем ELO (не смурфят и не бустнутые)<br><strong>• Совместимость ролей</strong> — Проверь их пул чемпионов и предпочитаемые роли перед очередью<br><strong>• Постоянная доступность</strong> — Гринд рейтинговых требует регулярной игры — найди людей с похожим расписанием<br><strong>• Стиль общения</strong> — Некоторые игроки предпочитают шотколлинг, другие хотят минимального чата. Определись с этим заранее.<br><br>Лучший подход? Используй платформы с фильтрами по реальному рангу, роли и расписанию — сначала фильтр, потом чат. Ты потратишь меньше времени на доджи в выборе чемпионов и больше времени на подъем. <a href=\"/blog/league-of-legends-teammate-guide.html\">Мы написали гайд по поиску тиммейтов в League</a> — и вот <a href=\"/blog/ai-gaming-matchmaking-guide.html\">как ИИ-матчмейкинг реально работает под капотом</a>."
+      "answer": "Найти хороших тиммейтов для рейтинговых — это не про количество, а про совместимость. Игра с рандомами, которые не общаются, рейдж-квитят после первой крови или играют на ролях, в которых им некомфортно, стоит тебе LP и нервов.<br><br>На что обращать внимание у тиммейтов для рейтинговых:<br><strong>• Проверенный ранг</strong> — Убедись, что они реально на твоем ELO (не смурфят и не бустнутые)<br><strong>• Совместимость ролей</strong> — Проверь их пул чемпионов и предпочитаемые роли перед очередью<br><strong>• Постоянная доступность</strong> — Гринд рейтинговых требует регулярной игры — найди людей с похожим расписанием<br><strong>• Стиль общения</strong> — Некоторые игроки предпочитают шотколлинг, другие хотят минимального чата. Определись с этим заранее.<br><br>Лучший подход? Используй платформы, которые проверяют ранги игроков через Riot's API и позволяют фильтровать по роли, расписанию и предпочтениям общения. Ты потратишь меньше времени на доджи в выборе чемпионов и больше времени на подъем. <a href=\"/blog/league-of-legends-teammate-guide\">Мы написали гайд по поиску тиммейтов в League</a> — и вот <a href=\"/blog/ai-gaming-matchmaking-guide\">как ИИ-матчмейкинг реально работает под капотом</a>."
     },
     "q4": {
       "question": "Какие есть лучшие альтернативы Discord для поиска игровых товарищей по команде?",
-      "answer": "Discord отлично подходит для общения с тиммейтами, которые у тебя УЖЕ есть. Для поиска новых? Не тот инструмент.<br><br>Реальность: постить 'LFG' на сервере с 10 000 участников означает, что твое сообщение будет похоронено за минуты. У тебя нет способа фильтровать по уровню навыков, доступности или стилю игры перед обращением. И самое главное — ты делаешь всю работу. Спамишь каналы, пишешь незнакомцам в ЛС, надеешься, что кто-то ответит.<br><br><strong>То, что тебе реально нужно — это платформа, созданная для поиска:</strong><br><strong>• Профили игроков</strong> — Видишь ранг, расписание и предпочитаемые роли кого-то ДО отправки сообщения<br><strong>• Умная фильтрация</strong> — Поиск по критериям, которые важны (язык, часовой пояс, уровень навыков)<br><strong>• Активный подбор</strong> — Получай рекомендации вместо того, чтобы кричать в пустоту<br><br>Jynx замыкает этот цикл в одном приложении: матч, совместная голосовая комната — групповая, 1:1 или всегда включенная Chill Room — без выхода из разговора, который начался со свайпа. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking.html\">Узнай, как LFG эволюционировал от форумов к умному матчмейкингу</a>. Полное сравнение бок о бок — в написанном основателем разборе <a href=\"/vs/jynx-vs-discord.html\">Jynx против LFG в Discord</a> — 16 функций, включая случаи, когда побеждает Discord."
+      "answer": "Discord отлично подходит для общения с тиммейтами, которые у тебя УЖЕ есть. Для поиска новых? Не тот инструмент.<br><br>Реальность: постить 'LFG' на сервере с 10 000 участников означает, что твое сообщение будет похоронено за минуты. У тебя нет способа фильтровать по уровню навыков, доступности или стилю игры перед обращением. И самое главное — ты делаешь всю работу. Спамишь каналы, пишешь незнакомцам в ЛС, надеешься, что кто-то ответит.<br><br><strong>То, что тебе реально нужно — это платформа, созданная для поиска:</strong><br><strong>• Профили игроков</strong> — Видишь ранг, расписание и предпочитаемые роли кого-то ДО отправки сообщения<br><strong>• Умная фильтрация</strong> — Поиск по критериям, которые важны (язык, часовой пояс, уровень навыков)<br><strong>• Активный подбор</strong> — Получай рекомендации вместо того, чтобы кричать в пустоту<br><br>Цель не в том, чтобы заменить Discord — а в том, чтобы использовать правильный инструмент для поиска, а затем перейти в Discord для голосового чата, когда найдешь совместимых тиммейтов. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Узнай, как LFG эволюционировал от форумов к умному матчмейкингу</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
     },
     "q5": {
       "question": "Есть ли бесплатные приложения и платформы для игрового матчмейкинга?",
-      "answer": "Да, и тебе не должно быть нужно платить только за то, чтобы найти тиммейтов. Многие платформы предлагают надежные бесплатные уровни, которые включают все основное: поиск игроков, просмотр профилей, чат и планирование сессий.<br><br><strong>Чего ожидать от бесплатных уровней:</strong><br>• Основные функции матчмейкинга (поиск, фильтр, подключение)<br>• Профили игроков со статистикой<br>• Базовый обмен сообщениями и планирование сессий<br><br><strong>Что обычно добавляют премиум-уровни:</strong><br>• Неограниченное количество ежедневных совпадений/свайпов<br>• Расширенные фильтры (очень специфические критерии)<br>• Косметические улучшения (значки, настройка профиля)<br><br><strong>Красные флаги, которых стоит избегать:</strong><br>• Пэйволл на базовые функции вроде сообщений или просмотра, кто с тобой совпал<br>• Принуждение платить за просмотр своих матчей или отправку сообщений тиммейтам<br>• Отсутствие бесплатного уровня вообще (если они уверены в своем продукте, они должны дать тебе попробовать)<br><br>Твое время ценнее подписок. Сосредоточься на платформах с щедрыми бесплатными уровнями, чтобы протестировать перед тем, как привязываться."
+      "answer": "Да, и тебе не должно быть нужно платить только за то, чтобы найти тиммейтов. Многие платформы предлагают надежные бесплатные уровни, которые включают все основное: поиск игроков, просмотр профилей, чат и планирование сессий.<br><br><strong>Чего ожидать от бесплатных уровней:</strong><br>• Основные функции матчмейкинга (поиск, фильтр, подключение)<br>• Профили игроков со статистикой<br>• Базовый обмен сообщениями и планирование сессий<br><br><strong>Что обычно добавляют премиум-уровни:</strong><br>• Неограниченное количество ежедневных совпадений/свайпов<br>• Расширенные фильтры (очень специфические критерии)<br>• Косметические улучшения (значки, настройка профиля)<br><br><strong>Красные флаги, которых стоит избегать:</strong><br>• Пэйволл на базовые функции вроде сообщений или просмотра, кто с тобой совпал<br>• Принуждение платить за проверку ранга или привязку аккаунтов<br>• Отсутствие бесплатного уровня вообще (если они уверены в своем продукте, они должны дать тебе попробовать)<br><br>Твое время ценнее подписок. Сосредоточься на платформах с щедрыми бесплатными уровнями, чтобы протестировать перед тем, как привязываться."
     }
   },
   "how_it_works": {
@@ -2021,120 +2021,120 @@
   },
   "invite": {
     "meta": {
-      "title": "Присоединяйтесь к Jynx - игровая социальная платформа",
-      "description": "Вас пригласили подключиться к Jynx - игровой социальной платформе, где геймеры находят своих идеальных тиммейтов.",
-      "og_title": "Присоединяйтесь ко мне в Jynx",
-      "og_description": "Вас пригласили подключиться к Jynx - игровой социальной платформе",
-      "og_image_alt": "Приглашение Jynx",
-      "twitter_title": "Присоединяйтесь ко мне в Jynx",
-      "twitter_description": "Вас пригласили подключиться к Jynx - игровой социальной платформе",
-      "twitter_image_alt": "Приглашение Jynx"
+      "title": "Join Jynx - Gaming Social Platform",
+      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
+      "og_title": "Join me on Jynx",
+      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "og_image_alt": "Jynx Invite",
+      "twitter_title": "Join me on Jynx",
+      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
+      "twitter_image_alt": "Jynx Invite"
     },
-    "heading": "Вас пригласили подключиться к Jynx",
-    "subtitle": "Игровая социальная платформа",
-    "open_app_btn": "Открыть в приложении Jynx",
+    "heading": "You've been invited to connect on Jynx",
+    "subtitle": "The gaming social platform",
+    "open_app_btn": "Open in Jynx App",
     "fallback": {
-      "title": "Еще нет приложения?",
-      "subtitle": "Скачайте Jynx, чтобы подключиться по вашему приглашению",
-      "app_store": "Скачать в",
-      "play_store": "Установить из",
-      "web_app": "Или продолжить в веб-приложении",
-      "web_app_desktop": "Продолжить в веб-приложении"
+      "title": "Don't have the app yet?",
+      "subtitle": "Download Jynx to connect with your invite",
+      "app_store": "Download on",
+      "play_store": "Get it on",
+      "web_app": "Or continue on the web app",
+      "web_app_desktop": "Continue on the web app"
     }
   },
   "games": {
-    "breadcrumb_label": "Навигационная цепочка",
-    "breadcrumb_home": "Главная",
-    "breadcrumb_games": "Игры",
-    "label_last_updated": "Последнее обновление",
-    "label_author": "Автор:",
-    "label_game": "Игра:",
-    "label_download_ios": "Скачать Jynx в App Store",
-    "label_download_android": "Установить Jynx из Google Play",
-    "label_download_on": "Скачать в",
-    "label_get_it_on": "Установить из",
+    "breadcrumb_label": "Breadcrumb",
+    "breadcrumb_home": "Home",
+    "breadcrumb_games": "Games",
+    "label_last_updated": "Last updated",
+    "label_author": "Author:",
+    "label_game": "Game:",
+    "label_download_ios": "Download Jynx on the App Store",
+    "label_download_android": "Get Jynx on Google Play",
+    "label_download_on": "Download on",
+    "label_get_it_on": "Get it on",
     "label": {
-      "rank_rule": "Правило рангового разрыва:",
-      "last_verified": "Последняя проверка",
-      "stat_source": "Источник",
-      "stat_as_of": "по состоянию на"
+      "rank_rule": "Rank-gap rule:",
+      "last_verified": "Last verified",
+      "stat_source": "Source",
+      "stat_as_of": "as of"
     },
     "section": {
-      "why": "Почему этот поиск дуо",
-      "ranks": "Ранги",
-      "roles": "Роли",
-      "queues": "Типы очередей",
-      "tips": "Советы",
-      "competitors": "Похожие инструменты",
-      "tools": "Ландшафт LFG-инструментов",
-      "pain": "Болевые точки",
+      "why": "Why this duo finder",
+      "ranks": "Ranks",
+      "roles": "Roles",
+      "queues": "Queue types",
+      "tips": "Tips",
+      "competitors": "Comparable tools",
+      "tools": "LFG tools landscape",
+      "pain": "Pain points",
       "faq": "FAQ",
-      "crosslinks": "Похожее",
-      "quick_answer": "Короткий ответ",
-      "what_looks_like": "Как выглядит LFG",
-      "key_stats": "Численность игроков",
-      "comparison": "Сравнение",
-      "archetypes": "Типы игроков"
+      "crosslinks": "Related",
+      "quick_answer": "Quick answer",
+      "what_looks_like": "What LFG looks like",
+      "key_stats": "Player numbers",
+      "comparison": "Comparison",
+      "archetypes": "Player types"
     },
     "heading": {
-      "why": "Почему специализированный поиск дуо",
-      "ranks": "Ранги",
-      "roles": "Роли",
-      "queues": "Типы очередей",
-      "competitors": "Другие LFG-инструменты",
-      "tools": "Ландшафт LFG-инструментов (2026)",
-      "pain": "Игровые болевые точки LFG",
-      "faq": "Часто задаваемые вопросы",
-      "crosslinks": "Похожие материалы Jynx",
-      "quick_answer": "LFG за 60 секунд",
-      "what_looks_like": "Как выглядит LFG в 2026 году",
-      "key_stats": "Численность игроков",
-      "archetypes": "Каким бы игроком вы ни были",
-      "faq_duo": "FAQ поиска дуо",
-      "faq_guide": "FAQ LFG"
+      "why": "Why a purpose-built duo finder",
+      "ranks": "Ranks",
+      "roles": "Roles",
+      "queues": "Queue types",
+      "competitors": "Other LFG tools",
+      "tools": "LFG tools landscape (2026)",
+      "pain": "Game-specific LFG pain points",
+      "faq": "Frequently asked questions",
+      "crosslinks": "Related Jynx resources",
+      "quick_answer": "LFG in 60 seconds",
+      "what_looks_like": "What LFG looks like in 2026",
+      "key_stats": "Player numbers",
+      "archetypes": "Whatever kind of player you are",
+      "faq_duo": "Duo finder FAQ",
+      "faq_guide": "LFG FAQ"
     },
     "intro": {
-      "ranks": "Матчтесь внутри платформенного окна рангового разрыва. Ранги ниже.",
-      "roles": "Матчтесь по взаимодополняющим ролям, а не дублирующим.",
-      "competitors": "Где происходит LFG сегодня и под что заточен каждый инструмент:",
-      "tools": "Чем пользуются игроки сегодня и где возможности каждого инструмента заканчиваются:"
+      "ranks": "Match within the platform-enforced gap window. Ranks below.",
+      "roles": "Match by complementary roles, not duplicate ones.",
+      "competitors": "Where LFG happens today, and what each tool optimizes for:",
+      "tools": "What players use today and where each tool stops:"
     },
     "cta": {
-      "label": "Установить Jynx",
-      "heading": "Найдите свое дуо на Jynx",
-      "sub": "Бесплатно. Проверка рангов. Подбор по голосу и расписанию."
+      "label": "Get Jynx",
+      "heading": "Find your duo on Jynx",
+      "sub": "Free. Verified ranks. Voice + schedule matching."
     },
     "cta_final": {
-      "label": "Установить Jynx",
-      "heading": "Хватит играть в соло-очереди",
-      "sub": "Установите Jynx и найдите проверенное дуо уже сегодня."
+      "label": "Get Jynx",
+      "heading": "Stop solo-queueing",
+      "sub": "Get Jynx and find a verified duo today."
     },
     "footer": {
-      "rights": "Все права защищены."
+      "rights": "All rights reserved."
     },
-    "breadcrumb_duo": "Поиск дуо",
-    "breadcrumb_guide": "Гайд по LFG"
+    "breadcrumb_duo": "Duo Finder",
+    "breadcrumb_guide": "LFG Guide"
   },
   "games_section": {
-    "title": "Найдите свою игру",
-    "sub": "Поиск дуо и гайды по LFG для ваших игр — собирайте команду быстрее.",
-    "cta": "Все игры",
+    "title": "Find Your Game",
+    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
+    "cta": "All games",
     "glossary_teaser": {
-      "title": "Из игрового глоссария",
-      "cta": "Открыть глоссарий"
+      "title": "From the Gaming Glossary",
+      "cta": "Browse the glossary"
     }
   },
   "entity": {
-    "description": "Jynx — компаньон-приложение нового поколения для геймеров. Фильтры по рангу, роли и региону для каждой игры, голосовые намерения и реальное пересечение расписаний заменяют рулетку лобби — свайпай, матчься и заходи в игру с дуо и командами, которые подходят под игры, в которые ты уже играешь, а потом общайся в нативных голосовых комнатах, не покидая приложение. Бесплатно в вебе, на Android и iOS.",
-    "canonical_phrase": "компаньон-приложение нового поколения для геймеров"
+    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on the web, Android, and iOS.",
+    "canonical_phrase": "next-gen companion app for gamers"
   },
   "consent": {
     "banner": {
-      "aria_label": "Согласие на cookies",
-      "text": "Мы используем аналитику, чтобы понять, как люди находят Jynx, и улучшить сайт. Персональные данные не продаются.",
-      "privacy_link": "Политика конфиденциальности",
-      "accept": "Принять",
-      "decline": "Отклонить"
+      "aria_label": "Cookie consent",
+      "text": "We use analytics to understand how people find Jynx and improve the site. No personal data is sold.",
+      "privacy_link": "Privacy policy",
+      "accept": "Accept",
+      "decline": "Decline"
     }
   },
   "locale_suggestion": {
