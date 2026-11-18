@@ -60,7 +60,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 بالوصول إلى تطبيق Jynx أو استخدامه ("الخدمة"، "المنصة"، "التطبيق")، فإنك توافق على الالتزام بشروط الخدمة هذه ("الشروط"، "شروط الخدمة"). إذا كنت لا توافق على هذه الشروط، فلا يجوز لك استخدام الخدمة.
 
-**Separate and optional marketing consent.** Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6.
+**موافقة تسويقية منفصلة واختيارية.** قبول هذه الشروط ليس موافقة على استلام رسائل تسويق أو إعادة تفاعل أو استبيانات. وكل هذه الاتصالات تتطلب اشتراكًا منفصلًا اختياريًا مخصصًا للغرض يمكنك منحه أو رفضه دون أن تفقد الوصول إلى الخدمة، وسحبه في أي وقت دون إنهاء حسابك. وهذا الفصل تفرضه المادة 8 §4 من LGPD (التي تُبطل التفويضات العامة أو المجمّعة) والمادتان 4(11) و7 من GDPR. أما الشروط التي تحكم برنامج بريد التسويق وإعادة التفاعل لدينا، بما يشمل استبيانات إلغاء التثبيت والتسرب، فمبسوطة في §5.5 أدناه وفي سياسة الخصوصية §5.6.
 
 **مهم:** تشكل هذه الشروط اتفاقية ملزمة قانونًا بينك وبين Jynx Group.
 
@@ -91,13 +91,13 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 **التطبيق:** بوابة التحقق من العمر لدينا تمنع تلقائيًا إنشاء حساب للمستخدمين دون 18 عامًا. إذا اكتشفنا أنك قدمت معلومات خاطئة عن عمرك، فسيتم إنهاء حسابك فورًا.
 
-**No marketing to minors.** If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
+**لا تسويق للقاصرين.** إذا تبيّننا أن صاحب الحساب دون 18، يُنهى الحساب فورًا ويُستبعد المستخدم من جميع اتصالات التسويق وإعادة التفاعل والاستبيانات بموجب §5.5 (راجع أيضًا سياسة الخصوصية §2؛ LGPD المادة 14؛ GDPR المادة 8).
 
 ### 3.2. إنشاء الحساب
 
 لاستخدام Jynx، يجب عليك إنشاء حساب بتقديم:
 
-- A valid email address OR authentication via Google/Apple
+- عنوان بريد إلكتروني صالح أو مصادقة عبر Google/Apple
 - اسم مستخدم فريد
 - تاريخ ميلادك (للتحقق من العمر)
 - معلومات الملف الشخصي (الدولة، المنطقة الزمنية، اللغات، تفضيلات الألعاب)
@@ -175,7 +175,7 @@ Jynx هي منصة يقودها المجتمع. أنت توافق على است�
 - مشاركة معلومات المستخدمين الخاصة دون موافقة (الكشف عن المعلومات)
 - أخذ لقطات شاشة أو مشاركة محادثات خاصة دون إذن
 - جمع أو حصاد بيانات المستخدم دون تفويض
-- Record, capture, or redistribute another member's shared screen without their consent
+- تسجيل شاشة عضو آخر المتشاركة أو التقاطها أو إعادة نشرها دون موافقته
 
 #### انتهاكات المحتوى:
 
@@ -183,7 +183,7 @@ Jynx هي منصة يقودها المجتمع. أنت توافق على است�
 - مشاركة محتوى عنيف أو رسومي أو مزعج
 - نشر محتوى يتعلق بالقصر بأي صفة
 - توزيع مواد محمية بحقوق النشر دون إذن
-- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
+- استخدام مشاركة الشاشة لبث محتوى ينتهك هذه الشروط — جميع المحظورات في هذا القسم تنطبق بالكامل على ما يظهر على شاشتك المتشاركة
 
 #### التلاعب بالمنصة:
 
@@ -310,26 +310,26 @@ By uploading photos to the Service (including your profile avatar and gallery), 
 
 ستُخطَر بإزالة المحتوى عندما يكون ذلك ممكنًا.
 
-### 5.5. Marketing & Re-engagement Email Program
+### 5.5. برنامج بريد التسويق وإعادة التفاعل
 
-(Note: §5.2 "Marketing & Promotional Use" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)
+(ملاحظة: §5.2 "الاستخدام التسويقي والترويجي" يحكم إعادة استخدام محتوى المستخدم في مواد Jynx التسويقية. أما §5.5 فيحكم إرسال Jynx رسائل تسويق وإعادة تفاعل واستبيانات إليك — وهو موضوع مختلف لا يغطيه §5.2.)
 
-Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:
+خاضعًا لسياسة الخصوصية §5.6 اتصالات التسويق، قد يرسل لك Jynx رسائل تسويق وإعادة تفاعل واستبيانات إلغاء تثبيت/تسرب كما هو موصوف في ذلك القسم. ويعمل البرنامج بالشروط التالية:
 
-1. **Legal basis by cohort.**
-  - **EU/EEA users:** we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.
-  - **Brazilian users:** we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.
-2. **Uninstall / churn surveys.** We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.
-3. **One-click unsubscribe.** Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.
-4. **Erasure and suppression.** If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.
-5. **Children.** We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
-6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
+1. **الأساس القانوني حسب الفئة.**
+  - **مستخدمو الاتحاد الأوروبي/EEA:** نرسل رسائل التسويق وإعادة التفاعل فقط بموافقتك المسبقة الصريحة بالاشتراك (توجيه ePrivacy المادة 13(1) / CPCE المادة L. 34-5؛ GDPR المادة 6(1)(a)). وبعد إطلاق الاشتراكات المدفوعة وحزم Founder، أصبحت الخدمة خدمة مأجورة بمعنى المادة 13(2) من توجيه ePrivacy / CPCE المادة L. 34-5، لذا فإن استثناء الاشتراك غير المباشر متاح من حيث المبدأ للمنتجات والخدمات المشابهة المقدمة لعملاء قائمين. ولتحفظنا، ما زلنا نعتمد على موافقتك المسبقة الصريحة بالاشتراك ولن نتحول إلى أساس الاشتراك غير المباشر دون تقييم موثق يُسجَّل في سجلات أنشطة المعالجة لدينا وبإشعار محدث إليك.
+  - **المستخدمون البرازيليون:** نرسل رسائل التسويق وإعادة التفاعل بناءً إما على (i) موافقتك (LGPD المادة 7 I والمادة 8) لأي تواصل بغير العملاء أو بارد أو بيع إضافي/شركاء، أو (ii) مصلحتنا المشروعة (LGPD المادة 7 IX والمادة 10)، المدعومة بتقييم موثق للمصالح المشروعة وفق دليل ANPD للمصلحة المشروعة (2 فبراير 2024)، لمستخدمين قائمين أو منقطعين حديثًا يتلقون تحديثات منتج أو إعادة تفاعل أو استبيانًا قصيرًا واحدًا عن التسرب/إلغاء التثبيت لتطبيق Jynx.
+2. **استبيانات إلغاء التثبيت / التسرب.** نفضّل طرح أسئلة إلغاء التثبيت/التسرب داخل التطبيق لحظة إلغاء التثبيت. وإذا أُرسل استبيان بريدي: فلا يتضمن محتوى ترويجيًا أو إعادة تفاعل؛ ونرسل حدًا أقصى استبيانًا (1) واحدًا لكل مستخدم خلال 60 يومًا تقريبًا من إلغاء التثبيت أو حذف الحساب؛ ثم يُحذف البريد الإلكتروني أو يجعل مجهولًا وفق سياسة الخصوصية §6.
+3. **إلغاء الاشتراك بنقرة واحدة.** كل رسالة تسويقية تتضمن آلية إلغاء اشتراك بنقرة واحدة عاملة (RFC 8058)، تُستجاب لها فورًا. ويمكنك أيضًا سحب الموافقة أو الاعتراض عبر الإعدادات > الخصوصية > تفضيلات الاتصالات أو بمراسلة dpo@jynx.app، دون إنهاء حسابك ودون تكلفة (LGPD المادة 8 §5؛ GDPR المادتان 7(3) و21(2)). ونحترم مدونة الدفاع عن المستهلك البرازيلية (القانون 8.078/90، ولا سيما المادة 39 III) ولا نرسل رسائل غير مرغوبة أو مسيئة؛ والاستمرار في الإرسال بعد إلغاء الاشتراك محظور.
+4. **المحو والحظر.** إذا مارست حق المحو (سياسة الخصوصية §7.3 / GDPR المادة 17 / LGPD المادة 18(VI) للبيانات القائمة على الموافقة)، يُزال عنوان بريدك من جميع مسارات التسويق ويُضاف إلى قائمة حظر دائمة مُجزَّأة؛ ولن يُعاد التواصل معك أو استطلاعك، بما يشمل أي قائمة مستوردة أو من طرف ثالث. ومجرد حذف الحساب أو إلغاء التثبيت (دون طلب محو) لا يفعّل الحظر الدائم بذاته — راجع سياسة الخصوصية §6 لفترات الاحتفاظ وإعادة التفاعل المنطبقة.
+5. **الأطفال.** لا نرسل التسويق لقاصر علمًا منا على الإطلاق؛ وأي حساب يُحدَّد أنه لمستخدم دون 18 يُنهى ويُستبعد من البرنامج (سياسة الخصوصية §2؛ LGPD المادة 14؛ GDPR المادة 8).
+6. **مزود خدمة البريد الإلكتروني.** نستخدم مزود خدمة بريد إلكتروني ثالثًا (معالجًا) بموجب اتفاقية معالجة بيانات، مذكورًا في سياسة الخصوصية §4.4 و§9 خدمات الأطراف الثالثة (§9.5).
 
-This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+هذا البند لا يضر بأي حقوق حماية مستهلك إلزامية تملكها بموجب قانون بلد إقامتك، بما يشمل مدونة الدفاع عن المستهلك البرازيلية.
 
-### 5.6. Account-Activity Notifications
+### 5.6. إشعارات نشاط الحساب
 
-**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
+**إشعارات نشاط الحساب.** يرسل لك Jynx إشعارات عن نشاط حسابك (رسائل جديدة، مطابقات، إعجابات)، بما يشمل البريد الإلكتروني عند تفويتها داخل التطبيق. وقبول هذه الشروط ليس موافقة على استلام رسائل تسويق: فالاتصالات التسويقية (مثل رسائل إعادة التفاعل وأخبارنا) تُرسل فقط باشتراكك المنفصل الاختياري.
 
 ## 6. المجتمعات وميزات الألعاب
 
@@ -421,13 +421,13 @@ For the full list of current Jynx+ benefits, see Section 8.1. (The previous comm
 - يتم إخفاء هوية بيانات المستخدم الخاصة بك وفقًا لـ GDPR
 - يتم حذف حساب Firebase Authentication الخاص بك
 - يتم إلغاء رموز OAuth (Google، Apple) تلقائيًا
-- Your email address is purged from our marketing CRM and email service provider
-- If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list
-- Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized
+- يُمسح عنوان بريدك من نظام إدارة التسويق (CRM) لدينا ومزود خدمة البريد الإلكتروني
+- إذا تضمن إنهاء حسابك طلب محو/حق نسيان (سياسة الخصوصية §7.3)، يُضاف عنوان بريدك إلى قائمة حظر دائمة مُجزَّأة ولن يُستخدم أبدًا للتسويق أو إعادة التفاعل أو الاستبيانات، بما يشمل أي قائمة مستوردة أو من طرف ثالث
+- مجرد حذف الحساب أو إلغاء التثبيت (دون طلب محو) لا يحظر إعادة التفاعل دائمًا؛ تنطبق فترات الاحتفاظ وإعادة التفاعل في سياسة الخصوصية §6، وبعدها يُحذف العنوان أو يجعل مجهولًا
 
 Refund Policy: If your account is terminated due to violations of these Terms, you are not entitled to a refund of the then-current Jynx+ subscription period, any unused prepaid Jynx+ months included in a Founder Pack, or virtual items (cosmetics). Founder Pack cosmetic items and the Founder badge are licensed, not owned (Section 8.3), and that license is revocable on termination for violations. Refund requests remain subject to the applicable store's refund policy (App Store / Google Play) and to Section 8.5.
 
-The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2).
+خطوات معالجة البيانات أعلاه موصوفة بموجب GDPR وLGPD معًا؛ وتحكم حقوق حذف المستخدمين البرازيليين المادةُ 18 من LGPD (لاحظ أن الحذف بالمادة 18(VI) ينطبق على البيانات المعالجة على أساس الموافقة، بينما تحكم البيانات المعالجة على أساس المصلحة المشروعة مبدأُ تحديد الغرض بالمادة 6 II وحقُّ طلب وقف المعالجة بالمادة 18 §2).
 
 ### 7.3. الحذف الذي يبدأه المستخدم
 
@@ -512,9 +512,9 @@ Jynx+ is an automatically renewing paid subscription.
 
 ### 8.5. Refunds & Cancellations
 
-#### EU Consumer Rights (Right of Withdrawal):
+#### حقوق المستهلك في الاتحاد الأوروبي (حق الانسحاب):
 
-If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state.
+إذا كنت مستهلكًا في الاتحاد الأوروبي، كان لك عادةً حق انسحاب مدته 14 يومًا للعقود عن بُعد بموجب توجيه حقوق المستهلك. لكن للمحتوى الرقمي الذي بدأ توريده بموافقتك المسبقة الصريحة وإقرارك بأنك تخسر بذلك حق الانسحاب — وهو ما يشمل استحقاقات Jynx+ والعناصر التجميلية وحزم Founder، التي يبدأ توريدها فور الشراء — يُفقد حق الانسحاب وفقًا للمادة 16(m) من توجيه حقوق المستهلك والمادة L221-28 13° من مدونة الاستهلاك الفرنسية. ولا يحرمك أي شيء في هذه الشروط من أي حقوق مستهلك إلزامية لا يمكن التنازل عنها بموجب قانون دولة عضويتك في الاتحاد الأوروبي.
 
 #### Refund Policy:
 
@@ -524,9 +524,9 @@ If you are a consumer in the European Union, you would normally have a 14-day ri
 - Store-Managed: Because the App Store and Google Play are the merchant of record for these purchases, refund eligibility and processing are ultimately governed by the applicable store's refund policy.
 - No Refunds for: Account termination due to Terms violations (see Section 7.2), or change of mind after the right of withdrawal has been lost as described above.
 
-#### Brazilian Consumers:
+#### المستهلكون البرازيليون:
 
-If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC.
+إذا كنت مستهلكًا في البرازيل، لك حق الانسحاب من عقد عن بُعد خلال 7 أيام من الاستلام بموجب المادة 49 من مدونة الدفاع عن المستهلك البرازيلية (CDC)، دون تبرير، ولا يمكن التنازل عن هذا الحق. وللعناصر الرقمية التي بدأ توريدها بناءً على طلبك الصريح، تأخذ المبالغ المُعادة عند الانسحاب في الحسبان ما قُدِّم بالفعل وفقًا للمادة 49 §2 من CDC. وتتبع آليات الاسترداد للمشتريات عبر App Store أو Google Play سياسة الاسترداد الخاصة بكل متجر. ولا يستثني أو يحدّ أي شيء في هذه الشروط حماياتِ المستهلك الإلزامية في CDC.
 
 ## 9. خدمات الطرف الثالث
 
@@ -553,7 +553,7 @@ If you are a consumer in Brazil, you have the right to withdraw from a distance 
 
 نستخدم Riot Games API لاسترجاع إحصائيات الألعاب (League of Legends، Valorant، إلخ).
 
-### 9.4. OAuth Providers
+### 9.4. مزودو OAuth
 
 نقدم المصادقة عبر:
 
@@ -562,25 +562,25 @@ If you are a consumer in Brazil, you have the right to withdraw from a distance 
 
 أنت مسؤول عن الامتثال لشروط خدمات الطرف الثالث هذه.
 
-### 9.5. Email Service Provider
+### 9.5. مزود خدمة البريد الإلكتروني
 
-We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.
+نستخدم مزود خدمة بريد إلكتروني ثالثًا لتوصيل اتصالات التسويق وإعادة التفاعل واستبيانات إلغاء التثبيت/التسرب كما هو موصوف في §5.5 وفي سياسة الخصوصية §5.6 و§4.4. ويعمل المزود بصفته معالجنا بموجب اتفاقية معالجة بيانات ويعالج بياناتك وفق تعليماتنا الموثقة فقط. وهوية المزود وموقعه ومعالجوه من الباطن وآلية النقل الدولي المنطبقة موصوفة في سياسة الخصوصية §4.4 و§9.
 
-You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours.
+تبقى مسؤولًا عن الامتثال لشروط أي خدمة طرف ثالث تملك حسابك فيها؛ ومزود خدمة البريد الإلكتروني هو مورد لـ Jynx وليس موردك.
 
-### 9.6. LiveKit (Real-Time Voice)
+### 9.6. LiveKit (الصوت في الوقت الفعلي)
 
-Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9.
+يستخدم Jynx خدمة LiveKit Cloud لتوفير غرف صوتية في الوقت الفعلي. ويعمل LiveKit بصفته معالجنا لصوت الغرف الصوتية بموجب اتفاقية معالجة بيانات موقعة ويعالج البيانات وفق تعليمات Jynx الموثقة فقط. وكما هو موصوف في سياسة الخصوصية §4.5 و§3.6، يُمرر صوت الغرف الصوتية في الوقت الفعلي ولا يُسجل أو يُخزن أو يُحفظ من قِبل Jynx أو LiveKit. وآلية النقل الدولي المنطبقة (ملحق معالجة البيانات لدى LiveKit، الذي يضم الشروط التعاقدية القياسية للاتحاد الأوروبي) وتوجهات تمرير LiveKit العالمية موصوفة في سياسة الخصوصية §9.
 
-### 9.7. AWS Rekognition (Image Moderation)
+### 9.7. AWS Rekognition (إشراف الصور)
 
-Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9.
+يستخدم Jynx خدمة AWS Rekognition من Amazon Web Services لمسح صور الملف الشخصي المرفوعة من المستخدمين كشفًا للعري والمحتوى الآخر المخالف للسياسات. ويعمل AWS Rekognition بصفته معالجنا بموجب اتفاقية معالجة بيانات موقعة ويعالج بايتات الصور وفق تعليمات Jynx الموثقة فقط. والبيانات المعالجة ووضعية الاحتفاظ (لا تخزين منفصل للصور لدى AWS) وآلية النقل الدولي المنطبقة موصوفة في سياسة الخصوصية §4.8 و§9.
 
-### 9.8. Meta (Advertising Attribution)
+### 9.8. Meta (إسناد الإعلانات)
 
-We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+نستخدم SDK أحداث التطبيقات من Meta (Facebook) لقياس ما إذا كانت تثبيتات التطبيق ناتجة عن تسويقنا؛ وعلى أجهزة Apple لا يُهيَّأ الـ SDK إلا بعد منحك إذن App Tracking Transparency. وتعالج Meta Platforms Ireland البيانات الوصفية الناتجة لأحداث التطبيق وفق تعليمات Jynx بصفته معالجًا للإسناد وقياس الحملات، وقد تتولى Meta Platforms, Inc. إضافةً صفة متحكم مستقل لأغراضها المشروعة الخاصة وفق شروطها الخاصة. والبيانات المعالجة وشروط الموافقة وآليات النقل المنطبقة موصوفة في سياسة الخصوصية §4.9 و§9.
 
-If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
+إذا وافقت، يشارك Jynx أيضًا أحداث تحويل محدودة (مثل التسجيل والمشتريات مع مبلغها) مع Meta لقياس إعلاناتنا وتحسينها. ولا تُباع بياناتك أبدًا. وعلى iPhone وiPad يتطلب ذلك موافقتك (GDPR المادة 6(1)(a)؛ LGPD المادة 7، I). وعلى Android يستند ذلك إما إلى تلك الموافقة أو، حيث يُعرض لك مفتاح قياس الإعلانات مفعّلًا افتراضيًا، إلى المصلحة المشروعة لـ Jynx (LGPD المادة 7، IX والمادة 10). ويمكنك تغيير اختيارك في أي وقت من إعدادات الخصوصية: الإعدادات > الخصوصية > قياس الإعلانات. والتفاصيل، بما يشمل SKAdNetwork من Apple (الذي ينطبق على كل مستخدم iOS حتى عند رفض التتبع أو قياس الإعلانات)، موصوفة في سياسة الخصوصية §5.9.
 
 ## 10. إخلاء المسؤولية وتحديد المسؤولية
 
@@ -633,11 +633,11 @@ Maximum Liability: To the maximum extent permitted by applicable law, our total 
 
 تخضع هذه الشروط وتُفسَّر وفقًا لقوانين فرنسا واللوائح المعمول بها في الاتحاد الأوروبي، دون مراعاة مبادئ تعارض القوانين.
 
-اللوائح المعمول بها: القانون المدني الفرنسي (Code civil)، قانون المستهلك الفرنسي (Code de la consommation)، اللائحة العامة لحماية البيانات (GDPR)، قانون الخدمات الرقمية للاتحاد الأوروبي (DSA)، توجيه حقوق المستهلك في الاتحاد الأوروبي.
+اللوائح المطبقة: القانون المدني الفرنسي (Code civil)، قانون المستهلك الفرنسي (Code de la consommation)، اللائحة العامة لحماية البيانات (GDPR)، قانون الخدمات الرقمية للاتحاد الأوروبي (DSA)، توجيه حقوق المستهلك الأوروبي، و — لأصحاب البيانات الواقعين في البرازيل — القانون البرازيلي العام لحماية البيانات (Lei Geral de Proteção de Dados، القانون 13.709/2018، "LGPD") وقانون الدفاع عن المستهلك البرازيلي (Código de Defesa do Consumidor، القانون 8.078/90، "CDC").
 
 ### 12.2. الاختصاص القضائي
 
-Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC.
+يمكن رفع أي نزاعات تنشأ عن هذه الشروط أو الخدمة أمام المحاكم المختصة في نانت، فرنسا. وهذا دون الإخلال بأي حق إلزامي قد يكون لك بموجب قانون بلد إقامتك برفع الدعوى في ذلك البلد — لا سيما، لمستهلكي الاتحاد الأوروبي، الحقوق المشتقة من المادتين 17 إلى 19 من لائحة بروكسل الأولى المعدلة ومن قانون حماية المستهلك المنطبق في دولة عضويتك، وللمستهلكين البرازيليين أحكام CDC.
 
 ### 12.3. تسوية النزاعات والتحكيم
 
@@ -651,13 +651,13 @@ Any disputes arising from these Terms or the Service may be brought before the c
 2. التفاوض غير الرسمي: سنعمل معك بحسن نية للوصول إلى حل ودي خلال 30 يومًا
 3. الوساطة (اختياري): إذا فشل الحل غير الرسمي، يمكنك اقتراح الوساطة من خلال وسيط محايد من طرف ثالث
 
-**Consumer ADR (EU/France):** In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court.
+**تسوية النزاعات الاستهلاكية البديلة (الاتحاد الأوروبي/فرنسا):** وفقًا للمادتين L. 612-1 وL. 616-6 من مدونة الاستهلاك الفرنسية، تعيّن Jynx Group SAS مركز Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu، 75008 باريس، فرنسا؛ هاتف +33 1 89 47 00 14؛ https://www.cm2c.net — وهو كيان وساطة استهلاكية مرجعي من لجنة تقييم ومراقبة وساطة الاستهلاك (CECMC)، بصفته الوسيط الاستهلاكي (médiateur de la consommation) للتسوية الودية لنزاعات المستهلكين. وقبل اللجوء إلى الوسيط، يجب أولًا تقديم شكواك إلينا على dpo@jynx.app كي نحاول حلها. والوساطة مجانية لك كمستهلك، وتُجرى بالفرنسية، وتتبع الإجراء المنشور على موقع الوسيط (https://www.cm2c.net)؛ وينهي الوسيط الإجراء خلال 90 يومًا من إحالة النزاع إليه. ويبقى لك في كل وقت حق رفع النزاع إلى المحكمة.
 
 ### 12.4. حقوق المستهلك في الاتحاد الأوروبي
 
 إذا كنت مستهلكًا في الاتحاد الأوروبي، فإنك تحتفظ بجميع حقوق المستهلك الإلزامية بموجب قانون الاتحاد الأوروبي، بما في ذلك:
 
-- 14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)
+- حق انسحاب مدته 14 يومًا للعقود عن بُعد، خاضعًا للفقدان القانوني لذلك الحق للمحتوى الرقمي بعد بدء التوريد بموافقتك (راجع القسم 8.5)
 - الحق في العلاج للمنتجات أو الخدمات المعيبة
 - الحماية من شروط العقد غير العادلة
 - الحق في تقديم شكاوى إلى سلطة حماية المستهلك المحلية
@@ -666,9 +666,9 @@ Any disputes arising from these Terms or the Service may be brought before the c
 
 تمتثل ممارسات البيانات لدينا للائحة العامة لحماية البيانات (GDPR). راجع سياسة الخصوصية الخاصة بنا للحصول على تفاصيل حول جمع البيانات ومعالجتها والاحتفاظ بها وحقوقك وكيفية الاتصال بمسؤول حماية البيانات.
 
-### 12.6. LGPD Compliance (Brazilian Users)
+### 12.6. الامتثال لـ LGPD (المستخدمون البرازيليون)
 
-For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law.
+لأصحاب البيانات الواقعين في البرازيل، تمتثل ممارسات بياناتنا أيضًا لقانون LGPD (Lei Geral de Proteção de Dados، القانون 13.709/2018)، الذي ينطبق وفق مادته 3 بصرف النظر عن مقر Jynx في فرنسا. وللمستخدمين البرازيليين الحقوق المبسوطة في سياسة الخصوصية §7.7 ويمكنهم تقديم شكاوى إلى ANPD (Autoridade Nacional de Proteção de Dados). ولا يحرم أي شيء في هذه الشروط مستخدمًا برازيليًا من حمايات المستهلك الإلزامية التي يمنحها CDC، بما يشمل حظر الرسائل التجارية غير المرغوبة أو المسيئة في المادة 39 III من CDC. ولإزالة أي شك، يظل بند الاختصاص الحصري في §12.2 (محاكم نانت، فرنسا) ساريًا للنزاعات الناشئة عن هذه الشروط أو المتصلة بها، دون الإخلال بأي حقوق حماية مستهلك إلزامية لا يمكن التنازل عنها بموجب قانون المستهلك المحلي.
 
 ## 13. معلومات الاتصال والمعلومات القانونية
 
@@ -728,10 +728,10 @@ FRANCE
 
 These Terms are provided in English. In accordance with the French law known as the Loi Toubon (Law No. 94-665 of 4 August 1994) and Article L. 112-1 of the French Code de la consommation, a French-language version of these Terms is made available to consumers; in the event of any conflict between the English version and the French version, the French version shall prevail for consumers resident in France. For consumers outside France, the English version is the reference version, except where the law of your country of residence requires otherwise.
 
-## 15. Creator (Partner) Program
+## 15. برنامج صنّاع المحتوى (الشركاء)
 
-If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.
+إذا شاركت في برنامج صنّاع المحتوى (الشركاء) في Jynx، فإضافةً إلى هذه الشروط يحكم استخدامك للبرنامج إصدارُ شروط إحالة صنّاع المحتوى وتفويض الفوترة الذاتية بنسخه التي تقبلها عند الالتحاق (كل إصدار مقبول غير قابل للتغيير بعد القبول)، وتُعرض داخل التطبيق مع معرّف إصداره. وفي حال التعارض، تسود شروط الصنّاع في مسائل البرنامج؛ وإلا تنطبق هذه الشروط وسياسة الخصوصية.
 
-The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10.
+معلومات الهوية والدفع والضرائب التي يتطلبها البرنامج — مثل التعريف بـ CPF أو CNPJ وقناة الدفع التي تختارها (PayPal أو Wise أو Pix) — والمعالجون المشاركون موصوفون في سياسة الخصوصية §4.10.
 
 باستخدام Jynx، فإنك تقر بأنك قد قرأت وفهمت ووافقت على الالتزام بشروط الخدمة هذه.

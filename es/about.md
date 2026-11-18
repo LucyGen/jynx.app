@@ -19,7 +19,7 @@ Nuestra plataforma sirve como puente entre las experiencias de juego solitario y
 
 ## El Problema que Estamos Resolviendo
 
-Como gamers nosotros mismos, hemos experimentado los desafíos de primera mano:
+Como gamers, los hemos vivido en primera persona:
 
 - Pasar más tiempo buscando compañeros que jugando realmente
 - Emparejarse con jugadores cuyas habilidades u objetivos no se alinean con los tuyos
@@ -53,6 +53,6 @@ Jynx es más que solo una plataforma—es una comunidad creciente de gamers que 
 
 ### Únete a la Comunidad Jynx
 
-Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way.
+Encuentra tu escuadrón gaming perfecto — Jynx está disponible en iOS, Android, Windows y la web. Una app para Mac está en camino.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Insignia de descarga de la Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

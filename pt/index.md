@@ -98,11 +98,11 @@ Quer a análise completa? Leia o comparativo escrito pelo fundador: [Jynx vs Dis
 
 Duo finders e guias LFG para os jogos que você joga — ache sua equipe mais rápido.
 
-- [Free FireRank da temporada verificado, intenção de modo, kit e horário em comum: é assim que squad de BR e quarteto de Clash Squad se fecham no Jynx.](/pt/games/free-fire/duo-finder.html)
-- [ValorantSem roleta de rank gap: o Jynx encontra duos de Valorant por rank verificado, função de agente, voz e horário — do Ferro ao Radiante, ranqueada ou Premier.](/pt/games/valorant/duo-finder.html)
-- [League of LegendsSem desperdiçar LP: o Jynx casa duos de Lol por rank verificado via Riot ID, rota primária e secundária, intenção de voz e pool de campeões — dupla de bot em primeiro lugar.](/pt/games/league-of-legends/duo-finder.html)
+- [Free FireRank da temporada, idioma e região em comum: é assim que squad de BR e quarteto de Clash Squad se fecham no Jynx, do Bronze ao Grão-Mestre.](/pt/games/free-fire/duo-finder.html)
+- [ValorantSem roleta de rank gap: o Jynx pareia duos de Valorant por rank na janela da fila, função de agente, região e idioma — do Ferro ao Radiante, ranqueada ou Premier.](/pt/games/valorant/duo-finder.html)
+- [League of LegendsSem desperdiçar LP: o Jynx pareia duos de Lol pelo rank dentro da janela da fila, rota primária e secundária, região do servidor e idioma — dupla de bot em primeiro lugar.](/pt/games/league-of-legends/duo-finder.html)
 - [Counter-Strike 2Sem chutar rank: o Jynx filtra parceiro de CS2 pela ladder competitiva da Valve, de Silver I a Global Elite, mais idioma, região e playstyle — com o nível da segunda ladder declarado junto do rank.](/pt/games/cs2/duo-finder.html)
-- [Rainbow Six SiegeChega de Discord: o Jynx monta squad de Siege por rank do Cobre ao Campeão dentro das janelas de squad, role de Hard Breach a Roamer, idioma e região — e o five audiciona no Standard antes do RP valer.](/pt/games/rainbow-six-siege/duo-finder.html)
+- [Rainbow Six SiegeChega de Discord: o Jynx monta squad de Siege por rank do Cobre ao Campeão dentro das janelas de squad, role de Hard Breach a Roamer, idioma e região — e o five audiciona no Unranked antes do RP valer.](/pt/games/rainbow-six-siege/duo-finder.html)
 
 [Todos os jogos](/pt/procurar-duo.html)
 

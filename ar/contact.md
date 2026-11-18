@@ -1,42 +1,42 @@
 ---
-title: "Contact Jynx: Support, Security and Privacy Email Channels"
-description: "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too."
+title: "اتصل بـ Jynx: قنوات البريد الإلكتروني للدعم والأمان والخصوصية"
+description: "تواصل مع فريق Jynx عبر البريد الإلكتروني: الدعم لمساعدة الحساب والتطبيق، والأمان للإبلاغ عن ثغرة، ومسؤول حماية البيانات لطلبات الخصوصية. وكذلك Discord وحسابات التواصل الاجتماعي."
 canonical: "https://jynx.app/ar/contact.html"
 locale: "ar"
 dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Contact Jynx
+# اتصل بـ Jynx
 
-How to reach the team behind Jynx — email channels, community links, and company details.
+كيف تصل إلى الفريق الذي يقف خلف Jynx — قنوات البريد الإلكتروني، وروابط المجتمع، وبيانات الشركة.
 
-## How to Reach Us
+## كيف تصل إلينا
 
-Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.
+يعمل دعم Jynx عبر قنوات البريد الإلكتروني — لا نستخدم نموذج اتصال. كل عنوان في هذه الصفحة يصل إلى صندوق بريد يتابعه شخص حقيقي، لذا تصل رسالتك مباشرة إلى الفريق. اختر القناة المناسبة لطلبك وأدرج أكبر قدر ممكن من التفاصيل.
 
-We read every message. Support replies usually land within a few business days; French and English both work.
+نقرأ كل رسالة. يصل رد الدعم عادةً خلال أيام عمل قليلة؛ الفرنسية والإنجليزية كلاهما مناسب.
 
-## Email Channels
+## قنوات البريد الإلكتروني
 
-- Customer Support The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: [support@jynx.app](mailto:support@jynx.app)
-- Security Reports Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: [security@jynx.app](mailto:security@jynx.app) The full policy lives on the [Security & Vulnerability Disclosure Policy](/security.html) page.
-- Privacy and Data Protection Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: [dpo@jynx.app](mailto:dpo@jynx.app)
+- دعم العملاء القناة الأساسية. الوصول إلى الحساب، تقارير الأخطاء، أسئلة الفوترة، طلبات الميزات، وأي شيء آخر عن التطبيق: [support@jynx.app](mailto:support@jynx.app)
+- تقارير الأمان الثغرات المشتبه بها والمشاكل الأمنية فقط. يرجى قراءة سياسة الإفصاح أولًا — فهي تحدد ما يقع ضمن النطاق وما يجب تضمينه في تقريرك: [security@jynx.app](mailto:security@jynx.app) السياسة الكاملة موجودة في صفحة [سياسة الأمان والإفصاح عن الثغرات](/security.html).
+- الخصوصية وحماية البيانات الطلبات المتعلقة بالبيانات الشخصية وأسئلة الخصوصية واستفسارات جهات إنفاذ القانون تذهب إلى مسؤول حماية البيانات لدينا: [dpo@jynx.app](mailto:dpo@jynx.app)
 
-## Community and Social
+## المجتمع والتواصل الاجتماعي
 
-For day-to-day conversation, the community is faster than email.
+للحديث اليومي، المجتمع أسرع من البريد الإلكتروني.
 
-- [Discord](https://discord.gg/8UQhtRUvD5) — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.
-- [Instagram](https://www.instagram.com/jynx_app/) — news, updates, and clips from the Jynx team.
-- [TikTok](https://www.tiktok.com/@jynx.app) — short videos, community highlights, and features.
-- [X (Twitter)](https://twitter.com/Jynx_App) — announcements and quick answers.
-- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — the Jynx page: events and community posts.
+- [Discord](https://discord.gg/8UQhtRUvD5) — خادم الفريق والدعم: اطرح سؤالًا، أو تحدث مع فريق Jynx، أو احصل على مساعدة في التطبيق.
+- [Instagram](https://www.instagram.com/jynx_app/) — أخبار وتحديثات ومقاطع من فريق Jynx.
+- [TikTok](https://www.tiktok.com/@jynx.app) — فيديوهات قصيرة وأبرز لحظات المجتمع والميزات.
+- [X (Twitter)](https://twitter.com/Jynx_App) — الإعلانات والإجابات السريعة.
+- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — صفحة Jynx: الفعاليات ومنشورات المجتمع.
 
-## Company Information
+## معلومات الشركة
 
-- **Legal entity:** Jynx Group
-- **Company registration (SIREN):** 991443896
-- **Registered office:** Nantes, France
+- **الكيان القانوني:** Jynx Group
+- **سجل الشركة (SIREN):** 991443896
+- **المقر المسجل:** نانت, فرنسا
 
-The full legal notices — registered address, legal form, and trade-registry details — are in [Section 13 of the Terms of Service](/ar/terms.html).
+الإشعارات القانونية الكاملة — العنوان المسجل والشكل القانوني وتفاصيل السجل التجاري — موجودة في [القسم 13 من شروط الخدمة](/ar/terms.html).

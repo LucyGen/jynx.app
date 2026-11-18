@@ -1507,7 +1507,7 @@
     "subtitle": "Find your perfect gaming squad in 4 simple steps",
     "step1": {
       "title": "Create Your Gaming Profile",
-      "description": "Tell us about your gaming preferences: favorite games, skill level (ELO), play style (aggressive, defensive, support), preferred roles, and when you play. Connect your Riot Games account for automatic rank verification.",
+      "description": "Tell us about your gaming preferences: favorite games, skill level (ELO), play style (aggressive, defensive, support), preferred roles, and when you play.  Set your rank per game and your roles — filters run on what you declare.",
       "feature1": "Link League of Legends & Valorant accounts",
       "feature2": "Set your gaming schedule",
       "feature3": "Choose your preferred communication style"
@@ -2102,12 +2102,12 @@
     "cta": {
       "label": "Get Jynx",
       "heading": "Find your duo on Jynx",
-      "sub": "Free. Verified ranks. Voice + schedule matching."
+      "sub": "Free. Rank, role, and region filters. Voice + schedule matching."
     },
     "cta_final": {
       "label": "Get Jynx",
       "heading": "Stop solo-queueing",
-      "sub": "Get Jynx and find a verified duo today."
+      "sub": "Get Jynx and find your duo today."
     },
     "footer": {
       "rights": "All rights reserved."

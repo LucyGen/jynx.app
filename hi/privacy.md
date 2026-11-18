@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "प्राइवेसी पॉलिसी"
 description: "जानें कि Jynx कैसे आपकी privacy को protect करता है और आपके data को handle करता है। हमारी transparent privacy policy हमारी practices और आपके अधिकारों को outline करती है।"
 canonical: "https://jynx.app/hi/privacy.html"
 locale: "hi"
@@ -7,9 +7,9 @@ dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Privacy Policy
+# प्राइवेसी पॉलिसी
 
-आखिरी अपडेट: नवंबर 2026
+आखिरी अपडेट: 17 नवंबर 2026
 
 Version: 1.13
 
@@ -65,13 +65,13 @@ Jynx ("हम", "हमारा", "एप्लिकेशन") एक सो�
 
 ### कानूनी जानकारी:
 
-- **कानूनी इकाई:** Jynx Group
-- **Privacy Officer संपर्क:** dpo@jynx.app
-- **EU / EEA jurisdiction:** France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.
-- **Brazilian jurisdiction:** This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.
-- **Publication (LCEN):** Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network.
+- **कानूनी इकाई:** Jynx Group (Société par Actions Simplifiée, SIREN 991443896, नांत, फ्रांस में रजिस्टर्ड)
+- **डेटा प्रोटेक्शन ऑफिसर / Encarregado:** dpo@jynx.app
+- **EU / EEA ज्यूरिस्डिक्शन:** फ्रांस, यूरोपीय संघ — यह प्राइवेसी पॉलिसी रेगुलेशन (EU) 2016/679 (GDPR) और डायरेक्टिव 2002/58/EC (ePrivacy) के अनुरूप है, जैसा कि फ्रांस में लागू किया गया है।
+- **ब्राज़ीलियन ज्यूरिस्डिक्शन:** यह प्राइवेसी पॉलिसी ब्राज़ील के क़ानून nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD") के भी अनुरूप है, जो LGPD के आर्टिकल 3 के तहत ब्राज़ील में मौजूद डेटा-सब्जेक्ट्स के पर्सनल डेटा पर Jynx के प्रोसेसिंग पर लागू होता है — इस बात के बावजूद कि Jynx का ब्राज़ील में कोई प्रतिष्ठान नहीं है।
+- **पब्लिकेशन (LCEN):** Directeur de la publication: Antoine Haie। यह वेबसाइट (jynx.app) GitHub Pages पर होस्ट है और Cloudflare कंटेंट-डिलिवरी नेटवर्क के ज़रिए डिलीवर होती है।
 
-For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.
+LGPD के उद्देश्यों के लिए, Jynx Group आपके पर्सनल डेटा का कंट्रोलर (controlador) है। हमारा डेटा प्रोटेक्शन ऑफिसर encarregado (DPO) की भूमिका में है और LGPD से जुड़ी किसी भी रिक्वेस्ट के लिए dpo@jynx.app पर पहुंचा जा सकता है। हालांकि ANPD रेज़ोल्यूशन CD/ANPD nº 2/2022 के तहत Jynx एक pequeno agente de tratamento de dados pessoais (छोटे स्तर का एजेंट) है — जो Jynx को encarregado नियुक्त करने की ज़रूरत से मुक्त करता है — Jynx यह पब्लिश्ड कम्युनिकेशन चैनल अपनी ओर से जारी रखता है।
 
 यह privacy policy बताती है कि जब आप हमारे एप्लिकेशन का उपयोग करते हैं तो हम कैसे आपके personal data को collect, use, share और protect करते हैं।
 
@@ -81,7 +81,7 @@ For the purposes of the LGPD, Jynx Group is the controller (controlador) of your
 
 अपना account बनाते समय, हम आपसे आपकी जन्म तिथि प्रदान करने के लिए कहते हैं। यदि आपकी आयु 18 वर्ष से कम है, तो आप account नहीं बना पाएंगे या हमारी services का उपयोग नहीं कर पाएंगे।
 
-Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor.
+नाबालिगों के लिए मार्केटिंग। Jynx 18 या उससे ज़्यादा उम्र के यूज़र्स तक सीमित है और ऑटोमेटेड एज गेट लागू करता है। अगर हम बाद में पहचानते हैं कि कोई यूज़र 18 से कम उम्र का है (LGPD आर्टिकल 14; GDPR आर्टिकल 8), तो हम तुरंत अकाउंट बंद कर देंगे, यूज़र को मार्केटिंग, री-एंगेजमेंट और सर्वे कम्युनिकेशन्स से बाहर निकाल देंगे, और संबंधित मार्केटिंग डेटा डिलीट कर देंगे। हम किसी नाबालिग से जानबूझकर मार्केटिंग कंसेंट कभी नहीं लेते।
 
 ## 3. एकत्रित डेटा
 
@@ -92,11 +92,11 @@ Marketing to minors. Jynx is restricted to users aged 18 and over and applies an
 #### Authentication जानकारी:
 
 - Email (email/password accounts के लिए)
-- Username/nickname
+- यूज़रनेम/निकनेम
 - Profile photo (वैकल्पिक)
-- Social login identifiers (Google, Apple) if you use these methods
-- Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time
-- Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account
+- सोशल लॉगिन आइडेंटिफायर्स (Google, Apple), अगर आप ये तरीके इस्तेमाल करते हैं
+- Discord आइडेंटिफायर्स (आपका Discord यूज़र ID), अगर आप Discord इंटीग्रेशन के लिए अपना Discord अकाउंट कनेक्ट करना चुनते हैं — यह कनेक्शन Discord की identify-only OAuth इस्तेमाल करता है और साइन-इन का तरीका नहीं है; आप इसे कभी भी डिस्कनेक्ट कर सकते हैं
+- गेस्ट ब्राउज़िंग (जब उपलब्ध हो): आप बिना अकाउंट बनाए Jynx के पब्लिक हिस्से देख सकते हैं; गेस्ट मोड में हम सिर्फ़ लोकली सेव गेस्ट आइडेंटिफायर और §3.3 का टेक्निकल डेटा प्रोसेस करते हैं जो ऐप सर्व करने के लिए ज़रूरी है — कोई प्रोफाइल नहीं बनती और कोई अकाउंट डेटा नहीं रखा जाता। मैच करने, चैट करने या कम्युनिटीज़ में जुड़ने के लिए अकाउंट बनाना ज़रूरी है
 
 #### Profile जानकारी:
 
@@ -107,24 +107,24 @@ Marketing to minors. Jynx is restricted to users aged 18 and over and applies an
 - गेमिंग preferences और availability
 - यूनीक handle (private friend discovery के लिए स्वचालित रूप से generated)
 
-### 3.2. Gaming Data
+### 3.2. गेमिंग डेटा
 
 आपको compatible teammates खोजने में मदद करने के लिए, हम एकत्र करते हैं:
 
-#### Game Profiles:
+#### गेम प्रोफाइल्स:
 
-- आपके द्वारा खेले जाने वाले games
+- आपके खेले जाने वाले गेम्स
 - Levels, ranks और game statistics
 - पसंदीदा champions/characters
-- Play style
+- प्लेस्टाइल
 
-#### Riot Games API Integration:
+#### Riot Games API इंटीग्रेशन:
 
 हम Riot Games API से retrieve करते हैं (आपकी सहमति से):
 
 - Summoner name और Riot ID
 - Rank और match history (League of Legends, Valorant, आदि)
-- Champion statistics
+- चैंपियन स्टैट्स
 - हाल की match history
 
 **एकत्र करने का कारण:** आपकी player profile display करना और अन्य players के साथ matching में सुधार करना।
@@ -135,37 +135,37 @@ Marketing to minors. Jynx is restricted to users aged 18 and over and applies an
 
 #### Analytics और Performance:
 
-- **Firebase Performance Monitoring:** App startup time, interface fluidity
+- **Firebase Performance Monitoring:** ऐप स्टार्टअप टाइम, इंटरफ़ेस फ्लूइडिटी
 - **Sentry:** Error और performance reports (personal data anonymization के साथ)
-- **Firebase Crashlytics:** Crash reports
+- **Firebase Crashlytics:** क्रैश रिपोर्ट्स
 
 #### Device जानकारी:
 
 - Device type और model
-- Operating system version
+- ऑपरेटिंग सिस्टम का वर्ज़न
 - एप्लिकेशन version
 - डिवाइस पहचानकर्ता और डिवाइस-अखंडता संकेत (देखें §5.7)
 
-#### User Behavior:
+#### यूज़र बिहेवियर:
 
 - देखी गई screens और उपयोग की गई features
 - एप्लिकेशन में बिताया गया समय
-- Interface interactions
+- इंटरफ़ेस इंटरैक्शन्स
 
 आप Settings > Privacy > "Enable Analytics" में analytics data collection को disable कर सकते हैं।
 
-Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9.
+Meta के साथ ऐडवरटाइज़िंग मेज़रमेंट एनालिटिक्स से अलग है और उसका अपना स्विच है: §5.9 देखें।
 
-### 3.4. Communication Data
+### 3.4. कम्युनिकेशन डेटा
 
-- **Messages:** Community chats में messages, users के बीच private messages, conversation history
-- **Notifications:** FCM tokens (Firebase Cloud Messaging) push notifications के लिए
+- **मैसेजेस:** Community chats में messages, users के बीच private messages, conversation history
+- **नोटिफिकेशन्स:** FCM tokens (Firebase Cloud Messaging) push notifications के लिए
 
-### 3.5. User Generated Content
+### 3.5. यूज़र जनरेटेड कंटेंट
 
-- Upload की गई photos (profile pictures, अतिरिक्त photos) and images shared in direct messages
+- Upload की गई photos (profile pictures, अतिरिक्त photos) और डायरेक्ट मैसेजेस में शेयर की गई इमेजेज़
 - Security और moderation reports
-- Cosmetic preferences (avatars, badges)
+- कॉस्मेटिक प्रेफ़रेंसेज़ (अवतार, बैजेज)
 
 ### 3.6. वॉइस रूम ऑडियो डेटा
 
@@ -179,45 +179,45 @@ Jynx, LiveKit की रिकॉर्डिंग, ट्रांसक्र
 
 ## 4. Third-Party Services और Data Sharing
 
-### 4.1. Firebase Services (Google)
+### 4.1. Firebase सर्विसेज़ (Google)
 
 हम निम्नलिखित Firebase services का उपयोग करते हैं, सभी GDPR compliant:
 
-- **Firebase Authentication:** Secure user account management
+- **Firebase Authentication:** सिक्योर यूज़र अकाउंट मैनेजमेंट
 - **Cloud Firestore:** आपके profile और game data का storage
 - **Firebase Storage:** आपकी profile images को hosting
-- **Cloud Functions:** Secure backend logic execution
-- **Firebase Cloud Messaging:** Push notifications
+- **Cloud Functions:** सिक्योर बैकएंड लॉजिक एक्ज़ीक्यूशन
+- **Firebase Cloud Messaging:** पुश नोटिफिकेशन्स
 - **Firebase App Check:** Abuse और bots से protection
-- **Firebase Performance Monitoring:** App performance monitoring
-- **Firebase Crashlytics:** Crash reports
+- **Firebase Performance Monitoring:** ऐप परफ़ॉर्मेंस मॉनिटरिंग
+- **Firebase Crashlytics:** क्रैश रिपोर्ट्स
 
-**Firebase Privacy Policy:** https://firebase.google.com/support/privacy
+**Firebase प्राइवेसी पॉलिसी:** https://firebase.google.com/support/privacy
 
-### 4.2. Sentry (Error Monitoring)
+### 4.2. Sentry (एरर मॉनिटरिंग)
 
 हम error और performance tracking के लिए Sentry का उपयोग करते हैं। एकत्रित data में शामिल है:
 
-- Error traces
-- Technical context (OS, app version)
+- एरर ट्रेसेज़
+- टेक्निकल कॉन्टेक्स्ट (OS, ऐप वर्ज़न)
 
-**Sentry Privacy Policy:** https://sentry.io/privacy/
+**Sentry प्राइवेसी पॉलिसी:** https://sentry.io/privacy/
 
 ### 4.3. Riot Games API
 
 जब आप अपना Riot Games account link करते हैं, तो हम official Riot Games API के माध्यम से आपकी game statistics retrieve करते हैं। यह data केवल आपकी profile display करने और matching में सुधार के लिए उपयोग किया जाता है।
 
-**Riot Games Privacy Policy:** https://www.riotgames.com/en/privacy-notice
+**Riot Games प्राइवेसी पॉलिसी:** https://www.riotgames.com/en/privacy-notice
 
-### 4.4. Email Service Provider (Marketing & Survey Communications)
+### 4.4. ईमेल सर्विस प्रोवाइडर (मार्केटिंग और सर्वे कम्युनिकेशन्स)
 
-To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.
+§5.6 में बताए गए मार्केटिंग, री-एंगेजमेंट और अनइंस्टॉल/चर्न-सर्वे ईमेल्स डिलीवर करने के लिए Jynx एक थर्ड-पार्टी ईमेल सर्विस प्रोवाइडर (ESP) इस्तेमाल करता है, जो प्रोसेसर की भूमिका में है (GDPR आर्टिकल 28; LGPD आर्टिकल 39 — operador)। ESP आपका ईमेल एड्रेस और डिलीवरी का न्यूनतम डेटा (जैसे सेंड/बाउंस स्टेटस) सिर्फ़ Jynx के डॉक्यूमेंटेड निर्देशों पर, साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत प्रोसेस करता है।
 
-- **ESP identity, role, and location:** Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/
-- **Sub-processors:** Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/
-- **International transfer basis:** See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.
+- **ESP की पहचान, भूमिका और लोकेशन:** Brevo (Brevo SAS, पेरिस, फ्रांस) — हमारा ईमेल सर्विस प्रोवाइडर और साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत डेटा प्रोसेसर। Brevo प्राइवेसी पॉलिसी: https://www.brevo.com/legal/privacypolicy/
+- **सब-प्रोसेसर्स:** Brevo की मौजूदा सब-प्रोसेसर्स की लिस्ट उसके डेटा प्रोसेसिंग एग्रीमेंट (टर्म्स ऑफ यूज़) में पब्लिश है: https://www.brevo.com/legal/termsofuse/
+- **इंटरनेशनल ट्रांसफ़र का आधार:** §9 देखें। Brevo का HQ फ्रांस (EU) में है। Brevo को ट्रांसफ़र को इसलिए GDPR के तहत EU के प्रोटेक्शन रेजीम का फ़ायदा मिलता है और, ब्राज़ीलियन यूज़र्स के लिए, EU के लिए ANPD एडीक्वेसी डिसीज़न (रेज़ोल्यूशन nº 32/2026) का — SCCs या कोई अतिरिक्त मैकेनिज़्म ज़रूरी नहीं।
 
-We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6.
+हम आपका पर्सनल डेटा नहीं बेचते। मार्केटिंग ईमेल्स में §5.6 में बताई गई अलग लीगल बेसिस के बिना कोई ट्रैकिंग पिक्सेल या छिपा हुआ एनालिटिक्स एम्बेड नहीं है।
 
 ### 4.5. LiveKit Cloud (रीयल-टाइम वॉइस)
 
@@ -227,45 +227,45 @@ Jynx, LiveKit की रिकॉर्डिंग, ट्रांसक्र
 
 LiveKit अपने डेटा प्रोसेसिंग एडेंडम के तहत बिलिंग, दुरुपयोग रोकने और परिचालन उद्देश्यों के लिए सत्र का परिचालन मेटाडेटा — जैसे प्रतिभागी पहचान, रूम पहचानकर्ता, कनेक्शन समय और गुणवत्ता मीट्रिक — अवश्य रखता है। इस मेटाडेटा का उपयोग प्लेटफ़ॉर्म के बाहर आपकी पहचान करने या विज्ञापन के लिए नहीं किया जाता।
 
-### 4.6. App Store / Google Play (In-App Purchases and Subscriptions)
+### 4.6. App Store / Google Play (इन-ऐप परचेस और सब्सक्रिप्शन्स)
 
-Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.
+Jynx+ सब्सक्रिप्शन्स और फ़ाउंडर पैक्स इन-ऐप, Apple के App Store और Google Play के ज़रिए बेचे जाते हैं, जो इन खरीदारियों के लिए मर्चेंट ऑफ रिकॉर्ड हैं (सर्विस की शर्तें, सेक्शन 8 देखें)। पेमेंट इंस्ट्रूमेंट का डेटा (जैसे कार्ड डिटेल्स) सिर्फ़ Apple/Google अपनी-अपनी प्राइवेसी पॉलिसी के तहत कलेक्ट और प्रोसेस करते हैं; Jynx कोई पेमेंट इंस्ट्रूमेंट डेटा कलेक्ट, रिसीव या स्टोर नहीं करता।
 
-Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).
+हमारे बिलिंग प्रोवाइडर RevenueCat (एक प्रोसेसर, साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत; GDPR आर्टिकल 28; LGPD आर्टिकल 39 — operador) के ज़रिए Jynx को सिर्फ़ वह जानकारी मिलती है जो आपकी खरीदी चीज़ डिलीवर करने के लिए ज़रूरी है: आपका सब्सक्रिप्शन और एनटाइटलमेंट स्टेटस (जैसे Jynx+ एक्टिव है या नहीं और उसकी रिन्यूअल डेट), खरीदा गया फ़ाउंडर पैक टियर, और ट्रांज़ैक्शन आइडेंटिफायर्स। यह डेटा सर्विस देने और अकाउंटिंग व रिकॉर्ड-कीपिंग क़र्ज़ों को पूरा करने के लिए ज़रूरी समय तक रखा जाता है (§6), और सिर्फ़ आपके एनटाइटलमेंट्स देने-बनाए रखने और फ्रॉड रोकने के लिए इस्तेमाल होता है। RevenueCat अमेरिका में स्थापित है; RevenueCat को पर्सनल डेटा के ट्रांसफ़र EU-US डेटा प्राइवेसी फ्रेमवर्क (DPF के तहत सेल्फ-सर्टिफाइड RevenueCat एंटिटीज़ के लिए) या स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ पर टिके हैं जहां DPF लागू नहीं होता। ब्राज़ीलियन यूज़र्स के डेटा के लिए लागू ट्रांसफ़र मैकेनिज़्म हमारे रिकॉर्ड्स ऑफ प्रोसेसिंग एक्टिविटीज़ में कन्फ़र्म है (§9 देखें)।
 
-- Apple Privacy Policy: https://www.apple.com/legal/privacy/
-- Google Privacy Policy: https://policies.google.com/privacy
-- RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
+- Apple प्राइवेसी पॉलिसी: https://www.apple.com/legal/privacy/
+- Google प्राइवेसी पॉलिसी: https://policies.google.com/privacy
+- RevenueCat प्राइवेसी पॉलिसी: https://www.revenuecat.com/privacy
 
-### 4.7. Specialized Child-Safety Technology Providers
+### 4.7. विशेष चाइल्ड-सेफ्टी टेक्नोलॉजी प्रोवाइडर्स
 
-To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9).
+ज्ञात चाइल्ड सेक्शुअल एब्यूज़ मटेरियल पहचानने में मदद के लिए (§5.8 देखें), Jynx प्रोसेसर की भूमिका में रहने वाले विशेष चाइल्ड-सेफ्टी टेक्नोलॉजी प्रोवाइडर्स के साथ काम करता है (GDPR आर्टिकल 28; LGPD आर्टिकल 39 — operador)। इन प्रोवाइडर्स को इमेजेज़ से बने सिर्फ़ अनरिवर्सिबल हैश मिलते हैं — इमेजेज़ कभी नहीं — और वे हैश मैचिंग EU रीजन में, सिर्फ़ Jynx के डॉक्यूमेंटेड निर्देशों पर चाइल्ड-सेफ्टी डिटेक्शन के लिए करते हैं। इमेज से हैश बनाना Jynx के अपने Google Cloud इंफ़्रास्ट्रक्चर के अंदर होता है (§9 देखें)।
 
-### 4.8. Cloud Image-Moderation Provider (AWS)
+### 4.8. क्लाउड इमेज-मॉडरेशन प्रोवाइडर (AWS)
 
-To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9).
+प्लेटफॉर्म को सुरक्षित रखने के लिए प्रोफाइल पिक्चर्स और गैलरी फोटोज़ को एक ऑटोमेटेड इमेज-क्लासिफिकेशन सर्विस से स्क्रीन किया जाता है — Amazon Rekognition, जो Amazon Web Services (AWS) देता है और प्रोसेसर की भूमिका में है (GDPR आर्टिकल 28; LGPD आर्टिकल 39 — operador)। इस उद्देश्य के लिए इमेज AWS को भेजी जाती है और मशीन लर्निंग से अनुचित कंटेंट (जैसे न्यूडिटी या एक्सप्लिसिट मटेरियल) के लिए जांची जाती है; नतीजा एक मशीन-जनरेटेड लेबल और कॉन्फिडेंस स्कोर होता है जिसे हमारी मॉडरेशन प्रोसेस में संभाला जाता है (चाइल्ड सेफ्टी पॉलिसी देखें)। यह प्रोसेसिंग सिर्फ़ कंटेंट मॉडरेशन और सुरक्षा के लिए है — प्रोफ़ाइलिंग, ऐडवरटाइज़िंग या किसी और काम के लिए कभी नहीं। AWS यह डेटा सर्विस के लिए कॉन्फ़िगर किए गए AWS रीजन में प्रोसेस करता है (फ़िलहाल साओ पाउलो, ब्राज़ील); §9 के ट्रांसफ़र सेफगार्ड्स लागू होते हैं। सर्विस के बाकी हिस्सों की तरह, इमेज AWS को भेजे जाने से पहले Jynx के अपने Google Cloud इंफ़्रास्ट्रक्चर से गुज़रती है (§9 देखें)।
 
-### 4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)
+### 4.9. ऐडवरटाइज़िंग एट्रिब्यूशन (Meta, Apple ATT, Google Play Install Referrer)
 
-To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.
+यह मापने के लिए कि हमारे ऐप इंस्टॉल मार्केटिंग की वजह से हुए हैं या नहीं, हम ऐडवरटाइज़िंग- और एट्रिब्यूशन टेक्नोलॉजी इस्तेमाल करते हैं, जहां ज़रूरी हो वहां आपकी सहमति के अधीन: Meta (Facebook) App Events SDK (Meta Platforms Ireland) और Google Play Install Referrer API। Apple डिवाइसेज़ पर Meta SDK सिर्फ़ तब इनिशियलाइज़ होता है जब आप App Tracking Transparency (ATT) परमिशन देते हैं; इसके बिना कोई ऐडवरटाइज़िंग आइडेंटिफायर (IDFA) कलेक्ट नहीं होता और SDK इनिशियलाइज़ नहीं होता। Android पर Google Play Install Referrer API बताता है कि आपका इंस्टॉल स्टोर लिस्टिंग या कैंपेन लिंक से आया है या नहीं, और ऐडवरटाइज़िंग आइडेंटिफायर (GAID) आपके डिवाइस की ऐडवरटाइज़िंग-ID सेटिंग्स के मुताबिक इस्तेमाल होता है। Meta को भेजे जाने वाले इवेंट्स ऐप एक्टिवेशन और ऐप-इवेंट मेटाडेटा तक सीमित हैं (जिनमें, जहां आप साइन-इन हैं, आपका ऐप यूज़र आइडेंटिफायर शामिल है, जो लॉग आउट पर SDK से क्लियर हो जाता है), और एट्रिब्यूशन व कैंपेन मेज़रमेंट के लिए Jynx के निर्देशों पर प्रोसेस होते हैं।
 
-Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.
+Meta Platforms Ireland यह डेटा ऊपर बताए एट्रिब्यूशन उद्देश्य के लिए हमारे प्रोसेसर की हैसियत से प्रोसेस करता है; Meta Platforms, Inc. अपनी असली वैध ज़रूरतों के लिए अपनी शर्तों के तहत इंडिपेंडेंट कंट्रोलर की भूमिका भी निभा सकता है (Meta के डेटा प्रोसेसिंग टर्म्स और उसकी प्राइवेसी पॉलिसी https://www.facebook.com/privacy/policy पर)। अमेरिका को ट्रांसफ़र सेल्फ-सर्टिफाइड Meta एंटिटीज़ के लिए EU-US डेटा प्राइवेसी फ्रेमवर्क या स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ (§9) पर टिके हैं। आप ATT परमिशन मना या वापस ले सकते हैं या अपना ऐडवरटाइज़िंग ID कभी भी डिवाइस सेटिंग्स में रीसेट कर सकते हैं; मना करने का आपके Jynx इस्तेमाल पर कोई असर नहीं पड़ता।
 
-**Ad measurement.** Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.
+**ऐड मेज़रमेंट।** इंस्टॉल एट्रिब्यूशन से आगे, हम कन्वर्ज़न्स भी मापते हैं: Meta के साथ शेयर किए गए इवेंट्स में साइन-अप (रजिस्ट्रेशन), ऑनबोर्डिंग पूरा होना और परचेस शामिल हैं — परचेस की रकम और करेंसी के साथ। जहां आपने सहमति दी है, मैच क्वालिटी बेहतर करने के लिए एक हैश्ड (अनरिवर्सिबली स्क्रैम्बल किया) ईमेल एड्रेस या फ़ोन नंबर भी शेयर हो सकता है; जो यूज़र्स हमारे लीजिटिमेट इंटरेस्ट (नीचे) पर मापे जाते हैं, उनके साथ यह कभी नहीं होता। साइन-अप (रजिस्ट्रेशन) इवेंट में आपका खुद घोषित जेंडर भी शामिल हो सकता है। इसके अलवा कुछ शेयर नहीं होता — न मैसेज, प्रोफाइल फ़ील्ड्स, गेम्स, कम्युनिटीज़, कॉन्टैक्ट्स, लोकेशन या फोटोज़ — और आपका डेटा कभी नहीं बेचा जाता। लीगल बेसिस, आपके विकल्प और Apple SKAdNetwork डिस्क्लोज़र §5.9 में हैं।
 
-Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing.
+रिटेंशन: Meta के साथ शेयर किए गए इवेंट्स की अलग कॉपी Jynx पास नहीं रखता। पहले से शेयर हुए इवेंट्स Meta के बिज़नेस टूल्स के रिटेंशन और डिलीशन प्रोसेसेस के अधीन रहते हैं, जो शेयरिंग के पल से लागू होते हैं।
 
-### 4.10. Creator (Partner) Program — KYC and Payouts
+### 4.10. क्रिएटर (पार्टनर) प्रोग्राम — KYC और पेआउट्स
 
-If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).
+अगर आप Jynx क्रिएटर (पार्टनर) प्रोग्राम में जुड़ते हैं, तो हम प्रोग्राम के लिए ज़रूरी आइडेंटिटी, टैक्स और पेआउट जानकारी प्रोसेस करते हैं: आपका CPF या CNPJ (इन-ऐप वैलिडेट होता है), आपका चुना हुआ पेआउट रेल — PayPal (ईमेल से पहचाना जाता है), Wise बैंक ट्रांसफ़र (ब्राज़ील), या Pix की — और आपके कैंपेन परफ़ॉर्मेंस रिकॉर्ड्स (एट्रिब्यूटेड साइन-अप्स; §10 रेफ़रल्स देखें)। पेआउट रिकॉर्ड्स स्यूडोनिमस रूप में रखे जाते हैं (§10)। प्रोग्राम उन वर्ज़न्ड क्रिएटर रेफ़रल टर्म्स और सेल्फ-बिलिंग मैंडेट से चलता है जिन्हें आप एनरोलमेंट पर स्वीकार करते हैं (सर्विस की शर्तें §15 देखें)।
 
-Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9.
+पेआउट्स आपके चुने रेल को चलाने वाली पेमेंट इंस्टीट्यूशन से निष्पादित होते हैं: PayPal या Wise को ट्रांसफ़र निर्देश और आपकी पहचान तस्दीक़ करने, फ्रॉड रोकने और अपने रेगुलेटरी क़र्ज़ों को पूरा करने के लिए ज़रूरी डेटा मिलता है, और वे इंडिपेंडेंट पेमेंट इंस्टीट्यूशन के तौर पर अपनी शर्तों के तहत काम करते हैं (उनकी प्राइवेसी पॉलिसी उनकी वेबसाइटों पर पब्लिश हैं); Pix पेआउट Jynx Group की ओर से आपके दिए Pix की पर शुरू किया गया ट्रांसफ़र है। लागू इंटरनेशनल-ट्रांसफ़र सेफगार्ड्स §9 में हैं।
 
-### 4.11. AI Features
+### 4.11. AI फीचर्स
 
-**Avatar generation.** The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).
+**अवतार जनरेशन।** अवतार क्विज़ आपकी प्रोफाइल के लिए स्टाइलाइज़्ड अवतार प्रपोज़ल्स जनरेट कर सकती है। जनरेशन फ़िलहाल Cloudflare Workers AI (Cloudflare, Inc., प्रोसेसर) पर Jynx के डॉक्यूमेंटेड निर्देशों से चलती है; अगर अंडरलाइंग इंजन बदलता है, तो यह सेक्शन बदलाव से पहले या साथ अपडेट होगा। इनपुट में आपके क्विज़ जवाब और प्लेस्टाइल प्रेफ़रेंसेज़ हैं — आपकी फोटोज़ कभी नहीं — आपके यूज़र आइडेंटिफायर के साथ; प्रपोज़ल्स PNG या WebP इमेजेज़ के रूप में ऐप को लौटाए जाते हैं और 30 दिन तक रखे जाते हैं ताकि आप उन्हें वापस ले सकें, उसके बाद डिलीट कर दिए जाते हैं। जनरेटेड इमेजेज़ सिंथेटिक हैं — वे आपकी फोटोग्राफ़ नहीं हैं — और बाकी इमेजेज़ की तरह उसी मॉडरेशन के अधीन हैं (§4.8)।
 
-**Companion messages (Quimera).** Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1).
+**कंपेनियन मैसेजेस (Quimera)।** कुछ कंपेनियन-ऐप मैसेज एक जनरेटिव AI सिस्टम (Google Gemini, प्रोसेसर) से लिखे या बेहतर किए जाते हैं। जहां मैसेज AI-जनरेटेड है, वहां उसे ऐसा ही लेबल लगा होता है; EU AI Act आर्टिकल 50(1) के मुताबिक आपको हमेशा बताया जाता है कि आप किसी AI-जनरेटेड एलिमेंट से इंटरैक्ट कर रहे हैं।
 
 ## 5. Data का उपयोग
 
@@ -277,23 +277,23 @@ Payouts are executed through the payment institution operating the rail you chos
 - आपको अन्य players से connect करने की अनुमति देना
 - Team creation और gaming session organization को facilitate करना
 
-### 2. Personalization:
+### 2. पर्सनलाइज़ेशन:
 
 - Compatible teammates की recommend करना (game-based, rank, style matching)
 - Relevant content display करना
 
-### 3. Communication:
+### 3. कम्युनिकेशन (ऑपरेशनल / ट्रांज़ैक्शनल):
 
-- आपको महत्वपूर्ण notifications भेजना (matches मिलने पर, messages प्राप्त होने पर)
+- आपको ज़रूरी सर्विस नोटिफिकेशन्स भेजना (मैचेज़ मिलने पर, मैसेजेस आने पर, अकाउंट-सिक्योरिटी अलर्ट्स और §11 के तहत पॉलिसी-बदलाव नोटिस)
 
-Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category.
+मार्केटिंग, री-एंगेजमेंट और अनइंस्टॉल/चर्न-सर्वे ईमेल्स §5.6 मार्केटिंग कम्युनिकेशन्स में अलग से बताए गए हैं और इस ट्रांज़ैक्शनल कैटेगरी में नहीं आते।
 
 ### 4. Service में सुधार:
 
 - Features में सुधार के लिए usage का analyze करना
 - Bugs को identify और fix करना
 - Performance को optimize करना
-- Generate avatar proposals and companion-message drafts using AI processors (§4.11)
+- AI प्रोसेसर्स (§4.11) से अवतार प्रपोज़ल्स और कंपेनियन-मैसेज ड्राफ़्ट्स जनरेट करना
 
 ### 5. Security और Compliance:
 
@@ -301,86 +301,86 @@ Marketing, re-engagement, and uninstall/churn-survey emails are described separa
 - हमारे terms of use को enforce करना
 - कानूनी दायित्वों का पालन करना
 
-We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.
+हम ऐप यूज़ेज से बने एनोनिमाइज़्ड, एग्रीगेटेड स्टैटिस्टिक्स पब्लिश कर सकते हैं (जैसे प्लेयर्स डुओ कैसे बनाते हैं)। ये स्टैटिस्टिक्स किसी इंडिविज़ुअल यूज़र की पहचान कभी नहीं करतीं।
 
-### 5.6. Marketing Communications
+### 5.6. मार्केटिंग कम्युनिकेशन्स
 
-In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., "Why did you stop using Jynx?"). These communications are distinct from transactional/service notifications.
+§5.3 की ऑपरेशनल नोटिफिकेशन्स के अलावा, हम आपको ईमेल से मार्केटिंग और री-एंगेजमेंट कम्युनिकेशन्स भेज सकते हैं, जिनमें शामिल हैं: Jynx ऐप के प्रोडक्ट अपडेट्स और फीचर घोषणाएं; न्यूज़लेटर्स; ऐप पर वापस बुलाने वाले री-एंगेजमेंट मैसेजेस; और छोटे अनइंस्टॉल या चर्न फीडबैक सर्वे (जैसे "आपने Jynx इस्तेमाल क्यों छोड़ा?")। ये कम्युनिकेशन्स ट्रांज़ैक्शनल/सर्विस नोटिफिकेशन्स से अलग हैं।
 
-**Legal basis — European Union / EEA users (GDPR + ePrivacy).** Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a "sale" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The "soft opt-in" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.
+**लीगल बेसिस — यूरोपीय संघ / EEA यूज़र्स (GDPR + ePrivacy)।** EU/EEA यूज़र्स को मार्केटिंग और री-एंगेजमेंट ईमेल्स आपकी पहले की स्पष्ट ऑप्ट-इन सहमति के आधार पर भेजे जाते हैं (ePrivacy डायरेक्टिव आर्टिकल 13(1), जो फ्रांस में Code des postes et des communications électroniques के आर्टिकल L. 34-5 में लागू हुआ; GDPR आर्टिकल 6(1)(a) और आर्टिकल 7)। पेड सब्सक्रिप्शन्स (Jynx+) और वन-टाइम इन-ऐप परचेसेस (फ़ाउंडर पैक्स) के लॉन्च के बाद सर्विस अब एक रेम्युनरेटेड सर्विस है, और वे परचेसेस CJEU फ़ैसले C-654/23 (13 नवंबर 2025) के मायनों में "सेल" हैं। मौजूदा ग्राहकों को मिलते-जुलते प्रोडक्ट्स और सर्विसेज़ के लिए ePrivacy आर्टिकल 13(2) का "सॉफ्ट ऑप्ट-इन" अपवाद इसलिए सिद्धांत रूप में हमारे लिए उपलब्ध है। लेकिन सावधानी के तौर पर हम आपकी पहले की स्पष्ट ऑप्ट-इन सहमति पर ही टिके रहते हैं; हम सॉफ्ट-ऑप्ट-इन आधार पर तभी जाएंगे जब हमारे रिकॉर्ड्स ऑफ प्रोसेसिंग एक्टिविटीज़ में दर्ज एक डॉक्यूमेंटेड पुनर्मूल्यांकन और आपको अपडेटेड नोटिस के बाद।
 
-**Legal basis — Brazilian users (LGPD).** For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:
+**लीगल बेसिस — ब्राज़ीलियन यूज़र्स (LGPD)।** ब्राज़ीलियन यूज़र्स के लिए मार्केटिंग और री-एंगेजमेंट कम्युनिकेशन्स दो वैकल्पिक लीगल बेसिस पर टिके हैं:
 
-1. **Consent (LGPD Art. 7, I and Art. 8)** — captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.
-2. **Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)** — used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.
+1. **सहमति (LGPD आर्टिकल 7, I और आर्टिकल 8)** — साइनअप या इन-ऐप पर अलग, अन-टिक्ड, परपज़-स्पेसिफिक ऑप्ट-इन के रूप में ली जाती है, तारीख़, फॉर्म वर्ज़न और भाषा के साथ दर्ज; आप इसे कभी भी, मुफ्त में, सर्विस का एक्सेस खोए बिना वापस ले सकते हैं (आर्टिकल 8 §5)। कोर Jynx ऐप से परे किसी भी कम्युनिकेशन के लिए — प्रॉस्पेक्ट्स, कोल्ड आउटरीच या क्रॉस-सेल/पार्टनर ऑफ़र्स — सहमति ही आधार है।
+2. **लीजिटिमेट इंटरेस्ट (LGPD आर्टिकल 7, IX, जिसे आर्टिकल 10 ने विस्तार दिया)** — सिर्फ़ मौजूदा या हाल में छूटे यूज़र्स के लिए इस्तेमाल होता है, जिन्हें री-एंगेजमेंट मैसेजेस, उसी Jynx ऐप के प्रोडक्ट अपडेट्स, या एक छोटा चर्न/अनइंस्टॉल फीडबैक सर्वे मिलते हैं। इस आधार पर जाने से पहले Jynx ANPD लीजिटिमेट इंटरेस्ट गाइड (2 फ़रवरी 2024) के तीन-चरण टेस्ट के मुताबिक एक लीजिटिमेट इंटरेस्ट्स असेसमेंट (LIA) करता और दर्ज करता है: (i) परपज़, (ii) नेसेसिटी और (iii) बैलेंसिंग और सेफगार्ड्स। LIA पिछला रिश्ता, यूज़र की वाजिब अपेक्षाएं, परपज़, चुने गए सबसे कम दख़ल वाले तरीके और ऑप्ट-आउट चैनल दर्ज करता है। लीजिटिमेट इंटरेस्ट कोल्ड/अनसॉलिसिटेड ईमेल, असंबंधित क्रॉस-सेल, ख़रीदी गई लिस्ट्स या रिश्ता साफ़ ख़त्म होने के बाद निकले हुए यूज़र्स को लगातार मैसेज भेजने के लिए इस्तेमाल नहीं होता।
 
-**Right to object / opt-out.** Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.
+**आपत्ति का अधिकार / ऑप्ट-आउट।** ब्राज़ीलियन यूज़र्स कभी भी इस प्रोसेसिंग का विरोध कर सकते हैं और §7.5 और §7.6 के मैकेनिज़्म से ऑप्ट आउट कर सकते हैं (हर ईमेल में वन-क्लिक अनसब्सक्राइब, या इन-ऐप कम्युनिकेशन्स-प्रेफ़रेंसेज़ टॉगल), बिना क़ीमत और बिना अकाउंट बंद किए। हम ऑप्ट-आउट रिक्वेस्ट्स को रीयल टाइम में मानते हैं। ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड (CDC, क़ानून 8.078/90, ख़ास तौर पर आर्टिकल 39 III) बिना मांगे या दबाव वाले कमर्शियल मैसेजेस प्रतिबंधित करता है; इसलिए हम ऑप्ट-आउट कड़ाई से मानते हैं और फ्रीक्वेंसी कैप्स लगाते हैं, क्योंकि लगातार या ऑप्ट-आउट नज़रअंदाज़ कर भेजना दबाव वाली प्रैक्टिस माना जा सकता है।
 
-**Uninstall / churn surveys.** Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).
+**अनइंस्टॉल / चर्न सर्वे।** जहां ऑपरेशनली संभव हो, हम अनइंस्टॉल के पल पर अनइंस्टॉल/चर्न सवाल इन-ऐप पूछते हैं (कोई ईमेल रिटेंशन ज़रूरी नहीं)। जहां ईमेल सर्वे भेजा जाता है, सर्वे में कोई प्रोमोशनल या री-एंगेजमेंट कंटेंट नहीं होता; हम प्रति यूज़र अकाउंट डिलीशन या अनइंस्टॉल के क़रीब 60 दिनों के भीतर अधिकतम एक (1) सर्वे भेजते हैं; उसके बाद ईमेल एड्रेस §6 के मुताबिक डिलीट या अनोनिमाइज़् कर दिया जाता है; और जिन यूज़र्स ने इरेज़र / राइट-टू-बी-फ़ॉरगॉटन रिक्वेस्ट (§7.3) भेजी हो, उनसे दोबारा कभी संपर्क नहीं किया जाता और वे परमानेंट सप्रेशन लिस्ट पर डाल दिए जाते हैं (§6 और सर्विस की शर्तें §7.2 देखें)।
 
-**Email tracking.** Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).
+**ईमेल ट्रैकिंग।** मार्केटिंग ईमेल्स में ऐसे ट्रैकिंग पिक्सेल या छिपा एनालिटिक्स नहीं होते जो अलग लीगल बेसिस के बिना पर्सनल डेटा प्रोसेस करें। अगर कभी कोई ओपन/क्लिक ट्रैकिंग जोड़ी जाती है, तो वह यहां बताई जाएगी और कंसेंट पर टिकी होगी (LGPD आर्टिकल 8; ePrivacy आर्टिकल 5(3)), ANPD की ट्रैकिंग टेक्नोलॉजीज़ पर गाइडेंस (18 अक्टूबर 2022) के मुताबिक।
 
-**Frequency.** Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message.
+**फ्रीक्वेंसी।** मार्केटिंग ईमेल्स इंटरनल फ्रीक्वेंसी कैप्स के अधीन हैं; आप इन-ऐप कम्युनिकेशन्स-प्रेफ़रेंसेज़ टॉगल से या किसी भी मैसेज में अनसब्सक्राइब पर क्लिक करके इन्हें कभी भी कम कर सकते हैं या बंद कर सकते हैं।
 
 ### 5.7. समुदाय सुरक्षा और प्रतिबंध से बचाव
 
 हमारे समुदाय को दुरुपयोग से बचाने में मदद के लिए, हम निलंबन या प्रतिबंध को दरकिनार करने के प्रयासों का पता लगाने और उन्हें रोकने के लिए डिवाइस पहचानकर्ताओं और डिवाइस-अखंडता संकेतों का उपयोग करते हैं। यदि हम किसी डिवाइस को प्रतिबंधित खाते से जोड़ते हैं, तो उस डिवाइस को नए खाते बनाने या साइन इन करने से रोका जा सकता है। यदि आपको लगता है कि यह गलती से हुआ है, तो आप support@jynx.app पर संपर्क करके अपील कर सकते हैं।
 
-Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service.
+डिवाइस-इंटीग्रिटी सिग्नल्स ऐप में एम्बेडेड एंटी-टैम्परिंग और डिवाइस-इंटीग्रिटी लाइब्रेरी Talsec freeRASP की मदद से कलेक्ट और मूल्यांकित होते हैं। freeRASP आपके डिवाइस पर चलता है: वह लोकली रूटेड डिवाइसेज़, रंटाइम हुकिंग और अनलॉक्ड बूटलोडर जैसे ख़तरे पकड़ता है, और अपने नतीजे एब्यूज़ प्रिवेंशन के लिए हमारे अपने एरर-मॉनिटरिंग प्रोवाइडर (Sentry, §4.2) के ज़रिए हमें भेजता है; वह आपका डेटा किसी Talsec-चलाए सर्विस को नहीं भेजता।
 
-### 5.8. Child-Safety Image Analysis
+### 5.8. चाइल्ड-सेफ्टी इमेज एनालिसिस
 
-To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our [Child Safety Policy](/child-safety.html).
+बच्चों की सुरक्षा और हमारे कानूनी-रिपोर्टिंग क़र्ज़ों को पूरा करने के लिए Jynx ऑटोमेटेड सिस्टम्स इस्तेमाल करता है जो डायरेक्ट मैसेजेस में शेयर की गई इमेजेज़ का एनालिसिस करते हैं, उन इमेजेज़ से बने हैश को ज्ञात चाइल्ड सेक्शुअल एब्यूज़ मटेरियल की डेटाबेसेज़ से तुलना करके। इस एनालिसिस के लिए इमेजेज़ ख़ुद थर्ड पार्टीज़ को नहीं भेजी जातीं — सिर्फ़ अनरिवर्सिबल हैश भेजे जाते हैं (§4.7 देखें)। प्रोफाइल पिक्चर्स अलग से, §4.8 में बताई गई इमेज-मॉडरेशन प्रोसेसिंग से स्क्रीन होती हैं। यह एनालिसिस सिर्फ़ चाइल्ड-सेफ्टी डिटेक्शन और हमारे कानूनी-रिपोर्टिंग क़र्ज़ों के लिए है; प्रोफ़ाइलिंग, ऐडवरटाइज़िंग या किसी और काम के लिए इस्तेमाल नहीं होता। मैचेज़ हमारी [चाइल्ड सेफ्टी पॉलिसी](/child-safety.html) में बताए मुताबिक संभाले जाते हैं।
 
-### 5.9. Advertising Measurement
+### 5.9. ऐडवरटाइज़िंग मेज़रमेंट
 
-If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.
+अगर आप स्वीकार करते हैं, तो हम हमारी ऐडवरटाइज़िंग को मापने और बेहतर बनाने के लिए Meta के साथ सीमित इवेंट्स (जैसे साइन-अप और परचेस, उनकी रकम के साथ) भी शेयर करते हैं। आपका डेटा कभी नहीं बेचा जाता, और आप Privacy सेटिंग्स में अपना विकल्प कभी भी बदल सकते हैं। क्या शेयर होता है और किसके साथ, वह §4.9 में लिखा है।
 
-How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).
+यह कैसे चालू होता है। iPhone और iPad पर ऐड मेज़रमेंट आपका डेटा सिर्फ़ आपकी सहमति के साथ इस्तेमाल करता है (GDPR आर्टिकल 6(1)(a); LGPD आर्टिकल 7, I), जो पहली लॉन्च की प्राइवेसी शीट या बाद में Settings > Privacy > Ad measurement में दी जाती है, और इसके लिए Apple के App Tracking Transparency ऑथराइज़ेशन की भी ज़रूरत है (§4.9 देखें)। Android पर ऐड मेज़रमेंट उसी सहमति पर या, जिन यूज़र्स को पहली लॉन्च की शीट में ऐड मेज़रमेंट स्विच डिफ़ॉल्ट रूप से ऑन दिखता है, हमारे लीजिटिमेट इंटरेस्ट पर टिका है — अपनी ऐडवरटाइज़िंग मापने का (LGPD आर्टिकल 7, IX और आर्टिकल 10), जिसका डॉक्यूमेंटेड लीजिटिमेट इंटरेस्ट्स असेसमेंट किया गया है। उस स्थिति में वह डिफ़ॉल्ट रूप से ऑन है, और आप उसी शीट में या कभी भी Settings > Privacy > Ad measurement में उसे बंद कर सकते हैं — आपत्ति जताना उतना ही आसान है जितना उसे ऑन रखना, मुफ्त है, और कभी अकाउंट डिलीट करने की मांग नहीं करता (LGPD आर्टिकल 18, §2)।
 
-Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).
+सेफगार्ड्स। जिन यूज़र्स की उम्र हमें 18 से कम पता है, और जिन प्रोफाइल्स की उम्र तय नहीं है, उन्हें लीजिटिमेट-इंटरेस्ट आधार पर कभी मापा नहीं जाता। सहमति वापस लेने या आपत्ति जताने पर आपके अगले ऐप लॉन्च से आगे शेयरिंग रुक जाती है; उससे पहले वैध रूप से शेयर किए गए इवेंट्स §4.9 की रिटेंशन शर्तों के तहत Meta के पास रहते हैं, और वापसी पहले किए गए किसी काम की वैधता पर असर नहीं डालती (GDPR आर्टिकल 7(3); LGPD आर्टिकल 8 §5)।
 
-**Apple SKAdNetwork (iOS).** Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it.
+**Apple SKAdNetwork (iOS)।** ऊपर से अलग, और हर iPhone और iPad यूज़र के लिए — किसी विकल्प या सेटिंग से बेपरवाह, तब भी जब ट्रैकिंग या ऐड मेज़रमेंट ठुकराया गया हो — Apple का SKAdNetwork ऐड नेटवर्क को एनोनिमस, एग्रीगेटेड कन्वर्ज़न जानकारी रिपोर्ट करता है जिसने आपको ऐड दिखाया था (जैसे कि एक तय वैल्यू रेंज में रजिस्ट्रेशन या परचेस हुआ)। इसके लिए Jynx का कोई आइडेंटिफायर और कोई पर्सनल डेटा आपके डिवाइस से नहीं जाता: यह Apple का स्टैंडर्ड एट्रिब्यूशन मैकेनिज़्म है, और हम इससे आपकी पहचान नहीं कर सकते।
 
-### 5.10. Emails and Communications
+### 5.10. ईमेल्स और कम्युनिकेशन्स
 
-**Account-activity notification emails (service).** When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the "Manage these notifications" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.
+**अकाउंट-एक्टिविटी नोटिफिकेशन ईमेल्स (सर्विस)।** जब आप ऐप में कोई अकाउंट एक्टिविटी मिस करते हैं (एक अनरीड मैसेज, नया मैच या लाइक), तो Jynx आपको उसका ईमेल भेज सकता है। ये हमारे लीजिटिमेट इंटरेस्ट पर टिके सर्विस नोटिफिकेशन्स हैं — सोशल प्लेटफॉर्म चलाने के (आपको चल रहे इंटरैक्शन्स से अवगत रखने का) — और इनमें कोई प्रोमोशनल कंटेंट नहीं होता। आप हर नोटिफिकेशन टाइप (मैसेजेस, मैचेज़, लाइक्स) कभी भी Settings > Privacy > Communications में, या हर ईमेल में "ये नोटिफिकेशन्स मैनेज करें" लिंक से बंद कर सकते हैं। आप इस प्रोसेसिंग का कभी भी विरोध भी कर सकते हैं (GDPR आर्टिकल 21) privacy@jynx.app पर।
 
-**Re-engagement and marketing emails (winback).** Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.
+**री-एंगेजमेंट और मार्केटिंग ईमेल्स (विनबैक)।** आपको किसी इनैक्टिविटी के बाद Jynx पर वापस लाने के ईमेल्स और हमारे न्यूज़ व ऑफ़र्स कम्युनिकेशन्स कमर्शियल प्रॉस्पेक्टिंग हैं। ये सिर्फ़ आपकी पहले की, स्पेसिफिक, मुक्त रूप से दी गई और वापस लेने योग्य सहमति से भेजे जाते हैं, जो अलग ऑप्शनल अन-चेक्ड बॉक्स से ली जाती है — कभी हमारी शर्तें स्वीकार करने की शर्त नहीं। आप इसे कभी भी Settings > Privacy > Communications में या हर ईमेल के अनसब्सक्राइब लिंक से वापस ले सकते हैं।
 
-**Display of your username and profile picture in notification emails.** If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only).
+**नोटिफिकेशन ईमेल्स में आपके यूज़रनेम और प्रोफाइल पिक्चर का दिखना।** अगर आपने किसी दूसरे मेंबर से इंटरैक्ट किया है (लाइक, मैच, मैसेज), तो जब वे इनैक्टिव हों उन्हें भेजे जाने वाले अकाउंट-एक्टिविटी नोटिफिकेशन ईमेल्स में आपका यूज़रनेम और प्रोफाइल पिक्चर दिख सकते हैं। ये एलिमेंट्स सेंड टाइम पर बनते हैं और हमारे ईमेल लॉग्स में रखे नहीं जाते (सिर्फ़ आइडेंटिफायर और काउंट्स)।
 
-### 5.11. Location and Match Distance
+### 5.11. लोकेशन और मैच डिस्टेंस
 
-**What we process.** If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players ("~12 km") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.
+**हम क्या प्रोसेस करते हैं।** अगर आप अपनी लोकेशन शेयर करना चुनते हैं, तो Jynx इसे सिर्फ़ एक काम के लिए इस्तेमाल करता है: मैच क्यू पर आप और दूसरे प्लेयर्स के बीच अनुमानित दूरी दिखाना ("~12 km") और, अगर आप प्रॉक्सिमिटी ऑर्डरिंग ऑन करते हैं, उस क्यू को दूरी के हिसाब से क्रम में रखना। हम सिर्फ़ अनुमानित लोकेशन प्रोसेस करते हैं: मांगी गई परमिशि ऑपरेटिंग सिस्टम की coarse / reduced-accuracy लोकेशन है, और कुछ भी स्टोर होने से पहले आपके कोऑर्डिनेट्स हमारे सर्वर्स पर क़रीब 0.02° के ग्रिड (क़रीब 2.2 km) पर स्नैप किए जाते हैं; बनी लोकेशन सेल क़रीब 11 km चौड़ी होती है। रॉ GPS कोऑर्डिनेट्स कभी स्टोर नहीं होते।
 
-**Optional and consent-based.** This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).
+**ऑप्शनल और कंसेंट-आधारित।** यह एक ऑप्शनल फीचर है: जब तक आप ऑपरेटिंग सिस्टम की लोकेशन परमिशि नहीं देते और इन-ऐप लोकेशन टॉगल ऑन नहीं करते, कुछ भी कलेक्ट नहीं होता। लोकेशन बैकग्राउंड में कभी प्रोसेस नहीं होती — वह सिर्फ़ तब इस्तेमाल होती है जब आप ऐप इस्तेमाल कर रहे हों। आपकी लोकेशन कभी भी दूसरे यूज़र्स को मैप पर पोज़िशन के रूप में नहीं दिखती, ऐडवरटाइज़िंग के लिए इस्तेमाल नहीं होती, और ऐड प्लेटफॉर्म्स के साथ कभी शेयर नहीं होती (§4.9 देखें: ऐडवरटाइज़िंग एट्रिब्यूशन या मेज़रमेंट के लिए शेयर की गई किसी चीज़ में कोई लोकेशन डेटा नहीं होता)। हमारे एनालिटिक्स इवेंट्स में कोई कोऑर्डिनेट्स, शहरों के नाम या लोकेशन-सेल आइडेंटिफायर्स नहीं होते — सिर्फ़ एनोनिमस एडॉप्शन और ऑर्डरिंग-विकल्प सिग्नल्स। ऑपरेटिंग सिस्टम की परमिशि प्रॉम्प्ट ही आपकी सहमति कैप्चर करती है, और इन-ऐप टॉगल ही उसे वापस लेने का तरीका है (§7.6)।
 
-**How long we keep it.** The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.
+**हम इसे कितना रखते हैं।** आपके अकाउंट के लिए हम जो लोकेशन रिकॉर्ड रखते हैं वह 45 दिन अपडेट के बिना रहने पर ऑटोमैटिकली डिलीट हो जाता है, और शेयरिंग ऑन रहते हुए फीचर इस्तेमाल करने पर हर बार रिफ़्रेश होता है। आपकी प्रोफाइल कार्ड पर दिखने वाली अनुमानित दूरी एक्टिविटी-बाउंडेड है: वह तब तक रहती है जब तक आपकी प्रोफाइल कार्ड रहती है, और 45 दिन अपडेट के बिना रहने पर अनुपस्थित मानी जाती है।
 
-**Your control.** You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data.
+**आपका कंट्रोल।** आप कभी भी शेयरिंग रोक सकते हैं: इन-ऐप लोकेशन टॉगल ऑफ करने पर स्टोर किए कोऑर्डिनेट्स तुरंत डिलीट हो जाते हैं (रिकॉर्ड रहता है लेकिन कोऑर्डिनेट्स ख़ाली कर दिए जाते हैं), और डिवाइस सेटिंग्स में लोकेशन परमिशि रद्द करने पर कलेक्शन सोर्स पर ही रुक जाता है। अकाउंट डिलीट करने पर (§7.3) आपका लोकेशन डेटा भी साफ़ हो जाता है।
 
-## 6. Data Retention
+## 6. डेटा रिटेंशन
 
-### 6.1. Retention Periods
+### 6.1. रिटेंशन पीरियड्स
 
-- **Profile Data:** जब तक आपका account active है तब तक retained
+- **प्रोफाइल डेटा:** जब तक आपका account active है तब तक retained
 - **Logs और Analytics:** Firebase Analytics: 14 महीने (Firebase policy)
-- **Marketing email addresses (consent-based):** Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you
-- **Uninstall / churn survey email addresses:** Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user
-- **Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):** Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized
+- **मार्केटिंग ईमेल एड्रेसेज़ (कंसेंट-आधारित):** तब तक रखा जाता है जब तक आपने ऑप्ट आउट नहीं किया या अकाउंट डिलीट नहीं किया, और साथ में सप्रेशन लिस्ट पर एक हैश्ड रिकॉर्ड (नीचे देखें) ताकि हम आपसे दोबारा संपर्क न करें
+- **अनइंस्टॉल / चर्न सर्वे ईमेल एड्रेसेज़:** सर्वे भेजने के बाद अधिकतम 60 दिन तक रखा जाता है (या, सर्वे न भेजने पर, अनइंस्टॉल/डिलीशन के 60 दिन बाद), उसके बाद एड्रेस डिलीट या अनरिवर्सिबली अनोनिमाइज़् कर दिया जाता है। प्रति यूज़र अधिकतम एक (1) सर्वे ईमेल भेजा जाता है
+- **हाल में छूटे अकाउंट्स का री-एंगेजमेंट (LGPD लीजिटिमेट-इंटरेस्ट आधार, सिर्फ़ ब्राज़ीलियन यूज़र्स):** CNIL गाइडेंस और वाजिब-अपेक्षा टेस्ट के मुताबिक, Jynx हाल में छूटे (नॉन-इरेज़र) अकाउंट का ईमेल एड्रेस आखिरी मायने रखने वाले इंटरैक्शन के बाद 3 साल तक री-एंगेजमेंट के लिए इस्तेमाल कर सकता है, उसके बाद वह डिलीट या अनोनिमाइज़् कर दिया जाता है
 
-### 6.2. Data Deletion
+### 6.2. डेटा डिलीशन
 
 आप किसी भी समय अपने account के deletion का अनुरोध कर सकते हैं (Section 7 देखें)।
 
 **कानूनी Retention:** कुछ data हमारे कानूनी दायित्वों का पालन करने के लिए अधिक समय तक retained किया जा सकता है (जैसे security reports, financial transactions)।
 
-When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2).
+अकाउंट डिलीट करने पर हम आपका ईमेल एड्रेस अपने मार्केटिंग CRM और ईमेल सर्विस प्रोवाइडर से पर्ज कर देते हैं। अगर आप इरेज़र का अधिकार इस्तेमाल करते हैं (§7.3 / GDPR आर्टिकल 17 / कंसेंट-आधारित डेटा के लिए LGPD आर्टिकल 18(VI)), तो आपका ईमेल एड्रेस एक परमानेंट हैश्ड सप्रेशन लिस्ट में डाल दिया जाता है ताकि उसका फिर कभी मार्केटिंग, री-एंगेजमेंट या सर्वे के लिए इस्तेमाल न हो — किसी थर्ड-पार्टी या ख़रीदी गई लिस्ट से री-इंपोर्ट की रक्षा भी शामिल। नोट: LGPD के तहत आर्टिकल 18(VI) डिलीशन कंसेंट के आधार पर प्रोसेस हुए डेटा पर लागू होता है; लीजिटिमेट इंटरेस्ट (आर्टिकल 7 IX) पर प्रोसेस हुआ डेटा परपज़-लिमिटेशन सिद्धांत (आर्टिकल 6 II और §2) और प्रोसेसिंग रोकने की आपकी रिक्वेस्ट के अधिकार (आर्टिकल 18 §2) से चलता है।
 
-## 7. आपके अधिकार (GDPR)
+## 7. आपके अधिकार (GDPR और LGPD)
 
-GDPR के तहत, आपके पास निम्नलिखित अधिकार हैं:
+आप कहां मौजूद हैं, इसके हिसाब से आपके पास GDPR (EU/EEA) और/या ब्राज़ीलियन LGPD (Lei Geral de Proteção de Dados, क़ानून 13.709/2018) के तहत अधिकार हैं।
 
 ### 7.1. Access का अधिकार
 
@@ -400,7 +400,7 @@ GDPR के तहत, आपके पास निम्नलिखित अ
 
 **इस अधिकार का उपयोग कैसे करें:** Settings > Danger Zone > "Delete My Account"
 
-#### Automated Deletion Process:
+#### ऑटोमेटेड डिलीशन प्रोसेस:
 
 1. गलती से deletion को रोकने के लिए two-step confirmation
 2. आपके personal data का तुरंत anonymization (Firestore)
@@ -410,92 +410,92 @@ GDPR के तहत, आपके पास निम्नलिखित अ
 
 **महत्वपूर्ण:** Deletion irreversible है। कुछ anonymized data statistical purposes के लिए retained किया जा सकता है (GDPR-compliant)।
 
-**Manual Deletion Requests:** विशिष्ट data deletion requests के लिए (जैसे केवल एक specific community के messages delete करना, Storage images delete करना, या अन्य edge cases), कृपया हमारे Data Protection Officer को dpo@jynx.app पर संपर्क करें। हम GDPR द्वारा आवश्यक 30 दिनों के भीतर manual requests को process करेंगे।
+**मैन्युअल डिलीशन रिक्वेस्ट्स:** विशिष्ट data deletion requests के लिए (जैसे केवल एक specific community के messages delete करना, Storage images delete करना, या अन्य edge cases), कृपया हमारे Data Protection Officer को dpo@jynx.app पर संपर्क करें। हम GDPR द्वारा आवश्यक 30 दिनों के भीतर manual requests को process करेंगे।
 
 ### 7.4. Data Portability का अधिकार
 
 Data export (Section 7.1) आपको structured, machine-readable format (JSON) में अपना data retrieve करने की अनुमति देता है।
 
-### 7.5. Object करने का अधिकार
+### 7.5. आपत्ति / मार्केटिंग से ऑप्ट-आउट का अधिकार
 
-आप direct marketing purposes के लिए अपने data की processing पर object कर सकते हैं।
+आप डायरेक्ट-मार्केटिंग मक़सदों के लिए अपने डेटा की प्रोसेसिंग पर कभी भी, मुफ्त में और बिना कारण बताए आपत्ति जता सकते हैं। GDPR आर्टिकल 21(2) के तहत यह अधिकार EU/EEA यूज़र्स के लिए पूर्ण है: आपकी आपत्ति मिलते ही हम सारी मार्केटिंग प्रोसेसिंग रोक देंगे। ब्राज़ीलियन यूज़र्स नीचे के ऑप्ट-आउट मैकेनिज़्म से मार्केटिंग प्रोसेसिंग का विरोध कर सकते हैं (LGPD आर्टिकल 8 §5; आर्टिकल 18 §2)।
 
-- **One-click unsubscribe:** every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time
-- **In-app toggle:** Settings > Privacy > Communications Preferences
-- **Email:** dpo@jynx.app
+- **वन-क्लिक अनसब्सक्राइब:** हर मार्केटिंग ईमेल में वन-क्लिक अनसब्सक्राइब लिंक होता है (RFC 8058 List-Unsubscribe-Post), जिसे रीयल टाइम में माना जाता है
+- **इन-ऐप टॉगल:** Settings > Privacy > Communications Preferences
+- **ईमेल:** dpo@jynx.app
 
 ### 7.6. Consent Withdraw करने का अधिकार
 
 आप अपनी consent इसके लिए withdraw कर सकते हैं:
 
-- **Analytics:** Settings > Privacy > "Enable Analytics" को disable करें
-- **Ad measurement:** Settings > Privacy > Ad measurement (see §5.9)
-- **Location (match distance):** Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)
-- **Push Notifications:** Device settings
-- **Marketing Communications:** Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account
+- **एनालिटिक्स:** Settings > Privacy > "Enable Analytics" को disable करें
+- **ऐड मेज़रमेंट:** Settings > Privacy > Ad measurement (§5.9 देखें)
+- **लोकेशन (मैच डिस्टेंस):** इन-ऐप लोकेशन टॉगल ऑफ करें — इससे स्टोर किए कोऑर्डिनेट्स डिलीट हो जाते हैं — या डिवाइस सेटिंग्स में लोकेशन परमिशि रद्द करें (§5.11 देखें)
+- **पुश नोटिफिकेशन्स:** डिवाइस सेटिंग्स
+- **मार्केटिंग कम्युनिकेशन्स:** न्यूज़लेटर, प्रोडक्ट अपडेट्स, री-एंगेजमेंट और अनइंस्टॉल/चर्न सर्वे — वन-क्लिक अनसब्सक्राइब, इन-ऐप कम्युनिकेशन्स-प्रेफ़रेंसेज़ टॉगल या dpo@jynx.app से वापस लेने योग्य, बिना अकाउंट बंद किए
 
 **नोट:** जब आप अपना account delete करते हैं तो OAuth tokens (Google, Apple) स्वचालित रूप से revoke हो जाते हैं (Section 7.3)।
 
-Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.
+वापसी से पहले की गई प्रोसेसिंग की वैधता पर असर नहीं पड़ता (GDPR आर्टिकल 7(3); LGPD आर्टिकल 8 §5), और कंसेंट वापस लेने के लिए कभी अकाउंट डिलीट करने की ज़रूरत नहीं।
 
-### 7.7. Additional LGPD Rights (Brazilian Users)
+### 7.7. अतिरिक्त LGPD अधिकार (ब्राज़ीलियन यूज़र्स)
 
-In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.
+ऊपर के अधिकारों के अलावा, ब्राज़ील में मौजूद डेटा-सब्जेक्ट्स को LGPD आर्टिकल 18 के तहत ये अधिकार हैं: प्रोसेसिंग के होने की कन्फ़र्मेशन; डेटा तक पहुंच; अधूरे, ग़लत या पुराने डेटा का सुधार; ज़रूरी न होने वाले या बहुत ज़्यादा डेटा का एनोनिमाइज़ेशन, ब्लॉकिंग या डिलीशन (आर्टिकल 18(VI) कंसेंट के आधार पर प्रोसेस हुए डेटा पर लागू); रिक्वेस्ट पर दूसरे सर्विस या प्रोडक्ट प्रोवाइडर को पोर्टेबिलिटी; कंसेंट से प्रोसेस हुए पर्सनल डेटा का डिलीशन; और कंसेंट देने से मना करने की संभावना और उसके नतीजों की जानकारी।
 
-You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd.
+ये अधिकार आप Settings > Privacy से या dpo@jynx.app पर encarregado से संपर्क करके इस्तेमाल कर सकते हैं। आप ब्राज़ील की डेटा प्रोटेक्शन अथॉरिटी — Autoridade Nacional de Proteção de Dados (ANPD) — के पास https://www.gov.br/anpd पर शिकायत भी दर्ज कर सकते हैं।
 
-## 8. Data Security
+## 8. डेटा सिक्योरिटी
 
 हम आपके data को protect करने के लिए technical और organizational security measures लागू करते हैं:
 
-- **Encryption:** HTTPS के माध्यम से secure communication
-- **Firebase Security Rules:** Firestore data तक strict access control
-- **Authentication:** Firebase Auth के माध्यम से secure session management
-- **Input Validation:** SecureTextInput के माध्यम से XSS injection prevention
-- **Rate Limiting:** Abuse से protection (spam messages, automated actions)
-- **Moderation:** Content reporting और moderation system
-- **Real-time voice:** Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS.
+- **एन्क्रिप्शन:** HTTPS के माध्यम से secure communication
+- **Firebase सिक्योरिटी रूल्स:** Firestore data तक strict access control
+- **ऑथेंटिकेशन:** Firebase Auth के माध्यम से secure session management
+- **इनपुट वैलिडेशन:** SecureTextInput के माध्यम से XSS injection prevention
+- **रेट लिमिटिंग:** Abuse से protection (spam messages, automated actions)
+- **मॉडरेशन:** Content reporting और moderation system
+- **रीयल-टाइम वॉइस:** वॉइस-रूम मीडिया ट्रांज़िट में WebRTC DTLS-SRTP से एन्क्रिप्ट होता है, वही स्टैंडर्ड जो मेनस्ट्रीम वॉइस ऐप्स इस्तेमाल करते हैं; ऐप और हमारे सर्वर्स के बीच सिग्नलिंग HTTPS/TLS पर होती है।
 
-No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).
+कोई सिस्टम 100% सुरक्षित नहीं। पर्सनल डेटा ब्रीच की स्थिति में हम बिना बेवजह देरी किए, और जहां संभव हो, 72 घंटे के भीतर कंपीटेंट सुपरवाइज़री अथॉरिटी को नोटिफाई करेंगे अगर ब्रीच से आपके अधिकारों को ख़तरे का रिस्क हो (GDPR आर्टिकल 33), और जहां ब्रीच से आपको हाई रिस्क होने की संभावना हो, वहां प्रभावित यूज़र्स को बिना बेवजह देरी किए बताएंगे (GDPR आर्टिकल 34)। ब्राज़ील के डेटा-सब्जेक्ट्स के लिए हम संबंधित सिक्योरिटी इंसिडेंट्स ANPD को और आपको अथॉरिटी के तय डेडलाइन में भी बताएंगे (LGPD आर्टिकल 48; फ़िलहाल ANPD रेज़ोल्यूशन CD/ANPD nº 15/2024 के तहत 3 वर्किंग डेज़)।
 
-## 9. International Data Transfers
+## 9. इंटरनेशनल डेटा ट्रांसफ़र्स
 
-आपका data यूरोपीय संघ के बाहर स्थित servers पर transfer और store किया जा सकता है, जिसमें शामिल हैं:
+आपका डेटा आपकी ज्यूरिस्डिक्शन के बाहर स्थित सर्वर्स पर ट्रांसफ़र और स्टोर किया जा सकता है, जिनमें शामिल हैं:
 
-- **Google Cloud / Firebase:** GDPR compliance के साथ global infrastructure का उपयोग करता है
-- **Amazon Web Services (image moderation):** The image-moderation processing described in §4.8 runs in AWS's São Paulo region (Brazil); transfers from the EU/EEA rely on AWS's data-processing agreement incorporating the European Commission's standard contractual clauses, together with the general guarantees below. The image is relayed to AWS through Jynx's Google Cloud infrastructure (the Google Cloud / Firebase leg above)
-- **Sentry:** Privacy Shield compliance के साथ US-based servers
-- **Email Service Provider (ESP):** Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement
-- **LiveKit (real-time voice, and screen share when available):** LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors.
-- **Meta (advertising attribution and ad measurement):** The sharing described in §4.9 and §5.9 reaches Meta Platforms Ireland Ltd. or Meta Platforms, Inc., which processes it in the United States and other countries. International transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms. Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations.
+- **Google Cloud / Firebase:** ग्लोबल इंफ़्रास्ट्रक्चर (वेबसाइट पर Google Analytics समेत, §10 देखें), GDPR स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ और बराबर सेफगार्ड्स के तहत
+- **Amazon Web Services (इमेज मॉडरेशन):** §4.8 में बताई गई इमेज-मॉडरेशन प्रोसेसिंग AWS के साओ पाउलो रीजन (ब्राज़ील) में चलती है; EU/EEA से ट्रांसफ़र AWS के डेटा-प्रोसेसिंग एग्रीमेंट पर टिके हैं, जिसमें यूरोपीय कमीशन के स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ शामिल हैं, नीचे की सामान्य गारंटीज़ के साथ। इमेज Jynx के Google Cloud इंफ़्रास्ट्रक्चर से गुज़रकर AWS तक पहुंचती है (ऊपर वाला Google Cloud / Firebase लेग)
+- **Sentry:** अमेरिका-स्थित सर्वर्स; EU/EEA से ट्रांसफ़र EU-US डेटा प्राइवेसी फ्रेमवर्क (जुलाई 2023 से लागू, रद्द हुए Privacy Shield की जगह) पर टिके हैं जो DPF के तहत सेल्फ-सर्टिफाइड Sentry एंटिटीज़ के लिए है, या स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ पर जहां DPF लागू नहीं होता
+- **ईमेल सर्विस प्रोवाइडर (ESP):** §5.6 में बताए गए मार्केटिंग, री-एंगेजमेंट और सर्वे कम्युनिकेशन्स डिलीवर करने के लिए इस्तेमाल होता है। ESP §4.4 में नाम-विदित है और साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत प्रोसेसर की भूमिका में है
+- **LiveKit (रीयल-टाइम वॉइस, और उपलब्ध होने पर स्क्रीन शेयर):** LiveKit Cloud रीयल-टाइम वॉइस (और, फीचर उपलब्ध होने पर, स्क्रीन-शेयर) मीडिया के लिए साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत हमारा प्रोसेसर है (§4.5)। LiveKit Cloud मीडिया ग्लोबली रूट करता है: सेशन LiveKit के ग्लोबल इंफ़्रास्ट्रक्चर से सर्व होते हैं, किसी तय रीजन पर पिन किए बिना। वॉइस-रूम ऑडियो (और उपलब्ध होने पर स्क्रीन-शेयर वीडियो) रीयल टाइम में रूट होता है और Jynx या LiveKit उसे रिकॉर्ड, स्टोर या पर्सिस्ट नहीं करते; LiveKit सिर्फ़ §4.5 में बताया ऑपरेशनल सेशन मेटाडेटा रखता है। LiveKit को पर्सनल डेटा के ट्रांसफ़र LiveKit के डेटा प्रोसेसिंग एडेंडम पर टिके हैं, जिसमें GDPR टर्म्स और क्रॉस-बॉर्डर ट्रांसफ़र के लिए यूरोपीय कमीशन के स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ शामिल हैं, नीचे की सामान्य गारंटीज़ के साथ, जो हमारे दूसरे प्रोसेसर्स की तरह LiveKit पर भी लागू होती हैं।
+- **Meta (ऐडवरटाइज़िंग एट्रिब्यूशन और ऐड मेज़रमेंट):** §4.9 और §5.9 में बताई गई शेयरिंग Meta Platforms Ireland Ltd. या Meta Platforms, Inc. तक पहुंचती है, जो उसे अमेरिका और दूसरे देशों में प्रोसेस करता है। Meta के टूल्स से जुड़े पर्सनल डेटा के इंटरनेशनल ट्रांसफ़र लागू कॉन्ट्रैक्चुअल सेफगार्ड्स और इंटरनेशनल ट्रांसफ़र मैकेनिज़्म के अधीन हैं। Jynx उनकी LGPD आर्टिकल 33 की ज़रूरतों और ANPD रेगुलेशन्स के साथ कंप्लायंस तस्दीक़ कर रहा है।
 
-**Guarantees (GDPR, EU/EEA).** All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.
+**गारंटीज़ (GDPR, EU/EEA)।** EU/EEA से सभी ट्रांसफ़र एक एडीक्वेसी डिसीज़न, EU-US डेटा प्राइवेसी फ्रेमवर्क या स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ से कवर हैं, जहां ज़रूरी हो सप्लीमेंट्री मेज़र्स के साथ।
 
-**Guarantees (LGPD, Brazil).** Transfers of Brazilian users' personal data are governed by LGPD Art. 33:
+**गारंटीज़ (LGPD, ब्राज़ील)।** ब्राज़ीलियन यूज़र्स के पर्सनल डेटा के ट्रांसफ़र LGPD आर्टिकल 33 से चलते हैं:
 
-- **To Jynx Group in France (controller):** Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)
-- **To Brevo in France (email ESP, processor):** Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)
-- **To child-safety technology providers in the EU (hash matching, processors):** Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)
-- **To AWS in Brazil (image moderation, processor):** The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above
+- **फ्रांस में Jynx Group को (कंट्रोलर):** ANPD रेज़ोल्यूशन CD/ANPD nº 32/2026 (26 जनवरी 2026 से लागू) की बदौलत LGPD आर्टिकल 33(I) के तहत वैध, जो यूरोपीय संघ — फ्रांस समेत — को पर्याप्त सुरक्षा स्तर वाला मानता है। इस लेग के लिए कोई अतिरिक्त ट्रांसफ़र मैकेनिज़्म ज़रूरी नहीं। (इस एडीक्वेसी डिसीज़न का ANPD चार साल के भीतर पुनर्मूल्यांकन हो सकता है; अगर निलंबित हुआ, तो Jynx ANPD स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ जैसा वैकल्पिक आर्टिकल 33 मैकेनिज़्म लागू करेगा।)
+- **फ्रांस में Brevo को (ईमेल ESP, प्रोसेसर):** उसी ANPD रेज़ोल्यूशन CD/ANPD nº 32/2026 (26 जनवरी 2026 से लागू) की बदौलत LGPD आर्टिकल 33(I) के तहत वैध, जो यूरोपीय संघ — फ्रांस समेत — को पर्याप्त सुरक्षा स्तर वाला मानता है। इस लेग के लिए कोई अतिरिक्त ट्रांसफ़र मैकेनिज़्म ज़रूरी नहीं। (ऊपर बताए उसी ANPD पुनर्मूल्यांकन के अधीन; अगर एडीक्वेसी डिसीज़न निलंबित हुआ, तो Jynx Brevo के साथ ANPD स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ जैसा वैकल्पिक आर्टिकल 33 मैकेनिज़्म लागू करेगा।)
+- **EU में चाइल्ड-सेफ्टी टेक्नोलॉजी प्रोवाइडर्स को (हैश मैचिंग, प्रोसेसर्स):** ऊपर के लेग्स की तरह उसी ANPD रेज़ोल्यूशन CD/ANPD nº 32/2026 के EU एडीक्वेसी डिसीज़न से कवर — प्रोवाइडर्स को सिर्फ़ अनरिवर्सिबल हैश मिलते हैं और मैचिंग EU रीजन में होती है (§4.7)
+- **ब्राज़ील में AWS को (इमेज मॉडरेशन, प्रोसेसर):** AWS Rekognition वाला हॉप देश के भीतर रहता है — वह AWS के साओ पाउलो रीजन में चलता है (§4.8)। इमेज पहले Jynx के Google Cloud इंफ़्रास्ट्रक्चर से रिले होती है, जो ऊपर की सामान्य Google Cloud / Firebase ट्रांसफ़र शर्तों से कवर है
 
-**Transparency (ANPD Resolution CD/ANPD nº 19/2024).** The information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 is consolidated in this Policy: the form, duration, and specific purpose of each international transfer and the destination countries (this section and the sections it cites); the identification and contact details of the controller (§1); the shared use of the data and its purpose (§4); the responsibilities of the processing agents and the security measures adopted (§4 and §8); and your rights and the means of exercising them, including an easily accessible channel and the right to petition the ANPD (§7 and §12). The full text of the contractual clauses used to carry out these international transfers is made available to you, upon request, by our data protection officer (dpo@jynx.app), within 15 days.
+**ट्रांसपेरेंसी (ANPD रेज़ोल्यूशन CD/ANPD nº 19/2024)।** ANPD रेज़ोल्यूशन CD/ANPD nº 19/2024 के आर्टिकल 17, §2 की ज़रूरी जानकारी इसी पॉलिसी में समेटी है: हर इंटरनेशनल ट्रांसफ़र का रूप, अवधि और विशिष्ट परपज़ और गंतव्य देश (यह सेक्शन और इसके हवाले किए सेक्शन्स); कंट्रोलर की पहचान और संपर्क डिटेल्स (§1); डेटा का साझा इस्तेमाल और उसका परपज़ (§4); प्रोसेसिंग एजेंट्स की ज़िम्मेदारियां और अपनाए गए सिक्योरिटी मेज़र्स (§4 और §8); और आपके अधिकार व उन्हें इस्तेमाल करने के तरीके, जिनमें आसानी से पहुंच वाला चैनल और ANPD से याचिका का अधिकार शामिल है (§7 और §12)। इन इंटरनेशनल ट्रांसफ़र्स को निभाने वाले कॉन्ट्रैक्चुअल क्लॉज़ेज़ का पूरा टेक्स्ट रिक्वेस्ट पर, 15 दिन के भीतर, हमारे डेटा प्रोटेक्शन ऑफिसर (dpo@jynx.app) के ज़रिए आपको उपलब्ध कराया जाता है।
 
-Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.
+ऐतिहासिक नोट: मौजूदा कॉन्ट्रैक्ट्स को ANPD SCCs के मुताबिक ढालने की एक साल की रियायत 23 अगस्त 2025 को ख़त्म हुई; ESP जैसे नए प्रोसेसर रिश्ते ऑनबोर्डिंग पर SCCs एक्ज़ीक्यूट करते हैं।
 
 ## 10. Cookies और Similar Technologies
 
 हमारा mobile application पारंपरिक अर्थ में cookies का उपयोग नहीं करता, लेकिन उपयोग करता है:
 
-- **Authentication Tokens:** Secure तरीके से locally stored
-- **Local Cache:** Performance में सुधार के लिए (profile data, recent messages)
+- **ऑथेंटिकेशन टोकन्स:** Secure तरीके से locally stored
+- **लोकल कैश:** Performance में सुधार के लिए (profile data, recent messages)
 
-**Website.** The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key "jynx-analytics-consent"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.
+**वेबसाइट।** Jynx वेबसाइट (jynx.app) यह समझने के लिए कि साइट कैसे इस्तेमाल होती है, Consent Mode v2 के साथ Google Analytics 4 (Google की दी हुई) इस्तेमाल करती है। एनालिटिक्स स्टोरेज डिफ़ॉल्ट रूप से डिनाइड है: कुकी बैनर स्वीकार करने तक Google Analytics बिना कुकीज़ या लोकल स्टोरेज के चलता है और Google को सिर्फ़ कुकीलेस, आइडेंटिफायर-रहित सिग्नल्स मिलते हैं; स्वीकार करने पर पूरा मेज़रमेंट चालू होता है। आपका विकल्प — स्वीकार या अस्वीकार — आपके डिवाइस पर लोकली सेव होता है (ब्राउज़र localStorage, की "jynx-analytics-consent")। jynx.app के लिए ब्राउज़र स्टोरेज क्लियर करने पर बैनर दोबारा दिखता है ताकि आप विकल्प बदल सकें। Google बनने वाले एनालिटिक्स डेटा का रिसीपिएंट है (§9 देखें); हमारे दूसरे प्रोसेसर्स §4 में और आपके अधिकार §7 में हैं।
 
-**Invitation links.** When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.
+**इनविटेशन लिंक्स।** जब आप ब्राउज़र में कोई इनविटेशन लिंक (jynx.app/invite/…) खोलते हैं और App Store डाउनलोड बटन टैप करते हैं, तो वेबसाइट वह इनविटेशन लिंक आपके डिवाइस के क्लिपबोर्ड में लिख देती है, पिछले कंटेंट की जगह। यह iOS पर ऐप इंस्टॉल एट्रिब्यूट करने का स्टैंडर्ड तरीका है (iOS में इंस्टॉल-रेफ़रर मैकेनिज़्म नहीं है): इससे Jynx ऐप पहले लॉन्च पर आपको उस इंसान के इनवाइट के साथ जुड़ने का प्रपोज़ कर सकता है जिसने आपको लिंक भेजा था। वेबसाइट आपका क्लिपबोर्ड कभी नहीं पढ़ती — वह सिर्फ़ यह लिंक लिखती है — और ऐप उसे सिर्फ़ एक बार, आपकी स्पष्ट सहमति मांगने के बाद पढ़ता है। कोई दूसरा क्लिपबोर्ड कंटेंट एक्सेस या कलेक्ट नहीं होता। अगर आप शेयर नहीं करना चाहते, तो बस पेस्ट प्रॉम्प्ट ठुकरा दें और बिना इनवाइट जुड़ जाएं।
 
-**Referrals and creator campaigns.** When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.
+**रेफ़रल्स और क्रिएटर कैंपेन्स।** जब आप किसी इनविटेशन कोड से Jynx में जुड़ते हैं — लिंक, QR कोड या मैन्युअली डालकर — हम वह कोड आपके अकाउंट के साथ दर्ज करते हैं ताकि इनवाइट को उस इंसान या कैंपेन को एट्रिब्यूट कर सकें जिसने उसे शेयर किया, संबंधित फ़ायदे लगा सकें, और फ़र्ज़ी साइन-अप्स पकड़ सकें। यह प्रोसेसिंग हमारे लीजिटिमेट इंटरेस्ट्स पर टिकी है (§13 देखें) और हमारी एंटी-फ़्रॉड जांचों के अधीन है; आपकी ओर से कुछ नहीं बदलता, क्योंकि आप किसी भी तरह का इनविटेशन कोड इस्तेमाल करें, वही डेटा कलेक्ट होता है। कुछ इनविटेशन कोड क्रिएटर एट्रिब्यूशन कैंपेन्स से भी जुड़े होते हैं: अगर आपका इस्तेमाल किया कोड ऐसे कैंपेन का हिस्सा है, तो वह उस कैंपेन को क्रेडिट भी दे सकता है। क्रिएटर कैंपेन्स के पेआउट रिकॉर्ड्स स्यूडोनिमस रूप में रखे जाते हैं।
 
-**Screen sharing (when available).** When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share.
+**स्क्रीन शेयरिंग (उपलब्ध होने पर)।** जब फीचर उपलब्ध हो, आप वॉइस रूम में अपनी डिवाइस स्क्रीन शेयर कर सकते हैं। शेयरिंग सिर्फ़ ऑपरेटिंग सिस्टम की स्क्रीन-कैप्चर परमिशि मिलने और इन-ऐप स्पष्ट एक्नॉलेजमेंट के बाद शुरू होती है। आपकी स्क्रीन पर दिखने वाली हर चीज़ — नोटिफिकेशन्स समेत — रूम के दूसरे प्रतिभागियों तक लाइव स्ट्रीम होती है, और आप जो शेयर करते हैं उसके लिए ज़िम्मेदार हैं। शेयर किया गया वीडियो एक लाइव मीडिया ट्रैक है जो वॉइस ऑडियो की तरह LiveKit SFU से रूट होता है (§4.5, §9): उसे Jynx या LiveKit रिकॉर्ड या स्टोर नहीं करते, और वह शेयर ख़त्म करते ही रुक जाता है।
 
 ## 11. इस Policy में परिवर्तन
 
@@ -508,28 +508,28 @@ Historical note: the one-year grace period for adapting existing contracts to th
 
 इस privacy policy के बारे में किसी भी प्रश्न के लिए या अपने अधिकारों का उपयोग करने के लिए:
 
-- **Email:** dpo@jynx.app
+- **ईमेल:** dpo@jynx.app
 
-**Supervisory Authority:** If you believe your rights have not been respected, you may lodge a complaint:
+**Supervisory Authority:** अगर आपको लगता है कि आपके अधिकारों का सम्मान नहीं हुआ, तो आप शिकायत दर्ज कर सकते हैं:
 
-- **EU/EEA users:** with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr
-- **Brazilian users:** with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd
+- **EU/EEA यूज़र्स:** CNIL (Commission Nationale de l'Informatique et des Libertés), फ्रांस — https://www.cnil.fr के पास
+- **ब्राज़ीलियन यूज़र्स:** ANPD (Autoridade Nacional de Proteção de Dados), ब्राज़ील — https://www.gov.br/anpd के पास
 
-Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90).
+सुपरवाइज़री अथॉरिटी के पास शिकायत दर्ज करना आपके उपलब्ध दूसरे न्यायिक उपायों के अधिकार पर असर नहीं डालता, जिनमें आपकी ज्यूरिस्डिक्शन में लागू अनिवार्य कंज़्यूमर प्रोटेक्शन्स शामिल हैं (जैसे ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड, क़ानून 8.078/90)।
 
-## 13. सहमति
+## 13. लीगल बेसिस और सहमति
 
-We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:
+हम आपका पर्सनल डेटा सिर्फ़ तब प्रोसेस करते हैं जब हमारे पास वैध आधार हो। जिन लीगल बेसिस पर हम टिके हैं, और यह पॉलिसी जहां हर एक को बताती है, वे हैं:
 
-- Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)
-- Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment
-- Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)
-- Legal obligation and legitimate interests (GDPR Art. 6(1)(c) and 6(1)(f); LGPD Art. 7, II and IX) — detection of illegal and policy-violating content, including the child-safety image analysis described in §5.8 and the image-moderation processing in §4.8, prevention of abuse and ban evasion (§5.7), and compliance with legal reporting duties. For the analysis of images shared in direct messages, Jynx also relies on the voluntary detection of online child sexual abuse permitted by Regulation (EU) 2021/1232 (the ePrivacy derogation, as currently in force).
-- Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6
-- Ad measurement (§5.9): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) where you have enabled it; on Android, alternatively our legitimate interest (LGPD Art. 7, IX and Art. 10) for users shown the ad measurement switch on by default, with your right to object at any time
-- Approximate location for the match-distance feature (§5.11): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8), captured by the operating-system location permission together with the in-app location toggle; you may withdraw it at any time (§7.6) — turning the toggle off deletes the stored coordinates
+- कॉन्ट्रैक्ट का निष्पादन / सर्विस देना (GDPR आर्टिकल 6(1)(b); LGPD आर्टिकल 7, V) — अकाउंट, मैचिंग और मैसेजिंग (§5.1–5.3)
+- लीजिटिमेट इंटरेस्ट्स (GDPR आर्टिकल 6(1)(f); LGPD आर्टिकल 7, IX और आर्टिकल 10) — सिक्योरिटी, फ्रॉड प्रिवेंशन, सर्विस सुधार और (ब्राज़ीलियन यूज़र्स के लिए) मौजूदा या हाल में छूटे यूज़र्स को §5.6 में बताए मार्केटिंग/री-एंगेजमेंट/सर्वे कम्युनिकेशन्स, हर एक डॉक्यूमेंटेड बैलेंसिंग असेसमेंट के साथ
+- कानूनी बाध्यता (GDPR आर्टिकल 6(1)(c); LGPD आर्टिकल 7, II) — कानूनी मक़सदों के लिए रिटेंशन (§6)
+- कानूनी बाध्यता और लीजिटिमेट इंटरेस्ट्स (GDPR आर्टिकल 6(1)(c) और 6(1)(f); LGPD आर्टिकल 7, II और IX) — गैर-क़ानूनी और पॉलिसी-ख़िलाफ़ कंटेंट की पहचान, जिनमें §5.8 में बताया चाइल्ड-सेफ्टी इमेज एनालिसिस और §4.8 की इमेज-मॉडरेशन प्रोसेसिंग, एब्यूज़ और बैन-इवेज़न की रोकथाम (§5.7) और कानूनी रिपोर्टिंग क़र्ज़ों का पालन शामिल है। डायरेक्ट मैसेजेस में शेयर की गई इमेजेज़ के एनालिसिस के लिए Jynx रेगुलेशन (EU) 2021/1232 (ePrivacy डिरोगेशन, जैसा फ़िलहाल लागू है) द्वारा अनुमत ऑनलाइन चाइल्ड सेक्शुअल एब्यूज़ की स्वैच्छिक पहचान पर भी टिकता है।
+- सहमति (GDPR आर्टिकल 6(1)(a); LGPD आर्टिकल 7, I और आर्टिकल 8) — जहां आपने चालू किया हो वहां एनालिटिक्स, पुश नोटिफिकेशन्स और (EU/EEA यूज़र्स और ब्राज़ीलियन प्रॉस्पेक्ट्स/कोल्ड/क्रॉस-सेल सेंड्स के लिए) §5.6 के मुताबिक मार्केटिंग कम्युनिकेशन्स
+- ऐड मेज़रमेंट (§5.9): आपकी सहमति (GDPR आर्टिकल 6(1)(a); LGPD आर्टिकल 7, I और आर्टिकल 8) जहां आपने चालू किया है; Android पर वैकल्पिक रूप से हमारा लीजिटिमेट इंटरेस्ट (LGPD आर्टिकल 7, IX और आर्टिकल 10) उन यूज़र्स के लिए जिन्हें ऐड मेज़रमेंट स्विच डिफ़ॉल्ट रूप से ऑन दिखता है, आपके कभी भी आपत्ति जताने के अधिकार के साथ
+- मैच-डिस्टेंस फीचर के लिए अनुमानित लोकेशन (§5.11): आपकी सहमति (GDPR आर्टिकल 6(1)(a); LGPD आर्टिकल 7, I और आर्टिकल 8), जो ऑपरेटिंग सिस्टम की लोकेशन परमिशि और इन-ऐप लोकेशन टॉगल से कैप्चर होती है; आप इसे कभी भी वापस ले सकते हैं (§7.6) — टॉगल ऑफ करने पर स्टोर किए कोऑर्डिनेट्स डिलीट हो जाते हैं
 - Voice-room audio is processed on the basis of your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) when you grant microphone permission and explicitly join a room (see §3.6); you may withdraw it at any time by leaving the room or by revoking microphone permission in your device settings.
 
-**Consent must be specific and informed.** Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.
+**सहमति विशिष्ट और सूचित होनी चाहिए।** जहां हम आपकी सहमति पर टिकते हैं, वह एक स्पष्ट सकारात्मक क़दम से दी जाती है, तय परपज़ों की ओर इशारा करती है, और इन शर्तों की स्वीकृति से अलग कैप्चर होती है (LGPD आर्टिकल 8 §1 — cláusula destacada)। जेनेरिक या बंडल्ड ऑथराइज़ेशन LGPD आर्टिकल 8 §4 के तहत शून्य और GDPR आर्टिकल 4(11) व आर्टिकल 7 के तहत अवैध हैं। Jynx इस्तेमाल करना ख़ुद मार्केटिंग के लिए सहमति नहीं है। वैध सहमति साबित करने का बोझ Jynx पर है (LGPD आर्टिकल 8 §2; GDPR आर्टिकल 7(1)); इसलिए हम ली गई हर सहमति की तारीख़, फॉर्म वर्ज़न, भाषा और स्कोप दर्ज करते हैं।
 
-**Withdrawal.** You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.
+**वापसी।** आप कोई भी सहमति कभी भी वापस ले सकते हैं, ऐसी प्रक्रिया से जो उसे देने जितनी ही आसान हो और जिसमें अकाउंट डिलीट करने की ज़रूरत न हो (LGPD आर्टिकल 8 §5; GDPR आर्टिकल 7(3)) — §7.5 और §7.6 देखें। वापसी से पहले की गई प्रोसेसिंग की वैधता पर असर नहीं पड़ता। अकाउंट डिलीट (§7.3) हर समय उपलब्ध रहता है लेकिन किसी विशिष्ट सहमति की वापसी का मैकेनिज़्म नहीं है।

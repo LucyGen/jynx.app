@@ -1507,7 +1507,7 @@
     "subtitle": "Trouvez votre équipe gaming parfaite en 4 étapes simples",
     "step1": {
       "title": "Créez Votre Profil Gaming",
-      "description": "Parlez-nous de vos préférences gaming : jeux favoris, niveau de compétence (ELO), style de jeu (agressif, défensif, support), rôles préférés et quand vous jouez. Connectez votre compte Riot Games pour vérification automatique du rang.",
+      "description": "Parlez-nous de vos préférences gaming : jeux favoris, niveau de compétence (ELO), style de jeu (agressif, défensif, support), rôles préférés et quand vous jouez.  Déclarez votre rang par jeu et vos rôles — les filtres courent sur ce que vous déclarez.",
       "feature1": "Liez vos comptes League of Legends & Valorant",
       "feature2": "Définissez vos horaires de jeu",
       "feature3": "Choisissez votre style de communication préféré"
@@ -2102,12 +2102,12 @@
     "cta": {
       "label": "Télécharger Jynx",
       "heading": "Trouvez votre duo sur Jynx",
-      "sub": "Gratuit. Rangs vérifiés. Match vocal et par disponibilités."
+      "sub": "Gratuit. Filtres de rang, rôle et région. Match vocal et par disponibilités."
     },
     "cta_final": {
       "label": "Télécharger Jynx",
       "heading": "Arrêtez de jouer en solo queue",
-      "sub": "Téléchargez Jynx et trouvez un duo vérifié dès aujourd'hui."
+      "sub": "Téléchargez Jynx et trouvez votre duo dès aujourd'hui."
     },
     "footer": {
       "rights": "Tous droits réservés."

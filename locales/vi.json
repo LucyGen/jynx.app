@@ -79,62 +79,62 @@
     },
     "cta": {
       "title": "Tham Gia Cộng Đồng Jynx",
-      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way."
+      "description": "Tìm team gaming hoàn hảo của bạn — Jynx có trên iOS, Android, Windows và web. Ứng dụng Mac sắp ra mắt."
     }
   },
   "contact": {
     "meta": {
-      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
-      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
-      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
-      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
-      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
-      "twitter_image_alt": "Contact Jynx"
+      "title": "Liên hệ Jynx: Các kênh email Hỗ trợ, Bảo mật và Quyền riêng tư",
+      "description": "Liên hệ đội Jynx qua email: hỗ trợ về tài khoản và ứng dụng, báo cáo lỗ hổng bảo mật, hoặc gửi yêu cầu quyền riêng tư đến DPO của chúng tôi. Còn có Discord và mạng xã hội.",
+      "og_title": "Liên hệ Jynx - Email Hỗ trợ, Bảo mật và Bảo vệ Dữ liệu",
+      "og_description": "Các kênh email của đội Jynx: hỗ trợ khách hàng, báo cáo bảo mật và yêu cầu quyền riêng tư — không có form liên hệ.",
+      "og_image_alt": "Trang Liên hệ Jynx - Các kênh email Hỗ trợ, Bảo mật và Quyền riêng tư",
+      "twitter_title": "Liên hệ Jynx - Email Hỗ trợ, Bảo mật và Bảo vệ Dữ liệu",
+      "twitter_description": "Liên hệ đội Jynx qua email: hỗ trợ, bảo mật và quyền riêng tư.",
+      "twitter_image_alt": "Liên hệ Jynx"
     },
-    "title": "Contact Jynx",
-    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
+    "title": "Liên hệ Jynx",
+    "subtitle": "Cách liên hệ đội đứng sau Jynx — các kênh email, liên kết cộng đồng và thông tin công ty.",
     "intro": {
-      "title": "How to Reach Us",
-      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
-      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
+      "title": "Cách liên hệ chúng tôi",
+      "p1": "Hỗ trợ của Jynx hoạt động qua các kênh email — chúng tôi không dùng form liên hệ. Mọi địa chỉ trên trang này đều dẫn tới hộp thư có người thật theo dõi, nên tin nhắn của bạn đến thẳng tay đội ngũ. Hãy chọn kênh phù hợp với yêu cầu của bạn và cung cấp càng nhiều chi tiết càng tốt.",
+      "response_note": "Chúng tôi đọc mọi tin nhắn. Bộ phận hỗ trợ thường trả lời trong vài ngày làm việc; bạn có thể viết bằng tiếng Pháp hoặc tiếng Anh."
     },
     "channels": {
-      "title": "Email Channels",
+      "title": "Các kênh email",
       "support": {
-        "title": "Customer Support",
-        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+        "title": "Hỗ trợ khách hàng",
+        "desc": "Kênh chính. Truy cập tài khoản, báo lỗi, câu hỏi thanh toán, đề xuất tính năng và mọi thứ khác về ứng dụng: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
       },
       "security": {
-        "title": "Security Reports",
-        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
-        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
+        "title": "Báo cáo bảo mật",
+        "desc": "Chỉ dành cho lỗ hổng nghi ngờ và vấn đề bảo mật. Vui lòng đọc chính sách công bố trước — nó liệt kê phạm vi áp dụng và những gì cần đưa vào báo cáo của bạn: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "Toàn bộ chính sách nằm trên trang <a href=\"/security.html\">Chính sách Bảo mật &amp; Công bố Lỗ hổng</a>."
       },
       "dpo": {
-        "title": "Privacy and Data Protection",
-        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+        "title": "Quyền riêng tư và Bảo vệ Dữ liệu",
+        "desc": "Yêu cầu về dữ liệu cá nhân, câu hỏi quyền riêng tư và yêu cầu từ cơ quan thực thi pháp luật gửi đến Cán bộ Bảo vệ Dữ liệu của chúng tôi: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
       }
     },
     "community": {
-      "title": "Community and Social",
-      "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
-      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
-      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
-      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
-      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
+      "title": "Cộng đồng và Mạng xã hội",
+      "desc": "Để trò chuyện hằng ngày, cộng đồng nhanh hơn email.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — server đội ngũ và hỗ trợ: đặt câu hỏi, trò chuyện với đội Jynx hoặc được giúp đỡ về ứng dụng.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — tin tức, cập nhật và clip từ đội Jynx.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — video ngắn, khoảnh khắc cộng đồng và tính năng.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — thông báo và giải đáp nhanh.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — trang của Jynx: sự kiện và bài đăng cộng đồng."
     },
     "company": {
-      "title": "Company Information",
-      "legal_name_label": "Legal entity:",
+      "title": "Thông tin công ty",
+      "legal_name_label": "Pháp nhân:",
       "legal_name": "Jynx Group",
-      "siren_label": "Company registration (SIREN):",
+      "siren_label": "Mã đăng ký doanh nghiệp (SIREN):",
       "siren": "991443896",
-      "office_label": "Registered office:",
+      "office_label": "Trụ sở đăng ký:",
       "office_city": "Nantes",
-      "office_country": "France",
-      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
+      "office_country": "Pháp",
+      "legal_note": "Toàn bộ thông báo pháp lý — địa chỉ đăng ký, hình thức pháp lý và chi tiết sổ đăng ký thương mại — nằm trong <a href=\"/terms.html\">Mục 13 của Điều khoản Dịch vụ</a>."
     }
   },
   "privacy": {
@@ -149,30 +149,30 @@
       "twitter_image_alt": "Chính Sách Bảo Mật"
     },
     "title": "Chính Sách Bảo Mật",
-    "last_updated": "Cập nhật lần cuối: Tháng 11 năm 2026",
-    "version": "Phiên bản: 1.0",
+    "last_updated": "Cập nhật lần cuối: 17 tháng 11 năm 2026",
+    "version": "Phiên bản: 1.1",
     "intro": {
       "title": "1. Giới Thiệu",
       "p1": "Jynx (\"chúng tôi\", \"của chúng tôi\", \"ứng dụng\") là nền tảng game xã hội cho phép người chơi kết nối, thành lập đội và chơi cùng nhau.",
       "legal_info": "Thông Tin Pháp Lý:",
       "entity_label": "Pháp Nhân:",
-      "entity": "Jynx Group",
-      "dpo_label": "Liên Hệ Nhân Viên Bảo Vệ Quyền Riêng Tư:",
+      "entity": "Jynx Group (Société par Actions Simplifiée, SIREN 991443896, đăng ký tại Nantes, Pháp)",
+      "dpo_label": "Cán bộ Bảo vệ Dữ liệu / Encarregado:",
       "dpo": "dpo@jynx.app",
       "p2": "Chính sách bảo mật này mô tả cách chúng tôi thu thập, sử dụng, chia sẻ và bảo vệ dữ liệu cá nhân của bạn khi bạn sử dụng ứng dụng của chúng tôi.",
-      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
-      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
-      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
-      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
-      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
-      "publication_label": "Publication (LCEN):",
-      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
+      "jurisdiction_eu_label": "Cơ sở tài phán EU / EEA:",
+      "jurisdiction_eu": "Pháp, Liên minh châu Âu — Chính sách Quyền riêng tư này tuân thủ Quy định (EU) 2016/679 (GDPR) và Chỉ thị 2002/58/EC (ePrivacy) theo văn bản luật hóa tại Pháp.",
+      "jurisdiction_brazil_label": "Cơ sở tài phán Brazil:",
+      "jurisdiction_brazil": "Chính sách Quyền riêng tư này cũng tuân thủ Luật Brazil số 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), luật này áp dụng cho việc Jynx xử lý dữ liệu cá nhân của các chủ thể dữ liệu đang ở Brazil theo Điều 3 của LGPD, bất kể Jynx không có cơ sở tại Brazil.",
+      "controller": "Theo LGPD, Jynx Group là bên kiểm soát dữ liệu (controlador) đối với dữ liệu cá nhân của bạn. Cán bộ Bảo vệ Dữ liệu của chúng tôi đảm nhiệm vai trò encarregado (DPO) và có thể được liên hệ tại dpo@jynx.app cho mọi yêu cầu liên quan đến LGPD. Tuy Jynx được xếp là pequeno agente de tratamento de dados pessoais (chủ thể xử lý quy mô nhỏ) theo Nghị quyết CD/ANPD nº 2/2022 của ANPD — nghị quyết miễn nghĩa vụ bổ nhiệm encarregado bắt buộc — Jynx vẫn tự nguyện duy trì kênh liên lạc công khai này.",
+      "publication_label": "Thông tin xuất bản (LCEN):",
+      "publication": "Directeur de la publication: Antoine Haie. Trang web này (jynx.app) được lưu trữ bởi GitHub Pages và phân phối qua mạng phân phối nội dung Cloudflare."
     },
     "age_verification": {
       "title": "2. Độ Tuổi Tối Thiểu và Xác Minh",
       "p1": "Ứng dụng của chúng tôi dành cho người dùng từ 18 tuổi trở lên.",
       "p2": "Khi tạo tài khoản, chúng tôi yêu cầu bạn cung cấp ngày sinh. Nếu bạn dưới 18 tuổi, bạn sẽ không thể tạo tài khoản hoặc sử dụng dịch vụ của chúng tôi.",
-      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
+      "minors": "Không tiếp thị cho người chưa thành niên. Jynx chỉ dành cho người dùng từ 18 tuổi trở lên và áp dụng cổng kiểm tra độ tuổi tự động. Nếu sau đó chúng tôi xác định một người dùng dưới 18 tuổi (Điều 14 LGPD; Điều 8 GDPR), chúng tôi sẽ ngay lập tức chấm dứt tài khoản, loại người dùng khỏi mọi thông cáo tiếp thị, tái gắn kết và khảo sát, và xóa dữ liệu tiếp thị liên quan. Chúng tôi không bao giờ cố ý thu thập sự đồng ý tiếp thị từ người chưa thành niên."
     },
     "data_collected": {
       "title": "3. Dữ Liệu Thu Thập",
@@ -185,9 +185,9 @@
         "email": "Email (cho tài khoản email/mật khẩu)",
         "username": "Tên người dùng/biệt danh",
         "photo": "Ảnh hồ sơ (tùy chọn)",
-        "social": "Social login identifiers (Google, Apple) if you use these methods",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
-        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
+        "social": "Định danh đăng nhập mạng xã hội (Google, Apple) nếu bạn dùng các phương thức này",
+        "guest": "Duyệt với tư cách khách (khi có sẵn): bạn có thể khám phá các phần công khai của Jynx mà không cần tạo tài khoản; ở chế độ khách chúng tôi chỉ xử lý một định danh khách lưu cục bộ và dữ liệu kỹ thuật tại §3.3 cần thiết để vận hành ứng dụng — không tạo hồ sơ và không giữ dữ liệu tài khoản nào. Để ghép đôi, trò chuyện hoặc tham gia cộng đồng, bạn phải tạo tài khoản",
+        "discord": "Định danh Discord (ID người dùng Discord của bạn) nếu bạn chọn kết nối tài khoản Discord để dùng tích hợp Discord — kết nối dùng OAuth chỉ định danh của Discord và không phải phương thức đăng nhập; bạn có thể ngắt kết nối bất cứ lúc nào"
       },
       "profile": {
         "title": "Thông Tin Hồ Sơ:",
@@ -232,7 +232,7 @@
         "crashlytics_label": "Firebase Crashlytics:",
         "crashlytics": "Báo cáo sự cố",
         "disable": "Bạn có thể tắt thu thập dữ liệu phân tích trong Cài đặt > Quyền riêng tư > \"Bật Phân tích\".",
-        "ad_measurement": "Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9."
+        "ad_measurement": "Đo lường quảng cáo với Meta tách riêng với phân tích và có công tắc riêng: xem §5.9."
       },
       "device": {
         "title": "Thông Tin Thiết Bị:",
@@ -256,9 +256,9 @@
       },
       "user_content": {
         "title": "3.5. Nội Dung Do Người Dùng Tạo",
-        "photos": "Ảnh đã tải lên (ảnh hồ sơ, ảnh bổ sung) and images shared in direct messages",
+        "photos": "Ảnh đã tải lên (ảnh hồ sơ, ảnh bổ sung) và hình ảnh chia sẻ trong tin nhắn trực tiếp",
         "reports": "Báo cáo bảo mật và kiểm duyệt",
-        "cosmetics": "Sở thích thẩm mỹ (avatar, huy hiệu)"
+        "cosmetics": "Sở thích về vật phẩm trang trí (avatar, huy hiệu)"
       },
       "voice": {
         "title": "3.6. Dữ liệu âm thanh của phòng thoại",
@@ -307,15 +307,15 @@
         "policy": "https://www.riotgames.com/en/privacy-notice"
       },
       "esp": {
-        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
-        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
-        "identity_label": "ESP identity, role, and location:",
-        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
-        "subprocessors_label": "Sub-processors:",
-        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
-        "transfer_label": "International transfer basis:",
-        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
-        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+        "title": "4.4. Nhà cung cấp Dịch vụ Email (Thông cáo Tiếp thị & Khảo sát)",
+        "intro": "Để gửi các email tiếp thị, tái gắn kết và khảo sát gỡ cài đặt/churn mô tả tại §5.6, Jynx sử dụng một nhà cung cấp dịch vụ email bên thứ ba (ESP) đóng vai trò bên xử lý dữ liệu (Điều 28 GDPR; Điều 39 LGPD — operador). ESP chỉ xử lý địa chỉ email của bạn và dữ liệu phân phối tối thiểu (ví dụ trạng thái gửi/thất bại) theo đúng chỉ dẫn văn bản của Jynx, trong khuôn khổ một Thỏa thuận Xử lý Dữ liệu đã ký.",
+        "identity_label": "Danh tính, vai trò và vị trí của ESP:",
+        "identity": "Brevo (Brevo SAS, Paris, Pháp) — Nhà cung cấp Dịch vụ Email và bên xử lý dữ liệu của chúng tôi theo một Thỏa thuận Xử lý Dữ liệu đã ký. Chính sách Quyền riêng tư của Brevo: https://www.brevo.com/legal/privacypolicy/",
+        "subprocessors_label": "Các bên xử lý phụ:",
+        "subprocessors": "Danh sách bên xử lý phụ hiện tại của Brevo được công bố trong Thỏa thuận Xử lý Dữ liệu (Điều khoản Sử dụng) của hãng: https://www.brevo.com/legal/termsofuse/",
+        "transfer_label": "Cơ sở chuyển dữ liệu quốc tế:",
+        "transfer": "Xem §9. Brevo có trụ sở tại Pháp (EU). Vì vậy các lần chuyển dữ liệu đến Brevo hưởng chế độ bảo vệ của EU theo GDPR và, với người dùng Brazil, quyết định adequacy của ANPD cho EU (Nghị quyết nº 32/2026) — không cần SCC hay cơ chế bổ sung nào.",
+        "no_sell": "Chúng tôi không bán dữ liệu cá nhân của bạn. Không có pixel theo dõi hay phân tích ẩn nào được nhúng vào email tiếp thị khi chưa có cơ sở pháp lý riêng được công bố tại §5.6."
       },
       "livekit": {
         "title": "4.5. LiveKit Cloud (thoại thời gian thực)",
@@ -324,43 +324,43 @@
         "p3": "LiveKit có lưu giữ siêu dữ liệu phiên hoạt động — như danh tính người tham gia, mã nhận diện phòng, thời điểm kết nối và các chỉ số chất lượng — cho mục đích thanh toán, ngăn ngừa lạm dụng và vận hành theo Phụ lục Xử lý Dữ liệu của mình. Siêu dữ liệu này không được dùng để nhận dạng bạn ngoài nền tảng hay cho mục đích quảng cáo."
       },
       "child_safety": {
-        "title": "4.7. Specialized Child-Safety Technology Providers",
-        "p1": "To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9)."
+        "title": "4.7. Các Nhà cung cấp Công nghệ Bảo vệ Trẻ em Chuyên biệt",
+        "p1": "Để giúp phát hiện tài liệu lạm dụng tình dục trẻ em đã biết (xem §5.8), Jynx hợp tác với các nhà cung cấp công nghệ bảo vệ trẻ em chuyên biệt đóng vai trò bên xử lý dữ liệu (Điều 28 GDPR; Điều 39 LGPD — operador). Các nhà cung cấp này chỉ nhận các mã băm không thể đảo ngược dẫn xuất từ hình ảnh — không bao giờ nhận chính hình ảnh — và thực hiện so khớp mã băm tại khu vực EU, chỉ nhằm mục đích phát hiện vì an toàn trẻ em theo đúng chỉ dẫn văn bản của Jynx. Việc tạo mã băm từ hình ảnh diễn ra bên trong hạ tầng Google Cloud của chính Jynx (xem §9)."
       },
       "image_moderation": {
-        "title": "4.8. Cloud Image-Moderation Provider (AWS)",
-        "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
+        "title": "4.8. Nhà cung cấp Kiểm duyệt Hình ảnh Đám mây (AWS)",
+        "p1": "Để giữ nền tảng an toàn, ảnh đại diện và ảnh thư viện được kiểm duyệt bởi một dịch vụ phân loại hình ảnh tự động — Amazon Rekognition, do Amazon Web Services (AWS) cung cấp, đóng vai trò bên xử lý dữ liệu (Điều 28 GDPR; Điều 39 LGPD — operador). Cho mục đích này, hình ảnh được truyền đến AWS và phân tích bằng học máy để phát hiện nội dung không phù hợp (ví dụ khỏa thân hay nội dung khiêu dâm); kết quả là một nhãn do máy sinh kèm điểm độ tin cậy, được xử lý theo quy trình kiểm duyệt của chúng tôi (xem Chính sách An toàn Trẻ em). Việc xử lý này chỉ dùng cho kiểm duyệt nội dung và an toàn — không bao giờ dùng để lập hồ sơ, quảng cáo hay bất kỳ mục đích nào khác. AWS xử lý dữ liệu này tại vùng AWS được cấu hình cho dịch vụ (hiện là São Paulo, Brazil); các biện pháp bảo đảm chuyển dữ liệu tại §9 được áp dụng. Như phần còn lại của Dịch vụ, hình ảnh được hạ tầng Google Cloud của chính Jynx tiếp nhận trước khi chuyển tiếp đến AWS (xem §9)."
       },
       "stores": {
-        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
-        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
-        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
-        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
-        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
-        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
+        "title": "4.6. App Store / Google Play (Mua hàng trong ứng dụng và Gói đăng ký)",
+        "p1": "Gói đăng ký Jynx+ và Founder Pack được bán trong ứng dụng qua App Store của Apple và Google Play, các nền tảng này đóng vai trò merchant of record cho các giao dịch mua này (xem Điều khoản Dịch vụ, Mục 8). Dữ liệu phương thức thanh toán (ví dụ thông tin thẻ) chỉ được Apple/Google thu thập và xử lý theo chính sách quyền riêng tư riêng của mỗi bên; Jynx không thu thập, nhận hay lưu bất kỳ dữ liệu phương thức thanh toán nào.",
+        "p2": "Qua nhà cung cấp thanh toán RevenueCat (một bên xử lý dữ liệu hoạt động theo Thỏa thuận Xử lý Dữ liệu đã ký; Điều 28 GDPR; Điều 39 LGPD — operador), Jynx chỉ nhận thông tin cần thiết để cung cấp những gì bạn đã mua: trạng thái gói đăng ký và quyền lợi của bạn (ví dụ Jynx+ có đang hoạt động và ngày gia hạn), cấp Founder Pack đã mua, và các định danh giao dịch. Dữ liệu này được giữ trong thời gian cần thiết để cung cấp Dịch vụ và đáp ứng nghĩa vụ kế toán, lưu hồ sơ (§6), và chỉ được dùng để cấp và duy trì quyền lợi của bạn cũng như phòng chống gian lận. RevenueCat đặt tại Hoa Kỳ; các lần chuyển dữ liệu cá nhân đến RevenueCat dựa trên EU-US Data Privacy Framework (với các thực thể RevenueCat tự chứng nhận theo DPF) hoặc các điều khoản hợp đồng chuẩn khi DPF không áp dụng. Cơ chế chuyển dữ liệu áp dụng cho dữ liệu người dùng Brazil được xác nhận trong Hồ sơ Hoạt động Xử lý của chúng tôi (xem §9).",
+        "apple_label": "Chính sách Quyền riêng tư của Apple: https://www.apple.com/legal/privacy/",
+        "google_label": "Chính sách Quyền riêng tư của Google: https://policies.google.com/privacy",
+        "revenuecat_label": "Chính sách Quyền riêng tư của RevenueCat: https://www.revenuecat.com/privacy"
       },
       "meta": {
-        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
-        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
-        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.",
-        "p3": "<strong>Ad measurement.</strong> Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.",
-        "p4": "Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing."
+        "title": "4.9. Phân bổ Quảng cáo (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "Để đo lường xem các lượt cài ứng dụng có bắt nguồn từ hoạt động tiếp thị hay không, chúng tôi sử dụng các công nghệ quảng cáo và phân bổ, có sự đồng ý của bạn khi bắt buộc: Meta (Facebook) App Events SDK (Meta Platforms Ireland) và Google Play Install Referrer API. Trên thiết bị Apple, Meta SDK chỉ được khởi tạo sau khi bạn cấp quyền App Tracking Transparency (ATT); nếu không cấp, không có định danh quảng cáo nào (IDFA) được thu thập và SDK không được khởi tạo. Trên Android, Google Play Install Referrer API cho biết lượt cài của bạn đến từ danh mục cửa hàng hay liên kết chiến dịch, và định danh quảng cáo (GAID) được dùng theo cài đặt ID quảng cáo của thiết bị bạn. Các sự kiện gửi đến Meta chỉ giới hạn ở kích hoạt ứng dụng và siêu dữ liệu sự kiện ứng dụng (bao gồm, khi bạn đã đăng nhập, định danh người dùng ứng dụng của bạn — dữ liệu này bị xóa khỏi SDK khi bạn đăng xuất), được xử lý theo chỉ dẫn của Jynx cho mục đích phân bổ và đo lường chiến dịch.",
+        "p2": "Meta Platforms Ireland xử lý dữ liệu này với tư cách bên xử lý dữ liệu của chúng tôi cho mục đích phân bổ nêu trên; Meta Platforms, Inc. có thể đồng thời đóng vai trò bên kiểm soát độc lập cho các mục đích hợp pháp riêng của hãng theo điều khoản riêng của hãng (các Điều khoản Xử lý Dữ liệu của Meta và chính sách quyền riêng tư tại https://www.facebook.com/privacy/policy). Các lần chuyển dữ liệu đến Hoa Kỳ dựa trên EU-US Data Privacy Framework cho các thực thể Meta tự chứng nhận, hoặc các điều khoản hợp đồng chuẩn (§9). Bạn có thể từ chối hoặc thu hồi quyền ATT hay đặt lại ID quảng cáo bất cứ lúc nào trong cài đặt thiết bị; việc từ chối không ảnh hưởng việc bạn dùng Jynx.",
+        "p3": "<strong>Đo lường quảng cáo.</strong> Ngoài phân bổ lượt cài, chúng tôi còn đo lường chuyển đổi: các sự kiện chia sẻ với Meta bao gồm đăng ký tài khoản, hoàn tất onboarding và các giao dịch mua — kèm số tiền và đơn vị tiền tệ. Khi bạn đã đồng ý, một địa chỉ email hoặc số điện thoại đã băm (xáo trộn không thể đảo ngược) cũng có thể được chia sẻ để nâng cao chất lượng ghép đôi; điều này không bao giờ xảy ra với người dùng được đo lường trên cơ sở lợi ích hợp pháp của chúng tôi (bên dưới). Sự kiện đăng ký tài khoản cũng có thể bao gồm giới tính bạn tự khai. Không gì khác được chia sẻ — không tin nhắn, trường hồ sơ, trò chơi, cộng đồng, danh bạ, vị trí hay ảnh — và dữ liệu của bạn không bao giờ bị bán. Các cơ sở pháp lý, lựa chọn của bạn và phần công bố Apple SKAdNetwork được mô tả tại §5.9.",
+        "p4": "Lưu giữ: Jynx không giữ bản sao riêng của các sự kiện đã chia sẻ với Meta. Các sự kiện đã chia sẻ vẫn chịu quy trình lưu giữ và xóa của Meta Business Tools, áp dụng từ thời điểm chia sẻ."
       },
       "partner": {
-        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
-        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
-        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
+        "title": "4.10. Chương trình Creator (Đối tác) — KYC và Chi trả",
+        "p1": "Nếu bạn tham gia chương trình Creator (đối tác) của Jynx, chúng tôi xử lý thông tin danh tính, thuế và chi trả mà chương trình yêu cầu: số CPF hoặc CNPJ của bạn (xác thực trong ứng dụng), kênh chi trả bạn chọn — PayPal (xác định bằng email), chuyển khoản ngân hàng Wise (Brazil), hoặc khóa Pix — và hồ sơ hiệu suất chiến dịch của bạn (lượt đăng ký được phân bổ; xem §10 về giới thiệu). Hồ sơ chi trả được giữ dưới dạng bí danh hóa (§10). Chương trình tuân theo Creator Referral Terms và Self-Billing Mandate có phiên bản hóa mà bạn chấp nhận khi đăng ký (xem Điều khoản Dịch vụ §15).",
+        "p2": "Các khoản chi trả được thực hiện qua tổ chức thanh toán vận hành kênh bạn đã chọn: PayPal hoặc Wise nhận lệnh chuyển và dữ liệu cần thiết để xác minh danh tính của bạn, phòng chống gian lận và đáp ứng nghĩa vụ quản lý của họ, hoạt động theo điều khoản riêng với tư cách tổ chức thanh toán độc lập (chính sách quyền riêng tư của họ được công bố trên trang web của họ); khoản chi trả Pix là một lệnh chuyển do Jynx Group khởi tạo đến khóa Pix bạn cung cấp. Các biện pháp bảo đảm chuyển dữ liệu quốc tế áp dụng được mô tả tại §9."
       },
       "ai": {
-        "title": "4.11. AI Features",
-        "p1": "<strong>Avatar generation.</strong> The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).",
-        "p2": "<strong>Companion messages (Quimera).</strong> Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1)."
+        "title": "4.11. Tính năng AI",
+        "p1": "<strong>Tạo avatar.</strong> Bài trắc nghiệm avatar có thể tạo các phương án avatar cách điệu cho hồ sơ của bạn. Việc tạo hiện chạy trên Cloudflare Workers AI (Cloudflare, Inc., bên xử lý dữ liệu) theo đúng chỉ dẫn văn bản của Jynx; nếu công cụ nền thay đổi, mục này sẽ được cập nhật trước hoặc cùng lúc với thay đổi. Đầu vào là các câu trả lời trắc nghiệm và sở thích phong cách chơi của bạn — không bao giờ là ảnh của bạn — cùng định danh người dùng của bạn; các phương án được trả về ứng dụng dưới dạng ảnh PNG hoặc WebP và được giữ tối đa 30 ngày để bạn có thể tải lại, sau đó bị xóa. Ảnh được tạo là ảnh tổng hợp — không phải ảnh chụp của bạn — và chịu cùng quy trình kiểm duyệt như các ảnh khác (§4.8).",
+        "p2": "<strong>Tin nhắn đồng hành (Quimera).</strong> Một số tin nhắn của ứng dụng đồng hành được soạn hoặc làm giàu bởi một hệ thống AI tạo sinh (Google Gemini, bên xử lý dữ liệu). Khi một tin nhắn do AI tạo, nó được gắn nhãn như vậy; bạn luôn được thông báo khi đang tương tác với một phần tử do AI tạo, theo Điều 50(1) của Đạo luật AI EU."
       }
     },
     "data_usage": {
       "title": "5. Sử Dụng Dữ Liệu",
       "intro": "Chúng tôi sử dụng dữ liệu của bạn để:",
-      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
+      "aggregate_publication": "Chúng tôi có thể công bố số liệu thống kê ẩn danh, tổng hợp, dẫn xuất từ việc sử dụng ứng dụng (ví dụ: người chơi hình thành duo như thế nào). Các số liệu này không bao giờ định danh người dùng cá nhân.",
       "services": {
         "title": "1. Cung Cấp Dịch Vụ:",
         "account": "Tạo và quản lý tài khoản của bạn",
@@ -373,16 +373,16 @@
         "content": "Hiển thị nội dung liên quan"
       },
       "communication": {
-        "title": "3. Giao Tiếp:",
-        "notifications": "Gửi thông báo quan trọng (tìm thấy trận đấu, nhận tin nhắn)",
-        "note": "Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category."
+        "title": "3. Giao Tiếp (vận hành / giao dịch):",
+        "notifications": "Gửi cho bạn các thông báo dịch vụ quan trọng (trận ghép được tìm thấy, tin nhắn nhận được, cảnh báo an ninh tài khoản và thông báo thay đổi chính sách theo §11)",
+        "note": "Các email tiếp thị, tái gắn kết và khảo sát gỡ cài đặt/churn được mô tả riêng tại §5.6 Thông cáo Tiếp thị và không thuộc danh mục giao dịch này."
       },
       "improvement": {
         "title": "4. Cải Thiện Dịch Vụ:",
         "analyze": "Phân tích sử dụng để cải thiện tính năng",
         "bugs": "Xác định và sửa lỗi",
         "performance": "Tối ưu hóa hiệu suất",
-        "ai": "Generate avatar proposals and companion-message drafts using AI processors (§4.11)"
+        "ai": "Tạo phương án avatar và bản nháp tin nhắn đồng hành bằng các bên xử lý AI (§4.11)"
       },
       "security": {
         "title": "5. Bảo Mật và Tuân Thủ:",
@@ -391,53 +391,53 @@
         "legal": "Tuân thủ nghĩa vụ pháp lý"
       },
       "marketing": {
-        "title": "5.6. Marketing Communications",
-        "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
-        "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
-        "eu_body": "Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The \"soft opt-in\" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.",
-        "br_title": "Legal basis — Brazilian users (LGPD).",
-        "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
-        "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
-        "br_consent_body": "captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.",
-        "br_li_title": "Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)",
-        "br_li_body": "used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.",
-        "optout_title": "Right to object / opt-out.",
-        "optout_body": "Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.",
-        "surveys_title": "Uninstall / churn surveys.",
-        "surveys_body": "Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).",
-        "tracking_title": "Email tracking.",
-        "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
-        "frequency_title": "Frequency.",
-        "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+        "title": "5.6. Thông cáo Tiếp thị",
+        "intro": "Ngoài các thông báo vận hành mô tả tại §5.3, chúng tôi có thể gửi cho bạn thông cáo tiếp thị và tái gắn kết qua email, bao gồm: cập nhật sản phẩm và thông báo tính năng về ứng dụng Jynx; bản tin; tin nhắn mời bạn quay lại ứng dụng; và các khảo sát phản hồi gỡ cài đặt/churn ngắn (ví dụ: \"Tại sao bạn ngừng dùng Jynx?\"). Các thông cáo này khác với thông báo giao dịch/dịch vụ.",
+        "eu_title": "Cơ sở pháp lý — người dùng Liên minh châu Âu / EEA (GDPR + ePrivacy).",
+        "eu_body": "Email tiếp thị và tái gắn kết gửi đến người dùng EU/EEA được gửi trên cơ sở sự đồng ý chọn tham gia rõ ràng trước đó của bạn (Điều 13(1) Chỉ thị ePrivacy, luật hóa tại Pháp bởi Điều L. 34-5 của Code des postes et des communications électroniques; Điều 6(1)(a) và Điều 7 GDPR). Sau khi ra mắt gói đăng ký trả phí (Jynx+) và mua một lần trong ứng dụng (Founder Pack), Dịch vụ giờ đây là dịch vụ có thù lao, và các giao dịch mua đó cấu thành một \"bán hàng\" theo nghĩa bản án C-654/23 của CJEU (13/11/2025). Do đó ngoại lệ \"soft opt-in\" của Điều 13(2) ePrivacy về nguyên tắc sẵn có cho chúng tôi đối với các sản phẩm và dịch vụ tương tự cho khách hàng hiện hữu. Tuy nhiên, với tư thế thận trọng, chúng tôi tiếp tục dựa trên sự đồng ý chọn tham gia rõ ràng trước đó của bạn; chúng tôi chỉ sẽ bắt đầu dựa vào cơ sở soft-opt-in sau một đánh giá lại có văn bản ghi trong Hồ sơ Hoạt động Xử lý và một thông báo cập nhật cho bạn.",
+        "br_title": "Cơ sở pháp lý — người dùng Brazil (LGPD).",
+        "br_intro": "Với người dùng Brazil, các thông cáo tiếp thị và tái gắn kết dựa trên hai cơ sở pháp lý thay thế:",
+        "br_consent_title": "Sự đồng ý (Điều 7, I và Điều 8 LGPD)",
+        "br_consent_body": "thu thập dưới dạng một lựa chọn tham gia riêng biệt, không đánh dấu sẵn, theo mục đích cụ thể, khi đăng ký hoặc trong ứng dụng, được ghi lại kèm ngày, phiên bản biểu mẫu và ngôn ngữ; bạn có thể thu hồi bất cứ lúc nào, miễn phí, mà không mất quyền truy cập Dịch vụ (Điều 8 §5). Sự đồng ý là cơ sở dùng cho mọi thông cáo đến khách hàng tiềm năng, tiếp xúc lạnh, hoặc chào bán chéo/đối tác ngoài ứng dụng Jynx cốt lõi.",
+        "br_li_title": "Lợi ích hợp pháp (Điều 7, IX LGPD, được Điều 10 cụ thể hóa)",
+        "br_li_body": "chỉ dùng cho người dùng hiện hữu hoặc mới ngừng hoạt động gần đây nhận tin nhắn tái gắn kết, cập nhật sản phẩm về cùng ứng dụng Jynx, hoặc một khảo sát phản hồi churn/gỡ cài đặt ngắn duy nhất. Trước khi dựa vào cơ sở này, Jynx thực hiện và lập văn bản một Đánh giá Lợi ích Hợp pháp (LIA) theo bài kiểm tra ba pha của Hướng dẫn Lợi ích Hợp pháp của ANPD (2/2/2024): (i) mục đích, (ii) tính cần thiết, và (iii) cân bằng và biện pháp bảo đảm. LIA ghi lại mối quan hệ trước đó, kỳ vọng hợp lý của người dùng, mục đích, phương tiện ít xâm nhập nhất đã chọn, và kênh từ chối nhận. Lợi ích hợp pháp không dùng cho email lạnh/không được yêu cầu, chào bán chéo không liên quan, danh sách mua, hay nhắn tin dai dẳng đến người dùng đã rời sau khi mối quan hệ đã rõ ràng chấm dứt.",
+        "optout_title": "Quyền phản đối / từ chối nhận.",
+        "optout_body": "Người dùng Brazil có thể phản đối việc xử lý này và từ chối nhận bất cứ lúc nào qua các cơ chế tại §7.5 và §7.6 (liên kết hủy đăng ký một chạm trong mỗi email, hoặc công tắc tùy chọn giao tiếp trong ứng dụng), không mất phí và không phải chấm dứt tài khoản. Chúng tôi thực hiện yêu cầu từ chối nhận theo thời gian thực. Bộ luật Bảo vệ Người tiêu dùng Brazil (CDC, Luật 8.078/90, đặc biệt Điều 39 III) cấm thông điệp thương mại không được yêu cầu hoặc gây quấy rối; vì vậy chúng tôi tôn trọng nghiêm ngặt các yêu cầu từ chối nhận và áp dụng giới hạn tần suất, vì việc gửi dai dẳng hoặc bỏ qua yêu cầu từ chối nhận có thể bị coi là hành vi gây quấy rối.",
+        "surveys_title": "Khảo sát gỡ cài đặt / churn.",
+        "surveys_body": "Bất cứ nơi nào khả thi về mặt vận hành, chúng tôi đặt câu hỏi gỡ cài đặt/churn ngay trong ứng dụng tại thời điểm gỡ cài đặt (không cần giữ email). Khi một khảo sát email được gửi, khảo sát không chứa nội dung quảng bá hay tái gắn kết; chúng tôi gửi tối đa một (1) khảo sát cho mỗi người dùng trong khoảng 60 ngày sau khi xóa tài khoản hoặc gỡ cài đặt; sau đó địa chỉ email bị xóa hoặc ẩn danh hóa theo §6; và những người dùng đã gửi yêu cầu xóa dữ liệu / quyền được quên (§7.3) không bao giờ được liên hệ lại và được đưa vào danh sách chặn vĩnh viễn (xem §6 và Điều khoản Dịch vụ §7.2).",
+        "tracking_title": "Theo dõi email.",
+        "tracking_body": "Email tiếp thị không nhúng pixel theo dõi hay phân tích ẩn nào xử lý dữ liệu cá nhân khi chưa có cơ sở pháp lý riêng. Khi bất kỳ hình thức theo dõi mở/nhấp nào được đưa vào, nó sẽ được công bố tại đây và dựa trên sự đồng ý (Điều 8 LGPD; Điều 5(3) ePrivacy), phù hợp với hướng dẫn của ANPD về công nghệ theo dõi (18/10/2022).",
+        "frequency_title": "Tần suất.",
+        "frequency_body": "Email tiếp thị chịu các giới hạn tần suất nội bộ; bạn có thể giảm hoặc tắt chúng bất cứ lúc nào qua công tắc tùy chọn giao tiếp trong ứng dụng hoặc bằng cách nhấn hủy đăng ký trong bất kỳ tin nhắn nào."
       },
       "ban_evasion": {
         "title": "5.7. An toàn cộng đồng và trốn tránh lệnh cấm",
         "p1": "Để giúp bảo vệ cộng đồng của chúng tôi khỏi hành vi lạm dụng, chúng tôi sử dụng định danh thiết bị và tín hiệu toàn vẹn thiết bị để phát hiện và ngăn chặn các cố gắng lách lệnh tạm ngừng hoặc cấm. Nếu chúng tôi liên kết một thiết bị với tài khoản bị cấm, thiết bị đó có thể bị ngăn tạo tài khoản mới hoặc đăng nhập. Nếu bạn cho rằng điều này xảy ra do nhầm lẫn, bạn có thể khiếu nại bằng cách liên hệ support@jynx.app.",
-        "p2": "Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service."
+        "p2": "Các tín hiệu toàn vẹn thiết bị được thu thập và đánh giá với sự trợ giúp của Talsec freeRASP, một thư viện chống can thiệp và toàn vẹn thiết bị nhúng trong ứng dụng. freeRASP hoạt động trên thiết bị của bạn: nó phát hiện cục bộ các mối đe dọa như thiết bị đã root, runtime hooking và bootloader đã mở khóa, và báo cáo kết quả cho chúng tôi qua nhà cung cấp giám sát lỗi của chính chúng tôi (Sentry, §4.2) nhằm phòng chống lạm dụng; nó không gửi dữ liệu của bạn đến bất kỳ dịch vụ nào do Talsec vận hành."
       },
       "child_safety": {
-        "title": "5.8. Child-Safety Image Analysis",
-        "p1": "To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our <a href=\"/child-safety.html\">Child Safety Policy</a>."
+        "title": "5.8. Phân tích Hình ảnh vì An toàn Trẻ em",
+        "p1": "Để giúp bảo vệ trẻ em và đáp ứng nghĩa vụ báo cáo pháp lý, Jynx sử dụng các hệ thống tự động để phân tích hình ảnh chia sẻ trong tin nhắn trực tiếp bằng cách so khớp mã băm dẫn xuất từ các hình ảnh đó với các cơ sở dữ liệu tài liệu lạm dụng tình dục trẻ em đã biết. Cho việc phân tích này, chính hình ảnh không được truyền đến bên thứ ba — chỉ có mã băm không thể đảo ngược (xem §4.7). Ảnh đại diện được kiểm duyệt riêng, bởi quy trình kiểm duyệt hình ảnh mô tả tại §4.8. Việc phân tích này tồn tại chỉ nhằm phát hiện vì an toàn trẻ em và nghĩa vụ báo cáo pháp lý của chúng tôi; không dùng để lập hồ sơ, quảng cáo hay bất kỳ mục đích nào khác. Các kết quả khớp được xử lý như mô tả trong <a href=\"/child-safety.html\">Chính sách An toàn Trẻ em</a> của chúng tôi."
       },
       "ad_measurement": {
-        "title": "5.9. Advertising Measurement",
-        "p1": "If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.",
-        "p2": "How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).",
-        "p3": "Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).",
-        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it."
+        "title": "5.9. Đo lường Quảng cáo",
+        "p1": "Nếu bạn đồng ý, chúng tôi cũng chia sẻ một số sự kiện giới hạn (như đăng ký và giao dịch mua, kèm số tiền) với Meta để đo lường và cải thiện quảng cáo của chúng tôi. Dữ liệu của bạn không bao giờ bị bán, và bạn có thể thay đổi lựa chọn bất cứ lúc nào trong cài đặt Quyền riêng tư. Những gì được chia sẻ, và với ai, được liệt kê tại §4.9.",
+        "p2": "Cách bật. Trên iPhone và iPad, đo lường quảng cáo chỉ dùng dữ liệu của bạn khi có sự đồng ý của bạn (Điều 6(1)(a) GDPR; Điều 7, I LGPD), được đưa ra trong trang quyền riêng tư lần đầu khởi chạy hoặc sau đó trong Cài đặt > Quyền riêng tư > Đo lường quảng cáo, và ngoài ra còn yêu cầu ủy quyền App Tracking Transparency của Apple (xem §4.9). Trên Android, đo lường quảng cáo dựa trên cùng sự đồng ý đó hoặc, với người dùng được hiển thị công tắc đo lường quảng cáo bật sẵn trong trang lần đầu, dựa trên lợi ích hợp pháp của chúng tôi trong việc đo lường quảng cáo của mình (Điều 7, IX và Điều 10 LGPD), được đánh giá trong một Đánh giá Lợi ích Hợp pháp có văn bản. Trong trường hợp đó nó bật mặc định, và bạn có thể tắt trong cùng trang đó hoặc bất cứ lúc nào trong Cài đặt > Quyền riêng tư > Đo lường quảng cáo — việc phản đối dễ như việc để nó bật, miễn phí, và không bao giờ đòi hỏi xóa tài khoản (Điều 18, §2 LGPD).",
+        "p3": "Biện pháp bảo đảm. Những người dùng chúng tôi biết là dưới 18 tuổi, và các hồ sơ chưa xác lập độ tuổi, không bao giờ được đo lường trên cơ sở lợi ích hợp pháp. Thu hồi sự đồng ý hoặc phản đối sẽ chặn mọi chia sẻ tiếp theo từ lần khởi chạy ứng dụng kế tiếp của bạn; các sự kiện đã được chia sẻ hợp pháp trước đó vẫn còn tại Meta theo điều khoản lưu giữ của §4.9, và việc thu hồi không ảnh hưởng tính hợp pháp của những gì đã làm trước đó (Điều 7(3) GDPR; Điều 8 §5 LGPD).",
+        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Tách riêng với phần trên, và với mọi người dùng iPhone và iPad bất kể lựa chọn hay cài đặt nào — kể cả khi theo dõi hay đo lường quảng cáo bị từ chối — SKAdNetwork của Apple báo cáo thông tin chuyển đổi ẩn danh, tổng hợp cho mạng quảng cáo đã hiển thị quảng cáo cho bạn (ví dụ: một lượt đăng ký hoặc một giao dịch mua trong một khoảng giá trị nhất định đã xảy ra). Không có định danh nào từ Jynx và không có dữ liệu cá nhân nào rời thiết bị của bạn cho việc này: đây là cơ chế phân bổ tiêu chuẩn của Apple, và chúng tôi không thể định danh bạn từ nó."
       },
       "emails": {
-        "title": "5.10. Emails and Communications",
-        "service": "<strong>Account-activity notification emails (service).</strong> When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the \"Manage these notifications\" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.",
-        "winback": "<strong>Re-engagement and marketing emails (winback).</strong> Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.",
-        "profile_display": "<strong>Display of your username and profile picture in notification emails.</strong> If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only)."
+        "title": "5.10. Email và Thông cáo",
+        "service": "<strong>Email thông báo hoạt động tài khoản (dịch vụ).</strong> Khi bạn bỏ lỡ hoạt động tài khoản trong ứng dụng (một tin nhắn chưa đọc, một match hoặc lượt thích mới), Jynx có thể gửi email cho bạn về điều đó. Đây là các thông báo dịch vụ dựa trên lợi ích hợp pháp của chúng tôi trong việc vận hành nền tảng xã hội (giữ bạn nắm các tương tác đang diễn ra của bạn) và không chứa nội dung quảng bá. Bạn có thể tắt từng loại thông báo (tin nhắn, match, thích) bất cứ lúc nào trong Cài đặt > Quyền riêng tư > Giao tiếp, hoặc qua liên kết \"Quản lý các thông báo này\" trong mỗi email. Bạn cũng có thể phản đối việc xử lý này bất cứ lúc nào (Điều 21 GDPR) tại privacy@jynx.app.",
+        "winback": "<strong>Email tái gắn kết và tiếp thị (winback).</strong> Các email nhắm đến việc đưa bạn quay lại Jynx sau một thời gian không hoạt động, và các thông cáo tin tức và ưu đãi của chúng tôi, là hoạt động tiếp cận thương mại. Chúng chỉ được gửi với sự đồng ý trước đó, cụ thể, tự nguyện và có thể thu hồi của bạn, được thu thập qua một ô tùy chọn riêng không đánh dấu sẵn — không bao giờ là điều kiện để chấp nhận Điều khoản của chúng tôi. Bạn có thể thu hồi bất cứ lúc nào trong Cài đặt > Quyền riêng tư > Giao tiếp hoặc qua liên kết hủy đăng ký trong mỗi email.",
+        "profile_display": "<strong>Hiển thị tên người dùng và ảnh đại diện của bạn trong email thông báo.</strong> Nếu bạn đã tương tác với một thành viên khác (thích, match, nhắn tin), tên người dùng và ảnh đại diện của bạn có thể xuất hiện trong các email thông báo hoạt động tài khoản gửi cho họ khi họ không hoạt động. Các phần tử này được tạo tại thời điểm gửi và không được giữ trong nhật ký email của chúng tôi (chỉ định danh và số đếm)."
       },
       "location": {
-        "title": "5.11. Location and Match Distance",
-        "p1": "<strong>What we process.</strong> If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players (\"~12 km\") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.",
-        "p2": "<strong>Optional and consent-based.</strong> This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).",
-        "p3": "<strong>How long we keep it.</strong> The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.",
-        "p4": "<strong>Your control.</strong> You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data."
+        "title": "5.11. Vị trí và Khoảng cách Ghép đôi",
+        "p1": "<strong>Chúng tôi xử lý gì.</strong> Nếu bạn chọn chia sẻ vị trí, Jynx chỉ dùng nó cho một mục đích duy nhất: hiển thị khoảng cách xấp xỉ giữa bạn và những người chơi khác (\"~12 km\") trên hàng chờ ghép đôi và, nếu bạn bật sắp xếp theo khoảng cách gần, sắp xếp hàng chờ đó theo khoảng cách. Chúng tôi chỉ xử lý vị trí xấp xỉ: quyền chúng tôi yêu cầu là quyền vị trí thô / độ chính xác giảm của hệ điều hành, và trước khi bất cứ thứ gì được lưu, tọa độ của bạn được bám vào một lưới khoảng 0.02° (khoảng 2,2 km) trên máy chủ của chúng tôi; ô vị trí dẫn xuất rộng khoảng 11 km. Tọa độ GPS thô không bao giờ được lưu.",
+        "p2": "<strong>Tùy chọn và dựa trên sự đồng ý.</strong> Đây là một tính năng tùy chọn: không có gì được thu trừ khi bạn cấp quyền vị trí của hệ điều hành VÀ công tắc vị trí trong ứng dụng đang bật. Vị trí không bao giờ được xử lý trong nền — chỉ được dùng khi bạn đang dùng ứng dụng. Vị trí của bạn không bao giờ được hiển thị cho người dùng khác dưới dạng vị trí trên bản đồ, không bao giờ dùng cho quảng cáo, và không bao giờ chia sẻ với các nền tảng quảng cáo (xem §4.9: không có dữ liệu vị trí nào nằm trong bất cứ thứ gì chia sẻ cho phân bổ hay đo lường quảng cáo). Các sự kiện phân tích của chúng tôi không chứa tọa độ, tên thành phố hay định danh ô vị trí — chỉ các tín hiệu ẩn danh về việc áp dụng và lựa chọn sắp xếp. Hộp thoại cấp quyền của hệ điều hành là cách sự đồng ý của bạn được ghi nhận, và công tắc trong ứng dụng là cách bạn thu hồi nó (§7.6).",
+        "p3": "<strong>Chúng tôi giữ nó bao lâu.</strong> Bản ghi vị trí chúng tôi duy trì cho tài khoản của bạn tự động bị xóa sau 45 ngày không có cập nhật, và được làm mới mỗi lần bạn dùng tính năng khi việc chia sẻ đang bật. Khoảng cách xấp xỉ hiển thị trên thẻ hồ sơ của bạn bị giới hạn theo hoạt động: nó chỉ tồn tại cùng thẻ hồ sơ của bạn, và được coi như không còn sau 45 ngày không có cập nhật.",
+        "p4": "<strong>Bạn kiểm soát.</strong> Bạn có thể ngừng chia sẻ bất cứ lúc nào: tắt công tắc vị trí trong ứng dụng xóa ngay các tọa độ đã lưu (bản ghi được giữ nhưng rỗng tọa độ), và thu hồi quyền vị trí trong cài đặt thiết bị chặn thu thập tại nguồn. Xóa tài khoản (§7.3) cũng xóa dữ liệu vị trí của bạn."
       }
     },
     "retention": {
@@ -448,24 +448,24 @@
         "profile": "Được giữ lại khi tài khoản của bạn còn hoạt động",
         "analytics_label": "Nhật Ký và Phân Tích:",
         "analytics": "Firebase Analytics: 14 tháng (chính sách Firebase)",
-        "marketing_label": "Marketing email addresses (consent-based):",
-        "marketing": "Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you",
-        "survey_label": "Uninstall / churn survey email addresses:",
-        "survey": "Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user",
-        "reengagement_label": "Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):",
-        "reengagement": "Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized"
+        "marketing_label": "Địa chỉ email tiếp thị (dựa trên sự đồng ý):",
+        "marketing": "Giữ cho đến khi bạn từ chối nhận hoặc xóa tài khoản, cộng thêm một bản ghi đã băm trên danh sách chặn (xem bên dưới) để bảo đảm chúng tôi không liên hệ bạn lại",
+        "survey_label": "Địa chỉ email khảo sát gỡ cài đặt / churn:",
+        "survey": "Giữ tối đa 60 ngày sau khi khảo sát được gửi (hoặc, nếu không gửi khảo sát nào, 60 ngày sau khi gỡ cài đặt/xóa), sau đó địa chỉ bị xóa hoặc ẩn danh hóa không thể đảo ngược. Không quá một (1) email khảo sát được gửi cho mỗi người dùng",
+        "reengagement_label": "Tái gắn kết các tài khoản mới ngừng hoạt động gần đây (cơ sở lợi ích hợp pháp LGPD, chỉ dành cho người dùng Brazil):",
+        "reengagement": "Phù hợp với hướng dẫn của CNIL và bài kiểm tra kỳ vọng hợp lý, Jynx có thể dùng địa chỉ email của một tài khoản mới ngừng hoạt động (không có yêu cầu xóa) để tái gắn kết tối đa 3 năm sau lần tương tác có ý nghĩa cuối cùng, sau đó nó bị xóa hoặc ẩn danh hóa"
       },
       "deletion": {
         "title": "6.2. Xóa Dữ Liệu",
         "p1": "Bạn có thể yêu cầu xóa tài khoản bất cứ lúc nào (xem Mục 7).",
         "legal_label": "Lưu Giữ Pháp Lý:",
         "legal": "Một số dữ liệu có thể được giữ lại lâu hơn để tuân thủ nghĩa vụ pháp lý của chúng tôi (ví dụ: báo cáo bảo mật, giao dịch tài chính).",
-        "marketing": "When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2)."
+        "marketing": "Khi bạn xóa tài khoản, chúng tôi tẩy sạch địa chỉ email của bạn khỏi marketing CRM và nhà cung cấp dịch vụ email. Nếu bạn thực hiện quyền được xóa dữ liệu (§7.3 / Điều 17 GDPR / Điều 18(VI) LGPD cho dữ liệu dựa trên sự đồng ý), địa chỉ email của bạn được thêm vào một danh sách chặn đã băm vĩnh viễn để nó không bao giờ được dùng lại cho tiếp thị, tái gắn kết hay khảo sát — bao gồm cả bảo vệ chống tái nhập qua bất kỳ danh sách bên thứ ba hay danh sách mua nào. Lưu ý: theo LGPD, việc xóa theo Điều 18(VI) áp dụng cho dữ liệu xử lý trên cơ sở sự đồng ý; dữ liệu xử lý trên cơ sở lợi ích hợp pháp (Điều 7 IX) thay vào đó chịu nguyên tắc giới hạn mục đích (Điều 6 II và §2) và quyền của bạn yêu cầu chấm dứt xử lý (Điều 18 §2)."
       }
     },
     "rights": {
-      "title": "7. Quyền Của Bạn (GDPR)",
-      "intro": "Theo GDPR, bạn có các quyền sau:",
+      "title": "7. Quyền Của Bạn (GDPR và LGPD)",
+      "intro": "Tùy nơi bạn đang ở, bạn có các quyền theo GDPR (EU/EEA) và/hoặc LGPD Brazil (Lei Geral de Proteção de Dados, Luật 13.709/2018).",
       "access": {
         "title": "7.1. Quyền Truy Cập",
         "p1": "Bạn có thể yêu cầu bản sao tất cả dữ liệu chúng tôi có về bạn.",
@@ -493,19 +493,19 @@
         "important_label": "Quan Trọng:",
         "important": "Xóa là không thể đảo ngược. Một số dữ liệu ẩn danh có thể được giữ lại cho mục đích thống kê (tuân thủ GDPR).",
         "manual_label": "Yêu Cầu Xóa Thủ Công:",
-        "manual": "Đối với yêu cầu xóa dữ liệu cụ thể (ví dụ: chỉ xóa tin nhắn từ cộng đồng cụ thể, xóa ảnh Storage, hoặc các trường hợp đặc biệt khác), vui lòng liên hệ Nhân viên Bảo vệ Dữ liệu của chúng tôi tại dpo@jynx.app. Chúng tôi sẽ xử lý yêu cầu thủ công trong vòng 30 ngày theo yêu cầu của GDPR."
+        "manual": "Đối với yêu cầu xóa dữ liệu cụ thể (ví dụ: chỉ xóa tin nhắn từ cộng đồng cụ thể, xóa ảnh Storage, hoặc các trường hợp đặc biệt khác), vui lòng liên hệ Cán bộ Bảo vệ Dữ liệu của chúng tôi tại dpo@jynx.app. Chúng tôi sẽ xử lý yêu cầu thủ công trong vòng 30 ngày theo yêu cầu của GDPR."
       },
       "portability": {
         "title": "7.4. Quyền Di Chuyển Dữ Liệu",
         "p1": "Việc xuất dữ liệu (Mục 7.1) cho phép bạn lấy dữ liệu của mình ở định dạng có cấu trúc, có thể đọc được bằng máy (JSON)."
       },
       "objection": {
-        "title": "7.5. Quyền Phản Đối",
-        "p1": "Bạn có thể phản đối việc xử lý dữ liệu của bạn cho mục đích tiếp thị trực tiếp.",
-        "onclick_label": "One-click unsubscribe:",
-        "onclick": "every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time",
-        "inapp_label": "In-app toggle:",
-        "inapp": "Settings > Privacy > Communications Preferences",
+        "title": "7.5. Quyền Phản Đối / Từ chối Tiếp thị",
+        "p1": "Bạn có thể phản đối việc xử lý dữ liệu của bạn cho mục đích tiếp thị trực tiếp bất cứ lúc nào, miễn phí và không cần nêu lý do. Theo Điều 21(2) GDPR, quyền này là tuyệt đối cho người dùng EU/EEA: chúng tôi sẽ dừng mọi hoạt động xử lý tiếp thị ngay khi nhận được phản đối của bạn. Với người dùng Brazil, bạn có thể phản đối việc xử lý tiếp thị qua các cơ chế từ chối nhận bên dưới (Điều 8 §5 LGPD; Điều 18 §2).",
+        "onclick_label": "Hủy đăng ký một chạm:",
+        "onclick": "mọi email tiếp thị đều có liên kết hủy đăng ký một chạm (RFC 8058 List-Unsubscribe-Post) được thực hiện theo thời gian thực",
+        "inapp_label": "Công tắc trong ứng dụng:",
+        "inapp": "Cài đặt > Quyền riêng tư > Tùy chọn Giao tiếp",
         "email_label": "Email:",
         "email": "dpo@jynx.app"
       },
@@ -518,18 +518,18 @@
         "notifications": "Cài đặt thiết bị",
         "oauth_label": "Lưu Ý:",
         "oauth": "Token OAuth (Google, Apple) được tự động thu hồi khi bạn xóa tài khoản (Mục 7.3).",
-        "marketing_label": "Marketing Communications:",
-        "marketing": "Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account",
-        "effect": "Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.",
-        "ad_measurement_label": "Ad measurement:",
-        "ad_measurement": "Settings > Privacy > Ad measurement (see §5.9)",
-        "location_label": "Location (match distance):",
-        "location": "Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)"
+        "marketing_label": "Thông cáo Tiếp thị:",
+        "marketing": "Bản tin, cập nhật sản phẩm, tái gắn kết và khảo sát gỡ cài đặt/churn — có thể thu hồi qua hủy đăng ký một chạm, công tắc tùy chọn giao tiếp trong ứng dụng, hoặc dpo@jynx.app, mà không phải chấm dứt tài khoản",
+        "effect": "Việc thu hồi không ảnh hưởng tính hợp pháp của các hoạt động xử lý thực hiện trước khi thu hồi (Điều 7(3) GDPR; Điều 8 §5 LGPD), và thu hồi sự đồng ý không bao giờ đòi hỏi bạn xóa tài khoản.",
+        "ad_measurement_label": "Đo lường quảng cáo:",
+        "ad_measurement": "Cài đặt > Quyền riêng tư > Đo lường quảng cáo (xem §5.9)",
+        "location_label": "Vị trí (khoảng cách ghép đôi):",
+        "location": "Tắt công tắc vị trí trong ứng dụng — thao tác này xóa các tọa độ đã lưu — hoặc thu hồi quyền vị trí trong cài đặt thiết bị (xem §5.11)"
       },
       "lgpd": {
-        "title": "7.7. Additional LGPD Rights (Brazilian Users)",
-        "intro": "In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.",
-        "how": "You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd."
+        "title": "7.7. Các Quyền LGPD Bổ sung (Người dùng Brazil)",
+        "intro": "Ngoài các quyền nêu trên, các chủ thể dữ liệu đang ở Brazil có các quyền sau theo Điều 18 LGPD: xác nhận việc xử lý có tồn tại hay không; truy cập dữ liệu; sửa dữ liệu chưa đầy đủ, không chính xác hoặc cũ; ẩn danh hóa, chặn hoặc xóa dữ liệu không cần thiết hoặc quá mức (Điều 18(VI) áp dụng cho dữ liệu xử lý trên cơ sở sự đồng ý); tính di chuyển đến nhà cung cấp dịch vụ hoặc sản phẩm khác, theo yêu cầu; xóa dữ liệu cá nhân được xử lý có sự đồng ý; và thông tin về khả năng từ chối đồng ý cùng hậu quả của việc đó.",
+        "how": "Bạn có thể thực hiện các quyền này qua Cài đặt > Quyền riêng tư hoặc bằng cách liên hệ encarregado tại dpo@jynx.app. Bạn cũng có thể khiếu nại đến cơ quan bảo vệ dữ liệu Brazil — Autoridade Nacional de Proteção de Dados (ANPD) — tại https://www.gov.br/anpd."
       }
     },
     "security": {
@@ -547,40 +547,40 @@
       "rate_limiting": "Bảo vệ chống lạm dụng (spam tin nhắn, hành động tự động)",
       "moderation_label": "Kiểm Duyệt:",
       "moderation": "Hệ thống báo cáo và kiểm duyệt nội dung",
-      "breach": "No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).",
-      "voice_label": "Real-time voice:",
-      "voice": "Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS."
+      "breach": "Không có hệ thống nào an toàn 100%. Trong trường hợp vi phạm dữ liệu cá nhân, chúng tôi sẽ thông báo cho cơ quan giám sát có thẩm quyền không chậm trễ và, khi khả thi, trong vòng 72 giờ kể từ khi biết về một vi phạm có khả năng gây rủi ro cho quyền của bạn (Điều 33 GDPR), và chúng tôi sẽ thông báo vi phạm cho người dùng bị ảnh hưởng không chậm trễ khi nó có khả năng gây rủi ro cao cho bạn (Điều 34 GDPR). Với các chủ thể dữ liệu tại Brazil, chúng tôi cũng sẽ thông báo các sự cố bảo mật liên quan đến ANPD và đến bạn trong thời hạn do cơ quan quy định (Điều 48 LGPD; hiện là 3 ngày làm việc theo Nghị quyết CD/ANPD nº 15/2024 của ANPD).",
+      "voice_label": "Thoại thời gian thực:",
+      "voice": "Dữ liệu truyền tải phòng thoại được mã hóa khi truyền bằng WebRTC DTLS-SRTP, cùng tiêu chuẩn mà các ứng dụng thoại phổ biến dùng; tín hiệu giữa ứng dụng và máy chủ của chúng tôi đi qua HTTPS/TLS."
     },
     "international": {
       "title": "9. Chuyển Giao Dữ Liệu Quốc Tế",
-      "p1": "Dữ liệu của bạn có thể được chuyển và lưu trữ trên máy chủ bên ngoài Liên minh Châu Âu, bao gồm:",
+      "p1": "Dữ liệu của bạn có thể được chuyển và lưu trữ trên máy chủ nằm ngoài khu vực tài phán của bạn, bao gồm:",
       "google_label": "Google Cloud / Firebase:",
-      "google": "Sử dụng cơ sở hạ tầng toàn cầu với tuân thủ GDPR",
+      "google": "Hạ tầng toàn cầu (bao gồm Google Analytics trên trang web, xem §10), theo các điều khoản hợp đồng chuẩn GDPR và các biện pháp bảo đảm tương đương",
       "sentry_label": "Sentry:",
-      "sentry": "Máy chủ tại Mỹ với tuân thủ Privacy Shield",
-      "esp_label": "Email Service Provider (ESP):",
-      "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
-      "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
-      "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
-      "guarantees_br_label": "Guarantees (LGPD, Brazil).",
-      "guarantees_br": "Transfers of Brazilian users' personal data are governed by LGPD Art. 33:",
-      "br_france_label": "To Jynx Group in France (controller):",
-      "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
-      "br_esp_label": "To Brevo in France (email ESP, processor):",
-      "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
-      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.",
-      "aws_label": "Amazon Web Services (image moderation):",
-      "aws": "The image-moderation processing described in §4.8 runs in AWS's São Paulo region (Brazil); transfers from the EU/EEA rely on AWS's data-processing agreement incorporating the European Commission's standard contractual clauses, together with the general guarantees below. The image is relayed to AWS through Jynx's Google Cloud infrastructure (the Google Cloud / Firebase leg above)",
-      "br_csam_label": "To child-safety technology providers in the EU (hash matching, processors):",
-      "br_csam": "Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)",
-      "br_aws_label": "To AWS in Brazil (image moderation, processor):",
-      "br_aws": "The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above",
-      "livekit_label": "LiveKit (real-time voice, and screen share when available):",
-      "livekit": "LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors.",
-      "meta_label": "Meta (advertising attribution and ad measurement):",
-      "meta": "The sharing described in §4.9 and §5.9 reaches Meta Platforms Ireland Ltd. or Meta Platforms, Inc., which processes it in the United States and other countries. International transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms. Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations.",
-      "anpd_transparency_label": "Transparency (ANPD Resolution CD/ANPD nº 19/2024).",
-      "anpd_transparency": "The information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 is consolidated in this Policy: the form, duration, and specific purpose of each international transfer and the destination countries (this section and the sections it cites); the identification and contact details of the controller (§1); the shared use of the data and its purpose (§4); the responsibilities of the processing agents and the security measures adopted (§4 and §8); and your rights and the means of exercising them, including an easily accessible channel and the right to petition the ANPD (§7 and §12). The full text of the contractual clauses used to carry out these international transfers is made available to you, upon request, by our data protection officer (dpo@jynx.app), within 15 days."
+      "sentry": "Máy chủ đặt tại Hoa Kỳ; các lần chuyển từ EU/EEA dựa trên EU-US Data Privacy Framework (có hiệu lực từ tháng 7/2023, thay thế Privacy Shield đã bị vô hiệu hóa) cho các thực thể Sentry tự chứng nhận theo DPF, hoặc các điều khoản hợp đồng chuẩn nơi DPF không áp dụng",
+      "esp_label": "Nhà cung cấp Dịch vụ Email (ESP):",
+      "esp": "Dùng để gửi các thông cáo tiếp thị, tái gắn kết và khảo sát mô tả tại §5.6. ESP được nêu tên tại §4.4 và đóng vai trò bên xử lý dữ liệu theo một Thỏa thuận Xử lý Dữ liệu đã ký",
+      "guarantees_eu_label": "Bảo đảm (GDPR, EU/EEA).",
+      "guarantees_eu": "Mọi lần chuyển từ EU/EEA đều được một quyết định adequacy, EU-US Data Privacy Framework, hoặc các điều khoản hợp đồng chuẩn bảo đảm, kèm các biện pháp bổ sung khi yêu cầu.",
+      "guarantees_br_label": "Bảo đảm (LGPD, Brazil).",
+      "guarantees_br": "Các lần chuyển dữ liệu cá nhân của người dùng Brazil chịu điều chỉnh của Điều 33 LGPD:",
+      "br_france_label": "Đến Jynx Group tại Pháp (bên kiểm soát):",
+      "br_france": "Hợp pháp theo Điều 33(I) LGPD nhờ Nghị quyết CD/ANPD nº 32/2026 của ANPD (có hiệu lực từ 26/01/2026), nghị quyết công nhận Liên minh châu Âu — bao gồm Pháp — cung cấp mức độ bảo vệ phù hợp. Không cần cơ chế chuyển dữ liệu bổ sung cho chặng này. (Quyết định adequacy này chịu đánh giá lại của ANPD trong vòng bốn năm; nếu bị đình chỉ, Jynx sẽ triển khai một cơ chế Điều 33 thay thế như các điều khoản hợp đồng chuẩn của ANPD.)",
+      "br_esp_label": "Đến Brevo tại Pháp (email ESP, bên xử lý dữ liệu):",
+      "br_esp": "Hợp pháp theo Điều 33(I) LGPD nhờ cùng Nghị quyết CD/ANPD nº 32/2026 của ANPD (có hiệu lực từ 26/01/2026), nghị quyết công nhận Liên minh châu Âu — bao gồm Pháp — cung cấp mức độ bảo vệ phù hợp. Không cần cơ chế chuyển dữ liệu bổ sung cho chặng này. (Chịu đánh giá lại của ANPD như mô tả trên; nếu quyết định adequacy bị đình chỉ, Jynx sẽ triển khai một cơ chế Điều 33 thay thế như các điều khoản hợp đồng chuẩn của ANPD với Brevo.)",
+      "historical": "Ghi chú lịch sử: thời hạn ân hạn một năm để điều chỉnh các hợp đồng hiện có theo các SCC của ANPD kết thúc ngày 23/08/2025; các mối quan hệ bên xử lý mới như ESP ký SCC khi onboarding.",
+      "aws_label": "Amazon Web Services (kiểm duyệt hình ảnh):",
+      "aws": "Việc xử lý kiểm duyệt hình ảnh mô tả tại §4.8 chạy tại vùng São Paulo của AWS (Brazil); các lần chuyển từ EU/EEA dựa trên thỏa thuận xử lý dữ liệu của AWS vốn kết hợp các điều khoản hợp đồng chuẩn của Ủy ban châu Âu, cùng các bảo đảm chung bên dưới. Hình ảnh được chuyển tiếp đến AWS qua hạ tầng Google Cloud của Jynx (chặng Google Cloud / Firebase bên trên)",
+      "br_csam_label": "Đến các nhà cung cấp công nghệ bảo vệ trẻ em tại EU (so khớp mã băm, bên xử lý dữ liệu):",
+      "br_csam": "Được bảo đảm bởi cùng quyết định adequacy EU của Nghị quyết CD/ANPD nº 32/2026 của ANPD như các chặng trên — các nhà cung cấp chỉ nhận mã băm không thể đảo ngược và thực hiện so khớp tại khu vực EU (§4.7)",
+      "br_aws_label": "Đến AWS tại Brazil (kiểm duyệt hình ảnh, bên xử lý dữ liệu):",
+      "br_aws": "Chặng AWS Rekognition ở lại trong nước — nó chạy tại vùng São Paulo của AWS (§4.8). Hình ảnh trước tiên được chuyển tiếp qua hạ tầng Google Cloud của Jynx, vốn được bảo đảm bởi các điều khoản chuyển dữ liệu Google Cloud / Firebase chung bên trên",
+      "livekit_label": "LiveKit (thoại thời gian thực, và chia sẻ màn hình khi có sẵn):",
+      "livekit": "LiveKit Cloud là bên xử lý dữ liệu của chúng tôi cho dữ liệu truyền tải thoại thời gian thực (và, khi tính năng có sẵn, chia sẻ màn hình) theo một Thỏa thuận Xử lý Dữ liệu đã ký (§4.5). LiveKit Cloud định tuyến dữ liệu truyền tải toàn cầu: các phiên được phục vụ bởi hạ tầng toàn cầu của LiveKit không cố định vào một vùng cụ thể. Âm thanh phòng thoại (và video chia sẻ màn hình khi có sẵn) được định tuyến thời gian thực và không được Jynx hay LiveKit ghi lại, lưu trữ hay duy trì; LiveKit chỉ giữ siêu dữ liệu phiên vận hành mô tả tại §4.5. Các lần chuyển dữ liệu cá nhân đến LiveKit dựa trên Phụ lục Xử lý Dữ liệu của LiveKit, vốn kết hợp các điều khoản GDPR và các điều khoản hợp đồng chuẩn của Ủy ban châu Âu cho chuyển dữ liệu xuyên biên giới, cùng các bảo đảm chung bên dưới, áp dụng cho LiveKit như cho các bên xử lý khác của chúng tôi.",
+      "meta_label": "Meta (phân bổ quảng cáo và đo lường quảng cáo):",
+      "meta": "Việc chia sẻ mô tả tại §4.9 và §5.9 đến Meta Platforms Ireland Ltd. hoặc Meta Platforms, Inc., vốn xử lý nó tại Hoa Kỳ và các quốc gia khác. Các lần chuyển dữ liệu cá nhân quốc tế thực hiện liên quan đến công cụ của Meta chịu các bảo đảm hợp đồng và cơ chế chuyển dữ liệu quốc tế áp dụng. Jynx đang xác minh sự tuân thủ của họ với yêu cầu của Điều 33 LGPD và các quy định của ANPD.",
+      "anpd_transparency_label": "Minh bạch (Nghị quyết CD/ANPD nº 19/2024 của ANPD).",
+      "anpd_transparency": "Thông tin yêu cầu bởi Điều 17, §2 của Nghị quyết CD/ANPD nº 19/2024 của ANPD được hợp nhất trong Chính sách này: hình thức, thời hạn và mục đích cụ thể của từng lần chuyển dữ liệu quốc tế và các quốc gia đích (mục này và các mục nó trích dẫn); thông tin nhận diện và liên hệ của bên kiểm soát (§1); việc sử dụng chung dữ liệu và mục đích của nó (§4); trách nhiệm của các chủ thể xử lý và các biện pháp an ninh áp dụng (§4 và §8); và các quyền của bạn cùng cách thực hiện, bao gồm một kênh dễ tiếp cận và quyền kiến nghị ANPD (§7 và §12). Toàn văn các điều khoản hợp đồng dùng để thực hiện các lần chuyển dữ liệu quốc tế này được cung cấp cho bạn, theo yêu cầu, bởi cán bộ bảo vệ dữ liệu của chúng tôi (dpo@jynx.app), trong vòng 15 ngày."
     },
     "cookies": {
       "title": "10. Cookie và Công Nghệ Tương Tự",
@@ -589,10 +589,10 @@
       "tokens": "Được lưu trữ cục bộ một cách an toàn",
       "cache_label": "Bộ Nhớ Cache Cục Bộ:",
       "cache": "Để cải thiện hiệu suất (dữ liệu hồ sơ, tin nhắn gần đây)",
-      "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
-      "invite_clipboard": "<strong>Invitation links.</strong> When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.",
-      "referrals": "<strong>Referrals and creator campaigns.</strong> When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.",
-      "screen_share": "<strong>Screen sharing (when available).</strong> When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share."
+      "website": "<strong>Trang web.</strong> Trang web của Jynx (jynx.app) dùng Google Analytics 4 (do Google cung cấp) với Consent Mode v2 để hiểu cách trang được sử dụng. Lưu trữ phân tích bị chặn mặc định: cho đến khi bạn chấp nhận banner cookie, Google Analytics chạy không cookie hay bộ lưu trữ cục bộ và Google chỉ nhận các tín hiệu không cookie, không định danh; nếu bạn chấp nhận, đo lường đầy đủ được bật. Lựa chọn của bạn — chấp nhận hay từ chối — được lưu cục bộ trên thiết bị của bạn (browser localStorage, khóa \"jynx-analytics-consent\"). Xóa bộ lưu trữ trình duyệt cho jynx.app làm banner xuất hiện lại để bạn có thể đổi lựa chọn. Google đóng vai trò bên nhận dữ liệu phân tích kết quả (xem §9); xem §4 cho các bên xử lý khác của chúng tôi và §7 cho các quyền của bạn.",
+      "invite_clipboard": "<strong>Liên kết mời.</strong> Khi bạn mở một liên kết mời (jynx.app/invite/…) trong trình duyệt và nhấn nút tải App Store, trang web ghi liên kết mời đó vào clipboard thiết bị của bạn, thay thế nội dung trước đó. Đây là kỹ thuật chuẩn để phân bổ lượt cài ứng dụng trên iOS (nền tảng không có cơ chế install-referrer): nó cho phép ứng dụng Jynx, ở lần khởi chạy đầu, đề xuất tham gia với lời mời của người đã gửi liên kết cho bạn. Trang web không bao giờ đọc clipboard của bạn — nó chỉ ghi liên kết này — và ứng dụng chỉ đọc nó một lần, sau khi xin sự đồng ý rõ ràng của bạn. Không có nội dung clipboard nào khác bị truy cập hay thu thập. Nếu bạn không muốn chia sẻ nó, chỉ cần từ chối hộp thoại dán và tham gia không có lời mời.",
+      "referrals": "<strong>Giới thiệu và chiến dịch creator.</strong> Khi bạn tham gia Jynx với một mã mời — từ một liên kết, mã QR, hoặc nhập tay — chúng tôi ghi mã đó cùng tài khoản của bạn để phân bổ lời mời cho người hay chiến dịch đã chia sẻ nó, áp dụng các quyền lợi liên quan, và phát hiện đăng ký gian lận. Việc xử lý này dựa trên lợi ích hợp pháp của chúng tôi (xem §13) và chịu các kiểm tra chống gian lận của chúng tôi; không có gì thay đổi ở phía bạn, vì cùng dữ liệu được thu cho dù bạn dùng loại mã mời nào. Một số mã mời cũng thuộc các chiến dịch phân bổ creator: nếu mã bạn dùng nằm trong một chiến dịch như vậy, nó có thể được ghi công thêm cho chiến dịch đó. Hồ sơ chi trả cho các chiến dịch creator được giữ dưới dạng bí danh hóa.",
+      "screen_share": "<strong>Chia sẻ màn hình (khi có sẵn).</strong> Khi tính năng có sẵn, bạn có thể chia sẻ màn hình thiết bị trong một phòng thoại. Việc chia sẻ chỉ bắt đầu sau khi quyền chụp màn hình của hệ điều hành được cấp và một xác nhận rõ ràng trong ứng dụng được thực hiện. Mọi thứ hiển thị trên màn hình của bạn — bao gồm thông báo — được truyền trực tiếp đến các thành viên khác trong phòng, và bạn chịu trách nhiệm về những gì bạn chia sẻ. Video được chia sẻ là một luồng truyền tải trực tiếp được định tuyến như âm thanh thoại qua LiveKit SFU (§4.5, §9): nó không được Jynx hay LiveKit ghi lại hay lưu trữ, và dừng khi bạn kết thúc chia sẻ."
     },
     "changes": {
       "title": "11. Thay Đổi Chính Sách Này",
@@ -606,27 +606,27 @@
       "email_label": "Email:",
       "email": "dpo@jynx.app",
       "authority_label": "Cơ Quan Giám Sát:",
-      "authority_intro": "If you believe your rights have not been respected, you may lodge a complaint:",
-      "authority_eu_label": "EU/EEA users:",
-      "authority_eu": "with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr",
-      "authority_br_label": "Brazilian users:",
-      "authority_br": "with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd",
-      "authority_note": "Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90)."
+      "authority_intro": "Nếu bạn cho rằng các quyền của mình chưa được tôn trọng, bạn có thể khiếu nại:",
+      "authority_eu_label": "Người dùng EU/EEA:",
+      "authority_eu": "với CNIL (Commission Nationale de l'Informatique et des Libertés), Pháp — https://www.cnil.fr",
+      "authority_br_label": "Người dùng Brazil:",
+      "authority_br": "với ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd",
+      "authority_note": "Việc khiếu nại đến một cơ quan giám sát không làm giảm quyền của bạn trong việc tìm các biện pháp tư pháp khác sẵn có, bao gồm các bảo vệ người tiêu dùng bắt buộc áp dụng tại khu vực tài phán của bạn (ví dụ: Bộ luật Bảo vệ Người tiêu dùng Brazil, Luật 8.078/90)."
     },
     "consent": {
-      "title": "13. Sự Đồng Ý",
-      "intro": "We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:",
-      "contract": "Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)",
-      "legitimate": "Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment",
-      "legal": "Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)",
-      "consent_basis": "Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6",
-      "specific_label": "Consent must be specific and informed.",
-      "specific": "Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.",
-      "withdrawal_label": "Withdrawal.",
-      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.",
-      "safety": "Legal obligation and legitimate interests (GDPR Art. 6(1)(c) and 6(1)(f); LGPD Art. 7, II and IX) — detection of illegal and policy-violating content, including the child-safety image analysis described in §5.8 and the image-moderation processing in §4.8, prevention of abuse and ban evasion (§5.7), and compliance with legal reporting duties. For the analysis of images shared in direct messages, Jynx also relies on the voluntary detection of online child sexual abuse permitted by Regulation (EU) 2021/1232 (the ePrivacy derogation, as currently in force).",
-      "ad_measurement": "Ad measurement (§5.9): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) where you have enabled it; on Android, alternatively our legitimate interest (LGPD Art. 7, IX and Art. 10) for users shown the ad measurement switch on by default, with your right to object at any time",
-      "location": "Approximate location for the match-distance feature (§5.11): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8), captured by the operating-system location permission together with the in-app location toggle; you may withdraw it at any time (§7.6) — turning the toggle off deletes the stored coordinates"
+      "title": "13. Cơ sở Pháp lý và Sự Đồng ý",
+      "intro": "Chúng tôi chỉ xử lý dữ liệu cá nhân của bạn khi có cơ sở pháp lý. Các cơ sở pháp lý chúng tôi dựa vào, và nơi mỗi cơ sở được mô tả trong Chính sách này, là:",
+      "contract": "Thực hiện hợp đồng / cung cấp Dịch vụ (Điều 6(1)(b) GDPR; Điều 7, V LGPD) — tài khoản, ghép đôi và nhắn tin (§5.1–5.3)",
+      "legitimate": "Lợi ích hợp pháp (Điều 6(1)(f) GDPR; Điều 7, IX và Điều 10 LGPD) — an ninh, phòng chống gian lận, cải tiến dịch vụ, và (với người dùng Brazil) thông cáo tiếp thị/tái gắn kết/khảo sát đến người dùng hiện hữu hoặc mới ngừng hoạt động gần đây như mô tả tại §5.6, mỗi lần đều có một đánh giá cân bằng có văn bản hỗ trợ",
+      "legal": "Nghĩa vụ pháp lý (Điều 6(1)(c) GDPR; Điều 7, II LGPD) — lưu giữ cho mục đích pháp lý (§6)",
+      "consent_basis": "Sự đồng ý (Điều 6(1)(a) GDPR; Điều 7, I và Điều 8 LGPD) — phân tích khi bạn đã bật, thông báo đẩy, và (với người dùng EU/EEA và các lượt gửi tiếp thị/tiếp xúc lạnh/chào bán chéo cho khách hàng Brazil) thông cáo tiếp thị theo §5.6",
+      "specific_label": "Sự đồng ý phải cụ thể và có hiểu biết.",
+      "specific": "Nơi chúng tôi dựa vào sự đồng ý của bạn, nó được đưa ra bằng một hành vi khẳng định rõ ràng, hướng đến các mục đích được chỉ định, và được ghi nhận tách riêng với việc bạn chấp nhận các điều khoản này (Điều 8 §1 LGPD — cláusula destacada). Các ủy quyền chung hoặc gộp vô hiệu theo Điều 8 §4 LGPD và không có giá trị theo Điều 4(11) và Điều 7 GDPR. Việc dùng Jynx tự nó không cấu thành sự đồng ý cho tiếp thị. Gánh nặng chứng minh sự đồng ý hợp lệ thuộc về Jynx (Điều 8 §2 LGPD; Điều 7(1) GDPR); vì vậy chúng tôi ghi lại ngày, phiên bản biểu mẫu, ngôn ngữ và phạm vi của mỗi sự đồng ý chúng tôi thu thập.",
+      "withdrawal_label": "Thu hồi.",
+      "withdrawal": "Bạn có thể thu hồi bất kỳ sự đồng ý nào bất cứ lúc nào, qua một thủ tục dễ như việc cấp nó và không đòi hỏi bạn xóa tài khoản (Điều 8 §5 LGPD; Điều 7(3) GDPR) — xem §7.5 và §7.6. Việc thu hồi không ảnh hưởng tính hợp pháp của các hoạt động xử lý thực hiện trước khi thu hồi. Xóa tài khoản (§7.3) vẫn khả dụng bất cứ lúc nào nhưng không phải là cơ chế để thu hồi một sự đồng ý cụ thể.",
+      "safety": "Nghĩa vụ pháp lý và lợi ích hợp pháp (Điều 6(1)(c) và 6(1)(f) GDPR; Điều 7, II và IX LGPD) — phát hiện nội dung bất hợp pháp và vi phạm chính sách, bao gồm phân tích hình ảnh vì an toàn trẻ em mô tả tại §5.8 và quy trình kiểm duyệt hình ảnh tại §4.8, phòng chống lạm dụng và né lệnh cấm (§5.7), và tuân thủ nghĩa vụ báo cáo pháp lý. Cho việc phân tích hình ảnh chia sẻ trong tin nhắn trực tiếp, Jynx còn dựa vào việc phát hiện tự nguyện lạm dụng tình dục trẻ em trực tuyến được Quy định (EU) 2021/1232 cho phép (ngoại lệ ePrivacy, theo văn bản hiện hành).",
+      "ad_measurement": "Đo lường quảng cáo (§5.9): sự đồng ý của bạn (Điều 6(1)(a) GDPR; Điều 7, I và Điều 8 LGPD) khi bạn đã bật; trên Android, thay vào đó là lợi ích hợp pháp của chúng tôi (Điều 7, IX và Điều 10 LGPD) cho người dùng được hiển thị công tắc đo lường quảng cáo bật mặc định, với quyền phản đối của bạn bất cứ lúc nào",
+      "location": "Vị trí xấp xỉ cho tính năng khoảng cách ghép đôi (§5.11): sự đồng ý của bạn (Điều 6(1)(a) GDPR; Điều 7, I và Điều 8 LGPD), được ghi nhận bởi quyền vị trí của hệ điều hành cùng công tắc vị trí trong ứng dụng; bạn có thể thu hồi bất cứ lúc nào (§7.6) — tắt công tắc xóa các tọa độ đã lưu"
     }
   },
   "terms": {
@@ -642,9 +642,9 @@
     },
     "title": "Điều Khoản Dịch Vụ - Jynx",
     "last_updated_label": "Cập Nhật Lần Cuối:",
-    "last_updated": "12 Tháng 10, 2025",
+    "last_updated": "8 tháng 7, 2026",
     "version_label": "Phiên bản:",
-    "version": "1.0",
+    "version": "1.1",
     "section1": {
       "title": "1. Giới Thiệu & Chấp Nhận",
       "intro": "Chào mừng đến với Jynx, nền tảng game xã hội kết nối người chơi, giúp họ thành lập đội và chơi cùng nhau.",
@@ -659,7 +659,7 @@
       "acceptance": "Bằng cách truy cập hoặc sử dụng ứng dụng Jynx (\"Dịch vụ\", \"Nền tảng\", \"Ứng dụng\"), bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (\"Điều khoản\", \"ToS\"). Nếu bạn không đồng ý với các Điều khoản này, bạn không được sử dụng Dịch vụ.",
       "important_label": "QUAN TRỌNG:",
       "important": "Các Điều khoản này tạo thành thỏa thuận ràng buộc về mặt pháp lý giữa bạn và Jynx Group.",
-      "marketing_consent": "<strong>Separate and optional marketing consent.</strong> Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6."
+      "marketing_consent": "<strong>Sự đồng ý tiếp thị riêng biệt và tùy chọn.</strong> Chấp nhận các Điều khoản này không phải là sự đồng ý nhận email tiếp thị, tái gắn kết hay khảo sát. Bất kỳ thông cáo nào như vậy đều đòi hỏi một lựa chọn tham gia riêng biệt, tùy chọn, theo mục đích cụ thể mà bạn có thể cấp hay từ chối mà không mất quyền truy cập Dịch vụ, và có thể thu hồi bất cứ lúc nào mà không phải chấm dứt tài khoản. Sự tách biệt này được yêu cầu bởi Điều 8 §4 LGPD (vô hiệu hóa các ủy quyền chung hoặc gộp) và bởi Điều 4(11) và Điều 7 GDPR. Các điều khoản chi phối chương trình email tiếp thị và tái gắn kết của chúng tôi, bao gồm các khảo sát phản hồi gỡ cài đặt và churn, được quy định tại §5.5 bên dưới và Chính sách Quyền riêng tư §5.6."
     },
     "section2": {
       "title": "2. Định Nghĩa",
@@ -680,19 +680,19 @@
       "we": "Jynx Group và các chi nhánh"
     },
     "section3": {
-      "title": "3. Điều Kiện Đủ Điều Kiện & Đăng Ký Tài Khoản",
+      "title": "3. Điều Kiện Tham Gia & Đăng Ký Tài Khoản",
       "age": {
         "title": "3.1. Yêu Cầu Độ Tuổi",
         "requirement": "Bạn phải từ 18 tuổi trở lên để tạo tài khoản và sử dụng Jynx.",
         "p1": "Trong quá trình đăng ký, bạn sẽ được yêu cầu cung cấp ngày sinh. Nếu bạn dưới 18 tuổi, bạn sẽ không thể tạo tài khoản hoặc truy cập Dịch vụ.",
         "enforcement_label": "Thực Thi:",
         "enforcement": "Cổng độ tuổi của chúng tôi tự động chặn tạo tài khoản cho người dùng dưới 18 tuổi. Nếu chúng tôi phát hiện rằng bạn đã cung cấp thông tin sai về độ tuổi của mình, tài khoản của bạn sẽ bị chấm dứt ngay lập tức.",
-        "minors": "<strong>No marketing to minors.</strong> If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8)."
+        "minors": "<strong>Không tiếp thị cho người chưa thành niên.</strong> Nếu chúng tôi xác định chủ tài khoản dưới 18 tuổi, tài khoản bị chấm dứt ngay lập tức và người dùng bị loại khỏi mọi thông cáo tiếp thị, tái gắn kết và khảo sát theo §5.5 (xem thêm Chính sách Quyền riêng tư §2; Điều 14 LGPD; Điều 8 GDPR)."
       },
       "creation": {
         "title": "3.2. Tạo Tài Khoản",
         "intro": "Để sử dụng Jynx, bạn phải tạo tài khoản bằng cách cung cấp:",
-        "li1": "A valid email address OR authentication via Google/Apple",
+        "li1": "Một địa chỉ email hợp lệ HOẶC xác thực qua Google/Apple",
         "li2": "Tên người dùng duy nhất",
         "li3": "Ngày sinh của bạn (để xác minh độ tuổi)",
         "li4": "Thông tin hồ sơ (quốc gia, múi giờ, ngôn ngữ, sở thích game)",
@@ -726,7 +726,7 @@
         "intro": "Khi sử dụng Jynx, bạn đồng ý KHÔNG:",
         "harassment": {
           "title": "Quấy Rối & Lạm Dụng:",
-          "li1": "Quấy rối, đe dọa, bắt nạt, rình rập hoặc đe dọa người dùng khác",
+          "li1": "Quấy rối, đe dọa, bắt nạt, rình rập hoặc hăm dọa người dùng khác",
           "li2": "Tham gia vào phát ngôn thù hận hoặc phân biệt đối xử dựa trên chủng tộc, dân tộc, quốc tịch, tôn giáo, giới tính, khuynh hướng tình dục, khuyết tật hoặc bất kỳ đặc điểm được bảo vệ nào khác",
           "li3": "Gửi nội dung tình dục không mong muốn hoặc tham gia vào quấy rối tình dục",
           "li4": "Phối hợp hoặc khuyến khích quấy rối người khác"
@@ -757,7 +757,7 @@
           "title": "Bảo Mật Nền Tảng:",
           "li1": "Cố gắng truy cập trái phép vào hệ thống, máy chủ hoặc cơ sở dữ liệu của chúng tôi",
           "li2": "Phân phối phần mềm độc hại, virus hoặc mã độc hại",
-          "li3": "Dịch ngược, dịch ngược hoặc tháo rời bất kỳ phần nào của Dịch vụ",
+          "li3": "Dịch ngược, biên dịch ngược hoặc tháo rời bất kỳ phần nào của Dịch vụ",
           "li4": "Khai thác lỗi, trục trặc hoặc lỗ hổng để có lợi thế không công bằng (phải báo cáo cho security@jynx.app)"
         },
         "privacy": {
@@ -765,15 +765,15 @@
           "li1": "Chia sẻ thông tin riêng tư của người dùng khác mà không có sự đồng ý (doxxing)",
           "li2": "Chụp màn hình hoặc chia sẻ cuộc trò chuyện riêng tư mà không có sự cho phép",
           "li3": "Thu thập hoặc thu hoạch dữ liệu người dùng mà không có ủy quyền",
-          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
+          "li4": "Ghi hình, chụp hoặc tái phân phối màn hình được chia sẻ của thành viên khác khi chưa có sự đồng ý của họ"
         },
         "content_violations": {
           "title": "Vi Phạm Nội Dung:",
           "li1": "Đăng nội dung vi phạm Hướng dẫn Cộng đồng của chúng tôi",
-          "li2": "Chia sẻ nội dung bạo lực, đồ họa hoặc gây rối",
+          "li2": "Chia sẻ nội dung bạo lực, ghê rợn hoặc gây sốc",
           "li3": "Đăng nội dung liên quan đến trẻ vị thành niên dưới bất kỳ dạng nào",
           "li4": "Phân phối tài liệu có bản quyền mà không có sự cho phép",
-          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
+          "li5": "Dùng chia sẻ màn hình để truyền nội dung vi phạm các Điều khoản này — mọi điều cấm trong mục này áp dụng đầy đủ cho những gì hiển thị trên màn hình bạn chia sẻ"
         },
         "manipulation": {
           "title": "Thao Túng Nền Tảng:",
@@ -838,7 +838,7 @@
         "intro": "Bằng cách đăng Nội dung Người dùng, bạn cấp cho Jynx giấy phép không độc quyền, toàn cầu, miễn phí bản quyền, có thể cấp lại để:",
         "core_title": "Hoạt Động Dịch Vụ Cốt Lõi:",
         "core": {
-          "li1": "Lưu trữ, lưu trữ và hiển thị Nội dung Người dùng của bạn khi cần thiết để cung cấp Dịch vụ",
+          "li1": "Lưu trữ (host), lưu giữ (store) và hiển thị Nội dung Người dùng của bạn khi cần thiết để cung cấp Dịch vụ",
           "li2": "Chia sẻ Nội dung Người dùng của bạn với người dùng khác theo cài đặt quyền riêng tư của bạn (ví dụ: hiển thị trong cộng đồng, hiển thị trong hồ sơ ghép cặp)",
           "li3": "Tạo bản sao lưu và đảm bảo dự phòng dữ liệu để đảm bảo độ tin cậy",
           "li4": "Kiểm duyệt và xem xét nội dung để tuân thủ các Điều khoản này và luật hiện hành"
@@ -888,29 +888,29 @@
         "notification": "Bạn sẽ được thông báo về việc xóa nội dung khi có thể."
       },
       "marketing_program": {
-        "title": "5.5. Marketing & Re-engagement Email Program",
-        "note": "(Note: §5.2 \"Marketing & Promotional Use\" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)",
-        "intro": "Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:",
-        "basis_label": "Legal basis by cohort.",
-        "eu_label": "EU/EEA users:",
-        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.",
-        "br_label": "Brazilian users:",
-        "br": "we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.",
-        "surveys_label": "Uninstall / churn surveys.",
-        "surveys": "We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.",
-        "unsubscribe_label": "One-click unsubscribe.",
-        "unsubscribe": "Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.",
-        "erasure_label": "Erasure and suppression.",
-        "erasure": "If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.",
-        "children_label": "Children.",
-        "children": "We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).",
-        "esp_label": "Email service provider.",
-        "esp": "We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).",
-        "consumer_rights": "This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code."
+        "title": "5.5. Chương trình Email Tiếp thị & Tái gắn kết",
+        "note": "(Lưu ý: §5.2 \"Sử Dụng Tiếp Thị & Khuyến Mại (Có Giới Hạn)\" điều chỉnh việc tái sử dụng Nội dung Người dùng trong tài liệu tiếp thị của Jynx. §5.5 này điều chỉnh việc Jynx gửi cho bạn các email tiếp thị, tái gắn kết và khảo sát — đây là một chủ đề riêng và không thuộc phạm vi §5.2.)",
+        "intro": "Theo Chính sách Quyền riêng tư §5.6 Thông cáo Tiếp thị, Jynx có thể gửi cho bạn các email tiếp thị, tái gắn kết và khảo sát gỡ cài đặt/churn như mô tả trong mục đó. Chương trình hoạt động theo các điều khoản sau:",
+        "basis_label": "Cơ sở pháp lý theo nhóm người dùng.",
+        "eu_label": "Người dùng EU/EEA:",
+        "eu": "chúng tôi chỉ gửi email tiếp thị và tái gắn kết khi có sự đồng ý chọn tham gia rõ ràng trước đó của bạn (Điều 13(1) Chỉ thị ePrivacy / Điều L. 34-5 CPCE; Điều 6(1)(a) GDPR). Sau khi ra mắt gói đăng ký trả phí và Founder Pack, Dịch vụ giờ là dịch vụ có thù lao theo nghĩa Điều 13(2) Chỉ thị ePrivacy / Điều L. 34-5 CPCE, nên ngoại lệ soft-opt-in về nguyên tắc sẵn có cho các sản phẩm và dịch vụ tương tự cho khách hàng hiện hữu. Với tư thế thận trọng, chúng tôi tiếp tục dựa trên sự đồng ý chọn tham gia rõ ràng trước đó của bạn và sẽ không chuyển sang cơ sở soft-opt-in nếu thiếu một đánh giá có văn bản ghi trong Hồ sơ Hoạt động Xử lý và một thông báo cập nhật cho bạn.",
+        "br_label": "Người dùng Brazil:",
+        "br": "chúng tôi gửi email tiếp thị và tái gắn kết trên cơ sở hoặc (i) sự đồng ý của bạn (Điều 7 I và Điều 8 LGPD) cho mọi lượt gửi đến khách hàng tiềm năng, tiếp xúc lạnh, hoặc chào bán chéo/đối tác, hoặc (ii) lợi ích hợp pháp của chúng tôi (Điều 7 IX và Điều 10 LGPD), có Đánh giá Lợi ích Hợp pháp có văn bản theo Hướng dẫn Lợi ích Hợp pháp của ANPD (2/2/2024) hỗ trợ, cho người dùng hiện hữu hoặc mới ngừng hoạt động gần đây nhận cập nhật sản phẩm, tái gắn kết, hoặc một khảo sát churn/gỡ cài đặt ngắn duy nhất về ứng dụng Jynx.",
+        "surveys_label": "Khảo sát gỡ cài đặt / churn.",
+        "surveys": "Chúng tôi ưu tiên đặt câu hỏi gỡ cài đặt/churn ngay trong ứng dụng tại thời điểm gỡ cài đặt. Khi một khảo sát email được gửi: nó không chứa nội dung quảng bá hay tái gắn kết; chúng tôi gửi tối đa một (1) khảo sát cho mỗi người dùng trong khoảng 60 ngày sau khi gỡ cài đặt hay xóa tài khoản; và địa chỉ email sau đó bị xóa hoặc ẩn danh hóa theo Chính sách Quyền riêng tư §6.",
+        "unsubscribe_label": "Hủy đăng ký một chạm.",
+        "unsubscribe": "Mọi email tiếp thị đều có cơ chế hủy đăng ký một chạm hoạt động (RFC 8058), được thực hiện theo thời gian thực. Bạn cũng có thể thu hồi sự đồng ý hoặc phản đối qua Cài đặt > Quyền riêng tư > Tùy chọn Giao tiếp hoặc bằng cách gửi email đến dpo@jynx.app, mà không phải chấm dứt tài khoản và không mất phí (Điều 8 §5 LGPD; Điều 7(3) và Điều 21(2) GDPR). Chúng tôi tôn trọng Bộ luật Bảo vệ Người tiêu dùng Brazil (Luật 8.078/90, đặc biệt Điều 39 III) và không gửi thông điệp không được yêu cầu hay gây quấy rối; việc gửi dai dẳng sau khi từ chối nhận bị cấm.",
+        "erasure_label": "Xóa dữ liệu và danh sách chặn.",
+        "erasure": "Nếu bạn thực hiện quyền được xóa dữ liệu (Chính sách Quyền riêng tư §7.3 / Điều 17 GDPR / Điều 18(VI) LGPD cho dữ liệu dựa trên sự đồng ý), địa chỉ email của bạn bị loại khỏi mọi quy trình tiếp thị và thêm vào một danh sách chặn đã băm vĩnh viễn; bạn sẽ không được liên hệ lại hay khảo sát, kể cả qua bất kỳ danh sách nhập hay danh sách bên thứ ba nào. Chỉ xóa tài khoản hay gỡ cài đặt (không có yêu cầu xóa dữ liệu) không tự kích hoạt chặn vĩnh viễn — xem Chính sách Quyền riêng tư §6 cho các khoảng lưu giữ và tái gắn kết áp dụng.",
+        "children_label": "Trẻ em.",
+        "children": "Chúng tôi không bao giờ cố ý gửi tiếp thị cho người chưa thành niên; bất kỳ tài khoản nào được xác định thuộc người dùng dưới 18 tuổi bị chấm dứt và loại khỏi chương trình (Chính sách Quyền riêng tư §2; Điều 14 LGPD; Điều 8 GDPR).",
+        "esp_label": "Nhà cung cấp dịch vụ email.",
+        "esp": "Chúng tôi dùng một nhà cung cấp dịch vụ email bên thứ ba (bên xử lý dữ liệu) theo một Thỏa thuận Xử lý Dữ liệu, được nêu tên tại Chính sách Quyền riêng tư §4.4 và §9 Dịch vụ Bên thứ ba (§9.5).",
+        "consumer_rights": "Điều khoản này không ảnh hưởng bất kỳ quyền bảo vệ người tiêu dùng bắt buộc nào bạn có theo luật nước cư trú của bạn, bao gồm Bộ luật Bảo vệ Người tiêu dùng Brazil."
       },
       "activity_notifications": {
-        "title": "5.6. Account-Activity Notifications",
-        "p1": "<strong>Account-activity notifications.</strong> Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up."
+        "title": "5.6. Thông báo Hoạt động Tài khoản",
+        "p1": "<strong>Thông báo hoạt động tài khoản.</strong> Jynx gửi cho bạn các thông báo về hoạt động tài khoản của bạn (tin nhắn mới, match, lượt thích), kể cả qua email khi bạn bỏ lỡ chúng trong ứng dụng. Chấp nhận các Điều khoản này không phải là sự đồng ý nhận email tiếp thị: các thông cáo tiếp thị (như email tái gắn kết và tin tức của chúng tôi) chỉ được gửi khi bạn có đăng ký nhận riêng, tùy chọn."
       }
     },
     "section6": {
@@ -947,7 +947,7 @@
         "li2": "Trình độ kỹ năng (ví dụ: rank Riot Games)",
         "li3": "Phong cách chơi và khả năng sẵn có",
         "li4": "Ngôn ngữ và múi giờ",
-        "consent": "Bằng cách sử dụng tính năng ghép cặp tự động, bạn đồng ý hồ sơ game của bạn được chia sẻ với đối tác tiềm năng."
+        "consent": "Bằng cách sử dụng tính năng ghép cặp tự động, bạn đồng ý hồ sơ game của bạn được chia sẻ với người ghép đôi tiềm năng."
       },
       "riot": {
         "title": "6.3. Tích Hợp Riot Games",
@@ -975,7 +975,7 @@
           "li2": "Không hạn chế tài khoản, nhưng vi phạm được ghi lại",
           "li3": "Cảnh báo vẫn còn trong hồ sơ trong 30 ngày"
         },
-        "temp_label": "2. Tạm Ngưng Tạm Thời (Mức Độ Trung Bình đến Cao)",
+        "temp_label": "2. Tạm Ngưng Có Thời Hạn (Mức Độ Trung Bình đến Cao)",
         "temp": {
           "li1": "Tạm ngưng 7 ngày: Thời gian tiêu chuẩn cho vi phạm đáng kể (quấy rối, spam, thao túng nền tảng)",
           "li2": "Tạm ngưng 14 ngày: Vi phạm lặp lại hoặc vi phạm nghiêm trọng hơn",
@@ -1000,11 +1000,11 @@
         "li2": "Dữ liệu người dùng của bạn được ẩn danh hóa theo GDPR",
         "li3": "Tài khoản Firebase Authentication của bạn bị xóa",
         "li4": "Token OAuth (Google, Apple) được tự động thu hồi",
-        "refund": "Chính Sách Hoàn Tiền: Không hoàn tiền cho đăng ký cao cấp hoặc vật phẩm ảo (mỹ phẩm) khi tài khoản của bạn bị chấm dứt do vi phạm các Điều khoản này.",
-        "li5": "Your email address is purged from our marketing CRM and email service provider",
-        "li6": "If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list",
-        "li7": "Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized",
-        "marketing": "The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2)."
+        "refund": "Chính Sách Hoàn Tiền: Không hoàn tiền cho đăng ký cao cấp hoặc vật phẩm ảo (vật phẩm trang trí) khi tài khoản của bạn bị chấm dứt do vi phạm các Điều khoản này.",
+        "li5": "Địa chỉ email của bạn bị tẩy khỏi marketing CRM và nhà cung cấp dịch vụ email của chúng tôi",
+        "li6": "Nếu việc chấm dứt của bạn bao gồm một yêu cầu xóa dữ liệu / quyền được quên (Chính sách Quyền riêng tư §7.3), địa chỉ email của bạn được thêm vào một danh sách chặn đã băm vĩnh viễn và sẽ không bao giờ được dùng cho tiếp thị, tái gắn kết hay khảo sát, kể cả qua bất kỳ danh sách nhập hay danh sách bên thứ ba nào",
+        "li7": "Chỉ xóa tài khoản hay gỡ cài đặt (không có yêu cầu xóa dữ liệu) không chặn vĩnh viễn việc tái gắn kết; các khoảng lưu giữ và tái gắn kết trong Chính sách Quyền riêng tư §6 được áp dụng, sau đó địa chỉ bị xóa hoặc ẩn danh hóa",
+        "marketing": "Các bước xử lý dữ liệu bên trên được mô tả theo cả GDPR và LGPD; quyền xóa dữ liệu của người dùng Brazil chịu điều chỉnh của Điều 18 LGPD (lưu ý rằng việc xóa theo Điều 18(VI) áp dụng cho dữ liệu xử lý trên cơ sở sự đồng ý, còn dữ liệu xử lý trên lợi ích hợp pháp chịu nguyên tắc giới hạn mục đích theo Điều 6 II và quyền yêu cầu chấm dứt theo Điều 18 §2)."
       },
       "user_deletion": {
         "title": "7.3. Xóa Do Người Dùng Khởi Xướng",
@@ -1041,7 +1041,7 @@
           "li1": "Hàng Đợi Ghép Cặp: 20 lượt thích mỗi ngày, 200 lượt xem hồ sơ mỗi ngày",
           "li2": "Yêu Cầu Trò Chuyện: 3 yêu cầu mỗi ngày từ hàng đợi ghép cặp, 5 yêu cầu mỗi ngày trên toàn cầu",
           "li3": "Cộng Đồng: Tạo 1 cộng đồng, tham gia tối đa 5 cộng đồng",
-          "li4": "Mỹ Phẩm: Truy cập các mục mỹ phẩm cấp miễn phí (huy hiệu, viền avatar)"
+          "li4": "Vật Phẩm Trang Trí: Truy cập các vật phẩm trang trí cấp miễn phí (huy hiệu, viền avatar)"
         },
         "premium": {
           "li1": "Cộng Đồng Không Giới Hạn: Tạo và tham gia không giới hạn cộng đồng",
@@ -1049,19 +1049,19 @@
           "li3": "Ghép Cặp Không Giới Hạn: Không giới hạn hàng ngày về lượt thích, xem hồ sơ hoặc yêu cầu trò chuyện",
           "li4": "Hỗ Trợ Ưu Tiên: Thời gian phản hồi nhanh hơn cho yêu cầu hỗ trợ",
           "li5": "Huy Hiệu Cao Cấp: Hiển thị huy hiệu cao cấp đặc biệt trên hồ sơ của bạn",
-          "li6": "Mỹ Phẩm Độc Quyền: Truy cập các mục mỹ phẩm cấp cao cấp"
+          "li6": "Vật Phẩm Trang Trí Độc Quyền: Truy cập các vật phẩm trang trí cấp cao cấp"
         }
       },
       "cosmetics": {
-        "title": "8.2. Mỹ Phẩm & Vật Phẩm Ảo",
-        "intro": "Jynx sẽ cung cấp các mục mỹ phẩm tùy chọn để cá nhân hóa hồ sơ của bạn, bao gồm huy hiệu, viền avatar và viền hero.",
-        "important": "Quan Trọng: Mỹ phẩm là các mục kỹ thuật số thuần túy trang trí không có giá trị thế giới thực. Bạn không sở hữu mỹ phẩm; bạn được cấp giấy phép hạn chế, có thể thu hồi để hiển thị chúng trên hồ sơ Jynx của bạn."
+        "title": "8.2. Vật Phẩm Trang Trí & Vật Phẩm Ảo",
+        "intro": "Jynx sẽ cung cấp các vật phẩm trang trí tùy chọn để cá nhân hóa hồ sơ của bạn, bao gồm huy hiệu, viền avatar và viền hero.",
+        "important": "Quan Trọng: Vật phẩm trang trí là các mục kỹ thuật số thuần túy trang trí không có giá trị thế giới thực. Bạn không sở hữu vật phẩm trang trí; bạn được cấp giấy phép hạn chế, có thể thu hồi để hiển thị chúng trên hồ sơ Jynx của bạn."
       },
       "refunds": {
         "title": "8.3. Hoàn Tiền & Hủy Bỏ",
-        "eu_title": "EU Consumer Rights (Right of Withdrawal):",
+        "eu_title": "Quyền Người tiêu dùng EU (Quyền Rút lại):",
         "eu": {
-          "p1": "If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state."
+          "p1": "Nếu bạn là người tiêu dùng tại Liên minh châu Âu, thông thường bạn có quyền rút lại trong 14 ngày cho hợp đồng từ xa theo Chỉ thị về Quyền Người tiêu dùng. Tuy nhiên, với nội dung số mà việc cung cấp đã bắt đầu với sự đồng ý rõ ràng trước đó của bạn và sự xác nhận của bạn rằng bạn nhờ đó mất quyền rút lại — bao gồm các quyền lợi Jynx+, vật phẩm trang trí và Founder Pack, mà việc cung cấp bắt đầu ngay khi mua — quyền rút lại đó bị mất theo Điều 16(m) của Chỉ thị về Quyền Người tiêu dùng và Điều L221-28 13° của Code de la consommation Pháp. Không có gì trong các Điều khoản này tước bỏ các quyền người tiêu dùng bắt buộc không thể từ bỏ theo luật quốc gia EU của bạn."
         },
         "policy_title": "Chính Sách Hoàn Tiền:",
         "policy": {
@@ -1070,8 +1070,8 @@
           "li3": "Giao Dịch Không Được Ủy Quyền: Báo cáo giao dịch không được ủy quyền ngay lập tức cho dpo@jynx.app và nhà cung cấp thanh toán của bạn",
           "li4": "Không Hoàn Tiền Cho: Chấm dứt tài khoản do vi phạm Điều khoản, thay đổi ý định sau khi sử dụng tính năng cao cấp hơn 14 ngày"
         },
-        "br_title": "Brazilian Consumers:",
-        "br": "If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC."
+        "br_title": "Người tiêu dùng Brazil:",
+        "br": "Nếu bạn là người tiêu dùng tại Brazil, bạn có quyền rút khỏi hợp đồng từ xa trong vòng 7 ngày kể từ khi nhận theo Điều 49 của Bộ luật Bảo vệ Người tiêu dùng Brazil (CDC), có thể thực hiện mà không cần lý do, và quyền này không thể từ bỏ. Với các vật phẩm số mà việc cung cấp đã bắt đầu theo yêu cầu rõ ràng của bạn, các khoản phải hoàn khi rút lại tính đến phần đã được cung cấp, theo Điều 49 §2° CDC. Cơ chế hoàn tiền cho các giao dịch mua qua App Store hay Google Play theo chính sách hoàn tiền của cửa hàng tương ứng. Không có gì trong các Điều khoản này loại trừ hay giới hạn các bảo vệ người tiêu dùng bắt buộc của CDC."
       }
     },
     "section9": {
@@ -1098,29 +1098,29 @@
         "p1": "Chúng tôi sử dụng Riot Games API để lấy thống kê game (League of Legends, Valorant, v.v.)."
       },
       "oauth": {
-        "title": "9.4. OAuth Providers",
+        "title": "9.4. Nhà cung cấp OAuth",
         "intro": "Chúng tôi cung cấp xác thực qua:",
         "li1": "Google Sign-In",
         "li2": "Apple Sign-In"
       },
       "responsibility": "Bạn chịu trách nhiệm tuân thủ các điều khoản của các dịch vụ bên thứ ba này.",
       "esp": {
-        "title": "9.5. Email Service Provider",
-        "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
-        "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+        "title": "9.5. Nhà cung cấp Dịch vụ Email",
+        "intro": "Chúng tôi dùng một nhà cung cấp dịch vụ email bên thứ ba để gửi các thông cáo tiếp thị, tái gắn kết và khảo sát gỡ cài đặt/churn như mô tả tại §5.5 và trong Chính sách Quyền riêng tư §5.6 và §4.4. Nhà cung cấp đóng vai trò bên xử lý dữ liệu của chúng tôi theo một Thỏa thuận Xử lý Dữ liệu và chỉ xử lý dữ liệu của bạn theo chỉ dẫn văn bản của chúng tôi. Danh tính, vị trí, các bên xử lý phụ của nhà cung cấp và cơ chế chuyển dữ liệu quốc tế áp dụng được mô tả tại Chính sách Quyền riêng tư §4.4 và §9.",
+        "responsibility": "Bạn vẫn chịu trách nhiệm tuân thủ điều khoản của bất kỳ dịch vụ bên thứ ba nào nơi bạn có tài khoản riêng; nhà cung cấp dịch vụ email là nhà cung cấp của Jynx, không phải của bạn."
       },
       "livekit": {
-        "title": "9.6. LiveKit (Real-Time Voice)",
-        "p1": "Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9."
+        "title": "9.6. LiveKit (Thoại Thời gian thực)",
+        "p1": "Jynx dùng LiveKit Cloud để cung cấp các phòng thoại thời gian thực. LiveKit đóng vai trò bên xử lý dữ liệu của chúng tôi cho âm thanh phòng thoại theo một Thỏa thuận Xử lý Dữ liệu đã ký và chỉ xử lý dữ liệu theo chỉ dẫn văn bản của Jynx. Như mô tả tại Chính sách Quyền riêng tư §4.5 và §3.6, âm thanh phòng thoại được định tuyến thời gian thực và không được Jynx hay LiveKit ghi lại, lưu trữ hay duy trì. Cơ chế chuyển dữ liệu quốc tế áp dụng (Phụ lục Xử lý Dữ liệu của LiveKit, vốn kết hợp các điều khoản hợp đồng chuẩn EU) và tư thế định tuyến toàn cầu của LiveKit được mô tả tại Chính sách Quyền riêng tư §9."
       },
       "rekognition": {
-        "title": "9.7. AWS Rekognition (Image Moderation)",
-        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9."
+        "title": "9.7. AWS Rekognition (Kiểm duyệt Hình ảnh)",
+        "p1": "Jynx dùng Amazon Web Services (AWS) Rekognition để quét ảnh đại diện người dùng tải lên nhằm phát hiện khỏa thân và nội dung vi phạm chính sách khác. AWS Rekognition đóng vai trò bên xử lý dữ liệu của chúng tôi theo một Thỏa thuận Xử lý Dữ liệu đã ký và chỉ xử lý dữ liệu ảnh theo chỉ dẫn văn bản của Jynx. Dữ liệu được xử lý, tư thế lưu giữ (AWS không lưu ảnh riêng), và cơ chế chuyển dữ liệu quốc tế áp dụng được mô tả tại Chính sách Quyền riêng tư §4.8 và §9."
       },
       "meta": {
-        "title": "9.8. Meta (Advertising Attribution)",
-        "p1": "We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.",
-        "p2": "If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9."
+        "title": "9.8. Meta (Phân bổ Quảng cáo)",
+        "p1": "Chúng tôi dùng Meta (Facebook) App Events SDK để đo lường xem các lượt cài ứng dụng có bắt nguồn từ hoạt động tiếp thị của chúng tôi hay không; trên thiết bị Apple SDK chỉ được khởi tạo sau khi bạn cấp quyền App Tracking Transparency. Meta Platforms Ireland xử lý siêu dữ liệu sự kiện ứng dụng kết quả theo chỉ dẫn của Jynx với tư cách bên xử lý dữ liệu cho mục đích phân bổ và đo lường chiến dịch, và Meta Platforms, Inc. có thể đồng thời đóng vai trò bên kiểm soát độc lập cho các mục đích hợp pháp riêng của hãng theo điều khoản riêng. Dữ liệu được xử lý, điều kiện đồng ý, và các cơ chế chuyển dữ liệu áp dụng được mô tả tại Chính sách Quyền riêng tư §4.9 và §9.",
+        "p2": "Nếu bạn đồng ý, Jynx cũng chia sẻ một số sự kiện chuyển đổi giới hạn (như đăng ký và giao dịch mua, kèm số tiền) với Meta để đo lường và cải thiện quảng cáo của chúng tôi. Dữ liệu của bạn không bao giờ bị bán. Trên iPhone và iPad điều này đòi hỏi sự đồng ý của bạn (Điều 6(1)(a) GDPR; Điều 7, I LGPD). Trên Android nó dựa trên sự đồng ý đó hoặc, nơi công tắc đo lường quảng cáo được hiển thị cho bạn bật mặc định, trên lợi ích hợp pháp của Jynx (Điều 7, IX và Điều 10 LGPD). Bạn có thể đổi lựa chọn bất cứ lúc nào trong cài đặt Quyền riêng tư: Cài đặt > Quyền riêng tư > Đo lường quảng cáo. Các chi tiết, bao gồm Apple SKAdNetwork (áp dụng cho mọi người dùng iOS, kể cả khi theo dõi hay đo lường quảng cáo bị từ chối), được mô tả tại Chính sách Quyền riêng tư §5.9."
       }
     },
     "section10": {
@@ -1170,11 +1170,11 @@
       "law": {
         "title": "12.1. Luật Điều Chỉnh",
         "p1": "Các Điều khoản này được điều chỉnh và giải thích theo luật pháp Pháp và các quy định hiện hành của Liên minh Châu Âu, không xét đến các nguyên tắc xung đột luật pháp.",
-        "regulations": "Các Quy Định Có Hiệu Lực: Bộ Luật Dân Sự Pháp (Code civil), Bộ Luật Người Tiêu Dùng Pháp (Code de la consommation), Quy Định Bảo Vệ Dữ Liệu Chung (GDPR), Đạo Luật Dịch Vụ Kỹ Thuật Số EU (DSA), Chỉ Thị Quyền Người Tiêu Dùng EU."
+        "regulations": "Các Quy Định Có Hiệu Lực: Bộ Luật Dân Sự Pháp (Code civil), Bộ Luật Người Tiêu Dùng Pháp (Code de la consommation), Quy Định Bảo Vệ Dữ Liệu Chung (GDPR), Đạo Luật Dịch Vụ Kỹ Thuật Số EU (DSA), Chỉ Thị Quyền Người Tiêu Dùng EU, và — với các chủ thể dữ liệu đang ở Brazil — Luật Bảo vệ Dữ liệu Cá nhân Chung Brazil (Lei Geral de Proteção de Dados, Luật 13.709/2018, \"LGPD\") và Bộ luật Bảo vệ Người tiêu dùng Brazil (Código de Defesa do Consumidor, Luật 8.078/90, \"CDC\")."
       },
       "jurisdiction": {
         "title": "12.2. Quyền Tài Phán",
-        "p1": "Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC."
+        "p1": "Mọi tranh chấp phát sinh từ các Điều khoản này hay Dịch vụ có thể đưa ra trước các tòa án có thẩm quyền tại Nantes, Pháp. Điều này không ảnh hưởng bất kỳ quyền bắt buộc nào bạn có theo luật nước cư trú để khởi kiện tại nước đó — đặc biệt, với người tiêu dùng tại EU, các quyền dẫn xuất từ Điều 17 đến 19 của Quy định Brussels I bis và từ luật bảo vệ người tiêu dùng áp dụng của quốc gia bạn, và, với người tiêu dùng Brazil, các quy định của CDC."
       },
       "resolution": {
         "title": "12.3. Giải Quyết Tranh Chấp & Trọng Tài",
@@ -1186,23 +1186,23 @@
           "li2": "Đàm Phán Không Chính Thức: Chúng tôi sẽ làm việc với bạn một cách thiện chí để đạt được giải pháp thân thiện trong vòng 30 ngày",
           "li3": "Hòa Giải (Tùy chọn): Nếu giải pháp không chính thức thất bại, bạn có thể đề xuất hòa giải thông qua một trung gian trung lập bên thứ ba"
         },
-        "adr_consumer": "<strong>Consumer ADR (EU/France):</strong> In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court."
+        "adr_consumer": "<strong>ADR Người tiêu dùng (EU/Pháp):</strong> Theo Các điều L. 612-1 và L. 616-6 của Code de la consommation Pháp, Jynx Group SAS chỉ định Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, Pháp; điện thoại +33 1 89 47 00 14; https://www.cm2c.net — một thực thể hòa giải người tiêu dùng được Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC) tham chiếu, làm médiateur de la consommation cho việc giải quyết thân thiện các tranh chấp người tiêu dùng. Trước khi nộp hồ sơ với hòa giải viên, bạn phải trước tiên gửi khiếu nại của bạn cho chúng tôi tại dpo@jynx.app để chúng tôi có thể cố gắng giải quyết. Hòa giải miễn phí cho bạn với tư cách người tiêu dùng, được tiến hành bằng tiếng Pháp, và theo thủ tục công bố trên trang web của hòa giải viên (https://www.cm2c.net); hòa giải viên tiến hành quy trình trong vòng 90 ngày kể từ khi được tiếp nhận. Bạn luôn giữ quyền đưa tranh chấp ra tòa án."
       },
       "eu_rights": {
         "title": "12.4. Quyền Người Tiêu Dùng EU",
         "intro": "Nếu bạn là người tiêu dùng ở Liên minh Châu Âu, bạn giữ tất cả quyền người tiêu dùng bắt buộc theo luật EU, bao gồm:",
-        "li1": "14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)",
+        "li1": "Quyền rút lại trong 14 ngày cho hợp đồng từ xa, với điều kiện mất quyền theo luật định cho nội dung số một khi việc cung cấp đã bắt đầu với sự đồng ý của bạn (xem Mục 8.5)",
         "li2": "Quyền được khắc phục cho sản phẩm hoặc dịch vụ bị lỗi",
         "li3": "Bảo vệ chống điều khoản hợp đồng không công bằng",
         "li4": "Quyền nộp đơn khiếu nại với cơ quan bảo vệ người tiêu dùng địa phương của bạn"
       },
       "gdpr": {
         "title": "12.5. Tuân Thủ GDPR",
-        "p1": "Các thực hành dữ liệu của chúng tôi tuân thủ Quy Định Bảo Vệ Dữ Liệu Chung (GDPR). Xem Chính sách Bảo mật của chúng tôi để biết chi tiết về thu thập, xử lý, lưu giữ dữ liệu, quyền của bạn và cách liên hệ với Nhân viên Bảo vệ Dữ liệu của chúng tôi."
+        "p1": "Các thực hành dữ liệu của chúng tôi tuân thủ Quy Định Bảo Vệ Dữ Liệu Chung (GDPR). Xem Chính sách Bảo mật của chúng tôi để biết chi tiết về thu thập, xử lý, lưu giữ dữ liệu, quyền của bạn và cách liên hệ với Cán bộ Bảo vệ Dữ liệu của chúng tôi."
       },
       "lgpd": {
-        "title": "12.6. LGPD Compliance (Brazilian Users)",
-        "p1": "For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law."
+        "title": "12.6. Tuân thủ LGPD (Người dùng Brazil)",
+        "p1": "Với các chủ thể dữ liệu đang ở Brazil, các hoạt động dữ liệu của chúng tôi cũng tuân thủ LGPD (Lei Geral de Proteção de Dados, Luật 13.709/2018), luật áp dụng theo Điều 3 của nó bất kể Jynx có cơ sở tại Pháp. Người dùng Brazil có các quyền quy định tại Chính sách Quyền riêng tư §7.7 và có thể khiếu nại đến ANPD (Autoridade Nacional de Proteção de Dados). Không có gì trong các Điều khoản này tước bỏ của người dùng Brazil các bảo vệ người tiêu dùng bắt buộc của CDC, bao gồm các điều cấm thông điệp thương mại không được yêu cầu hay gây quấy rối tại Điều 39 III CDC. Để tránh nhầm lẫn, điều khoản tài phán độc quyền tại §12.2 (các tòa án Nantes, Pháp) vẫn có hiệu lực cho các tranh chấp phát sinh từ hoặc liên quan đến các Điều khoản này, không ảnh hưởng bất kỳ quyền bảo vệ người tiêu dùng bắt buộc nào không thể từ bỏ theo luật địa phương của người tiêu dùng."
       }
     },
     "section13": {
@@ -1239,7 +1239,7 @@
         "form": "Société par Actions Simplifiée (SAS)",
         "vat_label": "Số VAT:",
         "vat": "FR39991443896",
-        "dpo_label": "Nhân Viên Bảo Vệ Dữ Liệu (DPO):",
+        "dpo_label": "Cán Bộ Bảo Vệ Dữ Liệu (DPO):",
         "dpo": "dpo@jynx.app"
       }
     },
@@ -1268,44 +1268,44 @@
     },
     "final_acknowledgment": "Bằng cách sử dụng Jynx, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này.",
     "section15": {
-      "title": "15. Creator (Partner) Program",
-      "p1": "If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.",
-      "p2": "The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10."
+      "title": "15. Chương trình Creator (Đối tác)",
+      "p1": "Nếu bạn tham gia chương trình Creator (đối tác) của Jynx, việc bạn sử dụng chương trình còn chịu điều chỉnh của Creator Referral Terms và Self-Billing Mandate có phiên bản hóa mà bạn chấp nhận khi đăng ký (mỗi phiên bản đã chấp nhận là bất biến), được trình bày trong ứng dụng kèm định danh phiên bản. Trong trường hợp xung đột, cho các vấn đề của chương trình, Creator Terms được ưu tiên; ngoài ra các Điều khoản này và Chính sách Quyền riêng tư được áp dụng.",
+      "p2": "Thông tin danh tính, chi trả và thuế mà chương trình yêu cầu — như nhận diện CPF hay CNPJ và kênh chi trả bạn chọn (PayPal, Wise, hay Pix) — và các bên xử lý liên quan được mô tả tại Chính sách Quyền riêng tư §4.10."
     }
   },
   "nav": {
     "home": "Trang chủ",
-    "solution": "Giải pháp",
-    "feedback": "Phản hồi",
+    "solution": "Tính năng",
+    "feedback": "Liên hệ",
     "download": "Tải xuống",
     "blog": "Blog",
-    "games": "Games",
+    "games": "Trò chơi",
     "search": "Tìm kiếm",
     "search_aria": "Tìm kiếm bài viết",
-    "glossary": "Glossary",
+    "glossary": "Thuật ngữ",
     "open_jynx": "Mở Jynx"
   },
   "header": {
     "cta": "Tải Jynx"
   },
   "hero": {
-    "title": "The Next-Gen Companion App for Gamers",
-    "deck": "MATCH. TALK. PLAY. — native voice rooms where the squad formed.",
+    "title": "Ứng dụng Bạn đồng hành Thế hệ Mới cho Game thủ",
+    "deck": "GHÉP ĐÔI. TRÒ CHUYỆN. CHƠI. — phòng thoại native ngay nơi team được thành lập.",
     "app_store_small": "Tải về",
     "app_store_large": "App Store",
     "play_store_small": "TẢI VỀ",
     "play_store_large": "Google Play",
-    "macos_note": "Mac app on the way."
+    "macos_note": "Ứng dụng Mac sắp ra mắt."
   },
   "proof": {
-    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
-    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
+    "summary": "Đạt {play_rating} trên Google Play tại {market} ({play_count} lượt đánh giá, {downloads} lượt cài đặt) · Mới trên App Store · tính đến {as_of_month_year}.",
+    "fallback": "Mới trên Google Play và App Store — điểm đánh giá và số lượt cài từ cửa hàng sẽ xuất hiện tại đây khi cộng đồng lớn dần."
   },
   "features": {
     "title": "Chơi Game Tốt Hơn, Cùng Nhau",
     "subtitle": "Công cụ cộng đồng game thông minh được thiết kế cho game thủ hiện đại",
     "description": "Đừng hét vào hư không nữa. Jynx biến game đơn thành trải nghiệm xã hội bằng cách kết nối đồng đội một cách thông minh dựa trên sở thích game, phong cách chơi và sự tương thích lịch trình",
-    "destination": "Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.",
+    "destination": "Tìm, ghép đôi và trò chuyện tại một nơi: Jynx ghép cặp matchmaking với phòng thoại native, để team được thành lập và chơi ngay trong cùng một ứng dụng.",
     "cards": {
       "scheduling": {
         "title": "Ghép Đôi Thông Minh",
@@ -1359,7 +1359,7 @@
     "description": "Việc tìm đồng đội tương thích trong game cạnh tranh thường gây bực bội và tốn thời gian. Ghép cặp ngẫu nhiên hiếm khi kết nối bạn với người chơi phù hợp với phong cách giao tiếp, trình độ kỹ năng và lịch trình của bạn."
   },
   "solution": {
-    "title": "Cách Jynx Hoạt Động",
+    "title": "Làm quen với Jynx",
     "description": "Nền tảng thông minh của chúng tôi kết nối bạn với những người bạn đồng hành game hoàn hảo dựa trên sở thích game thực tế của bạn, đảm bảo mỗi trận đấu dẫn đến trải nghiệm game tốt hơn.",
     "benefits": {
       "scheduling": "Lên lịch phiên game phù hợp với khả năng sẵn có của mọi người",
@@ -1380,7 +1380,7 @@
     },
     "optional": "Tùy chọn",
     "submitting": "Đang gửi...",
-    "success": "You're in! Thanks for signing up.",
+    "success": "Bạn đã vào rồi! Cảm ơn vì đã đăng ký.",
     "error": "Đã xảy ra lỗi. Vui lòng thử lại.",
     "errors": {
       "permission_denied": "Bạn không có quyền gửi biểu mẫu này.",
@@ -1398,8 +1398,8 @@
     "nojs_note": "Điều này sẽ mở ứng dụng email của bạn. Để có trải nghiệm tốt nhất, vui lòng bật JavaScript."
   },
   "feedback": {
-    "title": "Chia Sẻ Phản Hồi Của Bạn",
-    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
+    "title": "Đề xuất của bạn, ưu tiên của chúng tôi",
+    "subtitle": "Không spam. Chúng tôi chỉ liên hệ bạn với tin tức và cập nhật quan trọng của Jynx.",
     "feedback": "Tin nhắn của bạn (tùy chọn)",
     "feedback_label": "Tin nhắn của bạn",
     "yes": "Có",
@@ -1408,14 +1408,14 @@
     "submit": "Gửi",
     "note": "Miễn phí mãi mãi",
     "submitting": "Đang gửi...",
-    "thanks_feedback": "Thanks for your feedback!",
-    "thanks_combined": "Thanks for your feedback — it means a lot!",
+    "thanks_feedback": "Cảm ơn phản hồi của bạn!",
+    "thanks_combined": "Cảm ơn phản hồi của bạn — điều đó ý nghĩa lắm!",
     "error": "Không thể gửi phản hồi. Vui lòng thử lại.",
     "error_empty": "Vui lòng cung cấp email hoặc phản hồi của bạn.",
     "badge_free": "Miễn phí mãi mãi",
     "badge_notoxic": "Không độc hại",
     "badge_community": "Thúc đẩy bởi cộng đồng",
-    "thanks_email": "Thanks! We'll be in touch."
+    "thanks_email": "Cảm ơn! Chúng tôi sẽ liên hệ bạn."
   },
   "footer": {
     "company": {
@@ -1423,13 +1423,13 @@
       "about": "Về chúng tôi",
       "about_seo": "Về Nền Tảng Game Jynx",
       "blog": "Blog",
-      "games": "Games",
-      "glossary": "Glossary",
+      "games": "Trò chơi",
+      "glossary": "Thuật ngữ",
       "search": "Tìm kiếm"
     },
     "support": {
       "title": "Hỗ trợ",
-      "contact": "Contact Us"
+      "contact": "Liên hệ chúng tôi"
     },
     "legal": {
       "title": "Pháp lý",
@@ -1444,7 +1444,7 @@
       "title": "Tải xuống",
       "app_store": "App Store",
       "google_play": "Google Play",
-      "web_app": "Web App"
+      "web_app": "Ứng dụng web"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Bảo lưu mọi quyền.",
     "language": "Ngôn ngữ"
@@ -1462,8 +1462,8 @@
     "menu_toggle": "Bật/tắt menu điều hướng",
     "theme_toggle": "Bật/tắt chế độ tối",
     "close_modal": "Đóng hộp thoại",
-    "ms_store_badge_aria": "Download Jynx on the Microsoft Store",
-    "ms_store_badge_alt": "Microsoft Store download badge"
+    "ms_store_badge_aria": "Tải Jynx trên Microsoft Store",
+    "ms_store_badge_alt": "Huy hiệu tải Microsoft Store"
   },
   "breadcrumb": {
     "home": "Trang chủ",
@@ -1473,7 +1473,7 @@
     "terms": "Điều khoản dịch vụ",
     "blog": "Blog",
     "delete_account": "Xóa tài khoản",
-    "invite": "Invite"
+    "invite": "Lời mời"
   },
   "theme-feedback": {
     "submit": "Gửi Phản Hồi",
@@ -1485,22 +1485,22 @@
   "download": {
     "meta": {
       "title": "Tải Xuống Jynx | Game Trở Nên Xã Hội Trên Thiết Bị Của Bạn",
-      "description": "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS, Android, and the web.",
-      "og_title": "Download Jynx App - Find Your Gaming Squad",
-      "og_description": "Get the Jynx app on iOS, Android, or the web. Start finding compatible teammates with AI matchmaking.",
+      "description": "Tải Jynx - Kết nối với game thủ, tìm đồng đội, tham gia cộng đồng. Có trên iOS, Android và web.",
+      "og_title": "Tải ứng dụng Jynx - Tìm Team Gaming của bạn",
+      "og_description": "Tải ứng dụng Jynx trên iOS, Android hay web. Bắt đầu tìm đồng đội tương thích với matchmaking AI.",
       "og_image_alt": "Trang Tải Xuống Jynx",
-      "twitter_title": "Download Jynx App - Find Your Gaming Squad",
-      "twitter_description": "Get the Jynx app on iOS, Android, or the web. Start finding teammates today.",
+      "twitter_title": "Tải ứng dụng Jynx - Tìm Team Gaming của bạn",
+      "twitter_description": "Tải ứng dụng Jynx trên iOS, Android hay web. Bắt đầu tìm đồng đội ngay hôm nay.",
       "twitter_image_alt": "Tải Xuống Jynx"
     },
     "hero": {
       "subtitle": "Kết nối với game thủ, tìm đồng đội, tham gia cộng đồng",
       "title_line1": "Jynx",
       "title_line2": "Nền Tảng Xã Hội Gaming",
-      "h1_line1": "Download Jynx",
-      "h1_line2": "The Free LFG App for Gaming Teammates",
-      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web. A Mac app is on the way.",
-      "web_cta": "Or play instantly on the web"
+      "h1_line1": "Tải Jynx",
+      "h1_line2": "Ứng dụng LFG Miễn phí cho Đồng đội Gaming",
+      "tagline": "Ghép đôi với đồng đội và duo tương thích cho các game của bạn — miễn phí trên iOS, Android, Windows và web. Ứng dụng Mac sắp ra mắt.",
+      "web_cta": "Hoặc chơi ngay trên web"
     },
     "features": {
       "title": "Những Gì Sẽ Có Trên Di Động",
@@ -1561,105 +1561,105 @@
       "thanks": "Cảm ơn đã giúp chúng tôi thiết kế giao diện ứng dụng!"
     },
     "intro": {
-      "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
+      "title": "Ứng dụng bạn đồng hành cho game thủ",
+      "description": "Jynx là ứng dụng bạn đồng hành thế hệ mới cho game thủ — một ứng dụng LFG miễn phí ghép bạn với đồng đội tương thích theo game, rank và phong cách chơi, thay vì cuộn vô hạn các kênh LFG."
     },
     "install": {
-      "title": "Get Jynx on iOS, Android, Windows, or the web",
-      "subtitle": "Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.",
+      "title": "Tải Jynx trên iOS, Android, Windows hay web",
+      "subtitle": "Jynx có trên cả ba cửa hàng ứng dụng và trong trình duyệt của bạn — chọn nền tảng và bắt đầu ghép đôi trong vài phút.",
       "ios": {
-        "title": "Find teammates on iOS",
-        "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
+        "title": "Tìm đồng đội trên iOS",
+        "description": "Tải ứng dụng để tìm đồng đội gaming từ App Store và ghép đôi với người chơi gần trình độ của bạn. Yêu cầu iOS 13.0 trở lên."
       },
       "android": {
-        "title": "Find your duo on Android",
-        "description": "Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later."
+        "title": "Tìm duo của bạn trên Android",
+        "description": "Tải ứng dụng tìm duo trên Google Play và kết bạn gaming trong vài phút. Yêu cầu Android 8.0 trở lên."
       },
       "web": {
-        "title": "Play on the web",
-        "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
-        "cta": "Play on the web"
+        "title": "Chơi trên web",
+        "description": "Mở ứng dụng web Jynx trong trình duyệt và bắt đầu ghép đôi ngay — không tải xuống, không cài đặt. Hoạt động trên desktop và di động.",
+        "cta": "Chơi trên web"
       },
       "windows": {
-        "title": "Find teammates on Windows",
-        "description": "Get the duo finder app from the Microsoft Store and meet gaming friends in minutes."
+        "title": "Tìm đồng đội trên Windows",
+        "description": "Tải ứng dụng tìm duo từ Microsoft Store và kết bạn gaming trong vài phút."
       },
       "macos": {
-        "title": "Jynx for Mac is on the way",
-        "description": "The Mac app is in development for the Mac App Store. Want to hear when it lands? Tell us on the feedback form.",
-        "status": "In development",
-        "cta": "Get notified"
+        "title": "Jynx cho Mac sắp ra mắt",
+        "description": "Ứng dụng Mac đang được phát triển cho Mac App Store. Muốn nhận tin khi nó ra mắt? Hãy nói với chúng tôi qua form phản hồi.",
+        "status": "Đang phát triển",
+        "cta": "Nhận thông báo"
       }
     },
     "free": {
-      "title": "A free LFG app — free forever, no catch",
-      "description": "Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo."
+      "title": "Ứng dụng LFG miễn phí — miễn phí mãi mãi, không có điều kiện kèm theo",
+      "description": "Jynx là ứng dụng kết bạn gaming miễn phí: tài khoản, matchmaking, chat và cộng đồng của bạn không tốn gì, và không có bức tường trả phí nào giữa bạn và duo kế tiếp."
     },
     "faq": {
-      "cta_heading": "DOWNLOAD FAQ",
-      "cta_subtitle": "Before you install",
-      "cta_write_to_us": "Still have questions?",
-      "cta_button": "Ask us",
+      "cta_heading": "FAQ TẢI ỨNG DỤNG",
+      "cta_subtitle": "Trước khi bạn cài đặt",
+      "cta_write_to_us": "Vẫn còn câu hỏi?",
+      "cta_button": "Hỏi chúng tôi",
       "devices": {
-        "q": "What devices is Jynx available on?",
-        "a": "Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app. A Mac app is in development."
+        "q": "Jynx có sẵn trên những thiết bị nào?",
+        "a": "Jynx có trên iOS, Android, Windows và web — cùng một ứng dụng trong trình duyệt của bạn tại web.jynx.app. Ứng dụng Mac đang được phát triển."
       },
       "how": {
-        "q": "How do I download Jynx?",
-        "a": "Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed."
+        "q": "Làm cách nào để tải Jynx?",
+        "a": "Tải Jynx từ Apple App Store hoặc Google Play, hoặc chơi ngay trên web tại web.jynx.app — không cần cài đặt."
       },
       "requirements": {
-        "q": "What are the system requirements?",
-        "a": "Jynx requires iOS 13.0 or later for iPhone, and Android 8.0 or later for Android devices."
+        "q": "Yêu cầu hệ thống là gì?",
+        "a": "Jynx yêu cầu iOS 13.0 trở lên cho iPhone, và Android 8.0 trở lên cho thiết bị Android."
       },
       "apk": {
-        "q": "Is there a Jynx APK to download?",
-        "a": "No. Jynx is available only through the official Apple App Store and Google Play listings. We do not publish an APK, and third-party APK sites are not official sources — they may serve outdated or modified builds."
+        "q": "Có file APK của Jynx để tải không?",
+        "a": "Không. Jynx chỉ có trên các kênh chính thức Apple App Store và Google Play. Chúng tôi không phát hành APK, và các trang APK bên thứ ba không phải nguồn chính thức — chúng có thể cung cấp bản dựng cũ hoặc đã bị sửa đổi."
       }
     }
   },
   "comparisons": {
-    "cta_download": "Download Jynx",
-    "cta_more": "Read more from Jynx",
-    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
-    "hub_label": "Comparisons",
-    "label_by": "By",
-    "label_category": "Category:",
-    "label_cons": "Cons",
-    "label_home": "Home:",
-    "label_key_strengths": "Key strengths",
-    "label_maker": "Maker:",
-    "label_platforms": "Platforms:",
-    "label_price": "Price:",
-    "label_pros": "Pros",
-    "label_published": "Published",
-    "label_recommendation": "Recommendation:",
-    "section_contenders": "The contenders",
-    "section_cta": "Try Jynx for yourself",
-    "section_faq": "Frequently asked questions",
-    "section_feature": "Feature",
-    "section_intro": "Introduction",
-    "section_quick_answer": "Quick answer",
-    "section_related": "Related comparisons",
-    "section_use_cases": "Real use cases — who picks what",
-    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
-    "table_heading_vs": "Head-to-head feature comparison — {features} features",
-    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
-    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
-    "who_picks_format": "Who should pick {name}"
+    "cta_download": "Tải Jynx",
+    "cta_more": "Đọc thêm từ Jynx",
+    "cta_paragraph": "Thử thách công bằng nhất với bất kỳ ứng dụng ghép đôi nào là thói quen gaming của chính bạn. Jynx miễn phí cho toàn bộ quy trình ghép đôi — cài đặt, thiết lập hồ sơ, và xem liệu ghép đôi ưu tiên độ tương thích có vượt qua các phương án thay thế cho những game bạn thực sự chơi.",
+    "hub_label": "So sánh",
+    "label_by": "Bởi",
+    "label_category": "Thể loại:",
+    "label_cons": "Nhược điểm",
+    "label_home": "Trang chủ:",
+    "label_key_strengths": "Điểm mạnh chính",
+    "label_maker": "Nhà phát triển:",
+    "label_platforms": "Nền tảng:",
+    "label_price": "Giá:",
+    "label_pros": "Ưu điểm",
+    "label_published": "Đã đăng",
+    "label_recommendation": "Khuyến nghị:",
+    "section_contenders": "Các ứng viên",
+    "section_cta": "Tự trải nghiệm Jynx",
+    "section_faq": "Câu hỏi thường gặp",
+    "section_feature": "Tính năng",
+    "section_intro": "Giới thiệu",
+    "section_quick_answer": "Câu trả lời nhanh",
+    "section_related": "Các bài so sánh liên quan",
+    "section_use_cases": "Trường hợp sử dụng thực tế — ai chọn gì",
+    "table_heading_best": "Bảng so sánh tổng — {apps} ứng dụng × {features} tính năng",
+    "table_heading_vs": "So sánh tính năng đối đầu — {features} tính năng",
+    "table_intro_best": "Mọi tính năng được chấm điểm trên mọi ứng viên. Cột Jynx được làm nổi vì bài viết được ký biên tập bởi một nhà sáng lập Jynx — hãy đọc mục \"Jynx thua ở đâu\" rõ ràng bên dưới trước khi rút ra kết luận.",
+    "table_intro_vs": "Mọi tính năng nơi hai sản phẩm khác nhau — bao gồm cả các hàng Jynx thua. Cột Jynx được làm nổi vì bài viết này do một nhà sáng lập Jynx ký tên.",
+    "who_picks_format": "Ai nên chọn {name}"
   },
   "comparison": {
-    "title": "The whole loop, in one app.",
-    "intro": "Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
+    "title": "Toàn bộ vòng lặp, trong một ứng dụng.",
+    "intro": "Vuốt, ghép đôi và bắt đầu trò chuyện. Phòng thoại và chat nằm ngay trong ứng dụng nơi bạn tìm thấy team — không cần ứng dụng thứ hai, không phải nhảy server, không phải chia link để vào cuộc gọi.",
     "table": {
       "feature": "Tính năng",
       "lfg": "LFG Truyền thống",
-      "match_to_voice": "Match → Voice Room in One Tap",
-      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
-      "screen_share": "Screen Sharing in Voice Rooms",
-      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "match_to_voice": "Ghép đôi → Phòng thoại trong một chạm",
+      "native_voice_chat": "Voice chat native — phòng nhóm, gọi 1:1, Chill Rooms luôn trực tuyến",
+      "screen_share": "Chia sẻ màn hình trong phòng thoại",
+      "play_now_matchmaking": "Play Now — Matchmaking tức thì",
       "smart_team_builder": "Smart Team Builder",
-      "game_session_matchmaking": "Game Sessions — schedule and organize play",
+      "game_session_matchmaking": "Game Sessions — lên lịch và tổ chức buổi chơi",
       "elo_matching": "Ghép Đôi Dựa Trên Kỹ Năng (ELO)",
       "community_search": "Tìm Kiếm và Khám Phá Cộng Đồng",
       "chat": "Trò Chuyện Thời Gian Thực",
@@ -1676,30 +1676,30 @@
       "basic": "Cơ bản",
       "by_game_skill": "Theo Game, rank & Ngôn ngữ",
       "on_computer_only": "Chỉ trên máy tính",
-      "servers": "Find a server first",
+      "servers": "Tìm server trước đã",
       "teams": "Đội",
       "advanced": "Nâng cao",
-      "planned": "Planned",
+      "planned": "Đã lên kế hoạch",
       "game_apis": "API Game",
       "general": "Chung",
       "varies": "Khác nhau",
       "free_jynx_plus": "Miễn phí / Jynx+",
       "free_varies": "Miễn phí/Khác nhau"
     },
-    "roadmap_note": "On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams",
-    "footnote": "Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
+    "roadmap_note": "Trên lộ trình: Chia sẻ màn hình trong phòng thoại, Tích hợp Hồ sơ Người chơi và Smart Team Builder — team tự động thành lập, cân bằng",
+    "footnote": "So sánh tính đến tháng 11/2026. Discord và LFG Truyền thống phản ánh các tính năng công khai của họ; cột Jynx phản ánh năng lực ứng dụng Jynx.",
     "cta": {
       "title": "Sẵn Sàng Trải Nghiệm Sự Khác Biệt?",
       "description": "Tham gia game thủ trên toàn thế giới đang tìm đội hoàn hảo với ghép đôi AI của Jynx",
       "button": "Bắt Đầu Ghép Đôi Với AI - Miễn Phí Mãi Mãi"
     },
-    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
+    "vs_link": "Muốn bản phân tích đầy đủ? Đọc bài đối đầu do nhà sáng lập viết: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 tính năng, kể cả những chỗ thua thẳng thắn."
   },
   "personas": {
-    "main_title": "WHO JYNX IS FOR",
-    "subtitle_prefix": "THE PLAYER",
-    "subtitle_highlight": "TYPES WE MATCH",
-    "type_badge": "Player type",
+    "main_title": "JYNX DÀNH CHO AI",
+    "subtitle_prefix": "MỌI KIỂU",
+    "subtitle_highlight": "NGƯỜI CHƠI CHÚNG TÔI GHÉP ĐÔI",
+    "type_badge": "Kiểu người chơi",
     "persona1": {
       "quote": "Việc tìm đồng đội ổn định ở ELO của tôi không nên có nghĩa là phải spam Discord hàng giờ. Tôi cần những người chơi biết giao tiếp, xuất hiện đúng giờ và thực sự chơi vai trò chính của họ.",
       "name": "Game Thủ Chuyên Xếp Hạng",
@@ -1722,15 +1722,15 @@
     }
   },
   "reviews": {
-    "title": "Real reviews from Google Play",
+    "title": "Đánh giá thật từ Google Play",
     "summary": {
-      "ratings": "{play_count} ratings on Google Play in {market}",
-      "as_of": "as of {as_of_month_year}",
-      "stars_aria": "{play_rating} out of 5 stars"
+      "ratings": "{play_count} lượt đánh giá trên Google Play tại {market}",
+      "as_of": "tính đến {as_of_month_year}",
+      "stars_aria": "{play_rating} trên 5 sao"
     },
-    "read_all": "Read all reviews on Google Play",
+    "read_all": "Đọc tất cả đánh giá trên Google Play",
     "card": {
-      "source": "via Google Play"
+      "source": "qua Google Play"
     }
   },
   "faq": {
@@ -1741,23 +1741,23 @@
     "cta_button": "Liên hệ với chúng tôi!",
     "q1": {
       "question": "Có ứng dụng kiểu Tinder cho game thủ để tìm đồng đội không?",
-      "answer": "Đúng vậy, và đã đến lúc rồi. LFG truyền thống đã hỏng — bạn spam các kênh Discord, đăng trên subreddit từ 3 ngày trước, và hy vọng ai đó nói ngôn ngữ của bạn, chơi cùng rank thực sự online khi bạn online. Đó không phải hệ thống, đó là đánh bạc với thời gian của bạn.<br><br>Jynx cho phép bạn lọc theo những gì thực sự quan trọng: lịch trình tương thích, trình độ kỹ năng tương tự và sở thích game chung. Bạn vuốt qua các đồng đội tiềm năng đáp ứng tiêu chí CỦA BẠN, bỏ qua tin nhắn lạnh lùng khó xử và chỉ kết nối với người chơi thực sự có mặt khi bạn muốn chơi.<br><br>Sự khác biệt? Bạn không hét vào hư không hy vọng ai đó trả lời. Bạn chỉ thấy những người đã phù hợp với lịch trình, nói ngôn ngữ của bạn và chơi game của bạn. Ít thời gian spam 'LFG' trong chat, nhiều thời gian in-game với những người bạn thực sự muốn chơi cùng lần nữa."
+      "answer": "Đúng vậy, và đã đến lúc rồi. LFG truyền thống đã hỏng — bạn spam các kênh LFG, đăng trên subreddit từ 3 ngày trước, và hy vọng ai đó nói ngôn ngữ của bạn, chơi cùng rank thực sự online khi bạn online. Đó không phải hệ thống, đó là đánh bạc với thời gian của bạn.<br><br>Jynx cho phép bạn lọc theo những gì thực sự quan trọng: lịch trình tương thích, trình độ kỹ năng tương tự và sở thích game chung. Bạn vuốt qua các đồng đội tiềm năng đáp ứng tiêu chí CỦA BẠN, bỏ qua tin nhắn lạnh lùng khó xử và chỉ kết nối với người chơi thực sự có mặt khi bạn muốn chơi.<br><br>Sự khác biệt? Bạn không hét vào hư không hy vọng ai đó trả lời. Bạn chỉ thấy những người đã phù hợp với lịch trình, nói ngôn ngữ của bạn và chơi game của bạn. Ít thời gian spam 'LFG' trong chat, nhiều thời gian in-game với những người bạn thực sự muốn chơi cùng lần nữa. Và khi cả hai vuốt phải, phòng thoại chỉ cách một chạm — ngay trong ứng dụng."
     },
     "q2": {
       "question": "Làm thế nào để gặp game thủ trực tuyến và xây dựng nhóm bạn chơi game?",
-      "answer": "Tìm game thủ thì dễ. Tìm ĐÚNG game thủ mới là chỗ ai cũng thất bại.<br><br>Bạn cần đồng đội có mặt khi bạn chơi, giao tiếp bằng ngôn ngữ của bạn và phù hợp với trình độ kỹ năng. Đó không phải đòi hỏi quá đáng — đó là yêu cầu tối thiểu.<br><br><strong>Những gì thực sự hiệu quả:</strong><br><strong>• Lọc trước khi cam kết</strong> — Duyệt hồ sơ người chơi với thống kê đã xác minh, khả năng sẵn có và phong cách chơi trước khi kết nối<br><strong>• Ưu tiên tương thích</strong> — Múi giờ, rank và phong cách giao tiếp quan trọng hơn việc chỉ chơi cùng game<br><strong>• Xây dựng dần dần</strong> — Tập trung tìm 2-3 đồng đội đáng tin cậy thay vì tham gia mega-community nơi kết nối ý nghĩa khó hơn<br><br>Tránh nền tảng buộc bạn spam 'LFG' rồi hy vọng phản hồi. Thời gian của bạn đáng giá hơn thế."
+      "answer": "Tìm game thủ thì dễ. Tìm ĐÚNG game thủ mới là chỗ ai cũng thất bại.<br><br>Bạn cần đồng đội có mặt khi bạn chơi, giao tiếp bằng ngôn ngữ của bạn và phù hợp với trình độ kỹ năng. Đó không phải đòi hỏi quá đáng — đó là yêu cầu tối thiểu.<br><br><strong>Những gì thực sự hiệu quả:</strong><br><strong>• Lọc trước khi cam kết</strong> — Duyệt hồ sơ người chơi với thống kê, khả năng sẵn có và phong cách chơi trước khi kết nối<br><strong>• Ưu tiên tương thích</strong> — Múi giờ, rank và phong cách giao tiếp quan trọng hơn việc chỉ chơi cùng game<br><strong>• Xây dựng dần dần</strong> — Tập trung tìm 2-3 đồng đội đáng tin cậy thay vì tham gia mega-community nơi kết nối ý nghĩa khó hơn<br><br>Tránh nền tảng buộc bạn spam 'LFG' rồi hy vọng phản hồi. Thời gian của bạn đáng giá hơn thế."
     },
     "q3": {
       "question": "Làm thế nào để tìm đồng đội cho trận xếp hạng trong League of Legends và Valorant?",
-      "answer": "Tìm đồng đội rank tốt không phải về số lượng — mà về tương thích. Chơi với người ngẫu nhiên không giao tiếp, rage quit sau first blood, hoặc chơi role họ không thoải mái sẽ tốn LP và tốn cả thần kinh.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank đã xác minh</strong> — Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò</strong> — Kiểm tra kho tướng và role ưa thích trước khi xếp hàng<br><strong>• Lịch trình ổn định</strong> — Grind rank cần chơi đều đặn — tìm người có lịch tương tự<br><strong>• Phong cách giao tiếp</strong> — Có người thích shotcalling, có người muốn chat tối thiểu. Khớp điều này từ đầu.<br><br>Cách tốt nhất? Dùng nền tảng xác minh rank qua Riot API và cho phép lọc theo role, lịch trình và sở thích giao tiếp. Ít thời gian dodge chọn tướng, nhiều thời gian leo rank hơn. <a href=\"/blog/league-of-legends-teammate-guide\">Hướng dẫn tìm đồng đội League do chính chúng tôi viết</a> — và đây là <a href=\"/blog/ai-gaming-matchmaking-guide\">cách AI matchmaking thực sự hoạt động đằng sau hậu trường</a>."
+      "answer": "Tìm đồng đội rank tốt không phải về số lượng — mà về tương thích. Chơi với người ngẫu nhiên không giao tiếp, rage quit sau first blood, hoặc chơi role họ không thoải mái sẽ tốn LP và tốn cả thần kinh.<br><br>Điều cần tìm ở đồng đội xếp hạng:<br><strong>• Rank thực</strong> — Đảm bảo họ thực sự ở ELO của bạn (không phải smurf hoặc boosted)<br><strong>• Tương thích vai trò</strong> — Kiểm tra kho tướng và role ưa thích trước khi xếp hàng<br><strong>• Lịch trình ổn định</strong> — Grind rank cần chơi đều đặn — tìm người có lịch tương tự<br><strong>• Phong cách giao tiếp</strong> — Có người thích shotcalling, có người muốn chat tối thiểu. Khớp điều này từ đầu.<br><br>Cách tốt nhất? Dùng các nền tảng có bộ lọc rank, role và lịch trình thực — bộ lọc đến trước cuộc trò chuyện. Ít thời gian dodge chọn tướng, nhiều thời gian leo rank hơn. <a href=\"/blog/league-of-legends-teammate-guide.html\">Hướng dẫn tìm đồng đội League do chính chúng tôi viết</a> — và đây là <a href=\"/vi/blog/huong-dan-ghep-cap-game-ai.html\">cách AI matchmaking thực sự hoạt động đằng sau hậu trường</a>."
     },
     "q4": {
       "question": "Các lựa chọn thay thế Discord tốt nhất để tìm đồng đội game là gì?",
-      "answer": "Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi.<br><br>Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời.<br><br><strong>Bạn thực sự cần một nền tảng được thiết kế cho khám phá:</strong><br><strong>• Hồ sơ người chơi</strong> — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh</strong> — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ)<br><strong>• Ghép đôi chủ động</strong> — Nhận đề xuất thay vì hét vào hư không<br><br>Mục tiêu không phải thay thế Discord — mà là dùng đúng công cụ cho khám phá, rồi chuyển sang Discord voice chat khi đã tìm được đồng đội tương thích. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
+      "answer": "Discord tuyệt vời để chat với đồng đội bạn ĐÃ CÓ. Để tìm người mới? Sai công cụ rồi.<br><br>Thực tế là: Đăng 'LFG' trên server 10.000 thành viên nghĩa là tin nhắn bị chôn trong vài phút. Bạn không có cách lọc theo trình độ, khả năng sẵn có hoặc phong cách chơi trước khi tiếp cận. Và quan trọng nhất — bạn đang làm tất cả công việc. Spam kênh, DM người lạ, hy vọng ai đó trả lời.<br><br><strong>Bạn thực sự cần một nền tảng được thiết kế cho khám phá:</strong><br><strong>• Hồ sơ người chơi</strong> — Xem rank, lịch trình và role ưa thích của ai đó TRƯỚC KHI nhắn tin<br><strong>• Lọc thông minh</strong> — Tìm kiếm theo tiêu chí quan trọng (ngôn ngữ, múi giờ, trình độ)<br><strong>• Ghép đôi chủ động</strong> — Nhận đề xuất thay vì hét vào hư không<br><br>Jynx khép kín vòng lặp đó trong một ứng dụng: ghép đôi, mở phòng thoại cùng nhau — nhóm, 1:1, hoặc Chill Room luôn trực tuyến — mà không rời cuộc trò chuyện bắt đầu từ một lượt vuốt. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking.html\">Xem LFG đã tiến hóa từ forum đến smart matchmaking như thế nào</a>. Để có bản so sánh đầy đủ, đọc bài <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> do nhà sáng lập viết — 16 tính năng, kể cả những chỗ Discord thắng."
     },
     "q5": {
       "question": "Có ứng dụng và nền tảng ghép đôi game miễn phí không?",
-      "answer": "Có, và bạn không nên phải trả tiền chỉ để tìm đồng đội. Nhiều nền tảng cung cấp gói miễn phí mạnh mẽ bao gồm những thứ cốt lõi: tìm kiếm người chơi, duyệt hồ sơ, chat và lên lịch phiên.<br><br><strong>Những gì mong đợi từ gói miễn phí:</strong><br>• Tính năng ghép đôi cốt lõi (tìm kiếm, lọc, kết nối)<br>• Hồ sơ người chơi với thống kê<br>• Tin nhắn cơ bản và lên lịch phiên<br><br><strong>Gói premium thường thêm:</strong><br>• Ghép đôi/vuốt hàng ngày không giới hạn<br>• Bộ lọc nâng cao (tiêu chí rất cụ thể)<br>• Nâng cấp cosmetic (huy hiệu, tùy chỉnh hồ sơ)<br><br><strong>Cờ đỏ cần tránh:</strong><br>• Paywall tính năng cơ bản như nhắn tin hoặc xem ai đã match với bạn<br>• Buộc trả tiền để xác minh rank hoặc liên kết tài khoản<br>• Không có gói miễn phí (nếu họ tự tin vào sản phẩm, họ nên để bạn thử)<br><br>Thời gian của bạn quý hơn phí đăng ký. Tập trung vào nền tảng có gói miễn phí hào phóng để bạn test trước khi cam kết."
+      "answer": "Có, và bạn không nên phải trả tiền chỉ để tìm đồng đội. Nhiều nền tảng cung cấp gói miễn phí mạnh mẽ bao gồm những thứ cốt lõi: tìm kiếm người chơi, duyệt hồ sơ, chat và lên lịch phiên.<br><br><strong>Những gì mong đợi từ gói miễn phí:</strong><br>• Tính năng ghép đôi cốt lõi (tìm kiếm, lọc, kết nối)<br>• Hồ sơ người chơi với thống kê<br>• Tin nhắn cơ bản và lên lịch phiên<br><br><strong>Gói premium thường thêm:</strong><br>• Ghép đôi/vuốt hàng ngày không giới hạn<br>• Bộ lọc nâng cao (tiêu chí rất cụ thể)<br>• Nâng cấp vật phẩm trang trí (huy hiệu, tùy chỉnh hồ sơ)<br><br><strong>Cờ đỏ cần tránh:</strong><br>• Paywall tính năng cơ bản như nhắn tin hoặc xem ai đã match với bạn<br>• Buộc trả tiền để xem các match của bạn hoặc nhắn tin cho đồng đội<br>• Không có gói miễn phí (nếu họ tự tin vào sản phẩm, họ nên để bạn thử)<br><br>Thời gian của bạn quý hơn phí đăng ký. Tập trung vào nền tảng có gói miễn phí hào phóng để bạn test trước khi cam kết."
     }
   },
   "how_it_works": {
@@ -1765,7 +1765,7 @@
     "subtitle": "Tìm đội game hoàn hảo của bạn trong 4 bước đơn giản",
     "step1": {
       "title": "Tạo Hồ Sơ Game Của Bạn",
-      "description": "Cho chúng tôi biết về sở thích game của bạn: game yêu thích, trình độ kỹ năng (ELO), phong cách chơi (tấn công, phòng thủ, hỗ trợ), vai trò ưa thích và khi nào bạn chơi. Kết nối tài khoản Riot Games để xác minh rank tự động.",
+      "description": "Cho chúng tôi biết về sở thích game của bạn: game yêu thích, trình độ kỹ năng (ELO), phong cách chơi (tấn công, phòng thủ, hỗ trợ), vai trò ưa thích và khi nào bạn chơi.  Tự đặt rank theo từng game và vai trò của bạn — bộ lọc chạy trên những gì bạn khai báo.",
       "feature1": "Liên kết tài khoản League of Legends và Valorant",
       "feature2": "Đặt lịch chơi game của bạn",
       "feature3": "Chọn phong cách giao tiếp ưa thích"
@@ -1852,7 +1852,7 @@
       "updated_on": "Cập nhật vào",
       "published_on": "Xuất bản vào",
       "reading_time": "{{time}} phút đọc",
-      "share": "Chia sẻ bài viết này :",
+      "share": "Chia sẻ:",
       "tags": "Thẻ :",
       "author": {
         "title": "Về Tác Giả",
@@ -2021,120 +2021,120 @@
   },
   "invite": {
     "meta": {
-      "title": "Join Jynx - Gaming Social Platform",
-      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
-      "og_title": "Join me on Jynx",
-      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "og_image_alt": "Jynx Invite",
-      "twitter_title": "Join me on Jynx",
-      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "twitter_image_alt": "Jynx Invite"
+      "title": "Tham gia Jynx - Nền tảng xã hội gaming",
+      "description": "Bạn được mời để kết nối trên Jynx - nền tảng xã hội gaming nơi game thủ tìm đồng đội hoàn hảo của mình.",
+      "og_title": "Tham gia với mình trên Jynx",
+      "og_description": "Bạn được mời để kết nối trên Jynx - nền tảng xã hội gaming",
+      "og_image_alt": "Lời mời Jynx",
+      "twitter_title": "Tham gia với mình trên Jynx",
+      "twitter_description": "Bạn được mời để kết nối trên Jynx - nền tảng xã hội gaming",
+      "twitter_image_alt": "Lời mời Jynx"
     },
-    "heading": "You've been invited to connect on Jynx",
-    "subtitle": "The gaming social platform",
-    "open_app_btn": "Open in Jynx App",
+    "heading": "Bạn được mời để kết nối trên Jynx",
+    "subtitle": "Nền tảng xã hội gaming",
+    "open_app_btn": "Mở trong ứng dụng Jynx",
     "fallback": {
-      "title": "Don't have the app yet?",
-      "subtitle": "Download Jynx to connect with your invite",
-      "app_store": "Download on",
-      "play_store": "Get it on",
-      "web_app": "Or continue on the web app",
-      "web_app_desktop": "Continue on the web app"
+      "title": "Chưa có ứng dụng?",
+      "subtitle": "Tải Jynx để kết nối với lời mời của bạn",
+      "app_store": "Tải xuống trên",
+      "play_store": "Cài đặt qua",
+      "web_app": "Hoặc tiếp tục trên ứng dụng web",
+      "web_app_desktop": "Tiếp tục trên ứng dụng web"
     }
   },
   "games": {
-    "breadcrumb_label": "Breadcrumb",
-    "breadcrumb_home": "Home",
-    "breadcrumb_games": "Games",
-    "label_last_updated": "Last updated",
-    "label_author": "Author:",
+    "breadcrumb_label": "Điều hướng trang",
+    "breadcrumb_home": "Trang chủ",
+    "breadcrumb_games": "Trò chơi",
+    "label_last_updated": "Cập nhật lần cuối",
+    "label_author": "Tác giả:",
     "label_game": "Game:",
-    "label_download_ios": "Download Jynx on the App Store",
-    "label_download_android": "Get Jynx on Google Play",
-    "label_download_on": "Download on",
-    "label_get_it_on": "Get it on",
+    "label_download_ios": "Tải Jynx trên App Store",
+    "label_download_android": "Cài Jynx qua Google Play",
+    "label_download_on": "Tải xuống trên",
+    "label_get_it_on": "Cài đặt qua",
     "label": {
-      "rank_rule": "Rank-gap rule:",
-      "last_verified": "Last verified",
-      "stat_source": "Source",
-      "stat_as_of": "as of"
+      "rank_rule": "Quy tắc chênh lệch rank:",
+      "last_verified": "Xác minh lần cuối",
+      "stat_source": "Nguồn",
+      "stat_as_of": "tính đến"
     },
     "section": {
-      "why": "Why this duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
-      "tips": "Tips",
-      "competitors": "Comparable tools",
-      "tools": "LFG tools landscape",
-      "pain": "Pain points",
+      "why": "Vì sao chọn công cụ tìm duo này",
+      "ranks": "Bậc rank",
+      "roles": "Vai trò",
+      "queues": "Loại queue",
+      "tips": "Mẹo",
+      "competitors": "Công cụ tương đương",
+      "tools": "Bản đồ công cụ LFG",
+      "pain": "Điểm đau",
       "faq": "FAQ",
-      "crosslinks": "Related",
-      "quick_answer": "Quick answer",
-      "what_looks_like": "What LFG looks like",
-      "key_stats": "Player numbers",
-      "comparison": "Comparison",
-      "archetypes": "Player types"
+      "crosslinks": "Liên quan",
+      "quick_answer": "Câu trả lời nhanh",
+      "what_looks_like": "LFG nhìn như thế nào",
+      "key_stats": "Số liệu người chơi",
+      "comparison": "So sánh",
+      "archetypes": "Các kiểu người chơi"
     },
     "heading": {
-      "why": "Why a purpose-built duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
-      "competitors": "Other LFG tools",
-      "tools": "LFG tools landscape (2026)",
-      "pain": "Game-specific LFG pain points",
-      "faq": "Frequently asked questions",
-      "crosslinks": "Related Jynx resources",
-      "quick_answer": "LFG in 60 seconds",
-      "what_looks_like": "What LFG looks like in 2026",
-      "key_stats": "Player numbers",
-      "archetypes": "Whatever kind of player you are",
-      "faq_duo": "Duo finder FAQ",
-      "faq_guide": "LFG FAQ"
+      "why": "Vì sao cần một công cụ tìm duo chuyên dụng",
+      "ranks": "Bậc rank",
+      "roles": "Vai trò",
+      "queues": "Loại queue",
+      "competitors": "Các công cụ LFG khác",
+      "tools": "Bản đồ công cụ LFG (2026)",
+      "pain": "Điểm đau LFG riêng của từng game",
+      "faq": "Câu hỏi thường gặp",
+      "crosslinks": "Tài nguyên Jynx liên quan",
+      "quick_answer": "LFG trong 60 giây",
+      "what_looks_like": "LFG nhìn như thế nào trong năm 2026",
+      "key_stats": "Số liệu người chơi",
+      "archetypes": "Dù bạn là kiểu người chơi nào",
+      "faq_duo": "FAQ công cụ tìm duo",
+      "faq_guide": "FAQ LFG"
     },
     "intro": {
-      "ranks": "Match within the platform-enforced gap window. Ranks below.",
-      "roles": "Match by complementary roles, not duplicate ones.",
-      "competitors": "Where LFG happens today, and what each tool optimizes for:",
-      "tools": "What players use today and where each tool stops:"
+      "ranks": "Ghép đôi trong khoảng chênh lệch rank do nền tảng áp đặt. Các bậc rank bên dưới.",
+      "roles": "Ghép theo vai trò bổ trợ, không trùng lặp.",
+      "competitors": "LFG diễn ra ở đâu hôm nay, và từng công cụ tối ưu cho điều gì:",
+      "tools": "Người chơi dùng gì hôm nay và mỗi công cụ dừng ở đâu:"
     },
     "cta": {
-      "label": "Get Jynx",
-      "heading": "Find your duo on Jynx",
-      "sub": "Free. Verified ranks. Voice + schedule matching."
+      "label": "Tải Jynx",
+      "heading": "Tìm duo của bạn trên Jynx",
+      "sub": "Miễn phí. Bộ lọc rank, vai trò và khu vực. Ghép đôi qua giọng nói + lịch trình."
     },
     "cta_final": {
-      "label": "Get Jynx",
-      "heading": "Stop solo-queueing",
-      "sub": "Get Jynx and find a verified duo today."
+      "label": "Tải Jynx",
+      "heading": "Thôi solo queue một mình",
+      "sub": "Tải Jynx và tìm duo của bạn ngay hôm nay."
     },
     "footer": {
-      "rights": "All rights reserved."
+      "rights": "Mọi quyền được bảo lưu."
     },
     "breadcrumb_duo": "Duo Finder",
-    "breadcrumb_guide": "LFG Guide"
+    "breadcrumb_guide": "Hướng dẫn LFG"
   },
   "games_section": {
-    "title": "Find Your Game",
-    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
-    "cta": "All games",
+    "title": "Tìm Game của bạn",
+    "sub": "Công cụ tìm duo và hướng dẫn LFG cho các game bạn chơi — tìm team nhanh hơn.",
+    "cta": "Tất cả game",
     "glossary_teaser": {
-      "title": "From the Gaming Glossary",
-      "cta": "Browse the glossary"
+      "title": "Từ Bảng Thuật ngữ Gaming",
+      "cta": "Duyệt bảng thuật ngữ"
     }
   },
   "entity": {
-    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on the web, Android, and iOS.",
-    "canonical_phrase": "next-gen companion app for gamers"
+    "description": "Jynx là ứng dụng bạn đồng hành thế hệ mới cho game thủ. Bộ lọc rank, vai trò và khu vực theo từng game, ý định voice và lịch trình trùng khớp thực sự thay thế sảnh ngẫu nhiên — vuốt, ghép đôi và vào hàng với các duo và team phù hợp với những game bạn đã chơi, rồi trò chuyện trong phòng thoại native mà không rời ứng dụng. Miễn phí trên web, Android và iOS.",
+    "canonical_phrase": "ứng dụng bạn đồng hành thế hệ mới cho game thủ"
   },
   "consent": {
     "banner": {
-      "aria_label": "Cookie consent",
-      "text": "We use analytics to understand how people find Jynx and improve the site. No personal data is sold.",
-      "privacy_link": "Privacy policy",
-      "accept": "Accept",
-      "decline": "Decline"
+      "aria_label": "Đồng ý cookie",
+      "text": "Chúng tôi dùng phân tích để hiểu mọi người tìm Jynx thế nào và cải thiện trang. Không có dữ liệu cá nhân nào bị bán.",
+      "privacy_link": "Chính sách quyền riêng tư",
+      "accept": "Chấp nhận",
+      "decline": "Từ chối"
     }
   },
   "locale_suggestion": {

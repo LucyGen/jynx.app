@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "gitSha": "2b3531f6e60ddb1d0357bf1606f1c11875f01939",
+  "gitSha": "942fe2f5778f5a475445e14f9819624e117952fe",
   "generatedFrom": [
     {
       "source": "games",
@@ -59,7 +59,7 @@
         "uk": 15,
         "vi": 16
       },
-      "total": 1223
+      "total": 1227
     },
     "sitemaps": {
       "blog-sitemap.xml": 41,
@@ -80,5 +80,5 @@
     "js": 21,
     "css": 24
   },
-  "distBytes": 115701068
+  "distBytes": 116939405
 }

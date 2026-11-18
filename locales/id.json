@@ -43,12 +43,12 @@
       "title": "Pendiri Kami",
       "arthur": {
         "name": "Arthur Bonvallet",
-        "role": "Co-Founder & Product Owner",
+        "role": "Co-Founder & Pemilik Produk",
         "bio": "Seorang gamer yang bersemangat dan spesialis produk berpengalaman dari Paris, Arthur membawa pemahaman mendalam tentang pengalaman pengguna dan pengembangan produk ke Jynx. Visinya mendorong desain intuitif dan fitur-fitur platform kami."
       },
       "antoine": {
         "name": "Antoine Haie",
-        "role": "Co-Founder & Lead Developer",
+        "role": "Co-Founder & Pengembang Utama",
         "bio": "Keahlian teknis Antoine sebagai fullstack developer menggerakkan platform Jynx. Berbasis di Paris, latar belakang gaming-nya dikombinasikan dengan keterampilan teknisnya memastikan platform kami memberikan pengalaman mulus untuk gamer dari semua level."
       }
     },
@@ -75,66 +75,66 @@
     "mission": {
       "title": "Misi Kami",
       "p1": "Jynx lebih dari sekadar platform—ini adalah komunitas gamer yang berkembang yang percaya bahwa gaming lebih baik bersama. Kami baru saja memulai, dan kami mengundang Anda untuk menjadi bagian dari perjalanan kami saat kami merevolusi cara gamer terhubung, bersaing, dan berkolaborasi.",
-      "p2": "Game on!"
+      "p2": "Ayo main!"
     },
     "cta": {
       "title": "Bergabung dengan Komunitas Jynx",
-      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way."
+      "description": "Temukan squad gaming yang paling pas untuk Anda — Jynx tersedia di iOS, Android, Windows, dan web. Aplikasi Mac sedang dalam pengembangan."
     }
   },
   "contact": {
     "meta": {
-      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
-      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
-      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
-      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
-      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
-      "twitter_image_alt": "Contact Jynx"
+      "title": "Kontak Jynx: Kanal Email Dukungan, Keamanan, dan Privasi",
+      "description": "Hubungi tim Jynx lewat email: dukungan untuk bantuan akun dan aplikasi, keamanan untuk melaporkan kerentanan, serta DPO kami untuk permintaan privasi. Discord dan media sosial juga tersedia.",
+      "og_title": "Kontak Jynx - Email Dukungan, Keamanan, dan Perlindungan Data",
+      "og_description": "Kanal email tim Jynx: dukungan pelanggan, laporan keamanan, dan permintaan privasi — tanpa formulir kontak.",
+      "og_image_alt": "Halaman Kontak Jynx - Kanal Email Dukungan, Keamanan, dan Privasi",
+      "twitter_title": "Kontak Jynx - Email Dukungan, Keamanan, dan Perlindungan Data",
+      "twitter_description": "Hubungi tim Jynx lewat email: dukungan, keamanan, dan privasi.",
+      "twitter_image_alt": "Kontak Jynx"
     },
-    "title": "Contact Jynx",
-    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
+    "title": "Kontak Jynx",
+    "subtitle": "Cara menghubungi tim di balik Jynx — kanal email, tautan komunitas, dan informasi perusahaan.",
     "intro": {
-      "title": "How to Reach Us",
-      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
-      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
+      "title": "Cara Menghubungi Kami",
+      "p1": "Dukungan Jynx berjalan lewat kanal email — kami tidak menggunakan formulir kontak. Setiap alamat di halaman ini bermuara ke kotak masuk yang dijaga oleh orang sungguhan, sehingga pesan Anda langsung sampai ke tim. Pilih kanal yang sesuai dengan permintaan Anda dan sertakan detail sebanyak mungkin.",
+      "response_note": "Kami membaca setiap pesan. Balasan dukungan biasanya tiba dalam beberapa hari kerja; bahasa Prancis dan Inggris sama-sama bisa digunakan."
     },
     "channels": {
-      "title": "Email Channels",
+      "title": "Kanal Email",
       "support": {
-        "title": "Customer Support",
-        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+        "title": "Dukungan Pelanggan",
+        "desc": "Kanal utama. Akses akun, laporan bug, pertanyaan penagihan, permintaan fitur, dan hal apa pun tentang aplikasi: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
       },
       "security": {
-        "title": "Security Reports",
-        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
-        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
+        "title": "Laporan Keamanan",
+        "desc": "Hanya untuk dugaan kerentanan dan masalah keamanan. Mohon baca kebijakan disclosure terlebih dahulu — kebijakan itu memuat cakupan yang berlaku dan hal yang perlu Anda sertakan dalam laporan: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "Kebijakan lengkap ada di halaman <a href=\"/security.html\">Kebijakan Keamanan &amp; Disclosure Kerentanan</a>."
       },
       "dpo": {
-        "title": "Privacy and Data Protection",
-        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+        "title": "Privasi dan Perlindungan Data",
+        "desc": "Permintaan terkait data pribadi, pertanyaan privasi, dan permintaan penegak hukum ditujukan ke Data Protection Officer kami: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
       }
     },
     "community": {
-      "title": "Community and Social",
-      "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
-      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
-      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
-      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
-      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
+      "title": "Komunitas dan Media Sosial",
+      "desc": "Untuk obrolan sehari-hari, komunitas lebih cepat daripada email.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — server tim dan dukungan: ajukan pertanyaan, ngobrol dengan tim Jynx, atau minta bantuan seputar aplikasi.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — kabar, pembaruan, dan klip dari tim Jynx.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — video pendek, sorotan komunitas, dan fitur.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — pengumuman dan jawaban cepat.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — halaman Jynx: acara dan posting komunitas."
     },
     "company": {
-      "title": "Company Information",
-      "legal_name_label": "Legal entity:",
+      "title": "Informasi Perusahaan",
+      "legal_name_label": "Entitas hukum:",
       "legal_name": "Jynx Group",
-      "siren_label": "Company registration (SIREN):",
+      "siren_label": "Pendaftaran perusahaan (SIREN):",
       "siren": "991443896",
-      "office_label": "Registered office:",
+      "office_label": "Kantor terdaftar:",
       "office_city": "Nantes",
-      "office_country": "France",
-      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
+      "office_country": "Prancis",
+      "legal_note": "Keterangan hukum lengkap — alamat terdaftar, bentuk hukum, dan detail daftar perdagangan — ada di <a href=\"/terms.html\">Bagian 13 Ketentuan Layanan</a>."
     }
   },
   "privacy": {
@@ -149,30 +149,30 @@
       "twitter_image_alt": "Kebijakan Privasi"
     },
     "title": "Kebijakan Privasi",
-    "last_updated": "Terakhir diperbarui: November 2026",
-    "version": "Versi: 1.0",
+    "last_updated": "Terakhir diperbarui: 17 November 2026",
+    "version": "Versi: 1.1",
     "intro": {
       "title": "1. Pendahuluan",
       "p1": "Jynx (\"kami\", \"kami\", \"aplikasi\") adalah platform gaming sosial yang memungkinkan pemain untuk terhubung, membentuk tim, dan bermain bersama.",
       "legal_info": "Informasi Hukum:",
       "entity_label": "Entitas Hukum:",
-      "entity": "Jynx Group",
-      "dpo_label": "Kontak Petugas Privasi:",
+      "entity": "Jynx Group (Société par Actions Simplifiée, SIREN 991443896, terdaftar di Nantes, Prancis)",
+      "dpo_label": "Data Protection Officer / Encarregado:",
       "dpo": "dpo@jynx.app",
       "p2": "Kebijakan privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, berbagi, dan melindungi data pribadi Anda saat Anda menggunakan aplikasi kami.",
-      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
-      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
-      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
-      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
-      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
-      "publication_label": "Publication (LCEN):",
-      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
+      "jurisdiction_eu_label": "Yurisdiksi UE / EEA:",
+      "jurisdiction_eu": "Prancis, Uni Eropa — Kebijakan Privasi ini mematuhi Regulasi (UE) 2016/679 (GDPR) dan Direktif 2002/58/EC (ePrivacy), sebagaimana telah diterapkan di Prancis.",
+      "jurisdiction_brazil_label": "Yurisdiksi Brasil:",
+      "jurisdiction_brazil": "Kebijakan Privasi ini juga mematuhi Undang-Undang Brasil nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), yang berlaku atas pemrosesan data pribadi oleh Jynx milik subjek data yang berlokasi di Brasil berdasarkan Pasal 3 LGPD, terlepas dari Jynx tidak memiliki kantor di Brasil.",
+      "controller": "Untuk keperluan LGPD, Jynx Group adalah pengendali (controlador) atas data pribadi Anda. Data Protection Officer kami bertindak sebagai encarregado (DPO) dan dapat dihubungi di dpo@jynx.app untuk setiap permintaan terkait LGPD. Meskipun Jynx memenuhi syarat sebagai pequeno agente de tratamento de dados pessoais (pelaku pemrosesan skala kecil) berdasarkan Resolusi ANPD CD/ANPD nº 2/2022, yang mengecualikan Jynx dari kewajiban menunjuk encarregado, Jynx secara sukarela tetap memelihara kanal komunikasi terpublikasi ini.",
+      "publication_label": "Publikasi (LCEN):",
+      "publication": "Directeur de la publication: Antoine Haie. Situs web ini (jynx.app) di-host oleh GitHub Pages dan disajikan melalui jaringan content-delivery Cloudflare."
     },
     "age_verification": {
       "title": "2. Usia Minimum dan Verifikasi",
       "p1": "Aplikasi kami diperuntukkan bagi pengguna berusia 18 tahun ke atas.",
       "p2": "Saat membuat akun Anda, kami meminta Anda untuk memberikan tanggal lahir. Jika Anda berusia di bawah 18 tahun, Anda tidak akan dapat membuat akun atau menggunakan layanan kami.",
-      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
+      "minors": "Pemasaran kepada anak di bawah umur. Jynx dibatasi untuk pengguna berusia 18 tahun ke atas dan menerapkan gerbang usia otomatis. Jika kemudian kami mengidentifikasi bahwa seorang pengguna berusia di bawah 18 tahun (LGPD Pasal 14; GDPR Pasal 8), kami akan segera menghentikan akun tersebut, mengeluarkan pengguna dari semua komunikasi pemasaran, re-engagement, dan survei, serta menghapus data pemasaran terkait. Kami tidak pernah dengan sengaja mengumpulkan persetujuan pemasaran dari anak di bawah umur."
     },
     "data_collected": {
       "title": "3. Data yang Dikumpulkan",
@@ -185,9 +185,9 @@
         "email": "Email (untuk akun email/password)",
         "username": "Username/nickname",
         "photo": "Foto profil (opsional)",
-        "social": "Social login identifiers (Google, Apple) if you use these methods",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
-        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
+        "social": "Pengidentifikasi login sosial (Google, Apple) jika Anda menggunakan metode tersebut",
+        "guest": "Penjelajahan sebagai tamu (bila tersedia): Anda dapat menjelajahi bagian publik Jynx tanpa membuat akun; dalam mode tamu kami hanya memproses pengidentifikasi tamu yang disimpan secara lokal dan data teknis di §3.3 yang diperlukan untuk melayani aplikasi — tidak ada profil yang dibuat dan tidak ada data akun yang disimpan. Untuk match, chat, atau bergabung dengan komunitas, Anda harus membuat akun",
+        "discord": "Pengidentifikasi Discord (Discord user ID Anda) jika Anda memilih untuk menghubungkan akun Discord Anda untuk integrasi Discord — koneksi ini menggunakan OAuth Discord yang hanya mengambil identitas dan bukan metode masuk; Anda dapat memutusnya kapan saja"
       },
       "profile": {
         "title": "Informasi Profil:",
@@ -232,7 +232,7 @@
         "crashlytics_label": "Firebase Crashlytics:",
         "crashlytics": "Laporan crash",
         "disable": "Anda dapat menonaktifkan pengumpulan data analitik di Pengaturan > Privasi > \"Aktifkan Analitik\".",
-        "ad_measurement": "Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9."
+        "ad_measurement": "Pengukuran iklan dengan Meta terpisah dari analitik dan memiliki sakelar sendiri: lihat §5.9."
       },
       "device": {
         "title": "Informasi Perangkat:",
@@ -256,7 +256,7 @@
       },
       "user_content": {
         "title": "3.5. Konten yang Dibuat Pengguna",
-        "photos": "Foto yang diunggah (gambar profil, foto tambahan) and images shared in direct messages",
+        "photos": "Foto yang diunggah (gambar profil, foto tambahan) dan gambar yang dibagikan di pesan langsung",
         "reports": "Laporan keamanan dan moderasi",
         "cosmetics": "Preferensi kosmetik (avatar, badge)"
       },
@@ -307,15 +307,15 @@
         "policy": "https://www.riotgames.com/en/privacy-notice"
       },
       "esp": {
-        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
-        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
-        "identity_label": "ESP identity, role, and location:",
-        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
-        "subprocessors_label": "Sub-processors:",
-        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
-        "transfer_label": "International transfer basis:",
-        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
-        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+        "title": "4.4. Penyedia Layanan Email (Komunikasi Pemasaran & Survei)",
+        "intro": "Untuk mengirimkan email pemasaran, re-engagement, dan survei uninstall/churn yang dijelaskan di §5.6, Jynx menggunakan penyedia layanan email pihak ketiga (ESP) yang bertindak sebagai pemroses (GDPR Pasal 28; LGPD Pasal 39 — operador). ESP memproses alamat email Anda dan data pengiriman minimal (misalnya, status terkirim/gagal kirim) semata-mata berdasarkan instruksi terdokumentasi dari Jynx, di bawah Perjanjian Pemrosesan Data yang telah ditandatangani.",
+        "identity_label": "Identitas, peran, dan lokasi ESP:",
+        "identity": "Brevo (Brevo SAS, Paris, Prancis) — Penyedia Layanan Email dan pemroses data kami berdasarkan Perjanjian Pemrosesan Data yang telah ditandatangani. Kebijakan Privasi Brevo: https://www.brevo.com/legal/privacypolicy/",
+        "subprocessors_label": "Sub-pemroses:",
+        "subprocessors": "Daftar sub-pemroses Brevo saat ini dipublikasikan dalam Perjanjian Pemrosesan Datanya (Ketentuan Penggunaan): https://www.brevo.com/legal/termsofuse/",
+        "transfer_label": "Dasar transfer internasional:",
+        "transfer": "Lihat §9. Brevo berkantor pusat di Prancis (UE). Transfer ke Brevo karenanya memperoleh manfaat dari rezim perlindungan UE berdasarkan GDPR dan, bagi pengguna Brasil, keputusan kecukupan ANPD untuk UE (Resolusi nº 32/2026) — tidak diperlukan SCC atau mekanisme tambahan.",
+        "no_sell": "Kami tidak menjual data pribadi Anda. Tidak ada piksel pelacak atau analitik tersembunyi yang disematkan dalam email pemasaran tanpa dasar hukum terpisah yang diungkapkan di §5.6."
       },
       "livekit": {
         "title": "4.5. LiveKit Cloud (Suara Real-Time)",
@@ -324,43 +324,43 @@
         "p3": "LiveKit memang menyimpan metadata sesi operasional — seperti identitas peserta, pengidentifikasi ruang, waktu koneksi, dan metrik kualitas — untuk tujuan penagihan, pencegahan penyalahgunaan, dan operasional sesuai Addendum Pemrosesan Datanya. Metadata ini tidak digunakan untuk mengidentifikasi Anda di luar platform atau untuk periklanan."
       },
       "child_safety": {
-        "title": "4.7. Specialized Child-Safety Technology Providers",
-        "p1": "To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9)."
+        "title": "4.7. Penyedia Teknologi Keselamatan Anak Khusus",
+        "p1": "Untuk membantu mendeteksi materi pelecehan seksual anak yang telah diketahui (lihat §5.8), Jynx bekerja sama dengan penyedia teknologi keselamatan anak khusus yang bertindak sebagai pemroses (GDPR Pasal 28; LGPD Pasal 39 — operador). Penyedia ini hanya menerima hash tak terbalikkan yang diturunkan dari gambar — tidak pernah gambar itu sendiri — dan melakukan pencocokan hash di kawasan UE, semata-mata untuk deteksi keselamatan anak atas instruksi terdokumentasi dari Jynx. Penurunan hash dari gambar terjadi di dalam infrastruktur Google Cloud milik Jynx sendiri (lihat §9)."
       },
       "image_moderation": {
-        "title": "4.8. Cloud Image-Moderation Provider (AWS)",
-        "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
+        "title": "4.8. Penyedia Moderasi Gambar Cloud (AWS)",
+        "p1": "Untuk menjaga platform tetap aman, gambar profil dan foto galeri disaring oleh layanan klasifikasi gambar otomatis — Amazon Rekognition, yang disediakan oleh Amazon Web Services (AWS), bertindak sebagai pemroses (GDPR Pasal 28; LGPD Pasal 39 — operador). Untuk tujuan ini, gambar ditransmisikan ke AWS dan dianalisis dengan machine learning untuk konten yang tidak pantas (misalnya ketelanjangan atau materi eksplisit); hasilnya adalah label dan skor keyakinan yang dihasilkan mesin dan ditangani dalam proses moderasi kami (lihat Kebijakan Keselamatan Anak). Pemrosesan ini hanya digunakan untuk moderasi konten dan keselamatan — tidak pernah untuk pembuatan profil, periklanan, atau tujuan lain apa pun. AWS memproses data ini di kawasan AWS yang dikonfigurasi untuk layanan tersebut (saat ini São Paulo, Brasil); perlindungan transfer di §9 berlaku. Seperti bagian lain dari Layanan, gambar ditangani oleh infrastruktur Google Cloud milik Jynx sendiri sebelum diteruskan ke AWS (lihat §9)."
       },
       "stores": {
-        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
-        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
-        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
-        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
-        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
-        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
+        "title": "4.6. App Store / Google Play (Pembelian Dalam Aplikasi dan Langganan)",
+        "p1": "Langganan Jynx+ dan Founder Packs dijual dalam aplikasi melalui App Store milik Apple dan Google Play, yang bertindak sebagai merchant of record untuk pembelian ini (lihat Ketentuan Layanan, Bagian 8). Data instrumen pembayaran (misalnya, detail kartu) dikumpulkan dan diproses semata-mata oleh Apple/Google di bawah kebijakan privasi masing-masing; Jynx tidak mengumpulkan, menerima, atau menyimpan data instrumen pembayaran apa pun.",
+        "p2": "Melalui penyedia penagihan kami RevenueCat (seorang pemroses yang bertindak di bawah Perjanjian Pemrosesan Data yang telah ditandatangani; GDPR Pasal 28; LGPD Pasal 39 — operador), Jynx hanya menerima informasi yang diperlukan untuk menyetorkan apa yang Anda beli: status langganan dan entitlement Anda (misalnya, apakah Jynx+ aktif dan tanggal perpanjangannya), tingkat Founder Pack yang dibeli, dan pengidentifikasi transaksi. Data ini disimpan selama yang diperlukan untuk menyediakan Layanan dan memenuhi kewajiban akuntansi dan pencatatan (§6), dan hanya digunakan untuk memberikan serta memelihara entitlement Anda dan mencegah penipuan. RevenueCat berkedudukan di Amerika Serikat; transfer data pribadi ke RevenueCat bersandar pada EU-US Data Privacy Framework (untuk entitas RevenueCat yang sertifikasi mandiri di bawah DPF) atau pada klausul kontraktual standar bila DPF tidak berlaku. Mekanisme transfer yang berlaku bagi data pengguna Brasil dikonfirmasi dalam Catatan Aktivitas Pemrosesan kami (lihat §9).",
+        "apple_label": "Kebijakan Privasi Apple: https://www.apple.com/legal/privacy/",
+        "google_label": "Kebijakan Privasi Google: https://policies.google.com/privacy",
+        "revenuecat_label": "Kebijakan Privasi RevenueCat: https://www.revenuecat.com/privacy"
       },
       "meta": {
-        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
-        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
-        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.",
-        "p3": "<strong>Ad measurement.</strong> Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.",
-        "p4": "Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing."
+        "title": "4.9. Atribusi Iklan (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "Untuk mengukur apakah instalasi aplikasi kami berasal dari pemasaran, kami menggunakan teknologi periklanan dan atribusi, dengan tunduk pada persetujuan Anda bila diwajibkan: Meta (Facebook) App Events SDK (Meta Platforms Ireland) dan Google Play Install Referrer API. Di perangkat Apple, Meta SDK hanya diinisialisasi setelah Anda memberikan izin App Tracking Transparency (ATT); tanpa izin tersebut, tidak ada pengidentifikasi iklan (IDFA) yang dikumpulkan dan SDK tidak diinisialisasi. Di Android, Google Play Install Referrer API memberi tahu kami apakah instalasi Anda berasal dari listing toko atau tautan kampanye, dan pengidentifikasi iklan (GAID) digunakan sesuai pengaturan ID iklan perangkat Anda. Peristiwa yang dikirim ke Meta dibatasi pada aktivasi aplikasi dan metadata peristiwa aplikasi (termasuk, saat Anda masuk, pengidentifikasi pengguna aplikasi Anda, yang dihapus dari SDK saat Anda keluar), diproses atas instruksi Jynx untuk atribusi dan pengukuran kampanye.",
+        "p2": "Meta Platforms Ireland memproses data ini sebagai pemroses kami untuk tujuan atribusi di atas; Meta Platforms, Inc. dapat pula bertindak sebagai pengendali independen untuk tujuan sahnya sendiri di bawah ketentuannya sendiri (Meta's Data Processing Terms dan kebijakan privasinya di https://www.facebook.com/privacy/policy). Transfer ke Amerika Serikat bersandar pada EU-US Data Privacy Framework untuk entitas Meta yang sertifikasi mandiri atau pada klausul kontraktual standar (§9). Anda dapat menolak atau mencabut izin ATT atau mengatur ulang ID iklan Anda kapan saja di pengaturan perangkat; penolakan tidak memengaruhi penggunaan Jynx Anda.",
+        "p3": "<strong>Pengukuran iklan.</strong> Melampaui atribusi instalasi, kami juga mengukur konversi: peristiwa yang dibagikan dengan Meta mencakup pendaftaran (sign-up), onboarding selesai, dan pembelian — beserta jumlah dan mata uang pembelian. Bila Anda telah menyetujui, alamat email atau nomor telepon yang di-hash (diacak tak terbalikkan) juga dapat dibagikan untuk meningkatkan kualitas match; hal ini tidak pernah terjadi bagi pengguna yang diukur atas dasar kepentingan sah kami (di bawah). Peristiwa pendaftaran (sign-up) juga dapat mencakup gender yang Anda nyatakan sendiri. Tidak ada hal lain yang dibagikan — tidak ada pesan, bidang profil, game, komunitas, kontak, lokasi, atau foto — dan data Anda tidak pernah dijual. Dasar hukum, pilihan Anda, dan disclosure Apple SKAdNetwork dijelaskan di §5.9.",
+        "p4": "Penyimpanan: Jynx tidak menyimpan salinan terpisah atas peristiwa yang dibagikan dengan Meta. Peristiwa yang sudah dibagikan tetap tunduk pada proses penyimpanan dan penghapusan Meta Business Tools, yang berlaku sejak saat pembagian."
       },
       "partner": {
-        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
-        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
-        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
+        "title": "4.10. Program Kreator (Mitra) — KYC dan Pembayaran",
+        "p1": "Jika Anda bergabung dengan program Kreator (mitra) Jynx, kami memproses informasi identitas, pajak, dan pembayaran yang diwajibkan program: CPF atau CNPJ Anda (divalidasi dalam aplikasi), jalur pembayaran pilihan Anda — PayPal (diidentifikasi lewat email), transfer bank Wise (Brasil), atau kunci Pix — dan catatan performa kampanye Anda (pendaftaran teratribusi; lihat §10 referrals). Catatan pembayaran disimpan dalam bentuk pseudonim (§10). Program ini diatur oleh Creator Referral Terms dan Self-Billing Mandate versi yang Anda terima saat pendaftaran (lihat Ketentuan Layanan §15).",
+        "p2": "Pembayaran dieksekusi melalui lembaga pembayaran yang mengoperasikan jalur pilihan Anda: PayPal atau Wise menerima instruksi transfer dan data yang mereka perlukan untuk memverifikasi identitas Anda, mencegah penipuan, dan memenuhi kewajiban regulasi mereka, bertindak atas ketentuan mereka sendiri sebagai lembaga pembayaran independen (kebijakan privasi mereka dipublikasikan di situs web mereka); pembayaran Pix adalah transfer yang diinisiasi Jynx Group ke kunci Pix yang Anda berikan. Perlindungan transfer internasional yang berlaku dijelaskan di §9."
       },
       "ai": {
-        "title": "4.11. AI Features",
-        "p1": "<strong>Avatar generation.</strong> The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).",
-        "p2": "<strong>Companion messages (Quimera).</strong> Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1)."
+        "title": "4.11. Fitur AI",
+        "p1": "<strong>Pembuatan avatar.</strong> Kuis avatar dapat menghasilkan usulan avatar bergaya untuk profil Anda. Pembuatan saat ini berjalan di Cloudflare Workers AI (Cloudflare, Inc., pemroses) atas instruksi terdokumentasi dari Jynx; jika mesin yang mendasari berubah, bagian ini akan diperbarui sebelum atau bersamaan dengan perubahan tersebut. Masukan yang digunakan adalah jawaban kuis dan preferensi gaya bermain Anda — tidak pernah foto Anda — bersama pengidentifikasi pengguna Anda; usulan dikembalikan ke aplikasi sebagai gambar PNG atau WebP dan disimpan hingga 30 hari agar Anda dapat mengambilnya, setelah itu dihapus. Gambar yang dihasilkan bersifat sintetis — bukan foto diri Anda — dan tunduk pada moderasi yang sama seperti gambar lain (§4.8).",
+        "p2": "<strong>Pesan pendamping (Quimera).</strong> Beberapa pesan aplikasi pendamping disusun atau diperkaya oleh sistem AI generatif (Google Gemini, pemroses). Bila sebuah pesan dihasilkan AI, pesan tersebut diberi label demikian; Anda selalu diberi tahu saat berinteraksi dengan elemen yang dihasilkan AI, sesuai EU AI Act Pasal 50(1)."
       }
     },
     "data_usage": {
       "title": "5. Penggunaan Data",
       "intro": "Kami menggunakan data Anda untuk:",
-      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
+      "aggregate_publication": "Kami dapat mempublikasikan statistik anonim dan agregat yang diturunkan dari penggunaan aplikasi (misalnya, bagaimana pemain membentuk duo). Statistik ini tidak pernah mengidentifikasi pengguna individual.",
       "services": {
         "title": "1. Menyediakan Layanan Kami:",
         "account": "Membuat dan mengelola akun Anda",
@@ -373,16 +373,16 @@
         "content": "Menampilkan konten yang relevan"
       },
       "communication": {
-        "title": "3. Komunikasi:",
-        "notifications": "Mengirim notifikasi penting (match ditemukan, pesan diterima)",
-        "note": "Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category."
+        "title": "3. Komunikasi (operasional / transaksional):",
+        "notifications": "Mengirimkan notifikasi layanan penting (match ditemukan, pesan diterima, peringatan keamanan akun, dan pemberitahuan perubahan kebijakan berdasarkan §11)",
+        "note": "Email pemasaran, re-engagement, dan survei uninstall/churn dijelaskan secara terpisah di §5.6 Komunikasi Pemasaran dan tidak termasuk dalam kategori transaksional ini."
       },
       "improvement": {
         "title": "4. Peningkatan Layanan:",
         "analyze": "Menganalisis penggunaan untuk meningkatkan fitur",
         "bugs": "Mengidentifikasi dan memperbaiki bug",
         "performance": "Mengoptimalkan performa",
-        "ai": "Generate avatar proposals and companion-message drafts using AI processors (§4.11)"
+        "ai": "Menghasilkan usulan avatar dan draf pesan pendamping menggunakan pemroses AI (§4.11)"
       },
       "security": {
         "title": "5. Keamanan dan Kepatuhan:",
@@ -391,53 +391,53 @@
         "legal": "Mematuhi kewajiban hukum"
       },
       "marketing": {
-        "title": "5.6. Marketing Communications",
-        "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
-        "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
-        "eu_body": "Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The \"soft opt-in\" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.",
-        "br_title": "Legal basis — Brazilian users (LGPD).",
-        "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
-        "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
-        "br_consent_body": "captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.",
-        "br_li_title": "Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)",
-        "br_li_body": "used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.",
-        "optout_title": "Right to object / opt-out.",
-        "optout_body": "Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.",
-        "surveys_title": "Uninstall / churn surveys.",
-        "surveys_body": "Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).",
-        "tracking_title": "Email tracking.",
-        "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
-        "frequency_title": "Frequency.",
-        "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+        "title": "5.6. Komunikasi Pemasaran",
+        "intro": "Selain notifikasi operasional yang dijelaskan di §5.3, kami dapat mengirimkan komunikasi pemasaran dan re-engagement kepada Anda melalui email, meliputi: pembaruan produk dan pengumuman fitur tentang aplikasi Jynx; newsletter; pesan re-engagement yang mengundang Anda kembali ke aplikasi; dan survei umpan balik singkat uninstall atau churn (misalnya, \"Mengapa Anda berhenti menggunakan Jynx?\"). Komunikasi ini berbeda dari notifikasi transaksional/layanan.",
+        "eu_title": "Dasar hukum — pengguna Uni Eropa / EEA (GDPR + ePrivacy).",
+        "eu_body": "Email pemasaran dan re-engagement kepada pengguna UE/EEA dikirim berdasarkan persetujuan opt-in eksplisit Anda terlebih dahulu (ePrivacy Directive Pasal 13(1), diterapkan di Prancis melalui Pasal L. 34-5 Code des postes et des communications électroniques; GDPR Pasal 6(1)(a) dan Pasal 7). Setelah diluncurkannya langganan berbayar (Jynx+) dan pembelian sekali bayar dalam aplikasi (Founder Packs), Layanan kini menjadi layanan berbayar, dan pembelian tersebut merupakan \"penjualan\" dalam arti putusan CJEU C-654/23 (13 Nov 2025). Pengecualian \"soft opt-in\" dari ePrivacy Pasal 13(2) karenanya pada prinsipnya tersedia bagi kami untuk produk dan layanan serupa bagi pelanggan yang sudah ada. Namun, sebagai sikap konservatif, kami tetap bersandar pada persetujuan opt-in eksplisit Anda terlebih dahulu; kami hanya akan mulai bersandar pada dasar soft-opt-in setelah penilaian ulang terdokumentasi yang dicatat dalam Catatan Aktivitas Pemrosesan kami dan pemberitahuan yang diperbarui kepada Anda.",
+        "br_title": "Dasar hukum — pengguna Brasil (LGPD).",
+        "br_intro": "Bagi pengguna Brasil, komunikasi pemasaran dan re-engagement bersandar pada dua dasar hukum alternatif:",
+        "br_consent_title": "Persetujuan (LGPD Pasal 7, I dan Pasal 8)",
+        "br_consent_body": "diambil sebagai opt-in terpisah, tidak dicentang, dan khusus untuk tujuan tertentu saat pendaftaran atau dalam aplikasi, dicatat dengan tanggal, versi formulir, dan bahasa; Anda dapat menariknya kapan saja, tanpa biaya, tanpa kehilangan akses ke Layanan (Pasal 8 §5). Persetujuan adalah dasar yang digunakan untuk setiap komunikasi kepada prospek, cold outreach, atau penawaran cross-sell/mitra di luar aplikasi inti Jynx.",
+        "br_li_title": "Kepentingan sah (LGPD Pasal 7, IX, dielaborasi oleh Pasal 10)",
+        "br_li_body": "hanya digunakan bagi pengguna yang masih ada atau baru saja berhenti yang menerima pesan re-engagement, pembaruan produk tentang aplikasi Jynx yang sama, atau satu survei umpan balik churn/uninstall yang singkat. Sebelum bersandar pada dasar ini, Jynx melakukan dan mendokumentasikan Legitimate Interests Assessment (LIA) mengikuti uji tiga fase dari ANPD Legitimate Interest Guide (2 Feb 2024): (i) tujuan, (ii) kebutuhan, dan (iii) penyeimbangan dan perlindungan. LIA mencatat hubungan sebelumnya, ekspektasi wajar pengguna, tujuan, cara paling tidak mengganggu yang dipilih, dan kanal opt-out. Kepentingan sah tidak digunakan untuk email dingin/tanpa diminta, cross-sell yang tidak terkait, daftar yang dibeli, atau pesan berkelanjutan kepada pengguna yang telah pergi setelah hubungan jelas berakhir.",
+        "optout_title": "Hak untuk menolak / opt-out.",
+        "optout_body": "Pengguna Brasil dapat kapan saja menolak pemrosesan ini dan melakukan opt-out melalui mekanisme di §7.5 dan §7.6 (unsubscribe satu klik di setiap email, atau sakelar preferensi komunikasi dalam aplikasi), tanpa biaya dan tanpa menghentikan akun. Kami menghormati permintaan opt-out secara waktu nyata. Kode Pertahanan Konsumen Brasil (CDC, Undang-Undang 8.078/90, khususnya Pasal 39 III) melarang pesan komersial yang tidak diminta atau bersifat kasar; karena itu kami sangat menghormati opt-out dan menerapkan batas frekuensi, sebab pengiriman terus-menerus atau yang mengabaikan opt-out dapat diperlakukan sebagai praktik yang kasar.",
+        "surveys_title": "Survei uninstall / churn.",
+        "surveys_body": "Sejauh mungkin secara operasional, kami mengajukan pertanyaan uninstall/churn dalam aplikasi pada saat uninstall (tanpa perlu menyimpan email). Bila survei email dikirim, survei tersebut tidak memuat konten promosi atau re-engagement; kami mengirim maksimal satu (1) survei per pengguna dalam sekitar 60 hari setelah penghapusan akun atau uninstall; alamat email kemudian dihapus atau dianonimkan sesuai §6; dan pengguna yang telah mengajukan permintaan penghapusan / hak untuk dilupakan (§7.3) tidak pernah dihubungi kembali dan dimasukkan ke daftar supresi permanen (lihat §6 dan Ketentuan Layanan §7.2).",
+        "tracking_title": "Pelacakan email.",
+        "tracking_body": "Email pemasaran tidak menyematkan piksel pelacak atau analitik tersembunyi yang memproses data pribadi tanpa dasar hukum terpisah. Bila pelacakan buka/klik diperkenalkan, hal itu akan diungkapkan di sini dan didasarkan pada persetujuan (LGPD Pasal 8; ePrivacy Pasal 5(3)), konsisten dengan panduan ANPD tentang teknologi pelacakan (18 Okt 2022).",
+        "frequency_title": "Frekuensi.",
+        "frequency_body": "Email pemasaran tunduk pada batas frekuensi internal; Anda dapat mengurangi atau mematikannya kapan saja melalui sakelar preferensi komunikasi dalam aplikasi atau dengan mengeklik unsubscribe di pesan mana pun."
       },
       "ban_evasion": {
         "title": "5.7. Keamanan Komunitas dan Upaya Menghindari Larangan",
         "p1": "Untuk membantu melindungi komunitas kami dari penyalahgunaan, kami menggunakan pengidentifikasi perangkat dan sinyal integritas perangkat untuk mendeteksi dan mencegah upaya menghindari penangguhan atau larangan. Jika kami mengaitkan suatu perangkat dengan akun yang dilarang, perangkat tersebut dapat dicegah membuat akun baru atau masuk. Jika Anda merasa hal ini terjadi karena kesalahan, Anda dapat mengajukan banding dengan menghubungi support@jynx.app.",
-        "p2": "Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service."
+        "p2": "Sinyal integritas perangkat dikumpulkan dan dievaluasi dengan bantuan Talsec freeRASP, sebuah pustaka anti-pemalsuan dan integritas perangkat yang tersemat dalam aplikasi. freeRASP beroperasi di perangkat Anda: ia mendeteksi secara lokal ancaman seperti perangkat rooted, runtime hooking, dan bootloader yang tidak terkunci, serta melaporkan temuannya kepada kami melalui penyedia pemantauan error milik kami sendiri (Sentry, §4.2) untuk pencegahan penyalahgunaan; ia tidak mengirim data Anda ke layanan mana pun yang dioperasikan Talsec."
       },
       "child_safety": {
-        "title": "5.8. Child-Safety Image Analysis",
-        "p1": "To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our <a href=\"/child-safety.html\">Child Safety Policy</a>."
+        "title": "5.8. Analisis Gambar Keselamatan Anak",
+        "p1": "Untuk membantu melindungi anak-anak dan memenuhi kewajiban pelaporan hukum kami, Jynx menggunakan sistem otomatis untuk menganalisis gambar yang dibagikan di pesan langsung dengan membandingkan hash yang diturunkan dari gambar tersebut terhadap basis data materi pelecehan seksual anak yang telah diketahui. Untuk analisis ini, gambar itu sendiri tidak ditransmisikan ke pihak ketiga — hanya hash tak terbalikkannya (lihat §4.7). Gambar profil disaring secara terpisah, oleh pemrosesan moderasi gambar yang dijelaskan di §4.8. Analisis ini ada semata-mata untuk deteksi keselamatan anak dan kewajiban pelaporan hukum kami; tidak digunakan untuk pembuatan profil, periklanan, atau tujuan lain apa pun. Kecocokan ditangani seperti dijelaskan dalam <a href=\"/child-safety.html\">Kebijakan Keselamatan Anak</a> kami."
       },
       "ad_measurement": {
-        "title": "5.9. Advertising Measurement",
-        "p1": "If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.",
-        "p2": "How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).",
-        "p3": "Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).",
-        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it."
+        "title": "5.9. Pengukuran Iklan",
+        "p1": "Jika Anda menerima, kami juga membagikan peristiwa terbatas (seperti pendaftaran dan pembelian, beserta jumlahnya) dengan Meta untuk mengukur dan meningkatkan periklanan kami. Data Anda tidak pernah dijual, dan Anda dapat mengubah pilihan Anda kapan saja di pengaturan Privasi. Apa yang dibagikan, dan kepada siapa, tercantum di §4.9.",
+        "p2": "Cara pengaktifannya. Di iPhone dan iPad, pengukuran iklan menggunakan data Anda hanya dengan persetujuan Anda (GDPR Pasal 6(1)(a); LGPD Pasal 7, I), yang diberikan pada lembar privasi peluncuran pertama atau kemudian di Pengaturan > Privasi > Pengukuran iklan, dan tambahan pula memerlukan otorisasi App Tracking Transparency milik Apple (lihat §4.9). Di Android, pengukuran iklan didasarkan pada persetujuan yang sama tersebut atau, bagi pengguna yang ditampilkan sakelar pengukuran iklan aktif secara bawaan pada lembar peluncuran pertama, atas kepentingan sah kami dalam mengukur periklanan kami (LGPD Pasal 7, IX dan Pasal 10), dinilai dalam Legitimate Interests Assessment terdokumentasi. Dalam hal itu ia aktif secara bawaan, dan Anda dapat mematikannya di lembar yang sama atau kapan saja di Pengaturan > Privasi > Pengukuran iklan — menolak semudah membiarkannya aktif, tanpa biaya, dan tidak pernah mengharuskan Anda menghapus akun (LGPD Pasal 18, §2).",
+        "p3": "Perlindungan. Pengguna yang kami ketahui berusia di bawah 18 tahun, dan profil yang usianya tidak terkonfirmasi, tidak pernah diukur atas dasar kepentingan sah. Menarik persetujuan atau menolak menghentikan pembagian lebih lanjut sejak peluncuran aplikasi Anda berikutnya; peristiwa yang dibagikan secara sah sebelum itu tetap berada di Meta di bawah ketentuan penyimpanan §4.9, dan penarikan tidak memengaruhi keabsahan apa pun yang dilakukan sebelumnya (GDPR Pasal 7(3); LGPD Pasal 8 §5).",
+        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Terpisah dari hal di atas, dan untuk setiap pengguna iPhone dan iPad tanpa memandang pilihan atau pengaturan apa pun — termasuk saat pelacakan atau pengukuran iklan ditolak — SKAdNetwork milik Apple melaporkan informasi konversi anonim dan agregat ke jaringan iklan yang menayangkan iklan kepada Anda (misalnya, bahwa sebuah pendaftaran atau pembelian dalam rentang nilai tertentu terjadi). Tidak ada pengidentifikasi dari Jynx dan tidak ada data pribadi yang keluar dari perangkat Anda untuk ini: ini adalah mekanisme atribusi standar Apple, dan kami tidak dapat mengidentifikasi Anda darinya."
       },
       "emails": {
-        "title": "5.10. Emails and Communications",
-        "service": "<strong>Account-activity notification emails (service).</strong> When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the \"Manage these notifications\" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.",
-        "winback": "<strong>Re-engagement and marketing emails (winback).</strong> Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.",
-        "profile_display": "<strong>Display of your username and profile picture in notification emails.</strong> If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only)."
+        "title": "5.10. Email dan Komunikasi",
+        "service": "<strong>Email notifikasi aktivitas akun (layanan).</strong> Saat Anda melewatkan aktivitas akun di aplikasi (pesan belum dibaca, match atau like baru), Jynx dapat mengirim email tentang hal itu. Ini adalah notifikasi layanan yang didasarkan pada kepentingan sah kami dalam mengoperasikan platform sosial (menjaga Anda tetap informasi atas interaksi Anda yang sedang berlangsung) dan tidak memuat konten promosi. Anda dapat mematikan setiap jenis notifikasi (pesan, match, like) kapan saja di Pengaturan > Privasi > Komunikasi, atau melalui tautan \"Kelola notifikasi ini\" di setiap email. Anda juga dapat menolak pemrosesan ini kapan saja (GDPR Pasal 21) di privacy@jynx.app.",
+        "winback": "<strong>Email re-engagement dan pemasaran (winback).</strong> Email yang bertujuan mengembalikan Anda ke Jynx setelah periode tidak aktif, serta komunikasi berita dan penawaran kami, merupakan prospeksi komersial. Email tersebut hanya dikirim dengan persetujuan Anda terlebih dahulu yang spesifik, diberikan secara bebas, dan dapat dicabut, yang diambil melalui kotak centang opsional terpisah — tidak pernah sebagai syarat menerima Ketentuan kami. Anda dapat menariknya kapan saja di Pengaturan > Privasi > Komunikasi atau melalui tautan unsubscribe di setiap email.",
+        "profile_display": "<strong>Penampilan username dan gambar profil Anda dalam email notifikasi.</strong> Jika Anda telah berinteraksi dengan anggota lain (like, match, pesan), username dan gambar profil Anda dapat muncul dalam email notifikasi aktivitas akun yang ditujukan kepada mereka saat mereka tidak aktif. Elemen-elemen ini dihasilkan pada saat pengiriman dan tidak disimpan dalam log email kami (hanya pengidentifikasi dan hitungan)."
       },
       "location": {
-        "title": "5.11. Location and Match Distance",
-        "p1": "<strong>What we process.</strong> If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players (\"~12 km\") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.",
-        "p2": "<strong>Optional and consent-based.</strong> This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).",
-        "p3": "<strong>How long we keep it.</strong> The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.",
-        "p4": "<strong>Your control.</strong> You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data."
+        "title": "5.11. Lokasi dan Jarak Match",
+        "p1": "<strong>Yang kami proses.</strong> Jika Anda memilih untuk membagikan lokasi Anda, Jynx menggunakannya hanya untuk satu tujuan: menampilkan perkiraan jarak antara Anda dan pemain lain (\"~12 km\") pada antrean match dan, jika Anda mengaktifkan pengurutan kedekatan, mengurutkan antrean tersebut berdasarkan jarak. Kami hanya memproses lokasi perkiraan: izin yang kami minta adalah lokasi kasar / akurasi-rendah milik sistem operasi, dan sebelum apa pun disimpan, koordinat Anda dipetakan di server kami ke grid berukuran sekitar 0,02° (sekitar 2,2 km); sel lokasi yang dihasilkan berukuran sekitar 11 km. Koordinat GPS mentah tidak pernah disimpan.",
+        "p2": "<strong>Opsional dan berbasis persetujuan.</strong> Ini adalah fitur opsional: tidak ada yang dikumpulkan kecuali Anda memberikan izin lokasi sistem operasi DAN sakelar lokasi dalam aplikasi aktif. Lokasi tidak pernah diproses di latar belakang — hanya digunakan saat Anda menggunakan aplikasi. Lokasi Anda tidak pernah ditampilkan kepada pengguna lain sebagai posisi pada peta, tidak pernah digunakan untuk periklanan, dan tidak pernah dibagikan dengan platform iklan (lihat §4.9: tidak ada data lokasi yang termasuk dalam apa pun yang dibagikan untuk atribusi atau pengukuran iklan). Peristiwa analitik kami tidak memuat koordinat, nama kota, atau pengidentifikasi sel lokasi — hanya sinyal adopsi dan pilihan pengurutan yang anonim. Permintaan izin sistem operasi adalah cara persetujuan Anda diambil, dan sakelar dalam aplikasi adalah cara Anda menariknya (§7.6).",
+        "p3": "<strong>Berapa lama kami menyimpannya.</strong> Catatan lokasi yang kami pelihara untuk akun Anda dihapus otomatis setelah 45 hari tanpa pembaruan, dan disegarkan setiap kali Anda menggunakan fitur ini selama pembagian aktif. Jarak perkiraan yang ditampilkan pada kartu profil Anda terikat aktivitas: ia bertahan hanya selama kartu profil Anda bertahan, dan diperlakukan sebagai tidak ada setelah 45 hari tanpa pembaruan.",
+        "p4": "<strong>Kendali Anda.</strong> Anda dapat berhenti membagikan kapan saja: mematikan sakelar lokasi dalam aplikasi segera menghapus koordinat yang tersimpan (catatan tetap ada tetapi kosong dari koordinat), dan mencabut izin lokasi di pengaturan perangkat Anda menghentikan pengumpulan di sumbernya. Menghapus akun Anda (§7.3) juga menghapus data lokasi Anda."
       }
     },
     "retention": {
@@ -448,24 +448,24 @@
         "profile": "Disimpan selama akun Anda aktif",
         "analytics_label": "Log dan Analitik:",
         "analytics": "Firebase Analytics: 14 bulan (kebijakan Firebase)",
-        "marketing_label": "Marketing email addresses (consent-based):",
-        "marketing": "Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you",
-        "survey_label": "Uninstall / churn survey email addresses:",
-        "survey": "Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user",
-        "reengagement_label": "Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):",
-        "reengagement": "Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized"
+        "marketing_label": "Alamat email pemasaran (berbasis persetujuan):",
+        "marketing": "Disimpan selama Anda belum melakukan opt-out atau menghapus akun, ditambah catatan ter-hash pada daftar supresi (lihat di bawah) untuk memastikan kami tidak menghubungi Anda kembali",
+        "survey_label": "Alamat email survei uninstall / churn:",
+        "survey": "Disimpan maksimal 60 hari setelah survei dikirim (atau, bila tidak ada survei yang dikirim, 60 hari setelah uninstall/penghapusan), setelah itu alamat dihapus atau dianonimkan secara tak terbalikkan. Tidak lebih dari satu (1) email survei dikirim per pengguna",
+        "reengagement_label": "Re-engagement akun yang baru saja berhenti (dasar kepentingan sah LGPD, hanya pengguna Brasil):",
+        "reengagement": "Sesuai panduan CNIL dan uji ekspektasi wajar, Jynx dapat menggunakan alamat email akun yang baru berhenti (non-erasure) untuk re-engagement hingga 3 tahun setelah interaksi bermakna terakhir, setelah itu dihapus atau dianonimkan"
       },
       "deletion": {
         "title": "6.2. Penghapusan Data",
         "p1": "Anda dapat meminta penghapusan akun Anda kapan saja (lihat Bagian 7).",
         "legal_label": "Penyimpanan Hukum:",
         "legal": "Beberapa data mungkin disimpan lebih lama untuk mematuhi kewajiban hukum kami (misalnya, laporan keamanan, transaksi keuangan).",
-        "marketing": "When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2)."
+        "marketing": "Saat Anda menghapus akun, kami membersihkan alamat email Anda dari CRM pemasaran dan penyedia layanan email kami. Jika Anda menggunakan hak penghapusan (§7.3 / GDPR Pasal 17 / LGPD Pasal 18(VI) untuk data berbasis persetujuan), alamat email Anda ditambahkan ke daftar supresi ter-hash permanen sehingga tidak pernah digunakan kembali untuk pemasaran, re-engagement, atau survei — termasuk perlindungan terhadap impor ulang melalui daftar pihak ketiga atau daftar yang dibeli apa pun. Catatan: berdasarkan LGPD, penghapusan Pasal 18(VI) berlaku untuk data yang diproses atas dasar persetujuan; data yang diproses atas dasar kepentingan sah (Pasal 7 IX) justru diatur oleh prinsip pembatasan tujuan (Pasal 6 II dan §2) dan hak Anda untuk meminta penghentian pemrosesan (Pasal 18 §2)."
       }
     },
     "rights": {
-      "title": "7. Hak Anda (GDPR)",
-      "intro": "Berdasarkan GDPR, Anda memiliki hak-hak berikut:",
+      "title": "7. Hak Anda (GDPR dan LGPD)",
+      "intro": "Tergantung lokasi Anda, Anda memiliki hak berdasarkan GDPR (UE/EEA) dan/atau LGPD Brasil (Lei Geral de Proteção de Dados, Undang-Undang 13.709/2018).",
       "access": {
         "title": "7.1. Hak Akses",
         "p1": "Anda dapat meminta salinan semua data yang kami simpan tentang Anda.",
@@ -500,12 +500,12 @@
         "p1": "Ekspor data (Bagian 7.1) memungkinkan Anda mengambil data dalam format terstruktur yang dapat dibaca mesin (JSON)."
       },
       "objection": {
-        "title": "7.5. Hak untuk Menolak",
-        "p1": "Anda dapat menolak pemrosesan data Anda untuk tujuan pemasaran langsung.",
-        "onclick_label": "One-click unsubscribe:",
-        "onclick": "every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time",
-        "inapp_label": "In-app toggle:",
-        "inapp": "Settings > Privacy > Communications Preferences",
+        "title": "7.5. Hak untuk Menolak / Opt-Out dari Pemasaran",
+        "p1": "Anda dapat kapan saja menolak pemrosesan data Anda untuk tujuan pemasaran langsung, tanpa biaya dan tanpa memberikan alasan. Berdasarkan GDPR Pasal 21(2), hak ini bersifat absolut bagi pengguna UE/EEA: kami akan menghentikan semua pemrosesan pemasaran segera setelah menerima penolakan Anda. Bagi pengguna Brasil, Anda dapat menentang pemrosesan pemasaran melalui mekanisme opt-out di bawah (LGPD Pasal 8 §5; Pasal 18 §2).",
+        "onclick_label": "Unsubscribe satu klik:",
+        "onclick": "setiap email pemasaran menyertakan tautan unsubscribe satu klik (RFC 8058 List-Unsubscribe-Post) yang dihormati secara waktu nyata",
+        "inapp_label": "Sakelar dalam aplikasi:",
+        "inapp": "Pengaturan > Privasi > Preferensi Komunikasi",
         "email_label": "Email:",
         "email": "dpo@jynx.app"
       },
@@ -518,18 +518,18 @@
         "notifications": "Pengaturan perangkat",
         "oauth_label": "Catatan:",
         "oauth": "Token OAuth (Google, Apple) secara otomatis dicabut saat Anda menghapus akun (Bagian 7.3).",
-        "marketing_label": "Marketing Communications:",
-        "marketing": "Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account",
-        "effect": "Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.",
-        "ad_measurement_label": "Ad measurement:",
-        "ad_measurement": "Settings > Privacy > Ad measurement (see §5.9)",
-        "location_label": "Location (match distance):",
-        "location": "Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)"
+        "marketing_label": "Komunikasi Pemasaran:",
+        "marketing": "Newsletter, pembaruan produk, re-engagement, dan survei uninstall/churn — dapat ditarik melalui unsubscribe satu klik, sakelar preferensi komunikasi dalam aplikasi, atau dpo@jynx.app, tanpa menghentikan akun Anda",
+        "effect": "Penarikan tidak memengaruhi keabsahan pemrosesan yang dilakukan sebelum penarikan (GDPR Pasal 7(3); LGPD Pasal 8 §5), dan menarik persetujuan tidak pernah mengharuskan Anda menghapus akun.",
+        "ad_measurement_label": "Pengukuran iklan:",
+        "ad_measurement": "Pengaturan > Privasi > Pengukuran iklan (lihat §5.9)",
+        "location_label": "Lokasi (jarak match):",
+        "location": "Matikan sakelar lokasi dalam aplikasi — ini menghapus koordinat yang tersimpan — atau cabut izin lokasi di pengaturan perangkat Anda (lihat §5.11)"
       },
       "lgpd": {
-        "title": "7.7. Additional LGPD Rights (Brazilian Users)",
-        "intro": "In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.",
-        "how": "You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd."
+        "title": "7.7. Hak LGPD Tambahan (Pengguna Brasil)",
+        "intro": "Selain hak-hak di atas, subjek data yang berlokasi di Brasil memiliki hak-hak berikut berdasarkan LGPD Pasal 18: konfirmasi atas adanya pemrosesan; akses ke data; koreksi data yang tidak lengkap, tidak akurat, atau tidak mutakhir; anonimisasi, pemblokiran, atau penghapusan data yang tidak perlu atau berlebihan (Pasal 18(VI) berlaku untuk data yang diproses atas dasar persetujuan); portabilitas ke penyedia layanan atau produk lain, atas permintaan; penghapusan data pribadi yang diproses dengan persetujuan; dan informasi tentang kemungkinan menolak memberikan persetujuan serta konsekuensi dari hal tersebut.",
+        "how": "Anda dapat menggunakan hak-hak ini melalui Pengaturan > Privasi atau dengan menghubungi encarregado di dpo@jynx.app. Anda juga dapat mengajukan keluhan kepada otoritas perlindungan data Brasil — Autoridade Nacional de Proteção de Dados (ANPD) — di https://www.gov.br/anpd."
       }
     },
     "security": {
@@ -543,44 +543,44 @@
       "auth": "Manajemen sesi aman melalui Firebase Auth",
       "validation_label": "Validasi Input:",
       "validation": "Pencegahan injeksi XSS melalui SecureTextInput",
-      "rate_limiting_label": "Rate Limiting:",
+      "rate_limiting_label": "Pembatasan Rate:",
       "rate_limiting": "Perlindungan terhadap penyalahgunaan (spam pesan, tindakan otomatis)",
       "moderation_label": "Moderasi:",
       "moderation": "Sistem pelaporan dan moderasi konten",
-      "breach": "No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).",
-      "voice_label": "Real-time voice:",
-      "voice": "Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS."
+      "breach": "Tidak ada sistem yang 100% aman. Bila terjadi kebocoran data pribadi, kami akan memberi tahu otoritas pengawas yang berwenang tanpa penundaan yang tidak wajar dan, bila memungkinkan, dalam 72 jam sejak mengetahui kebocoran yang kemungkinan menimbulkan risiko terhadap hak Anda (GDPR Pasal 33), dan kami akan mengomunikasikan kebocoran tersebut kepada pengguna yang terdampak tanpa penundaan yang tidak wajar bila kemungkinan menimbulkan risiko tinggi bagi Anda (GDPR Pasal 34). Bagi subjek data di Brasil, kami juga akan mengomunikasikan insiden keamanan yang relevan kepada ANPD dan kepada Anda dalam tenggat yang ditetapkan otoritas (LGPD Pasal 48; saat ini 3 hari kerja berdasarkan Resolusi ANPD CD/ANPD nº 15/2024).",
+      "voice_label": "Suara waktu nyata:",
+      "voice": "Media ruang suara dienkripsi saat transit menggunakan WebRTC DTLS-SRTP, standar yang sama dengan yang digunakan aplikasi suara arus utama; pensinyalan antara aplikasi dan server kami dilakukan melalui HTTPS/TLS."
     },
     "international": {
       "title": "9. Transfer Data Internasional",
-      "p1": "Data Anda mungkin ditransfer dan disimpan di server yang berlokasi di luar Uni Eropa, termasuk:",
+      "p1": "Data Anda mungkin ditransfer dan disimpan di server yang berlokasi di luar yurisdiksi Anda, termasuk:",
       "google_label": "Google Cloud / Firebase:",
-      "google": "Menggunakan infrastruktur global dengan kepatuhan GDPR",
+      "google": "Infrastruktur global (termasuk Google Analytics di situs web, lihat §10), di bawah klausul kontraktual standar GDPR dan perlindungan yang setara",
       "sentry_label": "Sentry:",
-      "sentry": "Server berbasis AS dengan kepatuhan Privacy Shield",
-      "esp_label": "Email Service Provider (ESP):",
-      "esp": "Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement",
-      "guarantees_eu_label": "Guarantees (GDPR, EU/EEA).",
-      "guarantees_eu": "All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.",
-      "guarantees_br_label": "Guarantees (LGPD, Brazil).",
-      "guarantees_br": "Transfers of Brazilian users' personal data are governed by LGPD Art. 33:",
-      "br_france_label": "To Jynx Group in France (controller):",
-      "br_france": "Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)",
-      "br_esp_label": "To Brevo in France (email ESP, processor):",
-      "br_esp": "Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)",
-      "historical": "Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.",
-      "aws_label": "Amazon Web Services (image moderation):",
-      "aws": "The image-moderation processing described in §4.8 runs in AWS's São Paulo region (Brazil); transfers from the EU/EEA rely on AWS's data-processing agreement incorporating the European Commission's standard contractual clauses, together with the general guarantees below. The image is relayed to AWS through Jynx's Google Cloud infrastructure (the Google Cloud / Firebase leg above)",
-      "br_csam_label": "To child-safety technology providers in the EU (hash matching, processors):",
-      "br_csam": "Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)",
-      "br_aws_label": "To AWS in Brazil (image moderation, processor):",
-      "br_aws": "The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above",
-      "livekit_label": "LiveKit (real-time voice, and screen share when available):",
-      "livekit": "LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors.",
-      "meta_label": "Meta (advertising attribution and ad measurement):",
-      "meta": "The sharing described in §4.9 and §5.9 reaches Meta Platforms Ireland Ltd. or Meta Platforms, Inc., which processes it in the United States and other countries. International transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms. Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations.",
-      "anpd_transparency_label": "Transparency (ANPD Resolution CD/ANPD nº 19/2024).",
-      "anpd_transparency": "The information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 is consolidated in this Policy: the form, duration, and specific purpose of each international transfer and the destination countries (this section and the sections it cites); the identification and contact details of the controller (§1); the shared use of the data and its purpose (§4); the responsibilities of the processing agents and the security measures adopted (§4 and §8); and your rights and the means of exercising them, including an easily accessible channel and the right to petition the ANPD (§7 and §12). The full text of the contractual clauses used to carry out these international transfers is made available to you, upon request, by our data protection officer (dpo@jynx.app), within 15 days."
+      "sentry": "Server berbasis di AS; transfer dari UE/EEA bersandar pada EU-US Data Privacy Framework (berlaku sejak Juli 2023, menggantikan Privacy Shield yang dibatalkan) untuk entitas Sentry yang sertifikasi mandiri di bawah DPF, atau pada klausul kontraktual standar bila DPF tidak berlaku",
+      "esp_label": "Penyedia Layanan Email (ESP):",
+      "esp": "Digunakan untuk mengirimkan komunikasi pemasaran, re-engagement, dan survei yang dijelaskan di §5.6. ESP disebutkan di §4.4 dan bertindak sebagai pemroses di bawah Perjanjian Pemrosesan Data yang telah ditandatangani",
+      "guarantees_eu_label": "Jaminan (GDPR, UE/EEA).",
+      "guarantees_eu": "Semua transfer dari UE/EEA dicakup oleh keputusan kecukupan, EU-US Data Privacy Framework, atau klausul kontraktual standar, berserta langkah pelengkap bila diwajibkan.",
+      "guarantees_br_label": "Jaminan (LGPD, Brasil).",
+      "guarantees_br": "Transfer data pribadi pengguna Brasil diatur oleh LGPD Pasal 33:",
+      "br_france_label": "Ke Jynx Group di Prancis (pengendali):",
+      "br_france": "Sah berdasarkan LGPD Pasal 33(I) berkat Resolusi ANPD CD/ANPD nº 32/2026 (berlaku 26 Januari 2026), yang mengakui Uni Eropa — termasuk Prancis — sebagai pemberi tingkat perlindungan yang memadai. Tidak diperlukan mekanisme transfer tambahan untuk jalur ini. (Keputusan kecukupan ini tunduk pada penilaian ulang ANPD dalam empat tahun; bila ditangguhkan, Jynx akan menerapkan mekanisme Pasal 33 alternatif seperti klausul kontraktual standar ANPD.)",
+      "br_esp_label": "Ke Brevo di Prancis (ESP email, pemroses):",
+      "br_esp": "Sah berdasarkan LGPD Pasal 33(I) berkat Resolusi ANPD CD/ANPD nº 32/2026 yang sama (berlaku 26 Januari 2026), yang mengakui Uni Eropa — termasuk Prancis — sebagai pemberi tingkat perlindungan yang memadai. Tidak diperlukan mekanisme transfer tambahan untuk jalur ini. (Tunduk pada penilaian ulang ANPD yang sama seperti dijelaskan di atas; bila keputusan kecukupan ditangguhkan, Jynx akan menerapkan mekanisme Pasal 33 alternatif seperti klausul kontraktual standar ANPD dengan Brevo.)",
+      "historical": "Catatan historis: masa tenggang satu tahun untuk mengadaptasi kontrak yang sudah ada ke SCC ANPD berakhir pada 23 Agustus 2025; hubungan pemroses baru seperti ESP mengeksekusi SCC saat onboarding.",
+      "aws_label": "Amazon Web Services (moderasi gambar):",
+      "aws": "Pemrosesan moderasi gambar yang dijelaskan di §4.8 berjalan di kawasan São Paulo milik AWS (Brasil); transfer dari UE/EEA bersandar pada perjanjian pemrosesan data AWS yang memasukkan klausul kontraktual standar Komisi Eropa, berserta jaminan umum di bawah. Gambar diteruskan ke AWS melalui infrastruktur Google Cloud milik Jynx (jalur Google Cloud / Firebase di atas)",
+      "br_csam_label": "Ke penyedia teknologi keselamatan anak di UE (pencocokan hash, pemroses):",
+      "br_csam": "Dicakup oleh keputusan kecukupan UE Resolusi ANPD CD/ANPD nº 32/2026 yang sama seperti jalur-jalur di atas — penyedia hanya menerima hash tak terbalikkan dan melakukan pencocokan di kawasan UE (§4.7)",
+      "br_aws_label": "Ke AWS di Brasil (moderasi gambar, pemroses):",
+      "br_aws": "Lompatan AWS Rekognition tetap di dalam negeri — berjalan di kawasan São Paulo milik AWS (§4.8). Gambar pertama-tama diteruskan melalui infrastruktur Google Cloud milik Jynx, yang dicakup oleh ketentuan transfer Google Cloud / Firebase umum di atas",
+      "livekit_label": "LiveKit (suara waktu nyata, dan screen share bila tersedia):",
+      "livekit": "LiveKit Cloud adalah pemroses kami untuk media suara waktu nyata (dan, bila fitur tersedia, screen-share) di bawah Perjanjian Pemrosesan Data yang telah ditandatangani (§4.5). LiveKit Cloud merutekan media secara global: sesi dilayani oleh infrastruktur global LiveKit tanpa dikunci ke kawasan tertentu. Audio ruang suara (dan video screen-share bila tersedia) dirutekan secara waktu nyata dan tidak direkam, disimpan, atau dipertahankan oleh Jynx maupun LiveKit; LiveKit hanya menyimpan metadata sesi operasional yang dijelaskan di §4.5. Transfer data pribadi ke LiveKit bersandar pada Data Processing Addendum LiveKit, yang memasukkan ketentuan GDPR dan klausul kontraktual standar Komisi Eropa untuk transfer lintas batas, berserta jaminan umum di bawah, yang berlaku bagi LiveKit sebagaimana berlaku bagi pemroses kami yang lain.",
+      "meta_label": "Meta (atribusi iklan dan pengukuran iklan):",
+      "meta": "Pembagian yang dijelaskan di §4.9 dan §5.9 sampai ke Meta Platforms Ireland Ltd. atau Meta Platforms, Inc., yang memprosesnya di Amerika Serikat dan negara lain. Transfer internasional data pribadi yang dilakukan sehubungan dengan alat-alat Meta tunduk pada perlindungan kontraktual yang berlaku dan mekanisme transfer internasional. Jynx sedang memverifikasi kepatuhan mereka terhadap persyaratan Pasal 33 LGPD dan regulasi ANPD.",
+      "anpd_transparency_label": "Transparansi (Resolusi ANPD CD/ANPD nº 19/2024).",
+      "anpd_transparency": "Informasi yang diwajibkan oleh Pasal 17, §2 Resolusi ANPD CD/ANPD nº 19/2024 dikonsolidasikan dalam Kebijakan ini: bentuk, durasi, dan tujuan spesifik setiap transfer internasional serta negara tujuan (bagian ini dan bagian yang dikutipnya); identifikasi dan detail kontak pengendali (§1); penggunaan bersama data dan tujuannya (§4); tanggung jawab para pelaku pemrosesan dan langkah keamanan yang diambil (§4 dan §8); serta hak Anda dan cara menggunakannya, termasuk kanal yang mudah diakses dan hak mengajukan petisi ke ANPD (§7 dan §12). Teks lengkap klausul kontraktual yang digunakan untuk melaksanakan transfer internasional ini disediakan kepada Anda, atas permintaan, oleh petugas perlindungan data kami (dpo@jynx.app), dalam 15 hari."
     },
     "cookies": {
       "title": "10. Cookie dan Teknologi Serupa",
@@ -589,10 +589,10 @@
       "tokens": "Disimpan secara lokal dengan cara yang aman",
       "cache_label": "Cache Lokal:",
       "cache": "Untuk meningkatkan performa (data profil, pesan terkini)",
-      "website": "<strong>Website.</strong> The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key \"jynx-analytics-consent\"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.",
-      "invite_clipboard": "<strong>Invitation links.</strong> When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.",
-      "referrals": "<strong>Referrals and creator campaigns.</strong> When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.",
-      "screen_share": "<strong>Screen sharing (when available).</strong> When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share."
+      "website": "<strong>Situs web.</strong> Situs web Jynx (jynx.app) menggunakan Google Analytics 4 (disediakan oleh Google) dengan Consent Mode v2 untuk memahami bagaimana situs digunakan. Penyimpanan analitik ditolak secara bawaan: sampai Anda menerima banner cookie, Google Analytics berjalan tanpa cookie atau penyimpanan lokal dan Google hanya menerima sinyal tanpa cookie dan tanpa pengidentifikasi; jika Anda menerima, pengukuran penuh diaktifkan. Pilihan Anda — terima atau tolak — disimpan secara lokal di perangkat Anda (localStorage peramban, kunci \"jynx-analytics-consent\"). Menghapus penyimpanan peramban untuk jynx.app membuat banner muncul kembali sehingga Anda dapat mengubah pilihan Anda. Google bertindak sebagai penerima data analitik yang dihasilkan (lihat §9); lihat §4 untuk pemroses kami yang lain dan §7 untuk hak Anda.",
+      "invite_clipboard": "<strong>Tautan undangan.</strong> Saat Anda membuka tautan undangan (jynx.app/invite/…) di peramban Anda dan menekan tombol unduh App Store, situs web menulis tautan undangan tersebut ke clipboard perangkat Anda, menggantikan isi sebelumnya. Ini adalah teknik standar untuk atribusi instalasi aplikasi di iOS (yang tidak memiliki mekanisme install-referrer): hal ini memungkinkan aplikasi Jynx, pada peluncuran pertama, mengusulkan bergabung dengan undangan dari orang yang mengirimkan Anda tautan itu. Situs web tidak pernah membaca clipboard Anda — ia hanya menulis tautan ini — dan aplikasi membacanya hanya satu kali, setelah meminta persetujuan eksplisit Anda. Tidak ada konten clipboard lain yang diakses atau dikumpulkan. Jika Anda lebih memilih untuk tidak membagikannya, cukup tolak permintaan tempel dan bergabung tanpa undangan.",
+      "referrals": "<strong>Referral dan kampanye kreator.</strong> Saat Anda bergabung dengan Jynx dengan kode undangan — dari tautan, kode QR, atau dimasukkan manual — kami mencatat kode itu bersama akun Anda sehingga kami dapat mengatribusikan undangan kepada orang atau kampanye yang membagikannya, menerapkan manfaat terkait, dan mendeteksi pendaftaran penipuan. Pemrosesan ini bersandar pada kepentingan sah kami (lihat §13) dan tunduk pada pemeriksaan anti-penipuan kami; tidak ada yang berubah di pihak Anda, karena data yang sama dikumpulkan apa pun jenis kode undangan yang Anda gunakan. Beberapa kode undangan juga milik kampanye atribusi kreator: jika kode yang Anda gunakan adalah bagian dari kampanye semacam itu, kode tersebut dapat pula mengkreditkan kampanye itu. Catatan pembayaran untuk kampanye kreator disimpan dalam bentuk pseudonim.",
+      "screen_share": "<strong>Screen sharing (bila tersedia).</strong> Bila fitur tersedia, Anda dapat membagikan layar perangkat Anda di ruang suara. Pembagian hanya dimulai setelah izin tangkap layar sistem operasi diberikan dan konfirmasi eksplisit dalam aplikasi diberikan. Semua yang terlihat di layar Anda — termasuk notifikasi — disiarkan langsung ke peserta lain di ruangan, dan Anda bertanggung jawab atas apa yang Anda bagikan. Video yang dibagikan adalah track media langsung yang dirutekan seperti audio suara melalui LiveKit SFU (§4.5, §9): tidak direkam atau disimpan oleh Jynx maupun LiveKit, dan berhenti saat Anda mengakhiri pembagian."
     },
     "changes": {
       "title": "11. Perubahan pada Kebijakan Ini",
@@ -606,27 +606,27 @@
       "email_label": "Email:",
       "email": "dpo@jynx.app",
       "authority_label": "Otoritas Pengawas:",
-      "authority_intro": "If you believe your rights have not been respected, you may lodge a complaint:",
-      "authority_eu_label": "EU/EEA users:",
-      "authority_eu": "with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr",
-      "authority_br_label": "Brazilian users:",
-      "authority_br": "with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd",
-      "authority_note": "Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90)."
+      "authority_intro": "Jika Anda merasa hak Anda belum dihormati, Anda dapat mengajukan keluhan:",
+      "authority_eu_label": "Pengguna UE/EEA:",
+      "authority_eu": "kepada CNIL (Commission Nationale de l'Informatique et des Libertés), Prancis — https://www.cnil.fr",
+      "authority_br_label": "Pengguna Brasil:",
+      "authority_br": "kepada ANPD (Autoridade Nacional de Proteção de Dados), Brasil — https://www.gov.br/anpd",
+      "authority_note": "Mengajukan keluhan kepada otoritas pengawas tidak mengurangi hak Anda untuk mencari upaya hukum lain yang tersedia bagi Anda, termasuk perlindungan konsumen wajib yang berlaku di yurisdiksi Anda (misalnya, Kode Pertahanan Konsumen Brasil, Undang-Undang 8.078/90)."
     },
     "consent": {
-      "title": "13. Persetujuan",
-      "intro": "We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:",
-      "contract": "Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)",
-      "legitimate": "Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment",
-      "legal": "Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)",
-      "consent_basis": "Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6",
-      "specific_label": "Consent must be specific and informed.",
-      "specific": "Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.",
-      "withdrawal_label": "Withdrawal.",
-      "withdrawal": "You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.",
-      "safety": "Legal obligation and legitimate interests (GDPR Art. 6(1)(c) and 6(1)(f); LGPD Art. 7, II and IX) — detection of illegal and policy-violating content, including the child-safety image analysis described in §5.8 and the image-moderation processing in §4.8, prevention of abuse and ban evasion (§5.7), and compliance with legal reporting duties. For the analysis of images shared in direct messages, Jynx also relies on the voluntary detection of online child sexual abuse permitted by Regulation (EU) 2021/1232 (the ePrivacy derogation, as currently in force).",
-      "ad_measurement": "Ad measurement (§5.9): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) where you have enabled it; on Android, alternatively our legitimate interest (LGPD Art. 7, IX and Art. 10) for users shown the ad measurement switch on by default, with your right to object at any time",
-      "location": "Approximate location for the match-distance feature (§5.11): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8), captured by the operating-system location permission together with the in-app location toggle; you may withdraw it at any time (§7.6) — turning the toggle off deletes the stored coordinates"
+      "title": "13. Dasar Hukum dan Persetujuan",
+      "intro": "Kami memproses data pribadi Anda hanya bila kami memiliki dasar hukum. Dasar-dasar hukum yang kami andalkan, dan tempat masing-masing dijelaskan dalam Kebijakan ini, adalah:",
+      "contract": "Pelaksanaan kontrak / penyediaan Layanan (GDPR Pasal 6(1)(b); LGPD Pasal 7, V) — akun, matching, dan pesan (§5.1–5.3)",
+      "legitimate": "Kepentingan sah (GDPR Pasal 6(1)(f); LGPD Pasal 7, IX dan Pasal 10) — keamanan, pencegahan penipuan, peningkatan layanan, dan (bagi pengguna Brasil) komunikasi pemasaran/re-engagement/survei kepada pengguna yang masih ada atau baru berhenti sebagaimana dijelaskan di §5.6, masing-masing didukung penilaian penyeimbangan terdokumentasi",
+      "legal": "Kewajiban hukum (GDPR Pasal 6(1)(c); LGPD Pasal 7, II) — penyimpanan untuk tujuan hukum (§6)",
+      "consent_basis": "Persetujuan (GDPR Pasal 6(1)(a); LGPD Pasal 7, I dan Pasal 8) — analitik bila Anda mengaktifkannya, notifikasi push, dan (bagi pengguna UE/EEA serta pengiriman prospek/cold/cross-sell Brasil) komunikasi pemasaran sesuai §5.6",
+      "specific_label": "Persetujuan harus spesifik dan berdasar informasi.",
+      "specific": "Bila kami bersandar pada persetujuan Anda, persetujuan diberikan melalui tindakan afirmatif yang jelas, merujuk pada tujuan yang ditentukan, dan diambil terpisah dari penerimaan Anda atas ketentuan ini (LGPD Pasal 8 §1 — cláusula destacada). Otorisasi generik atau digabungkan batal berdasarkan LGPD Pasal 8 §4 dan tidak sah berdasarkan GDPR Pasal 4(11) dan Pasal 7. Menggunakan Jynx tidak dengan sendirinya merupakan persetujuan untuk pemasaran. Beban pembuktian persetujuan yang sah ada pada Jynx (LGPD Pasal 8 §2; GDPR Pasal 7(1)); karena itu kami mencatat tanggal, versi formulir, bahasa, dan lingkup setiap persetujuan yang kami kumpulkan.",
+      "withdrawal_label": "Penarikan.",
+      "withdrawal": "Anda dapat menarik persetujuan apa pun kapan saja, melalui prosedur yang semudah pemberiannya dan tidak mengharuskan Anda menghapus akun (LGPD Pasal 8 §5; GDPR Pasal 7(3)) — lihat §7.5 dan §7.6. Penarikan tidak memengaruhi keabsahan pemrosesan yang dilakukan sebelum penarikan. Menghapus akun Anda (§7.3) tetap tersedia kapan saja tetapi bukanlah mekanisme untuk menarik persetujuan tertentu.",
+      "safety": "Kewajiban hukum dan kepentingan sah (GDPR Pasal 6(1)(c) dan 6(1)(f); LGPD Pasal 7, II dan IX) — deteksi konten ilegal dan yang melanggar kebijakan, termasuk analisis gambar keselamatan anak yang dijelaskan di §5.8 dan pemrosesan moderasi gambar di §4.8, pencegahan penyalahgunaan dan ban evasion (§5.7), serta kepatuhan pada kewajiban pelaporan hukum. Untuk analisis gambar yang dibagikan di pesan langsung, Jynx juga bersandar pada deteksi sukarela atas pelecehan seksual anak daring yang diizinkan oleh Regulasi (UE) 2021/1232 (pengecualian ePrivacy, sebagaimana berlaku saat ini).",
+      "ad_measurement": "Pengukuran iklan (§5.9): persetujuan Anda (GDPR Pasal 6(1)(a); LGPD Pasal 7, I dan Pasal 8) bila Anda mengaktifkannya; di Android, sebagai alternatif kepentingan sah kami (LGPD Pasal 7, IX dan Pasal 10) bagi pengguna yang ditampilkan sakelar pengukuran iklan aktif secara bawaan, dengan hak Anda untuk menolak kapan saja",
+      "location": "Lokasi perkiraan untuk fitur jarak match (§5.11): persetujuan Anda (GDPR Pasal 6(1)(a); LGPD Pasal 7, I dan Pasal 8), diambil melalui izin lokasi sistem operasi bersama sakelar lokasi dalam aplikasi; Anda dapat menariknya kapan saja (§7.6) — mematikan sakelar menghapus koordinat yang tersimpan"
     }
   },
   "terms": {
@@ -642,9 +642,9 @@
     },
     "title": "Ketentuan Layanan - Jynx",
     "last_updated_label": "Terakhir Diperbarui:",
-    "last_updated": "12 Oktober 2025",
+    "last_updated": "8 Juli 2026",
     "version_label": "Versi:",
-    "version": "1.0",
+    "version": "1.1",
     "section1": {
       "title": "1. Pendahuluan & Penerimaan",
       "intro": "Selamat datang di Jynx, platform gaming sosial yang menghubungkan pemain, membantu mereka membentuk tim, dan bermain bersama.",
@@ -659,7 +659,7 @@
       "acceptance": "Dengan mengakses atau menggunakan aplikasi Jynx (\"Layanan\", \"Platform\", \"Aplikasi\"), Anda setuju untuk terikat oleh Ketentuan Layanan ini (\"Ketentuan\", \"ToS\"). Jika Anda tidak setuju dengan Ketentuan ini, Anda tidak boleh menggunakan Layanan.",
       "important_label": "PENTING:",
       "important": "Ketentuan ini merupakan perjanjian yang mengikat secara hukum antara Anda dan Jynx Group.",
-      "marketing_consent": "<strong>Separate and optional marketing consent.</strong> Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6."
+      "marketing_consent": "<strong>Persetujuan pemasaran terpisah dan opsional.</strong> Menerima Ketentuan ini bukanlah persetujuan untuk menerima email pemasaran, re-engagement, atau survei. Komunikasi semacam itu memerlukan opt-in terpisah, opsional, dan khusus untuk tujuan tertentu yang dapat Anda berikan atau tolak tanpa kehilangan akses ke Layanan, dan yang dapat Anda tarik kapan saja tanpa menghentikan akun Anda. Pemisahan ini diwajibkan oleh LGPD Pasal 8 §4 (yang membatalkan otorisasi generik atau digabungkan) dan oleh GDPR Pasal 4(11) dan Pasal 7. Ketentuan yang mengatur program email pemasaran dan re-engagement kami, termasuk survei umpan balik uninstall dan churn, diatur di §5.5 di bawah dan di Kebijakan Privasi §5.6."
     },
     "section2": {
       "title": "2. Definisi",
@@ -687,12 +687,12 @@
         "p1": "Selama registrasi, Anda akan diminta untuk memberikan tanggal lahir. Jika Anda berusia di bawah 18 tahun, Anda tidak akan dapat membuat akun atau mengakses Layanan.",
         "enforcement_label": "Penegakan:",
         "enforcement": "Gerbang usia kami secara otomatis memblokir pembuatan akun untuk pengguna di bawah 18 tahun. Jika kami menemukan bahwa Anda telah memberikan informasi palsu tentang usia Anda, akun Anda akan segera dihentikan.",
-        "minors": "<strong>No marketing to minors.</strong> If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8)."
+        "minors": "<strong>Tanpa pemasaran kepada anak di bawah umur.</strong> Jika kami mengidentifikasi bahwa pemegang akun berusia di bawah 18 tahun, akun segera dihentikan dan pengguna dikeluarkan dari semua komunikasi pemasaran, re-engagement, dan survei berdasarkan §5.5 (lihat juga Kebijakan Privasi §2; LGPD Pasal 14; GDPR Pasal 8)."
       },
       "creation": {
         "title": "3.2. Pembuatan Akun",
         "intro": "Untuk menggunakan Jynx, Anda harus membuat akun dengan memberikan:",
-        "li1": "A valid email address OR authentication via Google/Apple",
+        "li1": "Alamat email yang valid ATAU autentikasi via Google/Apple",
         "li2": "Username unik",
         "li3": "Tanggal lahir Anda (untuk verifikasi usia)",
         "li4": "Informasi profil (negara, zona waktu, bahasa, preferensi gaming)",
@@ -763,9 +763,9 @@
         "privacy": {
           "title": "Pelanggaran Privasi:",
           "li1": "Berbagi informasi pribadi pengguna lain tanpa persetujuan (doxxing)",
-          "li2": "Tangkapan layar atau berbagi percakapan pribadi tanpa izin",
+          "li2": "Mengambil tangkapan layar atau membagikan percakapan pribadi tanpa izin",
           "li3": "Mengumpulkan atau memanen data pengguna tanpa otorisasi",
-          "li4": "Record, capture, or redistribute another member's shared screen without their consent"
+          "li4": "Merekam, menangkap, atau mendistribusikan ulang layar yang dibagikan anggota lain tanpa persetujuan mereka"
         },
         "content_violations": {
           "title": "Pelanggaran Konten:",
@@ -773,7 +773,7 @@
           "li2": "Berbagi konten kekerasan, grafis, atau mengganggu",
           "li3": "Memposting konten yang melibatkan anak di bawah umur dalam kapasitas apa pun",
           "li4": "Mendistribusikan materi berhak cipta tanpa izin",
-          "li5": "Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen"
+          "li5": "Menggunakan screen sharing untuk mentransmisikan konten yang melanggar Ketentuan ini — semua larangan di bagian ini berlaku sepenuhnya pada apa yang terlihat di layar yang Anda bagikan"
         },
         "manipulation": {
           "title": "Manipulasi Platform:",
@@ -788,7 +788,7 @@
         "username_reset": "Apabila nama pengguna, nama tampilan, handle, atau media profil (avatar, foto) Anda melanggar Ketentuan ini — termasuk menyamar sebagai orang, merek, atau lembaga nyata, penyalahgunaan merek dagang, atau identitas yang menyesatkan — kami berhak mengganti nama akun Anda menjadi penanda generik, mengatur ulang atau menghapus media yang melanggar, dan memberi tahu Anda tentang perubahan tersebut. Hal ini tidak memengaruhi hak Anda untuk mengajukan banding sesuai Bagian 7.4."
       },
       "rate_limiting": {
-        "title": "4.3. Rate Limiting & Anti-Spam",
+        "title": "4.3. Pembatasan Rate & Anti-Spam",
         "intro": "Untuk melindungi platform dan pengalaman pengguna, kami menegakkan batasan rate:",
         "client_label": "Sisi klien:",
         "client": "10 pesan per menit (sliding window)",
@@ -888,29 +888,29 @@
         "notification": "Anda akan diberi tahu tentang penghapusan konten bila memungkinkan."
       },
       "marketing_program": {
-        "title": "5.5. Marketing & Re-engagement Email Program",
-        "note": "(Note: §5.2 \"Marketing & Promotional Use\" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)",
-        "intro": "Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:",
-        "basis_label": "Legal basis by cohort.",
-        "eu_label": "EU/EEA users:",
-        "eu": "we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.",
-        "br_label": "Brazilian users:",
-        "br": "we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.",
-        "surveys_label": "Uninstall / churn surveys.",
-        "surveys": "We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.",
-        "unsubscribe_label": "One-click unsubscribe.",
-        "unsubscribe": "Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.",
-        "erasure_label": "Erasure and suppression.",
-        "erasure": "If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.",
-        "children_label": "Children.",
-        "children": "We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).",
-        "esp_label": "Email service provider.",
-        "esp": "We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).",
-        "consumer_rights": "This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code."
+        "title": "5.5. Program Email Pemasaran & Re-engagement",
+        "note": "(Catatan: §5.2 \"Penggunaan Pemasaran & Promosi\" mengatur penggunaan ulang Konten Pengguna dalam materi pemasaran Jynx. §5.5 ini mengatur pengiriman email pemasaran, re-engagement, dan survei oleh Jynx kepada Anda — ini adalah subjek yang berbeda dan tidak dicakup oleh §5.2.)",
+        "intro": "Tunduk pada Kebijakan Privasi §5.6 Komunikasi Pemasaran, Jynx dapat mengirimkan email pemasaran, re-engagement, dan survei uninstall/churn kepada Anda sebagaimana dijelaskan pada bagian tersebut. Program ini beroperasi dengan ketentuan berikut:",
+        "basis_label": "Dasar hukum per kohort.",
+        "eu_label": "Pengguna UE/EEA:",
+        "eu": "kami mengirim email pemasaran dan re-engagement hanya dengan persetujuan opt-in eksplisit Anda terlebih dahulu (ePrivacy Directive Pasal 13(1) / CPCE Pasal L. 34-5; GDPR Pasal 6(1)(a)). Setelah diluncurkannya langganan berbayar dan Founder Packs, Layanan kini menjadi layanan berbayar dalam arti ePrivacy Directive Pasal 13(2) / CPCE Pasal L. 34-5, sehingga pengecualian soft-opt-in pada prinsipnya tersedia untuk produk dan layanan serupa bagi pelanggan yang sudah ada. Sebagai sikap konservatif, kami terus bersandar pada persetujuan opt-in eksplisit Anda terlebih dahulu dan tidak akan beralih ke dasar soft-opt-in tanpa penilaian terdokumentasi yang dicatat dalam Catatan Aktivitas Pemrosesan kami dan pemberitahuan yang diperbarui kepada Anda.",
+        "br_label": "Pengguna Brasil:",
+        "br": "kami mengirim email pemasaran dan re-engagement atas dasar (i) persetujuan Anda (LGPD Pasal 7 I dan Pasal 8) untuk setiap pengiriman prospek, cold, atau cross-sell/mitra, atau (ii) kepentingan sah kami (LGPD Pasal 7 IX dan Pasal 10), didukung Legitimate Interests Assessment terdokumentasi mengikuti ANPD Legitimate Interest Guide (2 Feb 2024), bagi pengguna yang masih ada atau baru berhenti yang menerima pembaruan produk, re-engagement, atau satu survei churn/uninstall singkat tentang aplikasi Jynx.",
+        "surveys_label": "Survei uninstall / churn.",
+        "surveys": "Kami lebih memilih mengajukan pertanyaan uninstall/churn dalam aplikasi pada saat uninstall. Bila survei email dikirim: survei tidak memuat konten promosi atau re-engagement; kami mengirim maksimal satu (1) survei per pengguna dalam sekitar 60 hari setelah uninstall atau penghapusan akun; dan alamat email kemudian dihapus atau dianonimkan sesuai Kebijakan Privasi §6.",
+        "unsubscribe_label": "Unsubscribe satu klik.",
+        "unsubscribe": "Setiap email pemasaran menyertakan mekanisme unsubscribe satu klik yang berfungsi (RFC 8058), yang dihormati secara waktu nyata. Anda juga dapat menarik persetujuan atau menolak melalui Pengaturan > Privasi > Preferensi Komunikasi atau dengan email ke dpo@jynx.app, tanpa menghentikan akun Anda dan tanpa biaya (LGPD Pasal 8 §5; GDPR Pasal 7(3) dan Pasal 21(2)). Kami menghormati Kode Pertahanan Konsumen Brasil (Undang-Undang 8.078/90, khususnya Pasal 39 III) dan tidak mengirim pesan yang tidak diminta atau bersifat kasar; pengiriman terus-menerus setelah opt-out dilarang.",
+        "erasure_label": "Penghapusan dan supresi.",
+        "erasure": "Jika Anda menggunakan hak penghapusan (Kebijakan Privasi §7.3 / GDPR Pasal 17 / LGPD Pasal 18(VI) untuk data berbasis persetujuan), alamat email Anda dihapus dari semua jalur pemasaran dan ditambahkan ke daftar supresi ter-hash permanen; Anda tidak akan dihubungi kembali atau disurvei, termasuk melalui daftar impor atau daftar pihak ketiga apa pun. Sekadar penghapusan akun atau uninstall (tanpa permintaan penghapusan) tidak dengan sendirinya memicu supresi permanen — lihat Kebijakan Privasi §6 untuk jendela penyimpanan dan re-engagement yang berlaku.",
+        "children_label": "Anak-anak.",
+        "children": "Kami tidak pernah dengan sengaja mengirim pemasaran kepada anak di bawah umur; setiap akun yang teridentifikasi milik pengguna di bawah 18 tahun dihentikan dan dikeluarkan dari program ini (Kebijakan Privasi §2; LGPD Pasal 14; GDPR Pasal 8).",
+        "esp_label": "Penyedia layanan email.",
+        "esp": "Kami menggunakan penyedia layanan email pihak ketiga (pemroses) di bawah Perjanjian Pemrosesan Data, disebutkan di Kebijakan Privasi §4.4 dan §9 Layanan Pihak Ketiga (§9.5).",
+        "consumer_rights": "Klausul ini tidak mengurangi hak perlindungan konsumen wajib apa pun yang Anda miliki berdasarkan hukum negara tempat Anda tinggal, termasuk Kode Pertahanan Konsumen Brasil."
       },
       "activity_notifications": {
-        "title": "5.6. Account-Activity Notifications",
-        "p1": "<strong>Account-activity notifications.</strong> Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up."
+        "title": "5.6. Notifikasi Aktivitas Akun",
+        "p1": "<strong>Notifikasi aktivitas akun.</strong> Jynx mengirimkan notifikasi tentang aktivitas akun Anda (pesan baru, match, like), termasuk melalui email saat Anda melewatkannya di aplikasi. Menerima Ketentuan ini bukanlah persetujuan untuk menerima email pemasaran: komunikasi pemasaran (seperti email re-engagement dan berita kami) hanya dikirim dengan pendaftaran terpisah dan opsional dari Anda."
       }
     },
     "section6": {
@@ -997,14 +997,14 @@
         "title": "7.2. Efek Penghentian",
         "intro": "Setelah penghentian akun:",
         "li1": "Anda kehilangan akses ke akun dan semua data terkait",
-        "li2": "Data pengguna Anda dinonaktifkan sesuai dengan GDPR",
+        "li2": "Data pengguna Anda dianonimkan sesuai dengan GDPR",
         "li3": "Akun Firebase Authentication Anda dihapus",
         "li4": "Token OAuth (Google, Apple) secara otomatis dicabut",
         "refund": "Kebijakan Pengembalian Dana: Tidak ada pengembalian dana yang diberikan untuk langganan premium atau item virtual (kosmetik) ketika akun Anda dihentikan karena pelanggaran Ketentuan ini.",
-        "li5": "Your email address is purged from our marketing CRM and email service provider",
-        "li6": "If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list",
-        "li7": "Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized",
-        "marketing": "The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2)."
+        "li5": "Alamat email Anda dibersihkan dari CRM pemasaran dan penyedia layanan email kami",
+        "li6": "Jika penghentian Anda menyertakan permintaan penghapusan / hak untuk dilupakan (Kebijakan Privasi §7.3), alamat email Anda ditambahkan ke daftar supresi ter-hash permanen dan tidak akan pernah digunakan untuk pemasaran, re-engagement, atau survei, termasuk melalui daftar impor atau daftar pihak ketiga apa pun",
+        "li7": "Sekadar penghapusan akun atau uninstall (tanpa permintaan penghapusan) tidak menahan re-engagement secara permanen; jendela penyimpanan dan re-engagement di Kebijakan Privasi §6 berlaku, setelah itu alamat dihapus atau dianonimkan",
+        "marketing": "Langkah-langkah penanganan data di atas dijelaskan di bawah GDPR maupun LGPD; hak penghapusan pengguna Brasil diatur oleh LGPD Pasal 18 (catat bahwa penghapusan Pasal 18(VI) berlaku untuk data yang diproses atas dasar persetujuan, sedangkan data yang diproses atas kepentingan sah diatur oleh pembatasan tujuan berdasarkan Pasal 6 II dan hak untuk meminta penghentian pemrosesan berdasarkan Pasal 18 §2)."
       },
       "user_deletion": {
         "title": "7.3. Penghapusan yang Diprakarsai Pengguna",
@@ -1059,9 +1059,9 @@
       },
       "refunds": {
         "title": "8.3. Pengembalian Dana & Pembatalan",
-        "eu_title": "EU Consumer Rights (Right of Withdrawal):",
+        "eu_title": "Hak Konsumen UE (Hak Penarikan):",
         "eu": {
-          "p1": "If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state."
+          "p1": "Jika Anda adalah konsumen di Uni Eropa, Anda pada umumnya memiliki hak penarikan 14 hari untuk kontrak jarak jauh berdasarkan Consumer Rights Directive. Namun, untuk konten digital yang penyediaannya telah dimulai dengan persetujuan tegas Anda terlebih dahulu dan pengakuan Anda bahwa dengan demikian Anda kehilangan hak penarikan — yang mencakup entitlement Jynx+, item kosmetik, dan Founder Packs, yang penyediaannya dimulai segera setelah pembelian — hak penarikan tersebut hilang sesuai Pasal 16(m) Consumer Rights Directive dan Pasal L221-28 13° Code de la consommation Prancis. Tidak ada dalam Ketentuan ini yang mencabut hak konsumen wajib apa pun yang tidak dapat dilepaskan berdasarkan hukum negara anggota UE Anda."
         },
         "policy_title": "Kebijakan Pengembalian Dana:",
         "policy": {
@@ -1070,8 +1070,8 @@
           "li3": "Transaksi Tidak Sah: Laporkan transaksi tidak sah segera ke dpo@jynx.app dan penyedia pembayaran Anda",
           "li4": "Tidak Ada Pengembalian Dana untuk: Penghentian akun karena pelanggaran Ketentuan, perubahan pikiran setelah menggunakan fitur premium lebih dari 14 hari"
         },
-        "br_title": "Brazilian Consumers:",
-        "br": "If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC."
+        "br_title": "Konsumen Brasil:",
+        "br": "Jika Anda adalah konsumen di Brasil, Anda berhak menarik diri dari kontrak jarak jauh dalam 7 hari sejak penerimaan berdasarkan Pasal 49 Kode Pertahanan Konsumen Brasil (CDC), dapat digunakan tanpa justifikasi, dan hak ini tidak dapat dilepaskan. Untuk item digital yang penyediaannya telah dimulai atas permintaan tegas Anda, jumlah yang dikembalikan saat penarikan memperhitungkan apa yang telah disediakan, sesuai CDC Pasal 49 §2°. Mekanisme pengembalian dana untuk pembelian melalui App Store atau Google Play mengikuti kebijakan pengembalian dana toko yang berlaku. Tidak ada dalam Ketentuan ini yang mengecualikan atau membatasi perlindungan konsumen wajib dari CDC."
       }
     },
     "section9": {
@@ -1081,7 +1081,7 @@
         "title": "9.1. Layanan Firebase (Google)",
         "intro": "Kami menggunakan Firebase untuk:",
         "li1": "Autentikasi",
-        "li2": "Cloud Firestore (database)",
+        "li2": "Cloud Firestore (basis data)",
         "li3": "Cloud Storage (gambar)",
         "li4": "Cloud Functions (logika backend)",
         "li5": "Cloud Messaging (notifikasi push)",
@@ -1091,36 +1091,36 @@
       },
       "sentry": {
         "title": "9.2. Sentry (Pemantauan Error)",
-        "p1": "Kami menggunakan Sentry untuk pelacakan error dan pemantauan performa. Data dinonaktifkan sebelum dikirim ke Sentry."
+        "p1": "Kami menggunakan Sentry untuk pelacakan error dan pemantauan performa. Data dianonimkan sebelum dikirim ke Sentry."
       },
       "riot": {
         "title": "9.3. Riot Games API",
         "p1": "Kami menggunakan Riot Games API untuk mengambil statistik gaming (League of Legends, Valorant, dll.)."
       },
       "oauth": {
-        "title": "9.4. OAuth Providers",
+        "title": "9.4. Penyedia OAuth",
         "intro": "Kami menawarkan autentikasi melalui:",
         "li1": "Google Sign-In",
         "li2": "Apple Sign-In"
       },
       "responsibility": "Anda bertanggung jawab untuk mematuhi ketentuan layanan pihak ketiga ini.",
       "esp": {
-        "title": "9.5. Email Service Provider",
-        "intro": "We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.",
-        "responsibility": "You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours."
+        "title": "9.5. Penyedia Layanan Email",
+        "intro": "Kami menggunakan penyedia layanan email pihak ketiga untuk mengirimkan komunikasi pemasaran, re-engagement, dan survei uninstall/churn sebagaimana dijelaskan di §5.5 serta di Kebijakan Privasi §5.6 dan §4.4. Penyedia bertindak sebagai pemroses kami di bawah Perjanjian Pemrosesan Data dan hanya memproses data Anda atas instruksi terdokumentasi kami. Identitas, lokasi, sub-pemroses, dan mekanisme transfer internasional yang berlaku dari penyedia dijelaskan di Kebijakan Privasi §4.4 dan §9.",
+        "responsibility": "Anda tetap bertanggung jawab mematuhi ketentuan layanan pihak ketiga mana pun tempat Anda memiliki akun sendiri; penyedia layanan email adalah vendor Jynx, bukan vendor Anda."
       },
       "livekit": {
-        "title": "9.6. LiveKit (Real-Time Voice)",
-        "p1": "Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9."
+        "title": "9.6. LiveKit (Suara Waktu Nyata)",
+        "p1": "Jynx menggunakan LiveKit Cloud untuk menyediakan ruang suara waktu nyata. LiveKit bertindak sebagai pemroses kami untuk audio ruang suara di bawah Perjanjian Pemrosesan Data yang telah ditandatangani dan hanya memproses data atas instruksi terdokumentasi dari Jynx. Seperti dijelaskan di Kebijakan Privasi §4.5 dan §3.6, audio ruang suara dirutekan secara waktu nyata dan tidak direkam, disimpan, atau dipertahankan oleh Jynx maupun LiveKit. Mekanisme transfer internasional yang berlaku (Data Processing Addendum LiveKit, yang memasukkan klausul kontraktual standar UE) dan postur perutean global LiveKit dijelaskan di Kebijakan Privasi §9."
       },
       "rekognition": {
-        "title": "9.7. AWS Rekognition (Image Moderation)",
-        "p1": "Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9."
+        "title": "9.7. AWS Rekognition (Moderasi Gambar)",
+        "p1": "Jynx menggunakan Amazon Web Services (AWS) Rekognition untuk memindai gambar profil yang diunggah pengguna dari ketelanjangan dan konten lain yang melanggar kebijakan. AWS Rekognition bertindak sebagai pemroses kami di bawah Perjanjian Pemrosesan Data yang telah ditandatangani dan hanya memproses byte gambar atas instruksi terdokumentasi dari Jynx. Data yang diproses, postur penyimpanan (tanpa penyimpanan gambar terpisah oleh AWS), dan mekanisme transfer internasional yang berlaku dijelaskan di Kebijakan Privasi §4.8 dan §9."
       },
       "meta": {
-        "title": "9.8. Meta (Advertising Attribution)",
-        "p1": "We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.",
-        "p2": "If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9."
+        "title": "9.8. Meta (Atribusi Iklan)",
+        "p1": "Kami menggunakan Meta (Facebook) App Events SDK untuk mengukur apakah instalasi aplikasi berasal dari pemasaran kami; di perangkat Apple, SDK hanya diinisialisasi setelah Anda memberikan izin App Tracking Transparency. Meta Platforms Ireland memproses metadata peristiwa aplikasi yang dihasilkan atas instruksi Jynx sebagai pemroses untuk atribusi dan pengukuran kampanye, dan Meta Platforms, Inc. dapat pula bertindak sebagai pengendali independen untuk tujuan sahnya sendiri di bawah ketentuannya sendiri. Data yang diproses, syarat persetujuan, dan mekanisme transfer yang berlaku dijelaskan di Kebijakan Privasi §4.9 dan §9.",
+        "p2": "Jika Anda menerima, Jynx juga membagikan peristiwa konversi terbatas (seperti pendaftaran dan pembelian, beserta jumlahnya) dengan Meta untuk mengukur dan meningkatkan periklanan kami. Data Anda tidak pernah dijual. Di iPhone dan iPad ini memerlukan persetujuan Anda (GDPR Pasal 6(1)(a); LGPD Pasal 7, I). Di Android ini didasarkan pada persetujuan tersebut atau, bila sakelar pengukuran iklan ditampilkan kepada Anda aktif secara bawaan, atas kepentingan sah Jynx (LGPD Pasal 7, IX dan Pasal 10). Anda dapat mengubah pilihan Anda kapan saja di pengaturan Privasi: Pengaturan > Privasi > Pengukuran iklan. Detailnya, termasuk SKAdNetwork milik Apple (yang berlaku bagi setiap pengguna iOS, bahkan saat pelacakan atau pengukuran iklan ditolak), dijelaskan di Kebijakan Privasi §5.9."
       }
     },
     "section10": {
@@ -1170,11 +1170,11 @@
       "law": {
         "title": "12.1. Hukum yang Mengatur",
         "p1": "Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Prancis dan peraturan Uni Eropa yang berlaku, tanpa memperhatikan prinsip konflik hukum.",
-        "regulations": "Peraturan yang Berlaku: Kode Sipil Prancis (Code civil), Kode Konsumen Prancis (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive."
+        "regulations": "Peraturan yang Berlaku: Kode Sipil Prancis (Code civil), Kode Konsumen Prancis (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive, dan — bagi subjek data yang berlokasi di Brasil — Undang-Undang Perlindungan Data Pribadi Umum Brasil (Lei Geral de Proteção de Dados, Undang-Undang 13.709/2018, \"LGPD\") dan Kode Pertahanan Konsumen Brasil (Código de Defesa do Consumidor, Undang-Undang 8.078/90, \"CDC\")."
       },
       "jurisdiction": {
         "title": "12.2. Yurisdiksi",
-        "p1": "Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC."
+        "p1": "Setiap sengketa yang timbul dari Ketentuan ini atau Layanan dapat diajukan ke pengadilan yang berwenang di Nantes, Prancis. Hal ini tidak mengurangi hak wajib apa pun yang mungkin Anda miliki berdasarkan hukum negara tempat Anda tinggal untuk mengajukan gugatan di negara tersebut — khususnya, bagi konsumen di UE, hak-hak yang bersumber dari Pasal 17 sampai 19 Regulasi Brussels I bis dan dari hukum perlindungan konsumen negara anggota Anda yang berlaku, serta, bagi konsumen Brasil, ketentuan-ketentuan CDC."
       },
       "resolution": {
         "title": "12.3. Penyelesaian Sengketa & Arbitrase",
@@ -1186,12 +1186,12 @@
           "li2": "Negosiasi Informal: Kami akan bekerja dengan Anda dengan itikad baik untuk mencapai resolusi damai dalam 30 hari",
           "li3": "Mediasi (Opsional): Jika resolusi informal gagal, Anda dapat mengusulkan mediasi melalui mediator pihak ketiga yang netral"
         },
-        "adr_consumer": "<strong>Consumer ADR (EU/France):</strong> In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court."
+        "adr_consumer": "<strong>ADR Konsumen (UE/Prancis):</strong> Sesuai Pasal L. 612-1 dan L. 616-6 Code de la consommation Prancis, Jynx Group SAS menunjuk Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, Prancis; tel. +33 1 89 47 00 14; https://www.cm2c.net — sebuah entitas mediasi konsumen yang dirujuk oleh Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), sebagai médiateur de la consommation untuk penyelesaian sengketa konsumen secara damai. Sebelum mengajukan ke mediator, Anda terlebih dahulu harus menyampaikan keluhan Anda kepada kami di dpo@jynx.app agar kami dapat mencoba menyelesaikannya. Mediasi gratis bagi Anda sebagai konsumen, dilakukan dalam bahasa Prancis, dan mengikuti prosedur yang dipublikasikan di situs web mediator (https://www.cm2c.net); mediator menjalankan proses dalam 90 hari sejak menerima permohonan. Anda setiap saat tetap memiliki hak untuk membawa sengketa ke pengadilan."
       },
       "eu_rights": {
         "title": "12.4. Hak Konsumen UE",
         "intro": "Jika Anda adalah konsumen di Uni Eropa, Anda mempertahankan semua hak konsumen wajib di bawah hukum UE, termasuk:",
-        "li1": "14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)",
+        "li1": "Hak penarikan 14 hari untuk kontrak jarak jauh, dengan tunduk pada hilangnya hak tersebut secara undang-undang untuk konten digital setelah penyediaan dimulai dengan persetujuan Anda (lihat Bagian 8.5)",
         "li2": "Hak untuk remedi untuk produk atau layanan yang cacat",
         "li3": "Perlindungan terhadap ketentuan kontrak yang tidak adil",
         "li4": "Hak untuk mengajukan keluhan kepada otoritas perlindungan konsumen lokal Anda"
@@ -1201,8 +1201,8 @@
         "p1": "Praktik data kami mematuhi General Data Protection Regulation (GDPR). Lihat Kebijakan Privasi kami untuk detail tentang pengumpulan data, pemrosesan, penyimpanan, hak Anda, dan cara menghubungi Petugas Perlindungan Data kami."
       },
       "lgpd": {
-        "title": "12.6. LGPD Compliance (Brazilian Users)",
-        "p1": "For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law."
+        "title": "12.6. Kepatuhan LGPD (Pengguna Brasil)",
+        "p1": "Bagi subjek data yang berlokasi di Brasil, praktik data kami juga mematuhi LGPD (Lei Geral de Proteção de Dados, Undang-Undang 13.709/2018), yang berlaku berdasarkan Pasal 3-nya terlepas dari kedudukan Jynx di Prancis. Pengguna Brasil memiliki hak-hak yang diatur di Kebijakan Privasi §7.7 dan dapat mengajukan keluhan kepada ANPD (Autoridade Nacional de Proteção de Dados). Tidak ada dalam Ketentuan ini yang mencabut perlindungan konsumen wajib yang diberikan oleh CDC dari pengguna Brasil, termasuk larangan pesan komersial yang tidak diminta atau bersifat kasar dalam CDC Pasal 39 III. Untuk menghindari keraguan, klausul yurisdiksi eksklusif di §12.2 (pengadilan Nantes, Prancis) tetap berlaku untuk sengketa yang timbul dari atau berkaitan dengan Ketentuan ini, tanpa mengurangi hak perlindungan konsumen wajib apa pun yang tidak dapat dilepaskan berdasarkan hukum setempat konsumen."
       }
     },
     "section13": {
@@ -1268,44 +1268,44 @@
     },
     "final_acknowledgment": "Dengan menggunakan Jynx, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Ketentuan Layanan ini.",
     "section15": {
-      "title": "15. Creator (Partner) Program",
-      "p1": "If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.",
-      "p2": "The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10."
+      "title": "15. Program Kreator (Mitra)",
+      "p1": "Jika Anda berpartisipasi dalam program Kreator (mitra) Jynx, penggunaan program oleh Anda tambahan pula diatur oleh Creator Referral Terms dan Self-Billing Mandate versi yang Anda terima saat pendaftaran (setiap versi yang diterima tidak dapat diubah setelah diterima), disajikan dalam aplikasi beserta pengenal versinya. Bila terjadi konflik, untuk hal-hal program, Creator Terms yang berlaku; selain itu Ketentuan ini dan Kebijakan Privasi yang berlaku.",
+      "p2": "Informasi identitas, pembayaran, dan pajak yang diwajibkan program — seperti identifikasi CPF atau CNPJ dan jalur pembayaran pilihan Anda (PayPal, Wise, atau Pix) — serta para pemroses yang terlibat dijelaskan di Kebijakan Privasi §4.10."
     }
   },
   "nav": {
     "home": "Beranda",
-    "solution": "Solusi",
-    "feedback": "Umpan Balik",
+    "solution": "Fitur",
+    "feedback": "Kontak",
     "download": "Unduh",
     "blog": "Blog",
-    "games": "Games",
+    "games": "Game",
+    "glossary": "Glosarium",
     "search": "Cari",
     "search_aria": "Cari artikel",
-    "glossary": "Glossary",
     "open_jynx": "Buka Jynx"
   },
   "header": {
     "cta": "Dapatkan Jynx"
   },
   "hero": {
-    "title": "The Next-Gen Companion App for Gamers",
-    "deck": "MATCH. TALK. PLAY. — native voice rooms where the squad formed.",
-    "app_store_small": "Download di",
-    "app_store_large": "App Store",
-    "play_store_small": "DAPATKAN DI",
-    "play_store_large": "Google Play",
-    "macos_note": "Mac app on the way."
+    "title": "Aplikasi Pendamping Gamer Generasi Baru",
+    "deck": "MATCH. NGOBROL. MAIN. — ruang voice native tempat squad terbentuk.",
+    "app_store_small": "Unduh untuk",
+    "app_store_large": "Apple iOS",
+    "play_store_small": "Unduh untuk",
+    "play_store_large": "Android",
+    "macos_note": "Aplikasi Mac sedang meluncur."
   },
   "proof": {
-    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
-    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
+    "summary": "Dinilai {play_rating} di Google Play di {market} ({play_count} rating, {downloads} instalasi) · Baru di App Store · per {as_of_month_year}.",
+    "fallback": "Baru di Google Play dan App Store — rating toko dan jumlah instalasi muncul di sini seiring bertumbuhnya komunitas."
   },
   "features": {
     "title": "Bermain Lebih Baik, Bersama",
     "subtitle": "Alat komunitas gaming cerdas yang dirancang untuk pemain modern",
     "description": "Berhenti berteriak ke kekosongan. Jynx mengubah gaming solo menjadi pengalaman sosial dengan secara cerdas menghubungkan rekan tim berdasarkan preferensi gaming, gaya bermain, dan kompatibilitas jadwal",
-    "destination": "Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.",
+    "destination": "Temukan, match, dan ngobrol di satu tempat: Jynx memadukan matchmaking dengan ruang voice native, sehingga squad terbentuk dan bermain di aplikasi yang sama.",
     "cards": {
       "scheduling": {
         "title": "Matchmaking Cerdas",
@@ -1330,7 +1330,7 @@
     "intelligent_matchmaking": {
       "title": "Matchmaking Cerdas",
       "subtitle": "Temukan rekan tim gaming sempurna dalam hitungan detik. Cocokkan berdasarkan level skill, gaya bermain, dan kompatibilitas jadwal. Tidak ada lagi spam LFG.",
-      "title_seo": "Smart Gaming Matchmaking",
+      "title_seo": "Matchmaking Gaming Cerdas",
       "subtitle_header": "Temukan Rekan Tim yang Sesuai dengan Level Skill & Gaya Bermain Anda",
       "subtitle_seo": "Algoritma matchmaking cerdas kami menganalisis profil gaming Anda, level skill (ELO), gaya bermain yang disukai, dan ketersediaan untuk menemukan squad gaming sempurna dalam hitungan detik. Tidak perlu lagi menjelajahi posting LFG tanpa akhir atau menunggu di lobi kosong. Biarkan sistem kami melakukan pekerjaan dan menghubungkan Anda dengan rekan tim yang kompatibel secara otomatis."
     },
@@ -1380,7 +1380,7 @@
     },
     "optional": "Opsional",
     "submitting": "Mengirim...",
-    "success": "You're in! Thanks for signing up.",
+    "success": "Anda masuk! Terima kasih sudah mendaftar.",
     "error": "Ups! Terjadi kesalahan. Silakan coba lagi.",
     "errors": {
       "permission_denied": "Anda tidak memiliki izin untuk mengirim formulir ini.",
@@ -1401,21 +1401,21 @@
     "title": "Saran Anda, prioritas kami",
     "feedback": "Pesan Anda (opsional)",
     "feedback_label": "Pesan Anda",
-    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
+    "subtitle": "Tanpa spam. Kami hanya akan menghubungi Anda dengan kabar dan pembaruan Jynx yang penting.",
     "yes": "Ya",
     "no": "Tidak",
     "textarea": "Beri tahu kami pendapat Anda...",
     "submit": "Kirim",
     "note": "Gratis selamanya",
     "submitting": "Mengirim...",
-    "thanks_feedback": "Thanks for your feedback!",
-    "thanks_combined": "Thanks for your feedback — it means a lot!",
+    "thanks_feedback": "Terima kasih atas umpan balik Anda!",
+    "thanks_combined": "Terima kasih atas umpan balik Anda — sangat berarti bagi kami!",
     "error": "Tidak dapat mengirim umpan balik. Silakan coba lagi.",
     "error_empty": "Harap berikan email atau umpan balik Anda.",
     "badge_free": "Gratis selamanya",
     "badge_notoxic": "Tanpa toksisitas",
     "badge_community": "Didorong oleh komunitas",
-    "thanks_email": "Thanks! We'll be in touch."
+    "thanks_email": "Terima kasih! Kami akan menghubungi Anda."
   },
   "footer": {
     "company": {
@@ -1423,13 +1423,13 @@
       "about": "Tentang Kami",
       "about_seo": "Tentang Platform Gaming Jynx",
       "blog": "Blog",
-      "games": "Games",
-      "glossary": "Glossary",
+      "games": "Game",
+      "glossary": "Glosarium",
       "search": "Cari"
     },
     "support": {
       "title": "Dukungan",
-      "contact": "Contact Us"
+      "contact": "Hubungi Kami"
     },
     "legal": {
       "title": "Hukum",
@@ -1444,7 +1444,7 @@
       "title": "Unduh",
       "app_store": "App Store",
       "google_play": "Google Play",
-      "web_app": "Web App"
+      "web_app": "Aplikasi Web"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Hak cipta dilindungi undang-undang.",
     "language": "Bahasa"
@@ -1462,8 +1462,8 @@
     "theme_toggle": "Toggle mode gelap",
     "language_selector": "Pilih bahasa",
     "close_modal": "Tutup modal",
-    "ms_store_badge_aria": "Download Jynx on the Microsoft Store",
-    "ms_store_badge_alt": "Microsoft Store download badge"
+    "ms_store_badge_aria": "Unduh Jynx di Microsoft Store",
+    "ms_store_badge_alt": "Lencana unduh Microsoft Store"
   },
   "breadcrumb": {
     "home": "Beranda",
@@ -1473,7 +1473,7 @@
     "terms": "Ketentuan Layanan",
     "blog": "Blog",
     "delete_account": "Hapus Akun",
-    "invite": "Invite"
+    "invite": "Undangan"
   },
   "faq": {
     "title": "Pertanyaan yang Sering Diajukan Tentang Gaming Matchmaking",
@@ -1483,23 +1483,23 @@
     "cta_button": "Hubungi Kami!",
     "q1": {
       "question": "Apakah ada aplikasi seperti Tinder untuk gamer mencari rekan tim?",
-      "answer": "Ya, dan sudah saatnya. LFG tradisional itu rusak — kamu spam di channel Discord, posting di subreddit dari 3 hari lalu, dan berharap seseorang yang berbicara bahasamu dan bermain di rankmu benar-benar online saat kamu online. Itu bukan sistem, itu judi dengan waktumu.<br><br>Jynx memungkinkanmu memfilter yang benar-benar penting: jadwal yang kompatibel, level skill yang serupa, dan preferensi gaming yang sama. Kamu swipe calon rekan tim yang memenuhi kriteria KAMU, skip cold messaging yang canggung, dan hanya terhubung dengan pemain yang genuinely tersedia saat kamu ingin bermain.<br><br>Bedanya? Kamu tidak berteriak ke kekosongan berharap seseorang merespons. Kamu hanya melihat orang yang sudah sesuai dengan ketersediaanmu, berbicara bahasamu, dan bermain game-mu. Lebih sedikit waktu spam 'LFG' di chat, lebih banyak waktu in-game dengan orang yang benar-benar ingin kamu ajak bermain lagi."
+      "answer": "Ya, dan sudah saatnya. LFG tradisional itu rusak — kamu spam channel LFG, posting di subreddit dari 3 hari lalu, dan berharap seseorang yang berbicara bahasamu dan bermain di rankmu benar-benar online saat kamu online. Itu bukan sistem, itu judi dengan waktumu.<br><br>Jynx memungkinkanmu memfilter yang benar-benar penting: jadwal yang kompatibel, level skill yang serupa, dan preferensi gaming yang sama. Kamu swipe calon rekan tim yang memenuhi kriteria KAMU, lewati cold messaging yang canggung, dan hanya terhubung dengan pemain yang benar-benar tersedia saat kamu ingin bermain.<br><br>Bedanya? Kamu tidak berteriak ke kekosongan berharap seseorang merespons. Kamu hanya melihat orang yang sudah sesuai dengan ketersediaanmu, berbicara bahasamu, dan bermain game-mu. Lebih sedikit waktu spam 'LFG' di chat, lebih banyak waktu in-game dengan orang yang benar-benar ingin kamu ajak bermain lagi. Dan saat kalian berdua swipe kanan, ruang voice hanya satu ketukan jauhnya — di dalam aplikasi."
     },
     "q2": {
       "question": "Bagaimana cara bertemu gamer online dan membangun grup teman gaming?",
-      "answer": "Menemukan gamer itu mudah. Menemukan gamer yang TEPAT — di situlah semua orang gagal.<br><br>Kamu butuh rekan tim yang tersedia saat kamu bermain, berkomunikasi dalam bahasamu, dan sesuai level skill-mu. Itu bukan minta terlalu banyak — itu standar minimum.<br><br><strong>Yang benar-benar berhasil:</strong><br><strong>• Filter sebelum berkomitmen</strong> — Jelajahi profil pemain dengan statistik terverifikasi, ketersediaan, dan gaya bermain sebelum terhubung<br><strong>• Prioritaskan kompatibilitas</strong> — Zona waktu, rank, dan gaya komunikasi lebih penting daripada sekadar bermain game yang sama<br><strong>• Bangun bertahap</strong> — Fokus menemukan 2-3 rekan tim solid daripada bergabung mega-komunitas di mana koneksi bermakna lebih sulit terbentuk<br><br>Hindari platform yang memaksamu spam 'LFG' dan berharap respons. Waktumu lebih berharga dari itu."
+      "answer": "Menemukan gamer itu mudah. Menemukan gamer yang TEPAT — di situlah semua orang gagal.<br><br>Kamu butuh rekan tim yang tersedia saat kamu bermain, berkomunikasi dalam bahasamu, dan sesuai level skill-mu. Itu bukan minta terlalu banyak — itu standar minimum.<br><br><strong>Yang benar-benar berhasil:</strong><br><strong>• Filter sebelum berkomitmen</strong> — Jelajahi profil pemain dengan statistik, ketersediaan, dan gaya bermain sebelum terhubung<br><strong>• Prioritaskan kompatibilitas</strong> — Zona waktu, rank, dan gaya komunikasi lebih penting daripada sekadar bermain game yang sama<br><strong>• Bangun bertahap</strong> — Fokus menemukan 2-3 rekan tim solid daripada bergabung mega-komunitas di mana koneksi bermakna lebih sulit terbentuk<br><br>Hindari platform yang memaksamu spam 'LFG' dan berharap respons. Waktumu lebih berharga dari itu."
     },
     "q3": {
       "question": "Bagaimana cara menemukan rekan tim untuk game ranked di League of Legends dan Valorant?",
-      "answer": "Menemukan rekan tim ranked yang baik bukan soal kuantitas — tapi kompatibilitas. Bermain dengan random yang tidak komunikasi, rage quit setelah first blood, atau main role yang tidak nyaman buat mereka itu merugikan LP dan kewarasanmu.<br><br>Yang harus dicari di rekan tim ranked:<br><strong>• Rank terverifikasi</strong> — Pastikan mereka benar-benar di ELO-mu (bukan smurf atau boosted)<br><strong>• Kompatibilitas role</strong> — Cek champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten</strong> — Ranked grinding butuh main reguler — temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi</strong> — Beberapa pemain prefer shotcalling, lainnya mau chat minimal. Tentukan ini dari awal.<br><br>Pendekatan terbaik? Gunakan platform yang memverifikasi rank pemain melalui Riot API dan biarkan kamu filter berdasarkan role, jadwal, dan preferensi komunikasi. Kamu akan menghabiskan lebih sedikit waktu dodging di champ select dan lebih banyak waktu climbing. <a href=\"/blog/league-of-legends-teammate-guide\">Kami menulis panduan lengkap mencari rekan tim League</a> — dan ini <a href=\"/blog/ai-gaming-matchmaking-guide\">cara kerja AI matchmaking sebenarnya di balik layar</a>."
+      "answer": "Menemukan rekan tim ranked yang baik bukan soal kuantitas — tapi kompatibilitas. Bermain dengan random yang tidak komunikasi, rage quit setelah first blood, atau main role yang tidak nyaman buat mereka itu merugikan LP dan kewarasanmu.<br><br>Yang harus dicari di rekan tim ranked:<br><strong>• Rank asli</strong> — Pastikan mereka benar-benar di ELO-mu (bukan smurf atau boosted)<br><strong>• Kompatibilitas role</strong> — Cek champion pool dan role yang disukai sebelum queue<br><strong>• Ketersediaan konsisten</strong> — Ranked grinding butuh main reguler — temukan orang dengan jadwal serupa<br><strong>• Gaya komunikasi</strong> — Beberapa pemain prefer shotcalling, lainnya mau chat minimal. Tentukan ini dari awal.<br><br>Pendekatan terbaik? Gunakan platform dengan filter rank asli, role, dan jadwal — filter datang sebelum chat. Kamu akan menghabiskan lebih sedikit waktu dodging di champ select dan lebih banyak waktu climbing. <a href=\"/blog/league-of-legends-teammate-guide.html\">Kami menulis panduan lengkap mencari rekan tim League</a> — dan ini <a href=\"/id/blog/panduan-matchmaking-ai-game.html\">cara kerja AI matchmaking sebenarnya di balik layar</a>."
     },
     "q4": {
       "question": "Apa alternatif terbaik untuk Discord untuk menemukan rekan tim gaming?",
-      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah.<br><br>Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons.<br><br><strong>Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:</strong><br><strong>• Profil pemain</strong> — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas</strong> — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching</strong> — Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Tujuannya bukan menggantikan Discord — tapi menggunakan alat yang tepat untuk discovery, lalu pindah ke Discord untuk voice chat setelah menemukan rekan tim yang kompatibel. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking\">Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking</a>. For the complete side-by-side, read our founder-written <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG comparison</a> — 16 features, including where Discord wins."
+      "answer": "Discord bagus untuk chatting dengan rekan tim yang SUDAH kamu punya. Untuk menemukan yang baru? Itu alat yang salah.<br><br>Ini realitanya: Posting 'LFG' di server dengan 10.000 member berarti pesanmu tertimbun dalam hitungan menit. Kamu tidak punya cara untuk memfilter berdasarkan level skill, ketersediaan, atau gaya bermain sebelum menghubungi. Dan yang paling penting — kamu melakukan semua pekerjaan. Spam channel, DM orang asing, berharap seseorang merespons.<br><br><strong>Yang sebenarnya kamu butuhkan adalah platform yang dirancang untuk discovery:</strong><br><strong>• Profil pemain</strong> — Lihat rank seseorang, jadwal, dan role yang disukai SEBELUM mengirim pesan<br><strong>• Filtering cerdas</strong> — Cari berdasarkan kriteria yang penting (bahasa, zona waktu, level skill)<br><strong>• Active matching</strong> — Dapatkan rekomendasi alih-alih berteriak ke kekosongan<br><br>Jynx menutup lingkaran itu dalam satu aplikasi: match, buka ruang voice bersama — grup, 1:1, atau Chill Room yang selalu aktif — tanpa pernah meninggalkan percakapan yang dimulai dari satu swipe. <a href=\"/blog/lfg-evolution-forums-to-smart-matchmaking.html\">Lihat bagaimana LFG berevolusi dari forum ke smart matchmaking</a>. Untuk perbandingan berdampingan yang lengkap, baca <a href=\"/vs/jynx-vs-discord.html\">perbandingan Jynx vs Discord LFG</a> tulisan pendiri kami — 16 fitur, termasuk di mana Discord menang."
     },
     "q5": {
       "question": "Apakah ada aplikasi dan platform matchmaking gaming gratis?",
-      "answer": "Ya, dan kamu tidak seharusnya harus bayar hanya untuk menemukan rekan tim. Banyak platform menawarkan tier gratis yang kuat yang mencakup hal-hal penting: penemuan pemain, penjelajahan profil, chat, dan perencanaan sesi.<br><br><strong>Yang diharapkan dari tier gratis:</strong><br>• Fitur matchmaking inti (cari, filter, terhubung)<br>• Profil pemain dengan statistik<br>• Pesan dasar dan penjadwalan sesi<br><br><strong>Yang biasanya ditambahkan tier premium:</strong><br>• Match/swipe harian tak terbatas<br>• Filter lanjutan (kriteria sangat spesifik)<br>• Upgrade kosmetik (badge, kustomisasi profil)<br><br><strong>Red flag yang harus dihindari:</strong><br>• Memblokir fitur dasar seperti pesan atau melihat siapa yang match denganmu di balik paywall<br>• Memaksa kamu bayar untuk verifikasi rank atau menghubungkan akun<br>• Tidak ada tier gratis sama sekali (jika mereka percaya diri dengan produknya, mereka harus membiarkan kamu mencoba)<br><br>Waktumu lebih berharga daripada biaya langganan. Fokus pada platform dengan tier gratis yang dermawan sehingga kamu bisa tes sebelum berkomitmen."
+      "answer": "Ya, dan kamu tidak seharusnya harus bayar hanya untuk menemukan rekan tim. Banyak platform menawarkan tier gratis yang kuat yang mencakup hal-hal penting: penemuan pemain, penjelajahan profil, chat, dan perencanaan sesi.<br><br><strong>Yang diharapkan dari tier gratis:</strong><br>• Fitur matchmaking inti (cari, filter, terhubung)<br>• Profil pemain dengan statistik<br>• Pesan dasar dan penjadwalan sesi<br><br><strong>Yang biasanya ditambahkan tier premium:</strong><br>• Match/swipe harian tak terbatas<br>• Filter lanjutan (kriteria sangat spesifik)<br>• Upgrade kosmetik (badge, kustomisasi profil)<br><br><strong>Red flag yang harus dihindari:</strong><br>• Memblokir fitur dasar seperti pesan atau melihat siapa yang match denganmu di balik paywall<br>• Memaksa kamu bayar untuk melihat match-mu atau mengirim pesan ke rekan tim<br>• Tidak ada tier gratis sama sekali (jika mereka percaya diri dengan produknya, mereka harus membiarkan kamu mencoba)<br><br>Waktumu lebih berharga daripada biaya langganan. Fokus pada platform dengan tier gratis yang dermawan sehingga kamu bisa tes sebelum berkomitmen."
     }
   },
   "how_it_works": {
@@ -1507,7 +1507,7 @@
     "subtitle": "Temukan squad gaming sempurna dalam 4 langkah sederhana",
     "step1": {
       "title": "Buat Profil Gaming Anda",
-      "description": "Beri tahu kami tentang preferensi gaming Anda: game favorit, level skill (ELO), gaya bermain (agresif, defensif, support), role yang disukai, dan kapan Anda bermain. Hubungkan akun Riot Games Anda untuk verifikasi rank otomatis.",
+      "description": "Beri tahu kami tentang preferensi gaming Anda: game favorit, level skill (ELO), gaya bermain (agresif, defensif, support), role yang disukai, dan kapan Anda bermain. Atur rank per game dan role Anda — filter berjalan atas apa yang Anda nyatakan.",
       "feature1": "Hubungkan akun League of Legends & Valorant",
       "feature2": "Atur jadwal gaming Anda",
       "feature3": "Pilih gaya komunikasi yang disukai"
@@ -1557,19 +1557,19 @@
       "subtitle": "Terhubung dengan gamer, temukan rekan tim, bergabung dengan komunitas",
       "title_line1": "Jynx",
       "title_line2": "Platform Sosial Gaming",
-      "h1_line1": "Download Jynx",
-      "h1_line2": "The Free LFG App for Gaming Teammates",
-      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web. A Mac app is on the way.",
-      "web_cta": "Or play instantly on the web"
+      "h1_line1": "Unduh Jynx",
+      "h1_line2": "Aplikasi LFG Gratis untuk Rekan Tim Gaming",
+      "tagline": "Match dengan rekan tim dan duo yang kompatibel untuk game Anda — gratis di iOS, Android, Windows, dan web. Aplikasi Mac sedang meluncur.",
+      "web_cta": "Atau main langsung di web"
     },
     "store": {
       "app_store": {
-        "text_small": "Download di",
-        "text_large": "App Store"
+        "text_small": "Unduh untuk",
+        "text_large": "Apple iOS"
       },
       "google_play": {
-        "text_small": "Dapatkan di",
-        "text_large": "Google Play"
+        "text_small": "Unduh untuk",
+        "text_large": "Android"
       }
     },
     "signup": {},
@@ -1621,143 +1621,143 @@
       "thanks": "Terima kasih telah membantu kami mendesain antarmuka aplikasi!"
     },
     "intro": {
-      "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
+      "title": "Aplikasi pendamping untuk gamer",
+      "description": "Jynx adalah aplikasi pendamping gamer generasi baru — aplikasi LFG gratis yang memadankan Anda dengan rekan tim yang kompatibel berdasarkan game, rank, dan gaya bermain, alih-alih menggulir channel LFG tanpa akhir."
     },
     "install": {
-      "title": "Get Jynx on iOS, Android, Windows, or the web",
-      "subtitle": "Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.",
+      "title": "Dapatkan Jynx di iOS, Android, Windows, atau web",
+      "subtitle": "Jynx tersedia di ketiga app store dan di peramban Anda — pilih platform Anda dan mulai match dalam hitungan menit.",
       "ios": {
-        "title": "Find teammates on iOS",
-        "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
+        "title": "Temukan rekan tim di iOS",
+        "description": "Unduh aplikasi untuk menemukan rekan tim gaming dari App Store dan match dengan pemain di sekitar level skill Anda. Memerlukan iOS 13.0 atau lebih baru."
       },
       "android": {
-        "title": "Find your duo on Android",
-        "description": "Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later."
+        "title": "Temukan duo Anda di Android",
+        "description": "Dapatkan aplikasi duo finder di Google Play dan bertemu teman gaming dalam hitungan menit. Memerlukan Android 8.0 atau lebih baru."
       },
       "web": {
-        "title": "Play on the web",
-        "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
-        "cta": "Play on the web"
+        "title": "Main di web",
+        "description": "Buka aplikasi web Jynx di peramban Anda dan langsung mulai match — tanpa unduh, tanpa instal. Berfungsi di desktop dan mobile.",
+        "cta": "Main di web"
       },
       "windows": {
-        "title": "Find teammates on Windows",
-        "description": "Get the duo finder app from the Microsoft Store and meet gaming friends in minutes."
+        "title": "Temukan rekan tim di Windows",
+        "description": "Dapatkan aplikasi duo finder dari Microsoft Store dan bertemu teman gaming dalam hitungan menit."
       },
       "macos": {
-        "title": "Jynx for Mac is on the way",
-        "description": "The Mac app is in development for the Mac App Store. Want to hear when it lands? Tell us on the feedback form.",
-        "status": "In development",
-        "cta": "Get notified"
+        "title": "Jynx untuk Mac sedang meluncur",
+        "description": "Aplikasi Mac sedang dikembangkan untuk Mac App Store. Ingin diberi tahu saat hadir? Sampaikan lewat formulir umpan balik.",
+        "status": "Dalam pengembangan",
+        "cta": "Beri tahu saya"
       }
     },
     "free": {
-      "title": "A free LFG app — free forever, no catch",
-      "description": "Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo."
+      "title": "Aplikasi LFG gratis — gratis selamanya, tanpa syarat tersembunyi",
+      "description": "Jynx adalah aplikasi teman gaming gratis: akun, matchmaking, chat, dan komunitas Anda gratis, dan tidak ada paywall antara Anda dan duo berikutnya."
     },
     "faq": {
-      "cta_heading": "DOWNLOAD FAQ",
-      "cta_subtitle": "Before you install",
-      "cta_write_to_us": "Still have questions?",
-      "cta_button": "Ask us",
+      "cta_heading": "FAQ UNDUH",
+      "cta_subtitle": "Sebelum Anda menginstal",
+      "cta_write_to_us": "Masih ada pertanyaan?",
+      "cta_button": "Tanya kami",
       "devices": {
-        "q": "What devices is Jynx available on?",
-        "a": "Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app. A Mac app is in development."
+        "q": "Di perangkat apa saja Jynx tersedia?",
+        "a": "Jynx tersedia di iOS, Android, Windows, dan web — aplikasi yang sama di peramban Anda di web.jynx.app. Aplikasi Mac sedang dikembangkan."
       },
       "how": {
-        "q": "How do I download Jynx?",
-        "a": "Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed."
+        "q": "Bagaimana cara mengunduh Jynx?",
+        "a": "Unduh Jynx dari Apple App Store atau Google Play, atau main langsung di web di web.jynx.app — tanpa perlu instal."
       },
       "requirements": {
-        "q": "What are the system requirements?",
-        "a": "Jynx requires iOS 13.0 or later for iPhone, and Android 8.0 or later for Android devices."
+        "q": "Apa saja persyaratan sistemnya?",
+        "a": "Jynx memerlukan iOS 13.0 atau lebih baru untuk iPhone, dan Android 8.0 atau lebih baru untuk perangkat Android."
       },
       "apk": {
-        "q": "Is there a Jynx APK to download?",
-        "a": "No. Jynx is available only through the official Apple App Store and Google Play listings. We do not publish an APK, and third-party APK sites are not official sources — they may serve outdated or modified builds."
+        "q": "Apakah ada APK Jynx yang bisa diunduh?",
+        "a": "Tidak. Jynx hanya tersedia melalui listing resmi Apple App Store dan Google Play. Kami tidak mempublikasikan APK, dan situs APK pihak ketiga bukan sumber resmi — situs tersebut dapat menyajikan build yang usang atau dimodifikasi."
       }
     }
   },
   "personas": {
-    "main_title": "WHO JYNX IS FOR",
-    "subtitle_prefix": "THE PLAYER",
-    "subtitle_highlight": "TYPES WE MATCH",
-    "type_badge": "Player type",
+    "main_title": "UNTUK SIAPA JYNX",
+    "subtitle_prefix": "TIPE PEMAIN",
+    "subtitle_highlight": "YANG KAMI MATCHKAN",
+    "type_badge": "Tipe pemain",
     "persona1": {
       "quote": "Menemukan rekan tim konsisten di ELO saya seharusnya tidak berarti spamming Discord selama berjam-jam. Saya butuh pemain yang berkomunikasi, datang tepat waktu, dan benar-benar main role utama mereka.",
-      "name": "The Ranked Grinder",
+      "name": "Pemburu Rank",
       "role": "Pemain Kompetitif"
     },
     "persona2": {
       "quote": "Lelah dengan random yang rage quit, tidak berbicara bahasa saya, atau online saat saya tidur. Saya hanya ingin rekan tim yang cocok dengan jadwal dan vibe saya.",
-      "name": "The Weekend Warrior",
+      "name": "Pejuang Akhir Pekan",
       "role": "Gamer Kasual"
     },
     "persona3": {
       "quote": "Mengorganisir sesi gaming lintas zona waktu adalah kekacauan tanpa alat yang tepat. Butuh sistem yang benar-benar membantu koordinasi komunitas saya.",
-      "name": "The Community Builder",
+      "name": "Pembangun Komunitas",
       "role": "Pemimpin Guild"
     },
     "persona4": {
       "quote": "Solo queue membunuh kecintaan saya pada gaming. Setiap match adalah coin flip toxicity. Harus ada cara yang lebih baik untuk menemukan orang yang benar-benar ingin berkembang bersama.",
-      "name": "The Solo Queue Escapee",
+      "name": "Kabur dari Solo Queue",
       "role": "Pemain Mencari Tim"
     }
   },
   "reviews": {
-    "title": "Real reviews from Google Play",
+    "title": "Ulasan asli dari Google Play",
     "summary": {
-      "ratings": "{play_count} ratings on Google Play in {market}",
-      "as_of": "as of {as_of_month_year}",
-      "stars_aria": "{play_rating} out of 5 stars"
+      "ratings": "{play_count} rating di Google Play di {market}",
+      "as_of": "per {as_of_month_year}",
+      "stars_aria": "{play_rating} dari 5 bintang"
     },
-    "read_all": "Read all reviews on Google Play",
+    "read_all": "Baca semua ulasan di Google Play",
     "card": {
       "source": "via Google Play"
     }
   },
   "comparisons": {
-    "cta_download": "Download Jynx",
-    "cta_more": "Read more from Jynx",
-    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
-    "hub_label": "Comparisons",
-    "label_by": "By",
-    "label_category": "Category:",
-    "label_cons": "Cons",
-    "label_home": "Home:",
-    "label_key_strengths": "Key strengths",
-    "label_maker": "Maker:",
-    "label_platforms": "Platforms:",
-    "label_price": "Price:",
-    "label_pros": "Pros",
-    "label_published": "Published",
-    "label_recommendation": "Recommendation:",
-    "section_contenders": "The contenders",
-    "section_cta": "Try Jynx for yourself",
-    "section_faq": "Frequently asked questions",
-    "section_feature": "Feature",
-    "section_intro": "Introduction",
-    "section_quick_answer": "Quick answer",
-    "section_related": "Related comparisons",
-    "section_use_cases": "Real use cases — who picks what",
-    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
-    "table_heading_vs": "Head-to-head feature comparison — {features} features",
-    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
-    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
-    "who_picks_format": "Who should pick {name}"
+    "cta_download": "Unduh Jynx",
+    "cta_more": "Baca lebih banyak dari Jynx",
+    "cta_paragraph": "Ujian paling adil bagi aplikasi matching mana pun adalah rutinitas gaming Anda sendiri. Jynx gratis untuk alur matching lengkap — instal, siapkan profil Anda, dan lihat apakah matching yang mengutamakan kompatibilitas mengalahkan alternatifnya untuk game yang benar-benar Anda mainkan.",
+    "hub_label": "Perbandingan",
+    "label_by": "Oleh",
+    "label_category": "Kategori:",
+    "label_cons": "Kekurangan",
+    "label_home": "Beranda:",
+    "label_key_strengths": "Kekuatan utama",
+    "label_maker": "Pembuat:",
+    "label_platforms": "Platform:",
+    "label_price": "Harga:",
+    "label_pros": "Kelebihan",
+    "label_published": "Dipublikasikan",
+    "label_recommendation": "Rekomendasi:",
+    "section_contenders": "Para pesaing",
+    "section_cta": "Coba Jynx sendiri",
+    "section_faq": "Pertanyaan yang sering diajukan",
+    "section_feature": "Fitur",
+    "section_intro": "Pendahuluan",
+    "section_quick_answer": "Jawaban singkat",
+    "section_related": "Perbandingan terkait",
+    "section_use_cases": "Kasus penggunaan nyata — siapa memilih apa",
+    "table_heading_best": "Tabel perbandingan utama — {apps} aplikasi × {features} fitur",
+    "table_heading_vs": "Perbandingan fitur head-to-head — {features} fitur",
+    "table_intro_best": "Setiap fitur dinilai di setiap pesaing. Kolom Jynx disorot karena artikel ini ditandatangani secara editorial oleh seorang pendiri Jynx — baca bagian eksplisit \"di mana Jynx kalah\" di bawah sebelum menarik kesimpulan.",
+    "table_intro_vs": "Setiap fitur di mana kedua produk berbeda — termasuk baris di mana Jynx kalah. Kolom Jynx disorot karena artikel ini ditandatangani oleh seorang pendiri Jynx.",
+    "who_picks_format": "Siapa yang sebaiknya memilih {name}"
   },
   "comparison": {
-    "title": "The whole loop, in one app.",
-    "intro": "Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
+    "title": "Seluruh siklusnya, dalam satu aplikasi.",
+    "intro": "Swipe, match, dan mulai mengobrol. Ruang voice dan chat berada di aplikasi yang sama tempat Anda menemukan squad — tanpa aplikasi kedua, tanpa pindah-pindah server, tanpa berbagi tautan untuk masuk ke panggilan.",
     "table": {
       "feature": "Fitur",
       "lfg": "LFG Tradisional",
-      "match_to_voice": "Match → Voice Room in One Tap",
-      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
-      "screen_share": "Screen Sharing in Voice Rooms",
-      "play_now_matchmaking": "Play Now — Instant Matchmaking",
+      "match_to_voice": "Match → Ruang Voice dalam Satu Ketukan",
+      "native_voice_chat": "Voice Chat Native — ruang grup, panggilan 1:1, Chill Room selalu aktif",
+      "screen_share": "Screen Sharing di Ruang Voice",
+      "play_now_matchmaking": "Play Now — Matchmaking Instan",
       "smart_team_builder": "Smart Team Builder",
-      "game_session_matchmaking": "Game Sessions — schedule and organize play",
+      "game_session_matchmaking": "Game Sessions — jadwalkan dan atur sesi bermain",
       "elo_matching": "Matching Berbasis Skill (ELO)",
       "community_search": "Pencarian & Penemuan Komunitas",
       "chat": "Chat Real-Time",
@@ -1774,24 +1774,24 @@
       "basic": "Dasar",
       "by_game_skill": "Berdasarkan Game, rank & Bahasa",
       "on_computer_only": "Hanya di komputer",
-      "servers": "Find a server first",
+      "servers": "Cari server dulu",
       "teams": "Tim",
       "advanced": "Lanjutan",
-      "planned": "Planned",
-      "game_apis": "Game APIs",
+      "planned": "Direncanakan",
+      "game_apis": "API Game",
       "general": "Umum",
       "varies": "Bervariasi",
       "free_jynx_plus": "Gratis / Jynx+",
       "free_varies": "Gratis/Bervariasi"
     },
-    "roadmap_note": "On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams",
-    "footnote": "Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
+    "roadmap_note": "Di roadmap: Screen Sharing di Ruang Voice, Integrasi Profil Pemain, dan Smart Team Builder — tim otomatis terbentuk dan seimbang",
+    "footnote": "Perbandingan per November 2026. Discord dan LFG Tradisional mencerminkan fitur yang tersedia publik; kolom Jynx mencerminkan kemampuan aplikasi Jynx.",
     "cta": {
       "title": "Siap Merasakan Perbedaannya?",
       "description": "Bergabunglah dengan gamer di seluruh dunia yang menemukan squad sempurna mereka dengan matchmaking AI Jynx",
       "button": "Mulai Matching dengan AI - Gratis Selamanya"
     },
-    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
+    "vs_link": "Ingin rincian lengkapnya? Baca perbandingan head-to-head tulisan pendiri: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 fitur, termasuk kekalahan yang jujur."
   },
   "global": {
     "nojs_banner": "JavaScript dinonaktifkan. Beberapa fitur interaktif mungkin tidak berfungsi secara optimal."
@@ -1913,7 +1913,7 @@
     "search_bar": {
       "placeholder": "Cari artikel...",
       "button": "Cari",
-      "aria_label": "Kolom pencarian"
+      "aria_label": "Cari artikel blog"
     },
     "category_page": {
       "breadcrumb": "Kategori",
@@ -1946,8 +1946,8 @@
       "twitter_image_alt": "Pencarian Jynx"
     },
     "hero": {
-      "title": "Cari Panduan Gaming",
-      "subtitle": "Temukan artikel tentang matchmaking, pembangunan tim, dan gaming kompetitif"
+      "title": "Panduan & Tips Matchmaking Gaming",
+      "subtitle": "Wawasan ahli untuk menemukan rekan tim, membangun komunitas, dan menguasai gaming kompetitif"
     },
     "input": {
       "placeholder": "Cari artikel...",
@@ -2021,120 +2021,120 @@
   },
   "invite": {
     "meta": {
-      "title": "Join Jynx - Gaming Social Platform",
-      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
-      "og_title": "Join me on Jynx",
-      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "og_image_alt": "Jynx Invite",
-      "twitter_title": "Join me on Jynx",
-      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "twitter_image_alt": "Jynx Invite"
+      "title": "Bergabung dengan Jynx - Platform Sosial Gaming",
+      "description": "Anda diundang untuk terhubung di Jynx - platform sosial gaming tempat gamer menemukan rekan tim yang paling pas.",
+      "og_title": "Bergabung di Jynx",
+      "og_description": "Anda diundang untuk terhubung di Jynx - platform sosial gaming",
+      "og_image_alt": "Undangan Jynx",
+      "twitter_title": "Bergabung di Jynx",
+      "twitter_description": "Anda diundang untuk terhubung di Jynx - platform sosial gaming",
+      "twitter_image_alt": "Undangan Jynx"
     },
-    "heading": "You've been invited to connect on Jynx",
-    "subtitle": "The gaming social platform",
-    "open_app_btn": "Open in Jynx App",
+    "heading": "Anda diundang untuk terhubung di Jynx",
+    "subtitle": "Platform sosial gaming",
+    "open_app_btn": "Buka di Aplikasi Jynx",
     "fallback": {
-      "title": "Don't have the app yet?",
-      "subtitle": "Download Jynx to connect with your invite",
-      "app_store": "Download on",
-      "play_store": "Get it on",
-      "web_app": "Or continue on the web app",
-      "web_app_desktop": "Continue on the web app"
+      "title": "Belum punya aplikasinya?",
+      "subtitle": "Unduh Jynx untuk terhubung dengan undangan Anda",
+      "app_store": "Unduh di",
+      "play_store": "Dapatkan di",
+      "web_app": "Atau lanjutkan di aplikasi web",
+      "web_app_desktop": "Lanjutkan di aplikasi web"
     }
   },
   "games": {
     "breadcrumb_label": "Breadcrumb",
-    "breadcrumb_home": "Home",
-    "breadcrumb_games": "Games",
-    "label_last_updated": "Last updated",
-    "label_author": "Author:",
+    "breadcrumb_home": "Beranda",
+    "breadcrumb_games": "Game",
+    "label_last_updated": "Terakhir diperbarui",
+    "label_author": "Penulis:",
     "label_game": "Game:",
-    "label_download_ios": "Download Jynx on the App Store",
-    "label_download_android": "Get Jynx on Google Play",
-    "label_download_on": "Download on",
-    "label_get_it_on": "Get it on",
+    "label_download_ios": "Unduh Jynx di App Store",
+    "label_download_android": "Dapatkan Jynx di Google Play",
+    "label_download_on": "Unduh di",
+    "label_get_it_on": "Dapatkan di",
     "label": {
-      "rank_rule": "Rank-gap rule:",
-      "last_verified": "Last verified",
-      "stat_source": "Source",
-      "stat_as_of": "as of"
+      "rank_rule": "Aturan selisih rank:",
+      "last_verified": "Terakhir diverifikasi",
+      "stat_source": "Sumber",
+      "stat_as_of": "per"
     },
     "section": {
-      "why": "Why this duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
+      "why": "Mengapa duo finder ini",
+      "ranks": "Rank",
+      "roles": "Role",
+      "queues": "Jenis queue",
       "tips": "Tips",
-      "competitors": "Comparable tools",
-      "tools": "LFG tools landscape",
-      "pain": "Pain points",
+      "competitors": "Alat sejenis",
+      "tools": "Lanskap alat LFG",
+      "pain": "Titik sakit",
       "faq": "FAQ",
-      "crosslinks": "Related",
-      "quick_answer": "Quick answer",
-      "what_looks_like": "What LFG looks like",
-      "key_stats": "Player numbers",
-      "comparison": "Comparison",
-      "archetypes": "Player types"
+      "crosslinks": "Terkait",
+      "quick_answer": "Jawaban singkat",
+      "what_looks_like": "Seperti apa LFG itu",
+      "key_stats": "Jumlah pemain",
+      "comparison": "Perbandingan",
+      "archetypes": "Tipe pemain"
     },
     "heading": {
-      "why": "Why a purpose-built duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
-      "competitors": "Other LFG tools",
-      "tools": "LFG tools landscape (2026)",
-      "pain": "Game-specific LFG pain points",
-      "faq": "Frequently asked questions",
-      "crosslinks": "Related Jynx resources",
-      "quick_answer": "LFG in 60 seconds",
-      "what_looks_like": "What LFG looks like in 2026",
-      "key_stats": "Player numbers",
-      "archetypes": "Whatever kind of player you are",
-      "faq_duo": "Duo finder FAQ",
-      "faq_guide": "LFG FAQ"
+      "why": "Mengapa duo finder yang dibangun khusus",
+      "ranks": "Rank",
+      "roles": "Role",
+      "queues": "Jenis queue",
+      "competitors": "Alat LFG lain",
+      "tools": "Lanskap alat LFG (2026)",
+      "pain": "Titik sakit LFG khusus per game",
+      "faq": "Pertanyaan yang sering diajukan",
+      "crosslinks": "Sumber Jynx terkait",
+      "quick_answer": "LFG dalam 60 detik",
+      "what_looks_like": "Seperti apa LFG di 2026",
+      "key_stats": "Jumlah pemain",
+      "archetypes": "Apa pun tipe pemain Anda",
+      "faq_duo": "FAQ duo finder",
+      "faq_guide": "FAQ LFG"
     },
     "intro": {
-      "ranks": "Match within the platform-enforced gap window. Ranks below.",
-      "roles": "Match by complementary roles, not duplicate ones.",
-      "competitors": "Where LFG happens today, and what each tool optimizes for:",
-      "tools": "What players use today and where each tool stops:"
+      "ranks": "Match dalam jendela selisih yang ditegakkan platform. Rank di bawah.",
+      "roles": "Match berdasarkan role yang saling melengkapi, bukan yang duplikat.",
+      "competitors": "Di mana LFG terjadi hari ini, dan apa yang masing-masing alat optimalkan:",
+      "tools": "Apa yang dipakai pemain hari ini dan di mana masing-masing alat berhenti:"
     },
     "cta": {
-      "label": "Get Jynx",
-      "heading": "Find your duo on Jynx",
-      "sub": "Free. Verified ranks. Voice + schedule matching."
+      "label": "Dapatkan Jynx",
+      "heading": "Temukan duo Anda di Jynx",
+      "sub": "Gratis. Filter rank, role, dan region. Match voice + jadwal."
     },
     "cta_final": {
-      "label": "Get Jynx",
-      "heading": "Stop solo-queueing",
-      "sub": "Get Jynx and find a verified duo today."
+      "label": "Dapatkan Jynx",
+      "heading": "Berhenti solo-queue",
+      "sub": "Dapatkan Jynx dan temukan duo Anda hari ini."
     },
     "footer": {
-      "rights": "All rights reserved."
+      "rights": "Hak cipta dilindungi undang-undang."
     },
     "breadcrumb_duo": "Duo Finder",
-    "breadcrumb_guide": "LFG Guide"
+    "breadcrumb_guide": "Panduan LFG"
   },
   "games_section": {
-    "title": "Find Your Game",
-    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
-    "cta": "All games",
+    "title": "Temukan Game Anda",
+    "sub": "Duo finder dan panduan LFG untuk game yang Anda mainkan — temukan squad Anda lebih cepat.",
+    "cta": "Semua game",
     "glossary_teaser": {
-      "title": "From the Gaming Glossary",
-      "cta": "Browse the glossary"
+      "title": "Dari Glosarium Gaming",
+      "cta": "Jelajahi glosarium"
     }
   },
   "entity": {
-    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on the web, Android, and iOS.",
-    "canonical_phrase": "next-gen companion app for gamers"
+    "description": "Jynx adalah aplikasi pendamping gamer generasi baru. Filter rank, role, dan region per game, intent voice, dan tumpang tindih jadwal yang nyata menggantikan roulette lobi — swipe, match, dan queue dengan duo dan squad yang benar-benar cocok dengan game yang sudah Anda mainkan, lalu ngobrol di ruang voice native tanpa keluar dari aplikasi. Gratis di web, Android, dan iOS.",
+    "canonical_phrase": "aplikasi pendamping gamer generasi baru"
   },
   "consent": {
     "banner": {
-      "aria_label": "Cookie consent",
-      "text": "We use analytics to understand how people find Jynx and improve the site. No personal data is sold.",
-      "privacy_link": "Privacy policy",
-      "accept": "Accept",
-      "decline": "Decline"
+      "aria_label": "Persetujuan cookie",
+      "text": "Kami menggunakan analitik untuk memahami bagaimana orang menemukan Jynx dan meningkatkan situs. Tidak ada data pribadi yang dijual.",
+      "privacy_link": "Kebijakan privasi",
+      "accept": "Terima",
+      "decline": "Tolak"
     }
   },
   "locale_suggestion": {

@@ -11,10 +11,10 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 From tactical shooters and battle royales to racing, rhythm, and horror — browse the full catalog and jump straight to the duo finder or game page for whatever you queue. Rank, role, region, voice intent, and schedule filters start on each game's page.
 
-- 711 games
+- 715 games
 - 14 categories
 
-Search all 711 games by name or browse by category — every listing links to a live game page or duo finder.
+Search all 715 games by name or browse by category — every listing links to a live game page or duo finder.
 
 ## Featured constellations
 
@@ -419,6 +419,7 @@ MMORPGs and shared-world RPGs punish solo play the slowest way possible: everyth
 - [![Black Desert Online game icon — MMORPG](/assets/images/games/black-desert-online/black-desert-online-cover-200.webp)Black Desert Online](/games/black-desert-online/catalog.html)
 - [![Crystal of Atlan game icon — MMORPG](/assets/images/games/crystal-of-atlan/crystal-of-atlan-cover-200.webp)Crystal of Atlan](/games/crystal-of-atlan/catalog.html)
 - [![Dark Souls III game icon — MMORPG](/assets/images/games/dark-souls-3/dark-souls-3-cover-200.webp)Dark Souls III](/games/dark-souls-3/catalog.html)
+- [DC Universe Online](/games/dc-universe-online/catalog.html)
 - [![Diablo IV game icon — MMORPG](/assets/images/games/diablo-4/diablo-4-cover-200.webp)Diablo IV](/games/diablo-4/catalog.html)
 - [![Diablo Immortal game icon — MMORPG](/assets/images/games/diablo-immortal/diablo-immortal-cover-200.webp)Diablo Immortal](/games/diablo-immortal/catalog.html)
 - [![Divinity: Original Sin 2 game icon — MMORPG](/assets/images/games/divinity-original-sin-2/divinity-original-sin-2-cover-200.webp)Divinity: Original Sin 2](/games/divinity-original-sin-2/catalog.html)
@@ -449,6 +450,7 @@ MMORPGs and shared-world RPGs punish solo play the slowest way possible: everyth
 - [![Monster Hunter Freedom Unite game icon — MMORPG](/assets/images/games/monster-hunter-freedom-unite/monster-hunter-freedom-unite-cover-200.webp)Monster Hunter Freedom Unite](/games/monster-hunter-freedom-unite/catalog.html)
 - [![Monster Hunter Generations Ultimate game icon — MMORPG](/assets/images/games/monster-hunter-generations-ultimate/monster-hunter-generations-ultimate-cover-200.webp)Monster Hunter Generations Ultimate](/games/monster-hunter-generations-ultimate/catalog.html)
 - [![Monster Hunter: World game icon — MMORPG](/assets/images/games/monster-hunter-world/monster-hunter-world-cover-200.webp)Monster Hunter: World](/games/monster-hunter-world/catalog.html)
+- [MU Online](/games/mu-online/catalog.html)
 - [![Neverness to Everness game icon — MMORPG](/assets/images/games/neverness-to-everness/neverness-to-everness-cover-200.webp)Neverness to Everness](/games/neverness-to-everness/catalog.html)
 - [![Neverwinter game icon — MMORPG](/assets/images/games/neverwinter/neverwinter-cover-200.webp)Neverwinter](/games/neverwinter/catalog.html)
 - [![New World: Aeternum game icon — MMORPG](/assets/images/games/new-world/new-world-cover-200.webp)New World: Aeternum](/games/new-world/catalog.html)
@@ -468,6 +470,7 @@ MMORPGs and shared-world RPGs punish solo play the slowest way possible: everyth
 - [![Sky: Children of the Light game icon — MMORPG](/assets/images/games/sky-children-of-the-light/sky-children-of-the-light-cover-200.webp)Sky: Children of the Light](/games/sky-children-of-the-light/catalog.html)
 - [![Soulframe game icon — MMORPG](/assets/images/games/soulframe/soulframe-cover-200.webp)Soulframe](/games/soulframe/catalog.html)
 - [![Star Citizen game icon — MMORPG](/assets/images/games/star-citizen/star-citizen-cover-200.webp)Star Citizen](/games/star-citizen/catalog.html)
+- [Star Trek Online](/games/star-trek-online/catalog.html)
 - [![Throne and Liberty game icon — MMORPG](/assets/images/games/throne-and-liberty/throne-and-liberty-cover-200.webp)Throne and Liberty](/games/throne-and-liberty/catalog.html)
 - [![Tibia game icon — MMORPG](/assets/images/games/tibia/tibia-cover-200.webp)Tibia](/games/tibia/catalog.html)
 - [![Toram Online game icon — MMORPG](/assets/images/games/toram-online/toram-online-cover-200.webp)Toram Online](/games/toram-online/catalog.html)
@@ -688,6 +691,7 @@ Horror games are strictly better with a voice you trust on the other end — and
 - [![Buckshot Roulette game icon — Horror](/assets/images/games/buckshot-roulette/buckshot-roulette-cover-200.webp)Buckshot Roulette](/games/buckshot-roulette/catalog.html)
 - [![Carnival Hunt game icon — Horror](/assets/images/games/carnival-hunt/carnival-hunt-cover-200.webp)Carnival Hunt](/games/carnival-hunt/catalog.html)
 - [![Cry of Fear game icon — Horror](/assets/images/games/cry-of-fear/cry-of-fear-cover-200.webp)Cry of Fear](/games/cry-of-fear/catalog.html)
+- [Dandy's World](/games/dandys-world/catalog.html)
 - [![Demonologist game icon — Horror](/assets/images/games/demonologist/demonologist-cover-200.webp)Demonologist](/games/demonologist/catalog.html)
 - [![Doki Doki Literature Club! game icon — Horror](/assets/images/games/doki-doki-literature-club/doki-doki-literature-club-cover-200.webp)Doki Doki Literature Club!](/games/doki-doki-literature-club/catalog.html)
 - [![Five Nights at Freddy's game icon — Horror](/assets/images/games/five-nights-at-freddys/five-nights-at-freddys-cover-200.webp)Five Nights at Freddy's](/games/five-nights-at-freddys/catalog.html)

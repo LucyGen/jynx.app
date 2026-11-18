@@ -7,21 +7,21 @@ dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# The Next-Gen Companion App for Gamers
+# Компаньйон-Додаток Нового Покоління для Геймерів
 
-MATCH. TALK. PLAY. — native voice rooms where the squad formed.
+МАТЧ. РОЗМОВА. ГРА. — нативні голосові кімнати там, де формується команда.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Банер завантаження Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
-Mac app on the way.
+Додаток для Mac на підході.
 
-Rated 4,4 on Google Play in Бразилія (118 ratings, 10K+ installs) · New on the App Store · as of листопад 2026 р..
+Оцінка 4,4 у Google Play в Бразилія (118 оцінок, 10K+ встановлень) · Новинка в App Store · станом на листопад 2026 р..
 
 ## Грай Краще, Разом
 
 Годі кричати в порожнечу. Jynx перетворює соло-гейминг на соціальний досвід, інтелектуально з'єднуючи тіммейтів на основі ігрових уподобань, стилю гри та сумісності розкладу
 
-Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
+Знаходьте, підбирайте та спілкуйтеся в одному місці: Jynx поєднує матчмейкінг із нативними голосовими кімнатами, тож команда формується і грає в тому самому додатку.
 
 ## Інтелектуальний Підбір
 
@@ -45,62 +45,62 @@ Jynx існує, бо традиційний LFG зламаний — і ми в
 
 [Поділися Своїми Ідеями](#feedback)
 
-## WHO JYNX IS FOR
+## ДЛЯ КОГО СТВОРЕНО JYNX
 
-THE PLAYER TYPES WE MATCH
+ТИПИ ГРАВЦІВ, ЯКИХ МИ МАТЧИМО
 
-- Player type Знаходження постійних товаришів по команді на моєму ELO не повинно означати годинний спам у Discord. Мені потрібні гравці, які спілкуються, з'являються вчасно та справді грають на своїй основній ролі. Гравець Рейтингових ІгорКонкурентний Гравець
-- Player type Втомився від випадкових гравців, які виходять з гри, не говорять моєю мовою або знаходяться онлайн, коли я сплю. Я просто хочу товаришів по команді, які відповідають моєму розкладу та настрою. Воїн Вихідного ДняКазуальний Геймер
-- Player type Організація ігрових сесій між часовими поясами — це хаос без правильних інструментів. Потрібна система, яка справді допомагає координувати мою спільноту. Будівельник СпільнотиЛідер Гільдії
-- Player type Одиночна черга вбиває мою любов до гри. Кожен матч — це підкидання монети токсичності. Має бути кращий спосіб знайти людей, які справді хочуть покращуватися разом. Втікач з Одиночної ЧергиГравець, Що Шукає Команду
+- Тип гравця Знаходження постійних товаришів по команді на моєму ELO не повинно означати годинний спам у Discord. Мені потрібні гравці, які спілкуються, з'являються вчасно та справді грають на своїй основній ролі. Гравець Рейтингових ІгорКонкурентний Гравець
+- Тип гравця Втомився від випадкових гравців, які виходять з гри, не говорять моєю мовою або знаходяться онлайн, коли я сплю. Я просто хочу товаришів по команді, які відповідають моєму розкладу та настрою. Воїн Вихідного ДняКазуальний Геймер
+- Тип гравця Організація ігрових сесій між часовими поясами — це хаос без правильних інструментів. Потрібна система, яка справді допомагає координувати мою спільноту. Будівельник СпільнотиЛідер Гільдії
+- Тип гравця Одиночна черга вбиває мою любов до гри. Кожен матч — це підкидання монети токсичності. Має бути кращий спосіб знайти людей, які справді хочуть покращуватися разом. Втікач з Одиночної ЧергиГравець, Що Шукає Команду
 
-## Real reviews from Google Play
+## Реальні відгуки з Google Play
 
-4,4 out of 5 stars
+4,4 з 5 зірок
 
-4,4 118 ratings on Google Play in Бразилія as of листопад 2026 р.
+4,4 118 оцінок у Google Play в Бразилія станом на листопад 2026 р.
 
-[Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
+[Читати всі відгуки в Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Банер завантаження Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
 
-## The whole loop, in one app.
+## Весь цикл — в одному додатку.
 
-Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+Свайпни, заматчся і почни розмову. Голосові кімнати та чат живуть у тому самому додатку, де ти знайшов свою команду — без другого додатка, стрибків по серверах і поширення посилань, щоб потрапити у дзвінок.
 
 | Функція |  | Discord | Традиційний LFG |
 | --- | --- | --- | --- |
-| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
-| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
-| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
-| **Game Sessions — schedule and organize play** |  | Ручні пости | Базовий |
+| **Матч → Голосова Кімната в Один Дотик** |  | Спершу знайдіть сервер | ❌ |
+| **Нативний Голосовий Чат — групові кімнати, дзвінки 1:1, постійні Chill Rooms** |  |  | ❌ |
+| **Демонстрація Екрана в Голосових Кімнатах** | Заплановано |  | ❌ |
+| **Play Now — Миттєвий Матчмейкінг** |  | ❌ | ❌ |
+| **Ігрові Сесії — плануйте та організовуйте гру** |  | Ручні пости | Базовий |
 | **Пошук Гравців У Стилі Tinder** |  | ❌ | Різна |
 | **Підбір За Майстерністю (ELO)** |  | ❌ | ❌ |
 | **Пошук та Відкриття Спільнот** |  | Лише на комп'ютері |  |
-| **Інтеграція Профілю Гравця** | Planned | ❌ |  |
-| **Smart Team Builder** | Planned | ❌ | ❌ |
+| **Інтеграція Профілю Гравця** | Заплановано | ❌ |  |
+| **Розумний Конструктор Команд** | Заплановано | ❌ | ❌ |
 
-On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
+На дорожній карті: Демонстрація Екрана в Голосових Кімнатах, Інтеграція Профілю Гравця та Розумний Конструктор Команд — автоматично сформовані, збалансовані команди
 
-Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+Порівняння станом на листопад 2026. Discord і Традиційний LFG відображають їхні публічно доступні функції; колонка Jynx відображає можливості додатка Jynx.
 
-Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
+Хочете повний розбір? Читайте лоб-у-лоб за підписом засновника: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 функцій, з чесними поразками.
 
-## Find Your Game
+## Знайдіть Свою Гру
 
-Duo finders and LFG guides for the games you play — find your squad faster.
+Пошук дуо та LFG-гайди для ігор, у які ти граєш — знайди свою команду швидше.
 
-- [GTA 6 OnlineGTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
+- [GTA 6 OnlineGTA 6 lands November 19, 2026, and GTA 6 Online is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
 - [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
 - [Counter-Strike 2Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
 - [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.](/games/marvel-rivals/duo-finder.html)
 - [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.](/games/fortnite/duo-finder.html)
 - [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.](/games/rainbow-six-siege/duo-finder.html)
 
-[All games](/games.html)
+[Усі ігри](/games.html)
 
-### From the Gaming Glossary
+### З Ігрового Глосаря
 
 - [LFG](/glossary/lfg.html)
 - [duo queue](/glossary/duo-queue.html)
@@ -109,7 +109,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 - [Elo](/glossary/elo.html)
 - [rank](/glossary/rank.html)
 
-[Browse the glossary](/glossary.html)
+[Переглянути глосарій](/glossary.html)
 
 ## Є ЗАПИТАННЯ?
 
@@ -121,23 +121,23 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### Чи є додаток типу Tinder для геймерів, щоб знайти товаришів по команді?
 
-Так, і давно пора. Традиційний LFG зламаний — ти спамиш канали Discord, постиш у сабреддітах триденної давності та сподіваєшся, що хтось, хто говорить твоєю мовою і грає на твоєму ранзі, насправді онлайн саме тоді, коли і ти. Це не система, це азартна гра з твоїм часом. Jynx дозволяє фільтрувати те, що справді важливо: сумісні розклади, схожі рівні скілу та спільні ігрові уподобання. Ти переглядаєш потенційних тіммейтів, які відповідають ТВОЇМ критеріям, оминаєш незручний cold messaging та з'єднуєшся лише з гравцями, які реально доступні, коли ти хочеш грати. Різниця? Ти не кричиш у порожнечу, сподіваючись, що хтось відповість. Ти бачиш лише людей, які вже відповідають твоїй доступності, говорять твоєю мовою та грають у твої ігри. Менше часу на спам 'LFG' у чаті, більше часу в грі з людьми, з якими ти реально захочеш грати знову.
+Так, і давно пора. Традиційний LFG зламаний — ти спамиш канали Discord, постиш у сабреддітах триденної давності та сподіваєшся, що хтось, хто говорить твоєю мовою і грає на твоєму ранзі, насправді онлайн саме тоді, коли і ти. Це не система, це азартна гра з твоїм часом. Jynx дозволяє фільтрувати те, що справді важливо: сумісні розклади, схожі рівні скілу та спільні ігрові уподобання. Ти переглядаєш потенційних тіммейтів, які відповідають ТВОЇМ критеріям, оминаєш незручний cold messaging та з'єднуєшся лише з гравцями, які реально доступні, коли ти хочеш грати. Різниця? Ти не кричиш у порожнечу, сподіваючись, що хтось відповість. Ти бачиш лише людей, які вже відповідають твоїй доступності, говорять твоєю мовою та грають у твої ігри. Менше часу на спам 'LFG' у чаті, більше часу в грі з людьми, з якими ти реально захочеш грати знову. І коли ви обидва свайпнете вправо, голосова кімната — за один дотик, усередині додатка.
 
 ### Як зустріти геймерів онлайн і створити ігрову групу друзів?
 
-Знайти геймерів легко. Знайти ПРАВИЛЬНИХ геймерів — ось де всі фейлять. Тобі потрібні тіммейти, які доступні, коли ти граєш, спілкуються твоєю мовою та відповідають твоєму рівню скілу. Це не забагато — це мінімум. **Що насправді працює:** **• Фільтруй перед тим, як комітитися** — Переглядай профілі гравців з верифікованою статистикою, доступністю та стилем гри перед підключенням **• Пріоритет сумісності** — Часовий пояс, ранг та стиль спілкування важливіше, ніж просто гра в одну й ту саму гру **• Будуй поступово** — Зосередься на пошуку 2-3 надійних тіммейтів, а не приєднанні до мега-спільнот, де значущі зв'язки встановити складніше Уникай платформ, які змушують тебе спамити 'LFG' і сподіватися на відповіді. Твій час вартий більшого.
+Знайти геймерів легко. Знайти ПРАВИЛЬНИХ геймерів — ось де всі фейлять. Тобі потрібні тіммейти, які доступні, коли ти граєш, спілкуються твоєю мовою та відповідають твоєму рівню скілу. Це не забагато — це мінімум. **Що насправді працює:** **• Фільтруй перед тим, як комітитися** — Переглядай профілі гравців зі статистикою, доступністю та стилем гри перед підключенням **• Пріоритет сумісності** — Часовий пояс, ранг та стиль спілкування важливіше, ніж просто гра в одну й ту саму гру **• Будуй поступово** — Зосередься на пошуку 2-3 надійних тіммейтів, а не приєднанні до мега-спільнот, де значущі зв'язки встановити складніше Уникай платформ, які змушують тебе спамити 'LFG' і сподіватися на відповіді. Твій час вартий більшого.
 
 ### Як знайти товаришів по команді для ranked ігор в League of Legends і Valorant?
 
-Знайти хороших тіммейтів для ranked — це не питання кількості, а сумісності. Гра з рандомами, які не спілкуються, рейдж-квітять після first blood або грають ролі, в яких вони не комфортні, коштує тобі LP і нервів. На що звертати увагу в тіммейтах для ranked: **• Верифікований ранг** — Переконайся, що вони реально на твоєму ELO (не смурфять і не бустнуті) **• Сумісність ролей** — Перевір їх пул чемпіонів та улюблені ролі перед чергою **• Постійна доступність** — Гріндинг ranked вимагає регулярної гри — знайди людей зі схожим розкладом **• Стиль спілкування** — Деякі гравці надають перевагу шоткалінгу, інші хочуть мінімального чату. Узгодь це заздалегідь. Найкращий підхід? Використовуй платформи, які верифікують ранги гравців через Riot API та дозволяють фільтрувати за роллю, розкладом та уподобаннями щодо спілкування. Витратиш менше часу на додж у чемп-селекті і більше часу на підйом рейтингу. [Ми написали гайд по пошуку тіммейтів у League](/blog/league-of-legends-teammate-guide) — а тут [як AI-матчмейкінг насправді працює під капотом](/blog/ai-gaming-matchmaking-guide).
+Знайти хороших тіммейтів для ranked — це не питання кількості, а сумісності. Гра з рандомами, які не спілкуються, рейдж-квітять після first blood або грають ролі, в яких вони не комфортні, коштує тобі LP і нервів. На що звертати увагу в тіммейтах для ranked: **• Реальний ранг** — Переконайся, що вони реально на твоєму ELO (не смурфять і не бустнуті) **• Сумісність ролей** — Перевір їх пул чемпіонів та улюблені ролі перед чергою **• Постійна доступність** — Гріндинг ranked вимагає регулярної гри — знайди людей зі схожим розкладом **• Стиль спілкування** — Деякі гравці надають перевагу шоткалінгу, інші хочуть мінімального чату. Узгодь це заздалегідь. Найкращий підхід? Використовуй платформи з реальними фільтрами за рангом, роллю та розкладом — фільтр перед чатом. Витратиш менше часу на додж у чемп-селекті і більше часу на підйом рейтингу. [Ми написали гайд по пошуку тіммейтів у League](/blog/league-of-legends-teammate-guide.html) — а тут [як AI-матчмейкінг насправді працює під капотом](/uk/blog/posibnik-matchmaking-ai-igri.html).
 
 ### Які є найкращі альтернативи Discord для пошуку ігрових товаришів по команді?
 
-Discord чудово підходить для спілкування з тіммейтами, які у тебе ВЖЕ є. Для пошуку нових? Це не той інструмент. Ось реальність: Публікація 'LFG' на сервері з 10 000 учасників означає, що твоє повідомлення буде поховане за хвилини. У тебе немає способу фільтрувати за рівнем скілу, доступністю або стилем гри перед зверненням. І найголовніше — ти робиш всю роботу. Спамиш канали, пишеш незнайомцям в DM, сподіваючись, що хтось відповість. **Те, що тобі насправді потрібно — це платформа, створена для пошуку:** **• Профілі гравців** — Бачиш ранг, розклад та улюблені ролі когось ДО того, як написати **• Розумна фільтрація** — Пошук за критеріями, які важливі (мова, часовий пояс, рівень скілу) **• Активний підбір** — Отримуй рекомендації замість крику в порожнечу Мета не в тому, щоб замінити Discord — а в тому, щоб використовувати правильний інструмент для пошуку, а потім перейти на Discord для голосового чату, коли знайдеш сумісних тіммейтів. [Дізнайся, як LFG еволюціонувало від форумів до розумного матчмейкінгу](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
+Discord чудово підходить для спілкування з тіммейтами, які у тебе ВЖЕ є. Для пошуку нових? Це не той інструмент. Ось реальність: Публікація 'LFG' на сервері з 10 000 учасників означає, що твоє повідомлення буде поховане за хвилини. У тебе немає способу фільтрувати за рівнем скілу, доступністю або стилем гри перед зверненням. І найголовніше — ти робиш всю роботу. Спамиш канали, пишеш незнайомцям в DM, сподіваючись, що хтось відповість. **Те, що тобі насправді потрібно — це платформа, створена для пошуку:** **• Профілі гравців** — Бачиш ранг, розклад та улюблені ролі когось ДО того, як написати **• Розумна фільтрація** — Пошук за критеріями, які важливі (мова, часовий пояс, рівень скілу) **• Активний підбір** — Отримуй рекомендації замість крику в порожнечу Jynx замикає цей цикл в одному додатку: матч, спільна голосова кімната — групова, 1:1 або постійна Chill Room — без виходу з розмови, що почалася зі свайпу. [Дізнайся, як LFG еволюціонувало від форумів до розумного матчмейкінгу](/blog/lfg-evolution-forums-to-smart-matchmaking.html). Повне лоб-у-лоб порівняння — у нашому розборі за підписом засновника: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 функцій, включно з тим, де Discord виграє.
 
 ### Чи є безкоштовні додатки та платформи для ігрового матчмейкінгу?
 
-Так, і тобі не повинно бути потрібно платити лише за те, щоб знайти тіммейтів. Багато платформ пропонують надійні безкоштовні плани, які включають основне: пошук гравців, перегляд профілів, чат та планування сесій. **Чого очікувати від безкоштовних планів:** • Основні функції матчмейкінгу (пошук, фільтр, підключення) • Профілі гравців зі статистикою • Базовий обмін повідомленнями та планування сесій **Що зазвичай додають преміум-плани:** • Необмежена кількість щоденних матчів/свайпів • Розширені фільтри (дуже специфічні критерії) • Косметичні покращення (значки, кастомізація профілю) **Червоні прапори, яких слід уникати:** • Пейволи на базові функції як обмін повідомленнями або перегляд, хто з тобою заматчився • Примушення платити за верифікацію рангу або прив'язку акаунтів • Відсутність безкоштовного плану взагалі (якщо вони впевнені у продукті, мають дати тобі спробувати) Твій час цінніший за абонентські збори. Зосередься на платформах зі щедрими безкоштовними планами, щоб протестувати перед тим, як комітитися.
+Так, і тобі не повинно бути потрібно платити лише за те, щоб знайти тіммейтів. Багато платформ пропонують надійні безкоштовні плани, які включають основне: пошук гравців, перегляд профілів, чат та планування сесій. **Чого очікувати від безкоштовних планів:** • Основні функції матчмейкінгу (пошук, фільтр, підключення) • Профілі гравців зі статистикою • Базовий обмін повідомленнями та планування сесій **Що зазвичай додають преміум-плани:** • Необмежена кількість щоденних матчів/свайпів • Розширені фільтри (дуже специфічні критерії) • Косметичні покращення (значки, кастомізація профілю) **Червоні прапори, яких слід уникати:** • Пейволи на базові функції як обмін повідомленнями або перегляд, хто з тобою заматчився • Примушення платити, щоб бачити свої матчі або писати тімейтам • Відсутність безкоштовного плану взагалі (якщо вони впевнені у продукті, мають дати тобі спробувати) Твій час цінніший за абонентські збори. Зосередься на платформах зі щедрими безкоштовними планами, щоб протестувати перед тим, як комітитися.
 
 Безкоштовно назавжди
 
@@ -145,10 +145,10 @@ Discord чудово підходить для спілкування з тім�
 
 Створено спільнотою
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Банер завантаження Microsoft Store](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
 
 ### Ваші пропозиції — наш пріоритет
 
-Thanks for your feedback!
+Дякуємо за ваш відгук!
 
-No spam. We'll only contact you with important Jynx news and updates.
+Без спаму. Ми зв'яжемося з вами лише з важливими новинами та оновленнями Jynx.

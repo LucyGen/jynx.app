@@ -60,7 +60,7 @@ Selamat datang di Jynx, platform gaming sosial yang menghubungkan pemain, memban
 
 Dengan mengakses atau menggunakan aplikasi Jynx ("Layanan", "Platform", "Aplikasi"), Anda setuju untuk terikat oleh Ketentuan Layanan ini ("Ketentuan", "ToS"). Jika Anda tidak setuju dengan Ketentuan ini, Anda tidak boleh menggunakan Layanan.
 
-**Separate and optional marketing consent.** Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6.
+**Persetujuan pemasaran terpisah dan opsional.** Menerima Ketentuan ini bukanlah persetujuan untuk menerima email pemasaran, re-engagement, atau survei. Komunikasi semacam itu memerlukan opt-in terpisah, opsional, dan khusus untuk tujuan tertentu yang dapat Anda berikan atau tolak tanpa kehilangan akses ke Layanan, dan yang dapat Anda tarik kapan saja tanpa menghentikan akun Anda. Pemisahan ini diwajibkan oleh LGPD Pasal 8 §4 (yang membatalkan otorisasi generik atau digabungkan) dan oleh GDPR Pasal 4(11) dan Pasal 7. Ketentuan yang mengatur program email pemasaran dan re-engagement kami, termasuk survei umpan balik uninstall dan churn, diatur di §5.5 di bawah dan di Kebijakan Privasi §5.6.
 
 **PENTING:** Ketentuan ini merupakan perjanjian yang mengikat secara hukum antara Anda dan Jynx Group.
 
@@ -91,13 +91,13 @@ Selama registrasi, Anda akan diminta untuk memberikan tanggal lahir. Jika Anda b
 
 **Penegakan:** Gerbang usia kami secara otomatis memblokir pembuatan akun untuk pengguna di bawah 18 tahun. Jika kami menemukan bahwa Anda telah memberikan informasi palsu tentang usia Anda, akun Anda akan segera dihentikan.
 
-**No marketing to minors.** If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
+**Tanpa pemasaran kepada anak di bawah umur.** Jika kami mengidentifikasi bahwa pemegang akun berusia di bawah 18 tahun, akun segera dihentikan dan pengguna dikeluarkan dari semua komunikasi pemasaran, re-engagement, dan survei berdasarkan §5.5 (lihat juga Kebijakan Privasi §2; LGPD Pasal 14; GDPR Pasal 8).
 
 ### 3.2. Pembuatan Akun
 
 Untuk menggunakan Jynx, Anda harus membuat akun dengan memberikan:
 
-- A valid email address OR authentication via Google/Apple
+- Alamat email yang valid ATAU autentikasi via Google/Apple
 - Username unik
 - Tanggal lahir Anda (untuk verifikasi usia)
 - Informasi profil (negara, zona waktu, bahasa, preferensi gaming)
@@ -173,9 +173,9 @@ Saat menggunakan Jynx, Anda setuju untuk TIDAK:
 #### Pelanggaran Privasi:
 
 - Berbagi informasi pribadi pengguna lain tanpa persetujuan (doxxing)
-- Tangkapan layar atau berbagi percakapan pribadi tanpa izin
+- Mengambil tangkapan layar atau membagikan percakapan pribadi tanpa izin
 - Mengumpulkan atau memanen data pengguna tanpa otorisasi
-- Record, capture, or redistribute another member's shared screen without their consent
+- Merekam, menangkap, atau mendistribusikan ulang layar yang dibagikan anggota lain tanpa persetujuan mereka
 
 #### Pelanggaran Konten:
 
@@ -183,7 +183,7 @@ Saat menggunakan Jynx, Anda setuju untuk TIDAK:
 - Berbagi konten kekerasan, grafis, atau mengganggu
 - Memposting konten yang melibatkan anak di bawah umur dalam kapasitas apa pun
 - Mendistribusikan materi berhak cipta tanpa izin
-- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
+- Menggunakan screen sharing untuk mentransmisikan konten yang melanggar Ketentuan ini — semua larangan di bagian ini berlaku sepenuhnya pada apa yang terlihat di layar yang Anda bagikan
 
 #### Manipulasi Platform:
 
@@ -196,7 +196,7 @@ Saat menggunakan Jynx, Anda setuju untuk TIDAK:
 
 **Atur Ulang Nama Pengguna & Media Profil:** Apabila nama pengguna, nama tampilan, handle, atau media profil (avatar, foto) Anda melanggar Ketentuan ini — termasuk menyamar sebagai orang, merek, atau lembaga nyata, penyalahgunaan merek dagang, atau identitas yang menyesatkan — kami berhak mengganti nama akun Anda menjadi penanda generik, mengatur ulang atau menghapus media yang melanggar, dan memberi tahu Anda tentang perubahan tersebut. Hal ini tidak memengaruhi hak Anda untuk mengajukan banding sesuai Bagian 7.4.
 
-### 4.3. Rate Limiting & Anti-Spam
+### 4.3. Pembatasan Rate & Anti-Spam
 
 Untuk melindungi platform dan pengalaman pengguna, kami menegakkan batasan rate:
 
@@ -310,26 +310,26 @@ Kami berhak menghapus Konten Pengguna apa pun yang:
 
 Anda akan diberi tahu tentang penghapusan konten bila memungkinkan.
 
-### 5.5. Marketing & Re-engagement Email Program
+### 5.5. Program Email Pemasaran & Re-engagement
 
-(Note: §5.2 "Marketing & Promotional Use" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)
+(Catatan: §5.2 "Penggunaan Pemasaran & Promosi" mengatur penggunaan ulang Konten Pengguna dalam materi pemasaran Jynx. §5.5 ini mengatur pengiriman email pemasaran, re-engagement, dan survei oleh Jynx kepada Anda — ini adalah subjek yang berbeda dan tidak dicakup oleh §5.2.)
 
-Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:
+Tunduk pada Kebijakan Privasi §5.6 Komunikasi Pemasaran, Jynx dapat mengirimkan email pemasaran, re-engagement, dan survei uninstall/churn kepada Anda sebagaimana dijelaskan pada bagian tersebut. Program ini beroperasi dengan ketentuan berikut:
 
-1. **Legal basis by cohort.**
-  - **EU/EEA users:** we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.
-  - **Brazilian users:** we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.
-2. **Uninstall / churn surveys.** We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.
-3. **One-click unsubscribe.** Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.
-4. **Erasure and suppression.** If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.
-5. **Children.** We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
-6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
+1. **Dasar hukum per kohort.**
+  - **Pengguna UE/EEA:** kami mengirim email pemasaran dan re-engagement hanya dengan persetujuan opt-in eksplisit Anda terlebih dahulu (ePrivacy Directive Pasal 13(1) / CPCE Pasal L. 34-5; GDPR Pasal 6(1)(a)). Setelah diluncurkannya langganan berbayar dan Founder Packs, Layanan kini menjadi layanan berbayar dalam arti ePrivacy Directive Pasal 13(2) / CPCE Pasal L. 34-5, sehingga pengecualian soft-opt-in pada prinsipnya tersedia untuk produk dan layanan serupa bagi pelanggan yang sudah ada. Sebagai sikap konservatif, kami terus bersandar pada persetujuan opt-in eksplisit Anda terlebih dahulu dan tidak akan beralih ke dasar soft-opt-in tanpa penilaian terdokumentasi yang dicatat dalam Catatan Aktivitas Pemrosesan kami dan pemberitahuan yang diperbarui kepada Anda.
+  - **Pengguna Brasil:** kami mengirim email pemasaran dan re-engagement atas dasar (i) persetujuan Anda (LGPD Pasal 7 I dan Pasal 8) untuk setiap pengiriman prospek, cold, atau cross-sell/mitra, atau (ii) kepentingan sah kami (LGPD Pasal 7 IX dan Pasal 10), didukung Legitimate Interests Assessment terdokumentasi mengikuti ANPD Legitimate Interest Guide (2 Feb 2024), bagi pengguna yang masih ada atau baru berhenti yang menerima pembaruan produk, re-engagement, atau satu survei churn/uninstall singkat tentang aplikasi Jynx.
+2. **Survei uninstall / churn.** Kami lebih memilih mengajukan pertanyaan uninstall/churn dalam aplikasi pada saat uninstall. Bila survei email dikirim: survei tidak memuat konten promosi atau re-engagement; kami mengirim maksimal satu (1) survei per pengguna dalam sekitar 60 hari setelah uninstall atau penghapusan akun; dan alamat email kemudian dihapus atau dianonimkan sesuai Kebijakan Privasi §6.
+3. **Unsubscribe satu klik.** Setiap email pemasaran menyertakan mekanisme unsubscribe satu klik yang berfungsi (RFC 8058), yang dihormati secara waktu nyata. Anda juga dapat menarik persetujuan atau menolak melalui Pengaturan > Privasi > Preferensi Komunikasi atau dengan email ke dpo@jynx.app, tanpa menghentikan akun Anda dan tanpa biaya (LGPD Pasal 8 §5; GDPR Pasal 7(3) dan Pasal 21(2)). Kami menghormati Kode Pertahanan Konsumen Brasil (Undang-Undang 8.078/90, khususnya Pasal 39 III) dan tidak mengirim pesan yang tidak diminta atau bersifat kasar; pengiriman terus-menerus setelah opt-out dilarang.
+4. **Penghapusan dan supresi.** Jika Anda menggunakan hak penghapusan (Kebijakan Privasi §7.3 / GDPR Pasal 17 / LGPD Pasal 18(VI) untuk data berbasis persetujuan), alamat email Anda dihapus dari semua jalur pemasaran dan ditambahkan ke daftar supresi ter-hash permanen; Anda tidak akan dihubungi kembali atau disurvei, termasuk melalui daftar impor atau daftar pihak ketiga apa pun. Sekadar penghapusan akun atau uninstall (tanpa permintaan penghapusan) tidak dengan sendirinya memicu supresi permanen — lihat Kebijakan Privasi §6 untuk jendela penyimpanan dan re-engagement yang berlaku.
+5. **Anak-anak.** Kami tidak pernah dengan sengaja mengirim pemasaran kepada anak di bawah umur; setiap akun yang teridentifikasi milik pengguna di bawah 18 tahun dihentikan dan dikeluarkan dari program ini (Kebijakan Privasi §2; LGPD Pasal 14; GDPR Pasal 8).
+6. **Penyedia layanan email.** Kami menggunakan penyedia layanan email pihak ketiga (pemroses) di bawah Perjanjian Pemrosesan Data, disebutkan di Kebijakan Privasi §4.4 dan §9 Layanan Pihak Ketiga (§9.5).
 
-This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+Klausul ini tidak mengurangi hak perlindungan konsumen wajib apa pun yang Anda miliki berdasarkan hukum negara tempat Anda tinggal, termasuk Kode Pertahanan Konsumen Brasil.
 
-### 5.6. Account-Activity Notifications
+### 5.6. Notifikasi Aktivitas Akun
 
-**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
+**Notifikasi aktivitas akun.** Jynx mengirimkan notifikasi tentang aktivitas akun Anda (pesan baru, match, like), termasuk melalui email saat Anda melewatkannya di aplikasi. Menerima Ketentuan ini bukanlah persetujuan untuk menerima email pemasaran: komunikasi pemasaran (seperti email re-engagement dan berita kami) hanya dikirim dengan pendaftaran terpisah dan opsional dari Anda.
 
 ## 6. Komunitas & Fitur Gaming
 
@@ -418,16 +418,16 @@ Untuk melindungi komunitas dari penyalahgunaan, penegakan juga dapat berlaku di 
 Setelah penghentian akun:
 
 - Anda kehilangan akses ke akun dan semua data terkait
-- Data pengguna Anda dinonaktifkan sesuai dengan GDPR
+- Data pengguna Anda dianonimkan sesuai dengan GDPR
 - Akun Firebase Authentication Anda dihapus
 - Token OAuth (Google, Apple) secara otomatis dicabut
-- Your email address is purged from our marketing CRM and email service provider
-- If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list
-- Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized
+- Alamat email Anda dibersihkan dari CRM pemasaran dan penyedia layanan email kami
+- Jika penghentian Anda menyertakan permintaan penghapusan / hak untuk dilupakan (Kebijakan Privasi §7.3), alamat email Anda ditambahkan ke daftar supresi ter-hash permanen dan tidak akan pernah digunakan untuk pemasaran, re-engagement, atau survei, termasuk melalui daftar impor atau daftar pihak ketiga apa pun
+- Sekadar penghapusan akun atau uninstall (tanpa permintaan penghapusan) tidak menahan re-engagement secara permanen; jendela penyimpanan dan re-engagement di Kebijakan Privasi §6 berlaku, setelah itu alamat dihapus atau dianonimkan
 
 Refund Policy: If your account is terminated due to violations of these Terms, you are not entitled to a refund of the then-current Jynx+ subscription period, any unused prepaid Jynx+ months included in a Founder Pack, or virtual items (cosmetics). Founder Pack cosmetic items and the Founder badge are licensed, not owned (Section 8.3), and that license is revocable on termination for violations. Refund requests remain subject to the applicable store's refund policy (App Store / Google Play) and to Section 8.5.
 
-The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2).
+Langkah-langkah penanganan data di atas dijelaskan di bawah GDPR maupun LGPD; hak penghapusan pengguna Brasil diatur oleh LGPD Pasal 18 (catat bahwa penghapusan Pasal 18(VI) berlaku untuk data yang diproses atas dasar persetujuan, sedangkan data yang diproses atas kepentingan sah diatur oleh pembatasan tujuan berdasarkan Pasal 6 II dan hak untuk meminta penghentian pemrosesan berdasarkan Pasal 18 §2).
 
 ### 7.3. Penghapusan yang Diprakarsai Pengguna
 
@@ -512,9 +512,9 @@ Jynx+ is an automatically renewing paid subscription.
 
 ### 8.5. Refunds & Cancellations
 
-#### EU Consumer Rights (Right of Withdrawal):
+#### Hak Konsumen UE (Hak Penarikan):
 
-If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state.
+Jika Anda adalah konsumen di Uni Eropa, Anda pada umumnya memiliki hak penarikan 14 hari untuk kontrak jarak jauh berdasarkan Consumer Rights Directive. Namun, untuk konten digital yang penyediaannya telah dimulai dengan persetujuan tegas Anda terlebih dahulu dan pengakuan Anda bahwa dengan demikian Anda kehilangan hak penarikan — yang mencakup entitlement Jynx+, item kosmetik, dan Founder Packs, yang penyediaannya dimulai segera setelah pembelian — hak penarikan tersebut hilang sesuai Pasal 16(m) Consumer Rights Directive dan Pasal L221-28 13° Code de la consommation Prancis. Tidak ada dalam Ketentuan ini yang mencabut hak konsumen wajib apa pun yang tidak dapat dilepaskan berdasarkan hukum negara anggota UE Anda.
 
 #### Refund Policy:
 
@@ -524,9 +524,9 @@ If you are a consumer in the European Union, you would normally have a 14-day ri
 - Store-Managed: Because the App Store and Google Play are the merchant of record for these purchases, refund eligibility and processing are ultimately governed by the applicable store's refund policy.
 - No Refunds for: Account termination due to Terms violations (see Section 7.2), or change of mind after the right of withdrawal has been lost as described above.
 
-#### Brazilian Consumers:
+#### Konsumen Brasil:
 
-If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC.
+Jika Anda adalah konsumen di Brasil, Anda berhak menarik diri dari kontrak jarak jauh dalam 7 hari sejak penerimaan berdasarkan Pasal 49 Kode Pertahanan Konsumen Brasil (CDC), dapat digunakan tanpa justifikasi, dan hak ini tidak dapat dilepaskan. Untuk item digital yang penyediaannya telah dimulai atas permintaan tegas Anda, jumlah yang dikembalikan saat penarikan memperhitungkan apa yang telah disediakan, sesuai CDC Pasal 49 §2°. Mekanisme pengembalian dana untuk pembelian melalui App Store atau Google Play mengikuti kebijakan pengembalian dana toko yang berlaku. Tidak ada dalam Ketentuan ini yang mengecualikan atau membatasi perlindungan konsumen wajib dari CDC.
 
 ## 9. Layanan Pihak Ketiga
 
@@ -537,7 +537,7 @@ Jynx terintegrasi dengan layanan pihak ketiga berikut, masing-masing diatur oleh
 Kami menggunakan Firebase untuk:
 
 - Autentikasi
-- Cloud Firestore (database)
+- Cloud Firestore (basis data)
 - Cloud Storage (gambar)
 - Cloud Functions (logika backend)
 - Cloud Messaging (notifikasi push)
@@ -547,13 +547,13 @@ Kami menggunakan Firebase untuk:
 
 ### 9.2. Sentry (Pemantauan Error)
 
-Kami menggunakan Sentry untuk pelacakan error dan pemantauan performa. Data dinonaktifkan sebelum dikirim ke Sentry.
+Kami menggunakan Sentry untuk pelacakan error dan pemantauan performa. Data dianonimkan sebelum dikirim ke Sentry.
 
 ### 9.3. Riot Games API
 
 Kami menggunakan Riot Games API untuk mengambil statistik gaming (League of Legends, Valorant, dll.).
 
-### 9.4. OAuth Providers
+### 9.4. Penyedia OAuth
 
 Kami menawarkan autentikasi melalui:
 
@@ -562,25 +562,25 @@ Kami menawarkan autentikasi melalui:
 
 Anda bertanggung jawab untuk mematuhi ketentuan layanan pihak ketiga ini.
 
-### 9.5. Email Service Provider
+### 9.5. Penyedia Layanan Email
 
-We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.
+Kami menggunakan penyedia layanan email pihak ketiga untuk mengirimkan komunikasi pemasaran, re-engagement, dan survei uninstall/churn sebagaimana dijelaskan di §5.5 serta di Kebijakan Privasi §5.6 dan §4.4. Penyedia bertindak sebagai pemroses kami di bawah Perjanjian Pemrosesan Data dan hanya memproses data Anda atas instruksi terdokumentasi kami. Identitas, lokasi, sub-pemroses, dan mekanisme transfer internasional yang berlaku dari penyedia dijelaskan di Kebijakan Privasi §4.4 dan §9.
 
-You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours.
+Anda tetap bertanggung jawab mematuhi ketentuan layanan pihak ketiga mana pun tempat Anda memiliki akun sendiri; penyedia layanan email adalah vendor Jynx, bukan vendor Anda.
 
-### 9.6. LiveKit (Real-Time Voice)
+### 9.6. LiveKit (Suara Waktu Nyata)
 
-Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9.
+Jynx menggunakan LiveKit Cloud untuk menyediakan ruang suara waktu nyata. LiveKit bertindak sebagai pemroses kami untuk audio ruang suara di bawah Perjanjian Pemrosesan Data yang telah ditandatangani dan hanya memproses data atas instruksi terdokumentasi dari Jynx. Seperti dijelaskan di Kebijakan Privasi §4.5 dan §3.6, audio ruang suara dirutekan secara waktu nyata dan tidak direkam, disimpan, atau dipertahankan oleh Jynx maupun LiveKit. Mekanisme transfer internasional yang berlaku (Data Processing Addendum LiveKit, yang memasukkan klausul kontraktual standar UE) dan postur perutean global LiveKit dijelaskan di Kebijakan Privasi §9.
 
-### 9.7. AWS Rekognition (Image Moderation)
+### 9.7. AWS Rekognition (Moderasi Gambar)
 
-Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9.
+Jynx menggunakan Amazon Web Services (AWS) Rekognition untuk memindai gambar profil yang diunggah pengguna dari ketelanjangan dan konten lain yang melanggar kebijakan. AWS Rekognition bertindak sebagai pemroses kami di bawah Perjanjian Pemrosesan Data yang telah ditandatangani dan hanya memproses byte gambar atas instruksi terdokumentasi dari Jynx. Data yang diproses, postur penyimpanan (tanpa penyimpanan gambar terpisah oleh AWS), dan mekanisme transfer internasional yang berlaku dijelaskan di Kebijakan Privasi §4.8 dan §9.
 
-### 9.8. Meta (Advertising Attribution)
+### 9.8. Meta (Atribusi Iklan)
 
-We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+Kami menggunakan Meta (Facebook) App Events SDK untuk mengukur apakah instalasi aplikasi berasal dari pemasaran kami; di perangkat Apple, SDK hanya diinisialisasi setelah Anda memberikan izin App Tracking Transparency. Meta Platforms Ireland memproses metadata peristiwa aplikasi yang dihasilkan atas instruksi Jynx sebagai pemroses untuk atribusi dan pengukuran kampanye, dan Meta Platforms, Inc. dapat pula bertindak sebagai pengendali independen untuk tujuan sahnya sendiri di bawah ketentuannya sendiri. Data yang diproses, syarat persetujuan, dan mekanisme transfer yang berlaku dijelaskan di Kebijakan Privasi §4.9 dan §9.
 
-If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
+Jika Anda menerima, Jynx juga membagikan peristiwa konversi terbatas (seperti pendaftaran dan pembelian, beserta jumlahnya) dengan Meta untuk mengukur dan meningkatkan periklanan kami. Data Anda tidak pernah dijual. Di iPhone dan iPad ini memerlukan persetujuan Anda (GDPR Pasal 6(1)(a); LGPD Pasal 7, I). Di Android ini didasarkan pada persetujuan tersebut atau, bila sakelar pengukuran iklan ditampilkan kepada Anda aktif secara bawaan, atas kepentingan sah Jynx (LGPD Pasal 7, IX dan Pasal 10). Anda dapat mengubah pilihan Anda kapan saja di pengaturan Privasi: Pengaturan > Privasi > Pengukuran iklan. Detailnya, termasuk SKAdNetwork milik Apple (yang berlaku bagi setiap pengguna iOS, bahkan saat pelacakan atau pengukuran iklan ditolak), dijelaskan di Kebijakan Privasi §5.9.
 
 ## 10. Penolakan & Pembatasan Tanggung Jawab
 
@@ -633,11 +633,11 @@ Untuk perubahan material yang secara signifikan mempengaruhi hak atau kewajiban 
 
 Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Prancis dan peraturan Uni Eropa yang berlaku, tanpa memperhatikan prinsip konflik hukum.
 
-Peraturan yang Berlaku: Kode Sipil Prancis (Code civil), Kode Konsumen Prancis (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive.
+Peraturan yang Berlaku: Kode Sipil Prancis (Code civil), Kode Konsumen Prancis (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive, dan — bagi subjek data yang berlokasi di Brasil — Undang-Undang Perlindungan Data Pribadi Umum Brasil (Lei Geral de Proteção de Dados, Undang-Undang 13.709/2018, "LGPD") dan Kode Pertahanan Konsumen Brasil (Código de Defesa do Consumidor, Undang-Undang 8.078/90, "CDC").
 
 ### 12.2. Yurisdiksi
 
-Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC.
+Setiap sengketa yang timbul dari Ketentuan ini atau Layanan dapat diajukan ke pengadilan yang berwenang di Nantes, Prancis. Hal ini tidak mengurangi hak wajib apa pun yang mungkin Anda miliki berdasarkan hukum negara tempat Anda tinggal untuk mengajukan gugatan di negara tersebut — khususnya, bagi konsumen di UE, hak-hak yang bersumber dari Pasal 17 sampai 19 Regulasi Brussels I bis dan dari hukum perlindungan konsumen negara anggota Anda yang berlaku, serta, bagi konsumen Brasil, ketentuan-ketentuan CDC.
 
 ### 12.3. Penyelesaian Sengketa & Arbitrase
 
@@ -651,13 +651,13 @@ Sebelum memulai proses hukum, kami mendorong Anda untuk:
 2. Negosiasi Informal: Kami akan bekerja dengan Anda dengan itikad baik untuk mencapai resolusi damai dalam 30 hari
 3. Mediasi (Opsional): Jika resolusi informal gagal, Anda dapat mengusulkan mediasi melalui mediator pihak ketiga yang netral
 
-**Consumer ADR (EU/France):** In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court.
+**ADR Konsumen (UE/Prancis):** Sesuai Pasal L. 612-1 dan L. 616-6 Code de la consommation Prancis, Jynx Group SAS menunjuk Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, Prancis; tel. +33 1 89 47 00 14; https://www.cm2c.net — sebuah entitas mediasi konsumen yang dirujuk oleh Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), sebagai médiateur de la consommation untuk penyelesaian sengketa konsumen secara damai. Sebelum mengajukan ke mediator, Anda terlebih dahulu harus menyampaikan keluhan Anda kepada kami di dpo@jynx.app agar kami dapat mencoba menyelesaikannya. Mediasi gratis bagi Anda sebagai konsumen, dilakukan dalam bahasa Prancis, dan mengikuti prosedur yang dipublikasikan di situs web mediator (https://www.cm2c.net); mediator menjalankan proses dalam 90 hari sejak menerima permohonan. Anda setiap saat tetap memiliki hak untuk membawa sengketa ke pengadilan.
 
 ### 12.4. Hak Konsumen UE
 
 Jika Anda adalah konsumen di Uni Eropa, Anda mempertahankan semua hak konsumen wajib di bawah hukum UE, termasuk:
 
-- 14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)
+- Hak penarikan 14 hari untuk kontrak jarak jauh, dengan tunduk pada hilangnya hak tersebut secara undang-undang untuk konten digital setelah penyediaan dimulai dengan persetujuan Anda (lihat Bagian 8.5)
 - Hak untuk remedi untuk produk atau layanan yang cacat
 - Perlindungan terhadap ketentuan kontrak yang tidak adil
 - Hak untuk mengajukan keluhan kepada otoritas perlindungan konsumen lokal Anda
@@ -666,9 +666,9 @@ Jika Anda adalah konsumen di Uni Eropa, Anda mempertahankan semua hak konsumen w
 
 Praktik data kami mematuhi General Data Protection Regulation (GDPR). Lihat Kebijakan Privasi kami untuk detail tentang pengumpulan data, pemrosesan, penyimpanan, hak Anda, dan cara menghubungi Petugas Perlindungan Data kami.
 
-### 12.6. LGPD Compliance (Brazilian Users)
+### 12.6. Kepatuhan LGPD (Pengguna Brasil)
 
-For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law.
+Bagi subjek data yang berlokasi di Brasil, praktik data kami juga mematuhi LGPD (Lei Geral de Proteção de Dados, Undang-Undang 13.709/2018), yang berlaku berdasarkan Pasal 3-nya terlepas dari kedudukan Jynx di Prancis. Pengguna Brasil memiliki hak-hak yang diatur di Kebijakan Privasi §7.7 dan dapat mengajukan keluhan kepada ANPD (Autoridade Nacional de Proteção de Dados). Tidak ada dalam Ketentuan ini yang mencabut perlindungan konsumen wajib yang diberikan oleh CDC dari pengguna Brasil, termasuk larangan pesan komersial yang tidak diminta atau bersifat kasar dalam CDC Pasal 39 III. Untuk menghindari keraguan, klausul yurisdiksi eksklusif di §12.2 (pengadilan Nantes, Prancis) tetap berlaku untuk sengketa yang timbul dari atau berkaitan dengan Ketentuan ini, tanpa mengurangi hak perlindungan konsumen wajib apa pun yang tidak dapat dilepaskan berdasarkan hukum setempat konsumen.
 
 ## 13. Kontak & Informasi Hukum
 
@@ -728,10 +728,10 @@ Anda tidak dapat mengalihkan atau mentransfer Ketentuan ini tanpa persetujuan te
 
 These Terms are provided in English. In accordance with the French law known as the Loi Toubon (Law No. 94-665 of 4 August 1994) and Article L. 112-1 of the French Code de la consommation, a French-language version of these Terms is made available to consumers; in the event of any conflict between the English version and the French version, the French version shall prevail for consumers resident in France. For consumers outside France, the English version is the reference version, except where the law of your country of residence requires otherwise.
 
-## 15. Creator (Partner) Program
+## 15. Program Kreator (Mitra)
 
-If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.
+Jika Anda berpartisipasi dalam program Kreator (mitra) Jynx, penggunaan program oleh Anda tambahan pula diatur oleh Creator Referral Terms dan Self-Billing Mandate versi yang Anda terima saat pendaftaran (setiap versi yang diterima tidak dapat diubah setelah diterima), disajikan dalam aplikasi beserta pengenal versinya. Bila terjadi konflik, untuk hal-hal program, Creator Terms yang berlaku; selain itu Ketentuan ini dan Kebijakan Privasi yang berlaku.
 
-The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10.
+Informasi identitas, pembayaran, dan pajak yang diwajibkan program — seperti identifikasi CPF atau CNPJ dan jalur pembayaran pilihan Anda (PayPal, Wise, atau Pix) — serta para pemroses yang terlibat dijelaskan di Kebijakan Privasi §4.10.
 
 Dengan menggunakan Jynx, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat oleh Ketentuan Layanan ini.

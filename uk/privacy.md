@@ -9,7 +9,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 # Політика Конфіденційності
 
-Останнє оновлення: Листопад 2026
+Останнє оновлення: 17 листопада 2026
 
 Version: 1.13
 
@@ -65,13 +65,13 @@ Jynx («ми», «наш», «додаток») — це соціальна іг
 
 ### Юридична Інформація:
 
-- **Юридична Особа:** Jynx Group
-- **Контакт Відповідального За Конфіденційність:** dpo@jynx.app
-- **EU / EEA jurisdiction:** France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.
-- **Brazilian jurisdiction:** This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.
-- **Publication (LCEN):** Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network.
+- **Юридична Особа:** Jynx Group (Société par Actions Simplifiée, SIREN 991443896, зареєстровано в Нанті, Франція)
+- **Інспектор із захисту даних / Encarregado:** dpo@jynx.app
+- **Юрисдикція ЄС / ЄЕЗ:** Франція, Європейський Союз — ця Політика Конфіденційності відповідає Регламенту (ЄС) 2016/679 (GDPR) та Директиві 2002/58/ЄС (ePrivacy) у редакції, імплементованій у Франції.
+- **Бразильська юрисдикція:** Ця Політика Конфіденційності також відповідає бразильському закону nº 13.709/2018 (Lei Geral de Proteção de Dados, "LGPD"), який застосовується до обробки Jynx персональних даних суб'єктів даних, що перебувають у Бразилії, згідно зі ст. 3 LGPD, незалежно від відсутності в Jynx представництва в Бразилії.
+- **Публікація (LCEN):** Directeur de la publication: Antoine Haie. Цей вебсайт (jynx.app) розміщено на GitHub Pages, а доставку забезпечує мережа доставки контенту Cloudflare.
 
-For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.
+Для цілей LGPD Jynx Group є контролером (controlador) ваших персональних даних. Наш Інспектор Захисту Даних виконує функцію encarregado (DPO) та доступний за адресою dpo@jynx.app для будь-яких запитів, що стосуються LGPD. Хоча Jynx кваліфікується як pequeno agente de tratamento de dados pessoais (малий оператор даних) згідно з резолюцією ANPD CD/ANPD nº 2/2022, яка звільняє Jynx від обов'язкового призначення encarregado, Jynx добровільно підтримує цей опублікований канал комунікації.
 
 Ця політика конфіденційності описує, як ми збираємо, використовуємо, поширюємо та захищаємо ваші персональні дані під час використання нашого додатка.
 
@@ -81,7 +81,7 @@ For the purposes of the LGPD, Jynx Group is the controller (controlador) of your
 
 При створенні облікового запису ми просимо вас вказати дату народження. Якщо вам менше 18 років, ви не зможете створити обліковий запис або використовувати наші послуги.
 
-Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor.
+Маркетинг неповнолітнім. Jynx доступний лише користувачам від 18 років і застосовує автоматичну вікову перевірку. Якщо згодом ми з'ясуємо, що користувачу менше 18 років (LGPD ст. 14; GDPR ст. 8), ми негайно припинимо акаунт, виключимо користувача з усіх маркетингових, реактиваційних та опитувальних комунікацій і видалимо пов'язані маркетингові дані. Ми ніколи свідомо не збираємо маркетингову згоду від неповнолітнього.
 
 ## 3. Дані, Які Збираються
 
@@ -94,9 +94,9 @@ Marketing to minors. Jynx is restricted to users aged 18 and over and applies an
 - Email (для облікових записів email/пароль)
 - Ім'я користувача/нікнейм
 - Фото профілю (необов'язково)
-- Social login identifiers (Google, Apple) if you use these methods
-- Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time
-- Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account
+- Ідентифікатори соціального входу (Google, Apple), якщо ви використовуєте ці методи
+- Ідентифікатори Discord (ваш Discord user ID), якщо ви вирішите під'єднати свій акаунт Discord для інтеграції з Discord — підключення використовує OAuth Discord лише з правом identify і не є способом входу; ви можете від'єднати його будь-коли
+- Гостьовий перегляд (коли доступний): ви можете оглядати публічні частини Jynx без створення акаунта; у гостьовому режимі ми обробляємо лише локально збережений гостьовий ідентифікатор і технічні дані з §3.3, потрібні для роботи додатка — профіль не створюється, і дані акаунта не зберігаються. Щоб підбирати команду, спілкуватися або долучатися до спільнот, потрібно створити акаунт
 
 #### Інформація Профілю:
 
@@ -152,9 +152,9 @@ Marketing to minors. Jynx is restricted to users aged 18 and over and applies an
 - Час, проведений у додатку
 - Взаємодії з інтерфейсом
 
-Ви можете вимкнути збір аналітичних даних у Налаштування > Конфіденційність > «Увімкнути Аналітику».
+Ви можете вимкнути збір аналітичних даних у Налаштування > Приватність > «Увімкнути Аналітику».
 
-Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9.
+Вимірювання реклами з Meta окреме від аналітики та має власний перемикач: див. §5.9.
 
 ### 3.4. Дані Комунікації
 
@@ -163,7 +163,7 @@ Advertising measurement with Meta is separate from analytics and has its own swi
 
 ### 3.5. Контент, Створений Користувачами
 
-- Завантажені фото (фото профілю, додаткові фото) and images shared in direct messages
+- Завантажені фото (фото профілю, додаткові фото) та зображення, поширені в приватних повідомленнях
 - Звіти про безпеку та модерацію
 - Косметичні уподобання (аватари, значки)
 
@@ -209,15 +209,15 @@ Jynx не вмикає функції запису, транскрипції, Ag
 
 **Політика Конфіденційності Riot Games:** https://www.riotgames.com/en/privacy-notice
 
-### 4.4. Email Service Provider (Marketing & Survey Communications)
+### 4.4. Постачальник Email-Сервісів (Маркетингові та Опитувальні Комунікації)
 
-To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.
+Для доставки маркетингових, реактиваційних та опитувальних email про видалення/відтік, описаних у §5.6, Jynx використовує стороннього постачальника email-сервісів (ESP), який діє як обробник (GDPR ст. 28; LGPD ст. 39 — operador). ESP обробляє вашу email-адресу та мінімальні дані доставки (наприклад, статус відправлення/повернення) виключно за документально підтвердженими інструкціями Jynx, на підставі підписаної угоди про обробку даних.
 
-- **ESP identity, role, and location:** Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/
-- **Sub-processors:** Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/
-- **International transfer basis:** See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.
+- **Ідентичність, роль і розташування ESP:** Brevo (Brevo SAS, Париж, Франція) — наш постачальник email-сервісів і обробник даних на підставі підписаної угоди про обробку даних. Політика конфіденційності Brevo: https://www.brevo.com/legal/privacypolicy/
+- **Субобробники:** Актуальний перелік субобробників Brevo опубліковано в його угоді про обробку даних (Умови Використання): https://www.brevo.com/legal/termsofuse/
+- **Підстава міжнародної передачі:** Див. §9. Штаб-квартира Brevo розташована у Франції (ЄС). Тому передачі до Brevo підпадають під режим захисту ЄС за GDPR, а для бразильських користувачів — під рішення ANPD про адекватність для ЄС (резолюція nº 32/2026) — SCC або додатковий механізм не потрібні.
 
-We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6.
+Ми не продаємо ваші персональні дані. У маркетингові email не вбудовано трекінг-пікселів або прихованої аналітики без окремої правової підстави, розкритої в §5.6.
 
 ### 4.5. LiveKit Cloud (голос у реальному часі)
 
@@ -227,45 +227,45 @@ Jynx не вмикає функції запису, транскрипції, Ag
 
 LiveKit утримує операційні метадані сеансу — такі як ідентичності учасників, ідентифікатори кімнат, час підключень і метрики якості — для цілей виставлення рахунків, запобігання зловживанням та забезпечення роботи відповідно до своєї додаткової угоди про обробку даних. Ці метадані не використовуються для вашої ідентифікації поза платформою чи в рекламних цілях.
 
-### 4.6. App Store / Google Play (In-App Purchases and Subscriptions)
+### 4.6. App Store / Google Play (Внутрішні Покупки та Підписки)
 
-Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.
+Підписки Jynx+ та Founder Packs продаються в додатку через App Store від Apple та Google Play, які виступають продавцем запису для цих покупок (див. Умови Надання Послуг, Розділ 8). Дані платіжних інструментів (наприклад, реквізити картки) збираються та обробляються виключно Apple/Google відповідно до їхніх політик конфіденційності; Jynx не збирає, не отримує та не зберігає жодних даних платіжних інструментів.
 
-Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).
+Через нашого постачальника білінгу RevenueCat (обробник, що діє на підставі підписаної угоди про обробку даних; GDPR ст. 28; LGPD ст. 39 — operador), Jynx отримує лише інформацію, необхідну для надання придбаного: статус вашої підписки та прав (наприклад, чи активний Jynx+ і дату його поновлення), придбаний рівень Founder Pack та ідентифікатори транзакцій. Ці дані зберігаються стільки, скільки потрібно для надання Сервісу та виконання бухгалтерських і облікових зобов'язань (§6), і використовуються виключно для надання та підтримки ваших прав і запобігання шахрайству. RevenueCat зареєстрований у США; передачі персональних даних до RevenueCat спираються на EU-US Data Privacy Framework (для компаній RevenueCat, самосертифікованих у DPF) або на стандартні договірні положення там, де DPF не застосовується. Застосовний механізм передачі для даних бразильських користувачів підтверджено в нашому Реєстрі Дій з Обробки (див. §9).
 
-- Apple Privacy Policy: https://www.apple.com/legal/privacy/
-- Google Privacy Policy: https://policies.google.com/privacy
-- RevenueCat Privacy Policy: https://www.revenuecat.com/privacy
+- Політика конфіденційності Apple: https://www.apple.com/legal/privacy/
+- Політика конфіденційності Google: https://policies.google.com/privacy
+- Політика конфіденційності RevenueCat: https://www.revenuecat.com/privacy
 
-### 4.7. Specialized Child-Safety Technology Providers
+### 4.7. Спеціалізовані Постачальники Технологій Захисту Дітей
 
-To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9).
+Для виявлення відомих матеріалів сексуального насильства над дітьми (див. §5.8) Jynx співпрацює зі спеціалізованими постачальниками технологій захисту дітей, які діють як обробники (GDPR ст. 28; LGPD ст. 39 — operador). Ці постачальники отримують лише незворотні хеші, створені з зображень, — але не самі зображення — і виконують звіряння хешів у регіоні ЄС, виключно для виявлення загроз безпеці дітей за документально підтвердженими інструкціями Jynx. Створення хешу з зображення відбувається у власній інфраструктурі Google Cloud компанії Jynx (див. §9).
 
-### 4.8. Cloud Image-Moderation Provider (AWS)
+### 4.8. Хмарний Постачальник Модерації Зображень (AWS)
 
-To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9).
+Для безпеки платформи фото профілю та зображення галереї перевіряються автоматизованим сервісом класифікації зображень — Amazon Rekognition, наданим Amazon Web Services (AWS), який діє як обробник (GDPR ст. 28; LGPD ст. 39 — operador). З цією метою зображення передається до AWS і аналізується машинним навчанням на неприйнятний контент (наприклад, оголеність або відверті матеріали); результатом є машинно згенерована мітка та показник упевненості, які обробляються в нашому процесі модерації (див. Політику Захисту Дітей). Ця обробка використовується виключно для модерації контенту та безпеки — ніколи для профілювання, реклами чи будь-якої іншої мети. AWS обробляє ці дані в регіоні AWS, налаштованому для сервісу (зараз Сан-Паулу, Бразилія); застосовуються заходи захисту передач з §9. Як і решта Сервісу, зображення обробляється у власній інфраструктурі Google Cloud компанії Jynx перед передачею до AWS (див. §9).
 
-### 4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)
+### 4.9. Атрибуція Реклами (Meta, Apple ATT, Google Play Install Referrer)
 
-To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.
+Щоб виміряти, чи встановлення нашого додатка є результатом маркетингу, ми використовуємо рекламні та атрибуційні технології, за вашої згоди там, де вона потрібна: Meta (Facebook) App Events SDK (Meta Platforms Ireland) та Google Play Install Referrer API. На пристроях Apple Meta SDK ініціалізується лише після надання вами дозволу App Tracking Transparency (ATT); без цієї згоди рекламний ідентифікатор (IDFA) не збирається, а SDK не ініціалізується. На Android Google Play Install Referrer API повідомляє, чи походить ваша установка зі сторінки магазину чи кампанійного посилання, а рекламний ідентифікатор (GAID) використовується відповідно до налаштувань рекламного ідентифікатора вашого пристрою. Події, що надсилаються до Meta, обмежені активацією додатка та метаданими подій додатка (включно з вашим ідентифікатором користувача додатка, якщо ви увійшли, який очищається з SDK при виході), що обробляються за інструкціями Jynx для атрибуції та вимірювання кампаній.
 
-Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.
+Meta Platforms Ireland обробляє ці дані як наш обробник для зазначеної вище мети атрибуції; Meta Platforms, Inc. може додатково діяти як незалежний контролер для власних законних цілей на підставі власних умов (Data Processing Terms від Meta та політика конфіденційності на https://www.facebook.com/privacy/policy). Передачі до США спираються на EU-US Data Privacy Framework для самосертифікованих компаній Meta або на стандартні договірні положення (§9). Ви можете відмовити у дозволі ATT або відкликати його, а також скинути рекламний ідентифікатор будь-коли в налаштуваннях пристрою; відмова не впливає на ваше використання Jynx.
 
-**Ad measurement.** Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.
+**Вимірювання реклами.** Понад атрибуцію встановлень ми також вимірюємо конверсії: події, якими ми ділимося з Meta, включають реєстрацію, завершення онбордингу та покупки — із сумою та валютою покупки. Де ви дали згоду, хешована (незворотно перемішана) email-адреса або номер телефону також можуть передаватися для покращення якості підбору; цього ніколи не буває для користувачів, які вимірюються на нашій законній зацікавленості (нижче). Подія реєстрації може також містити вашу самодекларовану стать. Нічого іншого не передається — ні повідомлень, полів профілю, ігор, спільнот, контактів, розташування чи фото — і ваші дані ніколи не продаються. Правові підстави, ваш вибір та розкриття щодо Apple SKAdNetwork описані в §5.9.
 
-Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing.
+Зберігання: Jynx не тримає окремої копії подій, переданих Meta. Події, які вже передано, залишаються під дією процесів зберігання та видалення Business Tools від Meta, що застосовуються з моменту передачі.
 
-### 4.10. Creator (Partner) Program — KYC and Payouts
+### 4.10. Програма Криейторів (Партнерська) — KYC та Виплати
 
-If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).
+Якщо ви долучаєтеся до програми криейторів (партнерської програми) Jynx, ми обробляємо відомості про ідентичність, податки та виплати, потрібні програмі: ваш CPF або CNPJ (перевіряється в додатку), обраний вами канал виплат — PayPal (ідентифікується email), банківський переказ Wise (Бразилія) або ключ Pix — і записи про результативність ваших кампаній (атрибутовані реєстрації; див. §10 щодо рефералів). Записи про виплати зберігаються в псевдонімізованій формі (§10). Програмою керують версіоновані Creator Referral Terms та Self-Billing Mandate, які ви приймаєте при записі (див. Умови Надання Послуг §15).
 
-Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9.
+Виплати виконуються через платіжну установу, що працює з обраним вами каналом: PayPal або Wise отримують інструкції щодо переказу та дані, потрібні їм для перевірки вашої ідентичності, запобігання шахрайству та виконання регуляторних зобов'язань, діючи на власних умовах як незалежні платіжні установи (їхні політики конфіденційності опубліковано на їхніх сайтах); виплата через Pix — це переказ, ініційований Jynx Group на наданий вами ключ Pix. Застосовні заходи захисту міжнародної передачі описані в §9.
 
-### 4.11. AI Features
+### 4.11. ШІ-Функції
 
-**Avatar generation.** The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).
+**Генерація аватарів.** Квіз аватарів може генерувати стилізовані пропозиції аватарів для вашого профілю. Генерація зараз працює на Cloudflare Workers AI (Cloudflare, Inc., обробник) за документально підтвердженими інструкціями Jynx; якщо базовий рушій зміниться, цей розділ буде оновлено до або разом зі зміною. Вхідні дані — ваші відповіді на квіз та вподобання стилю гри — ніколи ваші фото — разом з вашим ідентифікатором користувача; пропозиції повертаються в додаток як зображення PNG або WebP і зберігаються до 30 днів, щоб ви могли їх дістати, після чого видаляються. Згенеровані зображення — синтетичні, це не фотографії вас — і підлягають тій самій модерації, що й інші зображення (§4.8).
 
-**Companion messages (Quimera).** Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1).
+**Супутні повідомлення (Quimera).** Частина повідомлень супутнього застосунку складається або збагачується генеративною ШІ-системою (Google Gemini, обробник). Там, де повідомлення згенероване ШІ, воно позначається як таке; вас завжди інформують, коли ви взаємодієте зі згенерованим ШІ елементом, відповідно до ст. 50(1) Акту ЄС про ШІ.
 
 ## 5. Використання Даних
 
@@ -282,18 +282,18 @@ Payouts are executed through the payment institution operating the rail you chos
 - Рекомендування сумісних товаришів по команді (підбір на основі гри, рангу, стилю)
 - Відображення релевантного контенту
 
-### 3. Комунікація:
+### 3. Комунікація (операційна / транзакційна):
 
-- Відправлення важливих сповіщень (знайдені матчі, отримані повідомлення)
+- Надсилання важливих сервісних сповіщень (знайдені матчі, отримані повідомлення, попередження про безпеку акаунта та повідомлення про зміни політики за §11)
 
-Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category.
+Маркетингові, реактиваційні та опитувальні email про видалення/відтік описані окремо в §5.6 Маркетингові Комунікації і не підпадають під цю транзакційну категорію.
 
 ### 4. Покращення Сервісу:
 
 - Аналіз використання для покращення функцій
 - Виявлення та виправлення помилок
 - Оптимізація продуктивності
-- Generate avatar proposals and companion-message drafts using AI processors (§4.11)
+- Генерація пропозицій аватарів і чернеток супутніх повідомлень за допомогою ШІ-обробників (§4.11)
 
 ### 5. Безпека та Відповідність:
 
@@ -301,64 +301,64 @@ Marketing, re-engagement, and uninstall/churn-survey emails are described separa
 - Забезпечення дотримання наших умов використання
 - Виконання юридичних зобов'язань
 
-We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.
+Ми можемо публікувати анонімізовану, агреговану статистику, отриману з використання додатка (наприклад, як гравці формують дуо). Ця статистика ніколи не ідентифікує окремих користувачів.
 
-### 5.6. Marketing Communications
+### 5.6. Маркетингові Комунікації
 
-In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., "Why did you stop using Jynx?"). These communications are distinct from transactional/service notifications.
+Понад операційні сповіщення, описані в §5.3, ми можемо надсилати вам маркетингові та реактиваційні комунікації електронною поштою, включно з: оновленнями продукту та анонсами функцій додатка Jynx; розсилками; реактиваційними повідомленнями із запрошенням повернутися до додатка; короткими опитуваннями зворотного зв'язку про видалення/відтік (наприклад, "Чому ви перестали користуватися Jynx?"). Ці комунікації відрізняються від транзакційних/сервісних сповіщень.
 
-**Legal basis — European Union / EEA users (GDPR + ePrivacy).** Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a "sale" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The "soft opt-in" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.
+**Правова підстава — користувачі ЄС / ЄЕЗ (GDPR + ePrivacy).** Маркетингові та реактиваційні email користувачам ЄС/ЄЕЗ надсилаються на підставі вашої попередньої явної згоди opt-in (ст. 13(1) Директиви ePrivacy, імплементованої у Франції статтею L. 34-5 Code des postes et des communications électroniques; GDPR ст. 6(1)(a) і ст. 7). Після запуску платних підписок (Jynx+) та разових покупок у додатку (Founder Packs) Сервіс став платним, і ці покупки становлять "продаж" у розумінні рішення Суду ЄС C-654/23 (13 листопада 2025). Виняток "м'якого opt-in" ст. 13(2) ePrivacy тому в принципі доступний нам для схожих продуктів і послуг наявним клієнтам. Проте, як обережну позицію, ми й далі спираємося на вашу попередню явну згоду opt-in; ми почнемо спиратися на підставу м'якого opt-in лише після документально зафіксованого повторного оцінювання, занесеного до нашого Реєстру Дій з Обробки, та оновленого повідомлення вам.
 
-**Legal basis — Brazilian users (LGPD).** For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:
+**Правова підстава — бразильські користувачі (LGPD).** Для бразильських користувачів маркетингові та реактиваційні комунікації спираються на дві альтернативні правові підстави:
 
-1. **Consent (LGPD Art. 7, I and Art. 8)** — captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.
-2. **Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)** — used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.
+1. **Згода (LGPD ст. 7, I та ст. 8)** — фіксується як окремий, заздалегідь не позначений, специфічний для мети opt-in під час реєстрації або в додатку, із записом дати, версії форми та мови; ви можете відкликати її будь-коли, безплатно, без втрати доступу до Сервісу (ст. 8 §5). Згода є підставою для будь-якої комунікації до потенційних користувачів, холодного охоплення або крос-сел/партнерських пропозицій поза основним додатком Jynx.
+2. **Законна зацікавленість (LGPD ст. 7, IX, розкрита ст. 10)** — застосовується лише для наявних або нещодавно відпалих користувачів, які отримують реактиваційні повідомлення, оновлення продукту про той самий додаток Jynx або одне коротке опитування про відтік/видалення. Перед застосуванням цієї підстави Jynx проводить і документує Оцінювання Законної Зацікавленості (LIA) за трифазним тестом Посібника ANPD щодо Законної Зацікавленості (2 лютого 2024): (i) мета, (ii) необхідність, (iii) звіряння та заходи захисту. LIA фіксує попередні відносини, обґрунтовані очікування користувача, мету, обрані найменш інтрузивні засоби та канал відмови. Законна зацікавленість не використовується для холодних/незапитуваних email, нерелевантного крос-селу, куплених списків чи нав'язливих повідомлень користувачам, що пішли, після явно завершених відносин.
 
-**Right to object / opt-out.** Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.
+**Право на заперечення / відмову.** Бразильські користувачі можуть будь-коли заперечити проти цієї обробки та відмовитися від неї через механізми §7.5 і §7.6 (відписа одним кліком у кожному email або перемикач налаштувань комунікацій у додатку), безплатно і без припинення акаунта. Ми виконуємо запити на відмову в реальному часі. Бразильський Кодекс Захисту Споживачів (CDC, закон 8.078/90, зокрема ст. 39 III) забороняє незапитувані або зловживальні комерційні повідомлення; тому ми суворо дотримуємося відмов і застосовуємо ліміти частоти, бо постійне надсилання або проігнорована відмова можуть вважатися зловживальною практикою.
 
-**Uninstall / churn surveys.** Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).
+**Опитування про видалення / відтік.** Щоразу, коли це операційно можливо, ми ставимо запитання про видалення/відтік у самому додатку в момент видалення (без потреби зберігати email). Якщо опитування надсилається email, воно не містить рекламного чи реактиваційного контенту; ми надсилаємо щонайбільше одне (1) опитування на користувача протягом приблизно 60 днів від видалення акаунта або видалення додатка; після цього email-адреса видаляється або необоротно анонімізується відповідно до §6; а користувачі, які подали запит на стирання / право бути забутим (§7.3), ніколи не контактуються знову й потрапляють до постійного списку блокування (див. §6 та Умови Надання Послуг §7.2).
 
-**Email tracking.** Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).
+**Трекінг email.** Маркетингові email не містять трекінг-пікселів або прихованої аналітики, що обробляє персональні дані без окремої правової підстави. Якщо буде запроваджено будь-який трекінг відкриттів/кліків, його буде розкрито тут, і він базуватиметься на згоді (LGPD ст. 8; ePrivacy ст. 5(3)), у узгодженні з настановами ANPD щодо трекінг-технологій (18 жовтня 2022).
 
-**Frequency.** Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message.
+**Частота.** Маркетингові email підлягають внутрішнім лімітам частоти; ви можете зменшити їх або вимкнути будь-коли через перемикач налаштувань комунікацій у додатку або, натиснувши "відписатися" у будь-якому повідомленні.
 
 ### 5.7. Безпека спільноти та обхід блокування
 
 Щоб захистити нашу спільноту від зловживань, ми використовуємо ідентифікатори пристрою та сигнали цілісності пристрою для виявлення та запобігання спробам обійти призупинення або блокування облікового запису. Якщо ми пов'язуємо пристрій із заблокованим обліковим записом, цей пристрій може бути обмежений у створенні нових облікових записів або вході в них. Якщо ви вважаєте, що це сталося помилково, ви можете подати апеляцію, звернувшись до support@jynx.app.
 
-Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service.
+Сигнали цілісності пристрою збираються та оцінюються за допомогою Talsec freeRASP — бібліотеки захисту від втручань і перевірки цілісності пристрою, вбудованої в додаток. freeRASP працює на вашому пристрої: локально виявляє загрози на кшталт рутованих пристроїв, runtime-хукінгу та розблокованих завантажувачів і звітує нам про результати через нашого власного постачальника моніторингу помилок (Sentry, §4.2) для запобігання зловживанням; він не надсилає ваші дані до жодного сервісу під керуванням Talsec.
 
-### 5.8. Child-Safety Image Analysis
+### 5.8. Аналіз Зображень для Захисту Дітей
 
-To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our [Child Safety Policy](/child-safety.html).
+Щоб захищати дітей і виконувати наші обов'язки з юридичного звітування, Jynx використовує автоматизовані системи для аналізу зображень, поширених у приватних повідомленнях, зіставляючи хеші, створені з цих зображень, з базами відомих матеріалів сексуального насильства над дітьми. Для цього аналізу самі зображення не передаються третім сторонам — лише незворотні хеші (див. §4.7). Фото профілю перевіряються окремо, обробкою модерації зображень, описаною в §4.8. Цей аналіз існує виключно для виявлення загроз безпеці дітей та наших обов'язків звітування; він не використовується для профілювання, реклами чи будь-якої іншої мети. Збіги обробляються, як описано в нашій [Політиці Захисту Дітей](/child-safety.html).
 
-### 5.9. Advertising Measurement
+### 5.9. Вимірювання Реклами
 
-If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.
+Якщо ви погоджуєтеся, ми також передаємо обмежені події (такі як реєстрація та покупки, з їхньою сумою) до Meta, щоб вимірювати й покращувати нашу рекламу. Ваші дані ніколи не продаються, і ви можете змінити свій вибір будь-коли в налаштуваннях Приватності. Що передається і кому — перелічено в §4.9.
 
-How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).
+Як це вмикається. На iPhone та iPad вимірювання реклами використовує ваші дані лише за вашої згоди (GDPR ст. 6(1)(a); LGPD ст. 7, I), наданої на екрані приватності першого запуску або пізніше в Налаштування > Приватність > Вимірювання реклами, і додатково вимагає авторизації App Tracking Transparency від Apple (див. §4.9). На Android вимірювання реклами ґрунтується або на тій самій згоді, або, для користувачів, яким перемикач вимірювання реклами показано увімкненим за замовчуванням на екрані першого запуску, на нашій законній зацікавленості у вимірюванні нашої реклами (LGPD ст. 7, IX і ст. 10), оціненій у документованому Оцінюванні Законної Зацікавленості. У цьому разі він увімкнений за замовчуванням, і ви можете вимкнути його на тому самому екрані або будь-коли в Налаштування > Приватність > Вимірювання реклами — заперечити так само легко, як лишити його увімкненим, безплатно, і це ніколи не вимагає видалення акаунта (LGPD ст. 18, §2).
 
-Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).
+Заходи захисту. Користувачі, про яких ми знаємо, що їм менше 18 років, і профілі з не встановленим віком ніколи не вимірюються на підставі законної зацікавленості. Відкликання згоди або заперечення припиняє подальшу передачу з вашого наступного запуску додатка; події, законно передані до того, залишаються в Meta на умовах зберігання §4.9, і відкликання не впливає на законність усього, зробленого до нього (GDPR ст. 7(3); LGPD ст. 8 §5).
 
-**Apple SKAdNetwork (iOS).** Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it.
+**Apple SKAdNetwork (iOS).** Окремо від викладеного вище, і для кожного користувача iPhone та iPad незалежно від будь-якого вибору чи налаштування — включно з випадками, коли трекінг або вимірювання реклами відхилено — SKAdNetwork від Apple повідомляє рекламній мережі, що показала вам рекламу, анонімну, агреговану інформацію про конверсії (наприклад, що відбулася реєстрація або покупка у певному діапазоні сум). Жоден ідентифікатор від Jynx і жодні персональні дані не залишають ваш пристрій для цього: це стандартний механізм атрибуції Apple, і ми не можемо вас за ним ідентифікувати.
 
-### 5.10. Emails and Communications
+### 5.10. Email та Комунікації
 
-**Account-activity notification emails (service).** When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the "Manage these notifications" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.
+**Email-сповіщення про активність акаунта (сервісні).** Коли ви пропускаєте активність акаунта в додатку (непрочитане повідомлення, новий збіг або лайк), Jynx може повідомити вас про це email. Це сервісні сповіщення на підставі нашої законної зацікавленості в роботі соціальної платформи (тримати вас обізнаними про ваші поточні взаємодії), і вони не містять рекламного контенту. Ви можете вимкнути кожен тип сповіщень (повідомлення, збіги, лайки) будь-коли в Налаштування > Приватність > Комунікації, або через посилання "Керувати цими сповіщеннями" у кожному email. Ви також можете заперечити проти цієї обробки будь-коли (GDPR ст. 21) на privacy@jynx.app.
 
-**Re-engagement and marketing emails (winback).** Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.
+**Реактиваційні та маркетингові email (winback).** Email, спрямовані на повернення вас до Jynx після періоду неактивності, та наші новини й пропозиції — це комерційне просування. Вони надсилаються лише за вашою попередньою, конкретною, вільно наданою та відкличною згодою, зібраною через окремий необов'язковий непозначений прапорець — ніколи як умова прийняття наших Умов. Ви можете відкликати її будь-коли в Налаштування > Приватність > Комунікації або через посилання відписи у кожному email.
 
-**Display of your username and profile picture in notification emails.** If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only).
+**Відображення вашого імені користувача та фото профілю в email-сповіщеннях.** Якщо ви взаємодіяли з іншим учасником (лайк, збіг, повідомлення), ваше ім'я користувача та фото профілю можуть з'являтися в email-сповіщеннях про активність акаунта, адресованих їм, коли вони неактивні. Ці елементи генеруються в момент відправлення і не зберігаються в наших email-журналах (лише ідентифікатор і лічильники).
 
-### 5.11. Location and Match Distance
+### 5.11. Розташування та Відстань до Матчів
 
-**What we process.** If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players ("~12 km") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.
+**Що ми обробляємо.** Якщо ви вирішите поділитися розташуванням, Jynx використовує його лише з однією метою: показ приблизної відстані між вами та іншими гравцями ("~12 км") у черзі матчів і, якщо ви увімкнете впорядкування за близькістю, — упорядкування цієї черги за відстанню. Ми обробляємо лише приблизне розташування: дозвіл, який ми запитуємо, — це грубе / знижене за точністю розташування операційної системи, і перед будь-яким збереженням ваші координати прив'язуються на наших серверах до сітки близько 0,02° (приблизно 2,2 км); отримана комірка розташування має розмір близько 11 км. Сирі GPS-координати ніколи не зберігаються.
 
-**Optional and consent-based.** This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).
+**Необов'язково і за згодою.** Це необов'язкова функція: нічого не збирається, якщо ви не надали дозвіл на розташування операційної системи І перемикач розташування в додатку не увімкнено. Розташування ніколи не обробляється у фоновому режимі — воно використовується лише поки ви користуєтеся додатком. Ваше розташування ніколи не показується іншим користувачам як позиція на карті, ніколи не використовується для реклами і ніколи не передається рекламним платформам (див. §4.9: усе, що передається для рекламної атрибуції чи вимірювання, не містить даних розташування). Наші аналітичні події не містять координат, назв міст чи ідентифікаторів комірок розташування — лише анонімні сигнали впровадження та вибору впорядкування. Запит дозволу операційної системи — це спосіб фіксації вашої згоди, а перемикач у додатку — спосіб її відкликання (§7.6).
 
-**How long we keep it.** The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.
+**Як довго ми його зберігаємо.** Запис розташування, який ми ведемо для вашого акаунта, автоматично видаляється після 45 днів без оновлення і оновлюється щоразу, коли ви користуєтеся функцією, поки поширення увімкнено. Приблизна відстань на вашій картці профілю обмежена активністю: вона зберігається лише поки існує ваша картка профілю і вважається відсутньою після 45 днів без оновлення.
 
-**Your control.** You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data.
+**Ваш контроль.** Ви можете припинити поширення будь-коли: вимкнення перемикача розташування в додатку негайно видаляє збережені координати (запис лишається, але вже без координат), а відкликання дозволу на розташування в налаштуваннях пристрою припиняє збирання в джерела. Видалення акаунта (§7.3) також очищає ваші дані розташування.
 
 ## 6. Зберігання Даних
 
@@ -366,9 +366,9 @@ Safeguards. Users we know to be under 18, and profiles whose age is not establis
 
 - **Дані Профілю:** Зберігаються, поки ваш обліковий запис активний
 - **Журнали та Аналітика:** Firebase Analytics: 14 місяців (політика Firebase)
-- **Marketing email addresses (consent-based):** Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you
-- **Uninstall / churn survey email addresses:** Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user
-- **Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):** Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized
+- **Маркетингові email-адреси (за згодою):** Зберігаються доти, доки ви не відмовилися або не видалили акаунт, плюс хешований запис у списку блокування (див. нижче), щоб ми не контактували з вами знову
+- **Email-адреси опитувань про видалення / відтік:** Зберігаються щонайбільше 60 днів після надсилання опитування (або, якщо опитування не надсилалося, 60 днів після видалення додатка/акаунта), після чого адреса видаляється або необоротно анонімізується. На користувача надсилається щонайбільше один (1) опитувальний email
+- **Реактивація нещодавно відпалих акаунтів (підстава законної зацікавленості LGPD, лише бразильські користувачі):** Відповідно до настанов CNIL і тесту обґрунтованих очікувань Jynx може використовувати email-адресу нещодавно відпалого (без запиту на стирання) акаунта для реактивації до 3 років після останньої значущої взаємодії, після чого вона видаляється або анонімізується
 
 ### 6.2. Видалення Даних
 
@@ -376,17 +376,17 @@ Safeguards. Users we know to be under 18, and profiles whose age is not establis
 
 **Юридичне Зберігання:** Деякі дані можуть зберігатися довше для виконання наших юридичних зобов'язань (наприклад, звіти про безпеку, фінансові транзакції).
 
-When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2).
+Коли ви видаляєте акаунт, ми вичищаємо вашу email-адресу з нашого маркетингового CRM та постачальника email-сервісів. Якщо ви реалізуєте право на стирання (§7.3 / GDPR ст. 17 / LGPD ст. 18(VI) для даних, оброблюваних за згодою), ваша email-адреса додається до постійного хешованого списку блокування, щоб вона ніколи не використовувалася знову для маркетингу, реактивації чи опитувань — включно із захистом від повторного імпорту через будь-який сторонній або куплений список. Примітка: за LGPD видалення за ст. 18(VI) застосовується до даних, оброблюваних на підставі згоди; дані, оброблювані на підставі законної зацікавленості (ст. 7 IX), натомість регулюються принципом обмеження мети (ст. 6 II і §2) та вашим правом вимагати припинення обробки (ст. 18 §2).
 
-## 7. Ваші Права (GDPR)
+## 7. Ваші Права (GDPR та LGPD)
 
-Відповідно до GDPR, ви маєте наступні права:
+Залежно від того, де ви перебуваєте, ви маєте права за GDPR (ЄС/ЄЕЗ) та/або бразильською LGPD (Lei Geral de Proteção de Dados, закон 13.709/2018).
 
 ### 7.1. Право Доступу
 
 Ви можете запитати копію всіх даних, які ми зберігаємо про вас.
 
-**Як реалізувати це право:** Налаштування > Конфіденційність > «Експортувати Мої Дані»
+**Як реалізувати це право:** Налаштування > Приватність > «Експортувати Мої Дані»
 
 Процес генерує JSON файл, що містить всі ваші дані (профіль, повідомлення, статистика тощо). Посилання для завантаження дійсне протягом 7 днів.
 
@@ -405,7 +405,7 @@ When you delete your account, we purge your email address from our marketing CRM
 1. Двоетапне підтвердження для запобігання випадковим видаленням
 2. Негайна анонімізація ваших персональних даних (Firestore)
 3. Видалення вашого облікового запису Firebase Authentication (автоматично скасовує всі OAuth токени)
-4. Надається анонімний ID як довідка
+4. Надається анонімний ID як довідковий ідентифікатор
 5. Опція видалити ваші повідомлення та створений контент
 
 **Важливо:** Видалення незворотне. Деякі анонімізовані дані можуть зберігатися для статистичних цілей (відповідно до GDPR).
@@ -416,33 +416,33 @@ When you delete your account, we purge your email address from our marketing CRM
 
 Експорт даних (Розділ 7.1) дозволяє вам отримати ваші дані у структурованому, машиночитаному форматі (JSON).
 
-### 7.5. Право Заперечувати
+### 7.5. Право Заперечувати / Відмовитися від Маркетингу
 
-Ви можете заперечувати проти обробки ваших даних для цілей прямого маркетингу.
+Ви можете будь-коли, безплатно і без пояснення причин, заперечити проти обробки ваших даних для цілей прямого маркетингу. За GDPR ст. 21(2) це право є абсолютним для користувачів ЄС/ЄЕЗ: після отримання вашого заперечення ми припинимо всю маркетингову обробку. Бразильські користувачі можуть заперечити проти маркетингової обробки через механізми відмови нижче (LGPD ст. 8 §5; ст. 18 §2).
 
-- **One-click unsubscribe:** every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time
-- **In-app toggle:** Settings > Privacy > Communications Preferences
+- **Відписа одним кліком:** кожен маркетинговий email містить посилання відписи одним кліком (RFC 8058 List-Unsubscribe-Post), що виконується в реальному часі
+- **Перемикач у додатку:** Налаштування > Приватність > Налаштування Комунікацій
 - **Email:** dpo@jynx.app
 
 ### 7.6. Право Відкликати Згоду
 
 Ви можете відкликати свою згоду на:
 
-- **Аналітика:** Налаштування > Конфіденційність > Вимкнути «Увімкнути Аналітику»
-- **Ad measurement:** Settings > Privacy > Ad measurement (see §5.9)
-- **Location (match distance):** Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)
+- **Аналітика:** Налаштування > Приватність > Вимкнути «Увімкнути Аналітику»
+- **Вимірювання реклами:** Налаштування > Приватність > Вимірювання реклами (див. §5.9)
+- **Розташування (відстань до матчів):** Вимкніть перемикач розташування в додатку — це видаляє збережені координати — або відкличте дозвіл на розташування в налаштуваннях пристрою (див. §5.11)
 - **Push-Сповіщення:** Налаштування пристрою
-- **Marketing Communications:** Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account
+- **Маркетингові Комунікації:** Розсилка, оновлення продукту, реактивація та опитування про видалення/відтік — відкликаються через відпису одним кліком, перемикач налаштувань комунікацій у додатку або dpo@jynx.app, без припинення акаунта
 
 **Примітка:** OAuth токени (Google, Apple) автоматично скасовуються при видаленні вашого облікового запису (Розділ 7.3).
 
-Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.
+Відкликання не впливає на законність обробки, здійсненої до відкликання (GDPR ст. 7(3); LGPD ст. 8 §5), а відкликання згоди ніколи не вимагає від вас видалення акаунта.
 
-### 7.7. Additional LGPD Rights (Brazilian Users)
+### 7.7. Додаткові Права LGPD (бразильські користувачі)
 
-In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.
+Понад права, зазначені вище, суб'єкти даних, що перебувають у Бразилії, мають такі права за ст. 18 LGPD: підтвердження факту обробки; доступ до даних; виправлення неповних, неточних або застарілих даних; анонімізація, блокування або видалення непотрібних чи надлишкових даних (ст. 18(VI) застосовується до даних, оброблюваних на підставі згоди); портативність до іншого постачальника сервісу чи продукту на запит; видалення персональних даних, оброблених за згодою; та інформація про можливість відмовити у згоді і наслідки такої відмови.
 
-You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd.
+Ви можете реалізувати ці права через Налаштування > Приватність або, звертаючись до encarregado на dpo@jynx.app. Ви також можете подати скаргу до бразильського органу захисту даних — Autoridade Nacional de Proteção de Dados (ANPD) — на https://www.gov.br/anpd.
 
 ## 8. Безпека Даних
 
@@ -452,35 +452,35 @@ You may exercise these rights via Settings > Privacy or by contacting the encarr
 - **Firebase Security Rules:** Суворий контроль доступу до даних Firestore
 - **Автентифікація:** Безпечне керування сесіями через Firebase Auth
 - **Валідація Вводу:** Запобігання XSS ін'єкціям через SecureTextInput
-- **Rate Limiting:** Захист від зловживань (спам повідомлень, автоматизовані дії)
+- **Обмеження Частоти:** Захист від зловживань (спам повідомлень, автоматизовані дії)
 - **Модерація:** Система звітування та модерації контенту
-- **Real-time voice:** Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS.
+- **Голос у реальному часі:** Медіа голосових кімнат шифрується в транзиті за допомогою WebRTC DTLS-SRTP — того самого стандарту, що використовують основні голосові застосунки; сигналізація між додатком і нашими серверами йде через HTTPS/TLS.
 
-No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).
+Жодна система не є 100% безпечною. У разі порушення захисту персональних даних ми повідомимо компетентний наглядовий орган без невиправданого зволікання і, де це можливо, протягом 72 годин від моменту, коли нам стало відомо про порушення, яке ймовірно загрожує вашим правам (GDPR ст. 33), і повідомимо про порушення зачеплених користувачів без невиправданого зволікання там, де воно ймовірно становить високий ризик для вас (GDPR ст. 34). Для суб'єктів даних у Бразилії ми також повідомимо про відповідні інциденти безпеки ANPD та вас у строк, встановлений органом (LGPD ст. 48; зараз 3 робочі дні за резолюцією ANPD CD/ANPD nº 15/2024).
 
 ## 9. Міжнародні Передачі Даних
 
-Ваші дані можуть передаватися та зберігатися на серверах, розташованих за межами Європейського Союзу, включаючи:
+Ваші дані можуть передаватися та зберігатися на серверах, розташованих за межами вашої юрисдикції, включаючи:
 
-- **Google Cloud / Firebase:** Використовує глобальну інфраструктуру з відповідністю GDPR
-- **Amazon Web Services (image moderation):** The image-moderation processing described in §4.8 runs in AWS's São Paulo region (Brazil); transfers from the EU/EEA rely on AWS's data-processing agreement incorporating the European Commission's standard contractual clauses, together with the general guarantees below. The image is relayed to AWS through Jynx's Google Cloud infrastructure (the Google Cloud / Firebase leg above)
-- **Sentry:** Сервери в США з відповідністю Privacy Shield
-- **Email Service Provider (ESP):** Used to deliver the marketing, re-engagement, and survey communications described in §5.6. The ESP is named in §4.4 and acts as a processor under a signed Data Processing Agreement
-- **LiveKit (real-time voice, and screen share when available):** LiveKit Cloud is our processor for real-time voice (and, when the feature is available, screen-share) media under a signed Data Processing Agreement (§4.5). LiveKit Cloud routes media globally: sessions are served by LiveKit's global infrastructure without pinning to a specific region. Voice-room audio (and screen-share video when available) is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit; LiveKit retains only the operational session metadata described in §4.5. Transfers of personal data to LiveKit rely on LiveKit's Data Processing Addendum, which incorporates GDPR terms and the European Commission's standard contractual clauses for cross-border transfers, together with the general guarantees below, which apply to LiveKit as they do to our other processors.
-- **Meta (advertising attribution and ad measurement):** The sharing described in §4.9 and §5.9 reaches Meta Platforms Ireland Ltd. or Meta Platforms, Inc., which processes it in the United States and other countries. International transfers of personal data made in connection with Meta's tools are subject to the applicable contractual safeguards and international transfer mechanisms. Jynx is verifying their compliance with the requirements of Article 33 of the LGPD and with ANPD regulations.
+- **Google Cloud / Firebase:** Глобальна інфраструктура (включно з Google Analytics на вебсайті, див. §10), за стандартними договірними положеннями GDPR та еквівалентними заходами захисту
+- **Amazon Web Services (модерація зображень):** Обробка модерації зображень, описана в §4.8, працює в регіоні Сан-Паулу AWS (Бразилія); передачі з ЄС/ЄЕЗ спираються на угоду про обробку даних AWS, що містить стандартні договірні положення Європейської Комісії, разом із загальними гарантіями нижче. Зображення передається до AWS через інфраструктуру Google Cloud компанії Jynx (плече Google Cloud / Firebase вище)
+- **Sentry:** Сервери в США; передачі з ЄС/ЄЕЗ спираються на EU-US Data Privacy Framework (чинний з липня 2023, замінивши визнаний недійсним Privacy Shield) для компаній Sentry, самосертифікованих у DPF, або на стандартні договірні положення там, де DPF не застосовується
+- **Постачальник Email-Сервісів (ESP):** Використовується для доставки маркетингових, реактиваційних та опитувальних комунікацій, описаних у §5.6. ESP названо в §4.4, і він діє як обробник за підписаною угодою про обробку даних
+- **LiveKit (голос у реальному часі та, коли доступно, демонстрація екрана):** LiveKit Cloud є нашим обробником медіа голосу в реальному часі (і демонстрації екрана, коли функція доступна) за підписаною угодою про обробку даних (§4.5). LiveKit Cloud маршрутизує медіа глобально: сесії обслуговуються глобальною інфраструктурю LiveKit без прив'язки до конкретного регіону. Аудіо голосових кімнат (і відео демонстрації екрана, коли доступне) маршрутизується в реальному часі і не записується, не зберігається та не утримується ані Jynx, ані LiveKit; LiveKit зберігає лише операційні метадані сесії, описані в §4.5. Передачі персональних даних до LiveKit спираються на Додаткову Угоду Про Обробку Даних LiveKit, яка містить умови GDPR і стандартні договірні положення Європейської Комісії для транскордонних передач, разом із загальними гарантіями нижче, які застосовуються до LiveKit, як і до наших інших обробників.
+- **Meta (рекламна атрибуція та вимірювання реклами):** Передача, описана в §4.9 і §5.9, досягає Meta Platforms Ireland Ltd. або Meta Platforms, Inc., які обробляють її у США та інших країнах. Міжнародні передачі персональних даних, здійснювані у зв'язку з інструментами Meta, підлягають застосовним договірним заходам захисту та механізмам міжнародної передачі. Jynx перевіряє їхню відповідність вимогам ст. 33 LGPD та регламентам ANPD.
 
-**Guarantees (GDPR, EU/EEA).** All transfers from the EU/EEA are covered by an adequacy decision, the EU-US Data Privacy Framework, or standard contractual clauses, together with supplementary measures where required.
+**Гарантії (GDPR, ЄС/ЄЕЗ).** Усі передачі з ЄС/ЄЕЗ покриваються рішенням про адекватність, EU-US Data Privacy Framework або стандартними договірними положеннями, разом з додатковими заходами там, де вони потрібні.
 
-**Guarantees (LGPD, Brazil).** Transfers of Brazilian users' personal data are governed by LGPD Art. 33:
+**Гарантії (LGPD, Бразилія).** Передачі персональних даних бразильських користувачів регулюються ст. 33 LGPD:
 
-- **To Jynx Group in France (controller):** Lawful under LGPD Art. 33(I) by virtue of ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (This adequacy decision is subject to reassessment by the ANPD within four years; if suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses.)
-- **To Brevo in France (email ESP, processor):** Lawful under LGPD Art. 33(I) by virtue of the same ANPD Resolution CD/ANPD nº 32/2026 (in force 26 January 2026), which recognizes the European Union — including France — as providing an adequate level of protection. No additional transfer mechanism is required for this leg. (Subject to the same ANPD reassessment described above; if the adequacy decision is suspended, Jynx will implement an alternative Art. 33 mechanism such as the ANPD standard contractual clauses with Brevo.)
-- **To child-safety technology providers in the EU (hash matching, processors):** Covered by the same ANPD Resolution CD/ANPD nº 32/2026 EU adequacy decision as the legs above — the providers receive only irreversible hashes and perform the matching in the EU region (§4.7)
-- **To AWS in Brazil (image moderation, processor):** The AWS Rekognition hop stays in-country — it runs in AWS's São Paulo region (§4.8). The image is first relayed through Jynx's Google Cloud infrastructure, which is covered by the general Google Cloud / Firebase transfer terms above
+- **До Jynx Group у Франції (контролер):** Законно за ст. 33(I) LGPD завдяки резолюції ANPD CD/ANPD nº 32/2026 (чинній з 26 січня 2026), яка визнає, що Європейський Союз — включно з Францією — забезпечує належний рівень захисту. Додатковий механізм передачі для цього плеча не потрібен. (Це рішення про адекватність підлягає повторному оцінюванню ANPD протягом чотирьох років; у разі призупинення Jynx застосує альтернативний механізм ст. 33, як-от стандартні договірні положення ANPD.)
+- **До Brevo у Франції (email ESP, обробник):** Законно за ст. 33(I) LGPD завдяки тій самій резолюції ANPD CD/ANPD nº 32/2026 (чинній з 26 січня 2026), яка визнає, що Європейський Союз — включно з Францією — забезпечує належний рівень захисту. Додатковий механізм передачі для цього плеча не потрібен. (Підлягає тому самому повторному оцінюванню ANPD, описаному вище; у разі призупинення рішення про адекватність Jynx застосує альтернативний механізм ст. 33, як-от стандартні договірні положення ANPD з Brevo.)
+- **До постачальників технологій захисту дітей у ЄС (звіряння хешів, обробники):** Покривається тим самим рішенням ANPD CD/ANPD nº 32/2026 про адекватність ЄС, що й плечі вище — постачальники отримують лише незворотні хеші і виконують звіряння в регіоні ЄС (§4.7)
+- **До AWS у Бразилії (модерація зображень, обробник):** Ланка AWS Rekognition залишається в країні — вона працює в регіоні Сан-Паулу AWS (§4.8). Зображення спершу передається через інфраструктуру Google Cloud компанії Jynx, яку покривають загальні умови передачі Google Cloud / Firebase вище
 
-**Transparency (ANPD Resolution CD/ANPD nº 19/2024).** The information required by Article 17, §2 of ANPD Resolution CD/ANPD nº 19/2024 is consolidated in this Policy: the form, duration, and specific purpose of each international transfer and the destination countries (this section and the sections it cites); the identification and contact details of the controller (§1); the shared use of the data and its purpose (§4); the responsibilities of the processing agents and the security measures adopted (§4 and §8); and your rights and the means of exercising them, including an easily accessible channel and the right to petition the ANPD (§7 and §12). The full text of the contractual clauses used to carry out these international transfers is made available to you, upon request, by our data protection officer (dpo@jynx.app), within 15 days.
+**Прозорість (резолюція ANPD CD/ANPD nº 19/2024).** Інформація, потрібна за ст. 17, §2 резолюції ANPD CD/ANPD nº 19/2024, консолідована в цій Політиці: форма, тривалість і конкретна мета кожної міжнародної передачі та країни призначення (цей розділ і розділи, які він цитує); ідентифікація та контактні дані контролера (§1); спільне використання даних і його мета (§4); обов'язки агентів обробки та вжиті заходи безпеки (§4 і §8); і ваші права та способи їх реалізації, включно з легкодоступним каналом і правом звернення до ANPD (§7 і §12). Повний текст договірних положень, що використовуються для цих міжнародних передач, надається вам на запит нашим інспектором захисту даних (dpo@jynx.app) протягом 15 днів.
 
-Historical note: the one-year grace period for adapting existing contracts to the ANPD SCCs ended on 23 August 2025; new processor relationships such as the ESP execute the SCCs at onboarding.
+Історична примітка: річний перехідний період для адаптації наявних договорів до SCC ANPD закінчився 23 серпня 2025; нові відносини з обробниками, як-от ESP, виконують SCC при підключенні.
 
 ## 10. Файли Cookie та Подібні Технології
 
@@ -489,13 +489,13 @@ Historical note: the one-year grace period for adapting existing contracts to th
 - **Токени Автентифікації:** Зберігаються локально в безпечний спосіб
 - **Локальний Кеш:** Для покращення продуктивності (дані профілю, останні повідомлення)
 
-**Website.** The Jynx website (jynx.app) uses Google Analytics 4 (provided by Google) with Consent Mode v2 to understand how the site is used. Analytics storage is denied by default: until you accept the cookie banner, Google Analytics runs without cookies or local storage and Google receives only cookieless, identifier-free signals; if you accept, full measurement is enabled. Your choice — accept or decline — is stored locally on your device (browser localStorage, key "jynx-analytics-consent"). Clearing your browser storage for jynx.app makes the banner appear again so you can change your choice. Google acts as a recipient of the resulting analytics data (see §9); see §4 for our other processors and §7 for your rights.
+**Вебсайт.** Вебсайт Jynx (jynx.app) використовує Google Analytics 4 (наданий Google) з Consent Mode v2, щоб розуміти, як використовується сайт. Зберігання аналітики відхилено за замовчуванням: доки ви не приймете cookie-банер, Google Analytics працює без cookie та локального сховища, і Google отримує лише сигнали без cookie та ідентифікаторів; якщо ви приймаєте, повне вимірювання увімкнено. Ваш вибір — прийняти чи відхилити — зберігається локально на вашому пристрої (localStorage браузера, ключ "jynx-analytics-consent"). Очищення сховища браузера для jynx.app знову показує банер, щоб ви могли змінити свій вибір. Google виступає отримувачем отриманої аналітичної інформації (див. §9); див. §4 щодо наших інших обробників і §7 щодо ваших прав.
 
-**Invitation links.** When you open an invitation link (jynx.app/invite/…) in your browser and tap the App Store download button, the website writes that invitation link into your device clipboard, replacing its previous content. This is a standard technique for attributing app installs on iOS (which has no install-referrer mechanism): it lets the Jynx app, at first launch, propose joining with the invitation of the person who sent you the link. The website never reads your clipboard — it only writes this link — and the app reads it only once, after asking for your explicit consent. No other clipboard content is accessed or collected. If you prefer not to share it, simply decline the paste prompt and join without an invitation.
+**Запрошувальні посилання.** Коли ви відкриваєте запрошувальне посилання (jynx.app/invite/…) у браузері і натискаєте кнопку завантаження App Store, вебсайт записує це запрошувальне посилання у буфер обміну вашого пристрою, замінюючи його попередній вміст. Це стандартна техніка атрибуції встановлень додатка на iOS (де немає механізму install-referrer): вона дозволяє додатку Jynx при першому запуску запропонувати приєднатися із запрошенням людини, що надіслала вам посилання. Вебсайт ніколи не читає ваш буфер обміну — він лише записує це посилання — а додаток читає його лише один раз, після запиту вашої явної згоди. Жоден інший вміст буфера обміну не читається і не збирається. Якщо ви не бажаєте ним ділитися, просто відмовтеся у запиті вставки і приєднайтеся без запрошення.
 
-**Referrals and creator campaigns.** When you join Jynx with an invitation code — from a link, a QR code, or entered manually — we record that code with your account so we can attribute the invitation to the person or campaign that shared it, apply the associated benefits, and detect fraudulent sign-ups. This processing relies on our legitimate interests (see §13) and is subject to our anti-fraud checks; nothing changes on your side, as the same data is collected whichever kind of invitation code you use. Some invitation codes also belong to creator attribution campaigns: if the code you used is part of such a campaign, it may additionally credit that campaign. Payout records for creator campaigns are kept in pseudonymous form.
+**Реферали та кампанії криейторів.** Коли ви приєднуєтеся до Jynx із запрошувальним кодом — з посилання, QR-коду або введеним вручну — ми записуємо цей код разом з вашим акаунтом, щоб віднести запрошення до людини чи кампанії, що ним поділилася, застосувати пов'язані переваги та виявити шахрайські реєстрації. Ця обробка спирається на нашу законну зацікавленість (див. §13) і підлягає нашим антифрод-перевіркам; для вас нічого не змінюється, бо ті самі дані збираються, яким би типом запрошувального коду ви не скористалися. Деякі запрошувальні коди також належать кампаніям атрибуції криейторів: якщо ваш код є частиною такої кампанії, вона може додатково отримати зарахування. Записи про виплати кампаній криейторів зберігаються в псевдонімізованій формі.
 
-**Screen sharing (when available).** When the feature is available, you may share your device screen in a voice room. Sharing starts only after the operating system's screen-capture permission is granted and an explicit in-app acknowledgment is given. Everything visible on your screen — including notifications — is streamed live to the other participants in the room, and you are responsible for what you share. The shared video is a live media track routed like voice audio through the LiveKit SFU (§4.5, §9): it is not recorded or stored by Jynx or LiveKit, and it stops when you end the share.
+**Демонстрація екрана (коли доступна).** Коли функція доступна, ви можете демонструвати екран свого пристрою у голосовій кімнаті. Поширення починається лише після надання дозволу на захоплення екрана операційної системи та явного підтвердження в додатку. Усе видиме на вашому екрані — включно зі сповіщеннями — транслюється в прямому ефірі іншим учасникам кімнати, і ви відповідаєте за те, що демонструєте. Відео, яким ви ділитеся, — це жива медіа-доріжка, що маршрутизується як аудіо голосу через LiveKit SFU (§4.5, §9): воно не записується і не зберігається ані Jynx, ані LiveKit і припиняється, коли ви завершуєте демонстрацію.
 
 ## 11. Зміни До Цієї Політики
 
@@ -510,26 +510,26 @@ Historical note: the one-year grace period for adapting existing contracts to th
 
 - **Email:** dpo@jynx.app
 
-**Наглядовий Орган:** If you believe your rights have not been respected, you may lodge a complaint:
+**Наглядові Органи:** Якщо ви вважаєте, що ваші права не було дотримано, ви можете подати скаргу:
 
-- **EU/EEA users:** with the CNIL (Commission Nationale de l'Informatique et des Libertés), France — https://www.cnil.fr
-- **Brazilian users:** with the ANPD (Autoridade Nacional de Proteção de Dados), Brazil — https://www.gov.br/anpd
+- **Користувачі ЄС/ЄЕЗ:** до CNIL (Commission Nationale de l'Informatique et des Libertés), Франція — https://www.cnil.fr
+- **Бразильські користувачі:** до ANPD (Autoridade Nacional de Proteção de Dados), Бразилія — https://www.gov.br/anpd
 
-Filing a complaint with a supervisory authority does not prejudice your right to seek other judicial remedies available to you, including the mandatory consumer protections that apply in your jurisdiction (e.g., the Brazilian Consumer Defense Code, Law 8.078/90).
+Подання скарги до наглядового органу не зачіпає ваше право шукати інші судові засоби захисту, доступні вам, включно з обов'язковими захистами споживачів, що діють у вашій юрисдикції (наприклад, Бразильський Кодекс Захисту Споживачів, закон 8.078/90).
 
-## 13. Згода
+## 13. Правові Підстави та Згода
 
-We process your personal data only where we have a lawful basis. The lawful bases we rely on, and where each is described in this Policy, are:
+Ми обробляємо ваші персональні дані лише там, де маємо законну підставу. Правові підстави, на які ми спираємося, і де кожна з них описана в цій Політиці:
 
-- Performance of a contract / provision of the Service (GDPR Art. 6(1)(b); LGPD Art. 7, V) — account, matching, and messaging (§5.1–5.3)
-- Legitimate interests (GDPR Art. 6(1)(f); LGPD Art. 7, IX and Art. 10) — security, fraud prevention, service improvement, and (for Brazilian users) marketing/re-engagement/survey communications to existing or recently-lapsed users as described in §5.6, each supported by a documented balancing assessment
-- Legal obligation (GDPR Art. 6(1)(c); LGPD Art. 7, II) — retention for legal purposes (§6)
-- Legal obligation and legitimate interests (GDPR Art. 6(1)(c) and 6(1)(f); LGPD Art. 7, II and IX) — detection of illegal and policy-violating content, including the child-safety image analysis described in §5.8 and the image-moderation processing in §4.8, prevention of abuse and ban evasion (§5.7), and compliance with legal reporting duties. For the analysis of images shared in direct messages, Jynx also relies on the voluntary detection of online child sexual abuse permitted by Regulation (EU) 2021/1232 (the ePrivacy derogation, as currently in force).
-- Consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) — analytics where you have enabled them, push notifications, and (for EU/EEA users and for Brazilian prospects/cold/cross-sell sends) marketing communications per §5.6
-- Ad measurement (§5.9): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) where you have enabled it; on Android, alternatively our legitimate interest (LGPD Art. 7, IX and Art. 10) for users shown the ad measurement switch on by default, with your right to object at any time
-- Approximate location for the match-distance feature (§5.11): your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8), captured by the operating-system location permission together with the in-app location toggle; you may withdraw it at any time (§7.6) — turning the toggle off deletes the stored coordinates
+- Виконання договору / надання Сервісу (GDPR ст. 6(1)(b); LGPD ст. 7, V) — акаунт, підбір та обмін повідомленнями (§5.1–5.3)
+- Законна зацікавленість (GDPR ст. 6(1)(f); LGPD ст. 7, IX і ст. 10) — безпека, запобігання шахрайству, покращення сервісу та (для бразильських користувачів) маркетингові/реактиваційні/опитувальні комунікації до наявних або нещодавно відпалих користувачів, як описано в §5.6, кожна з документальним звірянням інтересів
+- Юридичний обов'язок (GDPR ст. 6(1)(c); LGPD ст. 7, II) — зберігання для юридичних цілей (§6)
+- Юридичний обов'язок і законна зацікавленість (GDPR ст. 6(1)(c) і 6(1)(f); LGPD ст. 7, II і IX) — виявлення незаконного та такого, що порушує політику, контенту, включно з аналізом зображень для захисту дітей, описаним у §5.8, та обробкою модерації зображень у §4.8, запобігання зловживанням і обходу блокувань (§5.7), і дотримання обов'язків юридичного звітування. Для аналізу зображень у приватних повідомленнях Jynx також спирається на добровільне виявлення онлайн сексуального насильства над дітьми, дозволене Регламентом (ЄС) 2021/1232 (виняток ePrivacy, у чинній редакції).
+- Згода (GDPR ст. 6(1)(a); LGPD ст. 7, I і ст. 8) — аналітика, якщо ви її увімкнули, push-сповіщення та (для користувачів ЄС/ЄЕЗ і для бразильських потенційних/холодних/крос-сел надсилань) маркетингові комунікації за §5.6
+- Вимірювання реклами (§5.9): ваша згода (GDPR ст. 6(1)(a); LGPD ст. 7, I і ст. 8), якщо ви її увімкнули; на Android, як альтернатива, наша законна зацікавленість (LGPD ст. 7, IX і ст. 10) для користувачів, яким перемикач показано увімкненим за замовчуванням, з вашим правом заперечити будь-коли
+- Приблизне розташування для функції відстані до матчів (§5.11): ваша згода (GDPR ст. 6(1)(a); LGPD ст. 7, I і ст. 8), зафіксована дозволом на розташування операційної системи разом із перемикачем у додатку; ви можете відкликати її будь-коли (§7.6) — вимкнення перемикача видаляє збережені координати
 - Voice-room audio is processed on the basis of your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I and Art. 8) when you grant microphone permission and explicitly join a room (see §3.6); you may withdraw it at any time by leaving the room or by revoking microphone permission in your device settings.
 
-**Consent must be specific and informed.** Where we rely on your consent, it is given by a clear affirmative act, refers to specified purposes, and is captured separately from your acceptance of these terms (LGPD Art. 8 §1 — cláusula destacada). Generic or bundled authorizations are void under LGPD Art. 8 §4 and invalid under GDPR Art. 4(11) and Art. 7. Using Jynx does not by itself constitute consent to marketing. The burden of proving valid consent rests with Jynx (LGPD Art. 8 §2; GDPR Art. 7(1)); we therefore record the date, form version, language, and scope of each consent we collect.
+**Згода має бути конкретною та інформованою.** Там, де ми спираємося на вашу згоду, вона надається чіткою позитивною дією, стосується визначених цілей і фіксується окремо від прийняття цих умов (LGPD ст. 8 §1 — cláusula destacada). Загальні або пакетні дозволи недійсні за LGPD ст. 8 §4 і нечинні за GDPR ст. 4(11) і ст. 7. Використання Jynx саме собою не становить згоди на маркетинг. Тягар доведення чинної згоди лежить на Jynx (LGPD ст. 8 §2; GDPR ст. 7(1)); тому ми записуємо дату, версію форми, мову та обсяг кожної зібраної згоди.
 
-**Withdrawal.** You may withdraw any consent at any time, through a procedure that is as easy as giving it and that does not require you to delete your account (LGPD Art. 8 §5; GDPR Art. 7(3)) — see §7.5 and §7.6. Withdrawal does not affect the lawfulness of processing carried out before withdrawal. Deleting your account (§7.3) remains available at any time but is not the mechanism for withdrawing a specific consent.
+**Відкликання.** Ви можете відкликати будь-яку згоду будь-коли, через процедуру, не складнішу за її надання, і яка не вимагає від вас видалення акаунта (LGPD ст. 8 §5; GDPR ст. 7(3)) — див. §7.5 і §7.6. Відкликання не впливає на законність обробки, здійсненої до відкликання. Видалення акаунта (§7.3) залишається доступним будь-коли, але не є механізмом відкликання конкретної згоди.

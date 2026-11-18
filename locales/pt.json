@@ -1507,7 +1507,7 @@
     "subtitle": "Encontre seu esquadrão gaming perfeito em 4 passos simples",
     "step1": {
       "title": "Crie Seu Perfil Gaming",
-      "description": "Conte-nos sobre suas preferências de gaming: jogos favoritos, nível de habilidade (ELO), estilo de jogo (agressivo, defensivo, suporte), funções preferidas e quando você joga. Conecte sua conta Riot Games para verificação automática de rank.",
+      "description": "Conte-nos sobre suas preferências de gaming: jogos favoritos, nível de habilidade (ELO), estilo de jogo (agressivo, defensivo, suporte), funções preferidas e quando você joga.  Declare seu rank por jogo e suas funções — os filtros rodam no que você declara.",
       "feature1": "Vincule contas de League of Legends e Valorant",
       "feature2": "Defina seu horário de gaming",
       "feature3": "Escolha seu estilo de comunicação preferido"
@@ -2022,7 +2022,7 @@
   "invite": {
     "meta": {
       "title": "Você foi convidado para o Jynx - App para Procurar Duo",
-      "description": "Você foi convidado para se conectar no Jynx, o app para procurar duo com rank verificado, voz e horário em comum. Encontre seu duo perfeito.",
+      "description": "Você foi convidado para se conectar no Jynx, o app para procurar duo com filtro de rank, função e região, voz e horário em comum. Encontre seu duo perfeito.",
       "og_title": "Junte-se a mim no Jynx",
       "og_description": "Você foi convidado para se conectar no Jynx, o app para procurar duo",
       "og_image_alt": "Convite do Jynx",
@@ -2102,12 +2102,12 @@
     "cta": {
       "label": "Baixar o Jynx",
       "heading": "Ache seu duo no Jynx",
-      "sub": "Grátis. Ranks verificados. Match por voz e horário."
+      "sub": "Grátis. Filtros de rank, função e região. Match por voz e horário."
     },
     "cta_final": {
       "label": "Baixar o Jynx",
       "heading": "Pare de jogar solo",
-      "sub": "Baixe o Jynx e encontre um duo verificado hoje."
+      "sub": "Baixe o Jynx e encontre seu duo hoje."
     },
     "footer": {
       "rights": "Todos os direitos reservados."

@@ -30,9 +30,9 @@ Jynx इन समस्याओं को इनोवेटिव मैच�
 
 ## Jynx को क्या अलग बनाता है
 
-- ELO-Based Match Queue हमारा sophisticated मैचिंग algorithm आपके स्किल लेवल (ELO) को ध्यान में रखता है ताकि आपको ऐसे teammates और opponents से जोड़ा जा सके जो सही level की challenge और compatibility प्रदान करें।
-- Global Chat System हमारे vibrant global chat system के माध्यम से व्यापक गेमिंग कम्युनिटी के साथ connected रहें, जहाँ आप strategies पर चर्चा कर सकते हैं, experiences शेयर कर सकते हैं, या बस fellow gamers के साथ hang out कर सकते हैं।
-- Guild-Based Communities हमारे यूनीक "guild" सिस्टम के साथ अपना गेमिंग घर खोजें। अपनी पसंदीदा games या playing styles के आधार पर existing communities join करें, या अपना खुद का guild बनाएं और community leader बनें। अपनी reputation build करें, अपनी team culture establish करें, और gaming allies का नेटवर्क बढ़ाएं।
+- ELO-आधारित मैच क्यू हमारा sophisticated मैचिंग algorithm आपके स्किल लेवल (ELO) को ध्यान में रखता है ताकि आपको ऐसे teammates और opponents से जोड़ा जा सके जो सही level की challenge और compatibility प्रदान करें।
+- ग्लोबल चैट सिस्टम हमारे vibrant global chat system के माध्यम से व्यापक गेमिंग कम्युनिटी के साथ connected रहें, जहाँ आप strategies पर चर्चा कर सकते हैं, experiences शेयर कर सकते हैं, या बस fellow gamers के साथ hang out कर सकते हैं।
+- गिल्ड-आधारित कम्युनिटीज़ हमारे यूनीक "guild" सिस्टम के साथ अपना गेमिंग घर खोजें। अपनी पसंदीदा games या playing styles के आधार पर existing communities join करें, या अपना खुद का guild बनाएं और community leader बनें। अपनी reputation build करें, अपनी team culture establish करें, और gaming allies का नेटवर्क बढ़ाएं।
 
 ## हमारे फाउंडर्स
 
@@ -49,10 +49,10 @@ Jynx इन समस्याओं को इनोवेटिव मैच�
 
 Jynx सिर्फ एक प्लेटफॉर्म से बढ़कर है—यह गेमर्स की एक growing community है जो मानते हैं कि गेमिंग साथ में बेहतर है। हम अभी शुरुआत कर रहे हैं, और हम आपको हमारे journey का हिस्सा बनने के लिए आमंत्रित करते हैं क्योंकि हम revolutionize करते हैं कि कैसे गेमर्स connect, compete और collaborate करते हैं।
 
-Game on!
+गेम ऑन!
 
 ### Jynx Community में शामिल हों
 
-Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way.
+अपना परफेक्ट गेमिंग स्क्वाड खोजो — Jynx iOS, Android, Windows और वेब पर उपलब्ध है। Mac ऐप आ रहा है।
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store डाउनलोड बैज](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

@@ -1,6 +1,6 @@
 ---
-title: "Jynx 소개 | 우리의 미션과 비전"
-description: "Jynx가 의미 있는 연결을 통해 게임 커뮤니티를 혁신하는 방법을 알아보세요. 우리 팀, 우리의 이야기, 그리고 게임을 모두에게 더 소셜하게 만들겠다는 우리의 약속을 만나보세요."
+title: "소개"
+description: "혼자 하는 게임을 소셜 경험으로 바꾸는 게임 커뮤니티 플랫폼, Jynx를 더 알아보세요."
 canonical: "https://jynx.app/ko/about.html"
 locale: "ko"
 dateModified: "2026-11-17"
@@ -53,6 +53,6 @@ Jynx는 단순한 플랫폼 이상입니다—게임이 함께할 때 더 좋다
 
 ### Jynx 커뮤니티에 가입하세요
 
-Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way.
+완벽한 게임 스쿼드를 찾아보세요 — Jynx는 iOS, Android, Windows, 웹에서 이용할 수 있습니다. Mac 앱도 곧 출시됩니다.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=about&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=about) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dabout) [![Microsoft Store 다운로드 배지](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=about)

@@ -7,13 +7,13 @@ dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# 이용약관
+# 이용약관 - Jynx
 
-**최종 업데이트** November 14, 2026
+**최종 업데이트:** November 14, 2026
 
 **Effective Date:** November 14, 2026
 
-**버전** 1.9
+**버전:** 1.9
 
 ### Changes in Version 1.9 (November 14, 2026)
 
@@ -60,7 +60,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Jynx 애플리케이션('서비스', '플랫폼', '앱')에 접근하거나 사용함으로써 이 이용약관('약관', 'ToS')에 구속되는 것에 동의합니다. 이 약관에 동의하지 않으시면 서비스를 사용하지 마십시오.
 
-**Separate and optional marketing consent.** Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6.
+**별도의 선택적 마케팅 동의.** 본 약관의 수락은 마케팅, 재참여, 설문 이메일 수신 동의가 아닙니다. 이런 커뮤니케이션에는 서비스 이용권을 잃지 않고 줄 수도 거부할 수도 있고, 계정을 유지한 채 언제든 철회할 수 있는 별도의 선택적·목적별 옵트인이 필요합니다. 이 구분은 LGPD 제8조 §4(포괄적·묶음 승인 무효화)와 GDPR 제4조(11), 제7조가 요구합니다. 삭제·이탈 피드백 설문을 포함한 마케팅·재참여 이메일 프로그램을 규율하는 조항은 아래 §5.5와 개인정보 처리방침 §5.6에 있습니다.
 
 **중요:** 이 약관은 귀하와 Jynx Group 간의 법적 구속력이 있는 계약을 구성합니다.
 
@@ -91,13 +91,13 @@ Jynx 애플리케이션('서비스', '플랫폼', '앱')에 접근하거나 사�
 
 **시행:** 우리의 연령 게이트는 18세 미만 사용자의 계정 생성을 자동으로 차단합니다. 연령에 대해 허위 정보를 제공한 것으로 확인되면 계정이 즉시 종료됩니다.
 
-**No marketing to minors.** If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
+**미성년자 마케팅 금지.** 계정 소유자가 18세 미만임을 확인하면 계정은 즉시 종료되고 §5.5의 모든 마케팅, 재참여, 설문 커뮤니케이션에서 제외됩니다(개인정보 처리방침 §2 참조; LGPD 제14조; GDPR 제8조).
 
 ### 3.2. 계정 생성
 
 Jynx를 사용하려면 다음을 제공하여 계정을 만들어야 합니다:
 
-- A valid email address OR authentication via Google/Apple
+- 유효한 이메일 주소 또는 Google/Apple 인증
 - 고유한 사용자 이름
 - 생년월일(연령 확인용)
 - 프로필 정보(국가, 시간대, 언어, 게임 선호도)
@@ -135,7 +135,7 @@ Jynx를 사용할 때 다음을 하지 않기로 동의합니다:
 
 #### 괴롭힘 및 학대:
 
-- 다른 사용자를 괴롭히거나, 위협하거나, 괴롭히거나, 스토킹하거나, 협박
+- 다른 사용자를 괴롭히거나, 위협하거나, 집요하게 괴롭히거나, 스토킹하거나, 협박
 - 인종, 민족, 국적, 종교, 성별, 성적 지향, 장애 또는 기타 보호 특성을 기반으로 한 혐오 발언 또는 차별에 참여
 - 원치 않는 성적 콘텐츠를 보내거나 성희롱에 참여
 - 다른 사람에 대한 괴롭힘을 조율하거나 장려
@@ -166,7 +166,7 @@ Jynx를 사용할 때 다음을 하지 않기로 동의합니다:
 #### 플랫폼 보안:
 
 - 우리 시스템, 서버 또는 데이터베이스에 대한 무단 접근 시도
-- 악성 코드, 바이러스 또는 악성 코드 배포
+- 멀웨어, 바이러스 또는 악성 코드를 배포하지 않기
 - 서비스의 일부를 리버스 엔지니어링, 디컴파일 또는 분해
 - 부당한 이익을 위해 버그, 결함 또는 취약점 악용(security@jynx.app로 보고해야 함)
 
@@ -174,8 +174,8 @@ Jynx를 사용할 때 다음을 하지 않기로 동의합니다:
 
 - 동의 없이 다른 사용자의 개인 정보 공유(독싱)
 - 허가 없이 비공개 대화를 스크린샷하거나 공유
-- 승인 없이 사용자 데이터를 수집하거나 수확
-- Record, capture, or redistribute another member's shared screen without their consent
+- 승인 없이 사용자 데이터를 수집하거나 무단으로 긁어 모으기
+- 다른 회원이 공유한 화면을 동의 없이 녹화·캡처·재배포하지 않기
 
 #### 콘텐츠 위반:
 
@@ -183,7 +183,7 @@ Jynx를 사용할 때 다음을 하지 않기로 동의합니다:
 - 폭력적이거나 그래픽적이거나 불쾌한 콘텐츠 공유
 - 어떤 형태로든 미성년자와 관련된 콘텐츠 게시
 - 허가 없이 저작권이 있는 자료 배포
-- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
+- 화면 공유로 본 약관에 위배되는 콘텐츠를 보내지 않기 — 본 절의 모든 금지 사항은 공유 화면에 보이는 내용에도 그대로 적용됩니다
 
 #### 플랫폼 조작:
 
@@ -310,26 +310,26 @@ Jynx는 다음을 포함한 제3자 서비스와 통합됩니다:
 
 가능한 경우 콘텐츠 제거에 대해 알려드립니다.
 
-### 5.5. Marketing & Re-engagement Email Program
+### 5.5. 마케팅 및 재참여 이메일 프로그램
 
-(Note: §5.2 "Marketing & Promotional Use" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)
+(참고: §5.2 "마케팅 및 홍보 사용"은 Jynx 마케팅 자료에서의 사용자 콘텐츠 재사용을 규율합니다. 본 §5.5는 Jynx가 마케팅, 재참여, 설문 이메일을 보내는 것을 규율하며 — 별개의 주제로 §5.2가 다루지 않습니다.)
 
-Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:
+개인정보 처리방침 §5.6 마케팅 커뮤니케이션에 따라, Jynx는 그 절에 설명된 대로 마케팅, 재참여, 삭제/이탈 설문 이메일을 보낼 수 있습니다. 프로그램은 다음 조건으로 운영됩니다:
 
-1. **Legal basis by cohort.**
-  - **EU/EEA users:** we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.
-  - **Brazilian users:** we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.
-2. **Uninstall / churn surveys.** We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.
-3. **One-click unsubscribe.** Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.
-4. **Erasure and suppression.** If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.
-5. **Children.** We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
-6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
+1. **코호트별 법적 근거.**
+  - **EU/EEA 사용자:** 마케팅·재참여 이메일은 사전 명시적 옵트인 동의가 있을 때만 보냅니다(ePrivacy 지침 제13조(1) / CPCE 제L. 34-5조; GDPR 제6조(1)(a)). 유료 구독과 Founder Pack 출시 이후 서비스는 ePrivacy 지침 제13조(2) / CPCE 제L. 34-5조의 의미에서 보수를 받는 서비스이므로 소프트 옵트인 예외는 기존 고객의 유사 제품·서비스에 원칙적으로 사용할 수 있습니다. 다만 신중한 원칙으로 계속 사전 명시적 옵트인 동의에 근거하며, 처리 활동 기록부에 기록된 문서화된 평가와 갱신된 고지 없이는 소프트 옵트인 근거로 전환하지 않습니다.
+  - **브라질 사용자:** 마케팅·재참여 이메일은 (i) 잠재고객, 콜드, 크로스셀/파트너 발송의 경우 귀하의 동의(LGPD 제7조 I와 제8조), 또는 (ii) ANPD 정당한 이익 가이드(2024년 2월 2일)에 따른 문서화된 정당한 이익 평가에 뒷받침된 당사의 정당한 이익(LGPD 제7조 IX와 제10조)에 근거합니다 — 후자는 기존 또는 최근 비활성 사용자가 Jynx 앱에 대한 제품 업데이트, 재참여, 단 한 번의 짧은 이탈/삭제 설문을 받을 때입니다.
+2. **삭제 / 이탈 설문.** 삭제·이탈 질문은 가급적 삭제 시점에 앱 내에서 묻습니다. 이메일 설문을 보내는 경우: 홍보·재참여 콘텐츠가 없으며, 삭제 또는 계정 삭제 후 약 60일 이내에 사용자당 최대 한 번(1회)을 보내고, 그 후 이메일 주소는 개인정보 처리방침 §6에 따라 삭제 또는 익명화됩니다.
+3. **원클릭 수신거부.** 모든 마케팅 이메일에는 실시간으로 반영되는 작동하는 원클릭 수신거부 메커니즘(RFC 8058)이 들어 있습니다. 설정 > 개인정보 > 커뮤니케이션 환경 설정 또는 dpo@jynx.app 이메일로도 동의를 철회하거나 반대할 수 있으며 계정 유지와 비용 부담이 없습니다(LGPD 제8조 §5; GDPR 제7조(3)와 제21조(2)). 당사는 브라질 소비자방어법(법률 8.078/90, 특히 제39조 III)을 존중하며 무단·과도한 메시징을 보내지 않습니다. 옵트아웃 이후의 지속적 발송은 금지됩니다.
+4. **삭제 및 수신거부 목록.** 삭제권(개인정보 처리방침 §7.3 / GDPR 제17조 / 동의 기반 데이터의 경우 LGPD 제18조(VI))을 행사하면 이메일 주소는 모든 마케팅 파이프라인에서 빠지고 영구 해시 수신거부 목록에 추가됩니다. 수입된 목록이나 제3자 목록을 포함해 재연락이나 설문은 없습니다. 단순 계정 삭제나 앱 삭제(삭제 요청 없이)만으로는 영구 수신거부가 되지 않습니다 — 적용되는 보관·재참여 기간은 개인정보 처리방침 §6을 참조하세요.
+5. **아동.** 당사는 미성년자에게 마케팅을 보내지 않습니다. 18세 미만 사용자의 계정으로 확인되면 종료되며 프로그램에서 제외됩니다(개인정보 처리방침 §2; LGPD 제14조; GDPR 제8조).
+6. **이메일 서비스 제공업체.** 데이터 처리 위탁 계약에 따른 제3자 이메일 서비스 제공업체(처리자)를 사용하며, 개인정보 처리방침 §4.4와 §9 제3자 서비스(§9.5)에 명시되어 있습니다.
 
-This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+본 조항은 귀하가 거주국 법이 부여하는 필수 소비자 보호 권리 — 브라질 소비자방어법을 포함 — 에 영향을 주지 않습니다.
 
-### 5.6. Account-Activity Notifications
+### 5.6. 계정 활동 알림
 
-**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
+**계정 활동 알림.** Jynx는 계정 활동(새 메시지, 매치, 좋아요)에 대한 알림을 보내며 앱에서 놓쳤을 때는 이메일로도 보냅니다. 본 약관의 수락은 마케팅 이메일 수신 동의가 아닙니다: 마케팅 커뮤니케이션(재참여 이메일과 소식 등)은 별도의 선택적 가입 동의가 있을 때만 보내집니다.
 
 ## 6. 커뮤니티 및 게임 기능
 
@@ -421,13 +421,13 @@ Riot Games 계정을 연결하면 다음을 검색합니다:
 - 사용자 데이터는 GDPR에 따라 익명화됩니다
 - Firebase Authentication 계정이 삭제됩니다
 - OAuth 토큰(Google, Apple)이 자동으로 해지됩니다
-- Your email address is purged from our marketing CRM and email service provider
-- If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list
-- Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized
+- 귀하의 이메일 주소가 마케팅 CRM과 이메일 서비스 제공업체에서 완전히 지워집니다
+- 해지에 삭제/잊혀질 권리 요청(개인정보 처리방침 §7.3)이 포함되면 이메일 주소는 영구 해시 수신거부 목록에 추가되어 마케팅, 재참여, 설문에 — 수입된 목록이나 제3자 목록을 포함 — 절대 쓰이지 않습니다
+- 단순 계정 삭제나 앱 삭제(삭제 요청 없이)만으로 재참여가 영구 차단되지는 않습니다. 개인정보 처리방침 §6의 보관·재참여 기간이 적용되며 이후 주소는 삭제 또는 익명화됩니다
 
 Refund Policy: If your account is terminated due to violations of these Terms, you are not entitled to a refund of the then-current Jynx+ subscription period, any unused prepaid Jynx+ months included in a Founder Pack, or virtual items (cosmetics). Founder Pack cosmetic items and the Founder badge are licensed, not owned (Section 8.3), and that license is revocable on termination for violations. Refund requests remain subject to the applicable store's refund policy (App Store / Google Play) and to Section 8.5.
 
-The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2).
+위 데이터 처리 단계는 GDPR과 LGPD 모두에서 설명됩니다. 브라질 사용자의 삭제 권리는 LGPD 제18조가 규율합니다(제18조(VI) 삭제는 동의 기반으로 처리된 데이터에 적용되며, 정당한 이익 기반 데이터는 제6조 II의 목적 제한과 제18조 §2의 처리 중단 요청권이 적용됩니다).
 
 ### 7.3. 사용자가 시작한 삭제
 
@@ -512,9 +512,9 @@ Jynx+ is an automatically renewing paid subscription.
 
 ### 8.5. Refunds & Cancellations
 
-#### EU Consumer Rights (Right of Withdrawal):
+#### EU 소비자 권리(철회권):
 
-If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state.
+EU의 소비자라면 원칙적으로 소비자권리지침에 따라 원격계약의 14일 철회권이 있습니다. 다만 사전 명시적 동의와 철회권 상실 확인과 함께 공급이 시작된 디지털 콘텐츠 — 구매 즉시 공급이 시작되는 Jynx+ 권한, 코스메틱 아이템, Founder Pack이 여기 해당 — 의 경우 소비자권리지침 제16조(m)와 프랑스 소비자법(Code de la consommation) 제L221-28 13°에 따라 철회권이 상실됩니다. 본 약관의 어떤 내용도 EU 회원국 법에서 포기할 수 없는 필수 소비자 권리를 빼앗지 않습니다.
 
 #### Refund Policy:
 
@@ -524,9 +524,9 @@ If you are a consumer in the European Union, you would normally have a 14-day ri
 - Store-Managed: Because the App Store and Google Play are the merchant of record for these purchases, refund eligibility and processing are ultimately governed by the applicable store's refund policy.
 - No Refunds for: Account termination due to Terms violations (see Section 7.2), or change of mind after the right of withdrawal has been lost as described above.
 
-#### Brazilian Consumers:
+#### 브라질 소비자:
 
-If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC.
+브라질의 소비자라면 소비자방어법(CDC) 제49조에 따라 수령일로부터 7일 이내에 이유 없이 원격계약에서 철회할 수 있으며 이 권리는 포기할 수 없습니다. 귀하의 명시적 요청으로 공급이 이미 시작된 디지털 아이템의 경우 철회 시 돌려받는 금액은 CDC 제49조 §2°에 따라 이미 공급된 부분을 반영합니다. 앱스토어나 Google Play 구매의 환불 절차는 해당 스토어의 환불 정책을 따릅니다. 본 약관의 어떤 내용도 CDC의 필수 소비자 보호를 배제하거나 제한하지 않습니다.
 
 ## 9. 제3자 서비스
 
@@ -562,25 +562,25 @@ Riot Games API를 사용하여 게임 통계(League of Legends, Valorant 등)를
 
 이러한 제3자 서비스의 약관을 준수할 책임이 있습니다.
 
-### 9.5. Email Service Provider
+### 9.5. 이메일 서비스 제공업체
 
-We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.
+§5.5와 개인정보 처리방침 §5.6, §4.4에 설명된 대로 마케팅, 재참여, 삭제/이탈 설문 커뮤니케이션 전송에 제3자 이메일 서비스 제공업체를 사용합니다. 제공업체는 데이터 처리 위탁 계약에 따라 당사의 처리자로서 당사의 문서화된 지시에 한해 귀하의 데이터를 처리합니다. 제공업체의 신원, 위치, 하위 처리자, 적용되는 국제 이전 메커니즘은 개인정보 처리방침 §4.4와 §9에 설명되어 있습니다.
 
-You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours.
+자신의 계정을 둔 제3자 서비스의 약관 준수는 귀하의 책임이며, 이메일 서비스 제공업체는 귀하의 벤더가 아니라 Jynx의 벤더입니다.
 
-### 9.6. LiveKit (Real-Time Voice)
+### 9.6. LiveKit(실시간 음성)
 
-Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9.
+Jynx는 실시간 음성 채팅방 제공에 LiveKit Cloud를 사용합니다. LiveKit은 서명된 데이터 처리 위탁 계약에 따라 음성 채팅방 오디오의 당사 처리자이며 Jynx의 문서화된 지시에 한해 데이터를 처리합니다. 개인정보 처리방침 §4.5와 §3.6에 설명된 대로 음성 채팅방 오디오는 실시간으로 라우팅되며 Jynx나 LiveKit이 녹음·저장·보존하지 않습니다. 적용되는 국제 이전 메커니즘(EU 표준 계약 조항을 담은 LiveKit의 데이터 처리 부속서)과 LiveKit의 글로벌 라우팅 방침은 개인정보 처리방침 §9에 설명되어 있습니다.
 
-### 9.7. AWS Rekognition (Image Moderation)
+### 9.7. AWS Rekognition(이미지 모더레이션)
 
-Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9.
+Jynx는 Amazon Web Services(AWS) Rekognition으로 사용자가 올린 프로필 이미지의 노출 및 기타 정책 위반 콘텐츠를 검사합니다. AWS Rekognition은 서명된 데이터 처리 위탁 계약에 따라 당사의 처리자이며 Jynx의 문서화된 지시에 한해 이미지 바이트를 처리합니다. 처리되는 데이터, 보관 방침(AWS의 별도 이미지 저장 없음), 적용되는 국제 이전 메커니즘은 개인정보 처리방침 §4.8과 §9에 설명되어 있습니다.
 
-### 9.8. Meta (Advertising Attribution)
+### 9.8. Meta(광고 어트리뷰션)
 
-We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+앱 설치가 당사 마케팅에서 비롯되었는지 측정하기 위해 Meta(Facebook) App Events SDK를 사용하며, Apple 기기에서는 App Tracking Transparency 권한을 허용한 후에만 SDK가 초기화됩니다. Meta Platforms Ireland는 어트리뷰션과 캠페인 측정을 위한 처리자로서 Jynx의 지시에 따라 결과 앱 이벤트 메타데이터를 처리하며, Meta Platforms, Inc.는 자체 약관에 따라 자신의 정당한 목적을 위한 독립 통제자로 활동할 수 있습니다. 처리되는 데이터, 동의 조건, 적용되는 이전 메커니즘은 개인정보 처리방침 §4.9와 §9에 설명되어 있습니다.
 
-If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
+동의하시면 Jynx는 광고를 측정·개선하기 위해 제한된 전환 이벤트(가입, 구매와 금액 등)를 Meta에 추가로 공유합니다. 귀하의 데이터는 절대 판매되지 않습니다. iPhone과 iPad에서는 동의가 필요합니다(GDPR 제6조(1)(a); LGPD 제7조 I). Android에서는 그 동의에 근거하거나, 광고 측정 스위치가 기본 켜짐으로 표시된 경우 Jynx의 정당한 이익(LGPD 제7조 IX와 제10조)에 근거합니다. 선택은 개인정보 설정에서 언제든 바꿀 수 있습니다: 설정 > 개인정보 > 광고 측정. 추적이나 광고 측정을 거부한 iOS 사용자에게도 적용되는 Apple SKAdNetwork를 포함한 세부 사항은 개인정보 처리방침 §5.9에 설명되어 있습니다.
 
 ## 10. 면책 조항 및 책임 제한
 
@@ -633,11 +633,11 @@ Maximum Liability: To the maximum extent permitted by applicable law, our total 
 
 이 약관은 법률 조항의 충돌에 관계없이 프랑스 법률 및 해당 유럽 연합 규정에 따라 관리되고 해석됩니다.
 
-적용 규정: 프랑스 민법(Code civil), 프랑스 소비자법(Code de la consommation), 일반 데이터 보호 규정(GDPR), EU 디지털 서비스법(DSA), EU 소비자 권리 지침.
+적용 규정: 프랑스 민법(Code civil), 프랑스 소비자법(Code de la consommation), 일반 데이터 보호 규정(GDPR), EU 디지털 서비스법(DSA), EU 소비자 권리 지침, 그리고 — 브라질에 있는 데이터 주체의 경우 — 브라질 일반 개인데이터 보호법(Lei Geral de Proteção de Dados, 법률 13.709/2018, "LGPD") 및 브라질 소비자 방어법(Código de Defesa do Consumidor, 법률 8.078/90, "CDC").
 
 ### 12.2. 관할권
 
-Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC.
+본 약관이나 서비스에서 생긴 분쟁은 프랑스 낭트의 관할 법원에 제기할 수 있습니다. 이는 거주국 법에 따라 그 나라에서 절차를 진행할 수 있는 필수적 권리 — 특히 EU 소비자의 경우 브뤼셀 I 개정 규정 제17조~19조와 회원국 소비자 보호법에서 나온 권리, 브라질 소비자의 경우 CDC 조항 — 에 영향을 주지 않습니다.
 
 ### 12.3. 분쟁 해결 및 중재
 
@@ -651,13 +651,13 @@ Any disputes arising from these Terms or the Service may be brought before the c
 2. 비공식 협상: 30일 이내에 우호적인 해결에 도달하기 위해 선의로 협력
 3. 중재(선택 사항): 비공식 해결이 실패하면 중립적인 제3자 중재자를 통한 중재를 제안할 수 있습니다
 
-**Consumer ADR (EU/France):** In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court.
+**소비자 ADR(EU/프랑스):** 프랑스 소비자법(Code de la consommation) 제L. 612-1조와 제L. 616-6조에 따라, Jynx Group SAS는 소비자 분쟁의 우호적 해결을 위한 소비자 조정자(médiateur de la consommation)로서 소비자조정평가통제위원회(CECMC)에 등록된 소비자 조정 기관인 Centre de la Médiation de la Consommation de Conciliateurs de Justice(CM2C) — 49 rue de Ponthieu, 75008 Paris, France; 전화 +33 1 89 47 00 14; https://www.cm2c.net — 를 지정합니다. 조정자에게 제출하기 전에 먼저 dpo@jynx.app 으로 불만을 보내 해결을 시도하게 해 주십시오. 조정은 소비자에게 무료이며 프랑스어로 진행되고, 조정자 웹사이트(https://www.cm2c.net)에 공개된 절차를 따르며, 조정자는 접수 후 90일 이내에 절차를 진행합니다. 법원에 분쟁을 제기할 권리는 언제든 남아 있습니다.
 
 ### 12.4. EU 소비자 권리
 
 유럽 연합의 소비자인 경우 다음을 포함하여 EU 법에 따른 모든 필수 소비자 권리를 유지합니다:
 
-- 14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)
+- 원격계약의 14일 철회권 — 단, 동의와 함께 공급이 시작된 디지털 콘텐츠는 법정 상실 규정이 적용됩니다(제8.5절 참조)
 - 결함이 있는 제품 또는 서비스에 대한 구제책에 대한 권리
 - 불공정한 계약 조건으로부터 보호
 - 지역 소비자 보호 기관에 불만을 제기할 권리
@@ -666,9 +666,9 @@ Any disputes arising from these Terms or the Service may be brought before the c
 
 우리의 데이터 관행은 일반 데이터 보호 규정(GDPR)을 준수합니다. 데이터 수집, 처리, 보존, 귀하의 권리 및 데이터 보호 책임자에게 연락하는 방법에 대한 세부 정보는 개인정보 처리방침을 참조하십시오.
 
-### 12.6. LGPD Compliance (Brazilian Users)
+### 12.6. LGPD 준수(브라질 사용자)
 
-For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law.
+브라질에 있는 데이터 주체의 경우 당사의 데이터 관행은 LGPD(Lei Geral de Proteção de Dados, 법률 13.709/2018)도 준수하며, 이 법은 제3조에 따라 Jynx의 사업장이 프랑스에 있다는 사실과 관계없이 적용됩니다. 브라질 사용자는 개인정보 처리방침 §7.7의 권리를 가지며 ANPD(Autoridade Nacional de Proteção de Dados)에 불만을 제기할 수 있습니다. 본 약관의 어떤 내용도 CDC가 보장하는 필수 소비자 보호 — 특히 CDC 제39조 III의 무단·과도한 상업적 메시징 금지 — 를 빼앗지 않습니다. 명확히 하기 위해, 본 약관과 관련된 분쟁에는 §12.2의 전속 관할 조항(프랑스 낭트 법원)이 소비자의 현지법에서 포기할 수 없는 필수 소비자 보호 권리에 영향을 주지 않는 범위에서 그대로 적용됩니다.
 
 ## 13. 연락처 및 법률 정보
 
@@ -698,7 +698,7 @@ FRANCE
 
 - **SIREN:** 991443896
 - **SIRET:** 99144389600014
-- **등록처:** 낭트 상공회의소(Registre du Commerce et des Sociétés de Nantes)
+- **등록처:** 낭트 상업회사등록소(Registre du Commerce et des Sociétés de Nantes)
 - **등록일:** 2025년 9월 17일
 - **법적 형태:** 주식회사(Société par Actions Simplifiée - SAS)
 
@@ -728,10 +728,10 @@ FRANCE
 
 These Terms are provided in English. In accordance with the French law known as the Loi Toubon (Law No. 94-665 of 4 August 1994) and Article L. 112-1 of the French Code de la consommation, a French-language version of these Terms is made available to consumers; in the event of any conflict between the English version and the French version, the French version shall prevail for consumers resident in France. For consumers outside France, the English version is the reference version, except where the law of your country of residence requires otherwise.
 
-## 15. Creator (Partner) Program
+## 15. 크리에이터(파트너) 프로그램
 
-If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.
+Jynx 크리에이터(파트너) 프로그램에 참여하면 프로그램 이용은 가입 시 수락한 버전별 Creator Referral Terms와 Self-Billing Mandate(수락된 각 버전은 수락 후 불변)가 추가로 규율하며, 앱에서 버전 식별자와 함께 제공됩니다. 충돌이 있으면 프로그램 관련 사항은 Creator Terms가 우선하고, 그 외에는 본 약관과 개인정보 처리방침이 적용됩니다.
 
-The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10.
+프로그램에 필요한 신원·정산·세금 정보 — CPF 또는 CNPJ 식별, 선택한 정산 수단(PayPal, Wise, Pix) 등 — 과 관련 처리자는 개인정보 처리방침 §4.10에 설명되어 있습니다.
 
 Jynx를 사용함으로써 이 이용약관을 읽고, 이해하고, 구속받는 데 동의함을 인정합니다.

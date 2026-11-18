@@ -1,42 +1,42 @@
 ---
-title: "Contact Jynx: Support, Security and Privacy Email Channels"
-description: "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too."
+title: "Jynx संपर्क: सपोर्ट, सिक्योरिटी और प्राइवेसी ईमेल चैनल"
+description: "ईमेल से Jynx टीम तक पहुंचें: अकाउंट और ऐप मदद के लिए सपोर्ट, कोई कमज़ोरी रिपोर्ट करने के लिए सिक्योरिटी, और प्राइवेसी रिक्वेस्ट्स के लिए हमारा DPO। Discord और सोशल भी।"
 canonical: "https://jynx.app/hi/contact.html"
 locale: "hi"
 dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Contact Jynx
+# Jynx से संपर्क
 
-How to reach the team behind Jynx — email channels, community links, and company details.
+Jynx के पीछे की टीम तक कैसे पहुंचें — ईमेल चैनल, कम्युनिटी लिंक्स और कंपनी की जानकारी।
 
-## How to Reach Us
+## हम तक कैसे पहुंचें
 
-Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.
+Jynx सपोर्ट ईमेल चैनल्स पर चलता है — हम कोई कॉन्टैक्ट फॉर्म इस्तेमाल नहीं करते। इस पेज का हर एड्रेस एक ऐसे मेलबॉक्स में जाता है जिसे असली इंसान देखता है, इसलिए आपका मैसेज सीधे टीम तक पहुंचता है। अपनी रिक्वेस्ट से मैच करने वाला चैनल चुनें और जितनी हो सके डिटेल शामिल करें।
 
-We read every message. Support replies usually land within a few business days; French and English both work.
+हम हर मैसेज पढ़ते हैं। सपोर्ट के जवाब आमतौर पर कुछ वर्किंग डेज़ में आ जाते हैं; फ्रेंच और इंग्लिश दोनों चलते हैं।
 
-## Email Channels
+## ईमेल चैनल्स
 
-- Customer Support The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: [support@jynx.app](mailto:support@jynx.app)
-- Security Reports Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: [security@jynx.app](mailto:security@jynx.app) The full policy lives on the [Security & Vulnerability Disclosure Policy](/security.html) page.
-- Privacy and Data Protection Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: [dpo@jynx.app](mailto:dpo@jynx.app)
+- कस्टमर सपोर्ट प्राइमरी चैनल। अकाउंट एक्सेस, बग रिपोर्ट्स, बिलिंग सवाल, फीचर रिक्वेस्ट्स और ऐप से जुड़ी बाकी हर चीज़: [support@jynx.app](mailto:support@jynx.app)
+- सिक्योरिटी रिपोर्ट्स सिर्फ़ संभावित कमज़ोरियां और सिक्योरिटी मुद्दे। कृपया पहले डिस्क्लोज़र पॉलिसी पढ़ें — उसमें लिखा है कि क्या स्कोप में है और रिपोर्ट में क्या शामिल करना है: [security@jynx.app](mailto:security@jynx.app) पूरी पॉलिसी [सिक्योरिटी और कमज़ोरी डिस्क्लोज़र पॉलिसी](/security.html) पेज पर है।
+- प्राइवेसी और डेटा प्रोटेक्शन पर्सनल-डेटा रिक्वेस्ट्स, प्राइवेसी सवाल और कानून-प्रवर्तन पूछताछ हमारे डेटा प्रोटेक्शन ऑफिसर के पास जाती है: [dpo@jynx.app](mailto:dpo@jynx.app)
 
-## Community and Social
+## कम्युनिटी और सोशल
 
-For day-to-day conversation, the community is faster than email.
+रोज़मर्रा की बातचीत के लिए कम्युनिटी ईमेल से तेज़ है।
 
-- [Discord](https://discord.gg/8UQhtRUvD5) — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.
-- [Instagram](https://www.instagram.com/jynx_app/) — news, updates, and clips from the Jynx team.
-- [TikTok](https://www.tiktok.com/@jynx.app) — short videos, community highlights, and features.
-- [X (Twitter)](https://twitter.com/Jynx_App) — announcements and quick answers.
-- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — the Jynx page: events and community posts.
+- [Discord](https://discord.gg/8UQhtRUvD5) — टीम-और-सपोर्ट सर्वर: सवाल पूछें, Jynx टीम से बात करें, या ऐप में मदद पाएं।
+- [Instagram](https://www.instagram.com/jynx_app/) — Jynx टीम की खबरें, अपडेट्स और क्लिप्स।
+- [TikTok](https://www.tiktok.com/@jynx.app) — छोटे वीडियो, कम्युनिटी हाइलाइट्स और फीचर्स।
+- [X (Twitter)](https://twitter.com/Jynx_App) — घोषणाएं और झटपट जवाब।
+- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — Jynx पेज: इवेंट्स और कम्युनिटी पोस्ट्स।
 
-## Company Information
+## कंपनी की जानकारी
 
-- **Legal entity:** Jynx Group
-- **Company registration (SIREN):** 991443896
-- **Registered office:** Nantes, France
+- **कानूनी एंटिटी:** Jynx Group
+- **कंपनी रजिस्ट्रेशन (SIREN):** 991443896
+- **रजिस्टर्ड ऑफिस:** Nantes, France
 
-The full legal notices — registered address, legal form, and trade-registry details — are in [Section 13 of the Terms of Service](/hi/terms.html).
+पूरे कानूनी नोटिस — रजिस्टर्ड एड्रेस, कानूनी रूप और ट्रेड-रजिस्ट्री डिटेल्स — [सर्विस की शर्तों के सेक्शन 13](/hi/terms.html) में हैं।

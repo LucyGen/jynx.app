@@ -1,42 +1,42 @@
 ---
-title: "Contact Jynx: Support, Security and Privacy Email Channels"
-description: "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too."
+title: "Kontak Jynx: Kanal Email Dukungan, Keamanan, dan Privasi"
+description: "Hubungi tim Jynx lewat email: dukungan untuk bantuan akun dan aplikasi, keamanan untuk melaporkan kerentanan, serta DPO kami untuk permintaan privasi. Discord dan media sosial juga tersedia."
 canonical: "https://jynx.app/id/contact.html"
 locale: "id"
 dateModified: "2026-11-17"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Contact Jynx
+# Kontak Jynx
 
-How to reach the team behind Jynx — email channels, community links, and company details.
+Cara menghubungi tim di balik Jynx — kanal email, tautan komunitas, dan informasi perusahaan.
 
-## How to Reach Us
+## Cara Menghubungi Kami
 
-Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.
+Dukungan Jynx berjalan lewat kanal email — kami tidak menggunakan formulir kontak. Setiap alamat di halaman ini bermuara ke kotak masuk yang dijaga oleh orang sungguhan, sehingga pesan Anda langsung sampai ke tim. Pilih kanal yang sesuai dengan permintaan Anda dan sertakan detail sebanyak mungkin.
 
-We read every message. Support replies usually land within a few business days; French and English both work.
+Kami membaca setiap pesan. Balasan dukungan biasanya tiba dalam beberapa hari kerja; bahasa Prancis dan Inggris sama-sama bisa digunakan.
 
-## Email Channels
+## Kanal Email
 
-- Customer Support The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: [support@jynx.app](mailto:support@jynx.app)
-- Security Reports Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: [security@jynx.app](mailto:security@jynx.app) The full policy lives on the [Security & Vulnerability Disclosure Policy](/security.html) page.
-- Privacy and Data Protection Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: [dpo@jynx.app](mailto:dpo@jynx.app)
+- Dukungan Pelanggan Kanal utama. Akses akun, laporan bug, pertanyaan penagihan, permintaan fitur, dan hal apa pun tentang aplikasi: [support@jynx.app](mailto:support@jynx.app)
+- Laporan Keamanan Hanya untuk dugaan kerentanan dan masalah keamanan. Mohon baca kebijakan disclosure terlebih dahulu — kebijakan itu memuat cakupan yang berlaku dan hal yang perlu Anda sertakan dalam laporan: [security@jynx.app](mailto:security@jynx.app) Kebijakan lengkap ada di halaman [Kebijakan Keamanan & Disclosure Kerentanan](/security.html).
+- Privasi dan Perlindungan Data Permintaan terkait data pribadi, pertanyaan privasi, dan permintaan penegak hukum ditujukan ke Data Protection Officer kami: [dpo@jynx.app](mailto:dpo@jynx.app)
 
-## Community and Social
+## Komunitas dan Media Sosial
 
-For day-to-day conversation, the community is faster than email.
+Untuk obrolan sehari-hari, komunitas lebih cepat daripada email.
 
-- [Discord](https://discord.gg/8UQhtRUvD5) — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.
-- [Instagram](https://www.instagram.com/jynx_app/) — news, updates, and clips from the Jynx team.
-- [TikTok](https://www.tiktok.com/@jynx.app) — short videos, community highlights, and features.
-- [X (Twitter)](https://twitter.com/Jynx_App) — announcements and quick answers.
-- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — the Jynx page: events and community posts.
+- [Discord](https://discord.gg/8UQhtRUvD5) — server tim dan dukungan: ajukan pertanyaan, ngobrol dengan tim Jynx, atau minta bantuan seputar aplikasi.
+- [Instagram](https://www.instagram.com/jynx_app/) — kabar, pembaruan, dan klip dari tim Jynx.
+- [TikTok](https://www.tiktok.com/@jynx.app) — video pendek, sorotan komunitas, dan fitur.
+- [X (Twitter)](https://twitter.com/Jynx_App) — pengumuman dan jawaban cepat.
+- [Facebook](https://www.facebook.com/profile.php?id=61574940715594) — halaman Jynx: acara dan posting komunitas.
 
-## Company Information
+## Informasi Perusahaan
 
-- **Legal entity:** Jynx Group
-- **Company registration (SIREN):** 991443896
-- **Registered office:** Nantes, France
+- **Entitas hukum:** Jynx Group
+- **Pendaftaran perusahaan (SIREN):** 991443896
+- **Kantor terdaftar:** Nantes, Prancis
 
-The full legal notices — registered address, legal form, and trade-registry details — are in [Section 13 of the Terms of Service](/id/terms.html).
+Keterangan hukum lengkap — alamat terdaftar, bentuk hukum, dan detail daftar perdagangan — ada di [Bagian 13 Ketentuan Layanan](/id/terms.html).

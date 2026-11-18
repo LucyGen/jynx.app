@@ -60,7 +60,7 @@ Oyuncuları birbirine bağlayan, takım kurmalarına ve birlikte oynamalarına y
 
 Jynx uygulamasına ("Hizmet", "Platform", "Uygulama") erişerek veya kullanarak, bu Hizmet Şartlarına ("Şartlar", "HŞ") bağlı olmayı kabul edersiniz. Bu Şartları kabul etmiyorsanız, Hizmeti kullanamazsınız.
 
-**Separate and optional marketing consent.** Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6.
+**Ayrı ve isteğe bağlı pazarlama onamı.** Bu Şartları kabul etmek; pazarlama, yeniden etkileşim veya anket e-postaları alma onamı değildir. Bu tür iletişimler, Hizmete erişiminizi kaybetmeden verebileceğiniz veya reddedebileceğiniz ve hesabınızı sonlandırmadan dilediğiniz zaman geri çekebileceğiniz ayrı, isteğe bağlı, amaca özel bir katılım (opt-in) gerektirir. Bu ayrım, LGPD Mad. 8 §4 (genel veya paketlenmiş yetkilendirmeleri geçersiz kılar) ve GDPR Mad. 4(11) ile Mad. 7 tarafından zorunlu kılınmıştır. Kaldırma ve kayıp geri bildirim anketleri dâhil, pazarlama ve yeniden etkileşim e-posta programımızı yöneten koşullar aşağıdaki §5.5'te ve Gizlilik Politikası §5.6'da belirlenmiştir.
 
 **ÖNEMLİ:** Bu Şartlar, siz ve Jynx Group arasında yasal olarak bağlayıcı bir anlaşma oluşturur.
 
@@ -91,13 +91,13 @@ Kayıt sırasında doğum tarihinizi sağlamanız gerekecektir. 18 yaşın altı
 
 **Uygulama:** Yaş kapımız, 18 yaşın altındaki kullanıcılar için hesap oluşturmayı otomatik olarak engeller. Yaşınız hakkında yanlış bilgi verdiğinizi tespit edersek, hesabınız derhal kapatılacaktır.
 
-**No marketing to minors.** If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
+**Reşit olmayanlara pazarlama yok.** Bir hesap sahibinin 18 yaşın altında olduğunu tespit edersek hesap derhal sonlandırılır ve kullanıcı, §5.5 altındaki tüm pazarlama, yeniden etkileşim ve anket iletişimlerinin dışında tutulur (ayrıca bkz. Gizlilik Politikası §2; LGPD Mad. 14; GDPR Mad. 8).
 
 ### 3.2. Hesap Oluşturma
 
 Jynx'i kullanmak için şunları sağlayarak bir hesap oluşturmalısınız:
 
-- A valid email address OR authentication via Google/Apple
+- Geçerli bir e-posta adresi VEYA Google/Apple ile kimlik doğrulama
 - Benzersiz bir kullanıcı adı
 - Doğum tarihiniz (yaş doğrulaması için)
 - Profil bilgileri (ülke, saat dilimi, diller, oyun tercihleri)
@@ -167,15 +167,15 @@ Jynx'i kullanırken şunları YAPMAMAK için kabul edersiniz:
 
 - Sistemlerimize, sunucularımıza veya veritabanlarımıza yetkisiz erişim kazanmaya çalışmak
 - Kötü amaçlı yazılım, virüs veya zararlı kod dağıtmak
-- Hizmetin herhangi bir bölümünü tersine mühendislik yapmak, derlemek veya parçalarına ayırmak
+- Hizmetin herhangi bir bölümünü tersine mühendislik yapmak, tersine derlemek veya parçalarına ayırmak
 - Haksız avantaj için hataları, aksaklıkları veya güvenlik açıklarını istismar etmek (security@jynx.app adresine bildirmelisiniz)
 
 #### Gizlilik İhlalleri:
 
 - Diğer kullanıcıların özel bilgilerini izinleri olmadan paylaşmak (doxxing)
 - Özel konuşmaları izinsiz ekran görüntüsü almak veya paylaşmak
-- Yetki olmadan kullanıcı verileri toplamak veya toplamak
-- Record, capture, or redistribute another member's shared screen without their consent
+- Yetki olmadan kullanıcı verilerini toplamak veya hasat etmek
+- Başka bir üyenin paylaştığı ekranı, onun onayı olmadan kaydetmek, yakalamak veya yeniden dağıtmak
 
 #### İçerik İhlalleri:
 
@@ -183,7 +183,7 @@ Jynx'i kullanırken şunları YAPMAMAK için kabul edersiniz:
 - Şiddet içeren, grafik veya rahatsız edici içerik paylaşmak
 - Küçükleri içeren içerik yayınlamak
 - Telif hakkıyla korunan materyalleri izinsiz dağıtmak
-- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
+- Ekran paylaşımını, bu Şartları ihlal eden içerik iletmek için kullanmak — bu bölümdeki tüm yasaklar, paylaşılan ekranınızda görünen her şeye tam olarak uzanır
 
 #### Platform Manipülasyonu:
 
@@ -310,26 +310,26 @@ Jynx, şunlar dahil olmak üzere üçüncü taraf hizmetleriyle entegre olur:
 
 Mümkün olduğunda içerik kaldırma konusunda bilgilendirileceksiniz.
 
-### 5.5. Marketing & Re-engagement Email Program
+### 5.5. Pazarlama ve Yeniden Etkileşim E-posta Programı
 
-(Note: §5.2 "Marketing & Promotional Use" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)
+(Not: §5.2 "Pazarlama ve Tanıtım Kullanımı", Jynx'in pazarlama materyallerinde Kullanıcı İçeriğinin yeniden kullanımını düzenler. Bu §5.5, Jynx'in size pazarlama, yeniden etkileşim ve anket e-postaları göndermesini düzenler — ayrı bir konudur ve §5.2 kapsamında değildir.)
 
-Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:
+Gizlilik Politikası §5.6 Pazarlama İletişimleri'ne tabi olarak, Jynx size o bölümde açıklanan pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postaları gönderebilir. Program şu koşullarla yürütülür:
 
-1. **Legal basis by cohort.**
-  - **EU/EEA users:** we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.
-  - **Brazilian users:** we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.
-2. **Uninstall / churn surveys.** We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.
-3. **One-click unsubscribe.** Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.
-4. **Erasure and suppression.** If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.
-5. **Children.** We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
-6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
+1. **Kohortlara göre yasal dayanak.**
+  - **AB/AEA kullanıcıları:** pazarlama ve yeniden etkileşim e-postalarını yalnızca önceki açık katılım (opt-in) onamınızla göndeririz (ePrivacy Direktifi Mad. 13(1) / CPCE Mad. L. 34-5; GDPR Mad. 6(1)(a)). Ücretli abonelikler ve Kurucu Paketlerinin lansmanının ardından Hizmet, ePrivacy Direktifi Mad. 13(2) / CPCE Mad. L. 34-5 anlamında artık ücret karşılığı sağlanan bir hizmettir; bu nedenle yumuşak katılım (soft-opt-in) istisnası ilke olarak, mevcut müşterilere benzer ürün ve hizmetler için kullanılabilir durumdadır. İhtiyatlı bir tutum olarak, önceki açık katılım onamınıza dayanmaya devam ediyoruz; İşleme Faaliyetleri Kayıtlarımızda kayıtlı belgelenmiş bir değerlendirme ve size güncellenmiş bir bildirim olmadan yumuşak katılım dayanağına geçmeyiz.
+  - **Brezilyalı kullanıcılar:** pazarlama ve yeniden etkileşim e-postalarını ya (i) onamınıza (LGPD Mad. 7 I ve Mad. 8; herhangi bir potansiyel kullanıcı, soğuk iletişim veya çapraz satış/ortak gönderimi için) ya da (ii) ANPD Meşru Çıkar Rehberi'ni (2 Şubat 2024) izleyen ve belgelenmiş bir Meşru Çıkarlar Değerlendirmesiyle desteklenen meşru çıkarımıza (LGPD Mad. 7 IX ve Mad. 10) dayanarak göndeririz; bu ikincisi, Jynx uygulamasıyla ilgili ürün güncellemeleri, yeniden etkileşim veya tek seferlik kısa bir kayıp/kaldırma anketi alan mevcut veya yakın zamanda kaybedilmiş kullanıcılar içindir.
+2. **Kaldırma / kayıp anketleri.** Kaldırma/kayıp sorularını tercih olarak kaldırma anında uygulama içinde sorarız. E-posta anketi gönderildiğinde: anket, tanıtım veya yeniden etkileşim içeriği içermez; kullanıcı başına, kaldırma veya hesap silmeden sonra yaklaşık 60 gün içinde en fazla bir (1) anket göndeririz; ve e-posta adresi daha sonra Gizlilik Politikası §6'ya uygun olarak silinir veya anonimleştirilir.
+3. **Tek tıkla abonelikten çıkma.** Her pazarlama e-postası, gerçek zamanlı olarak yerine getirilen çalışan bir tek tıkla abonelikten çıkma mekanizması (RFC 8058) içerir. Ayrıca onamı geri çekebilir veya itiraz edebilirsiniz: Ayarlar > Gizlilik > İletişim Tercihleri üzerinden veya dpo@jynx.app adresine e-posta göndererek; hesabınızı sonlandırmadan ve ücretsizdir (LGPD Mad. 8 §5; GDPR Mad. 7(3) ve Mad. 21(2)). Brezilya Tüketicini Koruma Kanunu'na (Kanun 8.078/90, özellikle Mad. 39 III) saygı duyuyoruz; istenmeyen veya kötüye kullanımlı mesajlaşma göndermeyiz ve çıkış sonrası ısrarlı gönderim yasaktır.
+4. **Silme ve bastırma.** Silme hakkınızı kullanırsanız (Gizlilik Politikası §7.3 / GDPR Mad. 17 / onama dayalı veriler için LGPD Mad. 18(VI)), e-posta adresiniz tüm pazarlama hatlarından çıkarılır ve kalıcı, karmalanmış bir bastırma listesine eklenir; içe aktarılmış veya üçüncü taraf bir liste dâhil, size bir daha ulaşılmaz veya anket gönderilmez. Yalnızca hesap silme veya kaldırma (silme talebi olmadan), tek başına kalıcı bastırmayı tetiklemez — geçerli saklama ve yeniden etkileşim pencereleri için Gizlilik Politikası §6'ya bakın.
+5. **Çocuklar.** Reşit olmayan birine asla bilerek pazarlama göndermeyiz; 18 yaşın altındaki bir kullanıcıya ait olduğu tespit edilen her hesap sonlandırılır ve programın dışında tutulur (Gizlilik Politikası §2; LGPD Mad. 14; GDPR Mad. 8).
+6. **E-posta servis sağlayıcısı.** Bir Veri İşleme Sözleşmesi kapsamında üçüncü taraf bir e-posta servis sağlayıcısı (veri işleyici) kullanırız; Gizlilik Politikası §4.4'te ve §9 Üçüncü Taraf Hizmetleri (§9.5) altında adlandırılır.
 
-This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+Bu madde, ikamet ülkenizin yasası kapsamındaki zorunlu tüketici koruması haklarınızı — Brezilya Tüketicini Koruma Kanunu dâhil — etkilemez.
 
-### 5.6. Account-Activity Notifications
+### 5.6. Hesap Etkinliği Bildirimleri
 
-**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
+**Hesap etkinliği bildirimleri.** Jynx, hesap etkinliğinize (yeni mesajlar, eşleşmeler, beğeniler) ilişkin bildirimler gönderir; bunlara uygulamada kaçırmanız durumunda e-posta yoluyla gönderim de dâhildir. Bu Şartları kabul etmek, pazarlama e-postaları alma onamı değildir: pazarlama iletişimleri (yeniden etkileşim e-postalarımız ve haberlerimiz gibi) yalnızca sizin ayrı, isteğe bağlı kaydınızla gönderilir.
 
 ## 6. Topluluklar ve Oyun Özellikleri
 
@@ -421,13 +421,13 @@ Hesap sonlandırması üzerine:
 - Kullanıcı verileriniz GDPR'a uygun olarak anonimleştirilir
 - Firebase Authentication hesabınız silinir
 - OAuth token'ları (Google, Apple) otomatik olarak iptal edilir
-- Your email address is purged from our marketing CRM and email service provider
-- If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list
-- Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized
+- E-posta adresiniz, pazarlama CRM'imizden ve e-posta servis sağlayıcımızdan temizlenir
+- Sonlandırmanız bir silme / unutulma hakkı talebi içeriyorsa (Gizlilik Politikası §7.3), e-posta adresiniz kalıcı, karmalanmış bir bastırma listesine eklenir ve pazarlama, yeniden etkileşim veya anketler için asla kullanılmaz; buna içe aktarılmış veya üçüncü taraf listeler dâhildir
+- Yalnızca hesap silme veya kaldırma (silme talebi olmadan), yeniden etkileşimi kalıcı olarak bastırmaz; Gizlilik Politikası §6'daki saklama ve yeniden etkileşim pencereleri uygulanır, sonrasında adres silinir veya anonimleştirilir
 
 Refund Policy: If your account is terminated due to violations of these Terms, you are not entitled to a refund of the then-current Jynx+ subscription period, any unused prepaid Jynx+ months included in a Founder Pack, or virtual items (cosmetics). Founder Pack cosmetic items and the Founder badge are licensed, not owned (Section 8.3), and that license is revocable on termination for violations. Refund requests remain subject to the applicable store's refund policy (App Store / Google Play) and to Section 8.5.
 
-The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2).
+Yukarıdaki veri işleme adımları hem GDPR hem de LGPD kapsamında açıklanmıştır; Brezilyalı kullanıcıların silme hakları LGPD Mad. 18 ile yönetilir (Mad. 18(VI) silmesinin onam temelinde işlenen verilere uygulandığını, buna karşılık meşru çıkar temelinde işlenen verilerin Mad. 6 II altındaki amaç sınırlamasına ve Mad. 18 §2 altındaki işlemenin durdurulmasını isteme hakkına tabi olduğuna dikkat edin).
 
 ### 7.3. Kullanıcı Tarafından Başlatılan Silme
 
@@ -512,9 +512,9 @@ Jynx+ is an automatically renewing paid subscription.
 
 ### 8.5. Refunds & Cancellations
 
-#### EU Consumer Rights (Right of Withdrawal):
+#### AB Tüketici Hakları (Cayma Hakkı):
 
-If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state.
+Avrupa Birliği'nde bir tüketiciyseniz, normalde Tüketici Hakları Direktifi uyarınca uzak mesajlı sözleşmeler için 14 günlük bir cayma hakkınız olur. Ancak, önceki açık onamınızla ve bununla cayma hakkınızı kaybettiğinizi kabul ederek ifasına başlanmış dijital içerikler için — Jynx+ hakları, kozmetik ögeler ve satın alım anında ifası hemen başlayan Kurucu Paketleri dâhil — bu cayma hakkı, Tüketici Hakları Direktifi'nin 16(m) maddesi ve Fransız Code de la consommation'ın L221-28 13° maddesi uyarınca kaybedilir. Bu Şartlarda hiçbir şey, AB üye devletinizin yasası uyarınca feragat edilemeyen zorunlu tüketici haklarınızdan mahrum bırakmaz.
 
 #### Refund Policy:
 
@@ -524,9 +524,9 @@ If you are a consumer in the European Union, you would normally have a 14-day ri
 - Store-Managed: Because the App Store and Google Play are the merchant of record for these purchases, refund eligibility and processing are ultimately governed by the applicable store's refund policy.
 - No Refunds for: Account termination due to Terms violations (see Section 7.2), or change of mind after the right of withdrawal has been lost as described above.
 
-#### Brazilian Consumers:
+#### Brezilyalı Tüketiciler:
 
-If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC.
+Brezilya'da bir tüketiciyseniz, Brezilya Tüketicini Koruma Kanunu'nun (CDC) 49. maddesi uyarınca uzak mesajlı sözleşmeden, gerekçe göstermeksizin kullanılabilen ve feragat edilemeyen bir hakla, teslimden itibaren 7 gün içinde cayma hakkınız vardır. Açık talebinizle ifasına halihazırda başlanmış dijital ögeler için, cayma durumunda iade edilecek tutarlar, CDC Mad. 49 §2°'ye uygun olarak halihazırda ifa edilmiş olanı hesaba katar. App Store veya Google Play üzerinden yapılan satın almaların iade mekanikleri, ilgili mağazanın iade politikasını izler. Bu Şartlarda hiçbir şey, CDC'nin zorunlu tüketici korumalarını dışlamaz veya sınırlamaz.
 
 ## 9. Üçüncü Taraf Hizmetleri
 
@@ -553,7 +553,7 @@ Hata izleme ve performans izleme için Sentry kullanıyoruz. Veriler Sentry'ye g
 
 Oyun istatistiklerini (League of Legends, Valorant, vb.) almak için Riot Games API'sini kullanıyoruz.
 
-### 9.4. OAuth Providers
+### 9.4. OAuth Sağlayıcıları
 
 Şunlar aracılığıyla kimlik doğrulama sunuyoruz:
 
@@ -562,25 +562,25 @@ Oyun istatistiklerini (League of Legends, Valorant, vb.) almak için Riot Games 
 
 Bu üçüncü taraf hizmetlerin şartlarına uymaktan siz sorumlusunuz.
 
-### 9.5. Email Service Provider
+### 9.5. E-posta Servis Sağlayıcısı
 
-We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.
+Pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi iletişimlerini, §5.5'te ve Gizlilik Politikası §5.6 ile §4.4'te açıklanan şekilde iletmek için üçüncü taraf bir e-posta servis sağlayıcısı kullanıyoruz. Sağlayıcı, bir Veri İşleme Sözleşmesi kapsamında veri işleyicimiz olarak hareket eder ve verinizi yalnızca belgelenmiş talimatlarımız doğrultusunda işler. Sağlayıcının kimliği, konumu, alt işleyicileri ve geçerli uluslararası aktarım mekanizması Gizlilik Politikası §4.4 ve §9'da açıklanmıştır.
 
-You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours.
+Kendi hesabınızı tuttuğunuz herhangi bir üçüncü taraf hizmetin şartlarına uymaktan siz sorumlu kalırsınız; e-posta servis sağlayıcısı, Jynx'in tedarikçisidir, sizin değil.
 
-### 9.6. LiveKit (Real-Time Voice)
+### 9.6. LiveKit (Gerçek Zamanlı Ses)
 
-Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9.
+Jynx, gerçek zamanlı sesli odalar sağlamak için LiveKit Cloud'u kullanır. LiveKit, imzalı bir Veri İşleme Sözleşmesi kapsamında sesli oda sesi için veri işleyicimiz olarak hareket eder ve verileri yalnızca Jynx'in belgelenmiş talimatları doğrultusunda işler. Gizlilik Politikası §4.5 ve §3.6'da açıklandığı gibi, sesli oda sesi gerçek zamanlı olarak yönlendirilir ve Jynx veya LiveKit tarafından kaydedilmez, saklanmaz veya kalıcı tutulmaz. Geçerli uluslararası aktarım mekanizması (AB standart sözleşme maddelerini içeren LiveKit Veri İşleme Ek Sözleşmesi) ve LiveKit'in küresel yönlendirme tutumu Gizlilik Politikası §9'da açıklanmıştır.
 
-### 9.7. AWS Rekognition (Image Moderation)
+### 9.7. AWS Rekognition (Görsel Moderasyonu)
 
-Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9.
+Jynx, kullanıcı tarafından yüklenen profil görsellerini çıplaklık ve diğer politika ihlali içerikleri açısından taramak için Amazon Web Services (AWS) Rekognition'u kullanır. AWS Rekognition, imzalı bir Veri İşleme Sözleşmesi kapsamında veri işleyicimiz olarak hareket eder ve görsel baytlarını yalnızca Jynx'in belgelenmiş talimatları doğrultusunda işler. İşlenen veri, saklama tutumu (AWS tarafından ayrı görsel depolaması yoktur) ve geçerli uluslararası aktarım mekanizması Gizlilik Politikası §4.8 ve §9'da açıklanmıştır.
 
-### 9.8. Meta (Advertising Attribution)
+### 9.8. Meta (Reklam Atfı)
 
-We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+Uygulama yüklemelerinin pazarlamamızdan kaynaklanıp kaynaklanmadığını ölçmek için Meta (Facebook) App Events SDK'yı kullanıyoruz; Apple cihazlarda SDK, yalnızca App Tracking Transparency iznini verdikten sonra başlatılır. Meta Platforms Ireland, ortaya çıkan uygulama etkinliği meta verilerini atıf ve kampanya ölçümü için bir veri işleyici olarak Jynx'in talimatları doğrultusunda işler; Meta Platforms, Inc. ayrıca kendi koşulları altında kendi meşru amaçları için bağımsız bir veri sorumlusu olarak da hareket edebilir. İşlenen veri, onam koşulları ve geçerli aktarım mekanizmaları Gizlilik Politikası §4.9 ve §9'da açıklanmıştır.
 
-If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
+Kabul ederseniz, Jynx ayrıca sınırlı dönüşüm etkinliklerini (kayıt olma ve satın almalar, tutarlarıyla birlikte) reklamlarımızı ölçmek ve iyileştirmek için Meta ile paylaşır. Veriniz asla satılmaz. iPhone ve iPad'de bu, onamınızı gerektirir (GDPR Mad. 6(1)(a); LGPD Mad. 7, I). Android'de ya bu onama ya da, reklam ölçümü anahtarı size varsayılan olarak açık gösteriliyorsa, Jynx'in meşru çıkarına (LGPD Mad. 7, IX ve Mad. 10) dayanır. Seçiminizi Gizlilik ayarlarından dilediğiniz zaman değiştirebilirsiniz: Ayarlar > Gizlilik > Reklam ölçümü. Apple'ın SKAdNetwork'ü dâhil (tüm iOS kullanıcıları için geçerlidir, izleme veya reklam ölçümü reddedilmiş olsa bile) ayrıntılar Gizlilik Politikası §5.9'da açıklanmıştır.
 
 ## 10. Feragatnameler ve Sorumluluk Sınırlaması
 
@@ -633,11 +633,11 @@ Haklarınızı veya yükümlülüklerinizi önemli ölçüde etkileyen önemli d
 
 Bu Şartlar, kanunlar çatışması ilkelerine bakılmaksızın Fransa yasalarına ve geçerli Avrupa Birliği düzenlemelerine göre yönetilir ve yorumlanır.
 
-Geçerli Düzenlemeler: Fransız Medeni Kanunu (Code civil), Fransız Tüketici Kanunu (Code de la consommation), Genel Veri Koruma Yönetmeliği (GDPR), AB Dijital Hizmetler Yasası (DSA), AB Tüketici Hakları Direktifi.
+Geçerli Düzenlemeler: Fransız Medeni Kanunu (Code civil), Fransız Tüketici Kanunu (Code de la consommation), Genel Veri Koruma Yönetmeliği (GDPR), AB Dijital Hizmetler Yasası (DSA), AB Tüketici Hakları Direktifi ve — Brezilya'da bulunan ilgili kişiler için — Brezilya Genel Veri Koruma Kanunu (Lei Geral de Proteção de Dados, Kanun 13.709/2018, "LGPD") ile Brezilya Tüketicini Koruma Kanunu (Código de Defesa do Consumidor, Kanun 8.078/90, "CDC").
 
 ### 12.2. Yargı Yetkisi
 
-Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC.
+Bu Şartlardan veya Hizmetten doğan uyuşmazlıklar, Nantes, Fransa'nın yetkili mahkemelerine götürülebilir. Bu, ikamet ülkenizin yasası uyarınca o ülkede dava açma hakkınız olabilecek zorunlu haklardan herhangi birini etkilemez — özellikle AB'deki tüketiciler için Brüksel I bis Tüzüğü'nün 17-19. maddelerinden ve üye devletinizin geçerli tüketici koruması yasasından doğan haklar ve Brezilyalı tüketiciler için CDC hükümleri.
 
 ### 12.3. Uyuşmazlık Çözümü ve Tahkim
 
@@ -651,13 +651,13 @@ Yasal işlemlere başlamadan önce, sizi şunlara teşvik ediyoruz:
 2. Resmi Olmayan Müzakere: 30 gün içinde dostane bir çözüme ulaşmak için sizinle iyi niyetle çalışacağız
 3. Arabuluculuk (İsteğe Bağlı): Resmi olmayan çözüm başarısız olursa, tarafsız bir üçüncü taraf arabulucu aracılığıyla arabuluculuk önerebilirsiniz
 
-**Consumer ADR (EU/France):** In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court.
+**Tüketici ADR (AB/Fransa):** Fransız Code de la consommation'ın L. 612-1 ve L. 616-6 maddeleri uyarınca, Jynx Group SAS; tüketici uyuşmazlıklarının dostane çözümü için médiateur de la consommation olarak, Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC) nezdinde kayıtlı bir tüketici arabuluculuk kurumu olan Centre de la Médiation de la Consommation de Conciliateurs de Justice'i (CM2C) — 49 rue de Ponthieu, 75008 Paris, Fransa; tel. +33 1 89 47 00 14; https://www.cm2c.net — görevlendirilmiştir. Arabulucuya başvurmadan önce önce şikayetinizi dpo@jynx.app adresinden bize iletmelisiniz; böylece onu çözmeyi deneyebiliriz. Arabuluculuk, tüketici olarak sizin için ücretsizdir, Fransızca yürütülür ve arabulucunun web sitesinde (https://www.cm2c.net) yayımlanan prosedürü izler; arabulucu, süreci kendisine iletildiğinden itibaren 90 gün içinde yürütür. Uyuşmazlığı bir mahkemeye götürme hakkınız her zaman saklıdır.
 
 ### 12.4. AB Tüketici Hakları
 
 Avrupa Birliği'nde bir tüketiciyseniz, şunlar dahil olmak üzere AB yasası kapsamındaki tüm zorunlu tüketici haklarınızı korursunuz:
 
-- 14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)
+- Uzak mesajlı sözleşmeler için 14 günlük cayma hakkı; dijital içerikte ifa, onamınızla başladığında bu hakkın yasal olarak kaybedilmesi saklıdır (bkz. Bölüm 8.5)
 - Kusurlu ürünler veya hizmetler için çözüm hakkı
 - Haksız sözleşme şartlarına karşı koruma
 - Yerel tüketici koruma otoritenize şikayet başvurusunda bulunma hakkı
@@ -666,9 +666,9 @@ Avrupa Birliği'nde bir tüketiciyseniz, şunlar dahil olmak üzere AB yasası k
 
 Veri uygulamalarımız Genel Veri Koruma Yönetmeliği (GDPR) ile uyumludur. Veri toplama, işleme, saklama, haklarınız ve Veri Koruma Görevlimizle nasıl iletişime geçeceğiniz hakkında detaylar için Gizlilik Politikamıza bakın.
 
-### 12.6. LGPD Compliance (Brazilian Users)
+### 12.6. LGPD Uyumluluğu (Brezilyalı Kullanıcılar)
 
-For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law.
+Brezilya'da bulunan ilgili kişiler için veri uygulamalarımız, Jynx'in Fransa'daki yerleşimine bakılmaksızın Mad. 3 uyarınca uygulanan LGPD'ye (Lei Geral de Proteção de Dados, Kanun 13.709/2018) de uygundur. Brezilyalı kullanıcılar, Gizlilik Politikası §7.7'de belirlenen haklara sahiptir ve ANPD'ye (Autoridade Nacional de Proteção de Dados) şikayette bulunabilir. Bu Şartlarda hiçbir şey, CDC Mad. 39 III'teki istenmeyen veya kötüye kullanımlı ticari mesajlaşma yasakları dâhil, bir Brezilyalı kullanıcının CDC'nin sağladığı zorunlu tüketici korumalarından mahrum bırakmaz. Tereddütleri gidermek için: §12.2'deki münhasır yargı yetkisi maddesi (Nantes, Fransa mahkemeleri), bu Şartlardan doğan veya bunlarla bağlantılı uyuşmazlıklar için, tüketicinin yerel yasası uyarınca feragat edilemeyen zorunlu tüketici koruması haklarından herhangi biri etkilenmeksizin yürürlükte kalır.
 
 ## 13. İletişim ve Yasal Bilgiler
 
@@ -728,10 +728,10 @@ Bu Şartların herhangi bir hak veya hükmünü uygulamamız, o hak veya hüküm
 
 These Terms are provided in English. In accordance with the French law known as the Loi Toubon (Law No. 94-665 of 4 August 1994) and Article L. 112-1 of the French Code de la consommation, a French-language version of these Terms is made available to consumers; in the event of any conflict between the English version and the French version, the French version shall prevail for consumers resident in France. For consumers outside France, the English version is the reference version, except where the law of your country of residence requires otherwise.
 
-## 15. Creator (Partner) Program
+## 15. İçerik Üretici (Ortak) Programı
 
-If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.
+Jynx İçerik Üretici (ortak) programına katılıyorsanız, programın kullanımı ayrıca kayıt olurken kabul ettiğiniz sürümlü İçerik Üretici Yönlendirme Koşulları ve Kendi Adına Fatura Yetkisi ile yönetilir (kabul edilen her sürüm, kabul edildiğinde değiştirilemez); uygulama içinde sürüm tanımlayıcısıyla sunulur. Çelişki durumunda program konularında İçerik Üretici Koşulları geçerlidir; aksi hâlde bu Şartlar ve Gizlilik Politikası uygulanır.
 
-The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10.
+Programın gerektirdiği kimlik, ödeme ve vergi bilgileri — CPF veya CNPJ kimliklendirmesi ve seçtiğiniz ödeme kanalı (PayPal, Wise veya Pix) gibi — ve yer alan işleyiciler Gizlilik Politikası §4.10'da açıklanmıştır.
 
 Jynx'i kullanarak, bu Hizmet Şartlarını okuduğunuzu, anladığınızı ve bunlara bağlı olmayı kabul ettiğinizi onaylarsınız.

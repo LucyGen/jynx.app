@@ -1,5 +1,5 @@
 ---
-title: "Terms of Service"
+title: "सर्विस की शर्तें"
 description: "Jynx के Terms of Service पढ़ें। ये terms हमारे gaming community platform का उपयोग करते समय आपके अधिकारों और जिम्मेदारियों को outline करते हैं।"
 canonical: "https://jynx.app/hi/terms.html"
 locale: "hi"
@@ -7,7 +7,7 @@ dateModified: "2026-11-14"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# Terms of Service
+# सर्विस की शर्तें - Jynx
 
 **आखिरी अपडेट:** November 14, 2026
 
@@ -60,7 +60,7 @@ Jynx में आपका स्वागत है, एक सोशल ग�
 
 Jynx एप्लिकेशन ("Service", "Platform", "App") तक पहुंच या उपयोग करके, आप इन सेवा की शर्तों ("Terms", "ToS") से बाध्य होने के लिए सहमत होते हैं। यदि आप इन Terms से सहमत नहीं हैं, तो आप Service का उपयोग नहीं कर सकते।
 
-**Separate and optional marketing consent.** Accepting these Terms is not consent to receive marketing, re-engagement, or survey emails. Any such communications require a separate, optional, purpose-specific opt-in that you may give or decline without losing access to the Service, and that you may withdraw at any time without terminating your account. This separation is required by LGPD Art. 8 §4 (which voids generic or bundled authorizations) and by GDPR Art. 4(11) and Art. 7. The terms that govern our marketing and re-engagement email program, including uninstall and churn feedback surveys, are set out in §5.5 below and in the Privacy Policy §5.6.
+**अलग और ऑप्शनल मार्केटिंग सहमति।** ये शर्तें स्वीकार करना मार्केटिंग, री-एंगेजमेंट या सर्वे ईमेल्स पाने की सहमति नहीं है। ऐसे किसी भी कम्युनिकेशन के लिए अलग, ऑप्शनल, परपज़-स्पेसिफिक ऑप्ट-इन ज़रूरी है, जिसे आप सर्विस का एक्सेस खोए बिना दे सकते हैं या ठुकरा सकते हैं, और बिना अकाउंट बंद किए कभी भी वापस ले सकते हैं। यह अलगाव LGPD आर्टिकल 8 §4 (जो जेनेरिक या बंडल्ड ऑथराइज़ेशन शून्य करता है) और GDPR आर्टिकल 4(11) व आर्टिकल 7 ज़रूरी करते हैं। हमारे मार्केटिंग और री-एंगेजमेंट ईमेल प्रोग्राम — अनइंस्टॉल और चर्न फीडबैक सर्वे समेत — को चलाने वाली शर्तें नीचे §5.5 और प्राइवेसी पॉलिसी §5.6 में हैं।
 
 **महत्वपूर्ण:** ये Terms आपके और Jynx Group के बीच एक कानूनी रूप से बाध्यकारी समझौता बनाती हैं।
 
@@ -68,13 +68,13 @@ Jynx एप्लिकेशन ("Service", "Platform", "App") तक पहु
 
 इन Terms के उद्देश्यों के लिए:
 
-- **"Service" / "Platform" / "App":** Jynx mobile एप्लिकेशन और सभी संबंधित services
-- **"User" / "You":** कोई भी व्यक्ति जो Service तक पहुंचता है या उपयोग करता है
-- **"Content":** Service के माध्यम से post, upload, या transmit किए गए सभी text, images, data, information, या other materials
-- **"Account":** registration के माध्यम से बनाया गया आपका personal Jynx account
-- **"Community":** गेमिंग और सामाजिक interaction के लिए Jynx के भीतर बनाया गया एक group
-- **"Handle":** private friend discovery के लिए @username#discriminator format में आपकी unique identifier
-- **"We" / "Us" / "Jynx":** Jynx Group और इसकी affiliates
+- **"सर्विस" / "प्लेटफॉर्म" / "ऐप":** Jynx mobile एप्लिकेशन और सभी संबंधित services
+- **"यूज़र" / "आप":** कोई भी व्यक्ति जो Service तक पहुंचता है या उपयोग करता है
+- **"कंटेंट":** Service के माध्यम से post, upload, या transmit किए गए सभी text, images, data, information, या other materials
+- **"अकाउंट":** registration के माध्यम से बनाया गया आपका personal Jynx account
+- **"कम्युनिटी":** गेमिंग और सामाजिक interaction के लिए Jynx के भीतर बनाया गया एक group
+- **"हैंडल":** private friend discovery के लिए @username#discriminator format में आपकी unique identifier
+- **"हम" / "हमारा" / "Jynx":** Jynx Group और इसकी affiliates
 - **"Jynx+":** Jynx's optional, auto-renewing premium subscription, purchased in-app via the App Store or Google Play, that unlocks the enhanced features described in Section 8
 - **"Founder Pack":** An optional, one-time in-app purchase of a cosmetic bundle described in Section 8.2; it is not a subscription
 - **"JynXP" / "Shards":** Jynx's earn-only in-app currency (no real-money purchase), used in the Shard Shop for cosmetic items
@@ -91,20 +91,20 @@ Registration के दौरान, आपको अपनी जन्म त�
 
 **प्रवर्तन:** हमारी age gate स्वचालित रूप से 18 वर्ष से कम आयु के users के लिए account creation को block करती है। यदि हमें पता चलता है कि आपने अपनी आयु के बारे में गलत जानकारी प्रदान की है, तो आपका account तुरंत समाप्त कर दिया जाएगा।
 
-**No marketing to minors.** If we identify that an account holder is under 18, the account is immediately terminated and the user is excluded from all marketing, re-engagement, and survey communications under §5.5 (see also Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
+**नाबालिगों को मार्केटिंग नहीं।** अगर हम पहचानते हैं कि अकाउंट होल्डर 18 से कम उम्र का है, तो अकाउंट तुरंत बंद कर दिया जाता है और यूज़र को §5.5 के तहत सभी मार्केटिंग, री-एंगेजमेंट और सर्वे कम्युनिकेशन्स से बाहर निकाल दिया जाता है (प्राइवेसी पॉलिसी §2 भी देखें; LGPD आर्टिकल 14; GDPR आर्टिकल 8)।
 
-### 3.2. Account Creation
+### 3.2. अकाउंट बनाना
 
-Jynx का उपयोग करने के लिए, आपको एक account बनाना होगा:
+Jynx का उपयोग करने के लिए, आपको ये देकर एक अकाउंट बनाना होगा:
 
-- A valid email address OR authentication via Google/Apple
+- एक वैध ईमेल एड्रेस या Google/Apple से ऑथेंटिकेशन
 - एक unique username
 - आपकी जन्म तिथि (आयु सत्यापन के लिए)
 - Profile information (देश, timezone, भाषाएं, gaming preferences)
 
 आपको एक unique Handle (जैसे @username#1234) assign किया जाएगा जो friends को public search exposure के बिना privately आपको खोजने की अनुमति देता है।
 
-### 3.3. Account Security
+### 3.3. अकाउंट सिक्योरिटी
 
 आप जिम्मेदार हैं:
 
@@ -114,7 +114,7 @@ Jynx का उपयोग करने के लिए, आपको एक a
 
 हम आपके account information की सुरक्षा में आपकी विफलता से उत्पन्न किसी भी loss या damage के लिए liable नहीं हैं।
 
-### 3.4. Account Accuracy
+### 3.4. अकाउंट एक्यूरेसी
 
 आप सहमत हैं:
 
@@ -125,11 +125,11 @@ Jynx का उपयोग करने के लिए, आपको एक a
 
 ## 4. User Conduct और Prohibited Activities
 
-### 4.1. Acceptable Use
+### 4.1. स्वीकार्य इस्तेमाल
 
 Jynx एक community-driven platform है। आप Service का उपयोग respectful, lawful, और appropriate तरीके से करने के लिए सहमत हैं।
 
-### 4.2. Prohibited Conduct
+### 4.2. प्रतिबंधित हरकतें
 
 Jynx का उपयोग करते समय, आप सहमत हैं कि आप नहीं करेंगे:
 
@@ -156,36 +156,36 @@ Jynx का उपयोग करते समय, आप सहमत है�
 - Fake accounts या misleading profiles बनाना
 - अपने account credentials को share या sell करना
 
-#### Illegal Activity:
+#### गैर-क़ानूनी गतिविधि:
 
 - किसी illegal purpose के लिए या किसी laws के उल्लंघन में Service का उपयोग करना
 - Illegal activities को share, promote, या facilitate करना
 - दूसरों के intellectual property rights का उल्लंघन करना
 - Fraud, scams, या phishing attempts में engage होना
 
-#### Platform Security:
+#### प्लेटफॉर्म सिक्योरिटी:
 
 - हमारे systems, servers, या databases तक unauthorized access प्राप्त करने का प्रयास करना
 - Malware, viruses, या malicious code वितरित करना
 - Service के किसी भाग को reverse engineer, decompile, या disassemble करना
 - Unfair advantage के लिए bugs, glitches, या vulnerabilities का exploit करना (security@jynx.app को report करना आवश्यक है)
 
-#### Privacy Violations:
+#### प्राइवेसी के उल्लंघन:
 
 - Consent के बिना अन्य users की private information share करना (doxxing)
 - Permission के बिना private conversations को screenshot या share करना
 - Authorization के बिना user data collect या harvest करना
-- Record, capture, or redistribute another member's shared screen without their consent
+- किसी दूसरे मेंबर की शेयर की गई स्क्रीन उसकी सहमति के बिना रिकॉर्ड, कैप्चर या रीडिस्ट्रिब्यूट करना
 
-#### Content Violations:
+#### कंटेंट के उल्लंघन:
 
 - हमारी Community Guidelines का उल्लंघन करने वाली content post करना
 - Violent, graphic, या disturbing content share करना
 - किसी भी capacity में minors को involve करने वाली content post करना
 - Permission के बिना copyrighted material distribute करना
-- Use screen sharing to transmit content that violates these Terms — all prohibitions in this section extend fully to what is visible on your shared screen
+- स्क्रीन शेयरिंग से ऐसा कंटेंट भेजना जो इन शर्तों का उल्लंघन करता है — इस सेक्शन के सभी प्रतिबंध पूरी तरह आपकी शेयर की गई स्क्रीन पर दिखने वाली चीज़ों पर भी लागू होते हैं
 
-#### Platform Manipulation:
+#### प्लेटफॉर्म मैनिपुलेशन:
 
 - Engagement metrics या reputation को artificially inflate करना
 - हमारी reporting system को abuse करने के लिए mass reporting को coordinate करना
@@ -200,15 +200,15 @@ Jynx का उपयोग करते समय, आप सहमत है�
 
 Platform और user experience की सुरक्षा के लिए, हम rate limits लागू करते हैं:
 
-- **Client-side:** प्रति मिनट 10 messages (sliding window)
-- **Server-side burst protection:** प्रति सेकंड 1 message
-- **Server-side daily limit:** प्रति दिन 500 messages (midnight UTC पर reset होता है)
+- **क्लाइंट-साइड:** प्रति मिनट 10 messages (sliding window)
+- **सर्वर-साइड बर्स्ट प्रोटेक्शन:** प्रति सेकंड 1 message
+- **सर्वर-साइड डेली लिमिट:** प्रति दिन 500 messages (midnight UTC पर reset होता है)
 
 इन limits को bypass करने का प्रयास करने पर account suspension हो सकता है।
 
 ### 4.4. Moderation और Reporting
 
-#### Moderation Structure:
+#### मॉडरेशन स्ट्रक्चर:
 
 Jynx एक centralized moderation team को employ करता है ताकि इन Terms और Community Guidelines को platform पर consistent enforcement सुनिश्चित किया जा सके। हमारी moderation system में शामिल हैं:
 
@@ -216,7 +216,7 @@ Jynx एक centralized moderation team को employ करता है ता
 - Automated Detection: Algorithm-based systems जो स्वचालित रूप से spam, illegal content, और severe violations को flag और remove करती हैं
 - Community Owner Powers: Community owners के पास अपनी communities के भीतर सीमित moderation capabilities हैं, जिसमें members को kick करने या temporary mutes (24 घंटे तक) apply करने की क्षमता शामिल है। Severe violations को Jynx moderation team को escalate किया जाना चाहिए
 
-#### Reporting Process:
+#### रिपोर्टिंग प्रोसेस:
 
 आप violations को report कर सकते हैं:
 
@@ -231,7 +231,7 @@ By uploading photos to the Service (including your profile avatar and gallery), 
 
 सभी reports की हमारी moderation team द्वारा समीक्षा की जाती है। False या malicious reports submit करने पर आपके account के खिलाफ action हो सकता है।
 
-#### Response Times:
+#### रिस्पॉन्स टाइम्स:
 
 हम severity के आधार पर reports को prioritize करते हैं:
 
@@ -255,7 +255,7 @@ By uploading photos to the Service (including your profile avatar and gallery), 
 
 User Content post करके, आप Jynx को एक non-exclusive, worldwide, royalty-free, sublicensable license grant करते हैं:
 
-#### Core Service Operations:
+#### कोर सर्विस ऑपरेशन्स:
 
 - Service प्रदान करने के लिए आवश्यक आपकी User Content को host, store, और display करना
 - आपकी privacy settings के अनुसार अन्य users के साथ आपकी User Content share करना (जैसे communities में display करना, match profiles में दिखाना)
@@ -291,7 +291,7 @@ User Content post करके, आप Jynx को एक non-exclusive, worldwi
 
 हम आपके personal data को third parties को नहीं बेचेंगे। Data handling विवरण के लिए हमारी Privacy Policy देखें।
 
-### 5.3. Third-Party Content
+### 5.3. थर्ड-पार्टी कंटेंट
 
 Jynx third-party services के साथ integrate होता है, जिसमें शामिल हैं:
 
@@ -299,7 +299,7 @@ Jynx third-party services के साथ integrate होता है, जि
 - Firebase Services: Google द्वारा उनकी Terms of Service के तहत provided।
 - OAuth Providers: Google और Apple authentication services।
 
-### 5.4. Content Removal
+### 5.4. कंटेंट रिमूवल
 
 हम किसी भी User Content को remove करने का अधिकार सुरक्षित रखते हैं जो:
 
@@ -310,26 +310,26 @@ Jynx third-party services के साथ integrate होता है, जि
 
 जब संभव हो तो आपको content removal की सूचना दी जाएगी।
 
-### 5.5. Marketing & Re-engagement Email Program
+### 5.5. मार्केटिंग और री-एंगेजमेंट ईमेल प्रोग्राम
 
-(Note: §5.2 "Marketing & Promotional Use" governs reuse of User Content in Jynx's marketing materials. This §5.5 governs Jynx sending marketing, re-engagement, and survey emails to you — it is a distinct subject and is not covered by §5.2.)
+(नोट: §5.2 "मार्केटिंग और प्रोमोशनल यूज़" Jynx की मार्केटिंग मटेरियल में यूज़र कंटेंट के पुनः इस्तेमाल को चलाता है। यह §5.5 Jynx का आपको मार्केटिंग, री-एंगेजमेंट और सर्वे ईमेल्स भेजने को चलाता है — यह अलग विषय है और §5.2 में नहीं आता।)
 
-Subject to the Privacy Policy §5.6 Marketing Communications, Jynx may send you marketing, re-engagement, and uninstall/churn-survey emails as described in that section. The program operates on the following terms:
+प्राइवेसी पॉलिसी §5.6 मार्केटिंग कम्युनिकेशन्स के अधीन, Jynx आपको उस सेक्शन में बताए मार्केटिंग, री-एंगेजमेंट और अनइंस्टॉल/चर्न-सर्वे ईमेल्स भेज सकता है। प्रोग्राम निम्न शर्तों पर चलता है:
 
-1. **Legal basis by cohort.**
-  - **EU/EEA users:** we send marketing and re-engagement emails only with your prior explicit opt-in consent (ePrivacy Directive Art. 13(1) / CPCE Art. L. 34-5; GDPR Art. 6(1)(a)). Following the launch of paid subscriptions and Founder Packs, the Service is now a remunerated service within the meaning of ePrivacy Directive Art. 13(2) / CPCE Art. L. 34-5, so the soft-opt-in exception is in principle available for similar products and services to existing customers. As a conservative posture, we continue to rely on your prior explicit opt-in consent and will not switch to the soft-opt-in basis without a documented assessment recorded in our Records of Processing Activities and an updated notice to you.
-  - **Brazilian users:** we send marketing and re-engagement emails on the basis of either (i) your consent (LGPD Art. 7 I and Art. 8) for any prospect, cold, or cross-sell/partner send, or (ii) our legitimate interest (LGPD Art. 7 IX and Art. 10), supported by a documented Legitimate Interests Assessment following the ANPD Legitimate Interest Guide (2 Feb 2024), for existing or recently-lapsed users receiving product updates, re-engagement, or a single short churn/uninstall survey about the Jynx app.
-2. **Uninstall / churn surveys.** We prefer to ask uninstall/churn questions in-app at the moment of uninstall. Where an email survey is sent: it contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of uninstall or account deletion; and the email address is then deleted or anonymized in accordance with the Privacy Policy §6.
-3. **One-click unsubscribe.** Every marketing email includes a working one-click unsubscribe mechanism (RFC 8058), honored in real time. You may also withdraw consent or object via Settings > Privacy > Communications Preferences or by emailing dpo@jynx.app, without terminating your account and without cost (LGPD Art. 8 §5; GDPR Art. 7(3) and Art. 21(2)). We respect the Brazilian Consumer Defense Code (Law 8.078/90, in particular Art. 39 III) and do not send unsolicited or abusive messaging; persistent sending after an opt-out is prohibited.
-4. **Erasure and suppression.** If you exercise the right to erasure (Privacy Policy §7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is removed from all marketing pipelines and added to a permanent hashed suppression list; you will not be re-contacted or surveyed, including by any imported or third-party list. Mere account deletion or uninstall (without an erasure request) does not by itself trigger permanent suppression — see Privacy Policy §6 for the retention and re-engagement windows that apply.
-5. **Children.** We never knowingly send marketing to a minor; any account identified as belonging to a user under 18 is terminated and excluded from the program (Privacy Policy §2; LGPD Art. 14; GDPR Art. 8).
-6. **Email service provider.** We use a third-party email service provider (processor) under a Data Processing Agreement, named in Privacy Policy §4.4 and §9 Third-Party Services (§9.5).
+1. **कोहोर्ट के हिसाब से लीगल बेसिस।**
+  - **EU/EEA यूज़र्स:** हम मार्केटिंग और री-एंगेजमेंट ईमेल्स सिर्फ़ आपकी पहले की स्पष्ट ऑप्ट-इन सहमति से भेजते हैं (ePrivacy डायरेक्टिव आर्टिकल 13(1) / CPCE आर्टिकल L. 34-5; GDPR आर्टिकल 6(1)(a))। पेड सब्सक्रिप्शन्स और फ़ाउंडर पैक्स के लॉन्च के बाद सर्विस अब ePrivacy डायरेक्टिव आर्टिकल 13(2) / CPCE आर्टिकल L. 34-5 के मायनों में रेम्युनरेटेड सर्विस है, इसलिए सॉफ्ट-ऑप्ट-इन अपवाद सिद्धांत रूप में मौजूदा ग्राहकों को मिलते-जुलते प्रोडक्ट्स और सर्विसेज़ के लिए उपलब्ध है। सावधानी के तौर पर हम आपकी पहले की स्पष्ट ऑप्ट-इन सहमति पर ही टिके रहते हैं और बिना हमारे रिकॉर्ड्स ऑफ प्रोसेसिंग एक्टिविटीज़ में दर्ज डॉक्यूमेंटेड असेसमेंट और आपको अपडेटेड नोटिस के सॉफ्ट-ऑप्ट-इन आधार पर नहीं जाएंगे।
+  - **ब्राज़ीलियन यूज़र्स:** हम मार्केटिंग और री-एंगेजमेंट ईमेल्स या तो (i) आपकी सहमति (LGPD आर्टिकल 7 I और आर्टिकल 8) से भेजते हैं — किसी भी प्रॉस्पेक्ट, कोल्ड या क्रॉस-सेल/पार्टनर सेंड के लिए, या (ii) हमारे लीजिटिमेट इंटरेस्ट (LGPD आर्टिकल 7 IX और आर्टिकल 10) से — ANPD लीजिटिमेट इंटरेस्ट गाइड (2 फ़रवरी 2024) के मुताबिक डॉक्यूमेंटेड लीजिटिमेट इंटरेस्ट्स असेसमेंट के साथ — मौजूदा या हाल में छूटे यूज़र्स के लिए, जिन्हें Jynx ऐप के प्रोडक्ट अपडेट्स, री-एंगेजमेंट, या एक छोटा चर्न/अनइंस्टॉल सर्वे मिलता है।
+2. **अनइंस्टॉल / चर्न सर्वे।** हम अनइंस्टॉल/चर्न सवाल अनइंस्टॉल के पल पर इन-ऐप पूछना पसंद करते हैं। जहां ईमेल सर्वे भेजा जाता है: उसमें कोई प्रोमोशनल या री-एंगेजमेंट कंटेंट नहीं होता; हम प्रति यूज़र अनइंस्टॉल या अकाउंट डिलीशन के क़रीब 60 दिनों के भीतर अधिकतम एक (1) सर्वे भेजते हैं; और उसके बाद ईमेल एड्रेस प्राइवेसी पॉलिसी §6 के मुताबिक डिलीट या अनोनिमाइज़् कर दिया जाता है।
+3. **वन-क्लिक अनसब्सक्राइब।** हर मार्केटिंग ईमेल में काम करने वाला वन-क्लिक अनसब्सक्राइब मैकेनिज़्म (RFC 8058) होता है, जिसे रीयल टाइम में माना जाता है। आप Settings > Privacy > Communications Preferences से या dpo@jynx.app पर ईमेल करके भी कंसेंट वापस ले सकते हैं या आपत्ति जता सकते हैं, बिना अकाउंट बंद किए और बिना क़ीमत (LGPD आर्टिकल 8 §5; GDPR आर्टिकल 7(3) और आर्टिकल 21(2))। हम ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड (क़ानून 8.078/90, ख़ास तौर पर आर्टिकल 39 III) का सम्मान करते हैं और बिना मांगे या दबाव वाले मैसेजेस नहीं भेजते; ऑप्ट-आउट के बाद लगातार भेजना प्रतिबंधित है।
+4. **इरेज़र और सप्रेशन।** अगर आप इरेज़र का अधिकार इस्तेमाल करते हैं (प्राइवेसी पॉलिसी §7.3 / GDPR आर्टिकल 17 / कंसेंट-आधारित डेटा के लिए LGPD आर्टिकल 18(VI)), तो आपका ईमेल एड्रेस सभी मार्केटिंग पाइपलाइन्स से हटा कर एक परमानेंट हैश्ड सप्रेशन लिस्ट में डाल दिया जाता है; आपसे दोबारा संपर्क या सर्वे नहीं किया जाएगा, किसी इंपोर्टेड या थर्ड-पार्टी लिस्ट से भी नहीं। महज़ अकाउंट डिलीशन या अनइंस्टॉल (इरेज़र रिक्वेस्ट के बिना) ख़ुद परमानेंट सप्रेशन ट्रिगर नहीं करता — लागू रिटेंशन और री-एंगेजमेंट विंडोज़ के लिए प्राइवेसी पॉलिसी §6 देखें।
+5. **बच्चे।** हम किसी नाबालिग को जानबूझकर मार्केटिंग कभी नहीं भेजते; 18 से कम उम्र के यूज़र से संबंधित पहचाना गया कोई भी अकाउंट बंद कर दिया जाता है और प्रोग्राम से बाहर निकाल दिया जाता है (प्राइवेसी पॉलिसी §2; LGPD आर्टिकल 14; GDPR आर्टिकल 8)।
+6. **ईमेल सर्विस प्रोवाइडर।** हम डेटा प्रोसेसिंग एग्रीमेंट के तहत एक थर्ड-पार्टी ईमेल सर्विस प्रोवाइडर (प्रोसेसर) इस्तेमाल करते हैं, जिसका नाम प्राइवेसी पॉलिसी §4.4 और §9 थर्ड-पार्टी सर्विसेज़ (§9.5) में है।
 
-This clause is without prejudice to any mandatory consumer-protection rights you hold under the law of your country of residence, including the Brazilian Consumer Defense Code.
+यह क्लॉज़ आपके निवास देश के क़ानून के तहत आपके अनिवार्य कंज़्यूमर-प्रोटेक्शन अधिकारों — ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड समेत — को बिना प्रभावित किए है।
 
-### 5.6. Account-Activity Notifications
+### 5.6. अकाउंट-एक्टिविटी नोटिफिकेशन्स
 
-**Account-activity notifications.** Jynx sends you notifications about your account activity (new messages, matches, likes), including by email when you have missed them in the app. Accepting these Terms is not consent to receive marketing emails: marketing communications (such as our re-engagement emails and news) are sent only with your separate, optional sign-up.
+**अकाउंट-एक्टिविटी नोटिफिकेशन्स।** Jynx आपको आपकी अकाउंट एक्टिविटी (नए मैसेजेस, मैचेज़, लाइक्स) की नोटिफिकेशन्स भेजता है, जिनमें ईमेल भी शामिल है जब आपने वे ऐप में मिस की हों। ये शर्तें स्वीकार करना मार्केटिंग ईमेल्स पाने की सहमति नहीं है: मार्केटिंग कम्युनिकेशन्स (जैसे हमारे री-एंगेजमेंट ईमेल्स और न्यूज़) सिर्फ़ आपके अलग, ऑप्शनल साइन-अप से भेजे जाते हैं।
 
 ## 6. Communities और Gaming Features
 
@@ -352,18 +352,18 @@ Users can create and join communities for gaming and social interaction.
 
 For the full list of current Jynx+ benefits, see Section 8.1. (The previous community-boost and boost-level mechanic is no longer offered.)
 
-### 6.2. Auto-Match System
+### 6.2. ऑटो-मैच सिस्टम
 
-Jynx एक intelligent auto-match system का उपयोग करता है जो players को connect करता है:
+Jynx एक इंटेलिजेंट ऑटो-मैच सिस्टम इस्तेमाल करता है जो इन आधारों पर प्लेयर्स को जोड़ता है:
 
-- Game preferences
+- गेम प्रेफ़रेंसेज़
 - Skill levels (जैसे Riot Games rank)
 - Play styles और availability
 - Language और timezone
 
 Auto-match feature का उपयोग करके, आप अपनी gaming profile को potential matches के साथ share करने के लिए सहमति देते हैं।
 
-### 6.3. Riot Games Integration
+### 6.3. Riot Games इंटीग्रेशन
 
 जब आप अपना Riot Games account link करते हैं, तो हम retrieve करते हैं:
 
@@ -384,24 +384,24 @@ Auto-match feature का उपयोग करके, आप अपनी gami
 - Fraudulent या illegal activities में engage होते हैं
 - अन्य users से बार-बार valid reports प्राप्त करते हैं
 
-#### Moderation Actions:
+#### मॉडरेशन एक्शन्स:
 
 हमारी moderation team निम्नलिखित actions ले सकती है:
 
-**1. Warning (Low Severity)**
+**1. चेतावनी (लो सीवियरिटी)**
 
 - Minor infractions या first-time violations के लिए issued
 - कोई account restrictions नहीं, लेकिन violation documented है
 - Warnings 30 दिनों के लिए record पर रहती हैं
 
-**2. Temporary Suspension (Medium to High Severity)**
+**2. टेम्पररी सस्पेंशन (मीडियम से हाई सीवियरिटी)**
 
 - 7-day suspension: Significant violations के लिए standard duration (harassment, spam, platform manipulation)
 - 14-day suspension: Repeated violations या more serious infractions
 - 30-day suspension: Severe violations जो permanent removal की warranty नहीं देते
 - Suspension के दौरान, आप Service तक सभी access खो देते हैं
 
-**3. Permanent Ban (Critical Severity)**
+**3. परमानेंट बैन (क्रिटिकल सीवियरिटी)**
 
 सबसे severe violations के लिए issued, जिसमें शामिल हैं:
 
@@ -421,21 +421,21 @@ Account termination पर:
 - आपका user data GDPR के अनुसार anonymized किया जाता है
 - आपका Firebase Authentication account deleted हो जाता है
 - OAuth tokens (Google, Apple) स्वचालित रूप से revoked हो जाते हैं
-- Your email address is purged from our marketing CRM and email service provider
-- If your termination includes an erasure / right-to-be-forgotten request (Privacy Policy §7.3), your email address is added to a permanent hashed suppression list and will never be used for marketing, re-engagement, or surveys, including by any imported or third-party list
-- Mere account deletion or uninstall (without an erasure request) does not permanently suppress re-engagement; the retention and re-engagement windows in Privacy Policy §6 apply, after which the address is deleted or anonymized
+- आपका ईमेल एड्रेस हमारे मार्केटिंग CRM और ईमेल सर्विस प्रोवाइडर से पर्ज कर दिया जाता है
+- अगर आपकी टर्मिनेशन में इरेज़र / राइट-टू-बी-फ़ॉरगॉटन रिक्वेस्ट शामिल है (प्राइवेसी पॉलिसी §7.3), तो आपका ईमेल एड्रेस एक परमानेंट हैश्ड सप्रेशन लिस्ट में डाल दिया जाता है और मार्केटिंग, री-एंगेजमेंट या सर्वे के लिए उसका फिर कभी इस्तेमाल नहीं होगा, किसी इंपोर्टेड या थर्ड-पार्टी लिस्ट से भी नहीं
+- महज़ अकाउंट डिलीशन या अनइंस्टॉल (इरेज़र रिक्वेस्ट के बिना) री-एंगेजमेंट को परमानेंट सप्रेस नहीं करता; प्राइवेसी पॉलिसी §6 की रिटेंशन और री-एंगेजमेंट विंडोज़ लागू होती हैं, उनके बाद एड्रेस डिलीट या अनोनिमाइज़् कर दिया जाता है
 
 Refund Policy: If your account is terminated due to violations of these Terms, you are not entitled to a refund of the then-current Jynx+ subscription period, any unused prepaid Jynx+ months included in a Founder Pack, or virtual items (cosmetics). Founder Pack cosmetic items and the Founder badge are licensed, not owned (Section 8.3), and that license is revocable on termination for violations. Refund requests remain subject to the applicable store's refund policy (App Store / Google Play) and to Section 8.5.
 
-The data-handling steps above are described under both the GDPR and the LGPD; Brazilian users' deletion rights are governed by LGPD Art. 18 (note that Art. 18(VI) deletion applies to data processed on the basis of consent, while data processed on legitimate interest is governed by purpose limitation under Art. 6 II and the right to request cessation under Art. 18 §2).
+ऊपर के डेटा-हैंडलिंग क़दम GDPR और LGPD दोनों के तहत बताए गए हैं; ब्राज़ीलियन यूज़र्स के डिलीशन अधिकार LGPD आर्टिकल 18 से चलते हैं (ध्यान दें कि आर्टिकल 18(VI) डिलीशन कंसेंट के आधार पर प्रोसेस हुए डेटा पर लागू होता है, जबकि लीजिटिमेट इंटरेस्ट पर प्रोसेस हुआ डेटा आर्टिकल 6 II के परपज़ लिमिटेशन और आर्टिकल 18 §2 के प्रोसेसिंग रोकने के अधिकार से चलता है)।
 
-### 7.3. User-Initiated Deletion
+### 7.3. यूज़र-इनिशिएटेड डिलीशन
 
 आप किसी भी समय Settings > Danger Zone > Delete My Account के माध्यम से अपना account delete कर सकते हैं।
 
 यह action irreversible है। Deletion process के लिए हमारी Privacy Policy देखें।
 
-### 7.4. Appeal Process
+### 7.4. अपील प्रोसेस
 
 यदि आपको विश्वास है कि आपका account गलती से suspended या terminated किया गया था, तो आपको decision को appeal करने का अधिकार है।
 
@@ -447,7 +447,7 @@ The data-handling steps above are described under both the GDPR and the LGPD; Br
 4. Decision: Review के बाद, हम या तो decision को uphold करेंगे, penalty को reduce करेंगे, या decision को overturn करेंगे और आपके account को reinstate करेंगे
 5. Notification: आपको email के माध्यम से हमारा final decision प्राप्त होगा, जिसमें outcome और हमारे reasoning की explanation शामिल होगी
 
-#### Appeal Deadlines:
+#### अपील डेडलाइन्स:
 
 आपको अपना appeal इसके भीतर submit करना होगा:
 
@@ -512,9 +512,9 @@ Jynx+ is an automatically renewing paid subscription.
 
 ### 8.5. Refunds & Cancellations
 
-#### EU Consumer Rights (Right of Withdrawal):
+#### EU कंज़्यूमर अधिकार (विदड्रॉल का अधिकार):
 
-If you are a consumer in the European Union, you would normally have a 14-day right of withdrawal for distance contracts under the Consumer Rights Directive. However, for digital content whose supply has begun with your prior express consent and your acknowledgement that you thereby lose the right of withdrawal - which includes Jynx+ entitlements, cosmetic items, and Founder Packs, whose supply begins immediately on purchase - that right of withdrawal is lost in accordance with Article 16(m) of the Consumer Rights Directive and Article L221-28 13° of the French Code de la consommation. Nothing in these Terms deprives you of any mandatory consumer rights that cannot be waived under the law of your EU member state.
+अगर आप यूरोपीय संघ के कंज़्यूमर हैं, तो कंज़्यूमर राइट्स डायरेक्टिव के तहत डिस्टेंस कॉन्ट्रैक्ट्स के लिए आपको आम तौर पर 14 दिन का विदड्रॉल अधिकार मिलता है। लेकिन ऐसे डिजिटल कंटेंट के लिए जिसकी सप्लाई आपकी पहले की स्पष्ट सहमति और यह एक्नॉलेजमेंट के साथ शुरू हुई है कि आप इस तरह विदड्रॉल का अधिकार खो देते हैं — जिनमें Jynx+ एनटाइटलमेंट्स, कॉस्मेटिक आइटम्स और फ़ाउंडर पैक्स शामिल हैं, जिनकी सप्लाई परचेस पर तुरंत शुरू हो जाती है — वह विदड्रॉल अधिकार कंज़्यूमर राइट्स डायरेक्टिव के आर्टिकल 16(m) और फ्रेंच Code de la consommation के आर्टिकल L221-28 13° के मुताबिक खो जाता है। इन शर्तों में कुछ भी आपको उन अनिवार्य कंज़्यूमर अधिकारों से वंचित नहीं करता जिन्हें आपके EU सदस्य देश के क़ानून के तहत त्यागा नहीं जा सकता।
 
 #### Refund Policy:
 
@@ -524,28 +524,28 @@ If you are a consumer in the European Union, you would normally have a 14-day ri
 - Store-Managed: Because the App Store and Google Play are the merchant of record for these purchases, refund eligibility and processing are ultimately governed by the applicable store's refund policy.
 - No Refunds for: Account termination due to Terms violations (see Section 7.2), or change of mind after the right of withdrawal has been lost as described above.
 
-#### Brazilian Consumers:
+#### ब्राज़ीलियन कंज़्यूमर्स:
 
-If you are a consumer in Brazil, you have the right to withdraw from a distance contract within 7 days of receipt under Article 49 of the Brazilian Consumer Defense Code (CDC), exercisable without justification, and this right cannot be waived. For digital items whose supply has already begun at your express request, the amounts to be returned upon withdrawal take into account what has already been supplied, in accordance with CDC Art. 49 §2°. Refund mechanics for purchases made through the App Store or Google Play follow the applicable store's refund policy. Nothing in these Terms excludes or limits the mandatory consumer protections of the CDC.
+अगर आप ब्राज़ील के कंज़्यूमर हैं, तो आपको ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड (CDC) के आर्टिकल 49 के तहत प्राप्ति के 7 दिनों के भीतर डिस्टेंस कॉन्ट्रैक्ट से विदड्रॉल का अधिकार है, बिना किसी कारण बताए इस्तेमाल करने योग्य, और यह अधिकार त्यागा नहीं जा सकता। जिन डिजिटल आइटम्स की सप्लाई आपके स्पष्ट रिक्वेस्ट पर पहले ही शुरू हो चुकी है, विदड्रॉल पर लौटाई जाने वाली रकमें CDC आर्टिकल 49 §2° के मुताबिक पहले से सप्लाई हुई चीज़ों को ध्यान में रखती हैं। App Store या Google Play से की गई खरीदारियों के रिफ़ंड मैकेनिक्स उस स्टोर की लागू रिफ़ंड पॉलिसी के मुताबिक चलते हैं। इन शर्तों में कुछ भी CDC की अनिवार्य कंज़्यूमर प्रोटेक्शन्स को बाहर या सीमित नहीं करता।
 
-## 9. Third-Party Services
+## 9. थर्ड-पार्टी सर्विसेज़
 
 Jynx निम्नलिखित third-party services के साथ integrate होता है, प्रत्येक अपनी own terms द्वारा governed:
 
-### 9.1. Firebase Services (Google)
+### 9.1. Firebase सर्विसेज़ (Google)
 
 हम Firebase का उपयोग करते हैं:
 
-- Authentication
-- Cloud Firestore (database)
-- Cloud Storage (images)
-- Cloud Functions (backend logic)
-- Cloud Messaging (push notifications)
-- App Check (security)
-- Performance Monitoring
-- Crashlytics (crash reporting)
+- ऑथेंटिकेशन
+- Cloud Firestore (डेटाबेस)
+- Cloud Storage (इमेजेज़)
+- Cloud Functions (बैकएंड लॉजिक)
+- Cloud Messaging (पुश नोटिफिकेशन्स)
+- App Check (सिक्योरिटी)
+- परफ़ॉर्मेंस मॉनिटरिंग
+- Crashlytics (क्रैश रिपोर्टिंग)
 
-### 9.2. Sentry (Error Monitoring)
+### 9.2. Sentry (एरर मॉनिटरिंग)
 
 हम error tracking और performance monitoring के लिए Sentry का उपयोग करते हैं। Data को Sentry को भेजने से पहले anonymized किया जाता है।
 
@@ -553,7 +553,7 @@ Jynx निम्नलिखित third-party services के साथ integr
 
 हम gaming statistics (League of Legends, Valorant, आदि) retrieve करने के लिए Riot Games API का उपयोग करते हैं।
 
-### 9.4. OAuth Providers
+### 9.4. OAuth प्रोवाइडर्स
 
 हम authentication offer करते हैं:
 
@@ -562,29 +562,29 @@ Jynx निम्नलिखित third-party services के साथ integr
 
 आप इन third-party services की terms का पालन करने के लिए जिम्मेदार हैं।
 
-### 9.5. Email Service Provider
+### 9.5. ईमेल सर्विस प्रोवाइडर
 
-We use a third-party email service provider to deliver marketing, re-engagement, and uninstall/churn-survey communications as described in §5.5 and in the Privacy Policy §5.6 and §4.4. The provider acts as our processor under a Data Processing Agreement and processes your data only on our documented instructions. The provider's identity, location, sub-processors, and the applicable international-transfer mechanism are described in Privacy Policy §4.4 and §9.
+हम §5.5 और प्राइवेसी पॉलिसी §5.6 व §4.4 में बताए मार्केटिंग, री-एंगेजमेंट और अनइंस्टॉल/चर्न-सर्वे कम्युनिकेशन्स डिलीवर करने के लिए एक थर्ड-पार्टी ईमेल सर्विस प्रोवाइडर इस्तेमाल करते हैं। प्रोवाइडर डेटा प्रोसेसिंग एग्रीमेंट के तहत हमारा प्रोसेसर है और आपका डेटा सिर्फ़ हमारे डॉक्यूमेंटेड निर्देशों पर प्रोसेस करता है। प्रोवाइडर की पहचान, लोकेशन, सब-प्रोसेसर्स और लागू इंटरनेशनल-ट्रांसफ़र मैकेनिज़्म प्राइवेसी पॉलिसी §4.4 और §9 में हैं।
 
-You remain responsible for complying with the terms of any third-party service where you hold your own account; the email service provider is Jynx's vendor, not yours.
+जिन थर्ड-पार्टी सर्विसेज़ के अपने अकाउंट आप रखते हैं, उनकी शर्तों का पालन करने की ज़िम्मेदारी आपकी रहती है; ईमेल सर्विस प्रोवाइडर Jynx का वेंडर है, आपका नहीं।
 
-### 9.6. LiveKit (Real-Time Voice)
+### 9.6. LiveKit (रीयल-टाइम वॉइस)
 
-Jynx uses LiveKit Cloud to provide real-time voice rooms. LiveKit acts as our processor for voice-room audio under a signed Data Processing Agreement and processes data only on Jynx's documented instructions. As described in Privacy Policy §4.5 and §3.6, voice-room audio is routed in real time and is not recorded, stored, or persisted by Jynx or by LiveKit. The applicable international-transfer mechanism (LiveKit's Data Processing Addendum, which incorporates the EU standard contractual clauses) and LiveKit's global routing posture are described in Privacy Policy §9.
+Jynx रीयल-टाइम वॉइस रूम्स देने के लिए LiveKit Cloud इस्तेमाल करता है। LiveKit साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत वॉइस-रूम ऑडियो के लिए हमारा प्रोसेसर है और डेटा सिर्फ़ Jynx के डॉक्यूमेंटेड निर्देशों पर प्रोसेस करता है। प्राइवेसी पॉलिसी §4.5 और §3.6 में बताए मुताबिक वॉइस-रूम ऑडियो रीयल टाइम में रूट होता है और उसे Jynx या LiveKit रिकॉर्ड, स्टोर या पर्सिस्ट नहीं करते। लागू इंटरनेशनल-ट्रांसफ़र मैकेनिज़्म (LiveKit का डेटा प्रोसेसिंग एडेंडम, जिसमें EU स्टैंडर्ड कॉन्ट्रैक्चुअल क्लॉज़ेज़ शामिल हैं) और LiveKit की ग्लोबल रूटिंग पोज़िशन प्राइवेसी पॉलिसी §9 में हैं।
 
-### 9.7. AWS Rekognition (Image Moderation)
+### 9.7. AWS Rekognition (इमेज मॉडरेशन)
 
-Jynx uses Amazon Web Services (AWS) Rekognition to scan user-uploaded profile images for nudity and other policy-violating content. AWS Rekognition acts as our processor under a signed Data Processing Agreement and processes image bytes only on Jynx's documented instructions. The data processed, the retention posture (no separate image storage by AWS), and the applicable international-transfer mechanism are described in Privacy Policy §4.8 and §9.
+Jynx यूज़र-अपलोडेड प्रोफाइल इमेजेज़ को न्यूडिटी और दूसरे पॉलिसी-ख़िलाफ़ कंटेंट के लिए Amazon Web Services (AWS) Rekognition से स्कैन करता है। AWS Rekognition साइन किए गए डेटा प्रोसेसिंग एग्रीमेंट के तहत हमारा प्रोसेसर है और इमेज बाइट्स सिर्फ़ Jynx के डॉक्यूमेंटेड निर्देशों पर प्रोसेस करता है। प्रोसेस किया जाने वाला डेटा, रिटेंशन पोज़िशन (AWS से अलग कोई इमेज स्टोरेज नहीं) और लागू इंटरनेशनल-ट्रांसफ़र मैकेनिज़्म प्राइवेसी पॉलिसी §4.8 और §9 में हैं।
 
-### 9.8. Meta (Advertising Attribution)
+### 9.8. Meta (ऐडवरटाइज़िंग एट्रिब्यूशन)
 
-We use the Meta (Facebook) App Events SDK to measure whether app installs result from our marketing; on Apple devices the SDK is initialized only after you grant App Tracking Transparency permission. Meta Platforms Ireland processes the resulting app-event metadata on Jynx's instructions as a processor for attribution and campaign measurement, and Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms. The data processed, the consent conditions, and the applicable transfer mechanisms are described in Privacy Policy §4.9 and §9.
+हम यह मापने के लिए Meta (Facebook) App Events SDK इस्तेमाल करते हैं कि ऐप इंस्टॉल हमारी मार्केटिंग से हुए हैं या नहीं; Apple डिवाइसेज़ पर SDK सिर्फ़ तब इनिशियलाइज़ होता है जब आप App Tracking Transparency परमिशि देते हैं। Meta Platforms Ireland बनने वाला ऐप-इवेंट मेटाडेटा Jynx के निर्देशों पर, एट्रिब्यूशन और कैंपेन मेज़रमेंट के प्रोसेसर की हैसियत से प्रोसेस करता है, और Meta Platforms, Inc. अपनी असली वैध ज़रूरतों के लिए अपनी शर्तों के तहत इंडिपेंडेंट कंट्रोलर की भूमिका भी निभा सकता है। प्रोसेस किया जाने वाला डेटा, कंसेंट की शर्तें और लागू ट्रांसफ़र मैकेनिज़्म प्राइवेसी पॉलिसी §4.9 और §9 में हैं।
 
-If you accept, Jynx also shares limited conversion events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold. On iPhone and iPad this requires your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I). On Android it is based either on that consent or, where the ad measurement switch is shown to you on by default, on Jynx's legitimate interest (LGPD Art. 7, IX and Art. 10). You can change your choice anytime in Privacy settings: Settings > Privacy > Ad measurement. The details, including Apple's SKAdNetwork (which applies to every iOS user, even when tracking or ad measurement is declined), are described in Privacy Policy §5.9.
+अगर आप स्वीकार करते हैं, तो Jynx हमारी ऐडवरटाइज़िंग को मापने और बेहतर बनाने के लिए Meta के साथ सीमित कन्वर्ज़न इवेंट्स (जैसे साइन-अप और परचेस, उनकी रकम के साथ) भी शेयर करता है। आपका डेटा कभी नहीं बेचा जाता। iPhone और iPad पर इसके लिए आपकी सहमति ज़रूरी है (GDPR आर्टिकल 6(1)(a); LGPD आर्टिकल 7, I)। Android पर वह उस सहमति पर या, जहां ऐड मेज़रमेंट स्विच आपको डिफ़ॉल्ट रूप से ऑन दिखता है, Jynx के लीजिटिमेट इंटरेस्ट (LGPD आर्टिकल 7, IX और आर्टिकल 10) पर टिका है। आप अपना विकल्प कभी भी Privacy सेटिंग्स में बदल सकते हैं: Settings > Privacy > Ad measurement। डिटेल्स, जिनमें Apple का SKAdNetwork शामिल है (जो हर iOS यूज़र पर लागू है, तब भी जब ट्रैकिंग या ऐड मेज़रमेंट ठुकराया गया हो), प्राइवेसी पॉलिसी §5.9 में हैं।
 
 ## 10. Disclaimers और Limitation of Liability
 
-### 10.1. Service "AS IS" Provided
+### 10.1. सर्विस "AS IS" पर उपलब्ध
 
 SERVICE "AS IS" और "AS AVAILABLE" आधार पर provided है, बिना किसी warranties के, express या implied, जिसमें शामिल हैं लेकिन इन तक सीमित नहीं हैं: Merchantability, fitness for a particular purpose, या non-infringement की warranties; Uninterrupted, secure, या error-free service की guarantees; Auto-match results की accuracy या reliability।
 
@@ -596,7 +596,7 @@ SERVICE "AS IS" और "AS AVAILABLE" आधार पर provided है, ब�
 - Riot Games statistics की accuracy के लिए (जैसे rank, match history)
 - Third-party service failures के कारण data के loss के लिए
 
-### 10.3. Limitation of Liability
+### 10.3. देयता की सीमा
 
 कानून द्वारा अनुमत अधिकतम सीमा तक, JYNX किसी भी: Indirect, incidental, special, consequential, या punitive damages के लिए LIABLE नहीं होगा; Profits, data, या goodwill का loss; Service interruptions या unavailability; User-generated content या अन्य users के conduct।
 
@@ -619,7 +619,7 @@ Changes प्रभावी होने के बाद Service का आ�
 
 यदि आप revised Terms से सहमत नहीं हैं, तो आपको changes प्रभावी होने से पहले Service का उपयोग बंद करना होगा और अपना account delete करना होगा।
 
-### 11.3. Material Changes
+### 11.3. महत्वपूर्ण बदलाव
 
 Material changes के लिए जो आपके rights या obligations को significantly affect करते हैं (जैसे payment terms, liability limitations, data processing, dispute resolution में changes), हम:
 
@@ -629,21 +629,21 @@ Material changes के लिए जो आपके rights या obligations 
 
 ## 12. Governing Law और Dispute Resolution
 
-### 12.1. Governing Law
+### 12.1. शासकीय क़ानून
 
 ये Terms फ्रांस के कानूनों और applicable European Union regulations के अनुसार governed और construed किए जाते हैं, conflict of law principles के संबंध के बिना।
 
-Applicable Regulations: French Civil Code (Code civil), French Consumer Code (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive।
+लागू रेगुलेशन्स: French Civil Code (Code civil), French Consumer Code (Code de la consommation), General Data Protection Regulation (GDPR), EU Digital Services Act (DSA), EU Consumer Rights Directive, और — ब्राज़ील में मौजूद डेटा-सब्जेक्ट्स के लिए — ब्राज़ीलियन जनरल डेटा प्रोटेक्शन क़ानून (Lei Geral de Proteção de Dados, क़ानून 13.709/2018, "LGPD") और ब्राज़ीलियन कंज़्यूमर डिफ़ेंस कोड (Código de Defesa do Consumidor, क़ानून 8.078/90, "CDC")।
 
-### 12.2. Jurisdiction
+### 12.2. ज्यूरिस्डिक्शन
 
-Any disputes arising from these Terms or the Service may be brought before the competent courts of Nantes, France. This is without prejudice to any mandatory right you may have under the law of your country of residence to bring proceedings in that country - in particular, for consumers in the EU, the rights derived from Articles 17 to 19 of the Brussels I bis Regulation and from the applicable consumer-protection law of your member state, and, for Brazilian consumers, the provisions of the CDC.
+इन शर्तों या सर्विस से उपजने वाले विवाद फ्रांस के नांत के कंपीटेंट कोर्ट्स के सामने लाए जा सकते हैं। यह आपके निवास देश के क़ानून के तहत आपके किसी अनिवार्य अधिकार को बिना प्रभावित किए है — उस देश में मुक़दमा चलाने के अधिकार को; ख़ास तौर पर EU के कंज़्यूमर्स के लिए, ब्रुसेल्स I bis रेगुलेशन के आर्टिकल 17 से 19 से निकले अधिकार और आपके सदस्य देश के लागू कंज़्यूमर-प्रोटेक्शन क़ानून से निकले अधिकार, और ब्राज़ीलियन कंज़्यूमर्स के लिए CDC के प्रावधान।
 
 ### 12.3. Dispute Resolution और Arbitration
 
 कोई Mandatory Arbitration नहीं: Jynx mandatory arbitration require नहीं करता। आप Nantes, France के courts के सामने disputes लाने का अधिकार retain करते हैं।
 
-#### Alternative Dispute Resolution (Optional):
+#### वैकल्पिक विवाद समाधान (ऑप्शनल):
 
 Legal proceedings initiate करने से पहले, हम आपको encourage करते हैं:
 
@@ -651,24 +651,24 @@ Legal proceedings initiate करने से पहले, हम आपको
 2. Informal Negotiation: हम 30 दिनों के भीतर एक amicable resolution तक पहुंचने के लिए आपके साथ good faith में काम करेंगे
 3. Mediation (Optional): यदि informal resolution fail होता है, तो आप एक neutral third-party mediator के माध्यम से mediation propose कर सकते हैं
 
-**Consumer ADR (EU/France):** In accordance with Articles L. 612-1 and L. 616-6 of the French Code de la consommation, Jynx Group SAS designates the Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; tel. +33 1 89 47 00 14; https://www.cm2c.net — a consumer mediation entity referenced by the Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC), as the médiateur de la consommation for the amicable resolution of consumer disputes. Before filing with the mediator, you must first submit your complaint to us at dpo@jynx.app so we can attempt to resolve it. Mediation is free of charge for you as a consumer, is conducted in French, and follows the procedure published on the mediator's website (https://www.cm2c.net); the mediator conducts the process within 90 days of being seized. You keep at all times your right to bring the dispute before a court.
+**कंज़्यूमर ADR (EU/फ्रांस):** फ्रेंच Code de la consommation के आर्टिकल्स L. 612-1 और L. 616-6 के मुताबिक, Jynx Group SAS Centre de la Médiation de la Consommation de Conciliateurs de Justice (CM2C) — 49 rue de Ponthieu, 75008 Paris, France; फ़ोन +33 1 89 47 00 14; https://www.cm2c.net — को, जो Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC) द्वारा रेफ़र की गई एक कंज़्यूमर मीडिएशन एंटिटी है, कंज़्यूमर विवादों के मैत्रीपूर्ण समाधान के लिए médiateur de la consommation के रूप में नामित करता है। मीडिएटर के पास जाने से पहले आपको अपनी शिकायत पहले हमें dpo@jynx.app पर भेजनी होगी ताकि हम उसे सुलझाने की कोशिश कर सकें। कंज़्यूमर के तौर पर मीडिएशन आपके लिए मुफ्त है, फ्रेंच में होती है, और मीडिएटर की वेबसाइट (https://www.cm2c.net) पर पब्लिश प्रक्रिया के मुताबिक चलती है; मीडिएटर प्रक्रिया को अपने पास पहुंचने के 90 दिनों के भीतर पूरा करता है। विवाद कोर्ट में ले जाने का अधिकार आपके पास हर समय रहता है।
 
-### 12.4. EU Consumer Rights
+### 12.4. EU कंज़्यूमर अधिकार
 
 यदि आप यूरोपीय संघ में एक consumer हैं, तो आप EU law के तहत सभी mandatory consumer rights retain करते हैं, जिसमें शामिल हैं:
 
-- 14-day right of withdrawal for distance contracts, subject to the statutory loss of that right for digital content once supply has begun with your consent (see Section 8.5)
+- डिस्टेंस कॉन्ट्रैक्ट्स के लिए 14 दिन का विदड्रॉल अधिकार, जो डिजिटल कंटेंट की सप्लाई आपकी सहमति से शुरू होने पर उस अधिकार के क़ानूनी नुक़सान के अधीन है (सेक्शन 8.5 देखें)
 - Defective products या services के लिए remedies का अधिकार
 - Unfair contract terms के खिलाफ protection
 - अपने local consumer protection authority के साथ complaints file करने का अधिकार
 
-### 12.5. GDPR Compliance
+### 12.5. GDPR कंप्लायंस
 
 हमारी data practices General Data Protection Regulation (GDPR) का पालन करती हैं। Data collection, processing, retention, आपके अधिकारों, और हमारे Data Protection Officer से संपर्क करने के बारे में details के लिए हमारी Privacy Policy देखें।
 
-### 12.6. LGPD Compliance (Brazilian Users)
+### 12.6. LGPD कंप्लायंस (ब्राज़ीलियन यूज़र्स)
 
-For data subjects located in Brazil, our data practices also comply with the LGPD (Lei Geral de Proteção de Dados, Law 13.709/2018), which applies under Art. 3 thereof regardless of Jynx's French establishment. Brazilian users have the rights set out in the Privacy Policy §7.7 and may lodge complaints with the ANPD (Autoridade Nacional de Proteção de Dados). Nothing in these Terms deprives a Brazilian user of the mandatory consumer protections afforded by the CDC, including the prohibitions on unsolicited or abusive commercial messaging in CDC Art. 39 III. For the avoidance of doubt, the exclusive-jurisdiction clause in §12.2 (courts of Nantes, France) remains in effect for disputes arising out of or in connection with these Terms, without prejudice to any mandatory consumer-protection rights that cannot be waived under the consumer's local law.
+ब्राज़ील में मौजूद डेटा-सब्जेक्ट्स के लिए हमारी डेटा प्रैक्टिस LGPD (Lei Geral de Proteção de Dados, क़ानून 13.709/2018) के भी अनुरूप है, जो उसके आर्टिकल 3 के तहत Jynx के फ्रेंच प्रतिष्ठान से बेपरवाह लागू होता है। ब्राज़ीलियन यूज़र्स को प्राइवेसी पॉलिसी §7.7 में लिखे अधिकार मिलते हैं और वे ANPD (Autoridade Nacional de Proteção de Dados) के पास शिकायतें दर्ज कर सकते हैं। इन शर्तों में कुछ भी किसी ब्राज़ीलियन यूज़र को CDC की अनिवार्य कंज़्यूमर प्रोटेक्शन्स से वंचित नहीं करता, जिनमें CDC आर्टिकल 39 III के बिना मांगे या दबाव वाले कमर्शियल मैसेजिंग के प्रतिबंध शामिल हैं। किसी शक से बचने के लिए, §12.2 का एक्सक्लूसिव-ज्यूरिस्डिक्शन क्लॉज़ (फ्रांस के नांत के कोर्ट्स) इन शर्तों से उपजने या इनसे जुड़े विवादों के लिए लागू रहता है, कंज़्यूमर के लोकल क़ानून के तहत जिन अनिवार्य कंज़्यूमर-प्रोटेक्शन अधिकारों को त्यागा नहीं जा सकता, उन्हें बिना प्रभावित किए।
 
 ## 13. Contact और Legal Information
 
@@ -676,15 +676,15 @@ For data subjects located in Brazil, our data practices also comply with the LGP
 
 इन Terms of Service के बारे में questions के लिए:
 
-- **General Inquiries:** dpo@jynx.app
-- **Customer Support:** support@jynx.app
-- **Security Issues:** security@jynx.app
+- **सामान्य पूछताछ:** dpo@jynx.app
+- **कस्टमर सपोर्ट:** support@jynx.app
+- **सिक्योरिटी मुद्दे:** security@jynx.app
 
-### 13.2. Legal Entity
+### 13.2. कानूनी एंटिटी
 
-**Company Name:** Jynx Group
+**कंपनी का नाम:** Jynx Group
 
-**Physical Address:**
+**फ़िज़िकल एड्रेस:**
 
 BEACH BAT B1ETG APT2 1
 
@@ -694,17 +694,17 @@ BEACH BAT B1ETG APT2 1
 
 FRANCE
 
-**Registration Information:**
+**रजिस्ट्रेशन की जानकारी:**
 
 - **SIREN:** 991443896
 - **SIRET:** 99144389600014
-- **Registered with:** Registre du Commerce et des Sociétés (RCS) de Nantes
-- **Registration Date:** September 17, 2025
-- **Legal Form:** Société par Actions Simplifiée (SAS)
+- **रजिस्टर्ड:** Registre du Commerce et des Sociétés (RCS) de Nantes
+- **रजिस्ट्रेशन की तारीख़:** 17 सितंबर 2025
+- **कानूनी रूप:** Société par Actions Simplifiée (SAS)
 
-**VAT Number:** FR39991443896
+**VAT नंबर:** FR39991443896
 
-**Data Protection Officer (DPO):** dpo@jynx.app
+**डेटा प्रोटेक्शन ऑफिसर (DPO):** dpo@jynx.app
 
 ## 14. विविध
 
@@ -712,15 +712,15 @@ FRANCE
 
 ये Terms, हमारी Privacy Policy के साथ मिलकर, Service के संबंध में आपके और Jynx के बीच संपूर्ण समझौता constitute करते हैं।
 
-### 14.2. Severability
+### 14.2. पृथक्करणीयता
 
 यदि इन Terms का कोई provision invalid या unenforceable पाया जाता है, तो remaining provisions पूर्ण force और effect में बने रहेंगे।
 
-### 14.3. Waiver
+### 14.3. वेवर
 
 इन Terms के किसी right या provision को enforce करने में हमारी failure उस right या provision की waiver constitute नहीं करेगी।
 
-### 14.4. Assignment
+### 14.4. असाइनमेंट
 
 आप हमारी prior written consent के बिना इन Terms को assign या transfer नहीं कर सकते। हम बिना restriction के इन Terms को assign कर सकते हैं।
 
@@ -728,10 +728,10 @@ FRANCE
 
 These Terms are provided in English. In accordance with the French law known as the Loi Toubon (Law No. 94-665 of 4 August 1994) and Article L. 112-1 of the French Code de la consommation, a French-language version of these Terms is made available to consumers; in the event of any conflict between the English version and the French version, the French version shall prevail for consumers resident in France. For consumers outside France, the English version is the reference version, except where the law of your country of residence requires otherwise.
 
-## 15. Creator (Partner) Program
+## 15. क्रिएटर (पार्टनर) प्रोग्राम
 
-If you participate in the Jynx Creator (partner) program, your use of the program is additionally governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (each accepted version immutable once accepted), presented in-app with its version identifier. In case of conflict, for program matters the Creator Terms prevail; otherwise these Terms and the Privacy Policy apply.
+अगर आप Jynx क्रिएटर (पार्टनर) प्रोग्राम में हिस्सा लेते हैं, तो प्रोग्राम का आपका इस्तेमाल एडिशनली उन वर्ज़न्ड क्रिएटर रेफ़रल टर्म्स और सेल्फ-बिलिंग मैंडेट से भी चलता है जिन्हें आप एनरोलमेंट पर स्वीकार करते हैं (हर स्वीकार किया वर्ज़न स्वीकार के बाद अपरिवर्तनीय), जो उसके वर्ज़न आइडेंटिफायर के साथ इन-ऐप पेश किए जाते हैं। टकराव की स्थिति में, प्रोग्राम के मामलों में क्रिएटर टर्म्स लागू होते हैं; बाकी मामलों में ये शर्तें और प्राइवेसी पॉलिसी लागू होती हैं।
 
-The identity, payout, and tax information the program requires — such as CPF or CNPJ identification and the payout rail you choose (PayPal, Wise, or Pix) — and the processors involved are described in Privacy Policy §4.10.
+प्रोग्राम के लिए ज़रूरी आइडेंटिटी, पेआउट और टैक्स जानकारी — जैसे CPF या CNPJ पहचान और आपका चुना पेआउट रेल (PayPal, Wise या Pix) — और शामिल प्रोसेसर्स प्राइवेसी पॉलिसी §4.10 में बताए गए हैं।
 
 Jynx का उपयोग करके, आप acknowledge करते हैं कि आपने इन Terms of Service को पढ़ा है, समझा है, और इनसे बाध्य होने के लिए सहमत हैं।

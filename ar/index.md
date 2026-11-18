@@ -7,21 +7,21 @@ dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# The Next-Gen Companion App for Gamers
+# تطبيق الرفيق الجيل التالي للاعبين
 
-MATCH. TALK. PLAY. — native voice rooms where the squad formed.
+طابق. تحدث. العب. — غرف صوتية أصلية حيث يتشكل فريقك.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![شارة التنزيل من متجر Microsoft](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
-Mac app on the way.
+تطبيق Mac في الطريق.
 
-Rated ٤٫٤ on Google Play in البرازيل (١١٨ ratings, 10K+ installs) · New on the App Store · as of نوفمبر ٢٠٢٦.
+مقيّم ٤٫٤ على Google Play في البرازيل (١١٨ تقييمًا، 10K+ تثبيتًا) · جديد على App Store · حتى نوفمبر ٢٠٢٦.
 
 ## العب بشكل أفضل، معًا
 
 توقف عن الصراخ في الفراغ. Jynx يحوّل الألعاب الفردية إلى تجربة اجتماعية من خلال ربط زملاء الفريق بذكاء بناءً على تفضيلات الألعاب وأساليب اللعب والتوافق في الجدول الزمني
 
-Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
+اعثر وطابق وتحدث في مكان واحد: يقرن Jynx المطابقة بغرف صوتية أصلية، فيتشكل فريقك ويلعب داخل التطبيق نفسه.
 
 ## مطابقة ذكية
 
@@ -41,66 +41,66 @@ Find, match, and talk in one place: Jynx pairs the matchmaking with native voice
 
 ## بناه لاعبون سئموا من انتظار غيرهم ليبنوه.
 
-Jynx موجود لأن LFG التقليدي معطّل — وقررنا إصلاحه. ليس بدافع الربح، بل بدافع الإحباط من إرسال رسائل 'LFG' في خوادم Discord في الثانية صباحًا. مساهمتك تشكّل مباشرة ما نبنيه بعد ذلك.
+Jynx موجود لأن LFG التقليدي معطّل — وقررنا إصلاحه. ليس بدافع الربح، بل بدافع الإحباط من إرسال رسائل 'LFG' في خوادم Discord في الساعة الثانية فجرًا. مساهمتك تشكّل مباشرة ما نبنيه بعد ذلك.
 
 [شارك أفكارك](#feedback)
 
-## WHO JYNX IS FOR
+## لمن هو Jynx
 
-THE PLAYER TYPES WE MATCH
+أنواع اللاعبين التي نطابقها
 
-- Player type العثور على زملاء فريق ثابتين في مستوى ELO الخاص بي لا يجب أن يعني إرسال رسائل في Discord لساعات. أحتاج إلى لاعبين يتواصلون، ويظهرون في الوقت المحدد، ويلعبون فعلاً دورهم الأساسي. اللاعب المتحمس للمراتبلاعب تنافسي
-- Player type تعبت من اللاعبين العشوائيين الذين يتركون اللعبة غاضبين، لا يتحدثون لغتي، أو متصلون عندما أكون نائماً. أريد فقط زملاء فريق يتناسبون مع جدولي وأسلوبي. محارب نهاية الأسبوعلاعب عادي
-- Player type تنظيم جلسات الألعاب عبر المناطق الزمنية فوضى بدون الأدوات المناسبة. أحتاج إلى نظام يساعد فعلاً في تنسيق مجتمعي. بناء المجتمعقائد النقابة
-- Player type اللعب الفردي يقتل حبي للألعاب. كل مباراة هي قرعة عشوائية من السلبية. يجب أن تكون هناك طريقة أفضل للعثور على أشخاص يريدون فعلاً التحسن معاً. الهارب من اللعب الفرديلاعب يبحث عن فريق
+- نوع اللاعب العثور على زملاء فريق ثابتين في مستوى ELO الخاص بي لا يجب أن يعني إرسال رسائل في Discord لساعات. أحتاج إلى لاعبين يتواصلون، ويظهرون في الوقت المحدد، ويلعبون فعلاً دورهم الأساسي. اللاعب المتحمس للمراتبلاعب تنافسي
+- نوع اللاعب تعبت من اللاعبين العشوائيين الذين يتركون اللعبة غاضبين، لا يتحدثون لغتي، أو متصلون عندما أكون نائماً. أريد فقط زملاء فريق يتناسبون مع جدولي وأسلوبي. محارب نهاية الأسبوعلاعب عادي
+- نوع اللاعب تنظيم جلسات الألعاب عبر المناطق الزمنية فوضى بدون الأدوات المناسبة. أحتاج إلى نظام يساعد فعلاً في تنسيق مجتمعي. باني المجتمعقائد النقابة
+- نوع اللاعب اللعب الفردي يقتل حبي للألعاب. كل مباراة هي قرعة عشوائية من السلبية. يجب أن تكون هناك طريقة أفضل للعثور على أشخاص يريدون فعلاً التحسن معاً. الهارب من اللعب الفرديلاعب يبحث عن فريق
 
-## Real reviews from Google Play
+## تقييمات حقيقية من Google Play
 
-٤٫٤ out of 5 stars
+٤٫٤ من 5 نجوم
 
-٤٫٤ ١١٨ ratings on Google Play in البرازيل as of نوفمبر ٢٠٢٦
+٤٫٤ ١١٨ تقييمًا على Google Play في البرازيل حتى نوفمبر ٢٠٢٦
 
-[Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
+[اقرأ جميع التقييمات على Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![شارة التنزيل من متجر Microsoft](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
 
-## The whole loop, in one app.
+## الحلقة كاملة، في تطبيق واحد.
 
-Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+اسحب، طابق، وابدأ الحديث. الغرف الصوتية والدردشة تسكن نفس التطبيق الذي وجدت فيه فريقك — بلا تطبيق ثانٍ، ولا تنقل بين الخوادم، ولا مشاركة روابط للدخول إلى مكالمة.
 
 | الميزة |  | Discord | LFG التقليدي |
 | --- | --- | --- | --- |
-| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
-| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
-| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
-| **Game Sessions — schedule and organize play** |  | منشورات يدوية | أساسي |
+| **من المطابقة إلى غرفة الصوت بنقرة واحدة** |  | اعثر على خادم أولًا | ❌ |
+| **دردشة صوتية أصلية — غرف جماعية، مكالمات ثنائية، وغرف استرخاء دائمة** |  |  | ❌ |
+| **مشاركة الشاشة في الغرف الصوتية** | مخطط له |  | ❌ |
+| **العب الآن — مطابقة فورية** |  | ❌ | ❌ |
+| **جلسات الألعاب — جدولة وتنظيم اللعب** |  | منشورات يدوية | أساسي |
 | **اكتشاف اللاعبين بأسلوب Tinder** |  | ❌ | يختلف |
 | **مطابقة مبنية على المهارة (ELO)** |  | ❌ | ❌ |
 | **البحث واكتشاف المجتمعات** |  | على الكمبيوتر فقط |  |
-| **تكامل ملف اللاعب** | Planned | ❌ |  |
-| **Smart Team Builder** | Planned | ❌ | ❌ |
+| **تكامل ملف اللاعب** | مخطط له | ❌ |  |
+| **منشئ الفرق الذكي** | مخطط له | ❌ | ❌ |
 
-On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
+على خارطة الطريق: مشاركة الشاشة في الغرف الصوتية، تكامل ملف اللاعب، ومنشئ الفرق الذكي — فرق متوازنة تتشكل تلقائيًا
 
-Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+المقارنة حتى نوفمبر 2026. يعكس Discord وLFG التقليدي ميزاتهما المتاحة علنًا؛ ويعكس عمود Jynx إمكانات تطبيق Jynx.
 
-Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
+تريد التفصيل الكامل؟ اقرأ المقارنة وجهًا لوجه الموقعة من المؤسس: [Jynx مقابل Discord LFG](/vs/jynx-vs-discord.html) — 16 ميزة، مع الإخلاص في ذكر الخسائر.
 
-## Find Your Game
+## اعثر على لعبتك
 
-Duo finders and LFG guides for the games you play — find your squad faster.
+باحثات الديو وأدلة LFG للألعاب التي تلعبها — اعثر على فريقك أسرع.
 
-- [GTA 6 OnlineGTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
+- [GTA 6 OnlineGTA 6 lands November 19, 2026, and GTA 6 Online is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
 - [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
 - [Counter-Strike 2Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
 - [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.](/games/marvel-rivals/duo-finder.html)
 - [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.](/games/fortnite/duo-finder.html)
 - [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.](/games/rainbow-six-siege/duo-finder.html)
 
-[All games](/games.html)
+[جميع الألعاب](/games.html)
 
-### From the Gaming Glossary
+### من مسرد الألعاب
 
 - [LFG](/glossary/lfg.html)
 - [duo queue](/glossary/duo-queue.html)
@@ -109,7 +109,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 - [Elo](/glossary/elo.html)
 - [rank](/glossary/rank.html)
 
-[Browse the glossary](/glossary.html)
+[تصفح المسرد](/glossary.html)
 
 ## هل لديك أسئلة؟
 
@@ -121,7 +121,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### هل يوجد تطبيق مثل Tinder للاعبين للعثور على زملاء الفريق؟
 
-نعم، وقد حان الوقت. LFG التقليدي معطّل — أنت تُغرق قنوات Discord بالرسائل، وتنشر في منتديات عمرها 3 أيام، وتأمل أن يجد شخص يتحدث لغتك ويلعب في رتبتك ومتصل فعلاً وقت ما تلعب. هذا ليس نظامًا، هذا مقامرة بوقتك. Jynx يتيح لك التصفية حسب ما يهم فعلاً: جداول متوافقة، مستويات مهارة متشابهة، وتفضيلات ألعاب مشتركة. تتصفح زملاء فريق محتملين يستوفون معاييرك أنت، تتخطى الرسائل الباردة المحرجة، وتتصل فقط بلاعبين متاحين فعلاً عندما تريد اللعب. الفرق؟ أنت لا تصرخ في الفراغ آملاً أن يرد أحد. أنت ترى فقط أشخاصًا يتطابقون بالفعل مع توافرك، ويتحدثون لغتك، ويلعبون ألعابك. وقت أقل في إرسال 'LFG' في الدردشة، ووقت أكثر في اللعب مع أشخاص ستريد اللعب معهم مجددًا.
+نعم، وقد حان الوقت. LFG التقليدي معطّل — أنت تُغرق قنوات Discord بالرسائل، وتنشر في منتديات عمرها 3 أيام، وتأمل أن يجد شخص يتحدث لغتك ويلعب في رتبتك ومتصل فعلاً وقت ما تلعب. هذا ليس نظامًا، هذا مقامرة بوقتك. Jynx يتيح لك التصفية حسب ما يهم فعلاً: جداول متوافقة، مستويات مهارة متشابهة، وتفضيلات ألعاب مشتركة. تتصفح زملاء فريق محتملين يستوفون معاييرك أنت، تتخطى الرسائل الباردة المحرجة، وتتصل فقط بلاعبين متاحين فعلاً عندما تريد اللعب. الفرق؟ أنت لا تصرخ في الفراغ آملاً أن يرد أحد. أنت ترى فقط أشخاصًا يتطابقون بالفعل مع توافرك، ويتحدثون لغتك، ويلعبون ألعابك. وقت أقل في إرسال 'LFG' في الدردشة، ووقت أكثر في اللعب مع أشخاص ستريد اللعب معهم مجددًا. وعندما يسحب كلاكما إلى اليمين، تكون غرفة الصوت على بُعد نقرة واحدة — داخل التطبيق.
 
 ### كيف تلتقي باللاعبين عبر الإنترنت وتبني مجموعة أصدقاء للألعاب؟
 
@@ -129,15 +129,15 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### كيف تجد زملاء فريق للمباريات التصنيفية في League of Legends و Valorant؟
 
-إيجاد زملاء فريق جيدين للمباريات التصنيفية ليس مسألة كمية — بل توافق. اللعب مع عشوائيين لا يتواصلون، يتركون اللعبة بعد أول قتلة، أو يلعبون أدوارًا لا يرتاحون لها يكلفك LP وراحة بالك. ما تبحث عنه في زملاء الفريق التصنيفيين: **• رتبة موثقة** — تأكد أنهم فعلاً في ELO الخاص بك (ليسوا على حسابات ثانوية أو مرفوعين) **• توافق الأدوار** — تحقق من مجموعة الأبطال والأدوار المفضلة قبل الدخول في الطابور **• توافر مستمر** — طحن التصنيف يتطلب لعبًا منتظمًا — ابحث عن أشخاص بجداول مشابهة **• أسلوب التواصل** — بعض اللاعبين يفضلون القيادة، وآخرون يريدون دردشة بسيطة. اتفق على هذا مسبقًا. أفضل طريقة؟ استخدم منصات تتحقق من رتب اللاعبين عبر Riot API وتتيح لك التصفية حسب الدور والجدول وتفضيلات التواصل. ستقضي وقتًا أقل في التهرب من اختيار الأبطال ووقتًا أكثر في الصعود. [كتبنا الدليل الشامل لإيجاد زملاء League](/blog/league-of-legends-teammate-guide) — وإليك [كيف تعمل المطابقة بالذكاء الاصطناعي فعلاً من الداخل](/blog/ai-gaming-matchmaking-guide).
+إيجاد زملاء فريق جيدين للمباريات التصنيفية ليس مسألة كمية — بل توافق. اللعب مع عشوائيين لا يتواصلون، يتركون اللعبة بعد أول قتلة، أو يلعبون أدوارًا لا يرتاحون لها يكلفك LP وراحة بالك. ما تبحث عنه في زملاء الفريق التصنيفيين: **• رتبة حقيقية** — تأكد أنهم فعلاً في ELO الخاص بك (ليسوا على حسابات ثانوية أو مرفوعين) **• توافق الأدوار** — تحقق من مجموعة الأبطال والأدوار المفضلة قبل الدخول في الطابور **• توافر مستمر** — طحن التصنيف يتطلب لعبًا منتظمًا — ابحث عن أشخاص بجداول مشابهة **• أسلوب التواصل** — بعض اللاعبين يفضلون القيادة، وآخرون يريدون دردشة بسيطة. اتفق على هذا مسبقًا. أفضل طريقة؟ استخدم منصات ذات فلاتر حقيقية للرتبة والدور والجدول — الفلتر يسبق الدردشة. ستقضي وقتًا أقل في التهرب من اختيار الأبطال ووقتًا أكثر في الصعود. [كتبنا الدليل الشامل لإيجاد زملاء League](/blog/league-of-legends-teammate-guide.html) — وإليك [كيف تعمل المطابقة بالذكاء الاصطناعي فعلاً من الداخل](/ar/blog/dalil-mujama-al-alab-ai.html).
 
 ### ما هي أفضل بدائل Discord للعثور على زملاء الألعاب؟
 
-Discord رائع للدردشة مع زملاء لديك بالفعل. لكن للعثور على جدد؟ إنه الأداة الخاطئة. إليك الواقع: نشر 'LFG' في خادم يضم 10,000 عضو يعني دفن رسالتك في دقائق. لا توجد طريقة للتصفية حسب مستوى المهارة أو التوافر أو أسلوب اللعب قبل التواصل. والأهم — أنت تقوم بكل العمل. إغراق القنوات بالرسائل، مراسلة الغرباء، وتأمل أن يرد أحد. **ما تحتاجه فعلاً هو منصة مصممة للاكتشاف:** **• ملفات تعريف اللاعبين** — شاهد رتبة شخص ما وجدوله وأدواره المفضلة قبل إرسال رسالة **• تصفية ذكية** — ابحث حسب المعايير المهمة (اللغة، المنطقة الزمنية، مستوى المهارة) **• مطابقة فعّالة** — احصل على توصيات بدلاً من الصراخ في الفراغ الهدف ليس استبدال Discord — بل استخدام الأداة المناسبة للاكتشاف، ثم الانتقال إلى Discord للدردشة الصوتية بمجرد العثور على زملاء متوافقين. [اطّلع على تطور LFG من المنتديات إلى المطابقة الذكية](/blog/lfg-evolution-forums-to-smart-matchmaking). For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
+Discord رائع للدردشة مع زملاء لديك بالفعل. لكن للعثور على جدد؟ إنه الأداة الخاطئة. إليك الواقع: نشر 'LFG' في خادم يضم 10,000 عضو يعني دفن رسالتك في دقائق. لا توجد طريقة للتصفية حسب مستوى المهارة أو التوافر أو أسلوب اللعب قبل التواصل. والأهم — أنت تقوم بكل العمل. إغراق القنوات بالرسائل، مراسلة الغرباء، وتأمل أن يرد أحد. **ما تحتاجه فعلاً هو منصة مصممة للاكتشاف:** **• ملفات تعريف اللاعبين** — شاهد رتبة شخص ما وجدوله وأدواره المفضلة قبل إرسال رسالة **• تصفية ذكية** — ابحث حسب المعايير المهمة (اللغة، المنطقة الزمنية، مستوى المهارة) **• مطابقة فعّالة** — احصل على توصيات بدلاً من الصراخ في الفراغ Jynx يكمل هذه الحلقة في تطبيق واحد: طابق، وافتح غرفة صوتية معًا — جماعية، ثنائية، أو غرفة استرخاء دائمة — دون مغادرة المحادثة التي بدأت بسحبة واحدة. [اطّلع على تطور LFG من المنتديات إلى المطابقة الذكية](/blog/lfg-evolution-forums-to-smart-matchmaking.html). وللمقارنة الكاملة جنبًا إلى جنب، اقرأ [مقارنة Jynx مقابل Discord LFG](/vs/jynx-vs-discord.html) الموقعة من المؤسس — 16 ميزة، بما فيها المواضع التي يفوز فيها Discord.
 
 ### هل يوجد تطبيقات ومنصات مجانية لمطابقة الألعاب؟
 
-نعم، ولا ينبغي أن تدفع فقط للعثور على زملاء فريق. تقدم العديد من المنصات مستويات مجانية قوية تشمل الأساسيات: اكتشاف اللاعبين، وتصفح الملفات الشخصية، والدردشة، وتخطيط الجلسات. **ما تتوقعه من المستويات المجانية:** • ميزات المطابقة الأساسية (بحث، تصفية، اتصال) • ملفات تعريف اللاعبين مع إحصائيات • رسائل أساسية وجدولة جلسات **ما تضيفه المستويات المميزة عادةً:** • مطابقات/تمريرات يومية غير محدودة • مرشحات متقدمة (معايير محددة جدًا) • ترقيات تجميلية (شارات، تخصيص الملف الشخصي) **علامات حمراء يجب تجنبها:** • حجب الميزات الأساسية مثل الرسائل أو معرفة من طابقك خلف حائط دفع • إجبارك على الدفع للتحقق من رتبتك أو ربط الحسابات • عدم وجود مستوى مجاني على الإطلاق (إذا كانوا واثقين من منتجهم، يجب أن يتيحوا لك تجربته) وقتك أثمن من رسوم الاشتراك. ركز على المنصات ذات المستويات المجانية السخية حتى تتمكن من الاختبار قبل الالتزام.
+نعم، ولا ينبغي أن تدفع فقط للعثور على زملاء فريق. تقدم العديد من المنصات مستويات مجانية قوية تشمل الأساسيات: اكتشاف اللاعبين، وتصفح الملفات الشخصية، والدردشة، وتخطيط الجلسات. **ما تتوقعه من المستويات المجانية:** • ميزات المطابقة الأساسية (بحث، تصفية، اتصال) • ملفات تعريف اللاعبين مع إحصائيات • رسائل أساسية وجدولة جلسات **ما تضيفه المستويات المميزة عادةً:** • مطابقات/تمريرات يومية غير محدودة • مرشحات متقدمة (معايير محددة جدًا) • ترقيات تجميلية (شارات، تخصيص الملف الشخصي) **علامات حمراء يجب تجنبها:** • حجب الميزات الأساسية مثل الرسائل أو معرفة من طابقك خلف حائط دفع • إجبارك على الدفع لرؤية مطابقاتك أو مراسلة زملائك • عدم وجود مستوى مجاني على الإطلاق (إذا كانوا واثقين من منتجهم، يجب أن يتيحوا لك تجربته) وقتك أثمن من رسوم الاشتراك. ركز على المنصات ذات المستويات المجانية السخية حتى تتمكن من الاختبار قبل الالتزام.
 
 مجاني للأبد
 
@@ -145,10 +145,10 @@ Discord رائع للدردشة مع زملاء لديك بالفعل. لكن ل
 
 مدفوع بالمجتمع
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![شارة التنزيل من متجر Microsoft](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
 
 ### اقتراحاتك، أولويتنا
 
-Thanks for your feedback!
+شكرًا على ملاحظاتك!
 
-No spam. We'll only contact you with important Jynx news and updates.
+بدون إزعاج. سنتواصل معك فقط لأخبار وتحديثات Jynx المهمة.

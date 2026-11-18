@@ -7,21 +7,21 @@ dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
-# The Next-Gen Companion App for Gamers
+# গেমারদের জন্য নেক্সট-জেন কম্প্যানিয়ন অ্যাপ
 
-MATCH. TALK. PLAY. — native voice rooms where the squad formed.
+ম্যাচ করুন। কথা বলুন। খেলুন। — নেটিভ ভয়েস রুম, যেখানেই স্কোয়াড গড়ে ওঠে।
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=hero&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=hero) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dhero) [![Microsoft Store ডাউনলোড ব্যাজ](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=hero)
 
-Mac app on the way.
+Mac অ্যাপ আসছে।
 
-Rated ৪.৪ on Google Play in ব্রাজিল (১১৮ ratings, 10K+ installs) · New on the App Store · as of নভেম্বর ২০২৬.
+ব্রাজিল-এ Google Play-তে রেটিং ৪.৪ (১১৮ রেটিং, 10K+ ইনস্টল) · App Store-এ নতুন · নভেম্বর ২০২৬ অনুযায়ী।
 
 ## একসাথে, আরও ভালো গেম
 
 শূন্যতায় চিৎকার করা বন্ধ করুন। Jynx গেমিং পছন্দ, খেলার স্টাইল এবং সময়সূচী সামঞ্জস্যের ভিত্তিতে বুদ্ধিমানভাবে সতীর্থদের সংযুক্ত করে একক গেমিংকে একটি সামাজিক অভিজ্ঞতায় রূপান্তরিত করে
 
-Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.
+খোঁজা, ম্যাচ ও কথা বলা এক জায়গায়: Jynx ম্যাচমেকিংকে জোড়া লাগায় নেটিভ ভয়েস রুমের সাথে — স্কোয়াড গড়ে ওঠে ও খেলে একই অ্যাপে।
 
 ## ইন্টেলিজেন্ট ম্যাচমেকিং
 
@@ -45,62 +45,62 @@ Jynx আছে কারণ প্রচলিত LFG ভাঙা — এবং
 
 [আপনার ধারণা শেয়ার করুন](#feedback)
 
-## WHO JYNX IS FOR
+## JYNX কাদের জন্য
 
-THE PLAYER TYPES WE MATCH
+যেসব খেলোয়াড় ধরন আমরা মিলাই
 
-- Player type আমার ELO-তে স্থির টিমমেট খোঁজার জন্য ঘন্টার পর ঘন্টা Discord স্প্যাম করা উচিত নয়। আমার এমন খেলোয়াড় দরকার যারা যোগাযোগ করে, সময়মতো আসে এবং আসলে তাদের প্রধান ভূমিকা খেলে। র্যাঙ্কড গ্রাইন্ডারপ্রতিযোগিতামূলক খেলোয়াড়
-- Player type এমন র‍্যান্ডমদের দেখে ক্লান্ত যারা রেজ কুইট করে, আমার ভাষায় কথা বলে না বা আমার ঘুমানোর সময় অনলাইন থাকে। আমি শুধু এমন টিমমেট চাই যারা আমার সময়সূচী এবং ভাইবের সাথে মেলে। উইকএন্ড ওয়ারিয়রনৈমিত্তিক গেমার
-- Player type সঠিক টুল ছাড়া টাইমজোন জুড়ে গেমিং সেশন সংগঠিত করা বিশৃঙ্খল। এমন একটি সিস্টেম দরকার যা সত্যিই আমার কমিউনিটি সমন্বয় করতে সাহায্য করে। কমিউনিটি বিল্ডারগিল্ড লিডার
-- Player type সোলো কিউ গেমিংয়ের প্রতি আমার ভালোবাসা মেরে ফেলছে। প্রতিটি ম্যাচ বিষাক্ততার একটি কয়েন ফ্লিপ। এমন মানুষ খুঁজে পাওয়ার একটি ভাল উপায় থাকতে হবে যারা সত্যিই একসাথে উন্নতি করতে চায়। সোলো কিউ পলায়নকারীটিম-খোঁজা খেলোয়াড়
+- খেলোয়াড়ের ধরন আমার ELO-তে স্থির টিমমেট খোঁজার জন্য ঘন্টার পর ঘন্টা Discord স্প্যাম করা উচিত নয়। আমার এমন খেলোয়াড় দরকার যারা যোগাযোগ করে, সময়মতো আসে এবং আসলে তাদের প্রধান ভূমিকা খেলে। র্যাঙ্কড গ্রাইন্ডারপ্রতিযোগিতামূলক খেলোয়াড়
+- খেলোয়াড়ের ধরন এমন র‍্যান্ডমদের দেখে ক্লান্ত যারা রেজ কুইট করে, আমার ভাষায় কথা বলে না বা আমার ঘুমানোর সময় অনলাইন থাকে। আমি শুধু এমন টিমমেট চাই যারা আমার সময়সূচী এবং ভাইবের সাথে মেলে। উইকএন্ড ওয়ারিয়রনৈমিত্তিক গেমার
+- খেলোয়াড়ের ধরন সঠিক টুল ছাড়া টাইমজোন জুড়ে গেমিং সেশন সংগঠিত করা বিশৃঙ্খল। এমন একটি সিস্টেম দরকার যা সত্যিই আমার কমিউনিটি সমন্বয় করতে সাহায্য করে। কমিউনিটি বিল্ডারগিল্ড লিডার
+- খেলোয়াড়ের ধরন সোলো কিউ গেমিংয়ের প্রতি আমার ভালোবাসা মেরে ফেলছে। প্রতিটি ম্যাচ বিষাক্ততার একটি কয়েন ফ্লিপ। এমন মানুষ খুঁজে পাওয়ার একটি ভাল উপায় থাকতে হবে যারা সত্যিই একসাথে উন্নতি করতে চায়। সোলো কিউ পলায়নকারীটিম-খোঁজা খেলোয়াড়
 
-## Real reviews from Google Play
+## Google Play থেকে আসল রিভিউ
 
-৪.৪ out of 5 stars
+৫-এর মধ্যে ৪.৪
 
-৪.৪ ১১৮ ratings on Google Play in ব্রাজিল as of নভেম্বর ২০২৬
+৪.৪ ব্রাজিল-এ Google Play-তে ১১৮ রেটিং নভেম্বর ২০২৬ অনুযায়ী
 
-[Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
+[Google Play-তে সব রিভিউ পড়ুন](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=reviews&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=reviews) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews) [![Microsoft Store ডাউনলোড ব্যাজ](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=reviews)
 
-## The whole loop, in one app.
+## পুরো লুপটাই, এক অ্যাপে।
 
-Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.
+সোয়াইপ করুন, ম্যাচ করুন, কথা বলা শুরু করুন। ভয়েস রুম ও চ্যাট থাকে একই অ্যাপে যেখানে আপনি স্কোয়াড খুঁজেছেন — দ্বিতীয় অ্যাপ নেই, সার্ভার-হপিং নেই, কলে ঢোকার জন্য লিঙ্ক-শেয়ার নেই।
 
 | বৈশিষ্ট্য |  | Discord | ঐতিহ্যবাহী LFG |
 | --- | --- | --- | --- |
-| **Match → Voice Room in One Tap** |  | Find a server first | ❌ |
-| **Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms** |  |  | ❌ |
-| **Screen Sharing in Voice Rooms** | Planned |  | ❌ |
-| **Play Now — Instant Matchmaking** |  | ❌ | ❌ |
-| **Game Sessions — schedule and organize play** |  | ম্যানুয়াল পোস্ট | বেসিক |
+| **ম্যাচ → এক ট্যাপে ভয়েস রুম** |  | আগে সার্ভার খুঁজুন | ❌ |
+| **নেটিভ ভয়েস চ্যাট — গ্রুপ রুম, ১:১ কল, সবসময় চালু চিল রুম** |  |  | ❌ |
+| **ভয়েস রুমে স্ক্রিন শেয়ারিং** | পরিকল্পিত |  | ❌ |
+| **Play Now — তাৎক্ষণিক ম্যাচমেকিং** |  | ❌ | ❌ |
+| **গেম সেশন — খেলার সময়সূচি ও সংগঠন** |  | ম্যানুয়াল পোস্ট | বেসিক |
 | **Tinder-স্টাইল খেলোয়াড় আবিষ্কার** |  | ❌ | ভিন্ন |
 | **দক্ষতা-ভিত্তিক ম্যাচিং (ELO)** |  | ❌ | ❌ |
 | **কমিউনিটি অনুসন্ধান ও আবিষ্কার** |  | শুধুমাত্র কম্পিউটারে |  |
-| **খেলোয়াড় প্রোফাইল ইন্টিগ্রেশন** | Planned | ❌ |  |
-| **Smart Team Builder** | Planned | ❌ | ❌ |
+| **খেলোয়াড় প্রোফাইল ইন্টিগ্রেশন** | পরিকল্পিত | ❌ |  |
+| **স্মার্ট টিম বিল্ডার** | পরিকল্পিত | ❌ | ❌ |
 
-On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams
+রোডম্যাপে: ভয়েস রুমে স্ক্রিন শেয়ারিং, খেলোয়াড়-প্রোফাইল ইন্টিগ্রেশন ও স্মার্ট টিম বিল্ডার — স্বয়ংক্রিয়ভাবে গঠিত, ভারসাম্যপূর্ণ টিম
 
-Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.
+নভেম্বর ২০২৬ অনুযায়ী তুলনা। Discord ও ঐতিহ্যবাহী LFG তাদের প্রকাশ্যে উপলব্ধ ফিচার প্রতিফলিত করে; Jynx কলাম Jynx অ্যাপের সক্ষমতা প্রতিফলিত করে।
 
-Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — 16 features, honest losses included.
+সম্পূর্ণ বিশ্লেষণ চান? প্রতিষ্ঠাতার লেখা মুখোমুখি তুলনা পড়ুন: [Jynx vs Discord LFG](/vs/jynx-vs-discord.html) — ১৬টি ফিচার, সৎ পরাজয়সহ।
 
-## Find Your Game
+## আপনার গেম খুঁজুন
 
-Duo finders and LFG guides for the games you play — find your squad faster.
+আপনার খেলা গেমগুলোর জন্য ডুও ফাইন্ডার ও LFG গাইড — স্কোয়াড খুঁজুন আরও দ্রুত।
 
-- [GTA 6 OnlineGTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
+- [GTA 6 OnlineGTA 6 lands November 19, 2026, and GTA 6 Online is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
 - [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
 - [Counter-Strike 2Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
 - [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.](/games/marvel-rivals/duo-finder.html)
 - [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.](/games/fortnite/duo-finder.html)
 - [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.](/games/rainbow-six-siege/duo-finder.html)
 
-[All games](/games.html)
+[সব গেম](/games.html)
 
-### From the Gaming Glossary
+### গেমিং গ্লোসারি থেকে
 
 - [LFG](/glossary/lfg.html)
 - [duo queue](/glossary/duo-queue.html)
@@ -109,7 +109,7 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 - [Elo](/glossary/elo.html)
 - [rank](/glossary/rank.html)
 
-[Browse the glossary](/glossary.html)
+[গ্লোসারি ব্রাউজ করুন](/glossary.html)
 
 ## প্রশ্ন আছে?
 
@@ -121,23 +121,23 @@ Duo finders and LFG guides for the games you play — find your squad faster.
 
 ### গেমারদের জন্য টিন্ডারের মতো একটি অ্যাপ আছে কি সতীর্থ খুঁজে পেতে?
 
-হ্যাঁ, এবং এটা হওয়ারও সময় হয়েছিল। প্রচলিত LFG ভাঙা — আপনি Discord চ্যানেলে স্প্যাম করছেন, ৩ দিন আগের subreddit-এ পোস্ট করছেন, এবং আশা করছেন যে আপনার ভাষায় কথা বলে এবং আপনার র্যাঙ্কে খেলে এমন কেউ আসলেই অনলাইন আছে যখন আপনি আছেন। এটা কোনো সিস্টেম না, এটা আপনার সময় নিয়ে জুয়া খেলা। Jynx আপনাকে আসলে যা গুরুত্বপূর্ণ তা দিয়ে ফিল্টার করতে দেয়: সামঞ্জস্যপূর্ণ সময়সূচী, অনুরূপ দক্ষতা স্তর এবং শেয়ার করা গেমিং পছন্দ। আপনি আপনার মানদণ্ড পূরণ করে এমন সম্ভাব্য সতীর্থদের সোয়াইপ করেন, বিশ্রী ঠান্ডা মেসেজ এড়িয়ে যান এবং শুধুমাত্র সেই খেলোয়াড়দের সাথে সংযুক্ত হন যারা আসলে আপনি খেলতে চাইলে উপলব্ধ। পার্থক্য কী? আপনি শূন্যে চিৎকার করছেন না এবং কেউ উত্তর দেবে আশা করছেন না। আপনি শুধু সেই মানুষদের দেখছেন যারা ইতিমধ্যে আপনার প্রাপ্যতার সাথে মেলে, আপনার ভাষায় কথা বলে এবং আপনার গেম খেলে। চ্যাটে 'LFG' স্প্যাম করার কম সময়, আসলে আবার টিম করতে চাইবেন এমন মানুষদের সাথে গেমে বেশি সময়।
+হ্যাঁ, এবং এটা হওয়ারও সময় হয়েছিল। প্রচলিত LFG ভাঙা — আপনি LFG চ্যানেলে স্প্যাম করছেন, ৩ দিন আগের subreddit-এ পোস্ট করছেন, এবং আশা করছেন যে আপনার ভাষায় কথা বলে এবং আপনার র্যাঙ্কে খেলে এমন কেউ আসলেই অনলাইন আছে যখন আপনি আছেন। এটা কোনো সিস্টেম না, এটা আপনার সময় নিয়ে জুয়া খেলা। Jynx আপনাকে আসলে যা গুরুত্বপূর্ণ তা দিয়ে ফিল্টার করতে দেয়: সামঞ্জস্যপূর্ণ সময়সূচী, অনুরূপ দক্ষতা স্তর এবং শেয়ার করা গেমিং পছন্দ। আপনি আপনার মানদণ্ড পূরণ করে এমন সম্ভাব্য সতীর্থদের সোয়াইপ করেন, বিশ্রী ঠান্ডা মেসেজ এড়িয়ে যান এবং শুধুমাত্র সেই খেলোয়াড়দের সাথে সংযুক্ত হন যারা আপনি খেলতে চাইলে সত্যিই উপলব্ধ। পার্থক্য কী? আপনি শূন্যে চিৎকার করে কারো উত্তরের আশা করছেন না। আপনি শুধু সেই মানুষদের দেখছেন যারা ইতিমধ্যে আপনার প্রাপ্যতার সাথে মেলে, আপনার ভাষায় কথা বলে এবং আপনার গেম খেলে। চ্যাটে 'LFG' স্প্যাম করার কম সময়, আসলে আবার টিম করতে চাইবেন এমন মানুষদের সাথে গেমে বেশি সময়। আর যখন দুজনেই সোয়াইপ রাইট করবেন, ভয়েস রুম এক ট্যাপ দূরে — অ্যাপের ভেতরেই।
 
 ### অনলাইনে গেমারদের সাথে কীভাবে দেখা করবেন এবং একটি গেমিং বন্ধু গ্রুপ তৈরি করবেন?
 
-গেমার খুঁজে পাওয়া সহজ। সঠিক গেমার খুঁজে পাওয়া — এখানেই সবাই ব্যর্থ হয়। আপনার এমন সতীর্থ দরকার যারা আপনি খেলার সময় উপলব্ধ, আপনার ভাষায় কথা বলে এবং আপনার দক্ষতা স্তরের সাথে মেলে। এটা বেশি চাওয়া না — এটা ন্যূনতম চাহিদা। **আসলে যা কাজ করে:** **• প্রতিশ্রুতির আগে ফিল্টার করুন** — সংযুক্ত হওয়ার আগে যাচাইকৃত পরিসংখ্যান, প্রাপ্যতা এবং খেলার ধরন সহ খেলোয়াড় প্রোফাইল ব্রাউজ করুন **• সামঞ্জস্যকে অগ্রাধিকার দিন** — টাইমজোন, র্যাঙ্ক এবং যোগাযোগের ধরন শুধু একই গেম খেলার চেয়ে বেশি গুরুত্বপূর্ণ **• ধীরে ধীরে তৈরি করুন** — বিশাল কমিউনিটিতে যোগ দেওয়ার বদলে ২-৩ জন নির্ভরযোগ্য সতীর্থ খোঁজায় মনোযোগ দিন যেখানে অর্থবহ সংযোগ তৈরি করা কঠিন 'LFG' স্প্যাম করতে এবং উত্তরের আশা করতে বাধ্য করে এমন প্ল্যাটফর্ম এড়িয়ে চলুন। আপনার সময় এর চেয়ে বেশি মূল্যবান।
+গেমার খুঁজে পাওয়া সহজ। সঠিক গেমার খুঁজে পাওয়া — এখানেই সবাই ব্যর্থ হয়। আপনার এমন সতীর্থ দরকার যারা আপনি খেলার সময় উপলব্ধ, আপনার ভাষায় কথা বলে এবং আপনার দক্ষতা স্তরের সাথে মেলে। এটা বেশি চাওয়া না — এটা ন্যূনতম চাহিদা। **আসলে যা কাজ করে:** **• প্রতিশ্রুতির আগে ফিল্টার করুন** — সংযুক্ত হওয়ার আগে পরিসংখ্যান, প্রাপ্যতা এবং খেলার ধরন সহ খেলোয়াড় প্রোফাইল ব্রাউজ করুন **• সামঞ্জস্যকে অগ্রাধিকার দিন** — টাইমজোন, র্যাঙ্ক এবং যোগাযোগের ধরন শুধু একই গেম খেলার চেয়ে বেশি গুরুত্বপূর্ণ **• ধীরে ধীরে তৈরি করুন** — বিশাল কমিউনিটিতে যোগ দেওয়ার বদলে ২-৩ জন নির্ভরযোগ্য সতীর্থ খোঁজায় মনোযোগ দিন যেখানে অর্থবহ সংযোগ তৈরি করা কঠিন 'LFG' স্প্যাম করতে এবং উত্তরের আশা করতে বাধ্য করে এমন প্ল্যাটফর্ম এড়িয়ে চলুন। আপনার সময় এর চেয়ে বেশি মূল্যবান।
 
 ### League of Legends এবং Valorant-এ র্যাঙ্কড গেমের জন্য কীভাবে সতীর্থ খুঁজে পাবেন?
 
-ভালো র্যাঙ্কড সতীর্থ খুঁজে পাওয়া পরিমাণ নিয়ে না — এটা সামঞ্জস্যতা নিয়ে। র্যান্ডম খেলোয়াড়দের সাথে খেলা যারা কথা বলে না, ফার্স্ট ব্লাডের পরে রেজ কুইট করে, বা তারা যে রোলে স্বাচ্ছন্দ্য নয় সেই রোলে খেলে — এটা আপনার LP এবং মানসিক শান্তি দুটোই খরচ করে। র্যাঙ্কড সতীর্থদের মধ্যে কী খুঁজবেন: **• যাচাইকৃত র্যাঙ্ক** — নিশ্চিত করুন তারা আসলেই আপনার ELO-তে আছে (স্মার্ফিং বা বুস্টেড নয়) **• রোল সামঞ্জস্য** — কিউ-তে ঢোকার আগে তাদের চ্যাম্পিয়ন পুল এবং পছন্দের রোল দেখুন **• ধারাবাহিক প্রাপ্যতা** — র্যাঙ্কড গ্রাইন্ডিং-এ নিয়মিত খেলা দরকার — একই রকম সময়সূচীর মানুষ খুঁজুন **• যোগাযোগের ধরন** — কিছু খেলোয়াড় শটকলিং পছন্দ করে, কেউ চায় ন্যূনতম চ্যাট। এটা আগে থেকে ম্যাচ করুন। সেরা উপায়? Riot API দিয়ে খেলোয়াড়ের র্যাঙ্ক যাচাই করে এবং রোল, সময়সূচী ও যোগাযোগ পছন্দ অনুযায়ী ফিল্টার করতে দেয় এমন প্ল্যাটফর্ম ব্যবহার করুন। চ্যাম্প সিলেক্টে ডজ কম, র্যাঙ্ক আরোহণে সময় বেশি। [League সতীর্থ খোঁজার গাইড আমরাই লিখেছি](/blog/league-of-legends-teammate-guide) — এবং এখানে দেখুন [AI ম্যাচমেকিং আসলে কিভাবে কাজ করে](/blog/ai-gaming-matchmaking-guide)।
+ভালো র্যাঙ্কড সতীর্থ খুঁজে পাওয়া পরিমাণ নিয়ে না — এটা সামঞ্জস্যতা নিয়ে। এমন র‍্যান্ডমদের সাথে খেলা যারা কথা বলে না, ফার্স্ট ব্লাডের পরে রেজ কুইট করে, বা যে রোলে স্বাচ্ছন্দ্যবান নয় সেই রোলে খেলে — এটা আপনার LP এবং মানসিক শান্তি দুটোই খরচ করে। র্যাঙ্কড সতীর্থদের মধ্যে কী খুঁজবেন: **• সত্যিকারের র্যাঙ্ক** — নিশ্চিত করুন তারা সত্যিই আপনার ELO-তে খেলে (স্মার্ফ বা বুস্টেড নয়) **• রোল সামঞ্জস্য** — কিউ-তে ঢোকার আগে তাদের চ্যাম্পিয়ন পুল এবং পছন্দের রোল দেখুন **• ধারাবাহিক প্রাপ্যতা** — র্যাঙ্কড গ্রাইন্ডিং-এ নিয়মিত খেলা দরকার — একই রকম সময়সূচীর মানুষ খুঁজুন **• যোগাযোগের ধরন** — কিছু খেলোয়াড় শটকলিং পছন্দ করে, কেউ চায় ন্যূনতম চ্যাট। এটা আগে থেকে ম্যাচ করুন। সেরা উপায়? সত্যিকারের র্যাঙ্ক, রোল এবং সময়সূচী ফিল্টার সহ প্ল্যাটফর্ম ব্যবহার করুন — চ্যাটের আগে ফিল্টার। চ্যাম্প সিলেক্টে ডজ কম, র্যাঙ্ক আরোহণে সময় বেশি। [League সতীর্থ খোঁজার গাইড আমরাই লিখেছি](/blog/league-of-legends-teammate-guide.html) — এবং এখানে দেখুন [AI ম্যাচমেকিং আসলে কিভাবে কাজ করে](/bn/blog/ai-gaming-matchmaking-guide.html)।
 
 ### গেমিং সতীর্থ খুঁজে পাওয়ার জন্য Discord-এর সেরা বিকল্প কী?
 
-Discord আপনার ইতিমধ্যে থাকা সতীর্থদের সাথে চ্যাট করার জন্য দুর্দান্ত। নতুন খুঁজতে? এটা ভুল টুল। বাস্তবতা হলো: ১০,০০০ সদস্যের সার্ভারে 'LFG' পোস্ট করার মানে আপনার মেসেজ মিনিটের মধ্যে হারিয়ে যাবে। কারো কাছে পৌঁছানোর আগে দক্ষতা স্তর, প্রাপ্যতা বা খেলার ধরন দিয়ে ফিল্টার করার কোনো উপায় নেই। এবং সবচেয়ে গুরুত্বপূর্ণ — সব কাজ আপনিই করছেন। চ্যানেল স্প্যাম, অপরিচিতদের DM, কেউ উত্তর দেবে বলে আশা। **আপনার আসলে দরকার আবিষ্কারের জন্য তৈরি একটি প্ল্যাটফর্ম:** **• খেলোয়াড় প্রোফাইল** — মেসেজ করার আগেই কারো র্যাঙ্ক, সময়সূচী এবং পছন্দের রোল দেখুন **• স্মার্ট ফিল্টারিং** — গুরুত্বপূর্ণ মানদণ্ড দিয়ে সার্চ করুন (ভাষা, টাইমজোন, দক্ষতা স্তর) **• সক্রিয় ম্যাচমেকিং** — শূন্যে চিৎকার না করে রেকমেন্ডেশন পান লক্ষ্য Discord প্রতিস্থাপন নয় — এটা আবিষ্কারের জন্য সঠিক টুল ব্যবহার করা, তারপর সামঞ্জস্যপূর্ণ সতীর্থ খুঁজে পেলে ভয়েস চ্যাটের জন্য Discord-এ যাওয়া। [দেখুন কিভাবে LFG ফোরাম থেকে স্মার্ট ম্যাচমেকিং-এ বিবর্তিত হয়েছে](/blog/lfg-evolution-forums-to-smart-matchmaking)। For the complete side-by-side, read our founder-written [Jynx vs Discord LFG comparison](/vs/jynx-vs-discord.html) — 16 features, including where Discord wins.
+Discord আপনার ইতিমধ্যে থাকা সতীর্থদের সাথে চ্যাট করার জন্য দুর্দান্ত। নতুন খুঁজতে? এটা ভুল টুল। বাস্তবতা হলো: ১০,০০০ সদস্যের সার্ভারে 'LFG' পোস্ট করার মানে আপনার মেসেজ মিনিটের মধ্যে হারিয়ে যাবে। কারো কাছে পৌঁছানোর আগে দক্ষতা স্তর, প্রাপ্যতা বা খেলার ধরন দিয়ে ফিল্টার করার কোনো উপায় নেই। এবং সবচেয়ে গুরুত্বপূর্ণ — সব কাজ আপনিই করছেন। চ্যানেল স্প্যাম, অপরিচিতদের DM, কেউ উত্তর দেবে বলে আশা। **আপনার আসলে দরকার আবিষ্কারের জন্য তৈরি একটি প্ল্যাটফর্ম:** **• খেলোয়াড় প্রোফাইল** — মেসেজ করার আগেই কারো র্যাঙ্ক, সময়সূচী এবং পছন্দের রোল দেখুন **• স্মার্ট ফিল্টারিং** — গুরুত্বপূর্ণ মানদণ্ড দিয়ে সার্চ করুন (ভাষা, টাইমজোন, দক্ষতা স্তর) **• সক্রিয় ম্যাচমেকিং** — শূন্যে চিৎকার না করে রেকমেন্ডেশন পান Jynx সেই লুপটাই এক অ্যাপে বন্ধ করে: ম্যাচ করুন, তারপর একসাথে ভয়েস রুম খুলুন — গ্রুপ, ১:১, বা সবসময় চালু থাকা চিল রুম — সোয়াইপ দিয়ে শুরু হওয়া কথোপকথন ছেড়ে না গিয়েই। [দেখুন কিভাবে LFG ফোরাম থেকে স্মার্ট ম্যাচমেকিং-এ বিবর্তিত হয়েছে](/blog/lfg-evolution-forums-to-smart-matchmaking.html)। সম্পূর্ণ পাশাপাশি তুলনার জন্য পড়ুন প্রতিষ্ঠাতার লেখা [Jynx vs Discord LFG তুলনা](/vs/jynx-vs-discord.html) — ১৬টি ফিচার, Discord যেখানে জেতে সেসব সহ।
 
 ### গেমিং ম্যাচমেকিংয়ের জন্য কোনো বিনামূল্যে অ্যাপ এবং প্ল্যাটফর্ম আছে?
 
-হ্যাঁ, এবং শুধু সতীর্থ খুঁজতে আপনার টাকা খরচ করার দরকার নেই। অনেক প্ল্যাটফর্ম শক্তিশালী ফ্রি টিয়ার অফার করে যেখানে মূল জিনিসগুলো আছে: খেলোয়াড় আবিষ্কার, প্রোফাইল ব্রাউজিং, চ্যাট এবং সেশন সময়সূচী। **ফ্রি টিয়ার থেকে কী আশা করবেন:** • মূল ম্যাচমেকিং ফিচার (সার্চ, ফিল্টার, কানেক্ট) • স্ট্যাটস সহ খেলোয়াড় প্রোফাইল • বেসিক মেসেজিং ও সেশন শিডিউলিং **প্রিমিয়াম টিয়ার সাধারণত কী যোগ করে:** • আনলিমিটেড দৈনিক ম্যাচ/সোয়াইপ • অ্যাডভান্সড ফিল্টার (খুব নির্দিষ্ট মানদণ্ড) • কসমেটিক আপগ্রেড (ব্যাজ, প্রোফাইল কাস্টমাইজেশন) **যে রেড ফ্ল্যাগ এড়াবেন:** • মেসেজিং বা কে আপনার সাথে ম্যাচ করেছে দেখার মতো বেসিক ফিচারে পেওয়াল • র্যাঙ্ক ভেরিফাই বা অ্যাকাউন্ট লিঙ্ক করতে টাকা দিতে বাধ্য করা • একেবারেই কোনো ফ্রি টিয়ার নেই (তারা যদি প্রোডাক্টে আত্মবিশ্বাসী হয়, তাহলে আপনাকে ট্রাই করতে দেওয়া উচিত) আপনার সময় সাবস্ক্রিপশন ফি-র চেয়ে বেশি মূল্যবান। উদার ফ্রি টিয়ার সহ প্ল্যাটফর্মে ফোকাস করুন যাতে কমিট করার আগে পরীক্ষা করতে পারেন।
+হ্যাঁ, এবং শুধু সতীর্থ খুঁজতে আপনার টাকা খরচ করার দরকার নেই। অনেক প্ল্যাটফর্ম শক্তিশালী ফ্রি টিয়ার অফার করে যেখানে মূল জিনিসগুলো আছে: খেলোয়াড় আবিষ্কার, প্রোফাইল ব্রাউজিং, চ্যাট এবং সেশন সময়সূচী। **ফ্রি টিয়ার থেকে কী আশা করবেন:** • মূল ম্যাচমেকিং ফিচার (সার্চ, ফিল্টার, কানেক্ট) • স্ট্যাটস সহ খেলোয়াড় প্রোফাইল • বেসিক মেসেজিং ও সেশন শিডিউলিং **প্রিমিয়াম টিয়ার সাধারণত কী যোগ করে:** • আনলিমিটেড দৈনিক ম্যাচ/সোয়াইপ • অ্যাডভান্সড ফিল্টার (খুব নির্দিষ্ট মানদণ্ড) • কসমেটিক আপগ্রেড (ব্যাজ, প্রোফাইল কাস্টমাইজেশন) **যে রেড ফ্ল্যাগ এড়াবেন:** • মেসেজিং বা কে আপনার সাথে ম্যাচ করেছে দেখার মতো বেসিক ফিচারে পেওয়াল • ম্যাচ দেখতে বা সতীর্থদের মেসেজ করতে টাকা দিতে বাধ্য করা • একেবারেই কোনো ফ্রি টিয়ার নেই (তারা যদি প্রোডাক্টে আত্মবিশ্বাসী হয়, তাহলে আপনাকে ট্রাই করতে দেওয়া উচিত) আপনার সময় সাবস্ক্রিপশন ফি-র চেয়ে বেশি মূল্যবান। উদার ফ্রি টিয়ার সহ প্ল্যাটফর্মে ফোকাস করুন যাতে কমিট করার আগে পরীক্ষা করতে পারেন।
 
 চিরকাল বিনামূল্যে
 
@@ -145,10 +145,10 @@ Discord আপনার ইতিমধ্যে থাকা সতীর্থ
 
 কমিউনিটি-চালিত
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/jynx-find-teammates-lfg/id6755744762?ct=feedback&utm_source=jynx.app&utm_medium=web&utm_campaign=landing_cta&utm_content=feedback) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dfeedback) [![Microsoft Store ডাউনলোড ব্যাজ](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct&cid=feedback)
 
 ### আপনার পরামর্শ, আমাদের অগ্রাধিকার
 
-Thanks for your feedback!
+আপনার মতামতের জন্য ধন্যবাদ!
 
-No spam. We'll only contact you with important Jynx news and updates.
+স্প্যাম নয়। আমরা শুধু Jynx-এর গুরুত্বপূর্ণ খবর ও আপডেট নিয়েই যোগাযোগ করব।
