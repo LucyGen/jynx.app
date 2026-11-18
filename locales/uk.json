@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Пропозиція мови",
+    "title": "Jynx мовою {{localeName}}?",
+    "body": "Ваш браузер налаштовано на {{localeName}}. Продовжити цією мовою?",
+    "accept": "Перейти на {{localeName}}",
+    "accept_aria": "Змінити мову сайту на {{localeName}}",
+    "dismiss": "Ні, дякую",
+    "dismiss_aria": "Закрити пропозицію зміни мови"
   }
 }

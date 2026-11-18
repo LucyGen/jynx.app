@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Gợi ý ngôn ngữ",
+    "title": "Jynx bằng {{localeName}}?",
+    "body": "Trình duyệt của bạn đang đặt thành {{localeName}}. Tiếp tục bằng ngôn ngữ này?",
+    "accept": "Chuyển sang {{localeName}}",
+    "accept_aria": "Đổi ngôn ngữ trang web sang {{localeName}}",
+    "dismiss": "Không, cảm ơn",
+    "dismiss_aria": "Bỏ qua gợi ý ngôn ngữ"
   }
 }

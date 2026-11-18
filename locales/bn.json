@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "ভাষা পরামর্শ",
+    "title": "{{localeName}} ভাষায় Jynx?",
+    "body": "আপনার ব্রাউজার {{localeName}} ভাষায় সেট করা আছে। সেই ভাষায় চালিয়ে যাবেন?",
+    "accept": "{{localeName}} ভাষায় যান",
+    "accept_aria": "সাইটের ভাষা {{localeName}} ভাষায় পরিবর্তন করুন",
+    "dismiss": "না, ধন্যবাদ",
+    "dismiss_aria": "ভাষা পরামর্শ বাতিল করুন"
   }
 }

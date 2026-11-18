@@ -1,28 +1,28 @@
 ---
-title: "Find Teammates by Game: Verified Rank, Voice & Schedule"
-description: "Find teammates by verified rank, voice, and schedule overlap: CS2, Marvel Rivals, Fortnite, GTA, and Rainbow Six Siege on Jynx. Free on the web, Android, and iOS."
+title: "Find Teammates by Game: Rank, Role, Voice & Schedule"
+description: "Find teammates by rank, role, region, voice, and schedule overlap: CS2, Marvel Rivals, Fortnite, GTA, and Rainbow Six Siege on Jynx. Free on web, Android, and iOS."
 canonical: "https://jynx.app/games.html"
 locale: "en"
-dateModified: "2026-10-30"
+dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Find Teammates for Your Game
 
-The starting point for finding duos, crews, and five-stacks: each per-game page matches verified rank, voice intent, and schedule overlap — from CS2 Premier ratings to GTA heist seats. No lobby roulette.
+The starting point for finding duos, crews, and five-stacks: each per-game page runs on that game's real in-app filters — rank tier, roles, region, language — plus voice intent and schedule overlap. No lobby roulette.
 
 ## LFG in 60 seconds
 
-Every game pairs differently: CS2 locks the rank window across two ladders, Marvel Rivals resets ranks every season, Fortnite splits on Build versus Zero Build, GTA crews run on heist seats and weekly sessions, and Siege stacks form around operator pools. This page is the English starting point for finding teammates: it takes you to the right per-game filters — verified rank, voice intent, and schedule overlap — and from there to the duo that plays like you.
+Every game pairs differently: CS2 matches on Valve's ladder from Silver I to Global Elite, Marvel Rivals on Bronze to One Above All with Vanguard, Duelist, and Strategist roles, Fortnite on Bronze to Unreal, GTA Online crews on platform, language, region, and a weekly session, and Siege stacks on Copper to Champion with playstyle roles. This page is the English starting point for finding teammates: it takes you to the right per-game filters — rank, voice intent, and schedule overlap — and from there to the duo that plays like you.
 
 ## Find teammates by game
 
-- [GTA 6 Online Find Crew: Build Your Heist Team Before November 19](/games/gta-6-online/duo-finder.html) The launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.
-- [GTA Online Crew Finder: Build Heist Crews That Finish](/games/gta-online/duo-finder.html) GTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx matches crews on verified RP Rank, heist intent, voice, and session length before anyone fronts a setup cost.
-- [CS2 Find Teammates by Premier Rating, FACEIT Level & Role](/games/cs2/duo-finder.html) Match on the numbers that matter: verified Premier CS Rating, FACEIT level, AWPer-to-support role fit, and shared map picks — built for Wingman duos through gold-band five-stacks.
-- [Marvel Rivals Duo Finder: Hero Pools, Team-Ups & Verified Rank](/games/marvel-rivals/duo-finder.html) Season 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.
-- [Fortnite Duo Finder: Duos, Trios & Squads That Stick](/games/fortnite/duo-finder.html) Stop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.
-- [R6 Siege Team Finder: Build Verified 5-Stacks From Copper to Champion](/games/rainbow-six-siege/duo-finder.html) Skip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.
+- [GTA 6 Online Find Crew: Build the Heist Four in GTA Online](/games/gta-6-online/duo-finder.html) GTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.
+- [GTA Online Crew Finder: Build Heist Crews That Finish](/games/gta-online/duo-finder.html) GTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.
+- [CS2 Find Teammates by Rank, Region & Playstyle](/games/cs2/duo-finder.html) Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.
+- [Marvel Rivals Duo Finder: Roles, Team-Ups & Rank](/games/marvel-rivals/duo-finder.html) Season 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.
+- [Fortnite Duo Finder: Duos, Trios & Squads That Stick](/games/fortnite/duo-finder.html) Stop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.
+- [R6 Siege Team Finder: Build 5-Stacks From Copper to Champion](/games/rainbow-six-siege/duo-finder.html) Skip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.
 
 ## Browse every game the app supports
 
@@ -40,24 +40,24 @@ Every game pairs differently: CS2 locks the rank window across two ladders, Marv
 
 Is there an app to find teammates for games?
 
-There is: Jynx is an app built to find gaming teammates. Instead of a Discord channel or a screenshot of last season's rank, you filter by game and get matches on verified rank, voice intent, and schedule in common — the account is linked to the profile, so the badge follows the season. It's free on the web, Android, and iOS.
+There is: Jynx is an app built to find gaming teammates. Instead of a Discord channel or a screenshot of last season's rank, you filter by game and get matches on the rank window, roles, region, and languages that game supports in the app — voice intent and schedule come with every match. It's free on the web, Android, and iOS.
 
 How do I find a duo for my game?
 
-Start with the game, not the channel. A duo that lasts depends on three filters: verified rank inside the window your queue accepts, voice intent, and schedule in common. From here, pick your game's page — CS2, Marvel Rivals, Fortnite, GTA Online, GTA 6, or Rainbow Six Siege — and apply all three before the first invite.
+Start with the game, not the channel. A duo that lasts depends on three filters: rank inside the window your queue accepts, voice intent, and schedule in common. From here, pick your game's page — CS2, Marvel Rivals, Fortnite, GTA Online, GTA 6, or Rainbow Six Siege — and apply all three before the first invite.
 
 Which games does Jynx find teammates for?
 
-Today: CS2 (Premier rating and FACEIT level), Marvel Rivals (hero pools and current-season rank), Fortnite (Build or Zero Build, input device, ranked tier), GTA Online (verified RP Rank and heist roles), GTA 6 Online (crew screening ahead of the November 19, 2026 launch), and Rainbow Six Siege (RP division, operator pools, IGL tags). Each page lists the filters that game actually enforces.
+Jynx finds teammates for 700+ games — CS2, League of Legends, Valorant, Marvel Rivals, Fortnite, GTA Online, and Rainbow Six Siege all have dedicated duo-finder pages, built on each game's real in-app filters: rank tier, role, region, language, and playstyle where the game supports them. Each page lists the filters the app actually ships. Free on web, Android, and iOS.
 
 Why does Discord LFG feel like a roulette?
 
-Because the channel checks nothing: whoever posts picks their own rank, screenshots age every season, and one queue mixes players who want serious ranked with players messing around. Finding teammates works better when the filter comes before the chat — verified rank, voice intent, and schedule. And when the match is right, the voice room is already there: Jynx opens it in the same app, one tap from the match.
+Because the channel checks nothing: whoever posts picks their own rank, screenshots age every season, and one queue mixes players who want serious ranked with players messing around. Finding teammates works better when the filter comes before the chat — rank, voice intent, and schedule. And when the match is right, the voice room is already there: Jynx opens it in the same app, one tap from the match.
 
 ## Stop playing solo
 
 Download Jynx and find a verified duo today.
 
-Jynx is the next-generation companion app for gamers who find teammates with intent in any game: verified rank, voice intent, and schedule in common to line up the right partner for your queue — instead of hoping a Discord channel delivers.
+Jynx is the next-generation companion app for gamers who find teammates with intent in any game: rank, role, region, voice intent, and schedule in common to line up the right partner for your queue — instead of hoping a Discord channel delivers.
 
 [![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)

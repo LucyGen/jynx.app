@@ -3,7 +3,7 @@ title: "गेमिंग मैचमेकिंग ऐप | LFG टीमम
 description: "Jynx की स्मार्ट मैचमेकिंग से अपने परफेक्ट गेमिंग टीममेट्स खोजें। स्किल, प्लेस्टाइल और शेड्यूल के आधार पर मैच करें। अकेले खेलना बंद करो।"
 canonical: "https://jynx.app/hi/"
 locale: "hi"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -91,12 +91,12 @@ Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord
 
 Duo finders and LFG guides for the games you play — find your squad faster.
 
-- [GTA 6 OnlineThe launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.](/games/gta-6-online/duo-finder.html)
-- [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx matches crews on verified RP Rank, heist intent, voice, and session length before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
-- [Counter-Strike 2Match on the numbers that matter: verified Premier CS Rating, FACEIT level, AWPer-to-support role fit, and shared map picks — built for Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
-- [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.](/games/marvel-rivals/duo-finder.html)
-- [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.](/games/fortnite/duo-finder.html)
-- [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.](/games/rainbow-six-siege/duo-finder.html)
+- [GTA 6 OnlineGTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
+- [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
+- [Counter-Strike 2Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
+- [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.](/games/marvel-rivals/duo-finder.html)
+- [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.](/games/fortnite/duo-finder.html)
+- [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.](/games/rainbow-six-siege/duo-finder.html)
 
 [All games](/games.html)
 

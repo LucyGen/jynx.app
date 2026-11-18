@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "اقتراح اللغة",
+    "title": "Jynx باللغة {{localeName}}؟",
+    "body": "متصفحك مضبوط على {{localeName}}. هل تريد المتابعة بهذه اللغة؟",
+    "accept": "التبديل إلى {{localeName}}",
+    "accept_aria": "تغيير لغة الموقع إلى {{localeName}}",
+    "dismiss": "لا، شكرًا",
+    "dismiss_aria": "تجاهل اقتراح اللغة"
   }
 }

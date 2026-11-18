@@ -1,15 +1,15 @@
 ---
 title: "Game Directory: Browse Every Game & Find Teammates"
-description: "Browse the Jynx game directory and find teammates for any game — matched by verified rank, voice intent, and schedule. Free on web, Android, and iOS."
+description: "Browse the Jynx game directory and find teammates for any game — matched by rank, role, region, and voice intent. Free on web, Android, and iOS."
 canonical: "https://jynx.app/galaxy.html"
 locale: "en"
-dateModified: "2026-10-16"
+dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
 # Every game on Jynx, one directory
 
-From tactical shooters and battle royales to racing, rhythm, and horror — browse the full catalog and jump straight to the duo finder or game page for whatever you queue. Verified rank, voice intent, and schedule overlap start on each game's page.
+From tactical shooters and battle royales to racing, rhythm, and horror — browse the full catalog and jump straight to the duo finder or game page for whatever you queue. Rank, role, region, voice intent, and schedule filters start on each game's page.
 
 - 711 games
 - 14 categories
@@ -20,17 +20,17 @@ Search all 711 games by name or browse by category — every listing links to a 
 
 Hand-picked worlds where Jynx players squad up every night.
 
-[![Counter-Strike 2 key art banner](/assets/images/games/counter-strike-2/counter-strike-2-banner-640.webp)Counter-Strike 2Valve's tactical shooter and the home of Premier: Jynx verifies your CS rating and FACEIT level, then matches the rank window your queue accepts. Bring the callouts — your duo brings theirs.](/games/counter-strike-2/catalog.html) [Open the Counter-Strike 2 duo finder](/games/cs2/duo-finder.html)
+[![Counter-Strike 2 key art banner](/assets/images/games/counter-strike-2/counter-strike-2-banner-640.webp)Counter-Strike 2Valve's tactical shooter, five-on-five: Jynx filters CS2 teammates on Valve's competitive ladder from Silver I to Global Elite, plus language, region, and playstyle. Bring the callouts — your duo brings theirs.](/games/counter-strike-2/catalog.html) [Open the Counter-Strike 2 duo finder](/games/cs2/duo-finder.html)
 
-[![Fortnite key art banner](/assets/images/games/fortnite/fortnite-banner-640.webp)FortniteEpic's battle royale splits on Build versus Zero Build, and so does the matching: Jynx pairs on ranked tier, input device, and mode before the drop. Duos and squads both start here.](/games/fortnite/catalog.html) [Open the Fortnite duo finder](/games/fortnite/duo-finder.html)
+[![Fortnite key art banner](/assets/images/games/fortnite/fortnite-banner-640.webp)FortniteEpic's battle royale, before the drop: Jynx filters Fortnite teammates on the ranked ladder from Bronze to Unreal, plus language and playstyle. Duos and squads both start here.](/games/fortnite/catalog.html) [Open the Fortnite duo finder](/games/fortnite/duo-finder.html)
 
-[![GTA Online key art banner](/assets/images/games/gta-online/gta-online-banner-640.webp)GTA OnlineLos Santos runs on crews — heist seats, RP ranks, and the weekly grind. Jynx verifies your RP rank and the roles you run, so the next lobby is staffed before you host it.](/games/gta-online/catalog.html) [Open the GTA Online duo finder](/games/gta-online/duo-finder.html)
+[![GTA Online key art banner](/assets/images/games/gta-online/gta-online-banner-640.webp)GTA OnlineLos Santos runs on crews — and the grind runs on the regulars. Jynx brings GTA Online crews together by language, region, platform, voice intent, and a standing weekly session, so the next lobby is staffed before you host it.](/games/gta-online/catalog.html) [Open the GTA Online duo finder](/games/gta-online/duo-finder.html)
 
-[![Marvel Rivals key art banner](/assets/images/games/marvel-rivals/marvel-rivals-banner-640.webp)Marvel RivalsThe hero shooter moves fast and resets every season: Jynx tracks hero pools and current-season rank, then fills your stack around complementary picks. Full teams, duos, and everything between.](/games/marvel-rivals/catalog.html) [Open the Marvel Rivals duo finder](/games/marvel-rivals/duo-finder.html)
+[![Marvel Rivals key art banner](/assets/images/games/marvel-rivals/marvel-rivals-banner-640.webp)Marvel RivalsThe hero shooter moves fast and resets every season: Jynx filters Marvel Rivals stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle. Full teams, duos, and everything between.](/games/marvel-rivals/catalog.html) [Open the Marvel Rivals duo finder](/games/marvel-rivals/duo-finder.html)
 
-[![Rainbow Six Siege key art banner](/assets/images/games/rainbow-six-siege/rainbow-six-siege-banner-640.webp)Rainbow Six SiegeSiege is a tactical puzzle with fixed seats: Jynx matches division, operator pools, and IGL tags so the site setup writes itself. Find the stack that takes ranked as seriously as you do.](/games/rainbow-six-siege/catalog.html) [Open the Rainbow Six Siege duo finder](/games/rainbow-six-siege/duo-finder.html)
+[![Rainbow Six Siege key art banner](/assets/images/games/rainbow-six-siege/rainbow-six-siege-banner-640.webp)Rainbow Six SiegeSiege is a tactical puzzle with fixed seats: Jynx filters Siege stacks on the ranked ladder from Copper to Champion, playstyle roles from Hard Breach to Roamer, language, and region. Find the stack that takes ranked as seriously as you do.](/games/rainbow-six-siege/catalog.html) [Open the Rainbow Six Siege duo finder](/games/rainbow-six-siege/duo-finder.html)
 
-[GTA 6 OnlineThe next crew game is almost here: the GTA 6 Online duo finder is live for crew screening ahead of launch — verified profiles, voice intent, and schedule overlap from the first session.](/games/gta-6-online/duo-finder.html)
+[GTA 6 OnlineGTA 6 lands November 19, 2026 — build the crew now in GTA Online sessions on Jynx (platform, language, region, voice, weekly night); not in the catalog yet.](/games/gta-6-online/duo-finder.html)
 
 ## Action
 
@@ -297,7 +297,7 @@ Sandbox games are where Jynx players go to build, drift, and cause low-stakes ch
 
 ## FPS
 
-Shooters are Jynx's deepest bench: tactical five-on-five, hero shooters, extraction, and arena classics all live here. What they share is a matching problem — rank windows, role fills, and voice discipline decide lobbies — and that is exactly what the per-game duo finders screen for. Open a title, check the filters it actually enforces, and queue with someone whose rank and rig match yours.
+Shooters are Jynx's deepest bench: tactical five-on-five, hero shooters, extraction, and arena classics all live here. What they share is a matching problem — rank windows, role fills, and voice discipline decide lobbies — and that is exactly what the per-game duo finders screen for. Open a title, check the filters the app supports for it, and queue with someone whose rank and rig match yours.
 
 - [![ARC Raiders game icon — FPS](/assets/images/games/arc-raiders/arc-raiders-cover-200.webp)ARC Raiders](/games/arc-raiders/catalog.html)
 - [![Arena Breakout: Infinite game icon — FPS](/assets/images/games/arena-breakout-infinite/arena-breakout-infinite-cover-200.webp)Arena Breakout: Infinite](/games/arena-breakout-infinite/catalog.html)
@@ -548,7 +548,7 @@ Strategy games on Jynx run from classic real-time legacies to grand campaigns, a
 
 ## Mobile
 
-Mobile on Jynx is its own scene, not a footnote: battle-royale headliners, MOBA ports, card climbers, and sports titles built for a phone first. The cluster matches on the things mobile queues care about — region, language, input, and the hours you play between everything else. Find a duo for the rank push, or a squad for the evening session, straight from your pocket.
+Mobile on Jynx is its own scene, not a footnote: battle-royale headliners, MOBA ports, card climbers, and sports titles built for a phone first. The cluster matches on the things mobile queues care about — region, language, and the hours you play between everything else. Find a duo for the rank push, or a squad for the evening session, straight from your pocket.
 
 - [![Avakin Life game icon — Mobile](/assets/images/games/avakin-life/avakin-life-cover-200.webp)Avakin Life](/games/avakin-life/catalog.html)
 - [![Block Strike game icon — Mobile](/assets/images/games/block-strike/block-strike-cover-200.webp)Block Strike](/games/block-strike/catalog.html)
@@ -741,7 +741,7 @@ Sports titles never run out of opponents — they run out of good ones. This clu
 
 ## Battle Royale
 
-Battle royale is a squad game wearing a solo costume: the drop, the loot route, and the final-circle discipline all depend on who lands beside you. From the genre's biggest names to their mobile variants, this cluster matches duos, trios, and full stacks by rank, input, and voice intent — so your teammate has a mic and a plan, not just a pulse.
+Battle royale is a squad game wearing a solo costume: the drop, the loot route, and the final-circle discipline all depend on who lands beside you. From the genre's biggest names to their mobile variants, this cluster matches duos, trios, and full stacks by rank, region, and voice intent — so your teammate has a mic and a plan, not just a pulse.
 
 - [![Apex Legends game icon — Battle Royale](/assets/images/games/apex-legends/apex-legends-cover-200.webp)Apex Legends](/games/apex-legends/catalog.html)
 - [![Blood Strike game icon — Battle Royale](/assets/images/games/blood-strike/blood-strike-cover-200.webp)Blood Strike](/games/blood-strike/catalog.html)
@@ -825,11 +825,11 @@ Download Jynx and get matched with compatible teammates across every game in thi
 
 ### What is the Jynx game directory?
 
-It's the full index of games on Jynx — every title the app supports, grouped by category and searchable by name. Each listing points to that game's Jynx page or duo finder, where the actual matching happens: verified rank, voice intent, and schedule overlap. Use it to browse when you want a partner but haven't picked the game yet.
+It's the full index of games on Jynx — every title the app supports, grouped by category and searchable by name. Each listing points to that game's Jynx page or duo finder, where the actual matching happens: rank, voice intent, and schedule overlap. Use it to browse when you want a partner but haven't picked the game yet.
 
 ### How do I find teammates for a specific game?
 
-Search for your game or open its category, then follow the link to its duo finder or game page. There you filter by the things that game actually enforces — rank windows, roles, input, voice intent — and send an invite when the schedule matches. The directory is the map; the per-game page is where pairs happen.
+Search for your game or open its category, then follow the link to its duo finder or game page. There you filter by the things that game actually enforces — rank windows, roles, region, voice intent — and send an invite when the schedule matches. The directory is the map; the per-game page is where pairs happen.
 
 ### Is Jynx free to use?
 
@@ -837,15 +837,15 @@ Yes — Jynx is free on the web, on Android, and on iOS. You can browse the whol
 
 ### Which games get a dedicated duo finder?
 
-The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, GTA 6 Online, Marvel Rivals, and Rainbow Six Siege — with per-game filters like rank tiers, operator pools, or heist roles. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
+The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, GTA 6 Online, Marvel Rivals, and Rainbow Six Siege — with per-game filters built from each game's ranked ladder and role list. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
 
 ### Where does the game information come from?
 
-Game data is provided by IGDB.com, covering descriptions, genres, platforms, and release details for every listing. The matchmaking side — rank systems, supported filters, regions — reflects how each game works in queue, so a filter you see on a Jynx page is one the game really enforces. The catalog refreshes as titles update.
+Game data is provided by IGDB.com, covering descriptions, genres, platforms, and release details for every listing. The matchmaking side — rank systems, supported filters, regions — reflects each game's real queue, so the filters each page lists are the ones the Jynx app actually ships for that game — no more, no less. The catalog refreshes as titles update.
 
 ### Does every game support rank filtering?
 
-No, and that's the point of the directory: each game's page lists only the filters that game actually supports. Ranked shooters expose rank tiers and divisions; sandbox and horror titles may filter by language, region, or voice intent instead. Check the filters on a game's page before you queue — it tells you exactly what matching is possible.
+No, and that's the point of the directory: the filters each page lists are the ones the Jynx app actually ships for that game — no more, no less. Ranked shooters expose rank tiers and divisions; sandbox and horror titles may filter by language, region, or voice intent instead.
 
 ### Can I use Jynx on my phone?
 
@@ -853,6 +853,6 @@ You can — Jynx runs on the web and ships native apps for Android and iOS, so y
 
 ### How is this different from Discord LFG channels?
 
-A Discord channel checks nothing: anyone can type any rank, screenshots go stale, and one crowded queue mixes serious and casual players. Jynx puts the filter first — verified rank, voice intent, schedule — then attaches the voice room to the match itself, so you talk in the same app you matched in.
+A Discord channel checks nothing: anyone can type any rank, screenshots go stale, and one crowded queue mixes serious and casual players. Jynx puts the filter first — rank, voice intent, schedule — then attaches the voice room to the match itself, so you talk in the same app you matched in.
 
 Game data provided by IGDB.com

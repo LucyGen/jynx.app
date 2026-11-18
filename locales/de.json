@@ -75,66 +75,66 @@
     "mission": {
       "title": "Unsere Mission",
       "p1": "Jynx ist mehr als nur eine Plattform - es ist eine wachsende Community von Gamern, die glauben, dass Gaming zusammen besser ist. Wir fangen gerade erst an und laden dich ein, Teil unserer Reise zu sein, während wir revolutionieren, wie Gamer sich verbinden, konkurrieren und zusammenarbeiten.",
-      "p2": "Game on!"
+      "p2": "Auf ins Spiel!"
     },
     "cta": {
       "title": "Tritt der Jynx-Community bei",
-      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way."
+      "description": "Finde dein perfektes Gaming-Squad — Jynx ist auf iOS, Android, Windows und im Web verfügbar. Die Mac-App kommt."
     }
   },
   "contact": {
     "meta": {
-      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
-      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
-      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
-      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
-      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
-      "twitter_image_alt": "Contact Jynx"
+      "title": "Kontakt zu Jynx: Support-, Sicherheits- und Datenschutz-E-Mail-Kanäle",
+      "description": "Erreiche das Jynx-Team per E-Mail: Support bei Konto- und App-Fragen, Security zum Melden von Schwachstellen und unser DPO für Datenschutzanfragen. Dazu Discord und Social Media.",
+      "og_title": "Kontakt zu Jynx - Support-, Sicherheits- und Datenschutz-E-Mails",
+      "og_description": "E-Mail-Kanäle zum Jynx-Team: Kundensupport, Sicherheitsmeldungen und Datenschutzanfragen — ohne Kontaktformular.",
+      "og_image_alt": "Jynx-Kontaktseite - Support-, Sicherheits- und Datenschutz-E-Mail-Kanäle",
+      "twitter_title": "Kontakt zu Jynx - Support-, Sicherheits- und Datenschutz-E-Mails",
+      "twitter_description": "Erreiche das Jynx-Team per E-Mail: Support, Sicherheit und Datenschutz.",
+      "twitter_image_alt": "Kontakt zu Jynx"
     },
-    "title": "Contact Jynx",
-    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
+    "title": "Kontakt zu Jynx",
+    "subtitle": "So erreichst du das Team hinter Jynx — E-Mail-Kanäle, Community-Links und Unternehmensangaben.",
     "intro": {
-      "title": "How to Reach Us",
-      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
-      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
+      "title": "So erreichst du uns",
+      "p1": "Der Jynx-Support läuft über E-Mail-Kanäle — wir verwenden kein Kontaktformular. Jede Adresse auf dieser Seite landet in einem Postfach, das eine echte Person im Blick behält, deine Nachricht geht also direkt ans Team. Wähle den Kanal, der zu deinem Anliegen passt, und gib so viele Details wie möglich an.",
+      "response_note": "Wir lesen jede Nachricht. Support-Antworten kommen in der Regel innerhalb weniger Werktage; Französisch und Englisch funktionieren beide."
     },
     "channels": {
-      "title": "Email Channels",
+      "title": "E-Mail-Kanäle",
       "support": {
-        "title": "Customer Support",
-        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+        "title": "Kundensupport",
+        "desc": "Der Hauptkanal. Konto-Zugang, Bug-Meldungen, Fragen zur Abrechnung, Feature-Wünsche und alles andere rund um die App: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
       },
       "security": {
-        "title": "Security Reports",
-        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
-        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
+        "title": "Sicherheitsmeldungen",
+        "desc": "Ausschließlich für vermutete Schwachstellen und Sicherheitsprobleme. Lies bitte zuerst die Disclosure-Richtlinie — sie listet, was in ihrem Umfang liegt und was deine Meldung enthalten sollte: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "Die vollständige Richtlinie findest du auf der Seite <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a>."
       },
       "dpo": {
-        "title": "Privacy and Data Protection",
-        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+        "title": "Datenschutz und personenbezogene Daten",
+        "desc": "Anfragen zu personenbezogenen Daten, Datenschutzfragen und Auskünfte von Strafverfolgungsbehörden gehen an unseren Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
       }
     },
     "community": {
-      "title": "Community and Social",
-      "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
-      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
-      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
-      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
-      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
+      "title": "Community und Social Media",
+      "desc": "Für den täglichen Austausch ist die Community schneller als E-Mail.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — Team-und-Support-Server: stelle eine Frage, sprich mit dem Jynx-Team oder hol dir Hilfe zur App.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — News, Updates und Clips vom Jynx-Team.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — kurze Videos, Community-Highlights und Features.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — Ankündigungen und schnelle Antworten.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — die Jynx-Seite: Events und Community-Posts."
     },
     "company": {
-      "title": "Company Information",
-      "legal_name_label": "Legal entity:",
+      "title": "Unternehmensinformationen",
+      "legal_name_label": "Juristische Person:",
       "legal_name": "Jynx Group",
-      "siren_label": "Company registration (SIREN):",
+      "siren_label": "Handelsregister (SIREN):",
       "siren": "991443896",
-      "office_label": "Registered office:",
+      "office_label": "Geschäftssitz:",
       "office_city": "Nantes",
-      "office_country": "France",
-      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
+      "office_country": "Frankreich",
+      "legal_note": "Die vollständigen rechtlichen Hinweise — eingetragener Sitz, Rechtsform und Handelsregisterangaben — findest du in <a href=\"/terms.html\">Abschnitt 13 der Nutzungsbedingungen</a>."
     }
   },
   "privacy": {
@@ -149,30 +149,30 @@
       "twitter_image_alt": "Datenschutzerklärung"
     },
     "title": "Datenschutzerklärung",
-    "last_updated": "Zuletzt aktualisiert: November 2026",
-    "version": "Version: 1.0",
+    "last_updated": "Zuletzt aktualisiert: 17. November 2026",
+    "version": "Version: 1.1",
     "intro": {
       "title": "1. Einleitung",
       "p1": "Jynx (\"wir\", \"unser\", \"die Anwendung\") ist eine Social-Gaming-Plattform, die es Spielern ermöglicht, sich zu verbinden, Teams zu bilden und zusammen zu spielen.",
       "legal_info": "Rechtliche Informationen:",
       "entity_label": "Juristische Person:",
-      "entity": "Jynx Group",
+      "entity": "Jynx Group (Société par Actions Simplifiée, SIREN 991443896, eingetragen in Nantes, Frankreich)",
       "dpo_label": "Kontakt Datenschutzbeauftragter:",
       "dpo": "dpo@jynx.app",
       "p2": "Diese Datenschutzerklärung beschreibt, wie wir deine personenbezogenen Daten erheben, verwenden, teilen und schützen, wenn du unsere Anwendung nutzt.",
-      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
-      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
-      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
-      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
-      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
-      "publication_label": "Publication (LCEN):",
-      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
+      "jurisdiction_eu_label": "Rechtsprechung EU / EWR:",
+      "jurisdiction_eu": "Frankreich, Europäische Union — diese Datenschutzerklärung entspricht der Verordnung (EU) 2016/679 (DSGVO) und der Richtlinie 2002/58/EG (ePrivacy), wie sie in Frankreich umgesetzt sind.",
+      "jurisdiction_brazil_label": "Brasilianische Rechtsprechung:",
+      "jurisdiction_brazil": "Diese Datenschutzerklärung entspricht außerdem dem brasilianischen Gesetz nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), das gemäß Art. 3 der LGPD auf die Verarbeitung personenbezogener Daten von Betroffenen mit Sitz in Brasilien durch Jynx anwendbar ist, unabhängig davon, dass Jynx keinen Standort in Brasilien hat.",
+      "controller": "Im Sinne der LGPD ist Jynx Group der Verantwortliche (controlador) für deine personenbezogenen Daten. Unser Data Protection Officer fungiert als encarregado (DPO) und ist unter dpo@jynx.app für jede Anfrage im Zusammenhang mit der LGPD erreichbar. Obwohl Jynx gemäß der ANPD-Resolution CD/ANPD nº 2/2022 als pequeno agente de tratamento de dados pessoais (kleiner Verarbeitungsagent) eingestuft wird — was Jynx von der verpflichtenden Benennung eines encarregado befreit — unterhält Jynx diesen veröffentlichten Kommunikationskanal freiwillig.",
+      "publication_label": "Veröffentlichung (LCEN):",
+      "publication": "Directeur de la publication: Antoine Haie. Diese Website (jynx.app) wird von GitHub Pages gehostet und über das Cloudflare Content-Delivery-Netzwerk ausgeliefert."
     },
     "age_verification": {
       "title": "2. Mindestalter und Verifizierung",
       "p1": "Unsere Anwendung ist Nutzern ab 18 Jahren vorbehalten.",
       "p2": "Bei der Erstellung deines Kontos bitten wir dich, dein Geburtsdatum anzugeben. Wenn du unter 18 bist, kannst du kein Konto erstellen oder unsere Dienste nutzen.",
-      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
+      "minors": "Kein Marketing an Minderjährige. Jynx ist auf Nutzer ab 18 Jahren beschränkt und setzt ein automatisches Alters-Gate ein. Identifizieren wir nachträglich, dass ein Nutzer unter 18 ist (LGPD Art. 14; DSGVO Art. 8), beenden wir das Konto sofort, schließen den Nutzer von allen Marketing-, Re-Engagement- und Umfrage-Kommunikationen aus und löschen die zugehörigen Marketingdaten. Wir erheben niemals wissentlich eine Marketing-Einwilligung von einer minderjährigen Person."
     },
     "data_collected": {
       "title": "3. Erhobene Daten",
@@ -185,9 +185,9 @@
         "email": "E-Mail (für E-Mail/Passwort-Konten)",
         "username": "Benutzername/Nickname",
         "photo": "Profilbild (optional)",
-        "social": "Social login identifiers (Google, Apple) if you use these methods",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
-        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
+        "social": "Social-Login-Identifikatoren (Google, Apple), sofern du diese Methoden nutzt",
+        "guest": "Gast-Browsing (sofern verfügbar): Du kannst die öffentlichen Bereiche von Jynx erkunden, ohne ein Konto zu erstellen; im Gastmodus verarbeiten wir nur eine lokal gespeicherte Gast-Kennung und die technischen Daten aus §3.3, die für den Betrieb der App nötig sind — es wird kein Profil erstellt und keine Kontodaten gespeichert. Um zu matchen, zu chatten oder Communities beizutreten, musst du ein Konto erstellen",
+        "discord": "Discord-Identifikatoren (deine Discord-Nutzer-ID), wenn du dein Discord-Konto für die Discord-Integration verbindest — die Verbindung nutzt Discords Identify-only-OAuth und ist keine Anmeldemethode; du kannst sie jederzeit trennen"
       },
       "profile": {
         "title": "Profilinformationen:",
@@ -210,7 +210,7 @@
         "playstyle": "Spielstil"
       },
       "riot": {
-        "title": "Riot Games API Integration:",
+        "title": "Riot-Games-API-Integration:",
         "intro": "Wir rufen von der Riot Games API ab (mit deiner Zustimmung):",
         "summoner": "Beschwörername und Riot ID",
         "rank": "Rang und Match-Verlauf (League of Legends, Valorant, etc.)",
@@ -232,7 +232,7 @@
         "crashlytics_label": "Firebase Crashlytics:",
         "crashlytics": "Absturzberichte",
         "disable": "Du kannst die Analytics-Datenerhebung in Einstellungen > Datenschutz > \"Analytics aktivieren\" deaktivieren.",
-        "ad_measurement": "Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9."
+        "ad_measurement": "Die Werbemessung mit Meta ist von Analytics getrennt und hat einen eigenen Schalter: siehe §5.9."
       },
       "device": {
         "title": "Geräteinformationen:",
@@ -256,7 +256,7 @@
       },
       "user_content": {
         "title": "3.5. Nutzergenerierte Inhalte",
-        "photos": "Hochgeladene Fotos (Profilbilder, zusätzliche Fotos) and images shared in direct messages",
+        "photos": "Hochgeladene Fotos (Profilbilder, zusätzliche Fotos) und in Direktnachrichten geteilte Bilder",
         "reports": "Sicherheits- und Moderationsberichte",
         "cosmetics": "Kosmetische Präferenzen (Avatare, Abzeichen)"
       },
@@ -307,15 +307,15 @@
         "policy": "https://www.riotgames.com/en/privacy-notice"
       },
       "esp": {
-        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
-        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
-        "identity_label": "ESP identity, role, and location:",
-        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
-        "subprocessors_label": "Sub-processors:",
-        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
-        "transfer_label": "International transfer basis:",
-        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
-        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+        "title": "4.4. E-Mail-Serviceanbieter (Marketing- und Umfrage-Kommunikation)",
+        "intro": "Für den Versand der in §5.6 beschriebenen Marketing-, Re-Engagement- und Deinstallations-/Churn-Umfrage-E-Mails nutzt Jynx einen dritten E-Mail-Serviceanbieter (ESP), der als Auftragsverarbeiter agiert (DSGVO Art. 28; LGPD Art. 39 — operador). Der ESP verarbeitet deine E-Mail-Adresse und minimale Zustelldaten (z. B. Sende-/Bounce-Status) ausschließlich auf Grundlage der dokumentierten Weisungen von Jynx und unter einem unterzeichneten Auftragsverarbeitungsvertrag.",
+        "identity_label": "Identität, Rolle und Standort des ESP:",
+        "identity": "Brevo (Brevo SAS, Paris, Frankreich) — unser E-Mail-Serviceanbieter und Auftragsverarbeiter auf Grundlage eines unterzeichneten Auftragsverarbeitungsvertrags. Brevo-Datenschutzerklärung: https://www.brevo.com/legal/privacypolicy/",
+        "subprocessors_label": "Subauftragsverarbeiter:",
+        "subprocessors": "Brevos aktuelle Liste der Subauftragsverarbeiter ist in seinem Auftragsverarbeitungsvertrag (Nutzungsbedingungen) veröffentlicht: https://www.brevo.com/legal/termsofuse/",
+        "transfer_label": "Grundlage für internationale Übermittlungen:",
+        "transfer": "Siehe §9. Brevo hat seinen Hauptsitz in Frankreich (EU). Übermittlungen an Brevo profitieren daher vom EU-Schutzregime gemäß DSGVO und, für brasilianische Nutzer, vom ANPD-Angemessenheitsbeschluss für die EU (Resolution nº 32/2026) — keine SCCs oder zusätzlichen Mechanismen erforderlich.",
+        "no_sell": "Wir verkaufen deine personenbezogenen Daten nicht. Tracking-Pixel oder versteckte Analytics sind ohne eine separate, in §5.6 offengelegte Rechtsgrundlage nicht in Marketing-E-Mails eingebettet."
       },
       "livekit": {
         "title": "4.5. LiveKit Cloud (Echtzeit-Sprache)",
@@ -324,32 +324,32 @@
         "p3": "LiveKit speichert jedoch betriebliche Sitzungsmetadaten — etwa Teilnehmeridentitäten, Raumkennungen, Verbindungszeiten und Qualitätsmetriken — zu Abrechnungs-, Missbrauchspräventions- und Betriebszwecken gemäß seiner Datenverarbeitungs-Zusatzvereinbarung. Diese Metadaten werden nicht verwendet, um dich außerhalb der Plattform zu identifizieren oder für Werbung."
       },
       "child_safety": {
-        "title": "4.7. Specialized Child-Safety Technology Providers",
-        "p1": "To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9)."
+        "title": "4.7. Spezialisierte Anbieter von Kinderschutz-Technologie",
+        "p1": "Zur Unterstützung der Erkennung bekannten sexuellen Kindesmissbrauchsmaterials (siehe §5.8) arbeitet Jynx mit spezialisierten Anbietern von Kinderschutz-Technologie zusammen, die als Auftragsverarbeiter auftreten (DSGVO Art. 28; LGPD Art. 39 — operador). Diese Anbieter erhalten ausschließlich irreversible Hashes, die aus Bildern abgeleitet werden — niemals die Bilder selbst — und führen den Hash-Abgleich in der EU-Region durch, allein zur Kinderschutz-Erkennung auf Grundlage der dokumentierten Weisungen von Jynx. Die Ableitung des Hashs aus dem Bild erfolgt innerhalb der eigenen Google-Cloud-Infrastruktur von Jynx (siehe §9)."
       },
       "image_moderation": {
-        "title": "4.8. Cloud Image-Moderation Provider (AWS)",
-        "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
+        "title": "4.8. Cloud-Anbieter für Bildmoderation (AWS)",
+        "p1": "Um die Plattform sicher zu halten, werden Profilbilder und Galeriefotos von einem automatisierten Bildklassifizierungsdienst geprüft — Amazon Rekognition, bereitgestellt von Amazon Web Services (AWS), als Auftragsverarbeiter (DSGVO Art. 28; LGPD Art. 39 — operador). Zu diesem Zweck wird das Bild an AWS übertragen und per Machine Learning auf unangemessene Inhalte analysiert (zum Beispiel Nacktheit oder explizites Material); das Ergebnis ist ein maschinell erzeugtes Label mit Konfidenzwert, das in unserem Moderationsprozess verarbeitet wird (siehe die Child-Safety-Policy). Diese Verarbeitung dient ausschließlich der Inhaltsmoderation und Sicherheit — niemals der Profilbildung, Werbung oder einem anderen Zweck. AWS verarbeitet diese Daten in der für den Dienst konfigurierten AWS-Region (derzeit São Paulo, Brasilien); die Übermittlungsgarantien aus §9 gelten. Wie beim übrigen Dienst wird das Bild vor der Weiterleitung an AWS innerhalb der eigenen Google-Cloud-Infrastruktur von Jynx verarbeitet (siehe §9)."
       },
       "stores": {
-        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
-        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
-        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
-        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
-        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
-        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
+        "title": "4.6. App Store / Google Play (In-App-Käufe und Abonnements)",
+        "p1": "Jynx+-Abonnements und Founder Packs werden in der App über Apples App Store und Google Play verkauft, die als merchant of record für diese Käufe auftreten (siehe die Nutzungsbedingungen, Abschnitt 8). Zahlungsinstrumentdaten (z. B. Kartendaten) werden ausschließlich von Apple/Google unter deren jeweiligen Datenschutzrichtlinien erhoben und verarbeitet; Jynx erhebt, empfängt oder speichert keinerlei Zahlungsinstrumentdaten.",
+        "p2": "Über unseren Abrechnungsanbieter RevenueCat (einen Auftragsverarbeiter auf Grundlage eines unterzeichneten Auftragsverarbeitungsvertrags; DSGVO Art. 28; LGPD Art. 39 — operador) erhält Jynx nur die Informationen, die nötig sind, um zu liefern, was du gekauft hast: deinen Abo- und Berechtigungsstatus (z. B. ob Jynx+ aktiv ist und welches Verlängerungsdatum es hat), das gekaufte Founder-Pack-Level und Transaktionskennungen. Diese Daten werden so lange aufbewahrt, wie es zur Bereitstellung des Dienstes und zur Erfüllung von Buchhaltungs- und Dokumentationspflichten nötig ist (§6), und ausschließlich verwendet, um deine Berechtigungen zu gewähren und aufrechtzuerhalten sowie Betrug zu verhindern. RevenueCat ist in den Vereinigten Staaten ansässig; Übermittlungen personenbezogener Daten an RevenueCat stützen sich auf das EU-US Data Privacy Framework (für RevenueCat-Entitäten, die sich unter dem DPF zertifiziert haben) oder auf Standardvertragsklauseln, wo das DPF nicht anwendbar ist. Der anwendbare Übermittlungsmechanismus für Daten brasilianischer Nutzer wird in unserem Verarbeitungsverzeichnis bestätigt (siehe §9).",
+        "apple_label": "Apple-Datenschutzerklärung: https://www.apple.com/legal/privacy/",
+        "google_label": "Google-Datenschutzerklärung: https://policies.google.com/privacy",
+        "revenuecat_label": "RevenueCat-Datenschutzerklärung: https://www.revenuecat.com/privacy"
       },
       "meta": {
-        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
-        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
-        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.",
-        "p3": "<strong>Ad measurement.</strong> Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.",
-        "p4": "Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing."
+        "title": "4.9. Werbe-Attribution (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "Um zu messen, ob unsere App-Installationen aus Marketing resultieren, nutzen wir Werbe- und Attributions-Technologien, wo erforderlich an deine Einwilligung gebunden: das Meta-(Facebook-)App-Events-SDK (Meta Platforms Ireland) und die Google Play Install Referrer API. Auf Apple-Geräten wird das Meta-SDK erst initialisiert, nachdem du die App-Tracking-Transparenz-Berechtigung (ATT) erteilt hast; ohne diese Erteilung wird keine Werbe-Kennung (IDFA) erhoben und das SDK nicht initialisiert. Auf Android verrät uns die Google Play Install Referrer API, ob deine Installation aus einem Store-Eintrag oder einem Kampagnen-Link stammt, und die Werbe-Kennung (GAID) wird gemäß den Werbe-ID-Einstellungen deines Geräts verwendet. Die an Meta gesendeten Events beschränken sich auf App-Aktivierung und App-Event-Metadaten (einschließlich, sofern du angemeldet bist, deiner App-Nutzerkennung, die beim Logout aus dem SDK gelöscht wird), verarbeitet nach Weisung von Jynx für Attribution und Kampagnenmessung.",
+        "p2": "Meta Platforms Ireland verarbeitet diese Daten als unser Auftragsverarbeiter für den oben genannten Attributionszweck; Meta Platforms, Inc. kann zusätzlich als eigenständiger Verantwortlicher für seine eigenen legitimen Zwecke nach seinen eigenen Bedingungen handeln (Metas Datenverarbeitungsbedingungen und seine Datenschutzerklärung unter https://www.facebook.com/privacy/policy). Übermittlungen in die Vereinigten Staaten stützen sich auf das EU-US Data Privacy Framework für selbst zertifizierte Meta-Entitäten oder auf Standardvertragsklauseln (§9). Du kannst die ATT-Berechtigung ablehnen oder widerrufen oder deine Werbe-ID jederzeit in den Geräteeinstellungen zurücksetzen; eine Ablehnung beeinflusst deine Nutzung von Jynx nicht.",
+        "p3": "<strong>Werbemessung.</strong> Über die Installations-Attribution hinaus messen wir auch Conversions: Die mit Meta geteilten Events umfassen Registrierung (Sign-up), abgeschlossenes Onboarding und Käufe — mit Kaufbetrag und Währung. Wo du eingewilligt hast, kann zusätzlich eine gehashte (unumkehrbar verschlüsselte) E-Mail-Adresse oder Telefonnummer geteilt werden, um die Match-Qualität zu verbessern; bei Nutzern, die auf unser berechtigtes Interesse (unten) gemessen werden, passiert das nie. Das Registrierungs-Event kann außerdem dein selbst angegebenes Geschlecht enthalten. Nichts anderes wird geteilt — keine Nachrichten, Profilfelder, Spiele, Communities, Kontakte, Standortdaten oder Fotos — und deine Daten werden niemals verkauft. Die Rechtsgrundlagen, deine Wahlmöglichkeiten und die Apple-SKAdNetwork-Offenlegung sind in §5.9 beschrieben.",
+        "p4": "Aufbewahrung: Jynx behält keine separate Kopie der mit Meta geteilten Events. Bereits geteilte Events unterliegen den Aufbewahrungs- und Löschprozessen von Metas Business Tools, die ab dem Zeitpunkt des Teilens gelten."
       },
       "partner": {
-        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
-        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
-        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
+        "title": "4.10. Creator-(Partner-)Programm — KYC und Auszahlungen",
+        "p1": "Wenn du dem Jynx-Creator-(Partner-)Programm beitrittst, verarbeiten wir die Identitäts-, Steuer- und Auszahlungsinformationen, die das Programm verlangt: deinen CPF oder CNPJ (in der App validiert), die von dir gewählte Auszahlungsrail — PayPal (per E-Mail identifiziert), Wise-Banküberweisung (Brasilien) oder einen Pix-Schlüssel — und deine Kampagnen-Leistungsdaten (attribuierte Registrierungen; siehe §10 Empfehlungen). Auszahlungsdaten werden in pseudonymer Form geführt (§10). Das Programm unterliegt den versionierten Creator Referral Terms und dem Self-Billing Mandate, die du bei der Anmeldung akzeptierst (siehe die Nutzungsbedingungen §15).",
+        "p2": "Auszahlungen werden über die Zahlungsinstitution abgewickelt, die die von dir gewählte Rail betreibt: PayPal oder Wise erhalten die Überweisungsanweisungen und die Daten, die sie zur Prüfung deiner Identität, zur Betrugsprävention und zur Erfüllung ihrer regulatorischen Pflichten benötigen, und handeln nach ihren eigenen Bedingungen als unabhängige Zahlungsinstitutionen (ihre Datenschutzrichtlinien sind auf ihren Websites veröffentlicht); eine Pix-Auszahlung ist eine Überweisung, die Jynx Group an den von dir angegebenen Pix-Schlüssel veranlasst. Die anwendbaren internationalen Übermittlungsgarantien sind in §9 beschrieben."
       },
       "ai": {
         "title": "4.11. AI Features",
@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Sprachvorschlag",
+    "title": "Jynx auf {{localeName}}?",
+    "body": "Dein Browser ist auf {{localeName}} eingestellt. In dieser Sprache fortfahren?",
+    "accept": "Zu {{localeName}} wechseln",
+    "accept_aria": "Die Sprache der Website zu {{localeName}} wechseln",
+    "dismiss": "Nein, danke",
+    "dismiss_aria": "Sprachvorschlag ausblenden"
   }
 }

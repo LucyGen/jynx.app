@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Saran bahasa",
+    "title": "Jynx dalam {{localeName}}?",
+    "body": "Peramban Anda diatur ke {{localeName}}. Lanjutkan dalam bahasa tersebut?",
+    "accept": "Beralih ke {{localeName}}",
+    "accept_aria": "Ubah bahasa situs ke {{localeName}}",
+    "dismiss": "Tidak, terima kasih",
+    "dismiss_aria": "Tutup saran bahasa"
   }
 }

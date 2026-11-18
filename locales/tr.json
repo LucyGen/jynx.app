@@ -79,62 +79,62 @@
     },
     "cta": {
       "title": "Jynx Topluluğuna Katılın",
-      "description": "Find your perfect gaming squad — Jynx is available on iOS, Android, Windows and web. A Mac app is on the way."
+      "description": "Mükemmel oyun kadronuzu bulun — Jynx; iOS, Android, Windows ve web'de mevcut. Mac uygulaması yolda."
     }
   },
   "contact": {
     "meta": {
-      "title": "Contact Jynx: Support, Security and Privacy Email Channels",
-      "description": "Reach the Jynx team by email: support for account and app help, security to report a vulnerability, and our DPO for privacy requests. Discord and socials too.",
-      "og_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "og_description": "Email channels for the Jynx team: customer support, security reports, and privacy requests — no contact form.",
-      "og_image_alt": "Jynx Contact Page - Support, Security and Privacy Email Channels",
-      "twitter_title": "Contact Jynx - Support, Security and Data Protection Emails",
-      "twitter_description": "Reach the Jynx team by email: support, security, and privacy.",
-      "twitter_image_alt": "Contact Jynx"
+      "title": "Jynx ile İletişim: Destek, Güvenlik ve Gizlilik E-posta Kanalları",
+      "description": "Jynx ekibine e-postayla ulaşın: hesap ve uygulama yardımı için destek, güvenlik açığı bildirmek için güvenlik, gizlilik talepleri için Veri Koruma Görevlimiz. Discord ve sosyal medya da var.",
+      "og_title": "Jynx ile İletişim - Destek, Güvenlik ve Veri Koruma E-postaları",
+      "og_description": "Jynx ekibinin e-posta kanalları: müşteri desteği, güvenlik raporları ve gizlilik talepleri — iletişim formu yok.",
+      "og_image_alt": "Jynx İletişim Sayfası - Destek, Güvenlik ve Gizlilik E-posta Kanalları",
+      "twitter_title": "Jynx ile İletişim - Destek, Güvenlik ve Veri Koruma E-postaları",
+      "twitter_description": "Jynx ekibine e-postayla ulaşın: destek, güvenlik ve gizlilik.",
+      "twitter_image_alt": "Jynx ile İletişim"
     },
-    "title": "Contact Jynx",
-    "subtitle": "How to reach the team behind Jynx — email channels, community links, and company details.",
+    "title": "Jynx ile İletişim",
+    "subtitle": "Jynx'in ardındaki ekibe nasıl ulaşırsınız — e-posta kanalları, topluluk bağlantıları ve şirket bilgileri.",
     "intro": {
-      "title": "How to Reach Us",
-      "p1": "Jynx support runs on email channels — we do not use a contact form. Every address on this page lands in a mailbox watched by a real person, so your message goes straight to the team. Pick the channel that matches your request and include as much detail as you can.",
-      "response_note": "We read every message. Support replies usually land within a few business days; French and English both work."
+      "title": "Bize Nasıl Ulaşırsınız",
+      "p1": "Jynx desteği e-posta kanalları üzerinden çalışır — iletişim formu kullanmıyoruz. Bu sayfadaki her adres, gerçek bir kişinin izlediği bir posta kutusuna düşer; mesajınız doğrudan ekibe gider. İsteğinize uyan kanalı seçin ve olabildiğince ayrıntı ekleyin.",
+      "response_note": "Her mesajı okuyoruz. Destek yanıtları genellikle birkaç iş günü içinde gelir; Fransızca ve İngilizce ikisi de kullanılabilir."
     },
     "channels": {
-      "title": "Email Channels",
+      "title": "E-posta Kanalları",
       "support": {
-        "title": "Customer Support",
-        "desc": "The primary channel. Account access, bug reports, billing questions, feature requests, and anything else about the app: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
+        "title": "Müşteri Desteği",
+        "desc": "Birincil kanal. Hesap erişimi, hata raporları, faturalama soruları, özellik talepleri ve uygulamayla ilgili her şey: <a href=\"mailto:support@jynx.app\">support@jynx.app</a>"
       },
       "security": {
-        "title": "Security Reports",
-        "desc": "Suspected vulnerabilities and security issues only. Please read the disclosure policy first — it lists what is in scope and what to include in your report: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
-        "policy": "The full policy lives on the <a href=\"/security.html\">Security &amp; Vulnerability Disclosure Policy</a> page."
+        "title": "Güvenlik Raporları",
+        "desc": "Yalnızca şüpheli güvenlik açıkları ve güvenlik sorunları. Lütfen önce bildirim politikasını okuyun — kapsamda olanları ve raporunuza eklemeniz gerekenleri listeler: <a href=\"mailto:security@jynx.app\">security@jynx.app</a>",
+        "policy": "Tam politika, <a href=\"/security.html\">Güvenlik &amp; Güvenlik Açığı Bildirim Politikası</a> sayfasındadır."
       },
       "dpo": {
-        "title": "Privacy and Data Protection",
-        "desc": "Personal-data requests, privacy questions, and law-enforcement inquiries go to our Data Protection Officer: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
+        "title": "Gizlilik ve Veri Koruma",
+        "desc": "Kişisel veri talepleri, gizlilik soruları ve kolluk kuvvetleri soruşturmaları Veri Koruma Görevlimize gider: <a href=\"mailto:dpo@jynx.app\">dpo@jynx.app</a>"
       }
     },
     "community": {
-      "title": "Community and Social",
-      "desc": "For day-to-day conversation, the community is faster than email.",
-      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — team-and-support server: ask a question, talk to the Jynx team, or get help with the app.",
-      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — news, updates, and clips from the Jynx team.",
-      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — short videos, community highlights, and features.",
-      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — announcements and quick answers.",
-      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — the Jynx page: events and community posts."
+      "title": "Topluluk ve Sosyal",
+      "desc": "Günlük sohbet için topluluk, e-postadan daha hızlıdır.",
+      "discord_full": "<a href=\"https://discord.gg/8UQhtRUvD5\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a> — takım ve destek sunucusu: soru sorun, Jynx ekibiyle konuşun veya uygulama için yardım alın.",
+      "instagram_full": "<a href=\"https://www.instagram.com/jynx_app/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a> — Jynx ekibinden haberler, güncellemeler ve klipler.",
+      "tiktok_full": "<a href=\"https://www.tiktok.com/@jynx.app\" target=\"_blank\" rel=\"noopener noreferrer\">TikTok</a> — kısa videolar, topluluk öne çıkanları ve özellikler.",
+      "twitter_full": "<a href=\"https://twitter.com/Jynx_App\" target=\"_blank\" rel=\"noopener noreferrer\">X (Twitter)</a> — duyurular ve hızlı yanıtlar.",
+      "facebook_full": "<a href=\"https://www.facebook.com/profile.php?id=61574940715594\" target=\"_blank\" rel=\"noopener noreferrer\">Facebook</a> — Jynx sayfası: etkinlikler ve topluluk gönderileri."
     },
     "company": {
-      "title": "Company Information",
-      "legal_name_label": "Legal entity:",
+      "title": "Şirket Bilgileri",
+      "legal_name_label": "Yasal varlık:",
       "legal_name": "Jynx Group",
-      "siren_label": "Company registration (SIREN):",
+      "siren_label": "Şirket kaydı (SIREN):",
       "siren": "991443896",
-      "office_label": "Registered office:",
+      "office_label": "Kayıtlı ofis:",
       "office_city": "Nantes",
-      "office_country": "France",
-      "legal_note": "The full legal notices — registered address, legal form, and trade-registry details — are in <a href=\"/terms.html\">Section 13 of the Terms of Service</a>."
+      "office_country": "Fransa",
+      "legal_note": "Tam yasal bilgilendirmeler — kayıtlı adres, yasal form ve ticaret sicili ayrıntıları — <a href=\"/terms.html\">Hizmet Şartları'nın 13. Bölümü</a> içinde yer alır."
     }
   },
   "privacy": {
@@ -149,8 +149,8 @@
       "twitter_image_alt": "Gizlilik Politikası"
     },
     "title": "Gizlilik Politikası",
-    "last_updated": "Son güncelleme: Kasım 2026",
-    "version": "Versiyon: 1.0",
+    "last_updated": "Son güncelleme: 17 Kasım 2026",
+    "version": "Versiyon: 1.1",
     "intro": {
       "title": "1. Giriş",
       "p1": "Jynx (\"biz\", \"bizim\", \"uygulama\"), oyuncuların bağlanmasına, takım kurmasına ve birlikte oynamasına olanak tanıyan sosyal bir oyun platformudur.",
@@ -160,19 +160,19 @@
       "dpo_label": "Gizlilik Sorumlusu İletişim:",
       "dpo": "dpo@jynx.app",
       "p2": "Bu gizlilik politikası, uygulamamızı kullandığınızda kişisel verilerinizi nasıl topladığımızı, kullandığımızı, paylaştığımızı ve koruduğumuzu açıklar.",
-      "jurisdiction_eu_label": "EU / EEA jurisdiction:",
-      "jurisdiction_eu": "France, European Union — this Privacy Policy complies with Regulation (EU) 2016/679 (GDPR) and Directive 2002/58/EC (ePrivacy), as transposed in France.",
-      "jurisdiction_brazil_label": "Brazilian jurisdiction:",
-      "jurisdiction_brazil": "This Privacy Policy also complies with Brazilian Law nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\"), which applies to Jynx's processing of personal data of data subjects located in Brazil under Art. 3 of the LGPD, regardless of Jynx having no establishment in Brazil.",
-      "controller": "For the purposes of the LGPD, Jynx Group is the controller (controlador) of your personal data. Our Data Protection Officer acts as the encarregado (DPO) and may be reached at dpo@jynx.app for any request relating to the LGPD. Although Jynx qualifies as a pequeno agente de tratamento de dados pessoais (small-scale agent) under ANPD Resolution CD/ANPD nº 2/2022, which exempts Jynx from the obligatory appointment of an encarregado, Jynx voluntarily maintains this published communication channel.",
-      "publication_label": "Publication (LCEN):",
-      "publication": "Directeur de la publication: Antoine Haie. This website (jynx.app) is hosted by GitHub Pages and delivered through the Cloudflare content-delivery network."
+      "jurisdiction_eu_label": "AB / AEA yargı bölgesi:",
+      "jurisdiction_eu": "Fransa, Avrupa Birliği — bu Gizlilik Politikası, Fransa'da iç hukuka aktarılmış haliyle Regulation (EU) 2016/679 (GDPR) ve Directive 2002/58/EC (ePrivacy) ile uyumludur.",
+      "jurisdiction_brazil_label": "Brezilya yargı bölgesi:",
+      "jurisdiction_brazil": "Bu Gizlilik Politikası ayrıca, Jynx'in Brezilya'da yerleşik olmamasına bakılmaksızın LGPD'nin 3. maddesi uyarınca Brezilya'da bulunan ilgili kişilerin kişisel verilerinin Jynx tarafından işlenmesine uygulanan Brezilya Kanunu nº 13.709/2018 (Lei Geral de Proteção de Dados, \"LGPD\") ile de uyumludur.",
+      "controller": "LGPD amaçları doğrultusunda Jynx Group, kişisel verilerinizin sorumlusudur (controlador). Veri Koruma Görevlimiz encarregado (DPO) olarak görev yapar ve LGPD ile ilgili her talep için dpo@jynx.app adresinden ulaşılabilir. Jynx, ANPD Resolution CD/ANPD nº 2/2022 uyarınca küçük ölçekli kişisel veri işleme aktörü (pequeno agente de tratamento de dados pessoais) kapsamına girmekte ve bu kapsamda encarregado ataması zorunluluğundan muaf olmaktadır; buna rağmen Jynx, bu yayınlanmış iletişim kanalını gönüllü olarak sürdürmektedir.",
+      "publication_label": "Yayın (LCEN):",
+      "publication": "Yayın direktörü (Directeur de la publication): Antoine Haie. Bu web sitesi (jynx.app), GitHub Pages tarafından barındırılır ve Cloudflare içerik dağıtım ağı üzerinden sunulur."
     },
     "age_verification": {
       "title": "2. Minimum Yaş ve Doğrulama",
       "p1": "Uygulamamız 18 yaş ve üzeri kullanıcılar içindir.",
       "p2": "Hesabınızı oluştururken, doğum tarihinizi sağlamanızı istiyoruz. 18 yaşın altındaysanız, hesap oluşturamaz veya hizmetlerimizi kullanamazsınız.",
-      "minors": "Marketing to minors. Jynx is restricted to users aged 18 and over and applies an automated age gate. If we subsequently identify that a user is under 18 (LGPD Art. 14; GDPR Art. 8), we will immediately terminate the account, exclude the user from all marketing, re-engagement, and survey communications, and delete the associated marketing data. We never knowingly collect marketing consent from a minor."
+      "minors": "Reşit olmayanlara pazarlama. Jynx, 18 yaş ve üzeri kullanıcılarla sınırlıdır ve otomatik bir yaş kapısı uygular. Bir kullanıcının 18 yaşın altında olduğunu sonradan tespit edersek (LGPD Mad. 14; GDPR Mad. 8), hesabı derhal sonlandırır, kullanıcıyı tüm pazarlama, yeniden etkileşim ve anket iletişimlerinin dışında tutar ve ilgili pazarlama verilerini sileriz. Reşit olmayan birinden asla bilerek pazarlama onayı toplmayız."
     },
     "data_collected": {
       "title": "3. Toplanan Veriler",
@@ -185,9 +185,9 @@
         "email": "E-posta (e-posta/şifre hesapları için)",
         "username": "Kullanıcı adı/takma ad",
         "photo": "Profil fotoğrafı (isteğe bağlı)",
-        "social": "Social login identifiers (Google, Apple) if you use these methods",
-        "guest": "Guest browsing (when available): you may explore the public parts of Jynx without creating an account; in guest mode we process only a locally-stored guest identifier and the technical data in §3.3 needed to serve the app — no profile is created and no account data is retained. To match, chat, or join communities you must create an account",
-        "discord": "Discord identifiers (your Discord user ID) if you choose to connect your Discord account for the Discord integration — the connection uses Discord's identify-only OAuth and is not a sign-in method; you can disconnect it at any time"
+        "social": "Bu yöntemleri kullanırsanız sosyal giriş tanımlayıcıları (Google, Apple)",
+        "guest": "Misafir gezinme (mevcut olduğunda): Jynx'in herkese açık bölümlerini hesap oluşturmadan keşfedebilirsiniz; misafir modunda yalnızca yerel olarak saklanan bir misafir tanımlayıcısını ve uygulamayı sunmak için gereken §3.3'teki teknik verileri işleriz — profil oluşturulmaz ve hesap verisi saklanmaz. Eşleşmek, sohbet etmek veya topluluklara katılmak için hesap oluşturmanız gerekir",
+        "discord": "Discord entegrasyonu için Discord hesabınızı bağlamayı seçerseniz Discord tanımlayıcıları (Discord kullanıcı kimliğiniz) — bağlantı, Discord'un yalnızca kimlik (identify) amaçlı OAuth'unu kullanır ve bir giriş yöntemi değildir; dilediğiniz zaman bağlantıyı kaldırabilirsiniz"
       },
       "profile": {
         "title": "Profil Bilgileri:",
@@ -232,7 +232,7 @@
         "crashlytics_label": "Firebase Crashlytics:",
         "crashlytics": "Çökme raporları",
         "disable": "Ayarlar > Gizlilik > \"Analitikleri Etkinleştir\" bölümünden analitik veri toplamayı devre dışı bırakabilirsiniz.",
-        "ad_measurement": "Advertising measurement with Meta is separate from analytics and has its own switch: see §5.9."
+        "ad_measurement": "Meta ile reklam ölçümü, analitikten ayrıdır ve kendi anahtarına sahiptir: bkz. §5.9."
       },
       "device": {
         "title": "Cihaz Bilgileri:",
@@ -256,7 +256,7 @@
       },
       "user_content": {
         "title": "3.5. Kullanıcı Tarafından Oluşturulan İçerik",
-        "photos": "Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar) and images shared in direct messages",
+        "photos": "Yüklenen fotoğraflar (profil resimleri, ek fotoğraflar) ve doğrudan mesajlarda paylaşılan görseller",
         "reports": "Güvenlik ve moderasyon raporları",
         "cosmetics": "Kozmetik tercihleri (avatarlar, rozetler)"
       },
@@ -307,15 +307,15 @@
         "policy": "https://www.riotgames.com/tr/privacy-notice"
       },
       "esp": {
-        "title": "4.4. Email Service Provider (Marketing & Survey Communications)",
-        "intro": "To deliver the marketing, re-engagement, and uninstall/churn-survey emails described in §5.6, Jynx uses a third-party email service provider (ESP) acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). The ESP processes your email address and minimal delivery data (e.g., send/bounce status) solely on Jynx's documented instructions, under a signed Data Processing Agreement.",
-        "identity_label": "ESP identity, role, and location:",
-        "identity": "Brevo (Brevo SAS, Paris, France) — our Email Service Provider and data processor under a signed Data Processing Agreement. Brevo Privacy Policy: https://www.brevo.com/legal/privacypolicy/",
-        "subprocessors_label": "Sub-processors:",
-        "subprocessors": "Brevo's current list of sub-processors is published in its Data Processing Agreement (Terms of Use): https://www.brevo.com/legal/termsofuse/",
-        "transfer_label": "International transfer basis:",
-        "transfer": "See §9. Brevo is headquartered in France (EU). Transfers to Brevo therefore benefit from the EU's protection regime under GDPR and, for Brazilian users, the ANPD adequacy decision for the EU (Resolution nº 32/2026) — no SCCs or additional mechanism are required.",
-        "no_sell": "We do not sell your personal data. No tracking pixels or hidden analytics are embedded in marketing emails without a separate legal basis disclosed in §5.6."
+        "title": "4.4. E-posta Servis Sağlayıcısı (Pazarlama ve Anket İletişimleri)",
+        "intro": "§5.6'da açıklanan pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postalarını iletmek için Jynx, veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden üçüncü taraf bir e-posta servis sağlayıcısı (ESP) kullanır. ESP; e-posta adresinizi ve minimum teslimat verinizi (örn. gönderim/geri dönme durumu) yalnızca Jynx'in belgelenmiş talimatları doğrultusunda ve imzalı bir Veri İşleme Sözleşmesi kapsamında işler.",
+        "identity_label": "ESP kimliği, rolü ve konumu:",
+        "identity": "Brevo (Brevo SAS, Paris, Fransa) — imzalı bir Veri İşleme Sözleşmesi kapsamında e-posta servis sağlayıcımız ve veri işleyicimiz. Brevo Gizlilik Politikası: https://www.brevo.com/legal/privacypolicy/",
+        "subprocessors_label": "Alt işleyiciler:",
+        "subprocessors": "Brevo'nun güncel alt işleyici listesi, Veri İşleme Sözleşmesi'nde (Kullanım Koşulları) yayımlanır: https://www.brevo.com/legal/termsofuse/",
+        "transfer_label": "Uluslararası aktarım dayanağı:",
+        "transfer": "Bkz. §9. Brevo'nun merkezi Fransa'dadır (AB). Brevo'ya yapılan aktarımlar bu nedenle GDPR kapsamındaki AB koruma rejiminden ve Brezilyalı kullanıcılar için AB'ye ilişkin ANPD yeterlilik karından (Resolution nº 32/2026) yararlanır — SCC'lere veya ek bir mekanizmaya gerek yoktur.",
+        "no_sell": "Kişisel verilerinizi satmıyoruz. §5.6'da açıklanan ayrı bir yasal dayanak olmaksızın pazarlama e-postalarına izleme pikselleri veya gizli analitikler gömülmez."
       },
       "livekit": {
         "title": "4.5. LiveKit Cloud (Gerçek Zamanlı Ses)",
@@ -324,43 +324,43 @@
         "p3": "LiveKit, faturalandırma, kötüye kullanımın önlenmesi ve operasyonel amaçlarla, Veri İşleme Ek Sözleşmesi uyarınca katılımcı kimlikleri, oda tanımlayıcıları, bağlantı zamanları ve kalite metrikleri gibi operasyonel oturum meta verilerini saklar. Bu meta veriler, sizi platform dışında tanımlamak veya reklam amacıyla kullanılmaz."
       },
       "child_safety": {
-        "title": "4.7. Specialized Child-Safety Technology Providers",
-        "p1": "To help detect known child sexual abuse material (see §5.8), Jynx works with specialized child-safety technology providers acting as processors (GDPR Art. 28; LGPD Art. 39 — operador). These providers receive only irreversible hashes derived from images — never the images themselves — and perform the hash matching in the EU region, solely for child-safety detection on Jynx's documented instructions. Deriving the hash from the image happens inside Jynx's own Google Cloud infrastructure (see §9)."
+        "title": "4.7. Özel Çocuk Güvenliği Teknolojisi Sağlayıcıları",
+        "p1": "Bilinen çocuk cinsel istismarı materyalini tespit etmeye yardımcı olmak için (bkz. §5.8), Jynx veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden özel çocuk güvenliği teknolojisi sağlayıcılarıyla çalışır. Bu sağlayıcılar yalnızca görsellerden türetilen geri döndürülemez hash'leri alır — görsellerin kendisini asla — ve hash eşleştirmesini AB bölgesinde, yalnızca çocuk güvenliği tespiti amacıyla ve Jynx'in belgelenmiş talimatları doğrultusunda yapar. Hash'in görselden türetilmesi, Jynx'in kendi Google Cloud altyapısı içinde gerçekleşir (bkz. §9)."
       },
       "image_moderation": {
-        "title": "4.8. Cloud Image-Moderation Provider (AWS)",
-        "p1": "To keep the platform safe, profile pictures and gallery photos are screened by an automated image-classification service — Amazon Rekognition, provided by Amazon Web Services (AWS), acting as a processor (GDPR Art. 28; LGPD Art. 39 — operador). For this purpose the image is transmitted to AWS and analyzed by machine learning for inappropriate content (for example nudity or explicit material); the outcome is a machine-generated label and confidence score handled under our moderation process (see the Child Safety Policy). This processing is used solely for content moderation and safety — never for profiling, advertising, or any other purpose. AWS processes this data in the AWS region configured for the service (currently São Paulo, Brazil); the transfer safeguards in §9 apply. As with the rest of the Service, the image is handled by Jynx's own Google Cloud infrastructure before being relayed to AWS (see §9)."
+        "title": "4.8. Bulut Görsel Moderasyon Sağlayıcısı (AWS)",
+        "p1": "Platformu güvenli tutmak için profil resimleri ve galeri fotoğrafları, otomatik bir görsel sınıflandırma servisiyle taranır — Amazon Web Services (AWS) tarafından sağlanan ve veri işleyici (GDPR Mad. 28; LGPD Mad. 39 — operador) olarak hareket eden Amazon Rekognition. Bu amaçla görsel AWS'ye iletilir ve uygunsuz içerik (örneğin çıplaklık veya açık materyal) açısından makine öğrenmesiyle analiz edilir; sonuç, moderasyon sürecimizde ele alınan makine tarafından üretilmiş bir etiket ve güven puanıdır (Çocuk Güvenliği Politikası'na bakın). Bu işleme yalnızca içerik moderasyonu ve güvenlik için kullanılır — asla profil çıkarma, reklamcılık veya başka bir amaç için değil. AWS bu veriyi servis için yapılandırılmış AWS bölgesinde (şu anda São Paulo, Brezilya) işler; §9'daki aktarım güvenceleri geçerlidir. Hizmetin geri kalanında olduğu gibi, görsel AWS'ye aktarılmadan önce Jynx'in kendi Google Cloud altyapısı tarafından işlenir (bkz. §9)."
       },
       "stores": {
-        "title": "4.6. App Store / Google Play (In-App Purchases and Subscriptions)",
-        "p1": "Jynx+ subscriptions and Founder Packs are sold in-app through Apple's App Store and Google Play, which act as the merchant of record for these purchases (see the Terms of Service, Section 8). Payment instrument data (e.g., card details) is collected and processed solely by Apple/Google under their respective privacy policies; Jynx does not collect, receive, or store any payment instrument data.",
-        "p2": "Via our billing provider RevenueCat (a processor acting under a signed Data Processing Agreement; GDPR Art. 28; LGPD Art. 39 — operador), Jynx receives only the information necessary to deliver what you purchased: your subscription and entitlement status (e.g., whether Jynx+ is active and its renewal date), the Founder Pack tier purchased, and transaction identifiers. This data is retained for as long as necessary to provide the Service and to meet accounting and record-keeping obligations (§6), and is used solely to grant and maintain your entitlements and to prevent fraud. RevenueCat is established in the United States; transfers of personal data to RevenueCat rely on the EU-US Data Privacy Framework (for RevenueCat entities self-certified under the DPF) or on standard contractual clauses where the DPF does not apply. The applicable transfer mechanism for Brazilian users' data is confirmed in our Records of Processing Activities (see §9).",
-        "apple_label": "Apple Privacy Policy: https://www.apple.com/legal/privacy/",
-        "google_label": "Google Privacy Policy: https://policies.google.com/privacy",
-        "revenuecat_label": "RevenueCat Privacy Policy: https://www.revenuecat.com/privacy"
+        "title": "4.6. App Store / Google Play (Uygulama İçi Satın Almalar ve Abonelikler)",
+        "p1": "Jynx+ abonelikleri ve Kurucu Paketleri, bu satın almalar için ticari kayıt sahibi (merchant of record) olarak hareket eden Apple'ın App Store'u ve Google Play üzerinden uygulama içinde satılır (Hizmet Şartları, Bölüm 8'e bakın). Ödeme aracı verileri (örn. kart bilgileri) yalnızca Apple/Google tarafından kendi gizlilik politikaları uyarınca toplanır ve işlenir; Jynx hiçbir ödeme aracı verisi toplamaz, almaz veya saklamaz.",
+        "p2": "Faturalandırma sağlayıcımız RevenueCat aracılığıyla (imzalı bir Veri İşleme Sözleşmesi kapsamında hareket eden bir veri işleyici; GDPR Mad. 28; LGPD Mad. 39 — operador), Jynx yalnızca satın aldığınızı teslim etmek için gereken bilgileri alır: abonelik ve hak durumunuz (örn. Jynx+'ın aktif olup olmadığı ve yenileme tarihi), satın alınan Kurucu Paketi kademesi ve işlem tanımlayıcıları. Bu veri, Hizmeti sağlamak ve muhasebe ile kayıt tutma yükümlülüklerini karşılamak için gerekli olduğu sürece saklanır (§6) ve yalnızca haklarınızı tanımak ve sürdürmek ile dolandırıcılığı önlemek için kullanılır. RevenueCat Amerika Birleşik Devletleri'nde kuruludur; RevenueCat'a yapılan kişisel veri aktarımları, AB-ABD Veri Gizliliği Çerçevesine (DPF kapsamında self-sertifikasyon yapan RevenueCat varlıkları için) veya DPF'nin uygulanmadığı durumlarda standart sözleşme maddelerine dayanır. Brezilyalı kullanıcıların verisi için geçerli aktarım mekanizması, İşleme Faaliyetleri Kayıtlarımızda teyit edilir (bkz. §9).",
+        "apple_label": "Apple Gizlilik Politikası: https://www.apple.com/legal/privacy/",
+        "google_label": "Google Gizlilik Politikası: https://policies.google.com/privacy",
+        "revenuecat_label": "RevenueCat Gizlilik Politikası: https://www.revenuecat.com/privacy"
       },
       "meta": {
-        "title": "4.9. Advertising Attribution (Meta, Apple ATT, Google Play Install Referrer)",
-        "p1": "To measure whether our app installs result from marketing, we use advertising- and attribution technologies, subject to your consent where required: the Meta (Facebook) App Events SDK (Meta Platforms Ireland) and the Google Play Install Referrer API. On Apple devices the Meta SDK is initialized only after you grant App Tracking Transparency (ATT) permission; without that grant no advertising identifier (IDFA) is collected and the SDK is not initialized. On Android, the Google Play Install Referrer API tells us whether your install originated from a store listing or campaign link, and the advertising identifier (GAID) is used in accordance with your device's advertising-ID settings. The events sent to Meta are limited to app activation and app-event metadata (including, where you are signed in, your app user identifier, which is cleared from the SDK when you log out), processed on Jynx's instructions for attribution and campaign measurement.",
-        "p2": "Meta Platforms Ireland processes this data as our processor for the attribution purpose above; Meta Platforms, Inc. may additionally act as an independent controller for its own legitimate purposes under its own terms (Meta's Data Processing Terms and its privacy policy at https://www.facebook.com/privacy/policy). Transfers to the United States rely on the EU-US Data Privacy Framework for self-certified Meta entities or on standard contractual clauses (§9). You can refuse or revoke ATT permission or reset your advertising ID at any time in your device settings; refusal does not affect your use of Jynx.",
-        "p3": "<strong>Ad measurement.</strong> Beyond install attribution, we also measure conversions: the events shared with Meta include sign-up (registration), onboarding completed, and purchases — with the purchase amount and currency. Where you have consented, a hashed (irreversibly scrambled) email address or phone number may also be shared to improve match quality; this never happens for users measured on our legitimate interest (below). The sign-up (registration) event may also include your self-declared gender. Nothing else is shared — no messages, profile fields, games, communities, contacts, location or photos — and your data is never sold. The legal bases, your choices, and the Apple SKAdNetwork disclosure are described in §5.9.",
-        "p4": "Retention: Jynx keeps no separate copy of the events shared with Meta. Events already shared remain subject to Meta's Business Tools retention and deletion processes, which apply from the moment of sharing."
+        "title": "4.9. Reklam Atfı (Meta, Apple ATT, Google Play Install Referrer)",
+        "p1": "Uygulama yüklemelerimizin pazarlamadan kaynaklanıp kaynaklanmadığını ölçmek için, gerektiğinde onayınıza tabi olarak reklam ve atıf teknolojileri kullanırız: Meta (Facebook) App Events SDK (Meta Platforms Ireland) ve Google Play Install Referrer API. Apple cihazlarda Meta SDK, yalnızca App Tracking Transparency (ATT) iznini verdikten sonra başlatılır; bu izin verilmeden hiçbir reklam tanımlayıcısı (IDFA) toplanmaz ve SDK başlatılmaz. Android'de Google Play Install Referrer API, yüklemenizin bir mağaza listelemesinden mi yoksa kampanya bağlantısından mı kaynaklandığını bildirir ve reklam tanımlayıcısı (GAID), cihazınızın reklam kimliği ayarlarına uygun şekilde kullanılır. Meta'ya gönderilen etkinlikler; uygulama etkinleştirme ve uygulama etkinliği meta verileriyle sınırlıdır (oturum açtıysanız uygulama kullanıcı tanımlayıcınız dâhildir; oturumu kapattığınızda SDK'dan silinir) ve atıf ile kampanya ölçümü amacıyla Jynx'in talimatları doğrultusunda işlenir.",
+        "p2": "Meta Platforms Ireland bu veriyi, yukarıdaki atıf amacı için veri işleyicimiz olarak işler; Meta Platforms, Inc. ayrıca kendi koşulları altında kendi meşru amaçları için bağımsız veri sorumlusu olarak da hareket edebilir (Meta'nın Veri İşleme Koşulları ve https://www.facebook.com/privacy/policy adresindeki gizlilik politikası). Amerika Birleşik Devletleri'ne yapılan aktarımlar, self-sertifikasyon yapan Meta varlıkları için AB-ABD Veri Gizliliği Çerçevesine veya standart sözleşme maddelerine dayanır (§9). ATT iznini reddedebilir veya geri alabilir ya da reklam kimliğinizi cihaz ayarlarından dilediğiniz zaman sıfırlayabilirsiniz; reddetmek, Jynx kullanımınızı etkilemez.",
+        "p3": "<strong>Reklam ölçümü.</strong> Yükleme atfının ötesinde dönüşümleri de ölçeriz: Meta ile paylaşılan etkinlikler; kayıt olma (registration), onboarding tamamlama ve satın almaları — satın alma tutarı ve para birimiyle birlikte — içerir. Onay verdiyseniz, eşleşme kalitesini artırmak için karmalanmış (geri döndürülemez şekilde karıştırılmış) bir e-posta adresi veya telefon numarası da paylaşılabilir; bu, meşru çıkar dayanağıyla (aşağıda) ölçülen kullanıcılar için asla gerçekleşmez. Kayıt olma etkinliği, beyan ettiğiniz cinsiyeti de içerebilir. Başka hiçbir şey paylaşılmaz — mesaj yok, profil alanları yok, oyunlar yok, topluluklar yok, kişiler yok, konum veya fotoğraflar yok — ve veriniz asla satılmaz. Yasal dayanaklar, seçenekleriniz ve Apple SKAdNetwork açıklaması §5.9'da açıklanmıştır.",
+        "p4": "Saklama: Jynx, Meta ile paylaşılan etkinliklerin ayrı bir kopyasını tutmaz. Zaten paylaşılmış etkinlikler, paylaşım anından itibaren uygulanan Meta'nın Business Tools saklama ve silme süreçlerine tabidir."
       },
       "partner": {
-        "title": "4.10. Creator (Partner) Program — KYC and Payouts",
-        "p1": "If you join the Jynx Creator (partner) program, we process the identity, tax, and payout information the program requires: your CPF or CNPJ (validated in-app), the payout rail you choose — PayPal (identified by email), Wise bank transfer (Brazil), or a Pix key — and your campaign performance records (attributed sign-ups; see §10 referrals). Payout records are kept in pseudonymous form (§10). The program is governed by the versioned Creator Referral Terms and Self-Billing Mandate you accept at enrollment (see the Terms of Service §15).",
-        "p2": "Payouts are executed through the payment institution operating the rail you chose: PayPal or Wise receive the transfer instructions and the data they need to verify your identity, prevent fraud, and meet their regulatory obligations, acting under their own terms as independent payment institutions (their privacy policies are published on their websites); a Pix payout is a transfer initiated by Jynx Group to the Pix key you provided. The applicable international-transfer safeguards are described in §9."
+        "title": "4.10. İçerik Üretici (Ortak) Programı — KYC ve Ödemeler",
+        "p1": "Jynx İçerik Üretici (ortak) programına katılırsanız, programın gerektirdiği kimlik, vergi ve ödeme bilgilerini işleriz: CPF veya CNPJ'niz (uygulama içinde doğrulanır), seçtiğiniz ödeme kanalı — PayPal (e-posta ile tanımlanır), Wise banka transferi (Brezilya) veya bir Pix anahtarı — ve kampanya performans kayıtlarınız (atıflı kayıt olmalar; bkz. §10 yönlendirmeler). Ödeme kayıtları takma adlı (pseudonymous) biçimde tutulur (§10). Program, kayıt olurken kabul ettiğiniz sürümlü İçerik Üretici Yönlendirme Koşulları ve Kendi Adına Fatura Yetkisi (Self-Billing Mandate) ile yönetilir (Hizmet Şartları §15'e bakın).",
+        "p2": "Ödemeler, seçtiğiniz kanalı işleten ödeme kurumu aracılığıyla yürütülür: PayPal veya Wise; kimliğinizi doğrulamak, dolandırıcılığı önlemek ve düzenleyici yükümlülüklerini karşılamak için ihtiyaç duydukları transfer talimatlarını ve verileri alır ve kendi koşulları altında bağımsız ödeme kurumları olarak hareket eder (gizlilik politikaları web sitelerinde yayımlanır); Pix ödemesi, Jynx Group'un sağladığınız Pix anahtarına başlattığı bir transferdir. Geçerli uluslararası aktarım güvenceleri §9'da açıklanmıştır."
       },
       "ai": {
-        "title": "4.11. AI Features",
-        "p1": "<strong>Avatar generation.</strong> The avatar quiz can generate stylized avatar proposals for your profile. Generation currently runs on Cloudflare Workers AI (Cloudflare, Inc., processor) on Jynx's documented instructions; if the underlying engine changes, this section will be updated before or with the change. The inputs are your quiz answers and play-style preferences — never your photos — together with your user identifier; proposals are returned to the app as PNG or WebP images and are retained for up to 30 days so you can retrieve them, after which they are deleted. Generated images are synthetic — they are not photographs of you — and are subject to the same moderation as other images (§4.8).",
-        "p2": "<strong>Companion messages (Quimera).</strong> Some companion-app messages are composed or enriched by a generative AI system (Google Gemini, processor). Where a message is AI-generated, it is labeled as such; you are always informed when you are interacting with an AI-generated element, in accordance with EU AI Act Art. 50(1)."
+        "title": "4.11. Yapay Zekâ Özellikleri",
+        "p1": "<strong>Avatar üretimi.</strong> Avatar anketi, profiliniz için stilize avatar önerileri üretebilir. Üretim şu anda Cloudflare Workers AI (Cloudflare, Inc., veri işleyici) üzerinde, Jynx'in belgelenmiş talimatları doğrultusunda çalışır; temeldeki motor değişirse bu bölüm, değişiklikle birlikte veya öncesinde güncellenecektir. Girdiler; ankete verdiğiniz yanıtlar ve oyun tarzı tercihlerinizdir — asla fotoğraflarınız değil — birlikte kullanıcı tanımlayıcınız da kullanılır; öneriler uygulamaya PNG veya WebP görselleri olarak döndürülür ve geri alabilmeniz için 30 güne kadar saklanır, ardından silinir. Üretilen görseller sentetiktir — sizin fotoğraflarınız değildir — ve diğer görsellerle aynı moderasyona tabidir (§4.8).",
+        "p2": "<strong>Yardımcı mesajlar (Quimera).</strong> Bazı yardımcı uygulama mesajları, üretken bir yapay zekâ sistemi (Google Gemini, veri işleyici) tarafından oluşturulur veya zenginleştirilir. Bir mesaj yapay zekâ tarafından üretilmişse bu şekilde etiketlenir; yapay zekâ tarafından üretilmiş bir ögeyle etkileşimde olduğunuzda daima bilgilendirilirsiniz — AB Yapay Zekâ Yasası Mad. 50(1)'e uygun olarak."
       }
     },
     "data_usage": {
       "title": "5. Veri Kullanımı",
       "intro": "Verilerinizi şu amaçlarla kullanırız:",
-      "aggregate_publication": "We may publish anonymized, aggregated statistics derived from app usage (for example, how players form duos). These statistics never identify individual users.",
+      "aggregate_publication": "Uygulama kullanımından türetilmiş, anonimleştirilmiş ve toplulaştırılmış istatistikler yayımlayabiliriz (örneğin, oyuncuların nasıl duo kurduğu). Bu istatistikler asla bireysel kullanıcıları tanımlamaz.",
       "services": {
         "title": "1. Hizmetlerimizi Sağlamak:",
         "account": "Hesabınızı oluşturmak ve yönetmek",
@@ -373,16 +373,16 @@
         "content": "İlgili içeriği göstermek"
       },
       "communication": {
-        "title": "3. İletişim:",
-        "notifications": "Size önemli bildirimler göndermek (eşleşmeler bulundu, mesajlar alındı)",
-        "note": "Marketing, re-engagement, and uninstall/churn-survey emails are described separately in §5.6 Marketing Communications and are not covered by this transactional category."
+        "title": "3. İletişim (operasyonel / işlemsel):",
+        "notifications": "Size önemli hizmet bildirimleri göndermek (bulunan eşleşmeler, alınan mesajlar, hesap güvenliği uyarıları ve §11 kapsamındaki politika değişikliği duyuruları)",
+        "note": "Pazarlama, yeniden etkileşim ve kaldırma/kayıp anketi e-postaları ayrıca §5.6 Pazarlama İletişimleri altında açıklanır ve bu işlemsel kategori kapsamında değildir."
       },
       "improvement": {
         "title": "4. Hizmet İyileştirme:",
         "analyze": "Özellikleri iyileştirmek için kullanımı analiz etmek",
         "bugs": "Hataları tanımlamak ve düzeltmek",
         "performance": "Performansı optimize etmek",
-        "ai": "Generate avatar proposals and companion-message drafts using AI processors (§4.11)"
+        "ai": "Yapay zekâ işleyicileriyle avatar önerileri ve yardımcı mesaj taslakları üretmek (§4.11)"
       },
       "security": {
         "title": "5. Güvenlik ve Uyumluluk:",
@@ -391,53 +391,53 @@
         "legal": "Yasal yükümlülüklerimize uymak"
       },
       "marketing": {
-        "title": "5.6. Marketing Communications",
-        "intro": "In addition to the operational notifications described in §5.3, we may send you marketing and re-engagement communications by email, including: product updates and feature announcements about the Jynx app; newsletters; re-engagement messages inviting you back to the app; and short uninstall or churn feedback surveys (e.g., \"Why did you stop using Jynx?\"). These communications are distinct from transactional/service notifications.",
-        "eu_title": "Legal basis — European Union / EEA users (GDPR + ePrivacy).",
-        "eu_body": "Marketing and re-engagement emails to EU/EEA users are sent on the basis of your prior explicit opt-in consent (ePrivacy Directive Art. 13(1), transposed in France by Article L. 34-5 of the Code des postes et des communications électroniques; GDPR Art. 6(1)(a) and Art. 7). Following the launch of paid subscriptions (Jynx+) and one-time in-app purchases (Founder Packs), the Service is now a remunerated service, and those purchases constitute a \"sale\" within the meaning of the CJEU judgment C-654/23 (13 Nov 2025). The \"soft opt-in\" exception of ePrivacy Art. 13(2) is therefore in principle available to us for similar products and services to existing customers. As a conservative posture, however, we continue to rely on your prior explicit opt-in consent; we will only begin to rely on the soft-opt-in basis following a documented reassessment recorded in our Records of Processing Activities and an updated notice to you.",
-        "br_title": "Legal basis — Brazilian users (LGPD).",
-        "br_intro": "For Brazilian users, marketing and re-engagement communications rely on two alternative legal bases:",
-        "br_consent_title": "Consent (LGPD Art. 7, I and Art. 8)",
-        "br_consent_body": "captured as a separate, un-ticked, purpose-specific opt-in at signup or in-app, recorded with date, form version, and language; you may withdraw it at any time, free of charge, without losing access to the Service (Art. 8 §5). Consent is the basis used for any communication to prospects, cold outreach, or cross-sell/partner offers beyond the core Jynx app.",
-        "br_li_title": "Legitimate interest (LGPD Art. 7, IX, elaborated by Art. 10)",
-        "br_li_body": "used only for existing or recently-lapsed users receiving re-engagement messages, product updates about the same Jynx app, or a single short churn/uninstall feedback survey. Before relying on this basis, Jynx conducts and documents a Legitimate Interests Assessment (LIA) following the three-phase test of the ANPD Legitimate Interest Guide (2 Feb 2024): (i) purpose, (ii) necessity, and (iii) balancing and safeguards. The LIA records the prior relationship, the user's reasonable expectations, the purpose, the least-intrusive means chosen, and the opt-out channel. Legitimate interest is not used for cold/unsolicited email, unrelated cross-sell, purchased lists, or persistent messaging to departed users after the relationship has clearly ended.",
-        "optout_title": "Right to object / opt-out.",
-        "optout_body": "Brazilian users may at any time oppose this processing and opt out via the mechanisms in §7.5 and §7.6 (one-click unsubscribe in every email, or the in-app communications-preferences toggle), without cost and without terminating the account. We honor opt-out requests in real time. The Brazilian Consumer Defense Code (CDC, Law 8.078/90, in particular Art. 39 III) prohibits unsolicited or abusive commercial messaging; we therefore strictly respect opt-outs and apply frequency caps, since persistent or ignored-opt-out sending may be treated as an abusive practice.",
-        "surveys_title": "Uninstall / churn surveys.",
-        "surveys_body": "Wherever operationally feasible we ask uninstall/churn questions in-app at the uninstall moment (no email retention required). Where an email survey is sent, the survey contains no promotional or re-engagement content; we send a maximum of one (1) survey per user within approximately 60 days of account deletion or uninstall; the email address is then deleted or anonymized in accordance with §6; and users who have submitted an erasure / right-to-be-forgotten request (§7.3) are never re-contacted and are placed on a permanent suppression list (see §6 and the Terms of Service §7.2).",
-        "tracking_title": "Email tracking.",
-        "tracking_body": "Marketing emails do not embed tracking pixels or hidden analytics that process personal data without a separate legal basis. Where any open/click tracking is introduced, it will be disclosed here and based on consent (LGPD Art. 8; ePrivacy Art. 5(3)), consistent with the ANPD guidance on tracking technologies (18 Oct 2022).",
-        "frequency_title": "Frequency.",
-        "frequency_body": "Marketing emails are subject to internal frequency caps; you can reduce or turn them off at any time via the in-app communications-preferences toggle or by clicking unsubscribe in any message."
+        "title": "5.6. Pazarlama İletişimleri",
+        "intro": "§5.3'te açıklanan operasyonel bildirimlerin yanı sıra, size e-postayla pazarlama ve yeniden etkileşim iletişimleri gönderebiliriz; bunlar arasında şunlar bulunur: Jynx uygulamasına ilişkin ürün güncellemeleri ve özellik duyuruları; bültenler; sizi uygulamaya geri davet eden yeniden etkileşim mesajları; ve kısa kaldırma veya kayıp geri bildirim anketleri (örn. \"Jynx'i neden kullanmayı bıraktınız?\"). Bu iletişimler, işlemsel/hizmet bildirimlerinden ayrıdır.",
+        "eu_title": "Yasal dayanak — Avrupa Birliği / AEA kullanıcıları (GDPR + ePrivacy).",
+        "eu_body": "AB/AEA kullanıcılarına gönderilen pazarlama ve yeniden etkileşim e-postaları, önceki açık katılım (opt-in) onamınıza dayanır (ePrivacy Direktifi Mad. 13(1); Fransa'da Code des postes et des communications électroniques'in L. 34-5 maddesiyle iç hukuka aktarılmıştır; GDPR Mad. 6(1)(a) ve Mad. 7). Ücretli aboneliklerin (Jynx+) ve tek seferlik uygulama içi satın almaların (Kurucu Paketleri) lansmanının ardından Hizmet artık ücret karşılığı sağlanan bir hizmettir ve bu satın almalar, ABAD'nin C-654/23 sayılı kararı (13 Kasım 2025) anlamında bir \"satış\" teşkil eder. Bu nedenle ePrivacy Mad. 13(2)'deki \"yumuşak katılım\" (soft opt-in) istisnası, ilke olarak mevcut müşterilere benzer ürün ve hizmetler için bizim de kullanımımıza açıktır. Ancak ihtiyatlı bir tutum olarak, önceki açık katılım onamınıza dayanmaya devam ediyoruz; yumuşak katılım dayanağına yalnızca, İşleme Faaliyetleri Kayıtlarımızda kayıtlı belgelenmiş bir yeniden değerlendirme ve size güncellenmiş bir bildirimden sonra başlayacağız.",
+        "br_title": "Yasal dayanak — Brezilyalı kullanıcılar (LGPD).",
+        "br_intro": "Brezilyalı kullanıcılar için pazarlama ve yeniden etkileşim iletişimleri, iki alternatif yasal dayanağa dayanır:",
+        "br_consent_title": "Onam (LGPD Mad. 7, I ve Mad. 8)",
+        "br_consent_body": "kayıt sırasında veya uygulama içinde ayrı, işaretlenmemiş, amaca özel bir katılım (opt-in) olarak alınır; tarih, form sürümü ve dille kaydedilir; dilediğiniz zaman, ücretsiz ve Hizmete erişiminizi kaybetmeden geri çekilebilir (Mad. 8 §5). Onam; Jynx ana uygulamasının ötesinde, potansiyel kullanıcılara yapılan iletişimler, soğuk iletişim veya çapraz satış/ortak teklifleri için kullanılan dayanaktır.",
+        "br_li_title": "Meşru çıkar (LGPD Mad. 7, IX; Mad. 10 ile ayrıntılandırılmıştır)",
+        "br_li_body": "yalnızca yeniden etkileşim mesajları, aynı Jynx uygulamasına ilişkin ürün güncellemeleri veya tek seferlik kısa bir kayıp/kaldırma geri bildirim anketi alan; mevcut veya yakın zamanda kaybedilmiş kullanıcılar için kullanılır. Bu dayanağa güvenmeden önce Jynx, ANPD Meşru Çıkar Rehberi'nin (2 Şubat 2024) üç aşamalı testini izleyerek bir Meşru Çıkarlar Değerlendirmesi (LIA) yapar ve belgeler: (i) amaç, (ii) gereklilik ve (iii) dengeleme ve güvenceler. LIA; önceki ilişkiyi, kullanıcının makul beklentilerini, amacı, seçilen en az müdahaleci yolu ve çıkış (opt-out) kanalını kaydeder. Meşru çıkar; soğuk/istenmeyen e-posta, ilgisiz çapraz satış, satın alınmış listeler veya ilişki açıkça sona erdikten sonra ayrılan kullanıcılara ısrarlı mesajlaşma için kullanılmaz.",
+        "optout_title": "İtiraz hakkı / çıkış (opt-out).",
+        "optout_body": "Brezilyalı kullanıcılar bu işlemeye dilediğiniz zaman itiraz edebilir ve §7.5 ile §7.6'daki mekanizmalar üzerinden (her e-postada tek tıkla abonelikten çıkma veya uygulama içi iletişim tercihleri anahtarı) çıkabilir; ücretsizdir ve hesabı sonlandırmayı gerektirmez. Çıkış taleplerini gerçek zamanlı olarak yerine getiririz. Brezilya Tüketicini Koruma Kanunu (CDC, Kanun 8.078/90, özellikle Mad. 39 III), istenmeyen veya kötüye kullanımlı ticari mesajlaşmayı yasaklar; bu nedenle çıkışlara sıkı biçimde uyarız ve sıklık sınırları uygularız; ısrarlı gönderim veya çıkışı görmezden gelmek, kötüye kullanımlı uygulama olarak değerlendirilebilir.",
+        "surveys_title": "Kaldırma / kayıp anketleri.",
+        "surveys_body": "Operasyonel olarak mümkün olduğunda kaldırma/kayıp sorularını, kaldırma anında uygulama içinde sorarız (e-posta saklamayı gerektirmez). E-posta anketi gönderilirse: anket, tanıtım veya yeniden etkileşim içeriği içermez; kullanıcı başına, hesap silme veya kaldırmadan sonra yaklaşık 60 gün içinde en fazla bir (1) anket göndeririz; e-posta adresi daha sonra §6'ya uygun olarak silinir veya anonimleştirilir; ve silme / unutulma hakkı talebi (§7.3) göndermiş kullanıcılar asla yeniden iletişime geçilmez ve kalıcı bir bastırma listesine alınır (bkz. §6 ve Hizmet Şartları §7.2).",
+        "tracking_title": "E-posta izleme.",
+        "tracking_body": "Pazarlama e-postaları, ayrı bir yasal dayanak olmaksızın kişisel veri işleyen izleme pikselleri veya gizli analitikler içermez. Herhangi bir açılma/tıklama izlemesi getirilirse, burada açıklanacak ve onam temelinde olacaktır (LGPD Mad. 8; ePrivacy Mad. 5(3)); ANPD'nin izleme teknolojilerine ilişkin rehberiyle (18 Ekim 2022) uyumlu şekilde.",
+        "frequency_title": "Sıklık.",
+        "frequency_body": "Pazarlama e-postaları, dahili sıklık sınırlarına tabidir; uygulama içi iletişim tercihleri anahtarından veya herhangi bir mesajdaki abonelikten çıkma bağlantısına tıklayarak dilediğiniz zaman azaltabilir veya kapatabilirsiniz."
       },
       "ban_evasion": {
         "title": "5.7. Topluluk Güvenliği ve Yasak Aşma",
         "p1": "Topluluğumuzu kötüye kullanımdan korumaya yardımcı olmak için, bir askıya alma veya yasağı atlatma girişimlerini tespit etmek ve önlemek amacıyla cihaz tanımlayıcılarını ve cihaz bütünlüğü sinyallerini kullanırız. Bir cihazı yasaklı bir hesapla ilişkilendirirsek, o cihazın yeni hesap oluşturması veya oturum açması engellenebilir. Bunun hatadan kaynaklandığını düşünüyorsanız support@jynx.app adresine başvurarak itiraz edebilirsiniz.",
-        "p2": "Device-integrity signals are collected and evaluated with the assistance of Talsec freeRASP, an anti-tampering and device-integrity library embedded in the app. freeRASP operates on your device: it detects locally threats such as rooted devices, runtime hooking, and unlocked bootloaders, and reports its findings to us through our own error-monitoring provider (Sentry, §4.2) for abuse prevention; it does not send your data to any Talsec-operated service."
+        "p2": "Cihaz bütünlüğü sinyalleri, uygulamaya gömülü kurcalamaya karşı (anti-tampering) ve cihaz bütünlüğü kütüphanesi olan Talsec freeRASP'nin yardımıyla toplanır ve değerlendirilir. freeRASP cihazınızda çalışır: root'lanmış cihazlar, çalışma zamanı hooking'i ve kilidi açılmış bootloader'lar gibi tehditleri yerel olarak algılar ve bulgularını, kötüye kullanımı önlemek için kendi hata izleme sağlayıcımız (Sentry, §4.2) üzerinden bize bildirir; verinizi hiçbir Talsec tarafından işletilen servise göndermez."
       },
       "child_safety": {
-        "title": "5.8. Child-Safety Image Analysis",
-        "p1": "To help protect children and meet our legal-reporting duties, Jynx uses automated systems to analyze images shared in direct messages by comparing hashes derived from those images against databases of known child sexual abuse material. For this analysis, the images themselves are not transmitted to third parties — only irreversible hashes are (see §4.7). Profile pictures are screened separately, by the image-moderation processing described in §4.8. This analysis exists solely for child-safety detection and our legal-reporting duties; it is not used for profiling, advertising, or any other purpose. Matches are handled as described in our <a href=\"/child-safety.html\">Child Safety Policy</a>."
+        "title": "5.8. Çocuk Güvenliği Görsel Analizi",
+        "p1": "Çocukları korumaya ve yasal bildirim yükümlülüklerimizi yerine getirmeye yardımcı olmak için Jynx, doğrudan mesajlarda paylaşılan görselleri; bu görsellerden türetilen hash'leri bilinen çocuk cinsel istismarı materyali veritabanlarıyla karşılaştıran otomatik sistemlerle analiz eder. Bu analiz için görsellerin kendisi üçüncü taraflara iletilmez — yalnızca geri döndürülemez hash'ler iletilir (bkz. §4.7). Profil resimleri ayrı olarak, §4.8'de açıklanan görsel moderasyon işlemesiyle taranır. Bu analiz yalnızca çocuk güvenliği tespiti ve yasal bildirim yükümlülüklerimiz için vardır; profil çıkarma, reklamcılık veya başka hiçbir amaç için kullanılmaz. Eşleşmeler, <a href=\"/child-safety.html\">Çocuk Güvenliği Politikamızda</a> açıklandığı şekilde ele alınır."
       },
       "ad_measurement": {
-        "title": "5.9. Advertising Measurement",
-        "p1": "If you accept, we also share limited events (such as sign-up and purchases, with their amount) with Meta to measure and improve our advertising. Your data is never sold, and you can change your choice anytime in Privacy settings. What is shared, and with whom, is listed in §4.9.",
-        "p2": "How it is enabled. On iPhone and iPad, ad measurement uses your data only with your consent (GDPR Art. 6(1)(a); LGPD Art. 7, I), given in the first-launch privacy sheet or later in Settings > Privacy > Ad measurement, and it additionally requires Apple's App Tracking Transparency authorization (see §4.9). On Android, ad measurement is based either on that same consent or, for users who are shown the ad measurement switch on by default in the first-launch sheet, on our legitimate interest in measuring our advertising (LGPD Art. 7, IX and Art. 10), assessed in a documented Legitimate Interests Assessment. In that case it is on by default, and you can turn it off in the same sheet or at any time in Settings > Privacy > Ad measurement — objecting is as easy as leaving it on, free of charge, and never requires deleting your account (LGPD Art. 18, §2).",
-        "p3": "Safeguards. Users we know to be under 18, and profiles whose age is not established, are never measured on the legitimate-interest basis. Withdrawing consent or objecting stops further sharing from your next app launch; events lawfully shared before that remain at Meta under the retention terms of §4.9, and withdrawal does not affect the lawfulness of anything done before it (GDPR Art. 7(3); LGPD Art. 8 §5).",
-        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Separately from the above, and for every iPhone and iPad user regardless of any choice or setting — including when tracking or ad measurement is declined — Apple's SKAdNetwork reports anonymous, aggregated conversion information to the ad network that showed you an ad (for example, that a registration or a purchase within a certain value range occurred). No identifier from Jynx and no personal data leaves your device for this: it is Apple's standard attribution mechanism, and we cannot identify you from it."
+        "title": "5.9. Reklam Ölçümü",
+        "p1": "Kabul ederseniz, reklamlarımızı ölçmek ve iyileştirmek için sınırlı etkinlikleri (kayıt olma ve satın almalar, tutarlarıyla birlikte) Meta ile ayrıca paylaşırız. Veriniz asla satılmaz ve seçiminizi Gizlilik ayarlarından dilediğiniz zaman değiştirebilirsiniz. Neyin, kiminle paylaşıldığı §4.9'da listelenmiştir.",
+        "p2": "Nasıl etkinleştirilir. iPhone ve iPad'de reklam ölçümü, verinizi yalnızca onayınızla (GDPR Mad. 6(1)(a); LGPD Mad. 7, I) kullanır; onam ilk açılıştaki gizlilik ekranında veya daha sonra Ayarlar > Gizlilik > Reklam ölçümü bölümünde verilir ve ayrıca Apple'ın App Tracking Transparency yetkisini gerektirir (bkz. §4.9). Android'de reklam ölçümü ya aynı onama ya da, ilk açılış ekranında reklam ölçümü anahtarı varsayılan olarak açık gösterilen kullanıcılar için, reklamlarımızı ölçme konusundaki meşru çıkarımıza (LGPD Mad. 7, IX ve Mad. 10) dayanır; bu, belgelenmiş bir Meşru Çıkarlar Değerlendirmesi ile değerlendirilmiştir. Bu durumda varsayılan olarak açıktır; aynı ekrandan veya Ayarlar > Gizlilik > Reklam ölçümü bölümünden dilediğiniz zaman kapatabilirsiniz — itiraz etmek, açık bırakmak kadar kolaydır, ücretsizdir ve asla hesabınızı silmeyi gerektirmez (LGPD Mad. 18, §2).",
+        "p3": "Güvenceler. 18 yaşın altında olduğunu bildiğimiz kullanıcılar ve yaşı tespit edilmemiş profiller, asla meşru çıkar dayanağıyla ölçülmez. Onamı geri çekmek veya itiraz etmek, bir sonraki uygulama açılışınızdan itibaren ileriye dönük paylaşımı durdurur; öncesinde usulüne uygun paylaşılmış etkinlikler §4.9'daki saklama koşullarıyla Meta'da kalır ve geri çekme, öncesinde yapılan işlemlerin hukuka uygunluğunu etkilemez (GDPR Mad. 7(3); LGPD Mad. 8 §5).",
+        "skan": "<strong>Apple SKAdNetwork (iOS).</strong> Yukarıdakilerden ayrı olarak ve herhangi bir seçim ya da ayardan bağımsız olarak — izleme veya reklam ölçümü reddedilmiş olsa bile — tüm iPhone ve iPad kullanıcıları için Apple'ın SKAdNetwork'ü, size reklam gösteren reklam ağına anonim ve toplulaştırılmış dönüşüm bilgileri bildirir (örneğin, belirli bir değer aralığında bir kayıt olma veya satın alma gerçekleştiği). Bunun için cihazınızdan Jynx'e ait hiçbir tanımlayıcı ve hiçbir kişisel veri çıkmaz: bu, Apple'ın standart atıf mekanizmasıdır ve biz onun aracılığıyla sizi tanımlayamayız."
       },
       "emails": {
-        "title": "5.10. Emails and Communications",
-        "service": "<strong>Account-activity notification emails (service).</strong> When you miss account activity in the app (an unread message, a new match or like), Jynx may email you about it. These are service notifications based on our legitimate interest in operating the social platform (keeping you informed of your ongoing interactions) and contain no promotional content. You can turn each notification type (messages, matches, likes) off at any time in Settings > Privacy > Communications, or via the \"Manage these notifications\" link in each email. You may also object to this processing at any time (GDPR Art. 21) at privacy@jynx.app.",
-        "winback": "<strong>Re-engagement and marketing emails (winback).</strong> Emails aimed at bringing you back to Jynx after a period of inactivity, and our news and offers communications, are commercial prospecting. They are sent only with your prior, specific, freely given and revocable consent, collected through a separate optional unchecked box — never as a condition of accepting our Terms. You can withdraw it at any time in Settings > Privacy > Communications or via the unsubscribe link in each email.",
-        "profile_display": "<strong>Display of your username and profile picture in notification emails.</strong> If you have interacted with another member (like, match, message), your username and profile picture may appear in the account-activity notification emails addressed to them when they are inactive. These elements are generated at send time and are not retained in our email logs (identifier and counts only)."
+        "title": "5.10. E-postalar ve İletişimler",
+        "service": "<strong>Hesap etkinliği bildirim e-postaları (hizmet).</strong> Uygulamadaki hesap etkinliğini kaçırırsanız (okunmamış bir mesaj, yeni bir eşleşme veya beğeni), Jynx size bununla ilgili e-posta gönderebilir. Bunlar; sosyal platformu işletme konusundaki meşru çıkarımıza (devam eden etkileşimlerinizden haberdar tutmak) dayanan hizmet bildirimleridir ve tanıtım içeriği içermez. Her bildirim türünü (mesajlar, eşleşmeler, beğeniler) Ayarlar > Gizlilik > İletişim bölümünden veya her e-postadaki \"Bu bildirimleri yönet\" bağlantısından dilediğiniz zaman kapatabilirsiniz. Bu işlemeye ayrıca dilediğiniz zaman itiraz edebilirsiniz (GDPR Mad. 21): privacy@jynx.app.",
+        "winback": "<strong>Yeniden etkileşim ve pazarlama e-postaları (winback).</strong> Bir hareketsizlik döneminden sonra sizi Jynx'e geri getirmeyi amaçlayan e-postalar ile haber ve teklif iletişimlerimiz ticari tanıtım niteliğindedir. Bunlar yalnızca, ayrı ve isteğe bağlı işaretlenmemiş bir kutu aracılığıyla toplanan; önceki, belirli, özgürce verilmiş ve geri alınabilir onamınızla gönderilir — hiçbir zaman Şartlarımızı kabul etmenin bir koşulu olarak değil. Onamı, Ayarlar > Gizlilik > İletişim bölümünden veya her e-postadaki abonelikten çıkma bağlantısından dilediğiniz zaman geri çekebilirsiniz.",
+        "profile_display": "<strong>Bildirim e-postalarında kullanıcı adınızın ve profil resminizin gösterilmesi.</strong> Başka bir üyeyle etkileşimde bulunduysanız (beğeni, eşleşme, mesaj), kullanıcı adınız ve profil resminiz; o üye hareketsizken kendisine gönderilen hesap etkinliği bildirim e-postalarında görünebilir. Bu ögeler gönderim anında üretilir ve e-posta günlüklerimizde saklanmaz (yalnızca tanımlayıcı ve sayaçlar)."
       },
       "location": {
-        "title": "5.11. Location and Match Distance",
-        "p1": "<strong>What we process.</strong> If you choose to share your location, Jynx uses it for one purpose only: displaying the approximate distance between you and other players (\"~12 km\") on the match queue and, if you turn on proximity ordering, ordering that queue by distance. We process approximate location only: the permission we request is the operating system's coarse / reduced-accuracy location, and before anything is stored your coordinates are snapped on our servers to a grid of about 0.02° (roughly 2.2 km); the derived location cell is about 11 km across. Raw GPS coordinates are never stored.",
-        "p2": "<strong>Optional and consent-based.</strong> This is an optional feature: nothing is collected unless you grant the operating-system location permission AND the in-app location toggle is on. Location is never processed in the background — it is used only while you are using the app. Your location is never shown to other users as a position on a map, never used for advertising, and never shared with ad platforms (see §4.9: no location data is included in anything shared for advertising attribution or measurement). Our analytics events contain no coordinates, no city names, and no location-cell identifiers — only anonymous adoption and ordering-choice signals. The operating-system permission prompt is how your consent is captured, and the in-app toggle is how you withdraw it (§7.6).",
-        "p3": "<strong>How long we keep it.</strong> The location record we maintain for your account is automatically deleted after 45 days without an update, and is refreshed each time you use the feature while sharing is on. The approximate distance shown on your profile card is activity-bounded: it persists only while your profile card does, and is treated as absent after 45 days without an update.",
-        "p4": "<strong>Your control.</strong> You can stop sharing at any time: turning the in-app location toggle off deletes the stored coordinates immediately (the record is kept but emptied of coordinates), and revoking the location permission in your device settings stops collection at the source. Deleting your account (§7.3) also clears your location data."
+        "title": "5.11. Konum ve Eşleşme Mesafesi",
+        "p1": "<strong>Neyi işliyoruz.</strong> Konumunuzu paylaşmayı seçerseniz Jynx, bunu yalnızca tek bir amaç için kullanır: eşleşme kuyruğunda sizinle diğer oyuncular arasındaki yaklaşık mesafeyi (\"~12 km\") görüntülemek ve yakınlık sıralamasını açtıysanız o kuyruğu mesafeye göre sıralamak. Yalnızca yaklaşık konumu işleriz: talep ettiğimiz izin, işletim sisteminin kaba / azaltılmış doğruluklu konum iznidir ve herhangi bir şey saklanmadan önce koordinatlarınız, sunucularımızda yaklaşık 0,02°'lik (yaklaşık 2,2 km) bir ızgaraya yuvarlanır; türetilen konum hücresi yaklaşık 11 km genişliğindedir. Ham GPS koordinatları asla saklanmaz.",
+        "p2": "<strong>İsteğe bağlı ve onama dayalı.</strong> Bu isteğe bağlı bir özelliktir: işletim sistemi konum iznini VERMENİZ ve uygulama içi konum anahtarı AÇIK olmadıkça hiçbir şey toplanmaz. Konum asla arka planda işlenmez — yalnızca uygulamayı kullanırken kullanılır. Konumunuz; asla harita üzerinde bir konum olarak diğer kullanıcılara gösterilmez, asla reklamcılık için kullanılmaz ve asla reklam platformlarıyla paylaşılmaz (bkz. §4.9: reklam atfı veya ölçümü için paylaşılan hiçbir şeyde konum verisi yer almaz). Analitik etkinliklerimiz koordinat, şehir adı veya konum hücresi tanımlayıcısı içermez — yalnızca anonim benimseme ve sıralama seçimi sinyalleri. İşletim sistemi izin istemi, onamınızın alındığı yerdir; uygulama içi anahtar, onu geri çektiğiniz yerdir (§7.6).",
+        "p3": "<strong>Ne kadar süre tutuyoruz.</strong> Hesabınız için tuttuğumuz konum kaydı, güncelleme olmaksızın 45 gün sonra otomatik olarak silinir ve paylaşım açıkken özelliği her kullandığınızda yenilenir. Profil kartınızda gösterilen yaklaşık mesafe etkinliğe bağlıdır: yalnızca profil kartınız sürdüğü sürece kalır ve güncelleme olmaksızın 45 gün sonra yok sayılır.",
+        "p4": "<strong>Kontrol sizde.</strong> Paylaşımı dilediğiniz zaman durdurabilirsiniz: uygulama içi konum anahtarını kapatmak, saklanan koordinatları anında siler (kayıt tutulur ancak koordinatları boşaltılır) ve cihaz ayarlarınızdan konum iznini iptal etmek, toplamayı kaynağında durdurur. Hesabınızı silmek (§7.3) konum verilerinizi de temizler."
       }
     },
     "retention": {
@@ -448,24 +448,24 @@
         "profile": "Hesabınız aktif olduğu sürece saklanır",
         "analytics_label": "Günlükler ve Analitik:",
         "analytics": "Firebase Analytics: 14 ay (Firebase politikası)",
-        "marketing_label": "Marketing email addresses (consent-based):",
-        "marketing": "Retained for as long as you have not opted out or deleted your account, plus a hashed record on the suppression list (see below) to ensure we do not re-contact you",
-        "survey_label": "Uninstall / churn survey email addresses:",
-        "survey": "Retained for a maximum of 60 days after the survey is sent (or, if no survey is sent, 60 days after uninstall/deletion), after which the address is deleted or irreversibly anonymized. No more than one (1) survey email is sent per user",
-        "reengagement_label": "Re-engagement of recently-lapsed accounts (LGPD legitimate-interest basis, Brazilian users only):",
-        "reengagement": "Consistent with CNIL guidance and the reasonable-expectations test, Jynx may use the email address of a recently-lapsed (non-erasure) account for re-engagement for up to 3 years after the last meaningful interaction, after which it is deleted or anonymized"
+        "marketing_label": "Pazarlama e-posta adresleri (onama dayalı):",
+        "marketing": "Çıkış (opt-out) yapmadığınız veya hesabınızı silmediğiniz sürece saklanır; ayrıca size yeniden ulaşmamayı güvence altına almak için bastırma listesinde (aşağıya bakın) karmalanmış bir kayıt tutulur",
+        "survey_label": "Kaldırma / kayıp anketi e-posta adresleri:",
+        "survey": "Anketin gönderilmesinden sonra en fazla 60 gün (anket gönderilmediyse kaldırma/silmeden sonra 60 gün) saklanır; ardından adres silinir veya geri döndürülemez biçimde anonimleştirilir. Kullanıcı başına en fazla bir (1) anket e-postası gönderilir",
+        "reengagement_label": "Yakın zamanda kaybedilmiş hesapların yeniden etkileşimi (LGPD meşru çıkar dayanağı, yalnızca Brezilyalı kullanıcılar):",
+        "reengagement": "CNIL rehberi ve makul beklentiler testiyle uyumlu olarak, Jynx yakın zamanda kaybedilmiş (silme talebi olmayan) bir hesabın e-posta adresini, son anlamlı etkileşimden sonra 3 yıla kadar yeniden etkileşim için kullanabilir; sonrasında silinir veya anonimleştirilir"
       },
       "deletion": {
         "title": "6.2. Veri Silme",
         "p1": "Hesabınızın silinmesini istediğiniz zaman talep edebilirsiniz (Bölüm 7'ye bakın).",
         "legal_label": "Yasal Saklama:",
         "legal": "Bazı veriler yasal yükümlülüklerimizi yerine getirmek için daha uzun süre saklanabilir (örn. güvenlik raporları, finansal işlemler).",
-        "marketing": "When you delete your account, we purge your email address from our marketing CRM and email service provider. If you exercise the right to erasure (§7.3 / GDPR Art. 17 / LGPD Art. 18(VI) for consent-based data), your email address is added to a permanent hashed suppression list so that it is never re-used for marketing, re-engagement, or surveys — including protection against re-import via any third-party or purchased list. Note: under the LGPD, Art. 18(VI) deletion applies to data processed on the basis of consent; data processed on the basis of legitimate interest (Art. 7 IX) is instead governed by the purpose-limitation principle (Art. 6 II and §2) and your right to request cessation of processing (Art. 18 §2)."
+        "marketing": "Hesabınızı sildiğinizde, e-posta adresinizi pazarlama CRM'imizden ve e-posta servis sağlayıcımızdan temizleriz. Silme hakkınızı kullanırsanız (§7.3 / GDPR Mad. 17 / onama dayalı veriler için LGPD Mad. 18(VI)), e-posta adresiniz kalıcı, karmalanmış bir bastırma listesine eklenir; böylece pazarlama, yeniden etkileşim veya anketler için asla yeniden kullanılmaz — herhangi bir üçüncü taraf veya satın alınmış liste yoluyla yeniden içe aktarmaya karşı koruma dâhil. Not: LGPD kapsamında Mad. 18(VI) silme işlemi, onam temelinde işlenen verilere uygulanır; meşru çıkar temelinde (Mad. 7 IX) işlenen veriler ise amaç sınırlaması ilkesine (Mad. 6 II ve §2) ve işlemenin durdurulmasını isteme hakkınıza (Mad. 18 §2) tabidir."
       }
     },
     "rights": {
-      "title": "7. Haklarınız (GDPR)",
-      "intro": "GDPR kapsamında aşağıdaki haklara sahipsiniz:",
+      "title": "7. Haklarınız (GDPR ve LGPD)",
+      "intro": "Bulunduğunuz yere bağlı olarak, GDPR (AB/AEA) ve/veya Brezilya LGPD'si (Lei Geral de Proteção de Dados, Kanun 13.709/2018) kapsamında haklara sahipsiniz.",
       "access": {
         "title": "7.1. Erişim Hakkı",
         "p1": "Hakkınızda tuttuğumuz tüm verilerin bir kopyasını talep edebilirsiniz.",
@@ -500,13 +500,13 @@
         "p1": "Veri dışa aktarma (Bölüm 7.1), verilerinizi yapılandırılmış, makine tarafından okunabilir bir formatta (JSON) almanıza olanak tanır."
       },
       "objection": {
-        "title": "7.5. İtiraz Hakkı",
-        "p1": "Doğrudan pazarlama amaçlı verilerinizin işlenmesine itiraz edebilirsiniz.",
-        "onclick_label": "One-click unsubscribe:",
-        "onclick": "every marketing email includes a one-click unsubscribe link (RFC 8058 List-Unsubscribe-Post) honored in real time",
-        "inapp_label": "In-app toggle:",
-        "inapp": "Settings > Privacy > Communications Preferences",
-        "email_label": "Email:",
+        "title": "7.5. İtiraz Hakkı / Pazarlamadan Çıkma",
+        "p1": "Verilerinizin doğrudan pazarlama amaçlarıyla işlenmesine her zaman, ücretsiz ve gerekçe göstermeksizin itiraz edebilirsiniz. GDPR Mad. 21(2) uyarınca bu hak, AB/AEA kullanıcıları için mutlaktır: itirazınızı aldığımızda tüm pazarlama işlemlerini durdururuz. Brezilyalı kullanıcılar için, pazarlama işlemesine aşağıdaki çıkış mekanizmaları üzerinden karşı çıkabilirsiniz (LGPD Mad. 8 §5; Mad. 18 §2).",
+        "onclick_label": "Tek tıkla abonelikten çıkma:",
+        "onclick": "her pazarlama e-postası, gerçek zamanlı olarak yerine getirilen bir tek tıkla abonelikten çıkma bağlantısı içerir (RFC 8058 List-Unsubscribe-Post)",
+        "inapp_label": "Uygulama içi anahtar:",
+        "inapp": "Ayarlar > Gizlilik > İletişim Tercihleri",
+        "email_label": "E-posta:",
         "email": "dpo@jynx.app"
       },
       "withdraw": {
@@ -518,18 +518,18 @@
         "notifications": "Cihaz ayarları",
         "oauth_label": "Not:",
         "oauth": "OAuth token'ları (Google, Apple) hesabınızı sildiğinizde otomatik olarak iptal edilir (Bölüm 7.3).",
-        "marketing_label": "Marketing Communications:",
-        "marketing": "Newsletter, product updates, re-engagement, and uninstall/churn surveys — withdrawable via one-click unsubscribe, the in-app communications-preferences toggle, or dpo@jynx.app, without terminating your account",
-        "effect": "Withdrawal does not affect the lawfulness of processing carried out before withdrawal (GDPR Art. 7(3); LGPD Art. 8 §5), and withdrawing consent never requires you to delete your account.",
-        "ad_measurement_label": "Ad measurement:",
-        "ad_measurement": "Settings > Privacy > Ad measurement (see §5.9)",
-        "location_label": "Location (match distance):",
-        "location": "Turn the in-app location toggle off — this deletes the stored coordinates — or revoke the location permission in your device settings (see §5.11)"
+        "marketing_label": "Pazarlama İletişimleri:",
+        "marketing": "Bülten, ürün güncellemeleri, yeniden etkileşim ve kaldırma/kayıp anketleri — tek tıkla abonelikten çıkma, uygulama içi iletişim tercihleri anahtarı veya dpo@jynx.app yoluyla; hesabınızı sonlandırmadan geri çekilebilir",
+        "effect": "Geri çekme, geri çekmeden önce yapılan işlemenin hukuka uygunluğunu etkilemez (GDPR Mad. 7(3); LGPD Mad. 8 §5) ve onamı geri çekmek asla hesabınızı silmeyi gerektirmez.",
+        "ad_measurement_label": "Reklam ölçümü:",
+        "ad_measurement": "Ayarlar > Gizlilik > Reklam ölçümü (bkz. §5.9)",
+        "location_label": "Konum (eşleşme mesafesi):",
+        "location": "Uygulama içi konum anahtarını kapatın — bu, saklanan koordinatları siler — veya cihaz ayarlarınızdan konum iznini iptal edin (bkz. §5.11)"
       },
       "lgpd": {
-        "title": "7.7. Additional LGPD Rights (Brazilian Users)",
-        "intro": "In addition to the rights above, data subjects located in Brazil have the following rights under LGPD Art. 18: confirmation of the existence of processing; access to the data; correction of incomplete, inaccurate, or out-of-date data; anonymization, blocking, or deletion of unnecessary or excessive data (Art. 18(VI) applies to data processed on the basis of consent); portability to another service or product provider, upon request; deletion of personal data processed with consent; and information about the possibility of denying consent and the consequences of doing so.",
-        "how": "You may exercise these rights via Settings > Privacy or by contacting the encarregado at dpo@jynx.app. You may also lodge a complaint with the Brazilian data protection authority — the Autoridade Nacional de Proteção de Dados (ANPD) — at https://www.gov.br/anpd."
+        "title": "7.7. Ek LGPD Hakları (Brezilyalı Kullanıcılar)",
+        "intro": "Yukarıdaki haklara ek olarak, Brezilya'da bulunan ilgili kişiler LGPD Mad. 18 uyarınca şu haklara sahiptir: işlemenin varlığının teyidi; verilere erişim; eksik, yanlış veya güncel olmayan verilerin düzeltilmesi; gereksiz veya aşırı verilerin anonimleştirilmesi, engellenmesi veya silinmesi (Mad. 18(VI), onam temelinde işlenen verilere uygulanır); talep üzerine başka bir servis veya ürün sağlayıcısına taşınabilirlik; onamla işlenen kişisel verilerin silinmesi; ve onamı reddetme olanağı ile bunun sonuçlarına ilişkin bilgi.",
+        "how": "Bu hakları, Ayarlar > Gizlilik üzerinden veya dpo@jynx.app adresindeki encarregado ile iletişime geçerek kullanabilirsiniz. Ayrıca Brezilya veri koruma otoritesi — Autoridade Nacional de Proteção de Dados (ANPD) — nezdinde https://www.gov.br/anpd adresinden şikayette bulunabilirsiniz."
       }
     },
     "security": {
@@ -547,9 +547,9 @@
       "rate_limiting": "Kötüye kullanıma karşı koruma (spam mesajlar, otomatik eylemler)",
       "moderation_label": "Moderasyon:",
       "moderation": "İçerik raporlama ve moderasyon sistemi",
-      "breach": "No system is 100% secure. In case of a personal data breach, we will notify the competent supervisory authority without undue delay and, where feasible, within 72 hours of becoming aware of a breach that is likely to result in a risk to your rights (GDPR Art. 33), and we will communicate the breach to affected users without undue delay where it is likely to result in a high risk to you (GDPR Art. 34). For data subjects in Brazil, we will also communicate relevant security incidents to the ANPD and to you within the deadline set by the authority (LGPD Art. 48; currently 3 business days under ANPD Resolution CD/ANPD nº 15/2024).",
-      "voice_label": "Real-time voice:",
-      "voice": "Voice-room media is encrypted in transit using WebRTC DTLS-SRTP, the same standard used by mainstream voice apps; signaling between the app and our servers is over HTTPS/TLS."
+      "breach": "Hiçbir sistem %100 güvenli değildir. Kişisel veri ihlali durumunda, yetkili denetim otoritesine geciksimsiz olarak ve mümkün olduğunda, haklarınız açısından risk oluşturması muhtemel bir ihlalden haberdar olduktan sonra 72 saat içinde (GDPR Mad. 33) bilgi veririz; ihlal sizin açınızdan yüksek risk oluşturması muhtemelse, etkilenen kullanıcılara geciksimsiz olarak bildiririz (GDPR Mad. 34). Brezilya'daki ilgili kişiler için, ilgili güvenlik olaylarını ANPD'ye ve size, otoritenin belirlediği süre içinde (LGPD Mad. 48; şu anda ANPD Resolution CD/ANPD nº 15/2024 uyarınca 3 iş günü) ileteceğiz.",
+      "voice_label": "Gerçek zamanlı ses:",
+      "voice": "Sesli oda medyası, ana akım sesli uygulamaların kullandığı standart olan WebRTC DTLS-SRTP ile aktarım sırasında şifrelenir; uygulama ile sunucularımız arasındaki sinyalleşme HTTPS/TLS üzerinden yapılır."
     },
     "international": {
       "title": "9. Uluslararası Veri Transferleri",
@@ -1279,33 +1279,33 @@
     "feedback": "Geri Bildirim",
     "download": "İndir",
     "blog": "Blog",
-    "games": "Games",
+    "games": "Oyunlar",
     "search": "Ara",
     "search_aria": "Makale ara",
-    "glossary": "Glossary",
+    "glossary": "Sözlük",
     "open_jynx": "Jynx'i Aç"
   },
   "header": {
     "cta": "Jynx'i Edinin"
   },
   "hero": {
-    "title": "The Next-Gen Companion App for Gamers",
-    "deck": "MATCH. TALK. PLAY. — native voice rooms where the squad formed.",
+    "title": "Oyuncuların Yeni Nesil Yardımcı Uygulaması",
+    "deck": "EŞLEŞ. KONUŞ. OYNA. — kadronun kurulduğu yerleşik sesli odalar.",
     "app_store_small": "İndir",
     "app_store_large": "App Store",
     "play_store_small": "İNDİR",
     "play_store_large": "Google Play",
-    "macos_note": "Mac app on the way."
+    "macos_note": "Mac uygulaması yolda."
   },
   "proof": {
-    "summary": "Rated {play_rating} on Google Play in {market} ({play_count} ratings, {downloads} installs) · New on the App Store · as of {as_of_month_year}.",
-    "fallback": "New on Google Play and the App Store — store ratings and install counts appear here as the community grows."
+    "summary": "{market} pazarında Google Play'de {play_rating} puan ({play_count} değerlendirme, {downloads} yükleme) · App Store'da yeni · {as_of_month_year} itibarıyla.",
+    "fallback": "Google Play ve App Store'da yeni — topluluk büyüdükçe mağaza puanları ve yükleme sayıları burada görünür."
   },
   "features": {
     "title": "Birlikte Daha İyi Oyun",
     "subtitle": "Modern oyuncular için tasarlanmış akıllı oyun topluluğu araçları",
     "description": "Boşluğa bağırmayı bırakın. Jynx, oyun tercihleri, oyun tarzları ve program uyumluluğuna göre takım arkadaşlarını akıllıca eşleştirerek solo oyunu sosyal bir deneyime dönüştürür",
-    "destination": "Find, match, and talk in one place: Jynx pairs the matchmaking with native voice rooms, so the squad forms and plays in the same app.",
+    "destination": "Bul, eşleş ve tek yerde konuş: Jynx, eşleştirmeyi yerleşik sesli odalarla birleştirir; kadro aynı uygulama içinde kurulur ve oynar.",
     "cards": {
       "scheduling": {
         "title": "Akıllı Eşleştirme",
@@ -1394,20 +1394,20 @@
       "default": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin."
     },
     "submitting": "Gönderiliyor...",
-    "success": "You're in! Thanks for signing up.",
+    "success": "Aramıza hoş geldin! Kaydolduğun için teşekkürler.",
     "error": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
   },
   "feedback": {
     "title": "Geri Bildiriminizi Paylaşın",
-    "subtitle": "No spam. We'll only contact you with important Jynx news and updates.",
+    "subtitle": "Spam yok. Yalnızca önemli Jynx haberleri ve güncellemeleriyle iletişime geçeriz.",
     "feedback": "Mesajınız (isteğe bağlı)",
     "feedback_label": "Mesajınız",
     "yes": "Evet",
     "no": "Hayır",
     "textarea": "Bize ne düşündüğünüzü söyleyin...",
     "note": "Sonsuza kadar ücretsiz",
-    "thanks_feedback": "Thanks for your feedback!",
-    "thanks_combined": "Thanks for your feedback — it means a lot!",
+    "thanks_feedback": "Geri bildiriminiz için teşekkürler!",
+    "thanks_combined": "Geri bildiriminiz için teşekkürler — bizim için çok değerli!",
     "error_empty": "Lütfen e-postanızı veya geri bildiriminizi sağlayın.",
     "submit": "Geri Bildirim Gönder",
     "submitting": "Gönderiliyor...",
@@ -1415,7 +1415,7 @@
     "badge_free": "Sonsuza kadar ücretsiz",
     "badge_notoxic": "Toksisite yok",
     "badge_community": "Topluluk odaklı",
-    "thanks_email": "Thanks! We'll be in touch."
+    "thanks_email": "Teşekkürler! Sizinle iletişime geçeceğiz."
   },
   "footer": {
     "company": {
@@ -1423,13 +1423,13 @@
       "about": "Hakkımızda",
       "about_seo": "Jynx Oyun Platformu Hakkında",
       "blog": "Blog",
-      "games": "Games",
-      "glossary": "Glossary",
+      "games": "Oyunlar",
+      "glossary": "Sözlük",
       "search": "Ara"
     },
     "support": {
       "title": "Destek",
-      "contact": "Contact Us"
+      "contact": "Bize Ulaşın"
     },
     "legal": {
       "title": "Yasal",
@@ -1444,7 +1444,7 @@
       "title": "İndir",
       "app_store": "App Store",
       "google_play": "Google Play",
-      "web_app": "Web App"
+      "web_app": "Web Uygulaması"
     },
     "copyright": "© {{CURRENT_YEAR}} Jynx. Tüm hakları saklıdır.",
     "language": "Dil"
@@ -1462,8 +1462,8 @@
     "theme_toggle": "Karanlık modu aç/kapat",
     "language_selector": "Dil seç",
     "close_modal": "Pencereyi kapat",
-    "ms_store_badge_aria": "Download Jynx on the Microsoft Store",
-    "ms_store_badge_alt": "Microsoft Store download badge"
+    "ms_store_badge_aria": "Jynx'i Microsoft Store'dan indirin",
+    "ms_store_badge_alt": "Microsoft Store indirme rozeti"
   },
   "breadcrumb": {
     "home": "Ana Sayfa",
@@ -1473,7 +1473,7 @@
     "terms": "Kullanım Koşulları",
     "blog": "Blog",
     "delete_account": "Hesabı Sil",
-    "invite": "Invite"
+    "invite": "Davet"
   },
   "theme-feedback": {
     "submit": "Geri Bildirim Gönder",
@@ -1484,23 +1484,23 @@
   },
   "download": {
     "meta": {
-      "title": "Download Jynx - Gaming Social Platform",
-      "description": "Download Jynx - Connect with gamers, find teammates, join communities. Available on iOS, Android, and the web.",
-      "og_title": "Download Jynx App - Find Your Gaming Squad",
-      "og_description": "Get the Jynx app on iOS, Android, or the web. Start finding compatible teammates with AI matchmaking.",
+      "title": "Jynx'i İndirin - Oyun Sosyal Platformu",
+      "description": "Jynx'i indirin - oyuncularla bağlantı kurun, takım arkadaşları bulun, topluluklara katılın. iOS, Android ve web'de mevcut.",
+      "og_title": "Jynx Uygulamasını İndirin - Oyun Kadronuzu Bulun",
+      "og_description": "Jynx uygulamasını iOS, Android veya web'de edinin. Yapay zekâ eşleştirmesiyle uyumlu takım arkadaşları bulmaya başlayın.",
       "og_image_alt": "Jynx Oyun Uygulamasını İndirin",
-      "twitter_title": "Download Jynx App - Find Your Gaming Squad",
-      "twitter_description": "Get the Jynx app on iOS, Android, or the web. Start finding teammates today.",
+      "twitter_title": "Jynx Uygulamasını İndirin - Oyun Kadronuzu Bulun",
+      "twitter_description": "Jynx uygulamasını iOS, Android veya web'de edinin. Bugün takım arkadaşları bulmaya başlayın.",
       "twitter_image_alt": "Jynx Mobil Uygulaması"
     },
     "hero": {
       "subtitle": "Tüm cihazlarda mevcut. Takım arkadaşlarınızla her zaman her yerde bağlantıda kalın.",
       "title_line1": "Jynx",
       "title_line2": "Oyun Sosyal Platformu",
-      "h1_line1": "Download Jynx",
-      "h1_line2": "The Free LFG App for Gaming Teammates",
-      "tagline": "Match with compatible teammates and duos for your games — free on iOS, Android, Windows, and the web. A Mac app is on the way.",
-      "web_cta": "Or play instantly on the web"
+      "h1_line1": "Jynx'i İndirin",
+      "h1_line2": "Oyun Takım Arkadaşları için Ücretsiz LFG Uygulaması",
+      "tagline": "Oyunlarınız için uyumlu takım arkadaşlarıyla ve duo'larla eşleşin — iOS, Android, Windows ve web'de ücretsiz. Mac uygulaması yolda.",
+      "web_cta": "Ya da anında web'de oynayın"
     },
     "store": {
       "app_store": {
@@ -1561,105 +1561,105 @@
       "thanks": "Uygulama arayüzünü tasarlamamıza yardımcı olduğunuz için teşekkürler!"
     },
     "intro": {
-      "title": "The companion app for gamers",
-      "description": "Jynx is the next-gen companion app for gamers — a free LFG app that matches you with compatible teammates by game, rank, and play style, instead of endless LFG channel scrolling."
+      "title": "Oyuncuların yardımcı uygulaması",
+      "description": "Jynx, oyuncuların yeni nesil yardımcı uygulamasıdır — sonsuz LFG kanalı kaydırmak yerine oyun, rütbe ve oyun tarzına göre uyumlu takım arkadaşlarıyla eşleştiren ücretsiz bir LFG uygulaması."
     },
     "install": {
-      "title": "Get Jynx on iOS, Android, Windows, or the web",
-      "subtitle": "Jynx is available on all three app stores and in your browser — pick your platform and start matching in minutes.",
+      "title": "Jynx'i iOS, Android, Windows veya web'de edinin",
+      "subtitle": "Jynx, üç uygulama mağazasının tamamında ve tarayıcınızda mevcuttur — platformunuzu seçin ve dakikalar içinde eşleşmeye başlayın.",
       "ios": {
-        "title": "Find teammates on iOS",
-        "description": "Download the app to find gaming teammates from the App Store and match with players near your skill level. Requires iOS 13.0 or later."
+        "title": "iOS'ta takım arkadaşları bulun",
+        "description": "Uygulamayı App Store'dan indirin, oyun takım arkadaşları bulun ve yetenek seviyenize yakın oyuncularla eşleşin. iOS 13.0 veya üstü gerekir."
       },
       "android": {
-        "title": "Find your duo on Android",
-        "description": "Get the duo finder app on Google Play and meet gaming friends in minutes. Requires Android 8.0 or later."
+        "title": "Android'de duo'nuzu bulun",
+        "description": "Duo bulucu uygulamayı Google Play'den edinin ve dakikalar içinde oyun arkadaşlarıyla tanışın. Android 8.0 veya üstü gerekir."
       },
       "web": {
-        "title": "Play on the web",
-        "description": "Open the Jynx web app in your browser and start matching right away — no download, no install. Works on desktop and mobile.",
-        "cta": "Play on the web"
+        "title": "Web'de oynayın",
+        "description": "Jynx web uygulamasını tarayıcınızda açın ve hemen eşleşmeye başlayın — indirme yok, kurulum yok. Masaüstünde ve mobilde çalışır.",
+        "cta": "Web'de oynayın"
       },
       "windows": {
-        "title": "Find teammates on Windows",
-        "description": "Get the duo finder app from the Microsoft Store and meet gaming friends in minutes."
+        "title": "Windows'ta takım arkadaşları bulun",
+        "description": "Duo bulucu uygulamayı Microsoft Store'dan edinin ve dakikalar içinde oyun arkadaşlarıyla tanışın."
       },
       "macos": {
-        "title": "Jynx for Mac is on the way",
-        "description": "The Mac app is in development for the Mac App Store. Want to hear when it lands? Tell us on the feedback form.",
-        "status": "In development",
-        "cta": "Get notified"
+        "title": "Mac için Jynx yolda",
+        "description": "Mac uygulaması, Mac App Store için geliştirilme aşamasında. Çıktığında haber almak ister misiniz? Geri bildirim formundan bize yazın.",
+        "status": "Geliştirme aşamasında",
+        "cta": "Haberdar ol"
       }
     },
     "free": {
-      "title": "A free LFG app — free forever, no catch",
-      "description": "Jynx is a free gaming friends app: your account, matchmaking, chat and communities cost nothing, and there is no paywall between you and your next duo."
+      "title": "Ücretsiz bir LFG uygulaması — sonsuza kadar ücretsiz, sürpriz yok",
+      "description": "Jynx ücretsiz bir oyun arkadaşlığı uygulamasıdır: hesabınız, eşleştirme, sohbet ve topluluklar hiçbir şeye mal olmaz; sizinle bir sonraki duo'nuz arasında ücretli bir duvar yoktur."
     },
     "faq": {
-      "cta_heading": "DOWNLOAD FAQ",
-      "cta_subtitle": "Before you install",
-      "cta_write_to_us": "Still have questions?",
-      "cta_button": "Ask us",
+      "cta_heading": "İNDİRME SSS",
+      "cta_subtitle": "Kurulumdan önce",
+      "cta_write_to_us": "Hâlâ sorunuz mu var?",
+      "cta_button": "Bize sorun",
       "devices": {
-        "q": "What devices is Jynx available on?",
-        "a": "Jynx is available on iOS, Android, Windows, and the web — the same app in your browser at web.jynx.app. A Mac app is in development."
+        "q": "Jynx hangi cihazlarda mevcut?",
+        "a": "Jynx; iOS, Android, Windows ve web'de mevcuttur — tarayıcınızda web.jynx.app adresindeki aynı uygulama. Mac uygulaması geliştirilme aşamasında."
       },
       "how": {
-        "q": "How do I download Jynx?",
-        "a": "Download Jynx from the Apple App Store or Google Play, or play instantly on the web at web.jynx.app — no install needed."
+        "q": "Jynx'i nasıl indiririm?",
+        "a": "Jynx'i Apple App Store'dan veya Google Play'den indirin ya da web.jynx.app adresinde web'de anında oynayın — kurulum gerekmez."
       },
       "requirements": {
-        "q": "What are the system requirements?",
-        "a": "Jynx requires iOS 13.0 or later for iPhone, and Android 8.0 or later for Android devices."
+        "q": "Sistem gereksinimleri nelerdir?",
+        "a": "Jynx, iPhone için iOS 13.0 veya üstünü, Android cihazlar için Android 8.0 veya üstünü gerektirir."
       },
       "apk": {
-        "q": "Is there a Jynx APK to download?",
-        "a": "No. Jynx is available only through the official Apple App Store and Google Play listings. We do not publish an APK, and third-party APK sites are not official sources — they may serve outdated or modified builds."
+        "q": "İndirilebilecek bir Jynx APK'sı var mı?",
+        "a": "Hayır. Jynx yalnızca resmî Apple App Store ve Google Play listelemeleri üzerinden sunulur. APK yayımlamıyoruz; üçüncü taraf APK siteleri resmî kaynak değildir — güncel olmuş veya değiştirilmiş sürümler sunabilirler."
       }
     }
   },
   "comparisons": {
-    "cta_download": "Download Jynx",
-    "cta_more": "Read more from Jynx",
-    "cta_paragraph": "The fairest test of any matching app is your own gaming routine. Jynx is free for the full matching workflow — install, set up your profile, and see if compatibility-first matching beats the alternatives for the games you actually play.",
-    "hub_label": "Comparisons",
-    "label_by": "By",
-    "label_category": "Category:",
-    "label_cons": "Cons",
-    "label_home": "Home:",
-    "label_key_strengths": "Key strengths",
-    "label_maker": "Maker:",
-    "label_platforms": "Platforms:",
-    "label_price": "Price:",
-    "label_pros": "Pros",
-    "label_published": "Published",
-    "label_recommendation": "Recommendation:",
-    "section_contenders": "The contenders",
-    "section_cta": "Try Jynx for yourself",
-    "section_faq": "Frequently asked questions",
-    "section_feature": "Feature",
-    "section_intro": "Introduction",
-    "section_quick_answer": "Quick answer",
-    "section_related": "Related comparisons",
-    "section_use_cases": "Real use cases — who picks what",
-    "table_heading_best": "Master comparison table — {apps} apps × {features} features",
-    "table_heading_vs": "Head-to-head feature comparison — {features} features",
-    "table_intro_best": "Every feature scored across every contender. Jynx column highlighted because the article is editorially signed by a Jynx founder — read the explicit \"where Jynx loses\" section below before drawing conclusions.",
-    "table_intro_vs": "Every feature where the two products differ — including the rows where Jynx loses. Jynx column highlighted because this article is signed by a Jynx founder.",
-    "who_picks_format": "Who should pick {name}"
+    "cta_download": "Jynx'i İndirin",
+    "cta_more": "Jynx'ten daha fazlasını okuyun",
+    "cta_paragraph": "Bir eşleştirme uygulaması için en dürüst test, kendi oyun rutininizdir. Jynx, tam eşleştirme akışı için ücretsizdir — kurun, profilinizi oluşturun ve uyumluluk-öncelikli eşleştirmenin, gerçekten oynadığınız oyunlar için alternatiflerini geçip geçmeyeceğini görün.",
+    "hub_label": "Karşılaştırmalar",
+    "label_by": "Yazan:",
+    "label_category": "Kategori:",
+    "label_cons": "Eksiler",
+    "label_home": "Ana sayfa:",
+    "label_key_strengths": "Öne çıkan güçlü yönler",
+    "label_maker": "Üretici:",
+    "label_platforms": "Platformlar:",
+    "label_price": "Fiyat:",
+    "label_pros": "Artılar",
+    "label_published": "Yayınlanma",
+    "label_recommendation": "Öneri:",
+    "section_contenders": "Rakipler",
+    "section_cta": "Jynx'i kendiniz deneyin",
+    "section_faq": "Sık sorulan sorular",
+    "section_feature": "Özellik",
+    "section_intro": "Giriş",
+    "section_quick_answer": "Kısa yanıt",
+    "section_related": "İlgili karşılaştırmalar",
+    "section_use_cases": "Gerçek kullanım senaryoları — kim neyi seçer",
+    "table_heading_best": "Ana karşılaştırma tablosu — {apps} uygulama × {features} özellik",
+    "table_heading_vs": "Karşı karşıya özellik karşılaştırması — {features} özellik",
+    "table_intro_best": "Her özellik, her rakip için puanlandı. Jynx sütunu vurgulanmıştır, çünkü makale editoryal olarak bir Jynx kurucusu tarafından imzalanmıştır — sonuçlara varmadan önce aşağıdaki \"Jynx'in kaybettiği yerler\" bölümünü okuyun.",
+    "table_intro_vs": "İki ürünün ayrıştığı her özellik — Jynx'in kaybettiği satırlar dâhil. Jynx sütunu vurgulanmıştır, çünkü bu makale bir Jynx kurucusu tarafından imzalanmıştır.",
+    "who_picks_format": "{name} kimin için doğru seçim"
   },
   "comparison": {
-    "title": "The whole loop, in one app.",
-    "intro": "Swipe, match, and start talking. Voice rooms and chat live in the same app where you found your squad — no second app, no server-hopping, no link-sharing to get into a call.",
+    "title": "Tüm döngü, tek uygulamada.",
+    "intro": "Kaydırın, eşleşin ve konuşmaya başlayın. Sesli odalar ve sohbet, kadronuzu bulduğunuz aynı uygulamada yaşar — ikinci bir uygulama yok, sunucu gezinmesi yok, bir aramaya katılmak için bağlantı paylaşımı yok.",
     "table": {
       "feature": "Özellik",
       "lfg": "LFG Forumlari",
-      "match_to_voice": "Match → Voice Room in One Tap",
-      "native_voice_chat": "Native Voice Chat — group rooms, 1:1 calls, always-on Chill Rooms",
-      "screen_share": "Screen Sharing in Voice Rooms",
-      "play_now_matchmaking": "Play Now — Instant Matchmaking",
-      "smart_team_builder": "Smart Team Builder",
-      "game_session_matchmaking": "Game Sessions — schedule and organize play",
+      "match_to_voice": "Tek Dokunuşta Eşleşme → Sesli Oda",
+      "native_voice_chat": "Yerleşik Sesli Sohbet — grup odaları, bire bir aramalar, her zaman açık Chill Room'lar",
+      "screen_share": "Sesli Odalarda Ekran Paylaşımı",
+      "play_now_matchmaking": "Hemen Oyna — Anında Eşleştirme",
+      "smart_team_builder": "Akıllı Takım Kurucu",
+      "game_session_matchmaking": "Oyun Oturumları — oyunu planlayın ve düzenleyin",
       "elo_matching": "ELO Tabanlı Eşleştirme",
       "community_search": "Topluluk Arama ve Keşif",
       "chat": "Yerleşik Sohbet",
@@ -1676,30 +1676,30 @@
       "basic": "Temel",
       "by_game_skill": "Oyun, Rütbe ve Dile Göre",
       "on_computer_only": "Sadece Bilgisayarda",
-      "servers": "Find a server first",
+      "servers": "Önce bir sunucu bulun",
       "teams": "Takımlar",
       "advanced": "Gelişmiş",
-      "planned": "Planned",
+      "planned": "Planlanıyor",
       "game_apis": "Oyun API'leri",
       "general": "Genel",
       "varies": "Değişir",
       "free_jynx_plus": "Ücretsiz (Jynx+ mevcut)",
       "free_varies": "Ücretsiz + Değişir"
     },
-    "roadmap_note": "On the roadmap: Screen Sharing in Voice Rooms, Player Profile Integration, and Smart Team Builder — auto-formed, balanced teams",
-    "footnote": "Comparison as of November 2026. Discord and Traditional LFG reflect their publicly available features; the Jynx column reflects Jynx app capabilities.",
+    "roadmap_note": "Yol haritasında: Sesli Odalarda Ekran Paylaşımı, Oyuncu Profili Entegrasyonu ve Akıllı Takım Kurucu — otomatik kurulmuş, dengeli takımlar",
+    "footnote": "Karşılaştırma Kasım 2026 itibarıyladır. Discord ve Geleneksel LFG, herkesin erişebildiği özelliklerini yansıtır; Jynx sütunu Jynx uygulamasının yeteneklerini yansıtır.",
     "cta": {
       "title": "Farkı Deneyimlemeye Hazır mısınız?",
       "description": "Jynx AI eşleştirme ile mükemmel takımlarını bulan dünya çapındaki oyunculara katılın",
       "button": "AI ile Eşleşmeye Başlayın - Sonsuza Kadar Ücretsiz"
     },
-    "vs_link": "Want the full breakdown? Read the founder-written head-to-head: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 features, honest losses included."
+    "vs_link": "Tam dökümü mü istiyorsunuz? Kurucularımızın yazdığı karşı karşıya analizi okuyun: <a href=\"/vs/jynx-vs-discord.html\">Jynx vs Discord LFG</a> — 16 özellik, Jynx'in kaybettiği yerlerle birlikte."
   },
   "personas": {
-    "main_title": "WHO JYNX IS FOR",
-    "subtitle_prefix": "THE PLAYER",
-    "subtitle_highlight": "TYPES WE MATCH",
-    "type_badge": "Player type",
+    "main_title": "JYNX KİMLER İÇİN",
+    "subtitle_prefix": "EŞLEŞTİĞİMİZ",
+    "subtitle_highlight": "OYUNCU TİPLERİ",
+    "type_badge": "Oyuncu tipi",
     "persona1": {
       "quote": "ELO'mda tutarlı takım arkadaşları bulmak, saatlerce Discord'da spam yapmak anlamına gelmemeli. İletişim kuran, zamanında gelen ve gerçekten ana rollerini oynayan oyunculara ihtiyacım var.",
       "name": "Sıralı Tırmanışçı",
@@ -1722,15 +1722,15 @@
     }
   },
   "reviews": {
-    "title": "Real reviews from Google Play",
+    "title": "Google Play'den gerçek yorumlar",
     "summary": {
-      "ratings": "{play_count} ratings on Google Play in {market}",
-      "as_of": "as of {as_of_month_year}",
-      "stars_aria": "{play_rating} out of 5 stars"
+      "ratings": "{market} pazarında Google Play'de {play_count} değerlendirme",
+      "as_of": "{as_of_month_year} itibarıyla",
+      "stars_aria": "5 üzerinden {play_rating} yıldız"
     },
-    "read_all": "Read all reviews on Google Play",
+    "read_all": "Tüm yorumları Google Play'de okuyun",
     "card": {
-      "source": "via Google Play"
+      "source": "Google Play aracılığıyla"
     }
   },
   "faq": {
@@ -2021,120 +2021,129 @@
   },
   "invite": {
     "meta": {
-      "title": "Join Jynx - Gaming Social Platform",
-      "description": "You've been invited to connect on Jynx - the gaming social platform where gamers find their perfect teammates.",
-      "og_title": "Join me on Jynx",
-      "og_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "og_image_alt": "Jynx Invite",
-      "twitter_title": "Join me on Jynx",
-      "twitter_description": "You've been invited to connect on Jynx - the gaming social platform",
-      "twitter_image_alt": "Jynx Invite"
+      "title": "Jynx'e Katılın - Oyun Sosyal Platformu",
+      "description": "Jynx'te bağlantı kurmaya davet edildiniz - oyuncuların mükemmel takım arkadaşlarını bulduğu oyun sosyal platformu.",
+      "og_title": "Jynx'te bana katılın",
+      "og_description": "Jynx'te bağlantı kurmaya davet edildiniz - oyun sosyal platformu",
+      "og_image_alt": "Jynx Daveti",
+      "twitter_title": "Jynx'te bana katılın",
+      "twitter_description": "Jynx'te bağlantı kurmaya davet edildiniz - oyun sosyal platformu",
+      "twitter_image_alt": "Jynx Daveti"
     },
-    "heading": "You've been invited to connect on Jynx",
-    "subtitle": "The gaming social platform",
-    "open_app_btn": "Open in Jynx App",
+    "heading": "Jynx'te bağlantı kurmaya davet edildiniz",
+    "subtitle": "Oyun sosyal platformu",
+    "open_app_btn": "Jynx Uygulamasında Aç",
     "fallback": {
-      "title": "Don't have the app yet?",
-      "subtitle": "Download Jynx to connect with your invite",
-      "app_store": "Download on",
-      "play_store": "Get it on",
-      "web_app": "Or continue on the web app",
-      "web_app_desktop": "Continue on the web app"
+      "title": "Uygulamanız henüz yok mu?",
+      "subtitle": "Davetinizle bağlantı kurmak için Jynx'i indirin",
+      "app_store": "Şuradan indirin",
+      "play_store": "Şuradan edinin",
+      "web_app": "Ya da web uygulamasında devam edin",
+      "web_app_desktop": "Web uygulamasında devam edin"
     }
   },
   "games": {
-    "breadcrumb_label": "Breadcrumb",
-    "breadcrumb_home": "Home",
-    "breadcrumb_games": "Games",
-    "label_last_updated": "Last updated",
-    "label_author": "Author:",
-    "label_game": "Game:",
-    "label_download_ios": "Download Jynx on the App Store",
-    "label_download_android": "Get Jynx on Google Play",
-    "label_download_on": "Download on",
-    "label_get_it_on": "Get it on",
+    "breadcrumb_label": "Sayfa yolu",
+    "breadcrumb_home": "Ana Sayfa",
+    "breadcrumb_games": "Oyunlar",
+    "label_last_updated": "Son güncelleme",
+    "label_author": "Yazar:",
+    "label_game": "Oyun:",
+    "label_download_ios": "Jynx'i App Store'dan indirin",
+    "label_download_android": "Jynx'i Google Play'den edinin",
+    "label_download_on": "Şuradan indirin",
+    "label_get_it_on": "Şuradan edinin",
     "label": {
-      "rank_rule": "Rank-gap rule:",
-      "last_verified": "Last verified",
-      "stat_source": "Source",
-      "stat_as_of": "as of"
+      "rank_rule": "Rütbe farkı kuralı:",
+      "last_verified": "Son doğrulama",
+      "stat_source": "Kaynak",
+      "stat_as_of": "itibarıyla"
     },
     "section": {
-      "why": "Why this duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
-      "tips": "Tips",
-      "competitors": "Comparable tools",
-      "tools": "LFG tools landscape",
-      "pain": "Pain points",
-      "faq": "FAQ",
-      "crosslinks": "Related",
-      "quick_answer": "Quick answer",
-      "what_looks_like": "What LFG looks like",
-      "key_stats": "Player numbers",
-      "comparison": "Comparison",
-      "archetypes": "Player types"
+      "why": "Bu duo bulucu neden",
+      "ranks": "Rütbeler",
+      "roles": "Roller",
+      "queues": "Kuyruk türleri",
+      "tips": "İpuçları",
+      "competitors": "Karşılaştırılabilir araçlar",
+      "tools": "LFG araçları manzarası",
+      "pain": "Sorun noktaları",
+      "faq": "SSS",
+      "crosslinks": "İlgili bağlantılar",
+      "quick_answer": "Kısa yanıt",
+      "what_looks_like": "LFG nasıl görünür",
+      "key_stats": "Oyuncu sayıları",
+      "comparison": "Karşılaştırma",
+      "archetypes": "Oyuncu tipleri"
     },
     "heading": {
-      "why": "Why a purpose-built duo finder",
-      "ranks": "Ranks",
-      "roles": "Roles",
-      "queues": "Queue types",
-      "competitors": "Other LFG tools",
-      "tools": "LFG tools landscape (2026)",
-      "pain": "Game-specific LFG pain points",
-      "faq": "Frequently asked questions",
-      "crosslinks": "Related Jynx resources",
-      "quick_answer": "LFG in 60 seconds",
-      "what_looks_like": "What LFG looks like in 2026",
-      "key_stats": "Player numbers",
-      "archetypes": "Whatever kind of player you are",
-      "faq_duo": "Duo finder FAQ",
-      "faq_guide": "LFG FAQ"
+      "why": "Neden amaca özel bir duo bulucu",
+      "ranks": "Rütbeler",
+      "roles": "Roller",
+      "queues": "Kuyruk türleri",
+      "competitors": "Diğer LFG araçları",
+      "tools": "LFG araçları manzarası (2026)",
+      "pain": "Oyuna özel LFG sorun noktaları",
+      "faq": "Sık sorulan sorular",
+      "crosslinks": "İlgili Jynx kaynakları",
+      "quick_answer": "60 saniyede LFG",
+      "what_looks_like": "LFG 2026'da nasıl görünüyor",
+      "key_stats": "Oyuncu sayıları",
+      "archetypes": "Hangi tipte oyuncu olursanız olun",
+      "faq_duo": "Duo bulucu SSS",
+      "faq_guide": "LFG SSS"
     },
     "intro": {
-      "ranks": "Match within the platform-enforced gap window. Ranks below.",
-      "roles": "Match by complementary roles, not duplicate ones.",
-      "competitors": "Where LFG happens today, and what each tool optimizes for:",
-      "tools": "What players use today and where each tool stops:"
+      "ranks": "Platformun zorunlu kıldığı rütbe farkı aralığında eşleşin. Rütbeler aşağıda.",
+      "roles": "Mükerrer değil, birbirini tamamlayan rollere göre eşleşin.",
+      "competitors": "LFG bugün nerede gerçekleşiyor ve her araç neye odaklanıyor:",
+      "tools": "Oyuncular bugün ne kullanıyor ve her araç nerede duruyor:"
     },
     "cta": {
-      "label": "Get Jynx",
-      "heading": "Find your duo on Jynx",
-      "sub": "Free. Verified ranks. Voice + schedule matching."
+      "label": "Jynx'i Edinin",
+      "heading": "Jynx'te duo'nuzu bulun",
+      "sub": "Ücretsiz. Doğrulanmış rütbeler. Sesli + program eşleştirmesi."
     },
     "cta_final": {
-      "label": "Get Jynx",
-      "heading": "Stop solo-queueing",
-      "sub": "Get Jynx and find a verified duo today."
+      "label": "Jynx'i Edinin",
+      "heading": "Solo kuyruğu bırakın",
+      "sub": "Jynx'i edinin ve bugün doğrulanmış bir duo bulun."
     },
     "footer": {
-      "rights": "All rights reserved."
+      "rights": "Tüm hakları saklıdır."
     },
-    "breadcrumb_duo": "Duo Finder",
-    "breadcrumb_guide": "LFG Guide"
+    "breadcrumb_duo": "Duo Bulucu",
+    "breadcrumb_guide": "LFG Rehberi"
   },
   "games_section": {
-    "title": "Find Your Game",
-    "sub": "Duo finders and LFG guides for the games you play — find your squad faster.",
-    "cta": "All games",
+    "title": "Oyununuzu Bulun",
+    "sub": "Oynadığınız oyunlar için duo bulucular ve LFG rehberleri — kadronuza daha hızlı ulaşın.",
+    "cta": "Tüm oyunlar",
     "glossary_teaser": {
-      "title": "From the Gaming Glossary",
-      "cta": "Browse the glossary"
+      "title": "Oyun Sözlüğü'nden",
+      "cta": "Sözlüğe göz atın"
     }
   },
   "entity": {
     "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who actually fit the games you already play. Free on the web, Android, and iOS.",
-    "canonical_phrase": "next-gen companion app for gamers"
+    "canonical_phrase": "oyuncular için yeni nesil yardımcı uygulama"
   },
   "consent": {
     "banner": {
-      "aria_label": "Cookie consent",
-      "text": "We use analytics to understand how people find Jynx and improve the site. No personal data is sold.",
-      "privacy_link": "Privacy policy",
-      "accept": "Accept",
-      "decline": "Decline"
+      "aria_label": "Çerez onayı",
+      "text": "İnsanların Jynx'i nasıl bulduğunu anlamak ve siteyi iyileştirmek için analitik kullanıyoruz. Kişisel veri satılmaz.",
+      "privacy_link": "Gizlilik politikası",
+      "accept": "Kabul et",
+      "decline": "Reddet"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Dil önerisi",
+    "title": "Jynx {{localeName}} dilinde?",
+    "body": "Tarayıcınız {{localeName}} olarak ayarlı. Bu dille devam etmek ister misiniz?",
+    "accept": "{{localeName}} diline geç",
+    "accept_aria": "Site dilini {{localeName}} olarak değiştir",
+    "dismiss": "Hayır, teşekkürler",
+    "dismiss_aria": "Dil önerisini kapat"
   }
 }

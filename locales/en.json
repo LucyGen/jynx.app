@@ -1487,11 +1487,11 @@
     },
     "q2": {
       "question": "How to meet gamers online and build a gaming friend group?",
-      "answer": "Finding gamers is easy. Finding RIGHT gamers is where everyone fails.<br><br>You need teammates who are available when you play, communicate in your language, and match your skill level. That's not too much to ask — it's bare minimum.<br><br><strong>What actually works:</strong><br><strong>• Filter before you commit</strong> — Browse player profiles with verified stats, availability, and playstyle before connecting<br><strong>• Prioritize compatibility</strong> — Timezone, rank, and communication style matter more than just playing same game<br><strong>• Build gradually</strong> — Focus on finding 2-3 solid teammates rather than joining mega-communities where meaningful connections are harder to form<br><br>Avoid platforms that force you to spam 'LFG' and hope for responses. Your time is worth more than that."
+      "answer": "Finding gamers is easy. Finding RIGHT gamers is where everyone fails.<br><br>You need teammates who are available when you play, communicate in your language, and match your skill level. That's not too much to ask — it's bare minimum.<br><br><strong>What actually works:</strong><br><strong>• Filter before you commit</strong> — Browse player profiles with stats, availability, and playstyle before connecting<br><strong>• Prioritize compatibility</strong> — Timezone, rank, and communication style matter more than just playing same game<br><strong>• Build gradually</strong> — Focus on finding 2-3 solid teammates rather than joining mega-communities where meaningful connections are harder to form<br><br>Avoid platforms that force you to spam 'LFG' and hope for responses. Your time is worth more than that."
     },
     "q3": {
       "question": "How to find teammates for ranked games in League of Legends and Valorant?",
-      "answer": "Finding good ranked teammates isn't about quantity — it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Verified rank</strong> — Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility</strong> — Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability</strong> — Ranked grinding requires regular play — find people with similar schedules<br><strong>• Communication style</strong> — Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing. <a href=\"/blog/league-of-legends-teammate-guide.html\">We wrote the guide on finding League teammates</a> — and here's <a href=\"/blog/ai-gaming-matchmaking-guide.html\">how AI matchmaking actually works under the hood</a>."
+      "answer": "Finding good ranked teammates isn't about quantity — it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity.<br><br>What to look for in ranked teammates:<br><strong>• Real rank</strong> — Make sure they're actually at your ELO (not smurfing or boosted)<br><strong>• Role compatibility</strong> — Check their champion pool and preferred roles before queuing<br><strong>• Consistent availability</strong> — Ranked grinding requires regular play — find people with similar schedules<br><strong>• Communication style</strong> — Some players prefer shotcalling, others want minimal chat. Match this upfront.<br><br>The best approach? Use platforms with real rank, role, and schedule filters — the filter comes before the chat. You'll spend less time in champ select dodging and more time climbing. <a href=\"/blog/league-of-legends-teammate-guide.html\">We wrote the guide on finding League teammates</a> — and here's <a href=\"/blog/ai-gaming-matchmaking-guide.html\">how AI matchmaking actually works under the hood</a>."
     },
     "q4": {
       "question": "What are the best alternatives to Discord for finding gaming teammates?",
@@ -1499,7 +1499,7 @@
     },
     "q5": {
       "question": "Are there free gaming matchmaking apps and platforms?",
-      "answer": "Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning.<br><br><strong>What to expect from free tiers:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Player profiles with stats<br>• Basic messaging and session scheduling<br><br><strong>What premium tiers usually add:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags to avoid:</strong><br>• Paywalling basic features like messaging or seeing who matched with you<br>• Forcing you to pay to verify your rank or link accounts<br>• No free tier at all (if they're confident in their product, they should let you try it)<br><br>Your time is more valuable than subscription fees. Focus on platforms with generous free tiers so you can test before committing."
+      "answer": "Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning.<br><br><strong>What to expect from free tiers:</strong><br>• Core matchmaking features (search, filter, connect)<br>• Player profiles with stats<br>• Basic messaging and session scheduling<br><br><strong>What premium tiers usually add:</strong><br>• Unlimited daily matches/swipes<br>• Advanced filters (very specific criteria)<br>• Cosmetic upgrades (badges, profile customization)<br><br><strong>Red flags to avoid:</strong><br>• Paywalling basic features like messaging or seeing who matched with you<br>• Forcing you to pay to see your matches or message teammates<br>• No free tier at all (if they're confident in their product, they should let you try it)<br><br>Your time is more valuable than subscription fees. Focus on platforms with generous free tiers so you can test before committing."
     }
   },
   "how_it_works": {
@@ -2125,7 +2125,7 @@
     }
   },
   "entity": {
-    "description": "Jynx is the next-gen companion app for gamers. Verified ranks, role-compatible matches, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who fit the games you already play, then talk in native voice rooms without leaving the app. Free on the web, Android, and iOS.",
+    "description": "Jynx is the next-gen companion app for gamers. Per-game rank, role, and region filters, voice intent, and real schedule overlap replace lobby roulette — swipe, match, and queue with duos and squads who fit the games you already play, then talk in native voice rooms without leaving the app. Free on the web, Android, and iOS.",
     "canonical_phrase": "next-gen companion app for gamers"
   },
   "consent": {
@@ -2136,5 +2136,14 @@
       "accept": "Accept",
       "decline": "Decline"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Language suggestion",
+    "title": "Jynx in {{localeName}}?",
+    "body": "Your browser is set to {{localeName}}. Continue in that language?",
+    "accept": "Switch to {{localeName}}",
+    "accept_aria": "Switch the site language to {{localeName}}",
+    "dismiss": "No thanks",
+    "dismiss_aria": "Dismiss the language suggestion"
   }
 }

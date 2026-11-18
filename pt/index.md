@@ -1,9 +1,9 @@
 ---
 title: "App de Matchmaking Gaming | Encontre Companheiros LFG"
-description: "O Jynx é o app companheiro de nova geração para gamers: ranks verificados, match por função, voz e horário real substituem a roleta do matchmaking."
+description: "O Jynx é o app companheiro de nova geração para gamers: filtros de rank por jogo, match por função, voz e horário real substituem a roleta do matchmaking."
 canonical: "https://jynx.app/pt/"
 locale: "pt"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -101,8 +101,8 @@ Duo finders e guias LFG para os jogos que você joga — ache sua equipe mais r�
 - [Free FireRank da temporada verificado, intenção de modo, kit e horário em comum: é assim que squad de BR e quarteto de Clash Squad se fecham no Jynx.](/pt/games/free-fire/duo-finder.html)
 - [ValorantSem roleta de rank gap: o Jynx encontra duos de Valorant por rank verificado, função de agente, voz e horário — do Ferro ao Radiante, ranqueada ou Premier.](/pt/games/valorant/duo-finder.html)
 - [League of LegendsSem desperdiçar LP: o Jynx casa duos de Lol por rank verificado via Riot ID, rota primária e secundária, intenção de voz e pool de campeões — dupla de bot em primeiro lugar.](/pt/games/league-of-legends/duo-finder.html)
-- [Counter-Strike 2Sem chutar rank: o Jynx cruza rating Premier, level FACEIT, role de AWPer a support, voz e pick de mapa pra achar duo CS2, do Wingman ao five-stack.](/pt/games/cs2/duo-finder.html)
-- [Rainbow Six SiegeChega de Discord: o Jynx monta squad de Siege por divisão de RP verificada, pool de operadores nos dois lados, IGL, voz e scrim, do Cobre ao Campeão.](/pt/games/rainbow-six-siege/duo-finder.html)
+- [Counter-Strike 2Sem chutar rank: o Jynx filtra parceiro de CS2 pela ladder competitiva da Valve, de Silver I a Global Elite, mais idioma, região e playstyle — com o nível da segunda ladder declarado junto do rank.](/pt/games/cs2/duo-finder.html)
+- [Rainbow Six SiegeChega de Discord: o Jynx monta squad de Siege por rank do Cobre ao Campeão dentro das janelas de squad, role de Hard Breach a Roamer, idioma e região — e o five audiciona no Standard antes do RP valer.](/pt/games/rainbow-six-siege/duo-finder.html)
 
 [Todos os jogos](/pt/procurar-duo.html)
 
@@ -131,11 +131,11 @@ Sim, e já era hora. O LFG tradicional está quebrado — você fica fazendo spa
 
 ### Como conhecer gamers online e construir um grupo de amigos gaming?
 
-Encontrar gamers é fácil. Encontrar os gamers CERTOS é onde todo mundo falha. Você precisa de companheiros que estejam disponíveis quando você joga, se comuniquem no seu idioma e correspondam ao seu nível de habilidade. Isso não é pedir demais — é o mínimo. **O que realmente funciona:** **• Filtre antes de se comprometer** — Navegue perfis de jogadores com stats verificadas, disponibilidade e estilo de jogo antes de conectar **• Priorize compatibilidade** — Fuso horário, rank e estilo de comunicação importam mais do que apenas jogar o mesmo jogo **• Construa gradualmente** — Foque em encontrar 2-3 companheiros sólidos em vez de entrar em mega-comunidades onde conexões significativas são mais difíceis de formar Evite plataformas que te forçam a fazer spam de 'LFG' e torcer por respostas. Seu tempo vale mais que isso.
+Encontrar gamers é fácil. Encontrar os gamers CERTOS é onde todo mundo falha. Você precisa de companheiros que estejam disponíveis quando você joga, se comuniquem no seu idioma e correspondam ao seu nível de habilidade. Isso não é pedir demais — é o mínimo. **O que realmente funciona:** **• Filtre antes de se comprometer** — Navegue perfis de jogadores com stats, disponibilidade e estilo de jogo antes de conectar **• Priorize compatibilidade** — Fuso horário, rank e estilo de comunicação importam mais do que apenas jogar o mesmo jogo **• Construa gradualmente** — Foque em encontrar 2-3 companheiros sólidos em vez de entrar em mega-comunidades onde conexões significativas são mais difíceis de formar Evite plataformas que te forçam a fazer spam de 'LFG' e torcer por respostas. Seu tempo vale mais que isso.
 
 ### Como encontrar companheiros para jogos ranqueados em League of Legends e Valorant?
 
-Encontrar bons companheiros ranqueados não é questão de quantidade — é questão de compatibilidade. Jogar com randoms que não se comunicam, rage quit após first blood, ou jogam funções que não dominam custa LP e sanidade. O que procurar em companheiros ranqueados: **• Rank verificado** — Certifique-se de que eles estão realmente no seu ELO (nada de smurf ou boost) **• Compatibilidade de função** — Verifique o pool de campeões e funções preferidas antes de entrar na fila **• Disponibilidade consistente** — Grinding ranqueado requer jogo regular — encontre pessoas com horários similares **• Estilo de comunicação** — Alguns jogadores preferem shotcalling, outros querem chat mínimo. Alinhe isso desde o início. A melhor abordagem? Use plataformas que verifiquem ranks de jogadores pela API da Riot e permitam filtrar por função, horário e preferências de comunicação. Você passará menos tempo na seleção de campeões esquivando e mais tempo subindo de rank. [A gente escreveu o guia para encontrar companheiros de League](/pt/blog/guia-procurar-duo-lol.html) — e aqui está [como o matchmaking com IA realmente funciona por baixo do capô](/pt/blog/guia-matchmaking-ia-jogos.html).
+Encontrar bons companheiros ranqueados não é questão de quantidade — é questão de compatibilidade. Jogar com randoms que não se comunicam, rage quit após first blood, ou jogam funções que não dominam custa LP e sanidade. O que procurar em companheiros ranqueados: **• Rank real** — Certifique-se de que eles estão realmente no seu ELO (nada de smurf ou boost) **• Compatibilidade de função** — Confira o pool de campeões e funções preferidas antes de entrar na fila **• Disponibilidade consistente** — Grinding ranqueado requer jogo regular — encontre pessoas com horários similares **• Estilo de comunicação** — Alguns jogadores preferem shotcalling, outros querem chat mínimo. Alinhe isso desde o início. A melhor abordagem? Use plataformas com filtros reais de rank, função e horário — o filtro vem antes do chat. Você passará menos tempo na seleção de campeões esquivando e mais tempo subindo de rank. [A gente escreveu o guia para encontrar companheiros de League](/pt/blog/guia-procurar-duo-lol.html) — e aqui está [como o matchmaking com IA realmente funciona por baixo do capô](/pt/blog/guia-matchmaking-ia-jogos.html).
 
 ### Quais são as melhores alternativas ao Discord para encontrar companheiros de gaming?
 
@@ -143,7 +143,7 @@ Discord é ótimo pra conversar com companheiros que você JÁ tem. Pra encontra
 
 ### Existem apps e plataformas de matchmaking gaming gratuitos?
 
-Sim, e você não deveria ter que pagar só pra encontrar companheiros. Muitas plataformas oferecem níveis gratuitos sólidos que incluem o essencial: descoberta de jogadores, navegação de perfis, chat e planejamento de sessões. **O que esperar dos níveis gratuitos:** • Recursos principais de matchmaking (buscar, filtrar, conectar) • Perfis de jogadores com estatísticas • Mensagens básicas e agendamento de sessões **O que níveis premium geralmente adicionam:** • Correspondências/deslizamentos diários ilimitados • Filtros avançados (critérios muito específicos) • Melhorias cosméticas (emblemas, personalização de perfil) **Sinais de alerta a evitar:** • Colocar recursos básicos como mensagens ou ver quem correspondeu com você atrás de paywall • Forçar você a pagar para verificar seu rank ou vincular contas • Sem nível gratuito de jeito nenhum (se eles confiam no produto, deveriam deixar você testar) Seu tempo vale mais do que taxas de assinatura. Foque em plataformas com níveis gratuitos generosos para que você possa testar antes de se comprometer.
+Sim, e você não deveria ter que pagar só pra encontrar companheiros. Muitas plataformas oferecem níveis gratuitos sólidos que incluem o essencial: descoberta de jogadores, navegação de perfis, chat e planejamento de sessões. **O que esperar dos níveis gratuitos:** • Recursos principais de matchmaking (buscar, filtrar, conectar) • Perfis de jogadores com estatísticas • Mensagens básicas e agendamento de sessões **O que níveis premium geralmente adicionam:** • Correspondências/deslizamentos diários ilimitados • Filtros avançados (critérios muito específicos) • Melhorias cosméticas (emblemas, personalização de perfil) **Sinais de alerta a evitar:** • Colocar recursos básicos como mensagens ou ver quem correspondeu com você atrás de paywall • Forçar você a pagar para ver suas partidas ou conversar com companheiros • Sem nível gratuito de jeito nenhum (se eles confiam no produto, deveriam deixar você testar) Seu tempo vale mais do que taxas de assinatura. Foque em plataformas com níveis gratuitos generosos para que você possa testar antes de se comprometer.
 
 Grátis para sempre
 

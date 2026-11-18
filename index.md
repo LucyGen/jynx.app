@@ -3,7 +3,7 @@ title: "Gaming Matchmaking App | Find LFG Teammates"
 description: "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Stop playing alone."
 canonical: "https://jynx.app/"
 locale: "en"
-dateModified: "2026-11-17"
+dateModified: "2026-11-18"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -91,12 +91,12 @@ Want the full breakdown? Read the founder-written head-to-head: [Jynx vs Discord
 
 Duo finders and LFG guides for the games you play — find your squad faster.
 
-- [GTA 6 OnlineThe launch trailer landed and November 19 holds. Screen candidates in GTA Online heists, lock platforms, fix the weekly session, and enter Vice City as a ready four.](/games/gta-6-online/duo-finder.html)
-- [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx matches crews on verified RP Rank, heist intent, voice, and session length before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
-- [Counter-Strike 2Match on the numbers that matter: verified Premier CS Rating, FACEIT level, AWPer-to-support role fit, and shared map picks — built for Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
-- [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx matches Team-Up hero-pool overlap, current-season rank after the division re-seed, voice intent, and schedule — Bronze through One Above All.](/games/marvel-rivals/duo-finder.html)
-- [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on Build or Zero Build intent, controller or KBM, verified ranked tier, and session length.](/games/fortnite/duo-finder.html)
-- [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: verified RP division inside Ubisoft's rank windows, operator pools both sides, IGL tags, voice, scrim nights — Copper V through Champion I.](/games/rainbow-six-siege/duo-finder.html)
+- [GTA 6 OnlineGTA 6 Online lands November 19, 2026 and is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.](/games/gta-6-online/duo-finder.html)
+- [GTA OnlineGTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.](/games/gta-online/duo-finder.html)
+- [Counter-Strike 2Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.](/games/cs2/duo-finder.html)
+- [Marvel RivalsSeason 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.](/games/marvel-rivals/duo-finder.html)
+- [FortniteStop filling squads with randoms who drop solo. Match Fortnite duos, trios, and squads on the ranked ladder from Bronze to Unreal, plus language and playstyle.](/games/fortnite/duo-finder.html)
+- [Rainbow Six SiegeSkip the Discord shuffle. Jynx builds Siege stacks the queue will launch: rank from Copper to Champion inside Ubisoft's squad windows, roles from Hard Breach to Roamer, language, and region.](/games/rainbow-six-siege/duo-finder.html)
 
 [All games](/games.html)
 
@@ -125,11 +125,11 @@ Yeah, and it's about time. Traditional LFG is broken — you're spamming LFG cha
 
 ### How to meet gamers online and build a gaming friend group?
 
-Finding gamers is easy. Finding RIGHT gamers is where everyone fails. You need teammates who are available when you play, communicate in your language, and match your skill level. That's not too much to ask — it's bare minimum. **What actually works:** **• Filter before you commit** — Browse player profiles with verified stats, availability, and playstyle before connecting **• Prioritize compatibility** — Timezone, rank, and communication style matter more than just playing same game **• Build gradually** — Focus on finding 2-3 solid teammates rather than joining mega-communities where meaningful connections are harder to form Avoid platforms that force you to spam 'LFG' and hope for responses. Your time is worth more than that.
+Finding gamers is easy. Finding RIGHT gamers is where everyone fails. You need teammates who are available when you play, communicate in your language, and match your skill level. That's not too much to ask — it's bare minimum. **What actually works:** **• Filter before you commit** — Browse player profiles with stats, availability, and playstyle before connecting **• Prioritize compatibility** — Timezone, rank, and communication style matter more than just playing same game **• Build gradually** — Focus on finding 2-3 solid teammates rather than joining mega-communities where meaningful connections are harder to form Avoid platforms that force you to spam 'LFG' and hope for responses. Your time is worth more than that.
 
 ### How to find teammates for ranked games in League of Legends and Valorant?
 
-Finding good ranked teammates isn't about quantity — it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity. What to look for in ranked teammates: **• Verified rank** — Make sure they're actually at your ELO (not smurfing or boosted) **• Role compatibility** — Check their champion pool and preferred roles before queuing **• Consistent availability** — Ranked grinding requires regular play — find people with similar schedules **• Communication style** — Some players prefer shotcalling, others want minimal chat. Match this upfront. The best approach? Use platforms that verify player ranks through Riot's API and let you filter by role, schedule, and communication preferences. You'll spend less time in champ select dodging and more time climbing. [We wrote the guide on finding League teammates](/blog/league-of-legends-teammate-guide.html) — and here's [how AI matchmaking actually works under the hood](/blog/ai-gaming-matchmaking-guide.html).
+Finding good ranked teammates isn't about quantity — it's about compatibility. Playing with randoms who don't communicate, rage quit after first blood, or play roles they're not comfortable with costs you LP and sanity. What to look for in ranked teammates: **• Real rank** — Make sure they're actually at your ELO (not smurfing or boosted) **• Role compatibility** — Check their champion pool and preferred roles before queuing **• Consistent availability** — Ranked grinding requires regular play — find people with similar schedules **• Communication style** — Some players prefer shotcalling, others want minimal chat. Match this upfront. The best approach? Use platforms with real rank, role, and schedule filters — the filter comes before the chat. You'll spend less time in champ select dodging and more time climbing. [We wrote the guide on finding League teammates](/blog/league-of-legends-teammate-guide.html) — and here's [how AI matchmaking actually works under the hood](/blog/ai-gaming-matchmaking-guide.html).
 
 ### What are the best alternatives to Discord for finding gaming teammates?
 
@@ -137,7 +137,7 @@ Discord is great for chatting with teammates you ALREADY have. For finding new o
 
 ### Are there free gaming matchmaking apps and platforms?
 
-Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning. **What to expect from free tiers:** • Core matchmaking features (search, filter, connect) • Player profiles with stats • Basic messaging and session scheduling **What premium tiers usually add:** • Unlimited daily matches/swipes • Advanced filters (very specific criteria) • Cosmetic upgrades (badges, profile customization) **Red flags to avoid:** • Paywalling basic features like messaging or seeing who matched with you • Forcing you to pay to verify your rank or link accounts • No free tier at all (if they're confident in their product, they should let you try it) Your time is more valuable than subscription fees. Focus on platforms with generous free tiers so you can test before committing.
+Yes, and you shouldn't have to pay just to find teammates. Many platforms offer robust free tiers that include the essentials: player discovery, profile browsing, chat, and session planning. **What to expect from free tiers:** • Core matchmaking features (search, filter, connect) • Player profiles with stats • Basic messaging and session scheduling **What premium tiers usually add:** • Unlimited daily matches/swipes • Advanced filters (very specific criteria) • Cosmetic upgrades (badges, profile customization) **Red flags to avoid:** • Paywalling basic features like messaging or seeing who matched with you • Forcing you to pay to see your matches or message teammates • No free tier at all (if they're confident in their product, they should let you try it) Your time is more valuable than subscription fees. Focus on platforms with generous free tiers so you can test before committing.
 
 Free Forever
 

@@ -1487,11 +1487,11 @@
     },
     "q2": {
       "question": "Comment rencontrer des gamers en ligne et construire un groupe d'amis gaming ?",
-      "answer": "Trouver des gamers, c'est facile. Trouver les BONS gamers, c'est là que tout le monde échoue.<br><br>Vous avez besoin de coéquipiers disponibles quand vous jouez, qui communiquent dans votre langue et correspondent à votre niveau de compétence. C'est pas trop demander — c'est le minimum.<br><br><strong>Ce qui fonctionne vraiment :</strong><br><strong>• Filtrez avant de vous engager</strong> — Parcourez des profils de joueurs avec stats vérifiées, disponibilités et style de jeu avant de vous connecter<br><strong>• Priorisez la compatibilité</strong> — Fuseau horaire, rang et style de communication comptent plus que juste jouer au même jeu<br><strong>• Construisez graduellement</strong> — Concentrez-vous sur trouver 2-3 coéquipiers solides plutôt que rejoindre des méga-communautés où les connexions significatives sont plus difficiles à former<br><br>Évitez les plateformes qui vous forcent à spammer 'LFG' en espérant des réponses. Votre temps vaut mieux que ça."
+      "answer": "Trouver des gamers, c'est facile. Trouver les BONS gamers, c'est là que tout le monde échoue.<br><br>Vous avez besoin de coéquipiers disponibles quand vous jouez, qui communiquent dans votre langue et correspondent à votre niveau de compétence. C'est pas trop demander — c'est le minimum.<br><br><strong>Ce qui fonctionne vraiment :</strong><br><strong>• Filtrez avant de vous engager</strong> — Parcourez des profils de joueurs avec stats, disponibilités et style de jeu avant de vous connecter<br><strong>• Priorisez la compatibilité</strong> — Fuseau horaire, rang et style de communication comptent plus que juste jouer au même jeu<br><strong>• Construisez graduellement</strong> — Concentrez-vous sur trouver 2-3 coéquipiers solides plutôt que rejoindre des méga-communautés où les connexions significatives sont plus difficiles à former<br><br>Évitez les plateformes qui vous forcent à spammer 'LFG' en espérant des réponses. Votre temps vaut mieux que ça."
     },
     "q3": {
       "question": "Comment trouver des coéquipiers pour matchs classés dans League of Legends et Valorant ?",
-      "answer": "Trouver de bons coéquipiers classés, c'est pas une question de quantité — c'est une question de compatibilité. Jouer avec des randoms qui ne communiquent pas, rage quit après le first blood ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang vérifié</strong> — Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle</strong> — Vérifiez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière</strong> — Le grind classé nécessite du jeu régulier — trouvez des personnes avec des horaires similaires<br><strong>• Style de communication</strong> — Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes qui vérifient les rangs des joueurs via l'API Riot et vous permettent de filtrer par rôle, horaire et préférences de communication. Vous passerez moins de temps à dodge en champ select et plus de temps à climb. <a href=\"/fr/blog/guide-trouver-duo-lol.html\">On a écrit le guide pour trouver des coéquipiers League</a> — et voici <a href=\"/fr/blog/guide-matchmaking-ia-jeux.html\">comment le matchmaking IA fonctionne sous le capot</a>."
+      "answer": "Trouver de bons coéquipiers classés, c'est pas une question de quantité — c'est une question de compatibilité. Jouer avec des randoms qui ne communiquent pas, rage quit après le first blood ou jouent des rôles qu'ils ne maîtrisent pas vous coûte des LP et votre santé mentale.<br><br>Ce qu'il faut chercher chez des coéquipiers classés :<br><strong>• Rang réel</strong> — Assurez-vous qu'ils sont réellement à votre ELO (pas de smurf ou boosted)<br><strong>• Compatibilité de rôle</strong> — Regardez leur pool de champions et rôles préférés avant de queue<br><strong>• Disponibilité régulière</strong> — Le grind classé nécessite du jeu régulier — trouvez des personnes avec des horaires similaires<br><strong>• Style de communication</strong> — Certains joueurs préfèrent le shotcalling, d'autres veulent un chat minimal. Matchez ça dès le départ.<br><br>La meilleure approche ? Utilisez des plateformes avec de vrais filtres de rang, de rôle et d'horaire — le filtre vient avant le chat. Vous passerez moins de temps à dodge en champ select et plus de temps à climb. <a href=\"/fr/blog/guide-trouver-duo-lol.html\">On a écrit le guide pour trouver des coéquipiers League</a> — et voici <a href=\"/fr/blog/guide-matchmaking-ia-jeux.html\">comment le matchmaking IA fonctionne sous le capot</a>."
     },
     "q4": {
       "question": "Quelles sont les meilleures alternatives à Discord pour trouver des coéquipiers gaming ?",
@@ -1499,7 +1499,7 @@
     },
     "q5": {
       "question": "Existe-t-il des applications et plateformes de matchmaking gaming gratuites ?",
-      "answer": "Oui, et vous ne devriez pas avoir à payer juste pour trouver des coéquipiers. Beaucoup de plateformes offrent des niveaux gratuits solides incluant l'essentiel : découverte de joueurs, parcours de profils, chat et planification de sessions.<br><br><strong>Ce à quoi s'attendre des niveaux gratuits :</strong><br>• Fonctionnalités de matchmaking principales (recherche, filtrage, connexion)<br>• Profils de joueurs avec stats<br>• Messagerie basique et planification de sessions<br><br><strong>Ce que les niveaux premium ajoutent généralement :</strong><br>• Matchs/swipes quotidiens illimités<br>• Filtres avancés (critères très spécifiques)<br>• Améliorations cosmétiques (badges, personnalisation de profil)<br><br><strong>Signaux d'alarme à éviter :</strong><br>• Mettre derrière un paywall des fonctionnalités basiques comme la messagerie ou voir qui vous a matché<br>• Vous forcer à payer pour vérifier votre rang ou lier des comptes<br>• Aucun niveau gratuit du tout (s'ils ont confiance en leur produit, ils devraient vous laisser essayer)<br><br>Votre temps vaut plus que des frais d'abonnement. Concentrez-vous sur des plateformes avec des niveaux gratuits généreux pour pouvoir tester avant de vous engager."
+      "answer": "Oui, et vous ne devriez pas avoir à payer juste pour trouver des coéquipiers. Beaucoup de plateformes offrent des niveaux gratuits solides incluant l'essentiel : découverte de joueurs, parcours de profils, chat et planification de sessions.<br><br><strong>Ce à quoi s'attendre des niveaux gratuits :</strong><br>• Fonctionnalités de matchmaking principales (recherche, filtrage, connexion)<br>• Profils de joueurs avec stats<br>• Messagerie basique et planification de sessions<br><br><strong>Ce que les niveaux premium ajoutent généralement :</strong><br>• Matchs/swipes quotidiens illimités<br>• Filtres avancés (critères très spécifiques)<br>• Améliorations cosmétiques (badges, personnalisation de profil)<br><br><strong>Signaux d'alarme à éviter :</strong><br>• Mettre derrière un paywall des fonctionnalités basiques comme la messagerie ou voir qui vous a matché<br>• Vous forcer à payer pour voir vos matchs ou écrire à vos coéquipiers<br>• Aucun niveau gratuit du tout (s'ils ont confiance en leur produit, ils devraient vous laisser essayer)<br><br>Votre temps vaut plus que des frais d'abonnement. Concentrez-vous sur des plateformes avec des niveaux gratuits généreux pour pouvoir tester avant de vous engager."
     }
   },
   "how_it_works": {
@@ -2125,7 +2125,7 @@
     }
   },
   "entity": {
-    "description": "Jynx est l'application compagnon nouvelle génération pour gamers : rangs vérifiés, matchs par rôle, vocal et disponibilités réelles remplacent la loterie du matchmaking — swipez, matchez et jouez avec des duos et squads qui vous correspondent. Gratuit sur le web, Android et iOS.",
+    "description": "Jynx est l'application compagnon nouvelle génération pour gamers : filtres de rang, de rôle et de région par jeu, vocal et disponibilités réelles remplacent la loterie du matchmaking — swipez, matchez et jouez avec des duos et squads qui vous correspondent. Gratuit sur le web, Android et iOS.",
     "canonical_phrase": "application compagnon nouvelle génération pour gamers"
   },
   "consent": {
@@ -2136,5 +2136,14 @@
       "accept": "Accepter",
       "decline": "Refuser"
     }
+  },
+  "locale_suggestion": {
+    "aria_label": "Suggestion de langue",
+    "title": "Jynx en {{localeName}} ?",
+    "body": "Votre navigateur est configuré en {{localeName}}. Continuer dans cette langue ?",
+    "accept": "Passer en {{localeName}}",
+    "accept_aria": "Changer la langue du site en {{localeName}}",
+    "dismiss": "Non merci",
+    "dismiss_aria": "Fermer la suggestion de langue"
   }
 }
