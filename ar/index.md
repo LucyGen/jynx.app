@@ -3,7 +3,7 @@ title: "تطبيق مطابقة الألعاب | ابحث عن فريق LFG"
 description: "اعثر على زملاء الألعاب المثاليين مع المطابقة الذكية من Jynx. طابق حسب المهارة وأسلوب اللعب والجدول. توقف عن اللعب وحدك."
 canonical: "https://jynx.app/ar/"
 locale: "ar"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

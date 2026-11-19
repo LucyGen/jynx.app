@@ -3,7 +3,7 @@ title: "Aplikasi Matchmaking Gaming | Temukan Rekan LFG"
 description: "Temukan rekan tim gaming sempurna dengan matchmaking cerdas Jynx. Cocokkan berdasarkan skill, gaya bermain & jadwal. Berhenti bermain sendirian."
 canonical: "https://jynx.app/id/"
 locale: "id"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

@@ -3,7 +3,7 @@ title: "Приложение Игрового Матчмейкинга | Най�
 description: "Найди идеальных тиммейтов с умным матчмейкингом Jynx. Подбор по скиллу, стилю игры и расписанию. Хватит играть в одиночку."
 canonical: "https://jynx.app/ru/"
 locale: "ru"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

@@ -3,7 +3,7 @@ title: "Gaming Matchmaking App | Find LFG Teammates"
 description: "Find your perfect gaming teammates with Jynx's smart matchmaking. Match by skill, playstyle & schedule. Stop playing alone."
 canonical: "https://jynx.app/"
 locale: "en"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

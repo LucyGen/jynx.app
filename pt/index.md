@@ -3,7 +3,7 @@ title: "App de Matchmaking Gaming | Encontre Companheiros LFG"
 description: "O Jynx é o app companheiro de nova geração para gamers: filtros de rank por jogo, match por função, voz e horário real substituem a roleta do matchmaking."
 canonical: "https://jynx.app/pt/"
 locale: "pt"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 

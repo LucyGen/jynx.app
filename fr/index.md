@@ -3,7 +3,7 @@ title: "Application Matchmaking Gaming | Trouver des Coéquipiers LFG"
 description: "Trouvez vos coéquipiers gaming parfaits avec le matchmaking intelligent de Jynx. Matchez par compétence, style de jeu et disponibilités. Arrêtez de jouer seul."
 canonical: "https://jynx.app/fr/"
 locale: "fr"
-dateModified: "2026-11-18"
+dateModified: "2026-11-19"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
