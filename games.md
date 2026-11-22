@@ -17,7 +17,7 @@ Every game pairs differently: CS2 matches on Valve's ladder from Silver I to Glo
 
 ## Find teammates by game
 
-- [GTA 6 Online Find Crew: Build the Heist Four in GTA Online](/games/gta-6-online/duo-finder.html) GTA 6 lands November 19, 2026, and GTA 6 Online is not in the Jynx catalog yet — so the crew gets built now, in GTA Online: platform, language, region, voice preference, and a weekly session.
+- [GTA 6 Online Find Crew: Build the Heist Four in GTA Online](/games/gta-6-online/duo-finder.html) GTA 6 shipped November 19 story-only — no online mode in the box and none announced — so the crew still builds in GTA Online: platform, language, region, voice preference, and a weekly session.
 - [GTA Online Crew Finder: Build Heist Crews That Finish](/games/gta-online/duo-finder.html) GTA heists run on leader-fronted setups, prep chains, and payout cuts. Jynx brings crews together by language, region, platform, voice intent, and a standing weekly session before anyone fronts a setup cost.
 - [CS2 Find Teammates by Rank, Region & Playstyle](/games/cs2/duo-finder.html) Match on the ladder the client queues: Valve competitive rank from Silver I to Global Elite, language, region, and playstyle — Wingman duos through gold-band five-stacks.
 - [Marvel Rivals Duo Finder: Roles, Team-Ups & Rank](/games/marvel-rivals/duo-finder.html) Season 10.5's marquee mode fields fixed two-person squads. Jynx filters stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle.

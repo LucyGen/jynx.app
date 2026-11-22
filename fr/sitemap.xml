@@ -105,13 +105,6 @@
   </url>
 
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/apex/trio/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/apex/trio/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/apex/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/apex/" />
     <lastmod>2026-11-12</lastmod>
@@ -119,43 +112,15 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/brawl-stars/club/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/brawl-stars/club/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/brawl-stars/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/brawl-stars/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/cs2/5-stack/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/cs2/5-stack/" />
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/cs2/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/cs2/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/fortnite/duo/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/fortnite/duo/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/fortnite/trio/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/fortnite/trio/" />
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -175,16 +140,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/gta-online/crew/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/gta-online/crew/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/gta-online/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/gta-online/" />
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -196,11 +154,11 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/lol/duo/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/lol/duo/" />
-    <lastmod>2026-11-12</lastmod>
+    <loc>https://jynx.app/fr/trouver-des-joueurs/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/" />
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/lol/</loc>
@@ -227,13 +185,6 @@
     <loc>https://jynx.app/fr/trouver-des-joueurs/mobile-legends/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/mobile-legends/" />
     <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/overwatch-2/duo/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/overwatch-2/duo/" />
-    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -266,23 +217,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/valorant/duo/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/valorant/duo/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/valorant/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/valorant/" />
     <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/warzone/trio/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/warzone/trio/" />
-    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -301,16 +238,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://jynx.app/fr/trouver-des-joueurs/wow/guilde/</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/wow/guilde/" />
-    <lastmod>2026-11-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://jynx.app/fr/trouver-des-joueurs/wow/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/trouver-des-joueurs/wow/" />
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -329,6 +259,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://jynx.app/fr/comparatif/gamerlink/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/gamerlink/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jynx.app/fr/comparatif/gameverse/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/gameverse/" />
     <lastmod>2026-10-31</lastmod>
@@ -343,6 +280,13 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jynx.app/fr/comparatif/mately/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/mately/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jynx.app/fr/comparatif/meilleures-applis-rencontrer-gamers/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/meilleures-applis-rencontrer-gamers/" />
     <lastmod>2026-10-31</lastmod>
@@ -350,9 +294,58 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://jynx.app/fr/comparatif/plink/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/plink/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/comparatif/reddit-lfg/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/reddit-lfg/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jynx.app/fr/comparatif/seek-team/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/seek-team/" />
     <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/comparatif/steam/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/comparatif/steam/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/communaute/amis-gamers/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/communaute/amis-gamers/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/bots-lfg-discord/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/bots-lfg-discord/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/esport-amateur/creer-sa-team/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/esport-amateur/creer-sa-team/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/creer-salon-lfg/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/creer-salon-lfg/" />
+    <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -406,11 +399,123 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/rangs-cs2/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/rangs-cs2/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/rangs-fortnite/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/rangs-fortnite/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/rangs-lol/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/rangs-lol/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/rangs-r6/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/rangs-r6/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/rangs-valorant/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/rangs-valorant/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/esport-amateur/rejoindre-une-team/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/esport-amateur/rejoindre-une-team/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://jynx.app/fr/blog/guides-ranked/sbmm/</loc>
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/sbmm/" />
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-cs2/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-cs2/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-fortnite/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-fortnite/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-lol/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-lol/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-r6/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-r6/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-trouver-des-joueurs/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-trouver-des-joueurs/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/discord/serveurs-discord-valorant/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/discord/serveurs-discord-valorant/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/guides-ranked/solo-queue-vs-duo-queue/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guides-ranked/solo-queue-vs-duo-queue/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/blog/communaute/teamwork/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/communaute/teamwork/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/team-esport/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/team-esport/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jynx.app/fr/tinder-des-gamers/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/tinder-des-gamers/" />
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://jynx.app/fr/remerciements/</loc>
@@ -441,134 +546,5 @@
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog.html</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog.html" />
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/guide-equipe-gta-6-online-vice-city-2026.html</loc>
-    <lastmod>2026-10-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/gta-6-online-team-building-guide-vice-city-2026.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guide-equipe-gta-6-online-vice-city-2026.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-construcao-equipe-gta-6-online-vice-city-2026.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/gta-6-online-team-building-guide-vice-city-2026.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp</image:loc>
-      <image:caption>Skyline de Vice City dans GTA VI avec des joueurs coordonnant un braquage</image:caption>
-      <image:title>Guide Ultime Équipe GTA 6 Online Vice City Novembre 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/construire-communautes-gaming-durables.html</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/building-lasting-gaming-communities.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/construire-communautes-gaming-durables.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/construir-comunidades-de-jogos-duradouras.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/building-lasting-gaming-communities.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/building-lasting-gaming-communities/hero.webp</image:loc>
-      <image:caption>Membres d&apos;une communauté gaming épanouie collaborant ensemble</image:caption>
-      <image:title>Construire des Communautés Gaming Qui Durent Vraiment</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/guide-escouade-zombies-black-ops-7.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guide-escouade-zombies-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-esquadrao-zumbis-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp</image:loc>
-      <image:caption>Escouade Black Ops 7 Zombies combattant dans la carte Ashes of the Damned</image:caption>
-      <image:title>Guide Escouade Black Ops 7 Zombies pour High Rounds</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/guide-matchmaking-ia-jeux.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-gaming-matchmaking-guide.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guide-matchmaking-ia-jeux.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-matchmaking-ia-jogos.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/ai-gaming-matchmaking-guide.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
-      <image:caption>Interface de matchmaking gaming alimentée par IA affichant des scores de compatibilité des joueurs</image:caption>
-      <image:title>Le Guide Complet du Matchmaking Gaming Alimenté par l&apos;IA</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/guide-trouver-duo-lol.html</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/league-of-legends-teammate-guide.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/guide-trouver-duo-lol.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-procurar-duo-lol.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/league-of-legends-teammate-guide.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/league-of-legends-teammate-guide/hero.webp</image:loc>
-      <image:caption>Team League of Legends coordonnant sa stratégie en partie classée</image:caption>
-      <image:title>Trouver un Duo LoL : le Guide Complet des Coéquipiers</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/halo-campagne-evolved-guide-coop-2026.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/halo-campaign-evolved-coop-guide-2026.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/halo-campagne-evolved-guide-coop-2026.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/halo-campanha-evoluida-guia-coop-2026.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/halo-campaign-evolved-coop-guide-2026.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp</image:loc>
-      <image:caption>Master Chief et son équipe dans le gameplay co-op de Halo Campaign Evolved</image:caption>
-      <image:title>Halo Campaign Evolved Co-op: Ton Équipe Parfaite 2026</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/ou-trouver-des-joueurs.html</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/where-to-find-gaming-teams.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/ou-trouver-des-joueurs.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/onde-achar-time-para-jogar.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/where-to-find-gaming-teams.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp</image:loc>
-      <image:caption>Joueurs comparant différentes plateformes sur plusieurs écrans</image:caption>
-      <image:title>Discord, Reddit ou Forums : Où Trouver des Joueurs</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/fr/blog/petits-groupes-vs-clans.html</loc>
-    <lastmod>2026-10-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/small-gaming-groups-vs-clans.html" />
-      <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog/petits-groupes-vs-clans.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/small-gaming-groups-vs-clans.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/small-gaming-groups-vs-clans/hero.webp</image:loc>
-      <image:caption>Petit groupe de joueurs soudé jouant ensemble</image:caption>
-      <image:title>Pourquoi les Petits Groupes Battent les Gros Clans</image:title>
-    </image:image>
   </url>
 </urlset>
