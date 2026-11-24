@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — salas de voz nativas onde a squad se formou.
 
 App para Mac a caminho.
 
-Nota 4,4 no Google Play no Brasil (118 avaliações, 10K+ instalações) · Novo na App Store · atualizado em novembro de 2026.
+Nota 4,4 no Google Play no Brasil (119 avaliações, 10K+ instalações) · Novo na App Store · atualizado em novembro de 2026.
 
 ## Jogue Melhor, Juntos
 
@@ -58,7 +58,7 @@ OS TIPOS DE JOGADOR QUE FAZEMOS MATCH
 
 4,4 de 5 estrelas
 
-4,4 118 avaliações no Google Play no Brasil atualizado em novembro de 2026
+4,4 119 avaliações no Google Play no Brasil atualizado em novembro de 2026
 
 [Ver todas as avaliações no Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

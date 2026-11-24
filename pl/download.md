@@ -19,7 +19,7 @@ Dopasuj się do kompatybilnych teammates i duosów do swoich gier — za darmo n
 
 Jynx to next-genowa aplikacja towarzysząca dla graczy — darmowa aplikacja LFG, która dopasowuje cię do kompatybilnych teammates według gry, rangi i stylu gry, zamiast nieskończonego scrollowania kanałów LFG.
 
-Ocena 4,4 w Google Play w Brazylia (118 ocen, 10K+ instalacji) · Nowość w App Store · stan na listopad 2026.
+Ocena 4,4 w Google Play w Brazylia (119 ocen, 10K+ instalacji) · Nowość w App Store · stan na listopad 2026.
 
 ## Zdobądź Jynx na iOS, Androida, Windows albo w przeglądarce
 

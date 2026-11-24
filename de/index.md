@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — native Sprachräume, dort, wo das Squad entsteht.
 
 Mac-App in Vorbereitung.
 
-Mit 4,4 bewertet auf Google Play in Brasilien (118 Bewertungen, 10K+ Installationen) · Neu im App Store · Stand November 2026.
+Mit 4,4 bewertet auf Google Play in Brasilien (119 Bewertungen, 10K+ Installationen) · Neu im App Store · Stand November 2026.
 
 ## Besser spielen, zusammen
 
@@ -58,7 +58,7 @@ DER SPIELER TYPEN, DIE WIR MATCHEN
 
 4,4 von 5 Sternen
 
-4,4 118 Bewertungen auf Google Play in Brasilien Stand November 2026
+4,4 119 Bewertungen auf Google Play in Brasilien Stand November 2026
 
 [Alle Bewertungen auf Google Play lesen](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

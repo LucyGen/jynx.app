@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — native voice rooms where the squad formed.
 
 Mac app on the way.
 
-Rated 4.4 on Google Play in Brazil (118 ratings, 10K+ installs) · New on the App Store · as of November 2026.
+Rated 4.4 on Google Play in Brazil (119 ratings, 10K+ installs) · New on the App Store · as of November 2026.
 
 ## Game Better, Together
 
@@ -58,7 +58,7 @@ THE PLAYER TYPES WE MATCH
 
 4.4 out of 5 stars
 
-4.4 118 ratings on Google Play in Brazil as of November 2026
+4.4 119 ratings on Google Play in Brazil as of November 2026
 
 [Read all reviews on Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

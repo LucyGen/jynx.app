@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — stanze vocali native, dove nasce la squadra.
 
 App Mac in arrivo.
 
-Valutata 4,4 su Google Play in Brasile (118 valutazioni, 10K+ installazioni) · Novità sull'App Store · aggiornato a novembre 2026.
+Valutata 4,4 su Google Play in Brasile (119 valutazioni, 10K+ installazioni) · Novità sull'App Store · aggiornato a novembre 2026.
 
 ## Gioca Meglio, Insieme
 
@@ -58,7 +58,7 @@ I TIPI DI GIOCATORE CHE ABBINIAMO
 
 4,4 stelle su 5
 
-4,4 118 valutazioni su Google Play in Brasile aggiornato a novembre 2026
+4,4 119 valutazioni su Google Play in Brasile aggiornato a novembre 2026
 
 [Leggi tutte le recensioni su Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

@@ -15,7 +15,7 @@ DOPASUJ. ROZMAWIAJ. GRAJ. — natywne pokoje głosowe tam, gdzie formuje się sq
 
 Aplikacja na Maca już wkrótce.
 
-Ocena 4,4 w Google Play w Brazylia (118 ocen, 10K+ instalacji) · Nowość w App Store · stan na listopad 2026.
+Ocena 4,4 w Google Play w Brazylia (119 ocen, 10K+ instalacji) · Nowość w App Store · stan na listopad 2026.
 
 ## Graj Lepiej, Razem
 
@@ -58,7 +58,7 @@ TYPY GRACZY KTÓRYCH DOPASOWUJEMY
 
 4,4 na 5 gwiazdek
 
-4,4 118 ocen w Google Play w Brazylia stan na listopad 2026
+4,4 119 ocen w Google Play w Brazylia stan na listopad 2026
 
 [Przeczytaj wszystkie opinie w Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

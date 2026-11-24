@@ -19,7 +19,7 @@ Ghép đôi với đồng đội và duo tương thích cho các game của bạ
 
 Jynx là ứng dụng bạn đồng hành thế hệ mới cho game thủ — một ứng dụng LFG miễn phí ghép bạn với đồng đội tương thích theo game, rank và phong cách chơi, thay vì cuộn vô hạn các kênh LFG.
 
-Đạt 4,4 trên Google Play tại Brazil (118 lượt đánh giá, 10K+ lượt cài đặt) · Mới trên App Store · tính đến tháng 11 năm 2026.
+Đạt 4,4 trên Google Play tại Brazil (119 lượt đánh giá, 10K+ lượt cài đặt) · Mới trên App Store · tính đến tháng 11 năm 2026.
 
 ## Tải Jynx trên iOS, Android, Windows hay web
 

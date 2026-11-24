@@ -792,7 +792,7 @@ The directory's biggest constellation: 20 League of Legends communities and 5,33
 
 Download Jynx and join the communities that match your games — the global room, your main's biggest club, or the niche crew you didn't know existed.
 
-[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
+[![](/assets/images/app-store-badge-en-us-CVyK0T4N.svg)](https://apps.apple.com/app/id6755744762?ct=game_communities&utm_source=jynx.app&utm_medium=web&utm_campaign=game_communities&utm_content=communities) [![](/assets/images/google-play-badge-en-us-DSKn-J0G.svg)](https://play.google.com/store/apps/details?id=app.jynx&hl=en&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dgame_communities%26utm_content%3Dcommunities) [![Microsoft Store download badge](/assets/images/ms-store-badge-en-us-CKhxGByk.svg)](https://apps.microsoft.com/detail/9p1fxhd42q3b?mode=direct)
 
 [browse every game](/games.html)
 

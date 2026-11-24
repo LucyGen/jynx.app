@@ -15,7 +15,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Приложение для Mac уже в пути.
 
-Оценка 4,4 в Google Play в Бразилия (118 оценок, 10K+ установок) · Новинка в App Store · по состоянию на ноябрь 2026 г..
+Оценка 4,4 в Google Play в Бразилия (119 оценок, 10K+ установок) · Новинка в App Store · по состоянию на ноябрь 2026 г..
 
 ## Играй лучше, играй вместе
 
@@ -58,7 +58,7 @@ Jynx существует, потому что традиционный LFG сл
 
 4,4 из 5 звезд
 
-4,4 118 оценок в Google Play в Бразилия по состоянию на ноябрь 2026 г.
+4,4 119 оценок в Google Play в Бразилия по состоянию на ноябрь 2026 г.
 
 [Читать все отзывы в Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

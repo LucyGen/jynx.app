@@ -15,7 +15,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Mac ऐप आ रहा है।
 
-ब्राज़ील में Google Play पर 4.4 रेटिंग (118 रेटिंग्स, 10K+ इंस्टॉल) · App Store पर नया · नवंबर 2026 तक।
+ब्राज़ील में Google Play पर 4.4 रेटिंग (119 रेटिंग्स, 10K+ इंस्टॉल) · App Store पर नया · नवंबर 2026 तक।
 
 ## बेहतर खेलें, साथ में
 
@@ -58,7 +58,7 @@ Jynx इसलिए है क्योंकि पारंपरिक LFG �
 
 5 में से 4.4 स्टार
 
-4.4 ब्राज़ील में Google Play पर 118 रेटिंग्स नवंबर 2026 तक
+4.4 ब्राज़ील में Google Play पर 119 रेटिंग्स नवंबर 2026 तक
 
 [Google Play पर सभी रिव्यूज़ पढ़ें](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

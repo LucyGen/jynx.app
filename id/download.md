@@ -19,7 +19,7 @@ Match dengan rekan tim dan duo yang kompatibel untuk game Anda — gratis di iOS
 
 Jynx adalah aplikasi pendamping gamer generasi baru — aplikasi LFG gratis yang memadankan Anda dengan rekan tim yang kompatibel berdasarkan game, rank, dan gaya bermain, alih-alih menggulir channel LFG tanpa akhir.
 
-Dinilai 4,4 di Google Play di Brasil (118 rating, 10K+ instalasi) · Baru di App Store · per November 2026.
+Dinilai 4,4 di Google Play di Brasil (119 rating, 10K+ instalasi) · Baru di App Store · per November 2026.
 
 ## Dapatkan Jynx di iOS, Android, Windows, atau web
 

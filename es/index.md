@@ -15,7 +15,7 @@ EMPAREJA. HABLA. JUEGA. — salas de voz nativas donde se forma el escuadrón.
 
 App para Mac en camino.
 
-Valorada 4,4 en Google Play en Brasil (118 valoraciones, 10K+ instalaciones) · Nueva en el App Store · a fecha de noviembre de 2026.
+Valorada 4,4 en Google Play en Brasil (119 valoraciones, 10K+ instalaciones) · Nueva en el App Store · a fecha de noviembre de 2026.
 
 ## Juega Mejor, Juntos
 
@@ -58,7 +58,7 @@ LOS TIPOS DE JUGADOR LOS PERFILES QUE EMPAREJAMOS
 
 4,4 sobre 5 estrellas
 
-4,4 118 valoraciones en Google Play en Brasil a fecha de noviembre de 2026
+4,4 119 valoraciones en Google Play en Brasil a fecha de noviembre de 2026
 
 [Leer todas las reseñas en Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

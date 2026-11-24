@@ -19,7 +19,7 @@ Abbina compagni e duo compatibili per i tuoi giochi — gratis su iOS, Android, 
 
 Jynx è l'app companion di nuova generazione per gamer — un'app LFG gratuita che ti abbina a compagni compatibili per gioco, rank e stile di gioco, invece dello scorrimento infinito dei canali LFG.
 
-Valutata 4,4 su Google Play in Brasile (118 valutazioni, 10K+ installazioni) · Novità sull'App Store · aggiornato a novembre 2026.
+Valutata 4,4 su Google Play in Brasile (119 valutazioni, 10K+ installazioni) · Novità sull'App Store · aggiornato a novembre 2026.
 
 ## Ottieni Jynx su iOS, Android, Windows o sul web
 

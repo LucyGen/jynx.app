@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "gitSha": "ad00aab6279259e0001756cc37ec2729c6972bfe",
+  "gitSha": "bff02d96ad3e86a7bbc51356816fcc00b5705da5",
   "generatedFrom": [
     {
       "source": "games",
@@ -8,7 +8,7 @@
     },
     {
       "source": "blog",
-      "date": "2026-10-11"
+      "date": "2026-11-24"
     },
     {
       "source": "glossary",
@@ -37,7 +37,7 @@
       }
     },
     "htmlPages": {
-      "main": 118,
+      "main": 116,
       "blog": 117,
       "games": 11,
       "glossary": 150,
@@ -64,7 +64,7 @@
       "blog-sitemap.xml": 41,
       "communities-sitemap.xml": 1,
       "comparisons-sitemap.xml": 2,
-      "fr/sitemap.xml": 69,
+      "fr/sitemap.xml": 70,
       "games-sitemap.xml": 14,
       "glossary-sitemap.xml": 149,
       "pt/blog-sitemap.xml": 10,
@@ -79,5 +79,5 @@
     "js": 21,
     "css": 24
   },
-  "distBytes": 118030125
+  "distBytes": 118221835
 }

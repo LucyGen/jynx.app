@@ -19,7 +19,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Jynx는 게이머를 위한 차세대 컴패니언 앱입니다 — 게임, 랭크, 플레이 스타일이 맞는 팀원으로 매치해 주는 무료 LFG 앱. LFG 채널을 무한히 스크롤하는 대신 말이죠.
 
-브라질의 Google Play 평점 4.4 (118개 평가, 10K+회 설치) · App Store 신규 등록 · 2026년 11월 기준.
+브라질의 Google Play 평점 4.4 (119개 평가, 10K+회 설치) · App Store 신규 등록 · 2026년 11월 기준.
 
 ## iOS, Android, Windows 또는 웹에서 Jynx 만나기
 

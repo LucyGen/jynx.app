@@ -15,7 +15,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 تطبيق Mac في الطريق.
 
-مقيّم ٤٫٤ على Google Play في البرازيل (١١٨ تقييمًا، 10K+ تثبيتًا) · جديد على App Store · حتى نوفمبر ٢٠٢٦.
+مقيّم ٤٫٤ على Google Play في البرازيل (١١٩ تقييمًا، 10K+ تثبيتًا) · جديد على App Store · حتى نوفمبر ٢٠٢٦.
 
 ## العب بشكل أفضل، معًا
 
@@ -58,7 +58,7 @@ Jynx موجود لأن LFG التقليدي معطّل — وقررنا إصلا
 
 ٤٫٤ من 5 نجوم
 
-٤٫٤ ١١٨ تقييمًا على Google Play في البرازيل حتى نوفمبر ٢٠٢٦
+٤٫٤ ١١٩ تقييمًا على Google Play في البرازيل حتى نوفمبر ٢٠٢٦
 
 [اقرأ جميع التقييمات على Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

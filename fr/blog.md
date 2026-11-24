@@ -18,7 +18,7 @@ Page 1 of 1
 ## Guides pratiques
 
 - [Comment trouver des amis gamers et se faire des amis sur les jeux vidéo](/fr/blog/communaute/amis-gamers/) Comment se faire des amis sur les jeux vidéo : où chercher, quoi dire, comment passer de partenaire de jeu à ami, même si vous êtes introverti.
-- [Meilleur bot LFG Discord : comparatif et limites](/fr/blog/discord/bots-lfg-discord/) Quel bot LFG Discord choisir ? LFG Hub, Apollo, Sesh, Raid-Helper comparés, leurs limites, et quand passer à une app dédiée comme Jynx.
+- [Meilleur bot LFG Discord : comparatif et limites](/fr/blog/discord/bots-lfg-discord/) Quel bot LFG Discord choisir ? LFG Hub, Apollo, Sesh et Raid-Helper comparés, leurs limites, et quand passer à une app dédiée comme Jynx pour vos soirées.
 - [Comment créer sa team esport : les étapes pour une équipe amateur](/fr/blog/esport-amateur/creer-sa-team/) Comment créer sa team esport : objectif, jeu, recrutement, rôles, identité, Discord, scrims, tournois et repères prudents sur l'association.
 - [Créer un salon LFG sur Discord : guide pas à pas](/fr/blog/discord/creer-salon-lfg/) Créer un salon LFG sur Discord en 6 étapes : type de salon, permissions, règles, modèle de message, rôles à mentionner et bot optionnel contre le ménage.
 - [LFG : que veut dire LFG dans les jeux vidéo ?](/fr/blog/glossaire/) LFG signifie Looking For Group. Définition, origine, abréviations liées (LFM, LFT) et comment poster une annonce LFG efficace pour trouver des joueurs.
@@ -30,7 +30,7 @@ Page 1 of 1
 - [Pourquoi votre rang ne monte pas en solo (et comment y remédier)](/fr/blog/guides-ranked/monter-en-ranked-solo/) Vous stagnez en ranked en solo ? 5 vraies raisons (SBMM, tilt, mauvaise pratique, taux de victoire) et une méthode pour reprendre la progression.
 - [Rangs CS2 : Premier, grades compétitifs et paliers de CS Rating](/fr/blog/guides-ranked/rangs-cs2/) Rangs CS2 expliqués : CS Rating du mode Premier et ses couleurs, 18 grades compétitifs par map, Faceit et ESEA en bref, et comment trouver des coéquipiers.
 - [Rangs Fortnite : la liste complète et comment on progresse](/fr/blog/guides-ranked/rangs-fortnite/) Tous les rangs Fortnite du Bronze à Unreal, comment les points sont calculés, comment débloquer le classé et comment progresser en solo ou en duo.
-- [Rangs LoL : tous les paliers, divisions et files classées](/fr/blog/guides-ranked/rangs-lol/) Les 10 rangs de League of Legends de Fer à Challenger, les divisions, les files Solo/Duo et Flexible et les règles de duo selon votre rang.
+- [Rangs LoL : tous les paliers, divisions et files classées](/fr/blog/guides-ranked/rangs-lol/) Les 10 rangs de League of Legends de Fer à Challenger, leurs divisions, les files Solo/Duo et Flexible et les règles de duo selon votre rang.
 - [Rangs Rainbow Six Siege : la liste complète, du Cuivre au Champion](/fr/blog/guides-ranked/rangs-r6/) Les 8 rangs Rainbow Six Siege du Cuivre au Champion, leurs 5 divisions, le fonctionnement des points de rang (RP) et les règles de groupe en classé.
 - [Rangs Valorant : la liste complète et les règles du classé](/fr/blog/guides-ranked/rangs-valorant/) Les 9 rangs Valorant du Fer au Radiant, le score de classement, le rang d'acte et les règles pour jouer en duo, trio ou à cinq selon votre rang.
 - [Comment rejoindre une team esport : les étapes concrètes](/fr/blog/esport-amateur/rejoindre-une-team/) Comment rejoindre une team esport : profil gaming, où chercher, candidature, tryout et erreurs à éviter, plus l'option de former votre équipe.

@@ -15,7 +15,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Mac অ্যাপ আসছে।
 
-ব্রাজিল-এ Google Play-তে রেটিং ৪.৪ (১১৮ রেটিং, 10K+ ইনস্টল) · App Store-এ নতুন · নভেম্বর ২০২৬ অনুযায়ী।
+ব্রাজিল-এ Google Play-তে রেটিং ৪.৪ (১১৯ রেটিং, 10K+ ইনস্টল) · App Store-এ নতুন · নভেম্বর ২০২৬ অনুযায়ী।
 
 ## একসাথে, আরও ভালো গেম
 
@@ -58,7 +58,7 @@ Jynx আছে কারণ প্রচলিত LFG ভাঙা — এবং
 
 ৫-এর মধ্যে ৪.৪
 
-৪.৪ ব্রাজিল-এ Google Play-তে ১১৮ রেটিং নভেম্বর ২০২৬ অনুযায়ী
+৪.৪ ব্রাজিল-এ Google Play-তে ১১৯ রেটিং নভেম্বর ২০২৬ অনুযায়ী
 
 [Google Play-তে সব রিভিউ পড়ুন](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

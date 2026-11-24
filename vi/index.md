@@ -15,7 +15,7 @@ GHÉP ĐÔI. TRÒ CHUYỆN. CHƠI. — phòng thoại native ngay nơi team đư
 
 Ứng dụng Mac sắp ra mắt.
 
-Đạt 4,4 trên Google Play tại Brazil (118 lượt đánh giá, 10K+ lượt cài đặt) · Mới trên App Store · tính đến tháng 11 năm 2026.
+Đạt 4,4 trên Google Play tại Brazil (119 lượt đánh giá, 10K+ lượt cài đặt) · Mới trên App Store · tính đến tháng 11 năm 2026.
 
 ## Chơi Game Tốt Hơn, Cùng Nhau
 
@@ -58,7 +58,7 @@ MỌI KIỂU NGƯỜI CHƠI CHÚNG TÔI GHÉP ĐÔI
 
 4,4 trên 5 sao
 
-4,4 118 lượt đánh giá trên Google Play tại Brazil tính đến tháng 11 năm 2026
+4,4 119 lượt đánh giá trên Google Play tại Brazil tính đến tháng 11 năm 2026
 
 [Đọc tất cả đánh giá trên Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

@@ -15,7 +15,7 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Mac 앱이 곧 나옵니다.
 
-브라질의 Google Play 평점 4.4 (118개 평가, 10K+회 설치) · App Store 신규 등록 · 2026년 11월 기준.
+브라질의 Google Play 평점 4.4 (119개 평가, 10K+회 설치) · App Store 신규 등록 · 2026년 11월 기준.
 
 ## 함께, 더 나은 게임
 
@@ -58,7 +58,7 @@ Jynx는 기존 LFG가 망가졌기 때문에 존재합니다 — 그래서 우�
 
 5점 만점에 4.4점
 
-4.4 브라질의 Google Play 평가 118개 2026년 11월 기준
+4.4 브라질의 Google Play 평가 119개 2026년 11월 기준
 
 [Google Play에서 모든 리뷰 보기](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

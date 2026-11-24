@@ -15,7 +15,7 @@ EŞLEŞ. KONUŞ. OYNA. — kadronun kurulduğu yerleşik sesli odalar.
 
 Mac uygulaması yolda.
 
-Brezilya pazarında Google Play'de 4,4 puan (118 değerlendirme, 10K+ yükleme) · App Store'da yeni · Kasım 2026 itibarıyla.
+Brezilya pazarında Google Play'de 4,4 puan (119 değerlendirme, 10K+ yükleme) · App Store'da yeni · Kasım 2026 itibarıyla.
 
 ## Birlikte Daha İyi Oyun
 
@@ -58,7 +58,7 @@ EŞLEŞTİĞİMİZ OYUNCU TİPLERİ
 
 5 üzerinden 4,4 yıldız
 
-4,4 Brezilya pazarında Google Play'de 118 değerlendirme Kasım 2026 itibarıyla
+4,4 Brezilya pazarında Google Play'de 119 değerlendirme Kasım 2026 itibarıyla
 
 [Tüm yorumları Google Play'de okuyun](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

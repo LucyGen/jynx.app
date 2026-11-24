@@ -15,7 +15,7 @@ MATCH. NGOBROL. MAIN. — ruang voice native tempat squad terbentuk.
 
 Aplikasi Mac sedang meluncur.
 
-Dinilai 4,4 di Google Play di Brasil (118 rating, 10K+ instalasi) · Baru di App Store · per November 2026.
+Dinilai 4,4 di Google Play di Brasil (119 rating, 10K+ instalasi) · Baru di App Store · per November 2026.
 
 ## Bermain Lebih Baik, Bersama
 
@@ -58,7 +58,7 @@ TIPE PEMAIN YANG KAMI MATCHKAN
 
 4,4 dari 5 bintang
 
-4,4 118 rating di Google Play di Brasil per November 2026
+4,4 119 rating di Google Play di Brasil per November 2026
 
 [Baca semua ulasan di Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

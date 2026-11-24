@@ -15,7 +15,7 @@ MATCH. TALK. PLAY. — salons vocaux natifs là où la squad s'est formée.
 
 Appli Mac en route.
 
-Noté 4,4 sur Google Play au Brésil (118 avis, 10K+ installations) · Nouveau sur l'App Store · à jour en novembre 2026.
+Noté 4,4 sur Google Play au Brésil (119 avis, 10K+ installations) · Nouveau sur l'App Store · à jour en novembre 2026.
 
 ## Jouez Mieux, Ensemble
 
@@ -58,7 +58,7 @@ LES TYPES DE JOUEURS QUE NOUS MATCHONS
 
 4,4 sur 5 étoiles
 
-4,4 118 avis sur Google Play au Brésil au novembre 2026
+4,4 119 avis sur Google Play au Brésil au novembre 2026
 
 [Lire tous les avis sur Google Play](https://play.google.com/store/apps/details?id=app.jynx&referrer=utm_source%3Djynx.app%26utm_medium%3Dweb%26utm_campaign%3Dlanding_cta%26utm_content%3Dreviews)
 

@@ -19,7 +19,7 @@ Oyunlarınız için uyumlu takım arkadaşlarıyla ve duo'larla eşleşin — iO
 
 Jynx, oyuncuların yeni nesil yardımcı uygulamasıdır — sonsuz LFG kanalı kaydırmak yerine oyun, rütbe ve oyun tarzına göre uyumlu takım arkadaşlarıyla eşleştiren ücretsiz bir LFG uygulaması.
 
-Brezilya pazarında Google Play'de 4,4 puan (118 değerlendirme, 10K+ yükleme) · App Store'da yeni · Kasım 2026 itibarıyla.
+Brezilya pazarında Google Play'de 4,4 puan (119 değerlendirme, 10K+ yükleme) · App Store'da yeni · Kasım 2026 itibarıyla.
 
 ## Jynx'i iOS, Android, Windows veya web'de edinin
 
