@@ -12,6 +12,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/about.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/about.html" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/about.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/about.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/about.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/about.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/about.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/splash/jynx_character-display.webp</image:loc>
       <image:caption>Meet the Jynx team</image:caption>
@@ -28,6 +32,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/contact.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/contact.html" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/contact.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/contact.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/contact.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/contact.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/contact.html" />
   </url>
 
   <url>
@@ -39,6 +47,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/download.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/download.html" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/download.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/download.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/download.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/download.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/download.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/splash/landing-page-display.webp</image:loc>
       <image:caption>Download Jynx gaming app</image:caption>
@@ -55,6 +67,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/splash/jynx_character-display.webp</image:loc>
       <image:caption>Jynx Gaming Platform Character</image:caption>
@@ -91,6 +107,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/privacy.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/privacy.html" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/privacy.html" />
   </url>
 
   <url>
@@ -102,6 +122,10 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/terms.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/terms.html" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/terms.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/terms.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/terms.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/terms.html" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/terms.html" />
   </url>
 
 </urlset>

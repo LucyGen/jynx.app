@@ -10,6 +10,10 @@
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog.html" />
       <xhtml:link rel="alternate" hreflang="fr" href="https://jynx.app/fr/blog.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog.html" />
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog.html" />
   </url>
   <url>
@@ -17,8 +21,12 @@
     <lastmod>2026-10-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/gta-6-online-team-aufbau-guide-vice-city-2026.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/gta-6-online-team-building-guide-vice-city-2026.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-construccion-equipos-gta-6-online-vice-city-2026.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-construcao-equipe-gta-6-online-vice-city-2026.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/gta-6-online-sozdanie-komandy-vice-city-2026.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/gta-6-online-takim-kurma-rehberi-vice-city-2026.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/gta-6-online-team-building-guide-vice-city-2026.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp</image:loc>
@@ -31,8 +39,11 @@
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-coaches-competitive-gaming.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-coaches-competitive-gaming.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/ai-coaches-competitive-gaming.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/ai-trenary-kiberport.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/ai-coaches-competitive-gaming.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/ai-coaches-competitive-gaming.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp</image:loc>
@@ -45,8 +56,12 @@
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-gaming-matchmaking-leitfaden.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-gaming-matchmaking-guide.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-emparejamiento-juegos-ia.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-matchmaking-ia-jogos.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/rukovodstvo-matchmaking-ai-igry.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/yapay-zeka-oyun-eslestirme-rehberi.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/ai-gaming-matchmaking-guide.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
@@ -59,6 +74,7 @@
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-gaming-matchmaking-revolution-2025.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-gaming-matchmaking-revolution-2025.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/ai-gaming-matchmaking-revolution-2025.html" />
     <image:image>
@@ -98,8 +114,12 @@
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/black-ops-7-zombie-team-guide.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-escuadron-zombies-black-ops-7.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-esquadrao-zumbis-black-ops-7.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/gaid-po-sozdaniyu-komandy-zombi-black-ops-7.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/black-ops-7-zombi-takimi-rehberi.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp</image:loc>
@@ -256,8 +276,12 @@
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/halo-campaign-evolved-koop-guide-2026.html" />
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/halo-campaign-evolved-coop-guide-2026.html" />
+      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/halo-campaign-evolved-cooperativo-guia-2026.html" />
       <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/halo-campanha-evoluida-guia-coop-2026.html" />
+      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/halo-campaign-evolved-kooperativ-gajd-2026.html" />
+      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/halo-campaign-evolved-koop-rehberi-2026.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/halo-campaign-evolved-coop-guide-2026.html" />
     <image:image>
       <image:loc>https://jynx.app/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp</image:loc>

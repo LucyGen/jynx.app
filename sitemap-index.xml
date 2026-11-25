@@ -29,6 +29,22 @@
     <lastmod>2026-10-31</lastmod>
   </sitemap>
   <sitemap>
+    <loc>https://jynx.app/de/blog-sitemap.xml</loc>
+    <lastmod>2026-11-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/de/sitemap.xml</loc>
+    <lastmod>2026-11-19</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/es/blog-sitemap.xml</loc>
+    <lastmod>2026-11-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/es/sitemap.xml</loc>
+    <lastmod>2026-11-19</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://jynx.app/fr/sitemap.xml</loc>
     <lastmod>2026-11-24</lastmod>
   </sitemap>
@@ -38,6 +54,22 @@
   </sitemap>
   <sitemap>
     <loc>https://jynx.app/pt/sitemap.xml</loc>
+    <lastmod>2026-11-19</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/ru/blog-sitemap.xml</loc>
+    <lastmod>2026-11-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/ru/sitemap.xml</loc>
+    <lastmod>2026-11-19</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/tr/blog-sitemap.xml</loc>
+    <lastmod>2026-11-24</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://jynx.app/tr/sitemap.xml</loc>
     <lastmod>2026-11-19</lastmod>
   </sitemap>
 </sitemapindex>
