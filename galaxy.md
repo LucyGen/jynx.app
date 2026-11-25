@@ -3,7 +3,7 @@ title: "Game Directory: Browse Every Game & Find Teammates"
 description: "Browse the Jynx game directory and find teammates for any game — matched by rank, role, region, and voice intent. Free on web, Android, and iOS."
 canonical: "https://jynx.app/galaxy.html"
 locale: "en"
-dateModified: "2026-11-18"
+dateModified: "2026-11-25"
 generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 ---
 
@@ -29,8 +29,6 @@ Hand-picked worlds where Jynx players squad up every night.
 [![Marvel Rivals key art banner](/assets/images/games/marvel-rivals/marvel-rivals-banner-640.webp)Marvel RivalsThe hero shooter moves fast and resets every season: Jynx filters Marvel Rivals stacks on the ranked ladder from Bronze to One Above All, Vanguard/Duelist/Strategist role, language, and playstyle. Full teams, duos, and everything between.](/games/marvel-rivals/catalog.html) [Open the Marvel Rivals duo finder](/games/marvel-rivals/duo-finder.html)
 
 [![Rainbow Six Siege key art banner](/assets/images/games/rainbow-six-siege/rainbow-six-siege-banner-640.webp)Rainbow Six SiegeSiege is a tactical puzzle with fixed seats: Jynx filters Siege stacks on the ranked ladder from Copper to Champion, playstyle roles from Hard Breach to Roamer, language, and region. Find the stack that takes ranked as seriously as you do.](/games/rainbow-six-siege/catalog.html) [Open the Rainbow Six Siege duo finder](/games/rainbow-six-siege/duo-finder.html)
-
-[GTA 6 OnlineGTA 6 lands November 19, 2026 — build the crew now in GTA Online sessions on Jynx (platform, language, region, voice, weekly night); not in the catalog yet.](/games/gta-6-online/duo-finder.html)
 
 ## Action
 
@@ -841,7 +839,7 @@ Yes — Jynx is free on the web, on Android, and on iOS. You can browse the whol
 
 ### Which games get a dedicated duo finder?
 
-The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, GTA 6 Online, Marvel Rivals, and Rainbow Six Siege — with per-game filters built from each game's ranked ladder and role list. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
+The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, Marvel Rivals, and Rainbow Six Siege — with per-game filters built from each game's ranked ladder and role list. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
 
 ### Where does the game information come from?
 

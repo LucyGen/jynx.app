@@ -11,8 +11,6 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Insights especializados para encontrar companheiros, construir comunidades e dominar gaming competitivo
 
-[![Horizonte de Vice City em GTA VI com jogadores coordenando um assalto](../assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero-1200.webp)Comunidades de Jogos 29 de outubro de 2025Como Montar Sua Crew Perfeita no GTA 6 Vice City 2026GTA 6 chega em 19 de novembro de 2026 — faltam seis semanas. Monte sua crew: companheiros, funções de assalto e um checklist de preparação para o lançamento. Jynx Team19 min de leitura](/pt/blog/guia-construcao-equipe-gta-6-online-vice-city-2026.html)
-
 [![Jogador profissional analisando estatísticas de desempenho e métricas de gameplay](../assets/images/blog/featured/ai-coaches-competitive-gaming/hero-1200.webp)Matchmaking e IA 28 de outubro de 2025A Ascensão dos Coaches de IA em Jogos CompetitivosFerramentas de análise de desempenho e sistemas de otimização de estratégia estão transformando a forma como jogadores competitivos treinam e melhoram suas habilidades. Jynx Team19 min de leitura](/pt/blog/ai-coaches-competitive-gaming.html)
 
 [![Time de Valorant comemorando vitória em partida ranqueada 5-stack](../assets/images/blog/featured/valorant-solo-to-team/hero-1200.webp)Comunidades de Jogos 28 de outubro de 2025De Solo Queue a 5-Stack: Como Entrar em um Time de ValorantDomine a jornada do caos do solo queue ao sucesso no 5-stack. Estratégias comprovadas para achar duo no Valorant, montar time, criar química e evoluir na ranqueada — do primeiro duo ao roster competitivo. Jynx Team15 min de leitura](/pt/blog/como-entrar-em-um-time-de-valorant.html)

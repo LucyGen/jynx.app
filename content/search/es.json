@@ -1,34 +1,7 @@
 {
   "locale": "es",
-  "post_count": 4,
+  "post_count": 3,
   "posts": [
-    {
-      "id": "guia-construccion-equipos-gta-6-online-vice-city-2026",
-      "title": "Equipos GTA 6 Vice City Noviembre 2026: Guía Definitiva",
-      "excerpt": "Forma tu tripulación perfecta para Vice City. GTA VI se lanza el 19 de noviembre de 2026. Descubre roles especializados, estrategias de matchmaking y cómo dominar tus sesiones de 96 jugadores.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "guia-construccion-equipos-gta-6-online-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "Horizonte de Vice City en GTA VI con jugadores coordinando un atraco",
-      "reading_time": 14,
-      "locale": "es",
-      "author": "jynx-team",
-      "keywords": [
-        "tripulaciones GTA 6 Vice City",
-        "atracos GTA 6 online",
-        "formar equipo GTA 6 2026",
-        "compañeros GTA 6 multijugador",
-        "roles tripulación GTA 6"
-      ]
-    },
     {
       "id": "guia-emparejamiento-juegos-ia",
       "title": "La Guía Completa del Emparejamiento de Juegos Impulsado por IA",
@@ -113,5 +86,5 @@
       ]
     }
   ],
-  "generated_at": "content-aa3b7aa0ae3f"
+  "generated_at": "content-ce1ffe97e9ce"
 }

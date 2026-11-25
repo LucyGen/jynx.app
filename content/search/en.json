@@ -1,34 +1,7 @@
 {
   "locale": "en",
-  "post_count": 40,
+  "post_count": 39,
   "posts": [
-    {
-      "id": "gta-6-online-team-building-guide-vice-city-2026",
-      "title": "GTA 6 Crew Guide: Build Your Team Before November 2026",
-      "excerpt": "GTA 6 launches November 19, 2026 — six weeks out. Build your crew now: teammate sourcing, heist roles, and a launch-week readiness checklist for Vice City.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "gta-6-online-team-building-guide-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "GTA VI Vice City skyline with players coordinating a heist",
-      "reading_time": 15,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "GTA 6 online crew",
-        "Vice City team building",
-        "GTA 6 heist teams",
-        "find GTA 6 teammates",
-        "GTA 6 multiplayer squad"
-      ]
-    },
     {
       "id": "ai-coaches-competitive-gaming",
       "title": "The Rise of AI Coaches in Competitive Gaming",
@@ -1125,5 +1098,5 @@
       ]
     }
   ],
-  "generated_at": "content-f91d9a91e571"
+  "generated_at": "content-27a5797aca50"
 }

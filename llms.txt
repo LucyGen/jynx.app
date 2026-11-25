@@ -16,7 +16,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - Real-time messaging with typing indicators, reactions, and media sharing
 - Available in 16 languages
 
-**Game pages (11 live duo-finders across 9 games):** Counter-Strike 2, Fortnite, Free Fire, GTA 6 Online, GTA Online, League of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Per-game duo-finder pages covering ranks, roles, and queue rules. The full catalog of 715 games is at /galaxy.html.
+**Game pages (10 live duo-finders across 8 games):** Counter-Strike 2, Fortnite, Free Fire, GTA Online, League of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Per-game duo-finder pages covering ranks, roles, and queue rules. The full catalog of 715 games is at /galaxy.html.
 
 **Who should use Jynx:**
 - Competitive players tired of solo queue and random teammates
@@ -60,7 +60,6 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - [/pt/games/cs2/duo-finder.html](https://jynx.app/pt/games/cs2/duo-finder.html): Duo finder — find teammates for Counter-Strike 2
 - [/games/fortnite/duo-finder.html](https://jynx.app/games/fortnite/duo-finder.html): Duo finder — find teammates for Fortnite
 - [/pt/games/free-fire/duo-finder.html](https://jynx.app/pt/games/free-fire/duo-finder.html): Duo finder — find teammates for Free Fire
-- [/games/gta-6-online/duo-finder.html](https://jynx.app/games/gta-6-online/duo-finder.html): Duo finder — find teammates for GTA 6 Online
 - [/games/gta-online/duo-finder.html](https://jynx.app/games/gta-online/duo-finder.html): Duo finder — find teammates for GTA Online
 - [/pt/games/league-of-legends/duo-finder.html](https://jynx.app/pt/games/league-of-legends/duo-finder.html): Duo finder — find teammates for League of Legends
 - [/games/marvel-rivals/duo-finder.html](https://jynx.app/games/marvel-rivals/duo-finder.html): Duo finder — find teammates for Marvel Rivals
@@ -91,7 +90,6 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - [/blog/apex-legends-playstyle-matching.html](https://jynx.app/blog/apex-legends-playstyle-matching.html): Skill-only vs personality-aware matching
 - [/blog/rocket-league-doubles-partner.html](https://jynx.app/blog/rocket-league-doubles-partner.html): Finding the perfect Rocket League doubles partner
 - [/blog/rainbow-six-siege-team-building.html](https://jynx.app/blog/rainbow-six-siege-team-building.html): Building a coordinated R6 Siege team
-- [/blog/gta-6-online-team-building-guide-vice-city-2026.html](https://jynx.app/blog/gta-6-online-team-building-guide-vice-city-2026.html): Build your GTA VI crew before the November 2026 launch
 - [/blog/toxic-teammates-hidden-cost.html](https://jynx.app/blog/toxic-teammates-hidden-cost.html): Why toxic teammates cost you more than just games
 - [/blog/ai-gaming-matchmaking-revolution-2025.html](https://jynx.app/blog/ai-gaming-matchmaking-revolution-2025.html): How algorithms are transforming team formation
 - [/blog/apex-legends-playstyle-matching.html](https://jynx.app/blog/apex-legends-playstyle-matching.html): Skill-only vs personality-aware matching

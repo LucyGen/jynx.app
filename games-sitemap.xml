@@ -36,16 +36,8 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/pt/games/free-fire/duo-finder.html" />
   </url>
   <url>
-    <loc>https://jynx.app/games/gta-6-online/duo-finder.html</loc>
-    <lastmod>2026-11-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/games/gta-6-online/duo-finder.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/games/gta-6-online/duo-finder.html" />
-  </url>
-  <url>
     <loc>https://jynx.app/games/gta-online/duo-finder.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/games/gta-online/duo-finder.html" />
@@ -111,7 +103,7 @@
   </url>
   <url>
     <loc>https://jynx.app/galaxy.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/galaxy.html" />

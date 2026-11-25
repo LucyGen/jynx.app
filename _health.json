@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "gitSha": "602bc6a716e650eced40e98399764dc9fba4de69",
+  "gitSha": "914d6bacf4acd44b57ad84d0b22d62ac9687f6ce",
   "generatedFrom": [
     {
       "source": "games",
-      "date": "2026-11-20"
+      "date": "2026-11-25"
     },
     {
       "source": "blog",
@@ -17,75 +17,75 @@
   ],
   "counts": {
     "blogPosts": {
-      "total": 117,
+      "total": 102,
       "perLocale": {
-        "ar": 6,
-        "bn": 5,
-        "de": 6,
-        "en": 40,
-        "es": 4,
-        "hi": 4,
-        "id": 6,
-        "it": 8,
-        "ko": 4,
-        "pl": 4,
-        "pt": 9,
-        "ru": 5,
-        "tr": 5,
-        "uk": 5,
-        "vi": 6
+        "ar": 5,
+        "bn": 4,
+        "de": 5,
+        "en": 39,
+        "es": 3,
+        "hi": 3,
+        "id": 5,
+        "it": 7,
+        "ko": 3,
+        "pl": 3,
+        "pt": 8,
+        "ru": 4,
+        "tr": 4,
+        "uk": 4,
+        "vi": 5
       }
     },
     "htmlPages": {
       "main": 116,
-      "blog": 117,
-      "games": 11,
+      "blog": 102,
+      "games": 10,
       "glossary": 150,
       "localeDirs": {
-        "ar": 16,
-        "bn": 15,
-        "de": 16,
-        "es": 14,
+        "ar": 15,
+        "bn": 14,
+        "de": 15,
+        "es": 13,
         "fr": 73,
-        "hi": 14,
-        "id": 16,
-        "it": 18,
-        "ko": 14,
-        "pl": 14,
-        "pt": 27,
-        "ru": 15,
-        "tr": 15,
-        "uk": 15,
-        "vi": 16
+        "hi": 13,
+        "id": 15,
+        "it": 17,
+        "ko": 13,
+        "pl": 13,
+        "pt": 26,
+        "ru": 14,
+        "tr": 14,
+        "uk": 14,
+        "vi": 15
       },
-      "total": 1234
+      "total": 1218
     },
     "sitemaps": {
-      "blog-sitemap.xml": 41,
+      "blog-sitemap.xml": 40,
       "communities-sitemap.xml": 1,
       "comparisons-sitemap.xml": 2,
-      "de/blog-sitemap.xml": 7,
+      "de/blog-sitemap.xml": 6,
       "de/sitemap.xml": 6,
-      "es/blog-sitemap.xml": 5,
+      "es/blog-sitemap.xml": 4,
       "es/sitemap.xml": 6,
       "fr/sitemap.xml": 70,
-      "games-sitemap.xml": 14,
+      "games-sitemap.xml": 13,
       "glossary-sitemap.xml": 149,
-      "pt/blog-sitemap.xml": 10,
+      "pt/blog-sitemap.xml": 9,
       "pt/sitemap.xml": 6,
-      "ru/blog-sitemap.xml": 6,
+      "ru/blog-sitemap.xml": 5,
       "ru/sitemap.xml": 6,
       "sitemap-index.xml": 18,
       "sitemap.xml": 9,
       "stats-sitemap.xml": 2,
-      "tr/blog-sitemap.xml": 6,
+      "tr/blog-sitemap.xml": 5,
       "tr/sitemap.xml": 6
     }
   },
   "assets": {
-    "images": 3601,
+    "images": 3585,
     "js": 21,
     "css": 24
   },
-  "distBytes": 118362954
+  "distBytes": 115672431
 }

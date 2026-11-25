@@ -11,8 +11,6 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Experten-Einblicke zum Finden von Teamkollegen, Aufbau von Communities und Meistern von kompetitivem Gaming
 
-[![GTA VI Vice City Skyline mit Spielern, die einen Heist koordinieren](../assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero-1200.webp)Gaming-Communities 29. Oktober 2025GTA 6 Crew aufbauen: Kompletter Guide für Vice City (November 2026)Baue deine GTA 6 Crew jetzt auf! Finde kompatible Mitspieler, meistere Vice City Heists und dominiere 96-Spieler-Lobbys von Tag eins an. Aktualisiert für den Launch am 19. November 2026. Jynx Team12 Min. Lesezeit](/de/blog/gta-6-online-team-aufbau-guide-vice-city-2026.html)
-
 [![Black Ops 7 Zombies-Team kämpft sich durch die Ashes of the Damned Map](../assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero-1200.webp)Gaming-Communities 28. Oktober 2025Wie du das perfekte Black Ops 7 Zombies-Team für High Rounds findestAshes of the Damned ist die größte Zombies-Map aller Zeiten in COD. Erfahre, wie du das perfekte 4-Spieler-Team aufbaust, um High Rounds zu überleben, toxische Mitspieler zu vermeiden und Black Ops 7's Dark Aether zu dominieren. Jynx Team10 Min. Lesezeit](/de/blog/black-ops-7-zombie-team-guide.html)
 
 [![Master Chief und Squad im Halo Campaign Evolved Koop-Gameplay](../assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero-1200.webp)Social Gaming 28. Oktober 2025Halo: Campaign Evolved Koop: Finde dein perfektes Squad für 2026Halo kommt erstmals auf PlayStation mit 4-Spieler-Koop. Hier erfährst du alles über das Finden des perfekten Squads für legendäre Durchläufe. Jynx Team10 Min. Lesezeit](/de/blog/halo-campaign-evolved-koop-guide-2026.html)

@@ -1,34 +1,7 @@
 {
   "locale": "pl",
-  "post_count": 4,
+  "post_count": 3,
   "posts": [
-    {
-      "id": "gta-6-online-przewodnik-budowania-ekipy-vice-city-2026",
-      "title": "GTA 6 Online Vice City – Budowanie Idealnej Ekipy 2026",
-      "excerpt": "GTA VI wchodzi 19 listopada 2026. Zbuduj idealną ekipę do 96-osobowych lobby Vice City, napadów i dominacji w otwartym świecie – gotowy pierwszego dnia premiery.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "gta-6-online-przewodnik-budowania-ekipy-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "Panorama Vice City w GTA VI z graczami koordynującymi napad",
-      "reading_time": 13,
-      "locale": "pl",
-      "author": "jynx-team",
-      "keywords": [
-        "ekipa GTA 6 online",
-        "napady Vice City 2026",
-        "96-osobowe lobby GTA 6",
-        "towarzysze GTA VI",
-        "drużyna napadowa GTA 6"
-      ]
-    },
     {
       "id": "halo-campaign-evolved-wspolpraca-przewodnik-2026",
       "title": "Halo Campaign Evolved Co-op: Znajdź Idealny Squad 2026",
@@ -113,5 +86,5 @@
       ]
     }
   ],
-  "generated_at": "content-4d9ce45b921d"
+  "generated_at": "content-680d26635cd9"
 }

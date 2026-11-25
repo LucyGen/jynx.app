@@ -11,8 +11,6 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Wawasan ahli untuk menemukan rekan tim, membangun komunitas, dan menguasai gaming kompetitif
 
-[![Skyline GTA VI Vice City dengan pemain mengkoordinasikan heist dan membangun crew](../assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero-1200.webp)Komunitas Gaming 29 Oktober 2025Panduan Crew GTA 6 Online Vice City November 2026 SempurnaGTA 6 rilis 19 November 2026. Bangun crew sempurna untuk lobby 96 pemain Vice City, heist lancar, kuasai open world masif dari hari pertama peluncuran. Jynx Team15 menit baca](/id/blog/panduan-membangun-tim-gta-6-online-vice-city-2026.html)
-
 [![Gamer profesional menganalisis statistik performa dan metrik gameplay](../assets/images/blog/featured/ai-coaches-competitive-gaming/hero-1200.webp)Matchmaking & AI 28 Oktober 2025Bangkitnya Pelatih AI dalam Gaming KompetitifAlat analisis performa dan sistem optimasi strategi mengubah cara gamer kompetitif berlatih dan meningkatkan kemampuan mereka. Jynx Team17 menit baca](/id/blog/ai-coaches-competitive-gaming.html)
 
 [![Squad Apex Legends mengoordinasikan strategi dengan komposisi legend yang kompatibel](../assets/images/blog/featured/apex-legends-playstyle-matching/hero-1200.webp)Matchmaking & AI 28 Oktober 2025Menemukan Rekan Tim Apex Legends yang Cocok denganTemukan cara menemukan rekan tim Apex Legends yang melengkapi playstyle, preferensi legend, dan strategi rotasi Anda untuk kesuksesan ranked yang konsisten. Jynx Team11 menit baca](/id/blog/apex-legends-playstyle-matching.html)

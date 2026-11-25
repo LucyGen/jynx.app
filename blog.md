@@ -11,8 +11,6 @@ generator: "jynx-md-siblings (scripts/generate-md-siblings.js)"
 
 Expert insights on finding teammates, building communities, and mastering competitive gaming
 
-[![GTA VI Vice City skyline with players coordinating a heist](/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero-1200.webp)Gaming Communities October 29, 2025GTA 6 Crew Guide: Build Your Team Before November 2026GTA 6 launches November 19, 2026 — six weeks out. Build your crew now: teammate sourcing, heist roles, and a launch-week readiness checklist for Vice City. Jynx Team15 min read](/blog/gta-6-online-team-building-guide-vice-city-2026.html)
-
 [![Professional gamer analyzing performance statistics and gameplay metrics](/assets/images/blog/featured/ai-coaches-competitive-gaming/hero-1200.webp)Matchmaking & AI October 28, 2025The Rise of AI Coaches in Competitive GamingPerformance analysis tools and strategy optimization systems are transforming how competitive gamers train and improve their skills. Jynx Team17 min read](/blog/ai-coaches-competitive-gaming.html)
 
 [![AI-powered gaming matchmaking interface showing player compatibility scores](/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero-1200.webp)FeaturedMatchmaking & AI October 28, 2025The Complete Guide to AI-Powered Gaming MatchmakingDiscover how AI-powered matchmaking helps gamers find perfect teammates based on skill, playstyle, and personality. Complete guide with tips, tools, and strategies. Jynx Team14 min read](/blog/ai-gaming-matchmaking-guide.html)

@@ -1,34 +1,7 @@
 {
   "locale": "hi",
-  "post_count": 4,
+  "post_count": 3,
   "posts": [
-    {
-      "id": "gta-6-online-team-building-guide-vice-city-2026",
-      "title": "GTA 6 टीम गाइड: 19 नवंबर 2026 से पहले Crew बनाएं",
-      "excerpt": "GTA 6 टीम बनाने की संपूर्ण गाइड - 19 नवंबर 2026 launch से पहले Vice City heists के लिए ideal teammates खोजें, roles assign करें, और dominate करें। आजही शुरू करें!",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "gta-6-online-team-building-guide-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "GTA VI Vice City skyline के साथ players जो heist coordinate कर रहे हैं",
-      "reading_time": 14,
-      "locale": "hi",
-      "author": "jynx-team",
-      "keywords": [
-        "GTA 6 Online crew",
-        "Vice City heists 2026",
-        "GTA 6 teammates खोजें",
-        "GTA 6 टीम बिल्डिंग",
-        "GTA 6 multiplayer गाइड"
-      ]
-    },
     {
       "id": "ai-gaming-matchmaking-guide",
       "title": "AI-संचालित Gaming Matchmaking की संपूर्ण गाइड",
@@ -113,5 +86,5 @@
       ]
     }
   ],
-  "generated_at": "content-52ee7659b4e8"
+  "generated_at": "content-724aa98078da"
 }

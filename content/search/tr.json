@@ -1,34 +1,7 @@
 {
   "locale": "tr",
-  "post_count": 5,
+  "post_count": 4,
   "posts": [
-    {
-      "id": "gta-6-online-takim-kurma-rehberi-vice-city-2026",
-      "title": "GTA 6 Online Takım Kurma: Vice City Kasım 2026 Rehberi",
-      "excerpt": "GTA 6 online takım kurma rehberi: Vice City 19 Kasım 2026'da 96 oyunculu lobilerinde başarılı ekip kurun, roller atayın ve soygunları yüzde 73 oranında tamamlayın.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "gta-6-online-takim-kurma-rehberi-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "GTA VI Vice City silueti ve bir soygun koordine eden oyuncular",
-      "reading_time": 11,
-      "locale": "tr",
-      "author": "jynx-team",
-      "keywords": [
-        "GTA 6 takım kurma",
-        "Vice City soygunları 2026",
-        "GTA 6 crew bulma",
-        "GTA VI multiplayer takım",
-        "GTA 6 online ekip"
-      ]
-    },
     {
       "id": "ai-coaches-competitive-gaming",
       "title": "Rekabetçi Oyunculukta Yapay Zeka Koçların Yükselişi",
@@ -140,5 +113,5 @@
       ]
     }
   ],
-  "generated_at": "content-68c14b644ded"
+  "generated_at": "content-8abb8e92f799"
 }

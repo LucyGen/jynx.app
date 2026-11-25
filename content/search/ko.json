@@ -1,34 +1,7 @@
 {
   "locale": "ko",
-  "post_count": 4,
+  "post_count": 3,
   "posts": [
-    {
-      "id": "gta-6-online-baiseu-siti-tim-bilding-gaideu-2026",
-      "title": "GTA VI 온라인 완벽한 팀 빌딩 가이드: 바이스 시티 2026년 11월 강도 크루 구축하기",
-      "excerpt": "GTA VI가 2026년 11월 19일 출시됩니다. 출시 전 바이스 시티의 96인 로비, 원활한 강도 미션, 거대한 오픈 월드를 위한 완벽한 크루를 구성하는 방법을 배워보세요.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "heists",
-        "crew-finding"
-      ],
-      "category": "gaming-communities",
-      "slug": "gta-6-online-baiseu-siti-tim-bilding-gaideu-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "강도 미션을 조율하는 플레이어들과 함께한 GTA VI 바이스 시티 스카이라인",
-      "reading_time": 12,
-      "locale": "ko",
-      "author": "jynx-team",
-      "keywords": [
-        "GTA VI 완벽한 크루",
-        "바이스 시티 강도 팀",
-        "GTA 6 멀티플레이어 전략",
-        "GTA 최고의 팀원 찾기",
-        "GTA 온라인 스쿼드 구축"
-      ]
-    },
     {
       "id": "ai-gaming-matchmaking-guide",
       "title": "AI 기반 게임 매칭 완벽 가이드: 최고의 팀원 찾기와 승리 전략 2025년 업데이트",
@@ -113,5 +86,5 @@
       ]
     }
   ],
-  "generated_at": "content-ee9d7b10d799"
+  "generated_at": "content-bcf373c03220"
 }

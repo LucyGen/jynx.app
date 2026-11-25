@@ -1,37 +1,7 @@
 {
   "locale": "it",
-  "post_count": 8,
+  "post_count": 7,
   "posts": [
-    {
-      "id": "guida-team-building-gta-6-online-vice-city-2026",
-      "title": "Crew GTA 6 Vice City 2026: Guida Team Building",
-      "excerpt": "GTA 6 arriva il 19 novembre 2026 con lobby a 96 giocatori. Scopri come costruire la crew perfetta, dominare le rapine e coordinare strategie vincenti a Vice City.",
-      "tags": [
-        "GTA 6",
-        "team-building",
-        "multiplayer",
-        "rapine",
-        "crew-building",
-        "Vice City",
-        "coordinamento",
-        "strategia"
-      ],
-      "category": "gaming-communities",
-      "slug": "guida-team-building-gta-6-online-vice-city-2026",
-      "date_published": "2025-10-29T10:30:00Z",
-      "featured_image": "/assets/images/blog/featured/gta-6-online-team-building-guide-vice-city-2026/hero.webp",
-      "featured_image_alt": "Crew GTA 6 Online Vice City coordinando rapina strategica - Guida team building",
-      "reading_time": 16,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "crew GTA 6 online Vice City",
-        "team building GTA 6 2026",
-        "costruire crew GTA 6",
-        "rapine GTA VI",
-        "ruoli team GTA 6"
-      ]
-    },
     {
       "id": "ai-coaches-competitive-gaming",
       "title": "L'Ascesa degli AI Coach nel Gaming Competitivo",
@@ -225,5 +195,5 @@
       ]
     }
   ],
-  "generated_at": "content-60c091474452"
+  "generated_at": "content-92d6d8586ade"
 }
