@@ -16,7 +16,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 - Real-time messaging with typing indicators, reactions, and media sharing
 - Available in 16 languages
 
-**Game pages (10 live duo-finders across 8 games):** Counter-Strike 2, Fortnite, Free Fire, GTA Online, League of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Per-game duo-finder pages covering ranks, roles, and queue rules. The full catalog of 989 games is at /galaxy.html.
+**Game pages (10 live duo-finders across 8 games):** Counter-Strike 2, Fortnite, Free Fire, GTA Online, League of Legends, Marvel Rivals, Rainbow Six Siege, Valorant. Per-game duo-finder pages covering ranks, roles, and queue rules. The full catalog of 988 games is at /galaxy.html.
 
 **Who should use Jynx:**
 - Competitive players tired of solo queue and random teammates
@@ -71,7 +71,7 @@ Jynx is the next-gen companion app for gamers. It solves the #1 problem in onlin
 
 ### Game catalog
 
-- [/galaxy.html](https://jynx.app/galaxy.html): The full active games catalog — 989 games, each with its own catalog page (genre groups, platforms, business models). Game data provided by IGDB.com
+- [/galaxy.html](https://jynx.app/galaxy.html): The full active games catalog — 988 games, each with its own catalog page (genre groups, platforms, business models). Game data provided by IGDB.com
 
 ### Communities
 

@@ -1285,6 +1285,9 @@
     "glossary": "Glossaire",
     "open_jynx": "Ouvrir Jynx"
   },
+  "home": {
+    "games_directory_label": "Répertoire de jeux (en anglais)"
+  },
   "header": {
     "cta": "Télécharger Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Télécharger Jynx",
       "heading": "Trouvez votre duo sur Jynx",
-      "sub": "Gratuit. Filtres de rang, rôle et région. Match vocal et par disponibilités."
+      "sub": "Gratuit. Filtres de rang, rôle et région. Match vocal et par disponibilités.",
+      "subNoRoles": "Gratuit. Filtres de rang et région. Match vocal et par disponibilités.",
+      "subNoRanks": "Gratuit. Filtres de rôle et région. Match vocal et par disponibilités.",
+      "subNeither": "Gratuit. Filtres de région. Match vocal et par disponibilités."
     },
     "cta_final": {
       "label": "Télécharger Jynx",

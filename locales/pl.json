@@ -1285,6 +1285,9 @@
     "glossary": "Słownik",
     "open_jynx": "Otwórz Jynx"
   },
+  "home": {
+    "games_directory_label": "Katalog gier (po angielsku)"
+  },
   "header": {
     "cta": "Pobierz Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Zdobądź Jynx",
       "heading": "Znajdź swojego duo w Jynx",
-      "sub": "Za darmo. Filtry rangi, roli i regionu. Dopasowanie głosu i harmonogramu."
+      "sub": "Za darmo. Filtry rangi, roli i regionu. Dopasowanie głosu i harmonogramu.",
+      "subNoRoles": "Za darmo. Filtry rangi i regionu. Dopasowanie głosu i harmonogramu.",
+      "subNoRanks": "Za darmo. Filtry roli i regionu. Dopasowanie głosu i harmonogramu.",
+      "subNeither": "Za darmo. Filtry regionu. Dopasowanie głosu i harmonogramu."
     },
     "cta_final": {
       "label": "Zdobądź Jynx",

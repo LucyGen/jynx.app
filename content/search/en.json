@@ -1,6 +1,6 @@
 {
   "locale": "en",
-  "post_count": 1006,
+  "post_count": 1005,
   "posts": [
     {
       "id": "ai-gaming-matchmaking-guide",
@@ -10432,21 +10432,10 @@
         "combat",
         "sequel"
       ],
-      "short_name": "Mortal Shell 2"
-    },
-    {
-      "id": "game:mortal-shell-ii",
-      "title": "Mortal Shell II",
-      "slug": "mortal-shell-ii",
-      "url": "/games/mortal-shell-ii/catalog.html",
-      "featured_image": "/assets/images/games/mortal-shell-ii/mortal-shell-ii-cover-200.webp",
-      "type": "game",
-      "tags": [
-        "mortal",
-        "shell",
-        "ii"
-      ],
-      "short_name": "Mortal Shell II"
+      "short_name": "Mortal Shell 2",
+      "aliases": [
+        "mortalshellii"
+      ]
     },
     {
       "id": "game:motorslice",
@@ -17166,5 +17155,5 @@
       "short_name": "Zula"
     }
   ],
-  "generated_at": "content-8f1bf29222ec"
+  "generated_at": "content-189866a36e97"
 }

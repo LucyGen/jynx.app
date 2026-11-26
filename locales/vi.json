@@ -1285,6 +1285,9 @@
     "glossary": "Thuật ngữ",
     "open_jynx": "Mở Jynx"
   },
+  "home": {
+    "games_directory_label": "Danh mục game (bằng tiếng Anh)"
+  },
   "header": {
     "cta": "Tải Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Tải Jynx",
       "heading": "Tìm duo của bạn trên Jynx",
-      "sub": "Miễn phí. Bộ lọc rank, vai trò và khu vực. Ghép đôi qua giọng nói + lịch trình."
+      "sub": "Miễn phí. Bộ lọc rank, vai trò và khu vực. Ghép đôi qua giọng nói + lịch trình.",
+      "subNoRoles": "Miễn phí. Bộ lọc rank và khu vực. Ghép đôi qua giọng nói + lịch trình.",
+      "subNoRanks": "Miễn phí. Bộ lọc vai trò và khu vực. Ghép đôi qua giọng nói + lịch trình.",
+      "subNeither": "Miễn phí. Bộ lọc khu vực. Ghép đôi qua giọng nói + lịch trình."
     },
     "cta_final": {
       "label": "Tải Jynx",

@@ -1285,6 +1285,9 @@
     "glossary": "Glosario",
     "open_jynx": "Abrir Jynx"
   },
+  "home": {
+    "games_directory_label": "Directorio de juegos (en inglés)"
+  },
   "header": {
     "cta": "Obtener Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Consigue Jynx",
       "heading": "Encuentra tu dúo en Jynx",
-      "sub": "Gratis. Filtros de rango, rol y región. Matching por voz y horario."
+      "sub": "Gratis. Filtros de rango, rol y región. Matching por voz y horario.",
+      "subNoRoles": "Gratis. Filtros de rango y región. Matching por voz y horario.",
+      "subNoRanks": "Gratis. Filtros de rol y región. Matching por voz y horario.",
+      "subNeither": "Gratis. Filtros de región. Matching por voz y horario."
     },
     "cta_final": {
       "label": "Consigue Jynx",

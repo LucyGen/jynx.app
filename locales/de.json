@@ -1285,6 +1285,9 @@
     "glossary": "Glossar",
     "open_jynx": "Jynx öffnen"
   },
+  "home": {
+    "games_directory_label": "Spiele-Verzeichnis (auf Englisch)"
+  },
   "header": {
     "cta": "Jynx holen"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Hol dir Jynx",
       "heading": "Finde dein Duo auf Jynx",
-      "sub": "Kostenlos. Rang-, Rollen- und Regionsfilter. Voice- und Zeitplan-Matching."
+      "sub": "Kostenlos. Rang-, Rollen- und Regionsfilter. Voice- und Zeitplan-Matching.",
+      "subNoRoles": "Kostenlos. Rang- und Regionsfilter. Voice- und Zeitplan-Matching.",
+      "subNoRanks": "Kostenlos. Rollen- und Regionsfilter. Voice- und Zeitplan-Matching.",
+      "subNeither": "Kostenlos. Regionsfilter. Voice- und Zeitplan-Matching."
     },
     "cta_final": {
       "label": "Hol dir Jynx",

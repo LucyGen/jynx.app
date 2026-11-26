@@ -1285,6 +1285,9 @@
     "glossary": "Glossary",
     "open_jynx": "Open Jynx"
   },
+  "home": {
+    "games_directory_label": "Game directory (in English)"
+  },
   "header": {
     "cta": "Get Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Get Jynx",
       "heading": "Find your duo on Jynx",
-      "sub": "Free. Rank, role, and region filters. Voice + schedule matching."
+      "sub": "Free. Rank, role, and region filters. Voice + schedule matching.",
+      "subNoRoles": "Free. Rank and region filters. Voice + schedule matching.",
+      "subNoRanks": "Free. Role and region filters. Voice + schedule matching.",
+      "subNeither": "Free. Region filters. Voice + schedule matching."
     },
     "cta_final": {
       "label": "Get Jynx",

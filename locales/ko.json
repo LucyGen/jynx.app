@@ -1285,6 +1285,9 @@
     "glossary": "게임 용어집",
     "open_jynx": "Jynx 열기"
   },
+  "home": {
+    "games_directory_label": "게임 디렉터리 (영어)"
+  },
   "header": {
     "cta": "Jynx 받기"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Jynx 받기",
       "heading": "Jynx에서 나의 듀오 찾기",
-      "sub": "무료. 랭크, 역할, 지역 필터. 음성 + 일정 매칭."
+      "sub": "무료. 랭크, 역할, 지역 필터. 음성 + 일정 매칭.",
+      "subNoRoles": "무료. 랭크, 지역 필터. 음성 + 일정 매칭.",
+      "subNoRanks": "무료. 역할, 지역 필터. 음성 + 일정 매칭.",
+      "subNeither": "무료. 지역 필터. 음성 + 일정 매칭."
     },
     "cta_final": {
       "label": "Jynx 받기",

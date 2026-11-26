@@ -1285,6 +1285,9 @@
     "search_aria": "Cari artikel",
     "open_jynx": "Buka Jynx"
   },
+  "home": {
+    "games_directory_label": "Direktori game (dalam bahasa Inggris)"
+  },
   "header": {
     "cta": "Dapatkan Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Dapatkan Jynx",
       "heading": "Temukan duo Anda di Jynx",
-      "sub": "Gratis. Filter rank, role, dan region. Match voice + jadwal."
+      "sub": "Gratis. Filter rank, role, dan region. Match voice + jadwal.",
+      "subNoRoles": "Gratis. Filter rank dan region. Match voice + jadwal.",
+      "subNoRanks": "Gratis. Filter role dan region. Match voice + jadwal.",
+      "subNeither": "Gratis. Filter region. Match voice + jadwal."
     },
     "cta_final": {
       "label": "Dapatkan Jynx",

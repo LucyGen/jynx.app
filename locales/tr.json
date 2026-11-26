@@ -1285,6 +1285,9 @@
     "glossary": "Sözlük",
     "open_jynx": "Jynx'i Aç"
   },
+  "home": {
+    "games_directory_label": "Oyun rehberi (İngilizce)"
+  },
   "header": {
     "cta": "Jynx'i Edinin"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Jynx'i Edinin",
       "heading": "Jynx'te duo'nuzu bulun",
-      "sub": "Ücretsiz. Rütbe, rol ve bölge filtreleri. Sesli + program eşleştirmesi."
+      "sub": "Ücretsiz. Rütbe, rol ve bölge filtreleri. Sesli + program eşleştirmesi.",
+      "subNoRoles": "Ücretsiz. Rütbe ve bölge filtreleri. Sesli + program eşleştirmesi.",
+      "subNoRanks": "Ücretsiz. Rol ve bölge filtreleri. Sesli + program eşleştirmesi.",
+      "subNeither": "Ücretsiz. Bölge filtreleri. Sesli + program eşleştirmesi."
     },
     "cta_final": {
       "label": "Jynx'i Edinin",

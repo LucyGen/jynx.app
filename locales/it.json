@@ -1285,6 +1285,9 @@
     "glossary": "Glossario",
     "open_jynx": "Apri Jynx"
   },
+  "home": {
+    "games_directory_label": "Elenco giochi (in inglese)"
+  },
   "header": {
     "cta": "Ottieni Jynx"
   },
@@ -2102,7 +2105,10 @@
     "cta": {
       "label": "Ottieni Jynx",
       "heading": "Trova il tuo duo su Jynx",
-      "sub": "Gratis. Filtri per rank, ruolo e regione. Abbinamento voce + orari."
+      "sub": "Gratis. Filtri per rank, ruolo e regione. Abbinamento voce + orari.",
+      "subNoRoles": "Gratis. Filtri per rank e regione. Abbinamento voce + orari.",
+      "subNoRanks": "Gratis. Filtri per ruolo e regione. Abbinamento voce + orari.",
+      "subNeither": "Gratis. Filtri per regione. Abbinamento voce + orari."
     },
     "cta_final": {
       "label": "Ottieni Jynx",
