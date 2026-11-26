@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-26",
   "fetch": {
     "status": "ok",
     "per_source": {
@@ -36,17 +36,17 @@
       "us": {
         "rating": 0,
         "count": 0,
-        "as_of": "2026-11-24"
+        "as_of": "2026-11-26"
       },
       "br": {
         "rating": 5,
-        "count": 2,
-        "as_of": "2026-11-24"
+        "count": 4,
+        "as_of": "2026-11-26"
       },
       "fr": {
         "rating": 4.59999,
         "count": 5,
-        "as_of": "2026-11-24"
+        "as_of": "2026-11-26"
       }
     }
   },
@@ -55,21 +55,21 @@
       "us": {
         "rating": null,
         "count": null,
-        "as_of": "2026-11-24"
+        "as_of": "2026-11-26"
       },
       "br": {
         "rating": 4.415841579437256,
         "count": 119,
-        "as_of": "2026-11-24"
+        "as_of": "2026-11-26"
       },
       "fr": {
         "rating": null,
         "count": null,
-        "as_of": "2026-11-24"
+        "as_of": "2026-11-26"
       }
     },
     "downloads_display": "10K+",
-    "downloads_as_of": "2026-11-24",
+    "downloads_as_of": "2026-11-26",
     "reviews": [
       {
         "id": "5f7ec224-055b-4c41-8fd3-7f6a595fc9a9",
