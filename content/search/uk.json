@@ -1,61 +1,7 @@
 {
   "locale": "uk",
-  "post_count": 4,
+  "post_count": 2,
   "posts": [
-    {
-      "id": "ai-coaches-competitive-gaming",
-      "title": "Зростання AI-тренерів у кіберспорті: Повний гід",
-      "excerpt": "Інструменти аналізу продуктивності та системи оптимізації стратегії змінюють те, як кіберспортсмени тренуються та вдосконалюють свої навички.",
-      "tags": [
-        "competitive-gaming",
-        "gaming-performance",
-        "esports-training",
-        "gaming-analytics",
-        "skill-improvement"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-coaches-competitive-gaming",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
-      "featured_image_alt": "Професійний гравець аналізує статистику продуктивності та геймплейні метрики",
-      "reading_time": 17,
-      "locale": "uk",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming performance analysis",
-        "esports training tools",
-        "competitive gaming improvement",
-        "gaming analytics",
-        "performance optimization gaming"
-      ]
-    },
-    {
-      "id": "gid-komanda-zombi-black-ops-7",
-      "title": "Як знайти команду для Black Ops 7 Zombies на високі раунди",
-      "excerpt": "Ashes of the Damned — найбільша карта зомбі в історії COD. Дізнайтеся, як зібрати ідеальну команду з 4 гравців, щоб вижити на високих раундах, уникнути токсичних тіммейтів і домінувати в Dark Aether Black Ops 7.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "gid-komanda-zombi-black-ops-7",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Команда Black Ops 7 Zombies бореться на карті Ashes of the Damned",
-      "reading_time": 10,
-      "locale": "uk",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombies",
-        "тіммейти для зомбі",
-        "високі раунди зомбі",
-        "ashes of the damned",
-        "команда cod zombies"
-      ]
-    },
     {
       "id": "halo-campaign-evolved-kooperatyvnyi-gid-2026",
       "title": "Halo: Campaign Evolved Кооператив: Знайди Ідеальний Загін",
@@ -113,5 +59,5 @@
       ]
     }
   ],
-  "generated_at": "content-b25d74f9970d"
+  "generated_at": "content-abd74744f679"
 }

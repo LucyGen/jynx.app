@@ -1,61 +1,7 @@
 {
   "locale": "it",
-  "post_count": 7,
+  "post_count": 2,
   "posts": [
-    {
-      "id": "ai-coaches-competitive-gaming",
-      "title": "L'Ascesa degli AI Coach nel Gaming Competitivo",
-      "excerpt": "Gli strumenti di analisi delle performance e i sistemi di ottimizzazione strategica stanno trasformando il modo in cui i gamer competitivi si allenano e migliorano le proprie abilità.",
-      "tags": [
-        "competitive-gaming",
-        "gaming-performance",
-        "esports-training",
-        "gaming-analytics",
-        "skill-improvement"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-coaches-competitive-gaming",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
-      "featured_image_alt": "Gamer professionista che analizza statistiche di performance e metriche di gameplay",
-      "reading_time": 20,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "analisi performance gaming",
-        "strumenti allenamento esports",
-        "miglioramento gaming competitivo",
-        "analytics gaming",
-        "ottimizzazione performance gaming"
-      ]
-    },
-    {
-      "id": "cs2-non-toxic-teammates",
-      "title": "Trovare Compagni CS2 Non Tossici: Guida 2025",
-      "excerpt": "Impara a identificare red flag e green flag quando cerchi compagni di Counter-Strike 2. Strategie di vetting provate e raccomandazioni della community per costruire squad senza tossicità.",
-      "tags": [
-        "counter-strike-2",
-        "cs2",
-        "toxic-teammates",
-        "gaming-community",
-        "competitive"
-      ],
-      "category": "gaming-communities",
-      "slug": "cs2-non-toxic-teammates",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/cs2-non-toxic-teammates/hero.webp",
-      "featured_image_alt": "Team CS2 che comunica positivamente durante partita competitiva",
-      "reading_time": 9,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "cs2 compagni tossici",
-        "community counter-strike 2",
-        "trovare compagni cs2",
-        "vetting team cs2",
-        "community gaming positiva"
-      ]
-    },
     {
       "id": "guida-matchmaking-ia-gaming",
       "title": "La Guida Completa al Matchmaking Gaming Basato su IA",
@@ -81,33 +27,6 @@
         "alternativa LFG",
         "compagni di squadra IA",
         "matchmaking basato sulle abilità"
-      ]
-    },
-    {
-      "id": "guida-squadra-zombi-black-ops-7",
-      "title": "Guida Squadra Black Ops 7 Zombies per Round Alti",
-      "excerpt": "Ashes of the Damned è la mappa zombi più grande di COD di sempre. Scopri come costruire la squadra perfetta a 4 giocatori per sopravvivere ai round alti, evitare compagni tossici e dominare il Dark Aether di Black Ops 7.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "guida-squadra-zombi-black-ops-7",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Squadra di Black Ops 7 Zombies che combatte nella mappa Ashes of the Damned",
-      "reading_time": 12,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombi",
-        "compagni zombi",
-        "round alti zombi",
-        "ashes of the damned",
-        "team cod zombi"
       ]
     },
     {
@@ -138,62 +57,7 @@
         "trovare compagni halo",
         "difficoltà leggendaria"
       ]
-    },
-    {
-      "id": "small-gaming-groups-vs-clans",
-      "title": "Perché i Piccoli Gruppi Gaming Superano i Grandi Clan",
-      "excerpt": "Scopri perché i gruppi gaming intimi di 8-15 giocatori superano costantemente i clan di 100+ membri in coordinazione, lealtà e successo a lungo termine. La scienza dietro la dimensione ottimale del team.",
-      "tags": [
-        "gaming-groups",
-        "team-size",
-        "clans",
-        "community-building",
-        "dunbar-number",
-        "team-coordination"
-      ],
-      "category": "gaming-communities",
-      "slug": "small-gaming-groups-vs-clans",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/small-gaming-groups-vs-clans/hero.webp",
-      "featured_image_alt": "Piccolo gruppo gaming affiatato che gioca insieme",
-      "reading_time": 10,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "dimensione gruppo gaming",
-        "piccoli vs grandi clan",
-        "numero dunbar gaming",
-        "dimensione team ottimale",
-        "dimensione community gaming"
-      ]
-    },
-    {
-      "id": "wrong-gaming-squad-signs",
-      "title": "5 Segni Che Stai Giocando con lo Squad Gaming",
-      "excerpt": "Riconosci le red flag che indicano che il tuo squad gaming ti sta trattenendo, dai breakdown di comunicazione agli obiettivi disallineati e comportamenti tossici.",
-      "tags": [
-        "gaming-squad",
-        "team-compatibility",
-        "red-flags",
-        "gaming-relationships",
-        "team-chemistry"
-      ],
-      "category": "social-gaming",
-      "slug": "wrong-gaming-squad-signs",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/wrong-gaming-squad-signs/hero.webp",
-      "featured_image_alt": "Gamer frustrato che sperimenta problemi di comunicazione nel team",
-      "reading_time": 12,
-      "locale": "it",
-      "author": "jynx-team",
-      "keywords": [
-        "squad gaming sbagliato",
-        "segni compagni cattivi",
-        "red flag team gaming",
-        "squad gaming tossico",
-        "quando lasciare team gaming"
-      ]
     }
   ],
-  "generated_at": "content-92d6d8586ade"
+  "generated_at": "content-188a951ecb90"
 }

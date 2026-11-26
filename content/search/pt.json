@@ -1,38 +1,11 @@
 {
   "locale": "pt",
-  "post_count": 8,
+  "post_count": 6,
   "posts": [
-    {
-      "id": "ai-coaches-competitive-gaming",
-      "title": "A Ascensão dos Coaches de IA em Jogos Competitivos",
-      "excerpt": "Ferramentas de análise de desempenho e sistemas de otimização de estratégia estão transformando a forma como jogadores competitivos treinam e melhoram suas habilidades.",
-      "tags": [
-        "competitive-gaming",
-        "gaming-performance",
-        "esports-training",
-        "gaming-analytics",
-        "skill-improvement"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-coaches-competitive-gaming",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
-      "featured_image_alt": "Jogador profissional analisando estatísticas de desempenho e métricas de gameplay",
-      "reading_time": 19,
-      "locale": "pt",
-      "author": "jynx-team",
-      "keywords": [
-        "análise desempenho gaming",
-        "ferramentas treinamento esports",
-        "melhoria jogos competitivos",
-        "analytics gaming",
-        "otimização desempenho gaming"
-      ]
-    },
     {
       "id": "como-entrar-em-um-time-de-valorant",
       "title": "De Solo Queue a 5-Stack: Como Entrar em um Time de Valorant",
-      "excerpt": "Domine a jornada do caos do solo queue ao sucesso no 5-stack. Estratégias comprovadas para achar duo no Valorant, montar time, criar química e evoluir na ranqueada — do primeiro duo ao roster competitivo.",
+      "excerpt": "O caminho completo do solo queue do Valorant até um 5-stack coordenado: achar duo, expandir para trio e roster completo, balancear papéis, callouts, estrutura de IGL e o trabalho de química que mantém o time vivo.",
       "tags": [
         "valorant",
         "team-building",
@@ -47,7 +20,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/valorant-solo-to-team/hero.webp",
       "featured_image_alt": "Time de Valorant comemorando vitória em partida ranqueada 5-stack",
-      "reading_time": 15,
+      "reading_time": 14,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
@@ -60,8 +33,8 @@
     },
     {
       "id": "construir-comunidades-de-jogos-duradouras",
-      "title": "Como Construir Comunidades de Jogos Que Duram de Verdade",
-      "excerpt": "A maioria das comunidades de gaming morre em poucos meses. Aprenda os frameworks e estratégias comprovados que ajudam líderes a construir comunidades de jogos prósperas, com Discord, grupo de zap e engajamento real.",
+      "title": "Como Construir Comunidades de Jogos Que Duram: Guia Prático",
+      "excerpt": "Por que a maioria das comunidades de jogos morre em seis meses, e os sistemas de liderança, moderação, boas-vindas e inclusão que mantêm os sobreviventes com membros ativos por anos.",
       "tags": [
         "gaming communities",
         "community management",
@@ -76,48 +49,21 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/building-lasting-gaming-communities/hero.webp",
       "featured_image_alt": "Membros de uma comunidade de jogos próspera colaborando juntos",
-      "reading_time": 29,
+      "reading_time": 13,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
+        "comunidades de jogos",
         "melhor jogo para jogar com amigos",
         "jogos para fazer amigos",
-        "jogos para fazer amigos online",
         "grupos para jogar online",
         "discord para jogar"
       ]
     },
     {
-      "id": "guia-esquadrao-zumbis-black-ops-7",
-      "title": "Guia Esquadrão Black Ops 7 Zombies para High Rounds",
-      "excerpt": "Ashes of the Damned é o maior mapa de zumbis do COD de todos os tempos. Aprenda a montar o esquadrão de 4 jogadores perfeito para sobreviver em high rounds, evitar companheiros tóxicos e dominar o Dark Aether de Black Ops 7.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "guia-esquadrao-zumbis-black-ops-7",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Esquadrão de Black Ops 7 Zombies lutando através do mapa Ashes of the Damned",
-      "reading_time": 12,
-      "locale": "pt",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombies",
-        "companheiros zombies",
-        "high rounds zombies",
-        "ashes of the damned",
-        "equipe cod zombies"
-      ]
-    },
-    {
       "id": "guia-matchmaking-ia-jogos",
-      "title": "O Guia Completo para Matchmaking em Jogos com IA",
-      "excerpt": "Descubra como o matchmaking com IA ajuda gamers a encontrar companheiros de equipe perfeitos baseado em habilidade, estilo de jogo e personalidade. Guia completo com dicas, ferramentas e estratégias.",
+      "title": "Matchmaking com IA em Jogos: O Guia Completo para 2026",
+      "excerpt": "Como o matchmaking com IA encontra companheiros por habilidade, estilo de jogo, horário e personalidade—mais a história do LFG, privacidade e um checklist prático para montar um squad que dura.",
       "tags": [
         "AI",
         "matchmaking",
@@ -130,21 +76,21 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp",
       "featured_image_alt": "Interface de matchmaking de jogos com IA mostrando pontuações de compatibilidade de jogadores",
-      "reading_time": 16,
+      "reading_time": 18,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
+        "matchmaking com IA jogos",
         "matchmaking jogos",
-        "encontrar companheiros jogos",
-        "alternativa LFG",
-        "companheiros IA",
-        "matchmaking baseado em habilidade"
+        "achar duo",
+        "procurar duo",
+        "alternativa LFG"
       ]
     },
     {
       "id": "guia-procurar-duo-lol",
       "title": "Guia Completo para Achar Duo e Time no League of Legends",
-      "excerpt": "Domine a arte de achar duo no LoL e companheiros de time compatíveis com seu estilo de jogo, elo e horário. Guia completo de duo queue, Clash e subida de elo no League of Legends.",
+      "excerpt": "Domine a arte de achar duo no LoL e companheiros de time compatíveis com seu estilo de jogo, elo e horário — e aprenda a testar, blindar contra tilt e manter a dupla viva na subida.",
       "tags": [
         "league-of-legends",
         "matchmaking",
@@ -159,7 +105,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/league-of-legends-teammate-guide/hero.webp",
       "featured_image_alt": "Time de League of Legends coordenando estratégia em partida ranqueada",
-      "reading_time": 24,
+      "reading_time": 14,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
@@ -172,8 +118,8 @@
     },
     {
       "id": "halo-campanha-evoluida-guia-coop-2026",
-      "title": "Halo Campaign Evolved Co-op: Seu Esquadrão Perfeito 2026",
-      "excerpt": "Halo chega ao PlayStation pela primeira vez com co-op de 4 jogadores. Aqui está tudo que você precisa saber para encontrar o esquadrão perfeito para partidas lendárias.",
+      "title": "Halo: Campaign Evolved Co-op: Monte Seu Fireteam 2026",
+      "excerpt": "Halo chega ao PlayStation pela primeira vez com co-op online de 4 jogadores. Como a campanha funciona com squad, e como achar três players de confiança para o Legendary.",
       "tags": [
         "halo",
         "co-op",
@@ -188,7 +134,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Master Chief e esquadrão em gameplay co-op de Halo Campaign Evolved",
-      "reading_time": 12,
+      "reading_time": 11,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
@@ -202,7 +148,7 @@
     {
       "id": "onde-achar-time-para-jogar",
       "title": "Onde Achar Time para Jogar: Discord, Grupo de Zap ou App?",
-      "excerpt": "Descubra qual plataforma entrega o melhor resultado para achar time para jogar no Brasil. Compare Discord, grupos de WhatsApp, Gamers Club e apps com taxas de sucesso e estratégias práticas.",
+      "excerpt": "Onde achar time para jogar, rápido: como rodar LFG no Discord, Reddit e fóruns, o que o crossplay muda e qual caminho resolve o seu objetivo hoje.",
       "tags": [
         "discord",
         "reddit",
@@ -217,17 +163,17 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp",
       "featured_image_alt": "Gamers comparando plataformas diferentes em várias telas",
-      "reading_time": 13,
+      "reading_time": 11,
       "locale": "pt",
       "author": "jynx-team",
       "keywords": [
-        "achar time para jogar",
+        "onde achar time para jogar",
         "achar time para jogar online",
-        "achar time para jogar free fire",
         "discord para jogar",
-        "discord para achar duo valorant"
+        "achar duo",
+        "procurar duo"
       ]
     }
   ],
-  "generated_at": "content-4b050041986f"
+  "generated_at": "content-169694f67e8f"
 }

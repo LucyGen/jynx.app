@@ -1,6 +1,6 @@
 {
   "locale": "es",
-  "post_count": 3,
+  "post_count": 2,
   "posts": [
     {
       "id": "guia-emparejamiento-juegos-ia",
@@ -27,33 +27,6 @@
         "alternativa LFG",
         "compañeros IA",
         "emparejamiento por habilidad"
-      ]
-    },
-    {
-      "id": "guia-escuadron-zombies-black-ops-7",
-      "title": "Escuadrón Perfecto para Black Ops 7 Zombies: Guía Completa",
-      "excerpt": "Ashes of the Damned es el mapa de zombies más grande de COD. Aprende cómo formar el escuadrón perfecto de 4 jugadores para sobrevivir rondas altas, evitar compañeros tóxicos y dominar el Dark Aether de Black Ops 7.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "guia-escuadron-zombies-black-ops-7",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Escuadrón de Black Ops 7 Zombies luchando en el mapa Ashes of the Damned",
-      "reading_time": 12,
-      "locale": "es",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombies",
-        "compañeros zombies",
-        "rondas altas zombies",
-        "ashes of the damned",
-        "equipo cod zombies"
       ]
     },
     {
@@ -86,5 +59,5 @@
       ]
     }
   ],
-  "generated_at": "content-ce1ffe97e9ce"
+  "generated_at": "content-29cee5383fc9"
 }

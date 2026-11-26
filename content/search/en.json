@@ -1,38 +1,11 @@
 {
   "locale": "en",
-  "post_count": 1028,
+  "post_count": 1006,
   "posts": [
     {
-      "id": "ai-coaches-competitive-gaming",
-      "title": "The Rise of AI Coaches in Competitive Gaming",
-      "excerpt": "Performance analysis tools and strategy optimization systems are transforming how competitive gamers train and improve their skills.",
-      "tags": [
-        "competitive-gaming",
-        "gaming-performance",
-        "esports-training",
-        "gaming-analytics",
-        "skill-improvement"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-coaches-competitive-gaming",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
-      "featured_image_alt": "Professional gamer analyzing performance statistics and gameplay metrics",
-      "reading_time": 17,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming performance analysis",
-        "esports training tools",
-        "competitive gaming improvement",
-        "gaming analytics",
-        "performance optimization gaming"
-      ]
-    },
-    {
       "id": "ai-gaming-matchmaking-guide",
-      "title": "The Complete Guide to AI-Powered Gaming Matchmaking",
-      "excerpt": "Discover how AI-powered matchmaking helps gamers find perfect teammates based on skill, playstyle, and personality. Complete guide with tips, tools, and strategies.",
+      "title": "AI Gaming Matchmaking: The Complete Guide for 2026",
+      "excerpt": "How AI gaming matchmaking finds teammates by skill, playstyle, schedule, and personality—plus its history, privacy rules, and a practical checklist to build a squad that lasts.",
       "tags": [
         "AI",
         "matchmaking",
@@ -45,50 +18,21 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp",
       "featured_image_alt": "AI-powered gaming matchmaking interface showing player compatibility scores",
-      "reading_time": 14,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming matchmaking",
-        "find gaming teammates",
-        "LFG alternative",
-        "AI teammates",
-        "skill-based matchmaking"
-      ]
-    },
-    {
-      "id": "ai-gaming-matchmaking-revolution-2025",
-      "title": "How AI is Revolutionizing Gaming Matchmaking in 2025",
-      "excerpt": "Discover how artificial intelligence is transforming gaming matchmaking from simple skill-based systems to sophisticated personality matching that creates better teams and lasting friendships.",
-      "tags": [
-        "ai-matchmaking",
-        "machine-learning",
-        "gaming-technology",
-        "team-formation",
-        "competitive-gaming",
-        "social-gaming",
-        "matchmaking-algorithms"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-gaming-matchmaking-revolution-2025",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-gaming-matchmaking-revolution-2025/hero.webp",
-      "featured_image_alt": "AI-powered gaming matchmaking visualization with player profiles",
-      "reading_time": 24,
+      "reading_time": 16,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
         "AI gaming matchmaking",
-        "gaming AI algorithms",
-        "personality-based matchmaking",
-        "predictive team chemistry",
-        "machine learning gaming"
+        "gaming matchmaking",
+        "find gaming teammates",
+        "LFG alternative",
+        "compatibility matching"
       ]
     },
     {
       "id": "apex-legends-playstyle-matching",
       "title": "Finding Apex Legends Teammates Who Match Your Playstyle",
-      "excerpt": "Discover how to find Apex Legends teammates who complement your playstyle, legend preferences, and rotation strategies for consistent ranked success.",
+      "excerpt": "How to find Apex Legends teammates who match your playstyle — the five compatibility axes, building chemistry on purpose, and a trial process that filters bad fits before your RP does.",
       "tags": [
         "apex-legends",
         "matchmaking",
@@ -103,104 +47,21 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/apex-legends-playstyle-matching/hero.webp",
       "featured_image_alt": "Apex Legends squad coordinating strategy with compatible legend composition",
-      "reading_time": 18,
+      "reading_time": 13,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
         "apex legends teammates",
         "apex playstyle compatibility",
+        "apex ranked team chemistry",
         "apex legend synergies",
-        "apex ranked teams",
         "find apex teammates"
       ]
     },
     {
-      "id": "apex-ranked-team-chemistry",
-      "title": "Apex Legends Ranked: Why Chemistry Beats Individual Skill",
-      "excerpt": "Learn why team chemistry and synergy outperform individual mechanical skill in Apex Legends ranked, with real examples and strategies to build better squad dynamics.",
-      "tags": [
-        "apex-legends",
-        "ranked",
-        "team-chemistry",
-        "squad-synergy",
-        "competitive",
-        "battle-royale",
-        "teamwork"
-      ],
-      "category": "social-gaming",
-      "slug": "apex-ranked-team-chemistry",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/apex-ranked-team-chemistry/hero.webp",
-      "featured_image_alt": "Apex Legends squad demonstrating perfect team chemistry during ranked match",
-      "reading_time": 13,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "apex legends team chemistry",
-        "apex squad synergy",
-        "apex ranked teamwork",
-        "apex team coordination",
-        "apex team building"
-      ]
-    },
-    {
-      "id": "black-ops-7-zombies-squad-guide",
-      "title": "How to Find the Perfect Black Ops 7 Zombies Squad for High Rounds",
-      "excerpt": "Ashes of the Damned is COD's largest zombies map ever. Learn how to build the perfect 4-player squad to survive high rounds, avoid toxic teammates, and dominate Black Ops 7's Dark Aether.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "black-ops-7-zombies-squad-guide",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Black Ops 7 Zombies squad fighting through Ashes of the Damned map",
-      "reading_time": 10,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombies",
-        "zombies teammates",
-        "high rounds zombies",
-        "ashes of the damned",
-        "cod zombies team"
-      ]
-    },
-    {
-      "id": "brawl-stars-club-management",
-      "title": "Brawl Stars Club Management: Keeping Players Engaged",
-      "excerpt": "Master Brawl Stars club management with proven strategies for setting activity requirements, coordinating club events, and retaining engaged members long-term.",
-      "tags": [
-        "brawl-stars",
-        "club-management",
-        "mobile-gaming",
-        "community-building",
-        "player-retention"
-      ],
-      "category": "gaming-communities",
-      "slug": "brawl-stars-club-management",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/brawl-stars-club-management/hero.webp",
-      "featured_image_alt": "Brawl Stars characters group photo",
-      "reading_time": 8,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "brawl stars club",
-        "brawl stars community",
-        "club management tips",
-        "brawl stars events",
-        "player engagement"
-      ]
-    },
-    {
       "id": "building-lasting-gaming-communities",
-      "title": "Building Gaming Communities That Actually Last",
-      "excerpt": "Most gaming communities collapse within months. Learn the proven frameworks and strategies that help community leaders build thriving, sustainable gaming communities that keep members engaged for years.",
+      "title": "Building Gaming Communities That Last: The Field Guide",
+      "excerpt": "Why most gaming communities fold within six months, and the leadership, moderation, onboarding and inclusion systems the survivors use to keep members engaged for years.",
       "tags": [
         "gaming communities",
         "community management",
@@ -215,7 +76,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/building-lasting-gaming-communities/hero.webp",
       "featured_image_alt": "Thriving gaming community members collaborating together",
-      "reading_time": 23,
+      "reading_time": 11,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -227,63 +88,9 @@
       ]
     },
     {
-      "id": "cross-platform-gaming-barriers",
-      "title": "Cross-Platform Gaming: Breaking Down Platform Barriers",
-      "excerpt": "Explore how cross-platform play is solving technical challenges and creating massive social benefits for gaming communities worldwide.",
-      "tags": [
-        "cross-platform",
-        "gaming-platforms",
-        "social-gaming",
-        "unified-gaming",
-        "gaming-technology"
-      ],
-      "category": "social-gaming",
-      "slug": "cross-platform-gaming-barriers",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/cross-platform-gaming-barriers/hero.webp",
-      "featured_image_alt": "PC, console, and mobile devices connected in cross-platform play",
-      "reading_time": 15,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "cross-platform play",
-        "crossplay gaming",
-        "unified gaming",
-        "platform barriers",
-        "gaming social benefits"
-      ]
-    },
-    {
-      "id": "cs2-non-toxic-teammates",
-      "title": "Finding Non-Toxic CS2 Teammates: Complete Guide",
-      "excerpt": "Learn to identify red flags and green flags when finding Counter-Strike 2 teammates. Proven vetting strategies and community recommendations for building toxic-free squads.",
-      "tags": [
-        "counter-strike-2",
-        "cs2",
-        "toxic-teammates",
-        "gaming-community",
-        "competitive"
-      ],
-      "category": "gaming-communities",
-      "slug": "cs2-non-toxic-teammates",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/cs2-non-toxic-teammates/hero.webp",
-      "featured_image_alt": "CS2 team communicating positively during competitive match",
-      "reading_time": 8,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "cs2 toxic teammates",
-        "counter-strike 2 community",
-        "find cs2 teammates",
-        "cs2 team vetting",
-        "positive gaming community"
-      ]
-    },
-    {
       "id": "cs2-team-roles-guide",
-      "title": "CS2 Team Roles Explained: Building a Balanced Squad",
-      "excerpt": "Master Counter-Strike 2 team composition with this complete guide to entry fragger, support, AWPer, IGL, and lurker roles. Learn how to build complementary squads that dominate competitive matches.",
+      "title": "CS2 Team Roles Explained: How to Build a Balanced Squad",
+      "excerpt": "Entry fragger, support, AWPer, IGL, lurker — what each CS2 role owns, how to combine them into a balanced squad, and how to find teammates who actually fill the gaps in your roster.",
       "tags": [
         "counter-strike-2",
         "cs2",
@@ -296,7 +103,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/cs2-team-roles-guide/hero.webp",
       "featured_image_alt": "Counter-Strike 2 team coordinating roles and strategy",
-      "reading_time": 16,
+      "reading_time": 13,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -308,38 +115,9 @@
       ]
     },
     {
-      "id": "future-social-gaming-2025-2030",
-      "title": "The Future of Social Gaming: Predictions for 2025-2030",
-      "excerpt": "Explore how VR social spaces, cross-platform play, and the metaverse will revolutionize how gamers connect and play together over the next five years.",
-      "tags": [
-        "social-gaming",
-        "vr-gaming",
-        "cross-platform",
-        "metaverse",
-        "gaming-trends",
-        "future-of-gaming",
-        "gaming-communities"
-      ],
-      "category": "social-gaming",
-      "slug": "future-social-gaming-2025-2030",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/future-social-gaming-2025-2030/hero.webp",
-      "featured_image_alt": "Futuristic gaming setup showing VR headset and cross-platform connections",
-      "reading_time": 22,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "social gaming trends",
-        "vr social spaces",
-        "cross-platform gaming",
-        "metaverse gaming",
-        "gaming social features"
-      ]
-    },
-    {
       "id": "gaming-community-drama-management",
       "title": "Managing Gaming Community Drama: A Leader's Guide",
-      "excerpt": "Master conflict resolution, prevention strategies, and moderation techniques to keep your gaming community drama-free and thriving. Proven leadership methods from successful community managers.",
+      "excerpt": "A practical playbook for gaming community leaders: spot drama while it is still a spark, run the first 30 minutes of a live conflict, and moderate without splitting the group.",
       "tags": [
         "community-management",
         "conflict-resolution",
@@ -353,7 +131,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/gaming-community-drama-management/hero.webp",
       "featured_image_alt": "Community leader mediating discussion between gamers",
-      "reading_time": 11,
+      "reading_time": 12,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -365,36 +143,9 @@
       ]
     },
     {
-      "id": "gaming-friendships-stronger-than-irl",
-      "title": "Gaming Friendships: Why They're Stronger Than IRL",
-      "excerpt": "Discover the science behind why gaming friendships often create deeper bonds than traditional friendships through shared experiences and unique communication.",
-      "tags": [
-        "gaming-friendships",
-        "social-gaming",
-        "gaming-communities",
-        "online-friends",
-        "gaming-relationships"
-      ],
-      "category": "social-gaming",
-      "slug": "gaming-friendships-stronger-than-irl",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/gaming-friendships-stronger-than-irl/hero.webp",
-      "featured_image_alt": "Gamers celebrating victory together in voice chat",
-      "reading_time": 17,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming friends vs real friends",
-        "online gaming friendships",
-        "gaming bonds",
-        "gaming social connections",
-        "gaming relationships"
-      ]
-    },
-    {
       "id": "gaming-matchmaking-algorithms-explained",
-      "title": "How Gaming Matchmaking Algorithms Actually Work",
-      "excerpt": "Discover the sophisticated algorithms behind modern gaming matchmaking systems, from ELO ratings to MMR calculations, and learn how platforms balance fair competition with quick queue times.",
+      "title": "Gaming Matchmaking Algorithms: How They Really Work",
+      "excerpt": "How gaming matchmaking algorithms actually work, from ELO and MMR ratings to team balancing, and what skill versus personality matching predicts about your teammates.",
       "tags": [
         "matchmaking",
         "algorithms",
@@ -409,7 +160,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/gaming-matchmaking-algorithms-explained/hero.webp",
       "featured_image_alt": "Visual representation of matchmaking algorithm calculations",
-      "reading_time": 12,
+      "reading_time": 10,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -421,51 +172,23 @@
       ]
     },
     {
-      "id": "gaming-matchmaking-privacy",
-      "title": "Privacy in Gaming: How Matchmaking Platforms Protect You",
-      "excerpt": "Explore how modern gaming matchmaking platforms protect your personal data, maintain anonymity, and implement safety features while connecting you with teammates.",
-      "tags": [
-        "privacy",
-        "gaming-security",
-        "data-protection",
-        "online-safety",
-        "matchmaking",
-        "anonymity"
-      ],
-      "category": "matchmaking",
-      "slug": "gaming-matchmaking-privacy",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/gaming-matchmaking-privacy/hero.webp",
-      "featured_image_alt": "Shield protecting gamer identity and personal data",
-      "reading_time": 13,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming privacy",
-        "matchmaking security",
-        "data protection gaming",
-        "anonymous gaming",
-        "online safety"
-      ]
-    },
-    {
       "id": "gaming-team-chemistry-psychology",
       "title": "The Psychology Behind Perfect Gaming Team Chemistry",
-      "excerpt": "Discover the psychological principles that transform random players into unstoppable gaming teams, from personality types to trust-building dynamics.",
+      "excerpt": "The psychology of gaming team chemistry: personality balance, communication fit, trust-building, group size, and the warning signs of a squad that will never click.",
       "tags": [
         "team-chemistry",
         "gaming-psychology",
         "team-dynamics",
         "communication",
         "competitive-gaming",
-        "personality-types"
+        "gaming-friendships"
       ],
       "category": "social-gaming",
       "slug": "gaming-team-chemistry-psychology",
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/gaming-team-chemistry-psychology/hero.webp",
       "featured_image_alt": "Gaming team celebrating victory together",
-      "reading_time": 12,
+      "reading_time": 11,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -473,13 +196,13 @@
         "team psychology",
         "gaming personality types",
         "team communication",
-        "competitive team dynamics"
+        "gaming squad red flags"
       ]
     },
     {
       "id": "halo-campaign-evolved-coop-guide-2026",
-      "title": "Halo: Campaign Evolved Co-op: Find Your Perfect Squad for 2026",
-      "excerpt": "Halo returns to PlayStation for the first time ever with 4-player co-op. Here's everything you need to know about finding the perfect squad for legendary runs.",
+      "title": "Halo: Campaign Evolved Co-op: Build Your 2026 Fireteam",
+      "excerpt": "Halo arrives on PlayStation for the first time with 4-player online co-op. How the campaign plays with a squad, and how to find three players you can trust on Legendary.",
       "tags": [
         "halo",
         "co-op",
@@ -494,7 +217,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/halo-campaign-evolved-coop-guide-2026/hero.webp",
       "featured_image_alt": "Master Chief and squad in Halo Campaign Evolved co-op gameplay",
-      "reading_time": 13,
+      "reading_time": 10,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -506,37 +229,9 @@
       ]
     },
     {
-      "id": "inclusive-gaming-spaces-2025",
-      "title": "Creating Inclusive Gaming Spaces: 2025 Guide",
-      "excerpt": "Build welcoming gaming communities that embrace diversity and accessibility. Learn practical strategies for creating inclusive spaces where all gamers feel valued and respected.",
-      "tags": [
-        "inclusive-gaming",
-        "diversity",
-        "accessibility",
-        "community-building",
-        "welcoming-spaces",
-        "gaming-culture"
-      ],
-      "category": "gaming-communities",
-      "slug": "inclusive-gaming-spaces-2025",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/inclusive-gaming-spaces-2025/hero.webp",
-      "featured_image_alt": "Diverse group of gamers collaborating together",
-      "reading_time": 9,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "inclusive gaming communities",
-        "gaming diversity",
-        "accessible gaming",
-        "welcoming gaming environment",
-        "gaming inclusion"
-      ]
-    },
-    {
       "id": "league-duo-queue-champions",
-      "title": "Best Champions for Duo Queue Synergy in League",
-      "excerpt": "Master duo queue with the best champion synergies. Learn top bot lane combos, jungle-mid pairings, and power spike coordination to dominate ranked.",
+      "title": "Best Duo Queue Champions in League: Synergy Patterns",
+      "excerpt": "Which champions actually synergize in League duo queue: bot lane combos, jungle-mid pairings, power-spike coordination, and the patterns that make duos win.",
       "tags": [
         "league-of-legends",
         "duo-queue",
@@ -549,7 +244,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/league-duo-queue-champions/hero.webp",
       "featured_image_alt": "League of Legends champions showcasing duo queue synergy",
-      "reading_time": 13,
+      "reading_time": 9,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -578,7 +273,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/league-of-legends-teammate-guide/hero.webp",
       "featured_image_alt": "League of Legends team coordinating strategy in ranked game",
-      "reading_time": 22,
+      "reading_time": 13,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -590,64 +285,9 @@
       ]
     },
     {
-      "id": "league-ranked-team-problems",
-      "title": "Why Your League Ranked Team Keeps Falling Apart",
-      "excerpt": "Discover the hidden reasons why talented League teams fail in ranked and learn proven strategies to fix team dynamics, tilt management, and communication breakdowns.",
-      "tags": [
-        "league-of-legends",
-        "ranked",
-        "team-dynamics",
-        "tilt-management",
-        "communication"
-      ],
-      "category": "gaming-communities",
-      "slug": "league-ranked-team-problems",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/league-ranked-team-problems/hero.webp",
-      "featured_image_alt": "League of Legends team discussing strategy between ranked matches",
-      "reading_time": 17,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "league ranked team problems",
-        "league team dynamics",
-        "tilt management",
-        "league communication",
-        "ranked team falling apart"
-      ]
-    },
-    {
-      "id": "lfg-evolution-forums-to-smart-matchmaking",
-      "title": "LFG Evolution: From Forums to Smart Matchmaking",
-      "excerpt": "Trace the evolution of looking-for-group systems from early gaming forums to modern smart matchmaking platforms that connect compatible teammates instantly.",
-      "tags": [
-        "lfg",
-        "matchmaking",
-        "gaming-history",
-        "team-finding",
-        "social-gaming",
-        "gaming-evolution"
-      ],
-      "category": "matchmaking",
-      "slug": "lfg-evolution-forums-to-smart-matchmaking",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/lfg-evolution-forums-to-smart-matchmaking/hero.webp",
-      "featured_image_alt": "Timeline showing evolution from forums to modern matchmaking apps",
-      "reading_time": 12,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "looking for group",
-        "lfg history",
-        "gaming matchmaking evolution",
-        "team finding",
-        "lfg systems"
-      ]
-    },
-    {
       "id": "mobile-moba-matchmaking-comparison",
       "title": "Mobile MOBA Matchmaking: Wild Rift vs Mobile Legends",
-      "excerpt": "Comparing Wild Rift and Mobile Legends matchmaking systems, player bases, and team finding experiences to help you choose the best mobile MOBA for competitive play.",
+      "excerpt": "How Wild Rift and Mobile Legends matchmaking actually differ: rank ladders, hidden MMR, role queue, draft phases, and which game fits how you play.",
       "tags": [
         "wild-rift",
         "mobile-legends",
@@ -661,7 +301,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/mobile-moba-matchmaking-comparison/hero.webp",
       "featured_image_alt": "Wild Rift and Mobile Legends comparison interface",
-      "reading_time": 12,
+      "reading_time": 10,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -675,7 +315,7 @@
     {
       "id": "overwatch-2-team-synergies",
       "title": "Overwatch 2 Team Synergies: Tank-Support Combinations",
-      "excerpt": "Master the meta with proven tank-support combinations that dominate Overwatch 2's 5v5 format. Learn coordination techniques, counter-picks, and ultimate combos.",
+      "excerpt": "Tank-support combinations that hold in any Overwatch 2 patch: composition families, ultimate economy, counter-swaps, and why a stacked five-stack still goes on losing streaks.",
       "tags": [
         "overwatch-2",
         "team-synergy",
@@ -690,7 +330,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/overwatch-2-team-synergies/hero.webp",
       "featured_image_alt": "Overwatch 2 tank and support heroes working together",
-      "reading_time": 13,
+      "reading_time": 12,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -702,93 +342,9 @@
       ]
     },
     {
-      "id": "overwatch-group-losing-streak",
-      "title": "Why Your Overwatch Group Keeps Losing (And How to Fix It)",
-      "excerpt": "Stuck in a losing streak with your Overwatch 2 group? Learn the real reasons talented teams fail and discover proven strategies to turn it around fast.",
-      "tags": [
-        "overwatch-2",
-        "losing-streak",
-        "team-coordination",
-        "competitive",
-        "tilt-management",
-        "communication"
-      ],
-      "category": "gaming-communities",
-      "slug": "overwatch-group-losing-streak",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/overwatch-group-losing-streak/hero.webp",
-      "featured_image_alt": "Frustrated Overwatch 2 team analyzing their losing streak",
-      "reading_time": 11,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "overwatch 2 losing streak",
-        "overwatch team problems",
-        "overwatch group not winning",
-        "ow2 team coordination",
-        "fix overwatch team issues"
-      ]
-    },
-    {
-      "id": "pokemon-unite-masters-team",
-      "title": "Pokemon Unite: Building a Masters-Ready Team",
-      "excerpt": "Master team composition in Pokemon Unite with proven strategies for role balance, synergy between attackers, defenders, supporters, speedsters, and all-rounders.",
-      "tags": [
-        "pokemon-unite",
-        "team-composition",
-        "masters-rank",
-        "mobile-moba",
-        "competitive-pokemon"
-      ],
-      "category": "matchmaking",
-      "slug": "pokemon-unite-masters-team",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/pokemon-unite-masters-team/hero.webp",
-      "featured_image_alt": "Pokemon Unite competitive team composition diagram",
-      "reading_time": 9,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "pokemon unite masters",
-        "pokemon unite roles",
-        "pokemon unite team building",
-        "pokemon unite competitive",
-        "pokemon unite strategy"
-      ]
-    },
-    {
-      "id": "r6-siege-communication-guide",
-      "title": "Rainbow Six Siege Communication Protocols for Ranked",
-      "excerpt": "Master essential Rainbow Six Siege communication protocols including callout standards, drone economy management, site setup coordination, and information flow for competitive ranked play.",
-      "tags": [
-        "rainbow-six-siege",
-        "communication",
-        "callouts",
-        "ranked",
-        "tactical-fps",
-        "team-coordination",
-        "competitive"
-      ],
-      "category": "gaming-communities",
-      "slug": "r6-siege-communication-guide",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/r6-siege-communication-guide/hero.webp",
-      "featured_image_alt": "Rainbow Six Siege team communicating tactical information during ranked match",
-      "reading_time": 14,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "r6 siege callouts",
-        "siege communication guide",
-        "rainbow six ranked comms",
-        "r6 drone economy",
-        "siege intel management"
-      ]
-    },
-    {
       "id": "rainbow-six-siege-team-building",
-      "title": "R6 Siege Stack Building: From Duo to Full Team",
-      "excerpt": "Master the art of building a competitive Rainbow Six Siege stack from duo queue to a full five-player team with role assignments, operator synergies, and tactical strategies.",
+      "title": "Rainbow Six Siege Team Building: From Duo to Five-Stack",
+      "excerpt": "How to build a Rainbow Six Siege stack that actually wins: pick complementary roles, expand from duo to five without dead weight, and run callouts, drone economy and comms discipline like a real roster.",
       "tags": [
         "rainbow-six-siege",
         "team-building",
@@ -803,7 +359,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/rainbow-six-siege-team-building/hero.webp",
       "featured_image_alt": "Rainbow Six Siege tactical team coordinating operator selection and site setup",
-      "reading_time": 18,
+      "reading_time": 12,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -816,8 +372,8 @@
     },
     {
       "id": "rocket-league-chemistry-vs-skill",
-      "title": "Rocket League Team Chemistry vs Mechanical Skill",
-      "excerpt": "Why coordinated Platinum teams consistently beat mechanically superior solo queue players in Rocket League, and what it means for your competitive success.",
+      "title": "Rocket League Team Chemistry vs Raw Mechanical Skill",
+      "excerpt": "Why coordinated Rocket League teams with average mechanics beat solo-queue stars, and how to find a 2v2 partner whose rotation, boost and comms habits match yours.",
       "tags": [
         "rocket-league",
         "team-chemistry",
@@ -830,106 +386,21 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/rocket-league-chemistry-vs-skill/hero.webp",
       "featured_image_alt": "Rocket League team executing perfect rotation sequence",
-      "reading_time": 13,
+      "reading_time": 9,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
         "rocket league teamwork",
         "rocket league rotation sync",
         "team chemistry vs skill",
-        "rocket league coordination",
-        "rocket league trust"
-      ]
-    },
-    {
-      "id": "rocket-league-doubles-partner",
-      "title": "Rocket League Doubles: Finding Your Perfect 2s Partner",
-      "excerpt": "Discover the key factors that make or break Rocket League doubles partnerships, from rotation synergy to boost management compatibility.",
-      "tags": [
-        "rocket-league",
-        "doubles",
-        "2v2",
-        "teamwork",
-        "competitive",
-        "rotation",
-        "boost-management"
-      ],
-      "category": "matchmaking",
-      "slug": "rocket-league-doubles-partner",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/rocket-league-doubles-partner/hero.webp",
-      "featured_image_alt": "Two Rocket League cars rotating perfectly in 2v2 match",
-      "reading_time": 14,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "rocket league 2v2 partner",
-        "rocket league doubles teamwork",
-        "rocket league rotation synergy",
-        "rocket league boost management",
-        "rocket league competitive doubles"
-      ]
-    },
-    {
-      "id": "skill-vs-personality-matchmaking",
-      "title": "Skill-Based vs Personality-Based Matchmaking",
-      "excerpt": "Data reveals the surprising truth about gaming matchmaking: skill matching alone creates 40% satisfaction rates while personality-based systems achieve 78%. Here's why.",
-      "tags": [
-        "matchmaking",
-        "skill-based-matchmaking",
-        "personality-matching",
-        "gaming-algorithms",
-        "player-satisfaction",
-        "team-chemistry"
-      ],
-      "category": "matchmaking",
-      "slug": "skill-vs-personality-matchmaking",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/skill-vs-personality-matchmaking/hero.webp",
-      "featured_image_alt": "Comparison chart of matchmaking approaches",
-      "reading_time": 12,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "skill-based matchmaking",
-        "personality matchmaking",
-        "gaming matchmaking algorithms",
-        "player satisfaction",
-        "team compatibility"
-      ]
-    },
-    {
-      "id": "small-gaming-groups-vs-clans",
-      "title": "Why Small Gaming Groups Outperform Large Clans",
-      "excerpt": "Discover why intimate gaming groups of 8-15 players consistently outperform 100+ member clans in coordination, loyalty, and long-term success. The science behind optimal team size.",
-      "tags": [
-        "gaming-groups",
-        "team-size",
-        "clans",
-        "community-building",
-        "dunbar-number",
-        "team-coordination"
-      ],
-      "category": "gaming-communities",
-      "slug": "small-gaming-groups-vs-clans",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/small-gaming-groups-vs-clans/hero.webp",
-      "featured_image_alt": "Small tight-knit gaming group playing together",
-      "reading_time": 9,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "gaming group size",
-        "small vs large clans",
-        "dunbar number gaming",
-        "optimal team size",
-        "gaming community size"
+        "rocket league doubles partner",
+        "rocket league 2v2 compatibility"
       ]
     },
     {
       "id": "toxic-teammates-hidden-cost",
-      "title": "The Hidden Cost of Toxic Gaming Teammates: Guide",
-      "excerpt": "Toxic teammates cost more than just rank points. Discover the mental health, performance, and opportunity costs of playing with negative players.",
+      "title": "Toxic Gaming Teammates: The Hidden Cost to Your Rank",
+      "excerpt": "Toxic teammates cost more than rank points. The real price of gaming toxicity: degraded performance, stalled improvement, wasted prime hours, and friendships that never form.",
       "tags": [
         "toxic-teammates",
         "gaming-mental-health",
@@ -942,7 +413,7 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/toxic-teammates-hidden-cost/hero.webp",
       "featured_image_alt": "Stressed gamer dealing with toxic team environment",
-      "reading_time": 13,
+      "reading_time": 8,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
@@ -954,38 +425,9 @@
       ]
     },
     {
-      "id": "valorant-communication-guide",
-      "title": "Valorant Communication Guide for Better Team Coordination",
-      "excerpt": "Master tactical communication in Valorant with this comprehensive guide covering callouts, IGL basics, avoiding toxicity, and clear comms protocols for competitive success.",
-      "tags": [
-        "valorant",
-        "communication",
-        "callouts",
-        "IGL",
-        "team-coordination",
-        "competitive",
-        "ranked"
-      ],
-      "category": "gaming-communities",
-      "slug": "valorant-communication-guide",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/valorant-communication-guide/hero.webp",
-      "featured_image_alt": "Valorant players communicating clearly during intense competitive match",
-      "reading_time": 11,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "valorant callouts",
-        "valorant IGL guide",
-        "valorant team communication",
-        "valorant comms",
-        "valorant coordination"
-      ]
-    },
-    {
       "id": "valorant-solo-to-team",
       "title": "From Solo Queue to 5-Stack: Valorant Team Progression",
-      "excerpt": "Master the journey from solo queue chaos to coordinated 5-stack success. Learn proven strategies for finding consistent teammates, building chemistry, and developing winning team dynamics in Valorant.",
+      "excerpt": "The full path from Valorant solo queue to a coordinated 5-stack: finding a duo, expanding to trio and full roster, role balance, callouts, IGL structure, and the chemistry work that keeps a team alive.",
       "tags": [
         "valorant",
         "team-building",
@@ -1012,39 +454,9 @@
       ]
     },
     {
-      "id": "valorant-team-composition-guide",
-      "title": "Building the Perfect Valorant Squad: Team Composition",
-      "excerpt": "Master Valorant team composition with our comprehensive guide covering agent roles, map-specific strategies, communication tactics, and chemistry-building techniques for competitive success.",
-      "tags": [
-        "valorant",
-        "team-composition",
-        "competitive",
-        "fps",
-        "esports",
-        "agent-synergies",
-        "team-building",
-        "strategy"
-      ],
-      "category": "matchmaking",
-      "slug": "valorant-team-composition-guide",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/valorant-team-composition-guide/hero.webp",
-      "featured_image_alt": "Valorant team strategizing agent composition before competitive match",
-      "reading_time": 28,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "valorant team composition",
-        "valorant agent roles",
-        "valorant team building",
-        "valorant competitive strategy",
-        "valorant squad building"
-      ]
-    },
-    {
       "id": "where-to-find-gaming-teams",
       "title": "Discord vs Reddit vs Forums: Where to Find Gaming Teams",
-      "excerpt": "Discover which platform delivers the best results for finding compatible gaming teammates. Compare Discord, Reddit, and forums with real success rates and actionable strategies.",
+      "excerpt": "Where to find gaming teams, fast: how to run LFG on Discord, Reddit, and forums, what cross-play changes, and which route fits your goal tonight.",
       "tags": [
         "discord",
         "reddit",
@@ -1059,42 +471,15 @@
       "date_published": "2025-10-28T10:00:00Z",
       "featured_image": "/assets/images/blog/featured/where-to-find-gaming-teams/hero.webp",
       "featured_image_alt": "Gamers comparing different platforms on multiple screens",
-      "reading_time": 11,
+      "reading_time": 10,
       "locale": "en",
       "author": "jynx-team",
       "keywords": [
+        "where to find gaming teams",
+        "find gaming teammates",
         "discord lfg",
         "reddit gaming teams",
-        "gaming forums",
-        "where to find teammates",
-        "lfg platforms"
-      ]
-    },
-    {
-      "id": "wrong-gaming-squad-signs",
-      "title": "5 Signs You're Playing with the Wrong Gaming Squad",
-      "excerpt": "Recognize the red flags that indicate your gaming squad is holding you back, from communication breakdowns to misaligned goals and toxic behaviors.",
-      "tags": [
-        "gaming-squad",
-        "team-compatibility",
-        "red-flags",
-        "gaming-relationships",
-        "team-chemistry"
-      ],
-      "category": "social-gaming",
-      "slug": "wrong-gaming-squad-signs",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/wrong-gaming-squad-signs/hero.webp",
-      "featured_image_alt": "Frustrated gamer experiencing team communication issues",
-      "reading_time": 11,
-      "locale": "en",
-      "author": "jynx-team",
-      "keywords": [
-        "wrong gaming squad",
-        "bad teammates signs",
-        "gaming team red flags",
-        "toxic gaming squad",
-        "when to leave gaming team"
+        "gaming forums recruitment"
       ]
     },
     {
@@ -17781,5 +17166,5 @@
       "short_name": "Zula"
     }
   ],
-  "generated_at": "content-c90b89107b57"
+  "generated_at": "content-8f1bf29222ec"
 }

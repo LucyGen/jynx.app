@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jynx.app/es/blog.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog.html" />
@@ -32,24 +32,6 @@
       <image:loc>https://jynx.app/assets/images/blog/featured/ai-gaming-matchmaking-guide/hero.webp</image:loc>
       <image:caption>Interfaz de emparejamiento de juegos impulsada por IA mostrando puntuaciones de compatibilidad de jugadores</image:caption>
       <image:title>La Guía Completa del Emparejamiento de Juegos Impulsado por IA</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/es/blog/guia-escuadron-zombies-black-ops-7.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/black-ops-7-zombie-team-guide.html" />
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-escuadron-zombies-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-esquadrao-zumbis-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/gaid-po-sozdaniyu-komandy-zombi-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/black-ops-7-zombi-takimi-rehberi.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp</image:loc>
-      <image:caption>Escuadrón de Black Ops 7 Zombies luchando en el mapa Ashes of the Damned</image:caption>
-      <image:title>Escuadrón Perfecto para Black Ops 7 Zombies: Guía Completa</image:title>
     </image:image>
   </url>
   <url>

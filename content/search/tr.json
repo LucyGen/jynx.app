@@ -1,61 +1,7 @@
 {
   "locale": "tr",
-  "post_count": 4,
+  "post_count": 2,
   "posts": [
-    {
-      "id": "ai-coaches-competitive-gaming",
-      "title": "Rekabetçi Oyunculukta Yapay Zeka Koçların Yükselişi",
-      "excerpt": "Performans analiz araçları ve strateji optimizasyon sistemleri, rekabetçi oyuncuların nasıl antrenman yaptığını ve becerilerini nasıl geliştirdiğini dönüştürüyor.",
-      "tags": [
-        "competitive-gaming",
-        "gaming-performance",
-        "esports-training",
-        "gaming-analytics",
-        "skill-improvement"
-      ],
-      "category": "matchmaking",
-      "slug": "ai-coaches-competitive-gaming",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp",
-      "featured_image_alt": "Performans istatistiklerini ve oyun metriklerini analiz eden profesyonel oyuncu",
-      "reading_time": 15,
-      "locale": "tr",
-      "author": "jynx-team",
-      "keywords": [
-        "oyun performans analizi",
-        "espor antrenman araçları",
-        "rekabetçi oyun gelişimi",
-        "oyun analitiği",
-        "performans optimizasyonu oyun"
-      ]
-    },
-    {
-      "id": "black-ops-7-zombi-takimi-rehberi",
-      "title": "Black Ops 7 Zombies Mükemmel Takım Rehberi",
-      "excerpt": "Ashes of the Damned, COD'un en büyük zombi haritası. Yüksek roundlarda hayatta kalmak, toksik takım arkadaşlarından kaçınmak ve Black Ops 7'nin Dark Aether'ında hâkimiyet kurmak için mükemmel 4 kişilik takım oluşturun.",
-      "tags": [
-        "call-of-duty",
-        "black-ops-7",
-        "zombies",
-        "team-building",
-        "multiplayer"
-      ],
-      "category": "gaming-communities",
-      "slug": "black-ops-7-zombi-takimi-rehberi",
-      "date_published": "2025-10-28T10:00:00Z",
-      "featured_image": "/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp",
-      "featured_image_alt": "Black Ops 7 Zombies takımı Ashes of the Damned haritasında savaşıyor",
-      "reading_time": 9,
-      "locale": "tr",
-      "author": "jynx-team",
-      "keywords": [
-        "black ops 7 zombies",
-        "zombies takım arkadaşları",
-        "yüksek round zombies",
-        "ashes of the damned",
-        "cod zombies takım"
-      ]
-    },
     {
       "id": "halo-campaign-evolved-koop-rehberi-2026",
       "title": "Halo: Campaign Evolved Co-op: 2026 İçin Mükemmel Takımını Bul",
@@ -113,5 +59,5 @@
       ]
     }
   ],
-  "generated_at": "content-8abb8e92f799"
+  "generated_at": "content-fcb5c7153d2d"
 }

@@ -95,20 +95,20 @@ Duo finders et guides LFG pour vos jeux — trouvez votre équipe plus vite.
 - [Brawl StarsTrouvez des joueurs Brawl Stars pour un trio, puis rejoignez un club Brawl Stars actif : mêmes modes, niveau et horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/brawl-stars/)
 - [Counter-Strike 2Trouvez des joueurs CS2 et constituez un 5 stack pour le Premier ou le compétitif : niveau réel, rôles complémentaires et horaires compatibles sur Jynx.](/fr/trouver-des-joueurs/cs2/)
 - [FortniteTrouvez un duo Fortnite, un trio ou une squad : Zero Build, scrims, plateforme et horaires compatibles, avec messagerie pour vous organiser sur Jynx.](/fr/trouver-des-joueurs/fortnite/)
-- [Free FireTrouvez des joueurs Free Fire pour jouer en duo ou en escouade : même mode, même saison et mêmes horaires. Recrutez des coéquipiers compatibles avec Jynx.](/fr/trouver-des-joueurs/free-fire/)
+- [Free FireTrouvez des joueurs Free Fire pour jouer en duo ou en escouade : même mode classé, mêmes créneaux en soirée et même saison. Recrutez vos coéquipiers sur Jynx.](/fr/trouver-des-joueurs/free-fire/)
 - [GTA OnlineTrouvez des joueurs GTA Online pour vos braquages et un crew GTA Online actif : plateforme, horaires et attentes comparés avant la finale, sur Jynx.](/fr/trouver-des-joueurs/gta-online/)
-- [Honor of KingsTrouvez des joueurs Honor of Kings pour jouer en duo ou en équipe de cinq : rôles complémentaires, même niveau et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/honor-of-kings/)
+- [Honor of KingsTrouvez des joueurs Honor of Kings pour jouer en duo ou en équipe de cinq : postes complémentaires, niveau proche et horaires communs, sur Jynx.](/fr/trouver-des-joueurs/honor-of-kings/)
 - [League of LegendsTrouvez un duo LoL ou des joueurs League of Legends pour la Solo/Duo et la Flex : rang compatible, rôles complémentaires, filtres de rang et rôle sur Jynx.](/fr/trouver-des-joueurs/lol/)
-- [Marvel RivalsTrouvez des joueurs Marvel Rivals de votre rang pour jouer en duo ou en équipe. Compatibilité des rôles et des héros pour exploiter les Team-Up sur Jynx.](/fr/trouver-des-joueurs/marvel-rivals/)
-- [MinecraftTrouvez des joueurs Minecraft pour une survie entre amis, un serveur ou un Realm. Même édition, mêmes horaires, même style de jeu : rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/minecraft/)
-- [Mobile LegendsTrouvez des joueurs Mobile Legends pour monter en classé : escouade de cinq, duo, rôles complémentaires et mêmes horaires. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/mobile-legends/)
+- [Marvel RivalsTrouvez des joueurs Marvel Rivals de votre rang pour jouer en duo ou en équipe : héros complémentaires pour les Team-Up, même saison et mêmes horaires, sur Jynx.](/fr/trouver-des-joueurs/marvel-rivals/)
+- [MinecraftTrouvez des joueurs Minecraft pour une survie entre amis, un serveur ou un Realm. Même édition, même rythme de jeu, mêmes horaires : rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/minecraft/)
+- [Mobile LegendsTrouvez des joueurs Mobile Legends pour monter en classé : escouade de cinq, duo complémentaire, postes couverts et créneaux communs. Rencontrez-les sur Jynx.](/fr/trouver-des-joueurs/mobile-legends/)
 - [Overwatch 2Trouvez un duo Overwatch 2 ou des joueurs selon votre rôle : Tank, Dégâts, Soutien. Filtre de rang par rôle et groupes compatibles en compétitive sur Jynx.](/fr/trouver-des-joueurs/overwatch-2/)
 - [Rainbow Six SiegeTrouvez des joueurs Rainbow Six Siege pour monter un stack ou jouer en ranked : plateforme, niveau, opérateurs et horaires compatibles sur Jynx.](/fr/trouver-des-joueurs/r6/)
 - [RobloxTrouvez des joueurs Roblox pour explorer une expérience ensemble : mêmes jeux, même âge, mêmes horaires. Rencontrez des partenaires compatibles sur Jynx.](/fr/trouver-des-joueurs/roblox/)
 - [Rocket LeagueTrouvez des joueurs Rocket League pour un duo ou un trio : rang proche, rôles complémentaires et horaires compatibles, avec messagerie directe sur Jynx.](/fr/trouver-des-joueurs/rocket-league/)
 - [ValorantTrouvez un duo Valorant, un 5 stack ou une team de votre rang : écarts de rang respectés, rôles complémentaires, filtres de langue et de région sur Jynx.](/fr/trouver-des-joueurs/valorant/)
 - [Call of Duty: WarzoneTrouvez un trio Warzone, un duo ou un quad : plateforme, style de jeu et horaires compatibles, rôles répartis avant le drop, puis messagerie sur Jynx.](/fr/trouver-des-joueurs/warzone/)
-- [Wild RiftTrouvez des joueurs Wild Rift pour grimper en duo ou en équipe : voie du Baron, du Dragon, mid, jungle et support. Rang lié à votre compte Riot sur Jynx.](/fr/trouver-des-joueurs/wild-rift/)
+- [Wild RiftTrouvez des joueurs Wild Rift pour grimper en duo ou en équipe : poste principal et poste de secours, rang actuel et horaires communs, avec un compte Riot. Sur Jynx.](/fr/trouver-des-joueurs/wild-rift/)
 - [World of WarcraftTrouvez des joueurs WoW pour un raid, du Mythique+ ou une guilde : classe, rôle, horaires et critères de recrutement de guilde WoW avant de postuler.](/fr/trouver-des-joueurs/wow/)
 
 ### Du Glossaire Gaming
@@ -163,3 +163,15 @@ Propulsé par la communauté
 Merci pour votre retour !
 
 Pas de spam. Nous vous contacterons uniquement pour des actualités Jynx importantes.
+
+## Trouver des joueurs autrement
+
+Guides et comparatifs pour **trouver des coéquipiers** : selon votre jeu, votre niveau ou votre façon de jouer.
+
+- [Team esport : trouver une équipe ou former la sienne](/fr/team-esport/) Team esport amateur : trouver une équipe qui recrute, former la sienne et savoir ce que les teams attendent d'un candidat. Guide de novembre 2026.
+- [Tinder des gamers : swiper pour trouver des coéquipiers](/fr/tinder-des-gamers/) Un Tinder des gamers pour trouver des coéquipiers, pas un partenaire amoureux : swipe, match, salon vocal et sessions de jeu, tout dans une seule app.
+- [Les meilleures alternatives à Discord pour trouver des joueurs](/fr/comparatif/alternatives-discord/) Discord ne suffit pas pour trouver des coéquipiers ? Découvrez 5 alternatives pour chercher des joueurs : applis dédiées, sites de recrutement et bots LFG.
+- [Jynx ou Discord LFG : que choisir pour trouver des joueurs ?](/fr/comparatif/discord-lfg/) Discord LFG ou application dédiée pour trouver des coéquipiers ? Comparez la recherche, le niveau affiché et l'organisation des parties avec Jynx.
+- [Les meilleures applis pour rencontrer des gamers et trouver des coéquipiers](/fr/comparatif/meilleures-applis-rencontrer-gamers/) Quelle appli choisir pour rencontrer des gamers et trouver des coéquipiers ? Comparatif de 5 solutions, de Discord à Jynx, selon votre besoin et votre niveau.
+
+[Comparer toutes les solutions pour trouver des joueurs](/fr/comparatif/)

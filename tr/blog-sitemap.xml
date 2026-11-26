@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jynx.app/tr/blog.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
       <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog.html" />
@@ -15,41 +15,6 @@
       <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog.html" />
       <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog.html" />
       <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog.html" />
-  </url>
-  <url>
-    <loc>https://jynx.app/tr/blog/ai-coaches-competitive-gaming.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/ki-coaches-competitive-gaming.html" />
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/ai-coaches-competitive-gaming.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/ai-coaches-competitive-gaming.html" />
-      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/ai-trenary-kiberport.html" />
-      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/ai-coaches-competitive-gaming.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/ai-coaches-competitive-gaming.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/ai-coaches-competitive-gaming/hero.webp</image:loc>
-      <image:caption>Performans istatistiklerini ve oyun metriklerini analiz eden profesyonel oyuncu</image:caption>
-      <image:title>Rekabetçi Oyunculukta Yapay Zeka Koçların Yükselişi</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jynx.app/tr/blog/black-ops-7-zombi-takimi-rehberi.html</loc>
-    <lastmod>2025-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-      <xhtml:link rel="alternate" hreflang="de" href="https://jynx.app/de/blog/black-ops-7-zombie-team-guide.html" />
-      <xhtml:link rel="alternate" hreflang="en" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-      <xhtml:link rel="alternate" hreflang="es" href="https://jynx.app/es/blog/guia-escuadron-zombies-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="pt-BR" href="https://jynx.app/pt/blog/guia-esquadrao-zumbis-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="ru" href="https://jynx.app/ru/blog/gaid-po-sozdaniyu-komandy-zombi-black-ops-7.html" />
-      <xhtml:link rel="alternate" hreflang="tr" href="https://jynx.app/tr/blog/black-ops-7-zombi-takimi-rehberi.html" />
-      <xhtml:link rel="alternate" hreflang="x-default" href="https://jynx.app/blog/black-ops-7-zombies-squad-guide.html" />
-    <image:image>
-      <image:loc>https://jynx.app/assets/images/blog/featured/black-ops-7-zombies-squad-guide/hero.webp</image:loc>
-      <image:caption>Black Ops 7 Zombies takımı Ashes of the Damned haritasında savaşıyor</image:caption>
-      <image:title>Black Ops 7 Zombies Mükemmel Takım Rehberi</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://jynx.app/tr/blog/halo-campaign-evolved-koop-rehberi-2026.html</loc>

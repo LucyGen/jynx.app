@@ -1,7 +1,7 @@
 # ============================================================================
 # JYNX GAMING PLATFORM - ROBOTS.TXT
 # ============================================================================
-# Last Updated: 2026-11-18 (16-locale indexation program, D38 — comment refresh only, no directive change)
+# Last Updated: 2026-11-26 (comment refresh only, no directive change — graduated-locale list now follows market-config.js)
 # 2026-10-11 (G4.4.6: Disallow: /ab/ experiment-variant family
 #   added to the wildcard group + every engine group that carries the
 #   protected-directories trio — pinned in scripts/validate-robots.js per the
@@ -11,9 +11,10 @@
 #   docs/guides/robots-txt-strategy.md §Strategic Decisions 5)
 # Site: https://jynx.app
 # Languages: 16 (en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi)
-# Total Pages: 230+ (6 main pages + 119 blog posts × 16 languages)
+# Pages: page and post counts live in the repo (CLAUDE.md stats block) — never restated here
 # Sitemaps: per-locale shards ({lang}/sitemap.xml + {lang}/blog-sitemap.xml) via sitemap-index.xml —
-#   live today for en/fr/pt; one more locale pair returns per graduation (trains T2–T5, through 2026-12-19)
+#   generated for the graduated locales (PRIORITY_LANGUAGES in scripts/market-config.js; en, fr, pt, es, de, ru, tr today);
+#   the remaining locales join at their train (16-locale indexation program, D38 — through 2026-12-19)
 # Policy: Open platform - Allow search engines and AI crawlers
 # Strategy: Gaming platforms benefit from AI recommendations and maximum discoverability
 # Contact: support@jynx.app
@@ -78,8 +79,8 @@ Allow: /llms-full.txt
 # ============================================================================
 # Master sitemap index (single entry point — references the per-locale sitemap shards)
 # This is the primary entry point - it includes:
-#   - Graduated locales: {lang}/sitemap.xml + {lang}/blog-sitemap.xml per locale (en, fr, pt today)
-#   - One more locale pair joins as each of the 13 remaining locales graduates
+#   - Graduated locales: {lang}/sitemap.xml + {lang}/blog-sitemap.xml per locale (PRIORITY_LANGUAGES in scripts/market-config.js)
+#   - The remaining locales join at their train
 #     (16-locale indexation program, D38 — trains T2–T5, through 2026-12-19)
 #   - 16 languages total: en, fr, es, pt, de, it, ru, ar, hi, id, pl, uk, ko, tr, bn, vi
 Sitemap: https://jynx.app/sitemap-index.xml
