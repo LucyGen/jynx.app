@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "gitSha": "e254abf422e4347958bbe2f1ee8b61698411fec4",
+  "gitSha": "84edf216df714493f9f55e765cfc9869692dfe02",
   "generatedFrom": [
     {
       "source": "games",
@@ -87,5 +87,5 @@
     "js": 23,
     "css": 24
   },
-  "distBytes": 131065843
+  "distBytes": 131108659
 }
