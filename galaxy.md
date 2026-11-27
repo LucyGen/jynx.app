@@ -1112,7 +1112,7 @@ Yes — Jynx is free on the web, on Android, and on iOS. You can browse the whol
 
 ### Which games get a dedicated duo finder?
 
-The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, Marvel Rivals, and Rainbow Six Siege — with per-game filters built from each game's ranked ladder and role list. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
+The flagship titles have dedicated duo finder pages — Counter-Strike 2, Fortnite, GTA Online, Marvel Rivals, and Rainbow Six Siege — and each page names only the filters that game offers in the app. Every other listing links to its catalog entry, and new per-game pages ship as each game's page family grows.
 
 ### Where does the game information come from?
 
